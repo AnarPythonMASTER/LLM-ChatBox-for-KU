@@ -1,0 +1,249 @@
+Team of the institute
+This team will take over teaching and research at the Mathematical Institute for Machine Learning and Data Science:
+
+Prof. Dr. Pirmin Fontaine
+Professor for Logistics and Operations Analytics
+[Translate to Englisch:] Pirmin Fontaine
+In our research group, the main focus lies in developing efficient solution methods for problem settings in mobility, supply chain management, production, and logistics. The starting point is always real-life applications, formulated as mathematical optimization problems- Then, tailored solution methods are chosen and newly developed. Here, the focus lies on efficient reformulations, decomposition methods (e.g., Benders decomposition and branch-and-repair), and metaheuristics.
+Current projects cover, for example: Increasing the resiliency in supply chains using machine learning, Improving on-demand bus systems, or planning urban logistics systems.
+
+More information and further projects can be found here.
+
+Team of Prof. Fontaine
+Simon Mader
+Simon Mader M. Sc.
+Ph.D. student
+
+simon.mader@ku.de
+Room: NB-221
+Alexander Rave
+Dr. Alexander Rave
+PostDoc
++49 841 937-21833
+ARave@ku.de
+Ayşe Nur Bakla
+Ayşe Nur Bakla M. Sc.
+Ph.D. student
+Room: NB-219
+Merve Ibis
+Merve Ibis M. Sc.
+Ph.D. student
+
+Merve.Ibis@ku.de
+Room: NB-219
+Philipp Parche
+Philipp Parche M. Sc.
+Ph.D. student
+
+philipp.parche@baw.de
+Dennis John
+Dennis John M. Sc.
+Ph.D. student
+
+dennis.john@ku.de
+Room: NB-223
+Büşra Nur Dağ
+Büşra Nur Dağ M. Sc.
+Ph.D. student
+
+buesra.dag@ku.de
+Room: NB-219
+Stefan Voigt
+Dr. Stefan Voigt
+Senior Researcher
++49 841 937-21971
+stefan.voigt@ku.de
+Birgit Jürgens
+Birgit Jürgens
+Secretary
++49 841 937-21823
+birgit.juergens@ku.de
+Prof. Dr. Tijana Janjic
+Professor for data assimilation
+Janjic
+Funded by the Heisenberg-Programm of the DFG. 
+
+In order to be able to predict severe weather events or the melting of ice in the Arctic, information in the form of heterogeneous data must be linked with numerical models of dynamic systems. This is done through data assimilation, which makes it possible to better investigate processes and predict their further development.  In the field of data assimilation, the professorship is concerned with the further development of data science algorithms by incorporating physical conservation laws, and solving correspondingly large optimisation problems in the environmental sciences. Quantifying the uncertainties of predictions, numerical models and observations also plays a central role here.
+
+You´ll find more informations here.
+
+Team of Prof. Janjic
+Tatsiana Bardachova
+Tatsiana Bardachova
+Research Associate
++49 841 937-21158
+tatsiana.bardachova@ku.de
+Catherine George
+Catherine George
+Research Associate
+0841 937-21065
+catherine.george@ku.de
+Caroline Seibert
+Caroline Seibert
+Secretary
++49 841 937-21452
+caroline.seibert@ku.de
+Room: GEOG-103
+Prof. Dr. Marcel Oliver
+Chair of Applied Mathematics
+Oliver
+Endowed Chair of the City of Ingolstadt
+
+Member of the Board of the Collaborative Research Center TRR 181 "Energy Transfers in Atmosphere and Ocean"
+
+Prof. Oliver works on modeling and simulation of complex multi-scale systems, in particular in climate science, but also in the bio and material sciences.  In such systems, the range of relevant scales is so vast that we cannot expect that the exponentially growing capacity of modern supercomputers alone will suffice to make scientific progress. We also need to improve our algorithms, develop parametrizations - simplified models for small scale processes - and learn from data and observations.  The research of the group includes structure preserving and energy consistent algorithms, mathematical approaches for model reduction, and dynamic, stochastic, and/or data driven models to represent processes at scales below the computational grid.
+
+You´ll find more informations HERE.
+
+Team of Prof. Oliver
+Janin Jäger
+Dr. Janin Jäger
+Research Associate
++49 841 937-21672
+janin.jaeger@ku.de
+Mansi Singh
+Dr. Mansi Singh
+Research Associate
++49 841 937-21836
+mansi.singh@ku.de
+Ojesh Koul
+Dr. Ojesh Koul
+Research Associate
++49 841 937-21636
+ojesh.koul@ku.de
+Hao Liang
+Hao Liang
+Research Associate
++49 841 937-21635
+hao.liang@ku.de
+Fabian Stallbauer
+Research Associate
+
+fabian.stallbauer@ku.de
+Katharina Püchner
+Secretary
++49 841 937 23258
+katharina.puechner@ku.de
+Prof. Dr. Götz Pfander
+Chair of Mathematics - Scientific Computing
+Pfander
+Speaker of the Institute
+
+Co-editor of "Sampling Theory, Signal Processing, and Data Analysis" at "Springer-Verlag"
+
+Research interests include compressive sensing, sampling theory for signals and operators, applied harmonic analysis, and information theory. A recurring theme in the work of the chair is the measurement, analysis and representation of continuous signals by finite sequences.
+
+You´ll find more informations here.
+
+Team of Prof. Pfander
+Andrei Caragea
+Dr. Andrei Caragea
+Research Associate
++49 8421 93-21534
+andrei.caragea@ku.de
+Felix Bartel
+Dr. Felix Bartel
+Research Associate
+
+Felix.Bartel@ku.de
+Ya-Chun Tsai
+Ya-Chun Tsai
+Secretary
++49 841 937-21790
+ya-chun.tsai@ku.de
+Prof. Dr. Nadja Ray
+Chair of Geomatics and Geomathematics
+Nadja Ray
+Endowed professorship of the city of Ingolstadt
+
+The focus of the professorship is geomatics, geomathematics or a related mathematical field related to the geosciences. This includes expertise in inverse problems, modeling in the geosciences, geomonitoring based on mathematical-statistical methods, and the analysis and visualization of spatial data and their integration into geographic information systems. The latter is the basis for long-term planning in transport, infrastructure and natural hazard prevention.
+
+Find more informations HERE.
+
+Team of Prof. Ray
+Sarah Eberle-Blick
+Dr. Sarah Eberle-Blick
+Research Associate
+
+sarah.eberle-blick@ku.de
+Chang Peng
+Chang Peng
+Research Associate
+
+chang.peng@ku.de
+Room: GEOG-110
+Antje Riess
+Antje Riess
+Secretary
++49 841 937-21932
+antje.riess@ku.de
+Prof. Dr. Thomas Setzer
+Chair of Business Administration and Business Informatics
+Prof. Setzer
+Head of the Analytics Working Group of the Society for Operations Research (Gesellschaft für Operations Research)
+Program Speaker: Digital and Data-Driven Business (B.Sc.)
+
+In our research we focus on business analytics and designing modern information systems and analytical processes for data-based planning and optimization procedures as well as digital business models and systems. One major focus is on models and methods to analyze, intelligently reduce, transform and utilize complex data sets in decision support systems. The generation of dense and useful features from heterogeneous data sets and the simplification of operational problems by integrating geometric projection and mathematical optimization play an essential role here. The statistical correction of structural biases in decisions and predictions as well as the combination of heterogeneous data, opinions and forecasts are further key areas of our research.
+
+You´ll find more informations HERE
+
+The Team of Prof. Setzer
+Veronika Wachslander,
+Veronika Wachslander, M. Sc., M. Ed.
+Research Associate
+0841/937-21998
+veronika.wachslander@ku.de
+Room: HB-306
+André Konersmann,
+André Konersmann, M. Sc.
+Research Associate
++49 841 937-21920
+andre.konersmann@ku.de
+Room: HB-306
+Waltraud Fischermeier
+Waltraud Fischermeier
+Secretary
++49 841 937-21871
+waltraud.fischermeier@ku.de
+Room: HB-304
+Prof. Dr. Dominik Stöger
+Junior professorship for mathematics - Data Science
+Stöger
+Supported by  Tenure-Track Programm of BMBF. 
+
+Prof. Stöger's research interests lie in the development and analysis of mathematical methods in machine learning and signal processing. A particular area of focus for his research is the analysis of overparameterized models in machine learning and algorithms for Compressed Sensing and Low-Rank Matrix Recovery. It combines tools from a broad range of mathematical disciplines ranging from high-dimensional probability theory to optimization. He has been collaborating with scientists from different application areas such as wireless communications and image recognition.
+
+You can find more informations here and here.
+
+Team of Prof. Stöger
+Ya-Chun Tsai
+Ya-Chun Tsai
+Secretary
++49 841 937-21790
+ya-chun.tsai@ku.de
+Prof. Dr. Felix Voigtlaender
+Chair of Reliable Machine Learning
+Voigtlaender
+Funded by the Hightech Agenda Bavaria as part of the consortium "Resource Aware Artificial Intelligence for Future Technologies" of the KU Eichstätt-Ingolstadt, the FAU Erlangen-Nürnberg, the TU Munich and the University of Bayreuth. 
+
+Supported by the DFG funded Emmy Noether project "Stability and Solvability in Deep Learning".
+
+The research group "Reliable Machine Learning" mathematically studies the properties of machine learning algorithms. Particular attention is paid to the question of stability or robustness of neural networks. Although trained neural networks often perform extremely well on real data, empirical studies have shown time and again that they are vulnerable to so-called "adversarial examples": A minimal perturbation of the input, invisible to a human, can cause the network to produce an incorrect output. The research group "Reliable Machine Learning" mathematically studies the underlying mechanisms leading to the existence of such adversarial examples, with the aim of developing novel training methods that produce provably robust neural networks. More information on research and teaching of the group can be found here and here.
+
+Team of Prof. Voigtlaender
+Hannes Matt
+Dr. Hannes Matt
+Research Associate
++49 841 937-21559
+hannes.matt@ku.de
+Junyu Zhou
+Junyu Zhou
+Research Associate
+
+junyu.zhou@ku.de
+Caroline Seibert
+Caroline Seibert
+Secretary
++49 841 937-21452
+caroline.seibert@ku.de
+Room: GEOG-103

@@ -1,0 +1,896 @@
+Bachelor Data Science
+The information page for B.Sc. Data Science students at the KU
+The program | Consulting | Testimonials | Materials | Internship | Professors | Contact persons | News | Student organizations | MIDS
+
+
+Check out our Consultation Hours!
+
+To the information for prospective students
+To the page of the Master Data Science
+Data Science Students + Spike
+The study program
+The new Data Science program teaches the fundamentals of machine learning and other current methods for data analysis, as well as the ability to efficiently implement these methods using modern software technologies.
+
+The necessary knowledge from the fields of study mathematics, statistics, computer science and data science is taught.
+
+As the program progresses, you can select one of six specializations to specifically study the application area that fits your career goals.
+
+Possible specializations and their study plans
+Applied Mathematics and Scientific Computing
+"Applied Mathematics and Scientific Computing" provides students with a deeper insight into the mathematical foundations of Data Science. The focus of the specialization is on mathematical model building on the one hand, and on the other hand the transition from continuous to discrete and thus practically implementable models.
+
+In the summer semester 2026, the following courses, among others, will be offered (mainly in English). You can choose these as a module for this specialization. Our recommendations for the fourth semester are highlighted in bold in the list:
+
+Differential Equations I (5 ECTS)
+Data Assimilation (5 ECTS)
+For further (possibly German-language) modules that are approved for this specialization, please refer to themodule catalog of the specializations
+
+Example of a study plan for this specialization:
+
+Applied Math and Scientific Computing
+Business Analytics and Operations
+"Business Analytics and Operations" builds the bridge to economics. In addition to basic knowledge of business administration, e.g. accounting, the focus of this specialization is on data-driven of this specialization is on data-driven approaches to business, organizational and technical problems.
+
+In the summer semester 2026, the following courses, among others, will be offered (mainly in English). You can choose these as a module for this specialization. Our recommendations for the fourth semester are highlighted in bold in the list:
+
+Digital Project (10 ECTS)
+Digital Systems (5 ECTS)
+For further (possibly German-language) modules that are approved for this specialization, please refer to themodule catalog of the specializations
+
+Example of a study plan for this specialization:
+
+Business Analytics
+Digital Transformation of Society
+"Digital Transformation of Society" considers applications of Data Science in the social and human sciences. In addition to basic knowledge, students gain insights into the role of empirical methods, e.g. in sociology and journalism. Substantive knowledge of Data Science methods coupled with insights into the social sciences and humanities will enable students to critically engage with the ongoing digital transformation of society.
+
+In the summer semester 2026, the following courses, among others, will be offered (mainly in German). You can choose these as a module for this specialization. Our recommendations for the fourth semester are highlighted in bold in the list:
+
+Journalismus und Mediensysteme (5 ECTS)
+Empirische Kommunikationsforschung II (5 ECTS)
+For further modules that are approved for this specialization, please refer to themodule catalog of the specializations
+
+Digital Transformation of Society
+Environmental Sciences
+"Environmental Sciences" provides students with an insight into data-based environmental and earth sciences. A central aspect is the fitting of models for dynamic (time-varying) processes such as weather and climate to measured data, which are often only available inaccurately and incompletely.
+
+In the summer semester 2026, the following courses, among others, will be offered. You can choose these as a module for this specialization. Our recommendations for the fourth semester are highlighted in bold in the list:
+
+Geoinformatik (5 ECTS)
+Geomorphologie (5 ECTS)
+For further modules that are approved for this specialization, please refer to themodule catalog of the specializations
+
+Enviromental Sciences
+Finance and Economics
+„Finance and Economics“ sheds light on macroeconomic relationships, global markets, and financial instruments. These areas are heavily influenced by data-based methods. The specialization expands the students' methodological competence with knowledge of area-specific model building and subject systematics.
+
+In the summer semester 2026, the following courses, among others, will be offered (mainly in English). You can choose these as a module for this specialization. Our recommendations for the fourth semester are highlighted in bold in the list:
+
+Corporate Governance (5 ECTS)
+Behavioral Finance (5 ECTS)
+For further (possibly German-language) modules that are approved for this specialization, please refer to themodule catalog of the specializations
+
+Example of a study plan for this specialization:
+
+Finance and Economics
+Machine Learning and Statistics
+"Machine Learning and Statistics" allows students to deepen their understanding of statistical methods and introduces advanced and research aspects of statistical and machine learning techniques.
+
+In the summer semester 2026, the following courses, among others, will be offered (mainly in English). You can choose these as a module for this specialization. Our recommendations for the fourth semester are highlighted in bold in the list:
+
+Probability Theory (5 ECTS)
+Data Assimilation (5 ECTS)
+For further (possibly German-language) modules that are approved for this specialization, please refer to themodule catalog of the specializations
+
+Example of a study plan for this specialization:
+
+Machine Learning and Statistics
+Allgemeiner Studienverlaufsplan
+Taster lectures
+Consulting
+The B.Sc. Data Science course advisory service offers the following online consultation hours on the course content and structure:
+
+Dr. Sarah Eberle-Blick
+Open office hour: 
+Tuesday (May 19th) 10:00 am and 1:30 pm 
+Tuesday (June 16th) 10:00 am and 1:30 pm 
+
+
+https://kuei.zoom-x.de/j/66508682137?pwd=MQP1zyf3AZE7idslTxmVnQeLan7poa.1
+
+Meeting-ID: 665 0868 2137
+Kenncode: 064149
+
+Office hours
+Student advisory service
+
+The KU International Office is available to answer many general questions. Here you will find competent advice on topics such as housing, health insurance, visas, finances, scholarships, career advice, etc.
+
+On-site consultation
+
+Monday 09:30 - 11:30 am room HB-209 
+Thursdays 1:30 - 3:30 pm room HB-209 
+Ms. Armelle Langenwald
+
+ Online
+
+Open office hour: 
+Tuesdays 12.30pm (UTC+01)
+
+https://kuei.zoom-x.de/j/68237518611?pwd=Qf0gWdiaxR85GaQmZS85yPdNWHixi7.1 
+
+(Meeting-ID: 682 3751 8611, Code:397650)
+
+ 
+
+ 
+
+Frequently Asked Questions from prospective students and applicants
+About the Data Science Program
+Is the Data Science program located in Eichstätt or in Ingolstadt?
+The program is located in Ingolstadt, i.e. all courses for the Data Science major will be offered in Ingolstadt. Our home is the newly renovated Georgianum (and the Hohe Schule. Most data science courses take place there. Contrarily, the Math BSc program has most of its courses in Eichstätt, so if you want to take some pure maths course, you may have to go to Eichstätt.
+
+When should I arrive?
+You should try to arrive in the first half of October.  Lectures at the KU typically start in mid-October.
+
+What if I get my Visa a bit late?
+We are aware that international students sometimes have to wait months for a Visa. For this reason, we issue admissions as quickly as possible and grant a very late deadline for enrollment so that applicants have the best possible chance of obtaining a Visa. The enrollment deadline (according to the admission letter) is usually only a few days before the start of lectures. All required documents including Visa must be submitted by mail to the Student Office  by this deadline
+
+How much self-study is an average student who is studying in this course expected to do daily?
+Good question. Certainly, there will be a significant part of self-study. Exemplarily, in the course ‘Linear Algebra’ probably about 5hrs per week. The overall effort is comparable to other German universities. Studying Data Science at KU is a full time job.
+
+Should I revise any mathematics topics from home such as calculus or probability or will the faculties teach us all topics from scratch in a way that there is no need for any prerequisites?
+Our courses are all self-contained. Usually the toughest part for many is the formal math, such as ‘Linear Algebra’ and ‘Analysis’. However, a good level of prior knowledge is of course helpful for the beginning. For example, you can look up what a vector space is and learn a little about matrices. A preliminary course is also offered before the start of the semester, in which some mathematical basics are covered.
+
+Do people normally finish this degree course in the given time span of three years or does it take more time than that? 
+This is a new study program.  We expect people to finish in three years, the program is very streamlined towards that. 
+
+What is the schedule during a week?
+Via the link
+
+https://www.ku.de/en/mgf/studiengaenge/bachelor/data-science
+
+you will find the current schedules for the different semesters under ‘Documents’.
+
+Could you please provide me with access to the module handbook or guide me to the appropriate resource?
+You can find such a comprehensive course catalog for the respective semester on KU.Campus
+
+https://campus.ku.de/
+
+Go there in the navigation to 'Informationsportal --> Studiengänge'. Enter the degree program and the relevant semester in the search mask. In the list of results, the module handbook will appear in the upper right-hand corner for downloading as a pdf or Word file. However, it is written in German.
+
+Does the University provide free German lessons for its enrolled students?
+We will support at least going to the mandatory A2 level, as this level must be proven after one year. The university regularly offers free of charge German lessons at least up to this level. 
+
+Is it possible to study data science online or hybrid at the KU?
+The program is designed as an online in-person study. However, you will be provided with online teaching materials and for some courses even with video recordings. This means that you can also learn the course content on your own, although we highly recommend that you actively participate in the courses. However, examinations must always be taken in person.
+
+When do I have to choose one of the focus area offered? And is it possible to change it afterwards?
+You should decide on a specialization (so-called focus area) at the beginning of the third semester and choose your courses accordingly. However, a change of specialization is possible at any time.
+
+Is it possible to spend a semester abroad and when should I do it?
+We are happy to support you in spending a semester abroad. If you are interested, we recommend this in the fifth semester.
+
+About the KU Eichstätt-Ingolstadt
+Is this university a private university or a public university? Are the degrees provided here equally valid in other countries?
+The university is funded 85% by the state of Bavaria, all degree programs follow the same rules as at any other Bavarian university. It is considered a private university, but the degrees are the same as at another German university and are also equally valid in other countries. The Data Science degree program is internationally accredited.
+
+What will be the chronological order of things that will happen once I arrive in Munich? Kindly guide me for the same and tell me if there is any buddy program in the University.
+Well, first, take the train to Ingolstadt. We have a student union (Fachschaft) which will help you getting settled.  Please address this question to welcome@ku.de.  We offer a preliminary course before the regular lectures begin, where students can get to know each other.
+
+Does KU provide accommodation to its students and if yes then how can I apply for one?
+The International Office international(at)ku.de supports to finding an accommodation and offers a housing service, see
+
+https://www.ku.de/fileadmin/1907/Dokumente_Incoming/Download_Incoming/Housing_Guide_New.pdf
+
+However, we recommend that you look for accommodation as early as possible.
+
+Does the University have a swimming pool and a gym and are they free to use?
+We have a gym in Eichstätt, which won't be much use for people from Ingolstadt.  But there are special offers for students on the public market in Ingolstadt. Generally, swimming pools and gyms have very reasonable student prices.
+
+About Life in Ingolstadt
+If possible, kindly guide me about the monthly expenses I can expect during my stay as a student in Ingolstadt. 
+For questions of this kind, as well as regarding arrival, first steps, getting settled, etc. please contact welcome(at)ku.de
+
+I would like to know about the situation of speaking English in Ingolstadt. Do people typically know English or do they rather refuse to speak English?
+Ingolstadt is a fairly large town with plenty of English speakers, e.g. working at Audi, and an international atmosphere. So I don’t think this is a problem at all.  Also, many people in Ingolstadt commute for work to Munich, which is very cosmopolitan.
+
+About miscellaneous
+What should I expect to be doing after I am done with this degree course? Will I get a job and will the University help me with this?
+Finding a job will be up to you.  But in the field of data science, there is currently a very high demand in the job market.
+
+What does the collaboration of the university with Audi, Continental and Airbus mean?
+They, and other companies, like the education that we offer and are hoping to get good job applicants out of our program.  To get to know the companies, you can apply for an internship at their places.  Obviously, no guarantee.
+
+What is MIDS?
+The interdisciplinary Data Science BSc and MSc study programs are coordinated by the Mathematical Institute for Machine Learning and Data Science, in short, MIDS. MIDS, founded in 2022, seeks to develop (and teach in degree programs) the scientific foundations that help to responsibly exploit the potential of the emerging second wave of digitalization. See LINK for MIDS news.
+
+Testimonials
+Testimonials from our students
+Team Fantastic Four
+
+"The KU Data Science program gave us more than just theory—it gave us the confidence and skills to take on real-world challenges. As the 'Fantastic Four,' we've competed in several national and international hackathons, often inspired by topics we studied in class. The hands-on courses and constant support from KU,…
+
+» read more
+- Team "Fantastic Four" (Denis, Ali, Veronika, Ruslan)
+Portrait Jan Stüwe
+
+I like the international atmosphere of the program, which brings together students from all over the world. No one has to worry that they won't be able to keep up with the English courses. On the contrary, the common language makes it easier to communicate, and you improve your language skills along the way.
+
+- Jan Stüwe (Student Council Data Science)
+Alena Semkiv
+
+"The Data Science program inspires us to think exploratorily, confidently build logical chains and solve non-trivial problems. Professors are sincerely interested in ensuring that each student is interested and able to master complex material, regardless of the level of knowledge already gained. Already after two…
+
+» read more
+- Alena Semkiv
+Aditi Bhushan
+
+"I really like that the professors in the DS program are genuinely passionate about teaching and enjoy helping students understand concepts. They are easily accessible, providing valuable guidance and support through various means such as Zoom, Email, or personal appointments. As a recent school graduate, their…
+
+» read more
+- Aditi Bhushan
+Shizen Li
+
+"I like that the order of the content is carefully designed, not only within a single course, but also in the interconnection parts among different courses. Although the mathematics courses can be demanding, they aid in understanding the content of the specialist courses. I also like the passions from Professors. They…
+
+» read more
+- Shizhen Li
+Oleksandr Bobryshev
+
+"I like that the university offers the possibility to pursue a second degree in mathematics in parallel with studying data science. I enjoy the maths courses and am now in the process of doing the second degree. Maths is an integral part of data science, but it is also interesting in its own right, so I am happy to…
+
+» read more
+- Oleksandr Bobryshev
+Study materials
+Key documents
+Examination Regulations
+Exam regulations Data Science[246 KB | PDF]
+Documents about the course of studies
+Module catalogue
+All module descriptions can be accessed directly via KU.Campus. Please choose the navigation points "Information portal --> Degree programs". Enter your degree program and the relevant semester in the search mask. In the list of results, the module handbook will appear in the upper right-hand corner for downloading as a pdf or Word file.
+
+The module descriptions published in KU.Campus are legally binding.
+
+Degree program description
+Degree program description for the Bachelor's degree program in Data Science
+
+Curriculum
+Degree program structure for the Bachelor's degree program in Data Science
+
+Mandatory Electives
+Mandatory Electives  for the Bachelor's degree program in Data Science - Scope for the 2026 summer semester
+
+Mandatory Electives  for the Bachelor's degree program in Data Science - Scope for the 2025/26 winter semester
+
+Dates, information and forms from the Examinations Office
+Forms
+Please always fill out forms using a computer if possible.
+
+ 
+
+Registration for the Bachelor’s thesis
+Registration form (German)
+
+Registration form (English)
+
+ 
+
+Further information
+For further information and forms regarding modularized studies, withdrawal from an examination or other examination matters, please refer to the website of the Examination Office.
+
+For accessing the FAQ list of the Examinations Office, please click here
+
+Dates
+Dates for examination registration and entry of grades
+You can find the schedule for examination registration and entry of grades here.The information on examination withdrawal for the respective types of examinations (in-semester examinations/end-of-semester examinations) can be found in the time schedules under the respective registration deadlines.
+
+ 
+
+Documents
+Dokumente
+Flyer Data Science[2 MB | PDF]
+Poster Data Science[3 MB | PDF]
+Module Contents Data Science[436 KB | PDF]
+Schedule 2. Semester SoSe 2026[37 KB | PDF]
+Schedule 4. Semester SoSe 2026[185 KB | PDF]
+Schedule 6. Semester SoSe 2026[182 KB | PDF]
+Internship
+Information about internship
+In addition to courses, the program includes an 8-week industrial internship or a research internship at the Mathematical Institute for Machine Learning and Data Science or in other departments at the KU or other universities.
+
+The KU Career Center provides information on internships in Germany and abroad.
+
+Industrial partners of the Data Science BSc program are:
+
+Logo Audi
+Logo Continental
+Airbus Logo
+Logo Primetals
+Cariad Logo
+The professors
+Student advising
+You are welcome to contact the professors involved in the program directly:
+
+Prof. Pfander
+Chair of Scientific Computing Prof. Dr. Götz Pfander
+Prof. Voigtlaender
+Chair of Reliable Machine Learning Prof. Dr. Felix Voigtlaender
+Prof. Oliver
+Chair of Applied Mathematics Prof. Dr. Marcel Oliver
+Prof. Ray
+Chair of Geomatics and Geomathematics Prof. Dr. Nadja Ray
+Prof Janjic
+Heisenberg Professorship for Data Assimilation Prof. Dr. Tijana Janjic
+Prof. Kreisbeck
+Chair of Mathematics - Analysis Prof. Dr. Carolin Kreisbeck
+Prof. Stöger
+Junior professorship for Data Science Junior Prof. Dr. Dominik Stöger
+Prof. Krebs
+Chair of Statistics Prof. Dr. Johannes Krebs
+Prof. Setzer
+Chair for Business Administration and Business Informatics Prof. Dr. Thomas Setzer
+Contact persons
+Examinations Office
+Christina Jadgarow
+Administrator at the examinations office
+Phone +49 8421 93-21591
+Contact Contact form
+Building Hauptbau | Room: HB-010a
+Postal Address
+Katholische Universität Eichstätt-Ingolstadt
+Prüfungsamt Ingolstadt
+Auf der Schanz 49
+85049 Ingolstadt
+Office hours
+By appointment:
+Monday, Tuesday, Friday 8.30 am – 11.30 am
+
+Open consultation hours:
+Thursday 8.30 am – 11.30 am
+
+The absences of our Examinations Office administrators can be checked in the student portal.
+Working Hours
+Monday to Friday morning
+Birgit Schirmer
+Administrator at the examinations office
+Phone +49 8421 93-21819
+Contact Contact form
+Building Hauptbau | Room: HB-010a
+Postal Address
+Katholische Universität Eichstätt-Ingolstadt
+Prüfungsamt Ingolstadt
+Auf der Schanz 49
+85049 Ingolstadt
+Office hours
+By appointment:
+Thursday 1.30 pm – 3.30 pm
+
+Open consultation hours:
+Tuesday 1.30 pm – 3.30 pm
+Working Hours
+Monday to Thursday afternoon
+Program spokesperson
+Nadja Ray
+Prof. Dr. Nadja Ray
+Chairholder Geomatik and Geomathematik
+Phone +49 841 937-21159
+E-mail nadja.ray@ku.de
+Building Georgianum | Room: GEOG-104
+Postal Address
+MIDS
+Auf der Schanz 49
+85049 Ingolstadt
+Subject Advisor
+Sarah Eberle-Blick
+Dr. Sarah Eberle-Blick
+Research Associate
+
+E-mail sarah.eberle-blick@ku.de
+Room: GEOG-105
+Postal Address
+Katholische Universität Eichstätt-Ingolstadt
+MIDS
+Auf der Schanz 49
+85049 Ingolstadt
+Chairperson Examinations Committee
+Marcel Oliver
+Prof. Dr. Marcel Oliver
+Holder of the chair of Applied Mathematics
+Phone +49 841 937-21401
+E-mail marcel.oliver@ku.de
+Room: GEOG-106
+Postal Address
+Katholische Universität Eichstätt-Ingolstadt
+MIDS
+Hohe-Schul-Straße 5
+85049 Ingolstadt
+News
+All News
+ICHA 2026
+27. May 2026
+International Conference in Computational Harmonic Analysis featuring a star speaker
+The International Conference in Computational Harmonic Analysis, organized by Prof. Pfander of MIDS and Profs Aldroubi and Powell of the University of…
+
+[Translate to English:] Dr. Jörg Steinwagner
+19. May 2026
+New Scientific Director at MIDS
+Dr. Jörg Steinwagner is the new Scientific Director at MIDS since May 1, 2026. 
+He also supports Professor Janjic’s research group (Chair of Data…
+
+StuKon2026
+07. April 2026
+Save the Date: Stukon 26 in Ingolstadt
+We are excited to announce the Student Conference of the German Mathematical Society (StuKon26), to take place from September 16–18, 2026, at the KU…
+
+Student organizations
+Student Council/Student Representation
+The Data Science student council has been newly founded. You will receive more information shortly.
+
+You can already reach the student council via fg-data-science(at)ku.de
+
+Mathematical Institute for Machine Learning and Data Science
+Logo MIDS
+The BSc program Data Science is part of the new Mathematical Institute for Machine Learning and Data Science.
+Learn more about MIDS HERE.
+
+
+
+Data Science
+Degree
+Bachelor of Science
+Semester fee
+88 Euro
+Start of the program
+Winter semester
+Standard length of the program
+6 Semester
+Place of study
+Ingolstadt
+Part-time studies possible
+No
+Language of instruction
+English
+
+Application Deadlines for the Winter Semester 2026/27
+
+For applicants without a German university entrance qualification: Applications are possible from 1 April until 15 July 2026.
+For applicants with a German university entrance qualification (e.g. Abitur): An application is not required. Enrollment takes place directly between 10 August and 2 October 2026.
+Contents
+Frequently Asked Questions from prospective students and applicants
+International
+Practical connection
+Career
+Testimonials
+Advisory Service
+Application
+Information on Uni-Assist and deadlines
+German Language Courses
+Artificial intelligence and machine learning are the topics of the future. The driving forces behind them are mathematical calculations and statistical methods whose potential is far from exhausted, because data is nowadays available in large quantities and in virtually every area of life. The series suggestions on your Netflix watchlist? The weather forecast for the next 10 days? The image recognition on your smartphone? All of this is based on the structured analysis of data and the targeted training of neuronal networks.
+
+The new Data Science program teaches the fundamentals of machine learning and other current methods for data analysis, as well as the ability to efficiently implement these methods using modern software technologies. The necessary knowledge from the fields of study mathematics, statistics, computer science and data science is taught. As the program progresses, you can select one of six specializations to specifically study the application area that fits your career goals. Thanks to the english-language orientation of our degree program and the international contacts you can make at KU, you will be well prepared for the international job market!
+
+Artificial intelligence
+Artificial intelligence
+Weather forecasts
+Weather forecasts
+Machine Learning
+© AdobeStockMachine Learning
+The program in detail
+Summary
+What Profile should I have?
+[Translate to Englisch:] KU Student
+Good acquaintance with mathematics
+Analytical thinking
+Passion for understanding complex problems and desire to develop technical solutions for them
+General university entrance qualification
+English language skills
+for international students: German A2 after 1st year of study
+Career opportunities
+[Translate to Englisch:] Student Roboter
+The future is taught here!
+We offer an innovative and modern degree program. Data Scientists are urgently needed due to the immensely growing amounts of data, especially in industry. During your studies you can already choose a specialization, e.g. in the fields of business analytic, digital transformation of society, environmental sciences or finance and economics.
+
+Thanks to the English-language orientation of our degree program, you will be ready for the international job market!
+
+Why study Data Science at KU?
+[Translate to Englisch:] Studis Laptop oben
+Forward looking field of study
+Established and modern learning concepts
+Excellent ratio of faculty to students thanks to small groups 
+Preparation for the international job market thanks to english-language orientation and international contacts
+Discussion of ethical issues regarding the handling of data
+Gaining experience with well-known industry partners
+Living and studying at Germany's most popular university
+Contents
+In addition to learning the fundamentals of 
+
+Data Science and Machine Learning, 
+students will build a firm foundation in the areas of 
+
+Mathematics, 
+Statistics, and 
+Computer science.  
+Thus, students are offered an interdisciplinary perspective on data science, which is augmented by a variety of application areas available through the following specializations:
+
+Applied Mathematics and Scientific Computing
+"Applied Mathematics and Scientific Computing" provides students with a deeper insight into the mathematical foundations of Data Science. The focus of the specialization is on mathematical model building on the one hand, and on the other hand the transition from continuous to discrete and thus practically implementable models.
+
+Business Analytics and Operations
+"Business Analytics and Operations" builds the bridge to economics. In addition to basic knowledge of business administration, e.g. accounting, the focus of this specialization is on data-driven of this specialization is on data-driven approaches to business, organizational and technical problems.
+
+Digital Transformation of Society
+"Digital Transformation of Society" considers applications of Data Science in the social and human sciences. In addition to basic knowledge, students gain insights into the role of empirical methods, e.g. in sociology and journalism. Substantive knowledge of Data Science methods coupled with insights into the social sciences and humanities will enable students to critically engage with the ongoing digital transformation of society.
+
+Finance and Economics
+„Finance and Economics“ sheds light on macroeconomic relationships, global markets, and financial instruments. These areas are heavily influenced by data-based methods. The specialization expands the students' methodological competence with knowledge of area-specific model building and subject systematics.
+
+Environmental Sciences
+"Environmental Sciences" provides students with an insight into data-based environmental and earth sciences. A central aspect is the fitting of models for dynamic (time-varying) processes such as weather and climate to measured data, which are often only available inaccurately and incompletely.
+
+Machine Learning and Statistics
+"Machine Learning and Statistics" allows students to deepen their understanding of statistical methods and introduces advanced and research aspects of statistical and machine learning techniques.
+
+Data Science students
+Structure
+The standard period of study is six semesters. A total of 180 ECTS credits are to be acquired, which are essentially divided into a required, specialization/focus area and elective area. In addition, there is a Bachelor's seminar and the Bachelor's thesis.
+
+Required area
+Specialization
+Required elective area
+Required Internship
+In addition to courses, the program includes an industrial internship or a research internship at the Mathematical Institute for Machine Learning and Data Science or in other departments at the KU or other universities.
+
+With respect to industrial internships, we cooperate with:
+
+Audi
+Continental
+Airbus Logo
+Cariad Logo
+Primetals Logo
+Documents about the course of studies
+Module catalogue
+All module descriptions can be accessed directly via KU.Campus. Please choose the navigation points "Information portal --> Degree programs". Enter your degree program and the relevant semester in the search mask. In the list of results, the module handbook will appear in the upper right-hand corner for downloading as a pdf or Word file.
+
+The module descriptions published in KU.Campus are legally binding.
+
+Degree program description
+Degree program description for the Bachelor's degree program in Data Science
+
+Curriculum
+Degree program structure for the Bachelor's degree program in Data Science
+
+Mandatory Electives
+Mandatory Electives  for the Bachelor's degree program in Data Science - Scope for the 2026 summer semester
+
+Mandatory Electives  for the Bachelor's degree program in Data Science - Scope for the 2025/26 winter semester
+
+Frequently Asked Questions from prospective students and applicants
+... about the Data Science Program
+Is the Data Science program located in Eichstätt or in Ingolstadt?
+The program is located in Ingolstadt, i.e. all Data Science courses will be offered in Ingolstadt. Our home is the newly renovated Georgianum.
+
+When should I arrive?
+You should try to arrive at the beginning of October so that you have some time to settle in and can take part in the preliminary course.  The regular lectures at the KU typically start in mid-October.
+
+I am a student from outside the EU, what if I get my Visa a bit late?
+We are aware that international students sometimes have to wait months for a Visa. For this reason, we issue admissions as quickly as possible and grant a very late deadline for enrollment so that applicants have the best possible chance of obtaining a Visa. The final enrollment deadline (according to the admission letter) is usually only a few days before the start of lectures. All required documents including Visa must be submitted by mail to the Student Office by this deadline.
+
+How much self-study is an average student who is studying in this course expected to do daily?
+As at all universities, there will be a significant part of self-study. Exemplarily, in the course ‘Linear Algebra’ you have about 6 contact hrs and 5hrs of self study per week. The overall effort is comparable to other German universities. Studying Data Science at KU is a full time job.
+
+Should I revise any mathematics topics from home such as calculus or probability or will the faculties teach us all topics from scratch in a way that there is no need for any prerequisites?
+Our beginner courses are all self-contained. Usually the toughest part for some is the formal math, such as ‘Linear Algebra’ and ‘Analysis’. A good level of prior knowledge is helpful for the beginning. For example, you can look up what a vector space is and learn a little about matrices. However, a preliminary course is also offered before the start of the semester, in which some mathematical basics are covered. The math courses during the semester are structured in such a way that all topics are covered from the ground up and can be followed without much prior knowledge.
+
+Do people normally finish this degree course in the given time span of three years or does it take more time than that? 
+This is a new study program.  We expect people to finish in three years, the program is very streamlined towards that. 
+
+What is the schedule during a week?
+Via the link
+
+https://www.ku.de/en/mgf/studiengaenge/bachelor/data-science
+
+you will find the current schedules for the different semesters under ‘Documents’.
+
+Could you please provide me with access to the module handbook or guide me to the appropriate resource?
+You can find such a course catalog on
+
+https://www.ku.de/en/mgf/studiengaenge/bachelor/data-science
+
+under 'Study materials'. The English version of the exam regulations can be found there under 'key documents'.
+
+Does the University provide free German lessons for its enrolled students?
+We will support at least going to the mandatory A2 level, as this level must be proven after one year. The university regularly offers free German lessons at least up to this level. These are typically scheduled to fit in with your regular timetable, e.g. Monday morning.
+
+Is it possible to study data science online or hybrid at the KU?
+The program is designed as an in-person study. However, you will usually be provided with online teaching materials and for some courses even with video recordings. This means that you can also learn the course content on your own, although we highly recommend that you actively participate in the courses. However, examinations must always be taken in person.
+
+When do I have to choose one of the focus area offered? And is it possible to change it afterwards?
+At the end of the second semester, you should decide on a specialization (so-called focus area) and choose your courses accordingly from the third semester onwards. However, a change of specialization is possible at any time.
+
+Is it possible to spend a semester abroad and when should I do it?
+We are happy to support you in spending a semester abroad. If you are interested, we recommend this in the fifth semester. For more information please see
+
+www.ku.de/international/studierende-der-ku/studienaufenthalt-im-ausland
+
+... about English as language of instruction
+The lectures and exams are provided in English. However, all professors are able to speak German as well, such that you can adress them likewise in German. On request, we also offer exams in German. As science and industry become more and more international, communication in English is nowadays a necessary skill. The KU also offers courses to improve (English) language skills. Further information is available here:
+
+https://www.ku.de/sprachenzentrum
+
+Please fell free to watch the following videos to get an impression that for understanding the basic lectures in data science you really do not need to have sophisticated language skills:
+
+Prof. Götz Pfander: Linear Algebra 1, Systems of linear equations
+Prof. Götz Pfander: Linear Algebra 1, Ring theory
+Prof. Nadja Ray: Analysis 1, Sequences
+... about KU Eichstätt-Ingolstadt
+Is this university a private university or a public university? Are the degrees provided here equally valid in other countries?
+The university is funded 85% by the state of Bavaria, all degree programs follow the same rules as at any other Bavarian university. It is considered a private university, but the degrees are the same as at another German university and are also equally valid in other countries. The Data Science degree program is internationally accredited. Furthermore, studying at the KU has no tuition costs.
+
+What will be the chronological order of things that will happen once I arrive in Ingolstadt? Kindly guide me for the same and tell me if there is any buddy program in the University.
+Before traveling to Ingolstadt, please ensure that you start looking for accommodation in Ingolstadt (or surrounding area) in due time. The KU International Office international@ku.de / welcome@ku.de is happy to help. Please contact the KU International Office if you require more practical information. We have a student union (Fachschaft) which will help you getting settled. Moreover, we offer a preliminary course before the regular lectures begin, where students can get to know each other.
+
+Does KU provide accommodation to its students and if yes then how can I apply for one?
+The International Office international(at)ku.de helps to find an accommodation and offers a housing service, see
+
+https://www.ku.de/fileadmin/1907/Dokumente_Incoming/Download_Incoming/Housing_Guide_New.pdf
+
+However, we recommend that you look for accommodation as early as possible.
+
+Does the University have a swimming pool and a gym and are they free to use?
+There are many different sports that you can get involved in at the KU, see
+
+https://www.ku.de/en/campus-life/sports
+
+Most sports courses are held Eichstätt and the gym is also located there. However, there are special offers for students on the public market in Ingolstadt. Generally, swimming pools and gyms have very reasonable student prices. KU is currently trying to extend its free sports offering in Ingolstadt.
+
+... about life in Ingolstadt
+If possible, kindly guide me about the monthly expenses I can expect during my stay as a student in Ingolstadt. 
+First information in this direction can be found here.
+
+If you have any further questions on this topic please contact the International Office welcome(at)ku.de
+
+I would like to know about the situation of speaking English in Ingolstadt. Do people typically know English or do they rather refuse to speak English?
+Ingolstadt is a fairly large town with plenty of English speakers, e.g. working at Audi, and an international atmosphere. Also, many people in Ingolstadt commute for work to Munich, which is very cosmopolitan.
+
+… about miscellaneous topics
+What should I expect to be doing after I am done with this degree course? Will I get a job and will the University help me with this?
+In the field of data science, there is a very high demand in the job market. The Career Center of the KU offers information surrounding internships and career. Moreover, it regularly organizes various workshops and lectures on topics such as job applications.
+
+What does the collaboration of the university with Audi, Continental and Airbus mean?
+They and numerous other companies in the area appreciate the study program we offer and benefit from good job applicants. To get to know the companies, you can apply for an internship at their places.
+
+Rankings and assessments
+KU students and alumni have voted for their University to be Germany's most popular university
+KU students and alumni voted it Germany's most popular university for the fourth time in the 2026 ranking (in addition to 2021, 2022 and 2024) of the online portal StudyCheck. This ranking is based on more than 70,000 submitted evaluations for over 500 higher education institutions and universities. 97 percent of those students who participated in the ranking would recommend studying at the KU to others.
+
+"Surely there is no better praise for a university than almost 100 percent of students and alumni agreeing: I can only recommend studying at the KU! This is why we are very pleased with the ranking’s outcome, because it expresses the high level of satisfaction of our students", says KU President Prof. Dr. Gabriele Gien.
+
+More ranking results
+
+Internationalization and studying abroad
+Machine learning and mathematical methods are not influenced by national borders - therefore the international context is very present in the study program.
+
+The degree program is offered in English and thus creates ideal conditions for a career in internationally operating companies.
+
+It is possible to spend a semester abroad, preferably in the 5th semester. Here, students benefit from KU's worldwide network: the University maintains partnerships with more than 300 universities around the globe. Whether North America or Asia, Australia, South America or Europe - the right program can be found. The KU's International Office provides support with planning and organization.
+
+Practical connection
+Besides lectures, exercise groups and computer labs, practical studies are a mandatory part of this data science program.  This can be carried out in industry, in the Mathematical Institute for Machine Learning and Data Science, or within any other research group of KU Eichstätt-Ingolstadt or any other university.
+
+[Translate to English:] The fantastic four
+[Translate to English:] Fantastic Four
+[Translate to English:] Fantastic Four
+From Berlin to The Hague to Gran Canaria – as KU’s “Fantastic Four,” Data Science students Denis Hoti, Ali Guliyev, Veronika Rybak, and Ruslan Tsibrov have been on the road, competing in national and international hackathons and using data to solve real-world problems.
+
+ 
+
+Career possibilities and professional fields
+Data Science is of fundamental importance for the artificial intelligence revolution bound to take place in the next decades: The environment and industry will be increasingly permeated with networked information systems and data-collection devices. 
+
+While modern hardware already allows the collection of massive data sets, the development of tools and algorithms that can utilize such a wealth of data for extracting relevant patterns and information is still in its infancy. 
+
+Addressing this challenge requires well-trained data scientists proficient with novel technologies and techniques working in industry, business, start-ups, and the public sector. The most sought-after graduates are those who have simultaneously strong analytical and implementation skills, while also being aware of the responsibility in processing sensitive data, in particular regarding the impartiality and objectivity of algorithms. 
+
+Occupational fields for graduates of all profiles in the program include: 
+
+Managerial and implementational positions in Data Science and Information Technology in national and international companies and organizations, 
+Cross-sectional tasks in the field of machine learning, data analysis and forecasting, 
+Consulting activities in the aforementioned areas, 
+Academia (in particular related to mathematics, statistics, and data science).  
+Specialization-dependent occupational fields include the following: 
+
+Applied Mathematics and Scientific Computing
+Research and development in technical industries, 
+Development of algorithms and software in companies and organizations, 
+Research and teaching in educational institutions (e.g., schools and universities), 
+Data science consultant; 
+Machine Learning and Statistics
+Expert for data collection, analysis, interpretation and forecasting, 
+Analyst or risk assessment analyst in financial departments of companies, public institutions, ministries and international organizations; 
+Environmental Science
+Data scientist in research institutes such as the German Aerospace Center and the Alfred Wegener Institute for Polar and Marine Research, 
+Data scientist working for scientific services such as the German Weather Service and the Federal Maritime and Hydrological Agency, 
+Adviser for governments and non-governmental organizations such as the Ministry of the Environment and Greenpeace;   
+Business Analytics and Operations
+Consultant for strategic planning and corporate development, especially with a focus on digital transformation processes of companies,  
+Supply chain manager focusing on data-based optimization and decision support in procurement, production, distribution, and logistics, 
+Process architect for the design, control and coordination of internal and cross-company flows of goods and information. 
+Finance and Economics
+Financial advisor and analyst in finance departments of companies and organizations in the public sector, 
+Manager in politics, business and public administration.
+Digital Transformation of Society
+Data analyst in market and opinion research, 
+Statistician or data analyst for media companies, 
+Consultant for political parties, organizations and associations. 
+Testimonials
+Alena Semkiv
+
+"The Data Science program inspires us to think exploratorily, confidently build logical chains and solve non-trivial problems. Professors are sincerely interested in ensuring that each student is interested and able to master complex material, regardless of the level of knowledge already gained. Already after two…
+
+» read more
+- Alena Semkiv (3rd Semester)
+Aditi Bhusan
+
+"I really like that the professors in the DS program are genuinely passionate about teaching and enjoy helping students understand concepts. They are easily accessible, providing valuable guidance and support through various means such as Zoom, Email, or personal appointments. As a recent school graduate, their…
+
+» read more
+- Aditi Bhusan (3rd Semester)
+Shizhen Li
+
+"I like that the order of the content is carefully designed, not only within a single course, but also in the interconnection parts among different courses. Although the mathematics courses can be demanding, they aid in understanding the content of the specialist courses. I also like the passions from Professors. They…
+
+» read more
+- Shizhen Li (3rd Semester)
+Oleksandr Bobryshev
+
+"I like that the university offers the possibility to pursue a second degree in mathematics in parallel with studying data science. I enjoy the maths courses and am now in the process of doing the second degree. Maths is an integral part of data science, but it is also interesting in its own right, so I am happy to…
+
+» read more
+- Oleksandr Bobryshev
+Jan Stüwe
+
+“I like the international atmosphere of the program, which brings together students from all over the world. No one needs to worry about not being able to keep up with the English classes. On the contrary, having a common language makes communication easier and improves your language skills at the same time.” 
+
+- Jan Stüwe
+The KU
+Studierende vor dem Eingang der Wirtschaftswissenschaftlichen Fakultät
+The KU has two campuses: Eichstätt and Ingolstadt. Seven faculties are located in Eichstätt. The Ingolstadt School of Management (WFI) and MIDS (Institute of Applied Mathematics, Machine Learning and Data Science) are located on our Ingolstadt campus.
+
+This degree program is taught on our Ingolstadt campus.
+
+Studying in Ingolstadt
+arrow right iconStudy location
+The district of Eichstätt and the city of Ingolstadt are located in the heart of Bavaria. This central location also means that the KU is easy to reach. The combination of a historic old town, modern infrastructure, attractive leisure facilities and lots of green spaces makes Ingolstadt – the second largest city in Upper Bavaria – an ideal place to study.  
+
+arrow right iconCampus
+Despite its central location in the city of Ingolstadt, the WFI campus is characterized by short distances. The KU is a campus University with modern facilities. The buildings on campus are located close to the Ingolstadt old town.
+
+arrow right iconMore than just a degree
+Studying at the KU not only provides you with the specialist knowledge you need, but also aims to open up real future prospects for its students. We want to support our students in finding their own personal path to their individual dream future! The question is not "What career do I want to pursue?", but rather "Who do I want to be?"
+
+Advisory Service
+Some offers and study conditions are different for international students – our International Office is happy to provide help and support. If you have any questions, please feel free to contact our team. We are happy to accompany you on your way to the KU and hope that we can welcome you in person soon!
+
+Armelle Langenwald
+Armelle Langenwald
+International degree seeking students coordinator - Campus Ingolstadt
+Phone +49 841 937-21970
+E-mail welcome@ku.de
+Building Hauptbau  |  Room: HB-209
+Subject Advisor
+Nadja Ray
+Prof. Dr. Nadja Ray
+Chairholder Geomatik and Geomathematik
+Phone +49 841 937-21159
+E-mail nadja.ray@ku.de
+Building Georgianum  |  Room: GEOG-104
+Marcel Oliver
+Prof. Dr. Marcel Oliver
+Holder of the chair of Applied Mathematics
+Phone +49 841 937-21401
+E-mail marcel.oliver@ku.de
+Room: GEOG-106
+Sarah Eberle-Blick
+Dr. Sarah Eberle-Blick
+Research Associate
+
+E-mail sarah.eberle-blick@ku.de
+Room: GEOG-105
+Application
+Requirements
+General university entrance qualification (Allgemeine Hochschulreife)
+or subject-specific university entrance qualification/economics or technical branch
+Language requirements
+English & after the first year German A2
+Application period winter
+Apr 01 - Jul 15
+Admission restriction
+No
+Selection procedure
+No
+
+All applicants who have a German university entrance qualification (awarded by a German educational institution) can simply enroll in the program within the above-mentioned application period.
+EU citizens who possess a EU university entrance qualification but not a German university entrance qualification need to have their formal qualification checked. They need to submit their study results and degree and language certificates via ku.de/application between beginning of April and July 15.
+All others are subject to a mandatory aptitude test. They must submit all required materials via uni-assist (https://www.uni-assist.de ) between beginning of April and July 15! Details below!
+We appreciate early applications and enrollment.
+
+Aptitude assessment procedure for non-EU citizens
+Persons who are not EU citizens or who have acquired their higher education entrance qualification outside the European Union must successfully complete an aptitude assessment procedure. The aptitude assessment procedure takes into account school and university achievements (especially in mathematics and computer science), results in standardized tests (SAT, TestAS), participation in designated mathematics and computer science Olympiads and other extracurricular activities in the field of data science. The overall grade of the aptitude assessment procedure is determined as the arithmetic mean of the university entrance qualification and an aptitude grade determined by the examiners. The aptitude assessment procedure is successfully completed if the overall grade is 2.0 or better.
+
+Important note!
+Detailed information on the application requirements and the application process
+Please carefully read the information to ensure your eligibility for this high-demand bachelor’s degree program. This will enable you to prepare all necessary documents for your digital application package in a timely manner. 
+
+Attention: International applicants, who obtained their university entrance qualification outside of the EU need to apply through uni-assist! Please note that only the country in which you obtained your university entrance qualification for Data Science matters for the question of whether you have to apply via uni-assist or not. Please be aware that master’s degree programs or (additional) bachelor’s degree programs started or completed in the EU are not relevant for this matter. Also, please take into consideration, that the UK is not a member of the EU. For further information see below.
+
+Requirements:
+
+Basic requirement: university entrance qualification formally equivalent to a German one. If unsure about your qualification, check the anabin databank or the DAAD databank respectively.
+
+Required application documents
+Required application documents:
+Educational documents (all documents need to be uploaded both a) original or as a certified true copy, and –where necessary –b) translated into German or English, also as certified true
+copy) 
+
+Your secondary higher education certificate ((high) school leaving / A-levels etc.) The certificate must show your average graduation grade.
+Official grading system of your school to convert the grade into a German equivalent grade.
+If applicable: university entrance examination certificate from your home country.
+If applicable:
+Full transcripts of your university studies. Your transcript must display the average grade of your studies.
+Official grading system of your university to convert your grade into a German equivalent grade.
+If applicable
+Your university leaving certificate (bachelor degree or equivalent).
+Complete transcript showing an overall degree grade.
+Official grading system of your university to convert your grade into a German grade.
+Applicants who have completed previous periods of study in China, India, Mongolia or Vietnam: APS certificate
+General documents
+
+Full CV starting with date and grade of completion of your last three years of secondary higher education
+Copy of Passport
+Language Skills
+
+Proof of English Skills (e.g. by TOEFL score of 78 or better, IELTS band 5.5 or better; bachelor or master degree in English - confirmation of university required- etc.)
+Proof of German skills at level A 2 or better (not required upon application; but A2 must be achieved by the end of the second term of the program at the latest; registration is under caution until then)
+Further Requirements:
+
+Applicants, who are not EU citizens or obtained their higher education entrance qualification outside the European Union must also successfully complete an aptitude test procedure for admission. Thus, add the following documents to your digital application file, if available:
+
+proof of TestAS score and/or
+proof of SAT Math score and/or
+proof of participation in recognized national or international mathematics or computer science competitions (proof required in form of an official confirmation of participation, issued by the organizational committee or similar) and/or
+proof of extracurricular activities in the field of data science
+The aptitude test is evaluated on a 1-5 scale, considering the overall grade of the higher education entrance qualification and the grade achieved in the aptitude test. Admission is possible if the arithmetic mean is 2.0 (German equivalent) or better. 
+
+Application process
+Application procedure:
+
+German citizens and applicants, who obtained their university entrance qualification within the European Union: Please apply directly through the KU- application portal https://studienservice.ku.de All further communication with you will be through this portal.
+International applicants, who obtained their first university entrance qualification outside of the European Union: Please apply through uni-assist.de only Please apply via https://www.uni-assist.de/ with all required documents (digital uploads of originals or certified true copies) as soon as possible! You do not need to send a VPD to us since we do not utilize the VPD-system. Once your documents have been successfully checked, we will gain access to them through uni-assist. Additionally, the assessment results will also be accessible to us. We have established the necessary interfaces between the two systems (uni-assist and the KU application portal). Consequently, the interface will automatically generate an applicant account for individuals who meet the formal basic admission requirements. This account will facilitate communication between you, as an applicant, and the KU. Applicants who do not pass the initial formal check by uni-assist will not proceed to the selection process. Notifications regarding this will be sent by uni-assist. Applicants, who were formally approved by uni-assist, will receive the notification of either their acceptance or their rejection through the KU application portal after the KU selection committee has set up the above- mentioned ranking list.
+ 
+Application period for both groups and portals is 1 April to 15 July. We recommend that you submit your application at your earliest convenience. This way, if you meet the formal requirements or pass the aptitude test, we can offer you early admission. However, for candidates who are required to apply through uni-assist.de, we kindly ask you to refrain from inquiring about the status of your application with us, as we have no control over their processing times. 
+
+We are looking forward to your application.
+For further information regarding the admission requirements, please send an email to welcome(at)ku.de .
+
+Application
+The application process for international applicants is now completely digital. You can register online in our application portal and carry out and submit your application. After you have carried out the application and uploaded your documents, you do not need to send your documents to us again by post. You do have to submit certified true copies only if you are admitted at the time of enrollment.
+
+Depending on the course of study, you may be asked for information on internships, professional experience, etc. Please upload the relevant documents in the upload area for all the information you provide, even if these are not mandatory fields!
+
+Before you start the application process, please read the additional information on this page, in particular the information on the respective (German) language requirements and university entrance qualifications.
+
+Application - more information
+More information on application
+Further information
+German Language Courses
+At the KU, you have the opportunity to participate in German language courses for free.
+For further information, please visit the website of KU Language Center.
+
+Materials
+Flyer
+Links
+scroll up
+International Office
+Faculty
+Subject Group
+Mathematical Institute for Machine Learning and Data Science

@@ -1,0 +1,406 @@
+Data Science
+Degree
+Master of Science
+Semester fee
+88 Euro
+Start of the program
+Winter semester
+Standard length of the program
+4 Semester
+Place of study
+Ingolstadt
+Part-time studies possible
+No
+Language of instruction
+English
+Contents
+Application
+Advisory Service
+FAQ
+The successes of artificial intelligence, especially machine learning, impressively demonstrate the potential of mathematical and statistical methods. They enable us to recognise hidden correlations in large amounts of data using automation and make them usable in a targeted manner. The Master's degree programme in Data
+Science imparts in-depth knowledge of modern methods of data analysis and machine learning and combines theoretical principles with practical applications. The course focuses on 
+
+data analytics and operations research,
+weather and climate research,
+the mathematical foundations of data science and
+the interface between data-based and model-based modelling.
+Through this interdisciplinary orientation, students acquire both methodological expertise and the ability to
+solve complex data problems in scientific and industrial contexts.
+
+Artificial intelligence
+Artificial intelligence
+Weather forecasts
+Weather forecasts
+Machine Learning
+© AdobeStockMachine Learning
+Students
+The program in detail
+Program Structure
+The standard period of study for the Master of Science in Data Science is four semesters. Students have to acquire 120 ECTS credits that are distributed as follows: 
+
+Required and required elective courses
+The solid basic training in mathematics, statistics and the fundamental methods of data science and machine learning forms the core of the Master's program. This is why students must complete at least 35 ECTS credits in this area (marked in blue in the program structure chart), which are made up as follows: 
+
+The module "Mathematics for Data Science" (10 ECTS, required module) in the first semester lays the mathematical foundation. On the one hand, the aim is to create a uniform language and notation for the basic concepts of analysis and linear algebra – possibly also to close gaps that are to be expected here due to different Bachelor's degrees, and on the other hand, to build a bridge towards infinite-dimensional vector spaces, i.e. basic concepts of functional analysis and operator theory.
+Principles of Data Science or Principles of Machine Learning (10 ECTS, required module). These two modules are offered alternately in the summer semester in a two-year cycle. They build on the "Mathematics for Data Science" module, but are independent of each other, so that students can take the module in their second semester as a required module and optionally take the complementary module as part of the elective area in their fourth semester.
+1-2 modules (5-10 ECTS credits, required elective area) in the field of "Statistics". Students can choose from several modules, which rotate from year to year in order to offer students a larger selection of specialized modules.
+1-2 modules (5-10 ECTS credits, required elective area) in the field of "Mathematics" (applied mathematics). Students can choose from several modules, which rotate from year to year in order to offer students a larger selection of specialized modules.
+In order to implement algorithms and methods of Data Science in practice in a structured manner, information technology fundamentals are essential and are included in the Master's program with at least 10 ECTS credits. The modules are structured as follows: 
+
+Module "Advanced Programming" (5 ECTS credits, required elective). The aim is for students to be able to implement mathematical algorithms in Python in a confident and performant way right from the start of their Master's studies. Programming skills are taken up in many modules and deepened in the respective module contexts. If students already have programming skills at this level, they can add an additional elective module.
+Module "Database Management" (5 ECTS credits, required module). In this module, students learn the structured handling of data (in particular types of databases, modeling and definition of database schemes, data manipulation and querying, data engineering and transaction management), especially with regard to large and/or distributed databases and their use for analytical tasks. 
+The Master's degree program in Data Science always sees data, algorithms and modeling also in a specific application context. In order to consolidate this connection at an early stage, especially before deciding on a Master's project, students must take 20 ECTS credits from a practical application area as follows, typically in the first year of their studies: 
+
+Module "Operations Research" (5 ECTS credits, required module). Here, linear and integer optimization is motivated and discussed from the perspective of specific applications.
+Module "Applied Data Science Project" (10 ECTS credits, required module). The students work in teams on a problem from the application area. Typically, the project is developed and implemented together with a partner company from the industry, but interdisciplinary projects with scientific partners are also possible.
+A required elective module in the field of "Ethics and Law" (5 ECTS credits), which addresses the ethical and legal issues that arise in the collection and analysis of data and enables students to implement corresponding projects safely, also using suitable relevant technologies. 
+Elective area
+20 ECTS credits can be freely selected from the modules on offer that have a connection to Data Science. These modules are taken from the existing modules offered in the following degree programs: 
+
+Interdisciplinary Master's in Mathematics: all modules can be credited
+Interdisciplinary Master’s in Mathematics – Applications in Physical Geography: the modules can generally be credited, see detailed list in Annex II
+Interdisciplinary Master’s in Mathematics – Business Administration Applications: the modules can generally be credited, see detailed list in Annex II
+Master’s in Business Analytics and Operations Research: the modules can generally be credited, see detailed list in Annex 2 of the program description
+Bachelor’s in Mathematics: Selected specialization modules can be credited, see detailed list in Annex II
+Bachelor’s in Data Science: Selected basic and specialization modules can be credited, see detailed list in Annex 2 to the program description 2
+Studium.Pro
+Students are required to select one module from the University-wide Studium.Pro offer. Here, KU students approach mainly socially relevant issues in an interdisciplinary context. This experience can provide essential impulses for subject-related work.
+
+Documents about the course of studies
+Module catalogue
+All module descriptions can be accessed directly via KU.Campus. Please choose the navigation points "Information portal --> Degree programs". Enter your degree program and the relevant semester in the search mask. In the list of results, the module handbook will appear in the upper right-hand corner for downloading as a pdf or Word file.
+
+The module descriptions published in KU.Campus are legally binding
+
+Degree program description
+Degree program description for the master's degree program in Data Science
+
+Curriculum
+Study plan for the master's degree program in Data Science
+
+Mandatory electives
+Mandatory electives for the master's degree program in Data Science
+
+Internationalization and studying abroad
+Machine learning and mathematical methods are being developed worldwide and applied across borders. For this reason, the course has a consistent international focus and is primarily offered in English. This creates ideal conditions for a career in globally active companies and at the same time facilitates the integration of international students. The English-language study program creates a diverse, intercultural environment that promotes professional and personal exchange.
+
+There is also the opportunity to spend a semester abroad in the third semester and gain valuable international experience. Our students benefit from the KU's global network: The University maintains partnerships with more than 300 universities around the world. Whether North America or Asia, Australia, South America or Europe – you will find the right program for you. The KU International Office provides support with planning and organization of stays abroad.
+
+Industry Partners
+Data Science combines modern methods of statistics, modeling and machine learning with practical applications in industry and science. This close connection is reflected in the courses, in which theoretical concepts are always supplemented with specific implementations. As many modules were designed specifically for the field of Data Science, this application-oriented approach is consistently pursued.
+
+The Applied Data Science Project module provides a particularly high level of practical relevance. In this module, students work independently in teams and communicate directly with users who often have no in-depth knowledge of mathematics or algorithms. As a result, they learn to communicate complex technical content in an understandable way and to integrate it into real-life problems.
+
+The program offers students the possibility to write the Master's thesis in cooperation with a company or a research institution. This enables direct integration into a professional environment and promotes the practical transfer of knowledge.
+
+Audi
+Continental
+Airbus Logo
+Cariad Logo
+Primetals Logo
+Application
+Requirements
+Bachelor
+Language requirements
+English B2
+Application period winter
+May 01 - Jul 15
+Application period summer
+Dec 01 - Jan 15
+Admission restriction
+No
+Selection procedure
+Yes
+Requirements
+
+All applicants who have obtained a “Master's entrance qualification” (i.e., usually their first Bachelor's degree relevant for the Master's program in Data Science) in Europe can submit their application via the KU application portal from December 1 (summer semester) and May 1 (winter semester).
+If a relevant Bachelor's degree in Data Science, Mathematics, Computer Science, Statistics, or Physics with an overall grade of 2.0 or better has been obtained in the European region (Lisbon Convention), the otherwise required aptitude test is waived.
+Applicants who have obtained their Master's entrance qualification outside the countries of the Lisbon Convention are subject to a mandatory aptitude test.This aptitude test only takes place before the start of the winter semester! Further details are available here.
+Important note!
+Detailed information on the application requirements and application process
+Please read this information carefully to ensure that you prepare all necessary documents for your digital application.
+
+Admission requirements:
+
+A Bachelor's degree in Data Science, Mathematics, Statistics, Computer Science, or Physics or a very closely related field. Your degree must also be formally equivalent to a German academic Bachelor's degree in order to be considered eligible for admission to a Master's program.
+If you are unsure whether your international Bachelor's degree is considered equivalent, you can carry out an initial self-assessment using the anabin database (www.anabin.de).
+
+Admission
+
+All complete applications are checked and, if necessary, subjected to an aptitude test. Applicants who achieve a grade in the aptitude test that corresponds to a German grade of 2.0 or better will be admitted.
+
+Please note: The aptitude grade may differ from the grade of your Bachelor's degree.
+
+If you need a visa to study in Germany, please apply for it as early as possible.
+
+Information on the degree program
+
+Details on program content and application deadlines is available here: https://www.ku.de/studienangebot/data-science-msc
+
+If you have any questions, please contact: welcome(at)ku.de.
+
+We are looking forward to your application!
+
+How to apply
+How to apply:
+
+International applicants with a Master's entrance qualification obtained outside the EU
+
+If you have obtained the degree that entitles you to pursue Master's studies outside the European Union, you must apply using uni-assist (https://www.uni-assist.de).
+
+Please note:
+
+Whether an application using uni-assist is required depends solely on the country in which you have acquired the Master's entrance qualification for the field of "Data Science". Master's degrees or additional Bachelor's degree programs that have been started or completed within the EU do not affect this rule. Also remember that the UK is no longer part of the EU.
+
+If you belong to this applicant group, please submit your application exclusively using uni-assist.de.
+
+Neither registration nor an additional application using the KU application portal is required.   On the contrary, this can even lead to problems when processing applications. As soon as your application has been successfully reviewed, uni-assist will forward your documents to us. This is because we are not currently using the VPD system. Therefore, we cannot accept VPDs obtained for other degree programs.
+
+All other applicants
+
+Applicants who do not fall under the above category can apply directly using our application portal: https://studienservice.ku.de/
+
+Special provisions for applications for the summer semester
+
+Please note that only certain groups of applicants can apply for the summer semester:
+
+You can only apply for the summer semester in the following cases:
+
+You have obtained your first university degree relevant to the M.Sc. Data Science in a country that has ratified the Convention on the Recognition of Qualifications concerning Higher Education in the European Region.
+Your Bachelor's degree corresponds to a German grade of 2.0 or better.
+A list of signatory states is available here: https://www.coe.int/en/web/conventions/full-list?module=signatures-by-Treaty&treatynum=165
+
+You can find a tool for converting grades here: https://www.ku.de/studium/informationen-fuer-studierende/anerkennung-und-anrechnung/anrechnungsprozess-antrag-folgen-lehramt-praktika-bafoeg/notenuebernahme-und-umrechnung/modifizierte-bayerische-formel
+
+In the German grading system, 1.0 is the best grade and 4.0 is the minimum passing grade. The linked grade conversion tool is based on the Bavarian formula. Please note that international grading systems can differ greatly. The result of the calculation therefore only serves as a first guideline and is not legally binding.
+
+Important difference: Applications for the winter semester
+
+All applicants from the field of Data Science (see "Admission requirements") can apply for the winter semester, regardless of their previous country of study or Bachelor's degree.
+
+More information on the KU application process is available here: https://www.ku.de/en/study-at-the-ku/information-for-foreign-nationals/student-office/application-and-enrollment/information-for-foreign-nationals
+
+Required application documents
+Required documents for application:
+
+1. A complete résumé listing all levels of education, starting with the last three years of secondary school.
+
+2. Higher secondary education
+
+2.1 Original or certified copy of the school leaving certificate from secondary school (Abitur etc.)
+
+2.1.2 Original or certified copy of the German or English translations (if required) of the above certificates. Your secondary school leaving certificate/ Abitur certificate must include your average final grade!
+
+2.2. In order to convert the grade of your school leaving certificate into a German grade, we need the official grading system of your school. Therefore, please prepare a copy of the official grading system when uploading the documents.
+
+2.3 If applicable: University entrance qualification from your home country
+
+3 Bachelor's degree
+
+3.1 Original or certified copy of your university degree certificate (Bachelor's degree or equivalent)
+
+3.1.1 Original or certified copy of the German or English translations of the above certificates (if required)
+
+3.2 Complete certificates/transcripts (original or certified copy) from your Bachelor's degree program
+
+3.2.1 Original or certified copy of the German or English translations (if required) of the above certificates/transcripts.
+
+3.3 Your certificate (and the translation) must show the average grade of your university degree.
+
+3.4 In order to convert the grade of your school leaving certificate into a German grade, we need the official grading system of your university. Therefore, please prepare a copy of the official grading system when uploading the documents.
+
+3.5 The following modules must have been completed during the Bachelor's degree program:
+
+Analysis I and II for Data Science
+Linear Algebra I and II
+Introductory Statistics and Stochastics
+Optimization for Data Science (i.e. an introductory course in optimization)
+Introductory course in programming (preferably the basics of Python programming)
+Algorithms and Data Structures
+Please upload your transcript of records for the Bachelor's degree and mark the relevant modules. The skills listed can be acquired during the first and second semesters of our Master's program; until then, enrollment is provisional. If this proof is not provided by the end of the second semester, you will be de-registered. Please note that you must complete the required modules in the first two semesters of your standard period of study. Unfortunately, we do not offer an orientation year or anything similar.
+
+Proof of English language skills at B2 level (e.g. TOEFL score of 78 or better, IELTS test 6.0 or better; Bachelor Bachelor or Master's degree which teaching in English – confirmation from university required – etc.).
+
+Applicants who have previously studied in China, India or Vietnam: APS certificate
+
+Additional documents (optional)
+
+6. Proof of a "GRE Subject Test" in mathematics (strongly recommended for applicants whose first professionally qualifying university degree or equivalent qualification was not obtained in a country that has ratified the Lisbon Convention - see above).
+
+7. Proof of internships in the professional fields relevant to the degree program
+
+8. Relevant scientific publications.
+
+9. Subject-related teaching experience.
+
+10. Proof of non-university activities in the field of mathematics or data science (e.g. participation in recognized specialist competitions, involvement in science communication, etc.).
+
+Checklist Module Prerequisites
+
+Application
+The application process for international applicants is now completely digital. You can register online in our application portal and carry out and submit your application. After you have carried out the application and uploaded your documents, you do not need to send your documents to us again by post. You do have to submit certified true copies only if you are admitted at the time of enrollment.
+
+Depending on the course of study, you may be asked for information on internships, professional experience, etc. Please upload the relevant documents in the upload area for all the information you provide, even if these are not mandatory fields!
+
+Before you start the application process, please read the additional information on this page, in particular the information on the respective (German) language requirements and university entrance qualifications.
+
+Application - more information
+More information on application
+Advisory Service
+Some offers and study conditions are different for international students – our International Office is happy to provide help and support. If you have any questions, please feel free to contact our team. We are happy to accompany you on your way to the KU and hope that we can welcome you in person soon!
+
+Armelle Langenwald
+Armelle Langenwald
+International degree seeking students coordinator - Campus Ingolstadt
+Phone +49 841 937-21970
+E-mail welcome@ku.de
+Building Hauptbau  |  Room: HB-209
+Subject Advisors
+Götz Pfander
+Prof. Dr. Götz Pfander
+Holder of the Chair Mathematics - Scientific Computing | Speaker of the Mathematical Institute for Machine Learning and Data Science
+Phone +49 8421 93-21370
+E-mail pfander@ku.de
+Room: GEOG-202(Collegium Georgianum in Ingolstadt)
+Marcel Oliver
+Prof. Dr. Marcel Oliver
+Holder of the chair of Applied Mathematics
+Phone +49 841 937-21401
+E-mail marcel.oliver@ku.de
+Room: GEOG-106
+Nadja Ray
+Prof. Dr. Nadja Ray
+Chairholder Geomatik and Geomathematik
+Phone +49 841 937-21159
+E-mail nadja.ray@ku.de
+Building Georgianum  |  Room: GEOG-104
+FAQ from prospective students and applicants
+... on the Data Science Program
+Is the Data Science program based in Eichstätt or Ingolstadt?
+The degree program is based on our Ingolstadt campus, this means that all Data Science courses are offered in Ingolstadt. Our institute is located in the newly renovated Georgianum.
+
+When should I arrive in Ingolstadt?
+You should arrive around the beginning of October so that you have some time to settle in and take part in our preliminary course.  Regular lectures at the KU usually start in mid-October.
+
+I am a student from outside the EU. What happens if I receive my visa a little later?
+We are aware that international students sometimes have to wait for a visa for months. We therefore issue admission letters as quickly as possible and schedule the enrollment deadline as late as possible so that applicants have the best possible chance of obtaining a visa. The final enrollment deadline (see letter of admission) is usually only a few days before the start of lectures. All required documents, including the visa, must be sent by mail to the Student Office by this deadline.
+
+How much daily independent study is expected of the average student taking this course?
+Just like at all universities, a considerable part of the course is completed in independent study. In the 'Linear Algebra' course, for example, you have about 6 contact hours and 5 hours of self-study per week. The overall workload is comparable to that at other German universities. Studying Data Science at the KU is a full-time job.
+
+Should I repeat any maths topics from home, such as calculus or probability, or are all topics covered again from scratch in the lectures so that no special prior knowledge is required?
+A sound level of prior knowledge is helpful to get started, but not essential. For some, the most difficult part is formal mathematics, e.g. "linear algebra" and "analysis". For example, you can look up what a vector space is and learn a little about matrices. However, the KU also offers a preliminary course before the start of the semester, in which some mathematical basics are covered. The maths courses during the first semester are structured in such a way that all topics are covered from the ground up and you can follow along without much prior knowledge.
+
+Is this degree program usually completed in the given time frame of three years or does it usually take a little longer?
+This degree program is relatively new.  It is designed to ensure that students successfully complete their studies in three years.
+
+What does the timetable look like during a semester?
+By clicking the link
+
+https://www.ku.de/mgf/studiengaenge/master/data-science
+
+you will find the current timetables for the different semesters in the 'Documents' section.
+
+Could you send me the module handbook for the degree program or refer me to an appropriate source?
+You can find such a module handbook on KU.Campus
+
+https://campus.ku.de/
+
+Here, please go to 'Information portal --> Degree programs'. Enter the degree program and the corresponding semester in the search mask. The module handbook appears in the top right-hand corner of the results list, either as a PDF or Word file.
+
+You can find the examination regulations under 'Key documents' on
+
+https://www.ku.de/en/mgf/studiengaenge/master/data-science
+
+Does the University offer its enrolled students free German lessons?
+We support you in achieving at least the required language proficiency level A2, as this must be proven after one year of studies. The University therefore regularly offers free German courses at least up to this level. These are usually scheduled so that they fit into your regular timetable, e.g. on Monday mornings.
+
+Is it possible to study Data Science online or as a hybrid foramt at the KU?
+The degree program is designed as an on-campus program. However, you will usually be provided with online teaching materials and even video recordings for some courses. This means that you can also learn the course content in independent study, although we highly recommend active participation in the courses. However, examinations must always be taken in person.
+
+When do I have to decide on one of the majors offered? And is it possible to change it retrospectively?
+At the end of the second semester, you should decide on a major and choose your courses accordingly from the third semester onwards. However, you can change your major at any time.
+
+Is it possible to spend a semester abroad and when should I do this?
+We are happy to support you in completing a semester abroad. If you are interested, we recommend that you do this in the fifth semester. More information is available at
+
+www.ku.de/en/international/ku-students/study-stays-abroad
+
+... on English as the teaching language
+Lectures and examinations are offered in English. We also offer examinations in German on request. All professors speak German and are willing to explain things in German outside of lectures.  Nowadays, communicating in English has become a necessary skill in science, but also in the industry in the field of research and development – the very fields in which many data scientists work. The KU also offers courses to improve your (English) language proficiency. More information is available here:
+
+https://www.ku.de/en/language-center
+
+Take a look at the following videos to get an impression of the fact that you really do not need in-depth language skills to understand the content of the basic lectures in Data Science:
+
+Prof. Götz Pfander: Linear Algebra 1, Systems of linear equations
+Prof. Götz Pfander: Linear Algebra 1, Ring theory
+Prof. Nadja Ray: Analysis 1, Sequences
+... on the KU Eichstätt-Ingolstadt
+Is the KU a private or a public University? Are the qualifications obtained here also recognized in other countries?
+The University is 85% funded by the Free State of Bavaria and all degree programs follow the same rules as at any other Bavarian university. The KU is considered a private university, but the degrees are the same as at any other German university and are equally recognized abroad. The Data Science degree program is internationally accredited. In addition, studying at the KU is free of charge.
+
+What will the chronological sequence be when I arrive in Ingolstadt?
+Before you travel to Ingolstadt, you should make sure you find accommodation in Ingolstadt (or the surrounding area) in good time. The KU International Office international@ku.de / welcome@ku.de  will be happy to help you. Please contact the KU International Office if you need further practical information. We have a student body that is there to help you, especially in your first days on campus. We also offer a preliminary course before the start of the regular lectures, in which students can get to know each other.
+
+Does the KU provide accommodation for its students and if so, how can I apply for it?
+The International Office international(at)ku.de will help you find accommodation and offers an accommodation service, see
+
+https://www.ku.de/fileadmin/1907/Dokumente_Incoming/Download_Incoming/Housing_Guide_New.pdf
+
+We recommend that you start looking for accommodation as early as possible.
+
+Does the University have a swimming pool and a gym, and is their use free of charge?
+There are many different sports that you can do at the KU. Check out the website of the University Sports Center at:
+
+https://www.ku.de/en/campus-life/sports
+
+Most of the sports courses are held in Eichstätt and the gym is also located there. However, private gyms also often have special offers for students. Swimming pools and gyms generally have very affordable student prices. The KU is currently working on expanding its free sports offering in Ingolstadt.
+
+... on life in Ingolstadt
+Could you please give me an overview of the monthly expenses I can expect during my stay as a student in Ingolstadt?
+Initial information in this respect can be found here.
+If you have any further questions on this topic, please contact the International Office welcome(at)ku.de
+Is it usually possible to speak English with people in Ingolstadt?
+Ingolstadt is quite a large city with many English-speaking people who work at Audi, for example, and an international atmosphere. In addition, many Ingolstadt residents commute to work in Munich, which is also very cosmopolitan.
+… on miscellaneous topics
+What can I do after completing this degree program? Will I get a job and will the University help me?
+Demand in the data science sector is very high on the job market. The Career Center of the KU offers information on internships and careers. It also regularly organizes various workshops and lectures on topics such as job applications, etc.
+
+What does the University's collaboration with Audi, Continental and Airbus mean?
+These and numerous other companies in the region value the study program we offer and will benefit from promising applications from our graduates. In order to get to know these companies better, you can apply for an internship with them during your studies.
+
+... German Language Courses
+At the KU, you have the opportunity to participate in German language courses for free.
+For further information, please visit the website of KU Language Center.
+
+The KU
+Studierende vor dem Eingang der Wirtschaftswissenschaftlichen Fakultät
+The KU has two campuses: Eichstätt and Ingolstadt. Seven faculties are located in Eichstätt. The Ingolstadt School of Management (WFI) and MIDS (Institute of Applied Mathematics, Machine Learning and Data Science) are located on our Ingolstadt campus.
+
+This degree program is taught on our Ingolstadt campus.
+
+Studying in Ingolstadt
+arrow right iconStudy location
+The district of Eichstätt and the city of Ingolstadt are located in the heart of Bavaria. This central location also means that the KU is easy to reach. The combination of a historic old town, modern infrastructure, attractive leisure facilities and lots of green spaces makes Ingolstadt – the second largest city in Upper Bavaria – an ideal place to study.  
+
+arrow right iconCampus
+Despite its central location in the city of Ingolstadt, the WFI campus is characterized by short distances. The KU is a campus University with modern facilities. The buildings on campus are located close to the Ingolstadt old town.
+
+arrow right iconMore than just a degree
+Studying at the KU not only provides you with the specialist knowledge you need, but also aims to open up real future prospects for its students. We want to support our students in finding their own personal path to their individual dream future! The question is not "What career do I want to pursue?", but rather "Who do I want to be?"
+
+Rankings and assessments
+KU students and alumni have voted for their University to be Germany's most popular university
+KU students and alumni voted it Germany's most popular university for the fourth time in the 2026 ranking (in addition to 2021, 2022 and 2024) of the online portal StudyCheck. This ranking is based on more than 70,000 submitted evaluations for over 500 higher education institutions and universities. 97 percent of those students who participated in the ranking would recommend studying at the KU to others.
+
+"Surely there is no better praise for a university than almost 100 percent of students and alumni agreeing: I can only recommend studying at the KU! This is why we are very pleased with the ranking’s outcome, because it expresses the high level of satisfaction of our students", says KU President Prof. Dr. Gabriele Gien.
+
+More ranking results
+
+Links
+scroll up
+International Office
+Faculty
+Study Group
+Mathematical Institute for Machine Learning and Data Science
