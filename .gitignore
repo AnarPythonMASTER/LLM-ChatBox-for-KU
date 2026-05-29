@@ -1,1 +1,7 @@
+__pycache__/
+*.pyc
+
 vector_db/
+
+.env
+.vscode/
