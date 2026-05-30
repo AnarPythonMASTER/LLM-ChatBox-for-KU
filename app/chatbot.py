@@ -451,6 +451,18 @@ def detect_topic(question):
     # Bachelor Data Science
     # ----------------
     if any(w in q for w in [
+        "internship",
+        "internships",
+        "practical connection",
+        "industrial internship",
+        "research internship",
+        "audi",
+        "continental",
+        "airbus"
+    ]):
+        return "bachelor_internship.txt"
+    
+    if any(w in q for w in [
         "bachelor deadline", "bachelor application deadline",
         "bachelor general", "bachelor degree", "semester fee bachelor",
         "standard length bachelor", "place of study bachelor",
