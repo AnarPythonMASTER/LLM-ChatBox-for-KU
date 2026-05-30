@@ -1,0 +1,65 @@
+Jobs at MIDS
+With its seven professorships, the Mathematical Institute for Machine Learning and Data Science covers a diverse and varied range of topics. Equally diverse are the job opportunities offered by our professors.
+
+We look forward to receiving your applications.
+
+Student assistants
+There is currently no vacancy.
+
+PhD students
+The following position is available at Prof. Voigtlaenders team:
+'The Catholic University of Eichstätt-Ingolstadt (KU) is a non-state university under church leadership and officially recognized by the Free State of Bavaria. It is committed to strong research and excellent teaching and combines first-class study conditions with an international focus. Eight faculties offer a wide range of subjects for around 5,000 students. The University employs 900 people of different faiths and beliefs. Grounded in the Christian view of human life, the KU aims to create an academic and educational culture of responsibility.
+
+The research group Reliable Machine Learning at the KU Eichstätt-Ingolstadt is seeking highly motivated candidates for a part-time position (75%) at the next possible date as a
+
+PhD Student (m/f/d)
+
+with contract duration of 3 years. The place of work will be in Ingolstadt. The salary is prescribed by the framework of the collective agreement (TV-L), Level 13 (75%).
+
+The research group Reliable Machine Learning (headed by Prof. Felix Voigtlaender) is part of the Mathematical Institute for Machine Learning and Data Science (MIDS) at the KU Eichstätt-Ingolstadt and is funded by the High-Tech Agenda of Bavaria. The advertised position is funded via the Emmy Noether project “Stability and Solvability in Deep Learning”. This project focuses on mathematically analyzing machine learning algorithms with a particular focus on questions of stability, computability, and robustness of methods from Deep Learning.
+
+Your tasks
+•	Contribution to the research project “Stability and Solvability in Deep Learning”, where your research will be a part of your dissertation
+•	Knowledge transfer via publications and via participation in conferences
+
+Your profile
+•	Master's degree (or equivalent degree) in mathematics, preferably with a focus on one of the following topics:
+o	Machine learning
+o	(High-dimensional) probability theory
+o	Real and functional analysis
+o	Information-based complexity
+The master's degree may still be in the process of completion at the time of application, but the degree must be completed at the start of the position.
+•	Interest in mathematical analysis of machine learning algorithms
+•	Practical experience in programming and machine learning (desirable but not mandatory)
+•	German language skills are not required, but candidates are encouraged to develop those during their employment at the KU
+
+Our offer
+•	Possibility to pursue own research interests and obtain a PhD in mathematics
+•	Attractive and team-oriented workplace in a modern university environment
+•	Interesting, responsible, and versatile range of tasks
+•	International contacts
+ 
+
+
+Your application
+Please send your application as a single PDF file containing the following:
+•	Cover letter
+•	CV
+•	List of publications (if any)
+•	(Scanned) Certificates of academic degrees (BSc, MSc, etc.), including courses taken and grades
+•	Electronic copy of (or the current draft of) the master’s thesis 
+(The master's degree may still be in the process of completion at the time of application, but the degree must be completed at the start of the position.)
+•	Letter of recommendation 
+
+via e-mail by June 21, 2026 to Prof. Dr. Felix Voigtlaender via BITE Applicant Portal.
+Application documents submitted will be deleted after completion of the recruitment process in compliance with data protection regulations.
+
+All employees are obliged to acknowledge the nature and mission of the KU as stipulated in its Mission Statement and Foundation Charter. The University is therefore interested in receiving applications with relevant information in this regard. There are no specific denominational require-ments for being employed at the KU.
+
+The KU is committed to promoting equal opportunities for men and women, and aims to ensure that its members are able to balance work and family life. Candidates with severe disabilities who are equally suitable to other applicants will be prioritized.
+
+'
+
+Job Posting Prof. Voigtlaender[75 KB | DOCX]
+Research assistants
+There is currently no vacancy.

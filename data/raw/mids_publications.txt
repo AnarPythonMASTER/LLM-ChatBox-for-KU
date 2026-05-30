@@ -1,0 +1,2125 @@
+Mathematical Institut for Machine Learning and Data Science
+Here you will find an overview of the publications produced at MIDS:
+
+2026
+Open AccessVolltext file
+Bartel, Felix ; Schröter, Pascal:
+Learning and Leveraging Anisotropy Parameters in ANOVA Approximation.
+In: The journal of Fourier analysis and applications. 32 (2. April 2026) 2: 42.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-026-10256-0
+(Peer-Review-Journal)
+Open AccessVolltext file
+Hoshyaripour, Gholam Ali ; Baer, Andreas ; Bierbauer, Sascha ; Bruckert, Julia ; Brunner, Dominik ; Förstner, Jochen ; Hamzehloo, Arash ; Hanft, Valentin ; Keller, Corina ; Klose, Martina ; Kumar, Pankaj ; Ludwig, Patrick ; Metzner, Enrico ; Muth, Lisa ; Pauling, Andreas ; Porz, Nikolas ; Ramezani Ziarani, Maryam ; Reddmann, Thomas ; Reißig, Luca ; Ruhnke, Roland ; Satitkovitchai, Khompat ; Seifert, Axel ; Sinnhuber, Miriam ; Steiner, Michael ; Versick, Stefan ; Vogel, Heike ; Weimer, Michael ; Werchner, Sven ; Hoose, Corinna:
+The atmospheric composition component of the ICON modeling framework : ICON-ART version 2025.10.
+In: Geoscientific model development. 19 (27. Februar 2026) 4. - S. 1645-1681.
+ISSN 1991-9603 ; 1991-959x
+10.5194/gmd-19-1645-2026
+(Peer-Review-Journal)
+Volltext
+Zhou, Junyu ; Huang, Shuo ; Feng, Han ; Wang, Puyu ; Zhou, Ding-Xuan:
+Fine-Grained Analysis of Nonparametric Estimation for Pairwise Learning.
+In: IEEE Transactions on Neural Networks and Learning Systems. (Februar 2026). - 12 S.
+ISSN 2162-237x
+10.1109/TNNLS.2026.3661550
+(Peer-Review-Journal)
+Open AccessVolltext file
+Van Velthoven, Jordy Timo ; Voigtlaender, Felix:
+Discrete Triebel-Lizorkin spaces and expansive matrices.
+In: Journal of functional analysis. 290 (2026) 7: 111316.
+ISSN 0022-1236 ; 1096-0783
+10.1016/j.jfa.2025.111316
+(Peer-Review-Journal)
+Open AccessVolltext file
+Caragea, Andrei ; von Dichter, Katherina ; Gottwald, Kurt Klement ; Grundbacher, Florian ; Jahn, Thomas ; Runge, Mia:
+Minkowski chirality : A measure of reflectional asymmetry of convex bodies.
+In: Journal of mathematical analysis and applications. 557 (2026) 1: 130287.
+ISSN 0022-247x ; 1096-0813
+10.1016/j.jmaa.2025.130287
+(Peer-Review-Journal)
+Open AccessVolltext file
+Tavakoli, Sasan ; Bilandi, Rasul Niazmand ; Roshan, Fatemeh ; Singh, Mansi ; Mancini, Simone:
+Planing hull dynamics in water waves : Physical insights from nonlinear strip theory models and fully nonlinear computational fluid dynamics simulations.
+In: Physics of fluids. 38 (2026): 027129.
+ISSN 1089-7666 ; 1070-6631
+!0.1063/5.0311446
+(Peer-Review-Journal)
+2025
+Open AccessVolltext file
+Tavakoli, Sasan ; Singh, Mansi ; Hosseinzadeh, Saeed ; Hu, Zhengyu ; Shao, Yaniln ; Wang, Shan ; Huang, Luofeng ; Grammatikopoulos, Apostolos ; Li, Yuzhu Pearl ; Khojasteh, Danial ; Liu, Jin ; Dolatshah, Azam ; Cheng, Hui ; Hirdaris, Spyros:
+A review of flexible fluid-structure interactions in the ocean : Progress, challenges, and future directions.
+In: Ocean engineering : an international journal of research and development. 342 (Dezember 2025): 122545.
+ISSN 0029-8018 ; 1873-5258
+10.1016/j.oceaneng.2025.122545
+(Peer-Review-Journal)
+Open AccessVolltext file
+Mohamad, Haidar ; Oliver, Marcel:
+High-order uniformly accurate time integrators for semilinear wave equations of Klein–Gordon type in the non-relativistic limit.
+In: BIT : numerical mathematics ; the leading applied mathematics journal for all computational mathematicians / BIT Foundation. 65 (September 2025): 42.
+ISSN 0006-3835 ; 1572-9125
+10.1007/s10543-025-01084-7
+(Peer-Review-Journal)
+Open AccessVolltext file
+Geuchen, Paul ; Salanevich, Palina ; Schavemaker, Olov ; Voigtlaender, Felix:
+On best approximation by multivariate ridge functions with applications to generalized translation networks.
+In: Mathematical foundations of machine learning. 1 (Juli 2025) 1.
+10.1007/s44439-025-00002-7
+(Peer-Review-Journal)
+Open AccessVolltext file
+Prifling, Benedikt ; Weber, Matthias ; Rötzer, Maximilian ; Ray, Nadja ; Prechtel, Alexander ; Phalempin, Maxime ; Schlüter, Steffen ; Vetterlein, Doris ; Schmidt, Volker:
+Correlating pore space morphology with numerically computed soil gas diffusion for structured loam and sand, including stochastic 3D microstructure modeling.
+In: Scientific Reports. 15 (Juni 2025): 20174.
+ISSN 2045-2322
+10.1038/s41598-025-05825-0
+(Peer-Review-Journal)
+Volltext
+Kostin, Julia ; Krahmer, Felix ; Stöger, Dominik:
+How robust is randomized blind deconvolution via nuclear norm minimization against adversarial noise?
+In: Applied and computational harmonic analysis. 76 (April 2025): 101746.
+ISSN 1063-5203 ; 1096-603x
+10.1016/j.acha.2024.101746
+(Peer-Review-Journal)
+Open AccessVolltext file
+Hubbert, Simon ; Jäger, Janin:
+Closed form representations for the compactly supported radial basis functions of Buhmann, Wendland and Wu.
+In: Advances in computational mathematics. 51 (2025) 6: 48.
+ISSN 1019-7168 ; 1572-9044
+10.1007/s10444-025-10262-8
+(Peer-Review-Journal)
+Open AccessVolltext file
+Rave, Alexander ; Fontaine, Pirmin ; Kuhn, Heinrich:
+Cyclic stochastic two-echelon inventory routing for an application in medical supply.
+In: European Journal of Operational Research. 325 (2025) 1. - S. 81-99.
+ISSN 0377-2217
+10.1016/j.ejor.2025.02.032
+(Peer-Review-Journal)
+Open AccessVolltext file
+Gückel, Johannes ; Fontaine, Pirmin:
+Fast Shapley Value Approximation Through Machine Learning With Application in Routing Problems.
+In: Networks : an international journal. 86 (2025) 4. - S. 402-427.
+ISSN 0028-3045 ; 1097-0037
+10.1002/net.70003
+(Peer-Review-Journal)
+Open AccessVolltext file
+Voigtlaender, Felix:
+Rezension von: Hardt, Moritz; Recht, Benjamin: Patterns, predictions, and actions : foundations of machine learning. Princeton, 2022.
+In: Mathematische Semesterberichte. 72 (2025). - S. 73-76.
+ISSN 0720-728x ; 0340-4897
+10.1007/s00591-025-00386-9
+Open AccessVolltext file
+Ramezani Ziarani, Maryam ; Sinnhuber, Miriam ; Reddmann, Thomas ; Funke, Bernd ; Bender, Stefan ; Prather, Michael:
+Implementation of solar UV and energetic particle precipitation within the LINOZ scheme in ICON-ART.
+In: Geoscientific model development. 18 (2025) 20. - S. 7891-7905.
+ISSN 1991-9603 ; 1991-959x
+10.5194/gmd-18-7891-2025
+(Peer-Review-Journal)
+Volltext
+Soltanolkotabi, Mahdi ; Stöger, Dominik ; Xie, Changzhi:
+Implicit Balancing and Regularization : Generalization and Convergence Guarantees for Overparameterized Asymmetric Matrix Sensing.
+In: IEEE transactions on information theory. 71 (2025) 4. - S. 2991-3037.
+ISSN 0018-9448 ; 1557-9654
+10.1109/TIT.2025.3530335
+(Peer-Review-Journal)
+Open AccessVolltext file
+Kazarnikov, Alexey ; Ray, Nadja ; Haario, Heikki ; Lappalainen, Joona ; Rupp, Andreas:
+Parameter estimation for cellular automata.
+In: Japanese journal of statistics and data science. 8 (2025). - S. 995-1020.
+ISSN 2520-8764
+10.1007/s42081-024-00283-w
+(Peer-Review-Journal)
+Open AccessVolltext file
+Krishtal, Ilya A. ; Pfander, Götz E.:
+Prony’s Method in Banach Modules.
+In: The journal of Fourier analysis and applications. 31 (2025): 72.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-025-10200-8
+(Peer-Review-Journal)
+Open AccessVolltext file
+Müllerklein, Daniel ; Fontaine, Pirmin:
+Resilient transportation network design with disruption uncertainty and lead times.
+In: European Journal of Operational Research. 322 (2025) 3. - S. 827-840.
+ISSN 0377-2217
+10.1016/j.ejor.2024.11.021
+(Peer-Review-Journal)
+Open AccessVolltext file
+Geuchen, Paul ; Jahn, Thomas ; Matt, Hannes:
+Universal approximation with complex-valued deep narrow neural networks.
+In: Constructive approximation. 62 (2025). - S. 361-402.
+ISSN 0176-4276 ; 1432-0940
+10.1007/s00365-025-09713-8
+(Peer-Review-Journal)
+Volltext
+Geuchen, Paul ; Stöger, Dominik ; Telaar, Thomas ; Voigtlaender, Felix:
+Upper and lower bounds for the Lipschitz constant of random neural networks.
+In: Information and Inference : a Journal of the IMA. 14 (2025) 2: iaaf009.
+ISSN 2049-8772 ; 2049-8764
+10.1093/imaiai/iaaf009
+(Peer-Review-Journal)
+2024
+Open AccessVolltext file
+Rave, Alexander ; Fontaine, Pirmin:
+The location routing problem with time windows and load-dependent travel times for cargo bikes.
+In: European Journal of Operational Research. (3. Dezember 2024). - 11 S.
+ISSN 0377-2217
+10.1016/j.ejor.2024.11.040
+(Peer-Review-Journal)
+Open AccessVolltext file
+Führ, Hartmut ; Van Velthoven, Jordy Timo ; Voigtlaender, Felix:
+On Wavelet Coorbit Spaces Associated to Different Dilation Groups.
+In: The journal of Fourier analysis and applications. 30 (27. November 2024): 74. - 43 S.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-024-10132-9
+(Peer-Review-Journal)
+Open AccessVolltext file
+Holighaus, Nicki ; Voigtlaender, Felix:
+Coorbit theory of warped time-frequency systems in ℝᵈ.
+In: The journal of Fourier analysis and applications. 30 (25. Oktober 2024): 62. - 87 S.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-024-10098-8
+(Peer-Review-Journal)
+Volltext
+Buhmann, Martin ; Jäger, Janin ; Jódar, Joaquín ; Rodriguez, Miguel L.:
+New methods for quasi-interpolation approximations : Resolution of odd-degree singularities.
+In: Mathematics and computers in simulation : transactions of IMACS / International Association for Mathematics and Computers in Simulation. 223 (September 2024). - S. 50-64.
+ISSN 0378-4754 ; 0020-594x
+10.1016/j.matcom.2024.03.032
+(Peer-Review-Journal)
+Open AccessVolltext file
+Van Velthoven, Jordy Timo ; Voigtlaender, Felix:
+Classification of anisotropic local Hardy spaces and inhomogeneous Triebel–Lizorkin spaces.
+In: Mathematische Zeitschrift. 307 (19. Juni 2024): 55. - 30 S.
+ISSN 1432-1823 ; 0025-5874
+10.1007/s00209-024-03538-0
+(Peer-Review-Journal)
+Open AccessVolltext file
+Buhmann, Martin ; Jäger, Janin ; Xu, Yuan:
+l1-summability and Fourier series of B-splines with respect totheir knots.
+In: Mathematische Zeitschrift. 306 (17. März 2024) 3: 53.
+ISSN 1432-1823 ; 0025-5874
+10.1007/s00209-024-03440-9
+(Peer-Review-Journal)
+Open AccessVolltext file
+Zech, Simon ; Prechtel, Alexander ; Ray, Nadja:
+Coupling scales in process‐based soil organic carbon modeling including dynamic aggregation.
+In: Journal of plant nutrition and soil science = Zeitschrift für Pflanzenernährung und Bodenkunde. 187 (18. Februar 2024) 1. - S. 130-142.
+ISSN 1522-2624
+10.1002/jpln.202300080
+(Peer-Review-Journal)
+Volltext
+Totsche, Kai Uwe ; Ray, Nadja ; Kögel-Knabner, Ingrid:
+Structure–function co‐evolution during pedogenesis : Microaggregate development and turnover in soils.
+In: Journal of plant nutrition and soil science = Zeitschrift für Pflanzenernährung und Bodenkunde. 187 (Februar 2024) 1. - S. 5-16.
+ISSN 1522-2624
+10.1002/jpln.202400012
+(Peer-Review-Journal)
+Volltext
+Hagspihl, Thomas ; Kolisch, Rainer ; Fontaine, Pirmin ; Schiffels, Sebastian:
+Apron layout planning : Optimal positioning of aircraft stands.
+In: Transportation research. Part B, Methodological. 179 (Januar 2024): 102854. - 27 S.
+ISSN 0191-2615
+10.1016/j.trb.2023.102854
+(Peer-Review-Journal)
+Volltext
+Pfander, Götz E. ; Revay, Shauna ; Walnut, David:
+Exponential bases for partitions of intervals.
+In: Applied and computational harmonic analysis. 68 (Januar 2024): 101607.
+ISSN 1063-5203 ; 1096-603x
+10.1016/j.acha.2023.101607
+(Peer-Review-Journal)
+Volltext
+Kutsenko, Anton ; Danilov, Sergey ; Juricke, Stephan ; Oliver, Marcel:
+On the relation between Fourier and Walsh–Rademacher spectra for random fields.
+In: Applied and computational harmonic analysis. 68 (Januar 2024): 101603.
+ISSN 1063-5203 ; 1096-603x
+10.1016/j.acha.2023.101603
+(Peer-Review-Journal)
+Open AccessVolltext file
+Amelung, Wulf ; Tang, Ni ; Siebers, Nina ; Aehnelt, Michaela ; Eusterhues, Karin ; Felde, Vincent ; Guggenberger, Georg ; Kaiser, Klaus ; Kögel-Knabner, Ingrid ; Klumpp, Erwin ; Knief, Claudia ; Kruse, Jens ; Lehndorff, Eva ; Mikutta, Robert ; Peth, Stephan ; Ray, Nadja ; Prechtel, Alexander ; Ritschel, Thomas ; Schweizer, Steffen A.:
+Architecture of soil microaggregates: Advancedmethodologies to explore properties and functions.
+In: Journal of plant nutrition and soil science = Zeitschrift für Pflanzenernährung und Bodenkunde. 187 (2024) 1. - S. 17-50.
+ISSN 1522-2624
+10.1002/jpln.202300149
+(Peer-Review-Journal)
+Open AccessVolltext file
+Caragea, Andrei:
+Balian-Low phenomena, exponential bases and neural network approximation.
+Eichstätt, 2024. - 203, 14 S.
+10.17904/ku.opus-908
+(Dissertation, 2023, Katholische Universität Eichstätt-Ingolstadt)
+Open AccessVolltext file
+Koppensteiner, Sarah ; Van Velthoven, Jordy Timo ; Voigtlaender, Felix:
+Classification of anisotropic Triebel-Lizorkin spaces.
+In: Mathematische Annalen. 389 (2024). - S. 1883-1923.
+ISSN 1432-1807 ; 0025-5831
+10.1007/s00208-023-02690-y
+(Peer-Review-Journal)
+Open AccessVolltext file
+Kutsenko, Anton:
+Complete Left Tail Asymptotic for the Density of Branching Processes in the Schröder Case.
+In: The journal of Fourier analysis and applications. 30 (2024): 39. - 12 S.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-024-10096-w
+(Peer-Review-Journal)
+Volltext
+Lee, Dae Gwan ; Pfander, Götz E. ; Walnut, David:
+Cube Tilings with Linear Constraints.
+In: Results in mathematics = Resultate der Mathematik. 79 (2024): 212.
+ISSN 1422-6383 ; 1420-9012
+10.1007/s00025-024-02243-y
+(Peer-Review-Journal)
+Volltext
+Oliver, Marcel ; Kenfack, Marc A. Tiofack:
+Deterministic and Stochastic Surrogate Models for a Slowly Driven Fast Oscillator.
+In: SIAM Journal on Applied Dynamical Systems. 23 (2024) 2. - S. 1090-1107.
+ISSN 1536-0040
+10.1137/23M1602176
+(Peer-Review-Journal)
+Volltext
+Lee, Dae Gwan ; Pfander, Götz E. ; Walnut, David:
+Exponential Bases for Parallelepipeds with Frequencies Lying in a Prescribed Lattice.
+In: Results in mathematics = Resultate der Mathematik. 79 (2024): 238.
+ISSN 1422-6383 ; 1420-9012
+10.1007/s00025-024-02267-4
+(Peer-Review-Journal)
+Volltext
+Kümmerle, Christian ; Stöger, Dominik:
+Linear Convergence of Iteratively Reweighted Least Squares for Nuclear Norm Minimization.
+In: 2024 IEEE 13rd Sensor Array and Multichannel Signal Processing Workshop (SAM). - Corvallis, OR, USA : IEEE, 2024
+ISBN 979-8-3503-4481-3 ; 979-8-3503-4482-0
+10.1109/SAM60225.2024.10636588
+(Begutachteter Beitrag / peer-reviewed paper)
+Open AccessVolltext file
+Gärttner, Stephan ; Knabner, Peter ; Ray, Nadja:
+Local existence of strong solutions to micro–macro models for reactive transport in evolving porous media.
+In: European journal of applied mathematics. 35 (2024) 1. - S. 127-154.
+ISSN 0956-7925 ; 1469-4425
+10.1017/S095679252300013X
+(Peer-Review-Journal)
+Open AccessVolltext file
+Filbir, Frank ; Hielscher, Ralf ; Jahn, Thomas ; Ullrich, Tino:
+Marcinkiewicz–Zygmund inequalities for scattered and random data on the q-sphere.
+In: Applied and computational harmonic analysis. 71 (2024): 101651. - 18 S.
+ISSN 1063-5203 ; 1096-603x
+10.1016/j.acha.2024.101651
+(Peer-Review-Journal)
+Emery, Xavier ; Jäger, Janin ; Porcu, Emilio:
+Positive semidefinite kernels that are axially symmetric on the sphere and stationary in time : spectral and semi-spectral theory, and constructive approaches.
+In: Stochastic Environmental Research and Risk Assessment. 38 (2024). - S. 2315-2329.
+ISSN 1436-3240 ; 1436-3259
+(Peer-Review-Journal)
+Open AccessVolltext file
+Grohs, Philipp ; Voigtlaender, Felix:
+Proof of the Theory-to-Practice Gap in Deep Learning via Sampling Complexity bounds for Neural Network Approximation Spaces.
+In: Foundations of computational mathematics. 24 (2024). - S. 1085-1143. - 42 S.
+ISSN 1615-3375 ; 1615-3383
+10.1007/s10208-023-09607-w
+(Peer-Review-Journal)
+Open AccessVolltext file
+Guella, Jean Carlo ; Jäger, Janin:
+Strictly positive definite non-isotropic kernels on two-point homogeneous manifolds : the asymptotic approach.
+In: Positivity. 28 (2024): 4. - 14 S.
+ISSN 1385-1292 ; 1572-9281
+10.1007/s11117-023-01022-3
+(Peer-Review-Journal)
+Open AccessVolltext file
+Bänsch, Eberhard ; Doß, Martin ; Gräser, Carsten ; Ray, Nadja:
+Well-posedness of an evaporation model for a spherical droplet exposed to an air flow.
+In: Interfaces and free boundaries : mathematical analysis, computation and applications. 27 (2024) 1. - S. 91-121.
+ISSN 1463-9963 ; 1463-9971
+10.4171/ifb/524
+(Peer-Review-Journal)
+2023
+Volltext
+Geuchen, Paul ; Voigtlaender, Felix:
+Optimal approximation using complex-valued neural networks.
+2023
+Veranstaltung: NeurlPS 2023.
+(Veranstaltungsbeitrag: Kongress/Konferenz/Symposium/Tagung, Moderation/Leitung)
+10.48550/arXiv.2303.16813
+Open AccessVolltext file
+Prifling, Benedikt ; Weber, Matthias ; Ray, Nadja ; Prechtel, Alexander ; Phalempin, Maxime ; Schlüter, Steffen ; Vetterlein, Doris ; Schmidt, Volker:
+Quantifying the impact of 3D pore space morphology on soil gas diffusion in loam and sand.
+In: Transport in porous media : TIPM. 149 (12. Juni 2023) 2. - S. 501-527.
+ISSN 1573-1634 ; 0169-3913
+10.1007/s11242-023-01971-z
+(Peer-Review-Journal)
+Open AccessVolltext file
+Koppensteiner, Sarah ; Van Velthoven, Jordy Timo ; Voigtlaender, Felix:
+Anisotropic Triebel–Lizorkin spaces and wavelet coefficient decay over one-parameter dilation groups, I.
+In: Monatshefte für Mathematik. 201 (2023). - S. 375-429.
+ISSN 0026-9255 ; 1436-5081
+10.1007/s00605-023-01827-0
+(Peer-Review-Journal)
+Open AccessVolltext file
+Koppensteiner, Sarah ; Van Velthoven, Jordy Timo ; Voigtlaender, Felix:
+Anisotropic Triebel–Lizorkin spaces and wavelet coefficient decay over one-parameter dilation groups, II.
+In: Monatshefte für Mathematik. 201 (2023). - S. 431-464.
+ISSN 0026-9255 ; 1436-5081
+10.1007/s00605-023-01824-3
+(Peer-Review-Journal)
+Open AccessVolltext file
+Kutsenko, Anton:
+Approximation of the Number of Descendants in Branching Processes.
+In: Journal of statistical physics. 190 (2023) 3: 68.
+ISSN 1572-9613 ; 0022-4715
+10.1007/s10955-023-03079-6
+(Peer-Review-Journal)
+Open AccessVolltext file
+Caragea, Andrei ; Lee, Dae Gwan ; Philipp, Friedrich ; Voigtlaender, Felix:
+A Balian–Low type theorem for Gabor Riesz sequences of arbitrary density.
+In: Mathematische Zeitschrift. 303 (2023) 2: 48. - 23 S.
+ISSN 1432-1823 ; 0025-5874
+10.1007/s00209-022-03182-6
+(Peer-Review-Journal)
+Volltext
+Fontaine, Pirmin ; Minner, Stefan:
+A Branch-and-Repair Method for Three-Dimensional Bin Selection and Packing in E-Commerce.
+In: Operations research. 71 (2023) 1. - S. 273-288.
+ISSN 0030-364x ; 1526-5463
+10.1287/opre.2022.2369
+(Peer-Review-Journal)
+Open AccessVolltext file
+Chouksey, Manita ; Eden, Carsten ; Masur, Gökce Tuba ; Oliver, Marcel:
+A comparison of methods to balance geophysical flows.
+In: Journal of fluid mechanics. 971 (2023). - 19 S.
+ISSN 0022-1120 ; 1469-7645
+10.1017/jfm.2023.602
+(Peer-Review-Journal)
+Open AccessVolltext file
+Janjić, Tijana ; Lukáčová-Medviďová, Maria ; Ruckstuhl, Yvonne ; Wiebe, Bettina:
+Comparison of uncertainty quantification methods for cloud simulation.
+In: Quarterly journal of the Royal Meteorological Society. 149 (2023) 756. - S. 2895-2910.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.4537
+(Peer-Review-Journal)
+Volltext
+Darbenas, Zymantas ; van der Hout, Rein ; Oliver, Marcel:
+Conditional uniqueness of solutions to the Keller–Rubinow model for Liesegang rings in the fast reaction limit.
+In: Journal of differential equations. 347 (2023). - S. 212-245.
+ISSN 1090-2732 ; 0022-0396
+10.1016/j.jde.2022.11.038
+(Peer-Review-Journal)
+Open AccessVolltext
+Rave, Alexander ; Fontaine, Pirmin ; Kuhn, Heinrich:
+Cyclic Stochastic Inventory Routing Planning with Reorder Points and Recourse Decision for an Application in Medical Supply.
+SSRN, 2023. - 35 S.
+10.2139/ssrn.4421477
+Volltext
+Rave, Alexander ; Fontaine, Pirmin ; Kuhn, Heinrich:
+Drone location and vehicle fleet planning with trucks and aerial drones.
+In: European Journal of Operational Research. 308 (2023) 1. - S. 113-130.
+ISSN 0377-2217
+10.1016/j.ejor.2022.10.015
+(Peer-Review-Journal)
+Open AccessVolltext file
+Gärttner, Stephan ; Alpak, Faruk O. ; Meier, Andreas ; Ray, Nadja ; Frank, Florian:
+Estimating permeability of 3D micro-CT images by physics-informed CNNs based on DNS.
+In: Computational geosciences : modeling, simulation and data analysis. 27 (2023). - S. 245-262.
+ISSN 1420-0597 ; 1573-1499
+10.1007/s10596-022-10184-0
+(Peer-Review-Journal)
+Open AccessVolltext file
+Gärttner, Stephan ; Frank, Florian ; Woller, Fabian ; Meier, Andreas ; Ray, Nadja:
+Estimating relative diffusion from 3D micro-CT images using CNNs.
+In: Artificial intelligence in geosciences. 4 (2023). - S. 199-208.
+ISSN 2666-5441
+10.1016/j.aiig.2023.11.001
+(Peer-Review-Journal)
+Open AccessVolltext file
+Abreu, Daniel Luìs ; Mouayn, Zouhair ; Voigtlaender, Felix:
+A fractal uncertainty principle for Bergman spaces and analytic wavelets.
+In: Journal of mathematical analysis and applications. 519 (2023) 1: 126699.
+ISSN 0022-247x ; 1096-0813
+10.1016/j.jmaa.2022.126699
+(Peer-Review-Journal)
+Open AccessVolltext
+Soltanolkotabi, Mahdi ; Stöger, Dominik ; Xie, Changzhi:
+Implicit Balancing and Regularization : Generalization and Convergence Guarantees for Overparameterized Asymmetric Matrix Sensing.
+In: Proceedings of Machine Learning Research. 195 (2023). - S. 5140-5142.
+ISSN 2640-3498
+(Peer-Review-Journal)
+Open AccessVolltext file
+Schulz, Raphael ; Gärttner, Stephan ; Ray, Nadja:
+Investigations of effective dispersion models for electroosmotic flow with rigid and free boundaries in a thin strip.
+In: Mathematical methods in the applied sciences. 47 (2023) 1. - S. 206-228.
+ISSN 1099-1476 ; 0170-4214
+10.1002/mma.9651
+(Peer-Review-Journal)
+Volltext
+Cheng, Sibo ; Quilodrán-Casas, César ; Ouala, Said ; Farchi, Alban ; Liu, Che ; Tandeo, Pierre ; Fablet, Ronan ; Lucor, Didier ; Iooss, Bertrand ; Brajard, Julien ; Xiao, Dunhui ; Janjić, Tijana ; Ding, Weiping ; Guo, Yike ; Carrassi, Alberto ; Bocquet, Marc ; Arcucci, Rossella:
+Machine Learning with Data Assimilation and Uncertainty Quantification for Dynamical Systems : a Review.
+In: IEEE/CAA Journal of Automatica Sinica. 10 (2023) 6. - S. 1361-1387.
+ISSN 2329-9266
+10.1109/JAS.2023.123537
+(Peer-Review-Journal)
+Volltext
+Doß, Martin ; Ray, Nadja ; Bänsch, Eberhard:
+Modeling and simulation of single droplet drying in an acoustic levitator.
+In: Drying technology : an international journal. 41 (2023) 13. - S. 2088-2104.
+ISSN 1532-2300 ; 0737-3937
+10.1080/07373937.2023.2218162
+(Peer-Review-Journal)
+Volltext
+Caragea, Andrei ; Petersen, Philipp ; Voigtlaender, Felix:
+Neural network approximation and estimation of classifiers with classification boundary in a Barron class.
+In: The annals of applied probability : an official journal of the Institute of Mathematical Statistics. 33 (2023) 4. - S. 3039-3079.
+10.1214/22-AAP1884
+(Peer-Review-Journal)
+Volltext
+Kutsenko, Anton:
+A note on exotic integrals.
+In: Proceedings of the American Mathematical Society. 151 (2023) 4. - S. 1697-1703.
+ISSN 0002-9939 ; 1088-6826
+10.1090/proc/16279
+(Peer-Review-Journal)
+Open AccessVolltext file
+Lee, Dae Gwan ; Philipp, Friedrich ; Voigtlaender, Felix:
+A Note on the Invertibility of the Gabor Frame Operator on Certain Modulation Spaces.
+In: The journal of Fourier analysis and applications. 29 (2023): 3.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-022-09980-0
+(Peer-Review-Journal)
+Open AccessVolltext file
+Rötzer, Maximilian ; Prechtel, Alexander ; Ray, Nadja:
+Pore scale modeling of the mutual influence of roots and soil aggregation in the rhizosphere.
+In: Frontiers in soil science. 3 (2023). - 16 S.
+ISSN 2673-8619
+10.3389/fsoil.2023.1155889
+(Peer-Review-Journal)
+Open AccessVolltext file
+Prifling, Benedikt ; Weber, Matthias ; Ray, Nadja ; Prechtel, Alexander ; Phalempin, Maxime ; Schlüter, Steffen ; Vetterlein, Doris ; Schmidt, Volker:
+Quantifying the Impact of 3D Pore Space Morphology on Soil Gas Diffusion in Loam and Sand.
+In: Transport in porous media : TIPM. 149 (2023). - S. 501-527.
+ISSN 1573-1634 ; 0169-3913
+10.1007/s11242-023-01971-z
+(Peer-Review-Journal)
+Volltext
+Masur, Gökce Tuba ; Mohamad, Haidar ; Oliver, Marcel:
+Quasi-Convergence of an Implementation of Optimal Balance by Backward-Forward Nudging.
+In: Multiscale modeling & simulation. 21 (2023) 2. - S. 624-640.
+ISSN 1540-3467 ; 1540-3459
+10.1137/22M1506018
+(Peer-Review-Journal)
+Volltext
+Lee, Kiryung ; Stöger, Dominik:
+Randomly Initialized Alternating Least Squares : Fast Convergence for Matrix Sensing.
+In: SIAM Journal on Mathematics of Data Science. 5 (2023) 3. - S. 774-799.
+ISSN 2577-0187
+10.1137/22M1506456
+(Peer-Review-Journal)
+Volltext
+Ma, Anna ; Stöger, Dominik ; Zhu, Yizhe:
+Robust Recovery of Low-Rank Matrices and Low-Tubal-Rank Tensors from Noisy Sketches.
+In: SIAM journal on matrix analysis and applications / Society for Industrial and Applied Mathematics, SIAM. 44 (2023) 4. - S. 1566-1588.
+ISSN 1095-7162
+10.1137/22M150071X
+(Peer-Review-Journal)
+Volltext
+Jahn, Thomas ; Ullrich, Tino ; Voigtlaender, Felix:
+Sampling numbers of smoothness classes via ℓ1-minimization.
+In: Journal of complexity. 79 (2023): 101786. - 35 S.
+ISSN 0885-064x
+10.1016/j.jco.2023.101786
+(Peer-Review-Journal)
+Open AccessVolltext file
+Juricke, Stephan ; Bellinghausen, Kai ; Danilov, Sergey ; Kutsenko, Anton ; Oliver, Marcel:
+Scale Analysis on Unstructured Grids : Kinetic Energy and Dissipation Power Spectra on Triangular Meshes.
+In: Journal of advances in modeling earth systems. 15 (2023) 1. - 20 S.
+ISSN 1942-2466
+10.1029/2022MS003280
+(Peer-Review-Journal)
+Volltext
+Fontaine, Pirmin ; Minner, Stefan ; Schiffer, Maximilian:
+Smart and sustainable city logistics : design, consolidation, and regulation.
+In: European Journal of Operational Research. 307 (2023) 3. - S. 1071-1084.
+ISSN 0377-2217
+10.1016/j.ejor.2022.09.022
+(Peer-Review-Journal)
+Open AccessVolltext file
+Jung, Hyunju ; Knippertz, Peter ; Ruckstuhl, Yvonne ; Redl, Robert ; Janjić, Tijana ; Hoose, Corinna:
+Understanding the dependence of mean precipitation on convective treatment and horizontal resolution in tropical aquachannel experiments.
+In: Weather and climate dynamics : an interactive open-access journal of the European. 4 (2023) 4. - S. 1111-1134.
+ISSN 2698-4016 ; 2698-4008
+10.5194/wcd-4-1111-2023
+(Peer-Review-Journal)
+Volltext
+Voigtlaender, Felix:
+The universal approximation theorem for complex-valued neural networks.
+In: Applied and computational harmonic analysis. 64 (2023). - S. 33-61.
+ISSN 1063-5203 ; 1096-603x
+10.1016/j.acha.2022.12.002
+(Peer-Review-Journal)
+2022
+Open AccessVolltext file
+Kelm, Mathis ; Gärttner, Stephan ; Bringedal, Carina ; Flemisch, Bernd ; Knabner, Peter ; Ray, Nadja:
+Comparison study of phase-field and level-set method for three-phase systems including two minerals.
+In: Computational geosciences : modeling, simulation and data analysis. 26 (14. April 2022) 3. - S. 545-570.
+ISSN 1420-0597 ; 1573-1499
+10.1007/s10596-022-10142-w
+(Peer-Review-Journal)
+Open AccessVolltext
+Gleiter, Tabea ; Janjić, Tijana ; Chen, Nan:
+Ensemble Kalman Filter based Data Assimilation for Tropical Waves in the MJO Skeleton Model.
+In: Quarterly journal of the Royal Meteorological Society. (11. Januar 2022). - 29 S.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.4245
+(Peer-Review-Journal)
+Volltext
+Zech, Simon ; Ritschel, Thomas ; Ray, Nadja ; Totsche, Kai Uwe ; Prechtel, Alexander:
+How water connectivity and substrate supply shape the turnover of organic matter : Insights from simulations at the scale of microaggregates.
+In: Geoderma : an international journal of soil science. 405 (Januar 2022): 115394.
+ISSN 1872-6259 ; 0016-7061
+10.1016/j.geoderma.2021.115394
+(Peer-Review-Journal)
+Open AccessVolltext
+Gribonval, Rémi ; Kutyniok, Gitta ; Nielsen, Morten ; Voigtlaender, Felix:
+Approximation Spaces of Deep Neural Networks.
+In: Constructive approximation. 55 (2022). - S. 259-367.
+ISSN 0176-4276 ; 1432-0940
+10.1007/s00365-021-09543-4
+(Peer-Review-Journal)
+Volltext
+Lee, Dae Gwan ; Pfander, Götz E. ; Walnut, David:
+Bases of complex exponentials with restricted supports.
+In: Journal of mathematical analysis and applications. 521 (2022) 2: 126917.
+ISSN 0022-247x ; 1096-0813
+10.1016/j.jmaa.2022.126917
+(Peer-Review-Journal)
+Open AccessVolltext
+Van Velthoven, Jordy Timo ; Voigtlaender, Felix:
+Coorbit spaces and dual molecules : The quasi-Banach case.
+2022. - 61 S.
+arXiv:2203.07959
+Volltext
+Gärttner, Stephan ; Frolkovič, Peter ; Knabner, Peter ; Ray, Nadja:
+Efficiency of micro-macro models for reactive two-mineral systems.
+In: Multiscale modeling & simulation. 20 (2022) 1. - S. 433-461.
+ISSN 1540-3467 ; 1540-3459
+10.1137/20M1380648
+(Peer-Review-Journal)
+Open AccessVolltext file
+Mohamad, Haidar:
+Energy asymptotics for the strongly damped Klein–Gordon equation.
+In: Partial differential equations and applications : PDEA. 3 (2022): 71.
+ISSN 2662-2971 ; 2662-2963
+10.1007/s42985-022-00207-x
+(Peer-Review-Journal)
+Open AccessVolltext file
+Zech, Simon ; Schweizer, Steffen A. ; Bucka, Franziska B. ; Ray, Nadja ; Kögel-Knabner, Ingrid ; Prechtel, Alexander:
+Explicit spatial modeling at the pore scale unravels the interplay of soil organic carbon storage and structure dynamics.
+In: Global change biology. 28 (2022) 15. - S. 4589-4604.
+ISSN 1365-2486 ; 1354-1013
+10.1111/gcb.16230
+(Peer-Review-Journal)
+Volltext
+Voigt, Stefan ; Frank, Markus ; Fontaine, Pirmin ; Kuhn, Heinrich:
+Hybrid adaptive large neighborhood search for vehicle routing problems with depot location decisions.
+In: Computers & Operations Research. 146 (2022): 105856.
+ISSN 0305-0548 ; 1873-765x
+10.1016/j.cor.2022.105856
+(Peer-Review-Journal)
+Volltext
+Müllerklein, Daniel ; Fontaine, Pirmin ; Ostermeier, Frederik:
+Integrated consideration of assembly line scheduling and feeding : a new model and case study from the automotive industry.
+In: Computers & industrial engineering. 170 (2022): 108288.
+ISSN 0360-8352
+10.1016/j.cie.2022.108288
+(Peer-Review-Journal)
+Open AccessVolltext file
+Romero, José Luis ; Van Velthoven, Jordy Timo ; Voigtlaender, Felix:
+Invertibility of Frame Operators on Besov-Type Decomposition Spaces.
+In: The journal of geometric analysis. 32 (2022) 5: 149.
+ISSN 1559-002x ; 1050-6926
+10.1007/s12220-022-00887-2
+(Peer-Review-Journal)
+Volltext
+Darbenas, Zymantas ; van der Hout, Rein ; Oliver, Marcel:
+Long-time asymptotics of solutions to the Keller–Rubinow model for Liesegang rings in the fast reaction limit.
+In: Annales de l'Institut Henri Poincaré. C, Nonlinear analysis. 39 (2022) 6. - S. 1413-1458. - 46 S.
+ISSN 1873-1430 ; 0294-1449
+10.4171/AIHPC/34
+(Peer-Review-Journal)
+Legler, Stefanie ; Janjić, Tijana ; Shaker, Mohammad Hossein ; Hüllermeier, Eyke:
+Machine learning for estimating parameters of a convective-scale model : a comparison of neural networks and random forests.
+Proceedings – 32. Workshop Computational Intelligence: Berlin, 1. - 2. Dezember 2022, 2022
+https://www.ksp.kit.edu/books/e/10.58895/ksp/1000151141
+Open AccessVolltext
+Caragea, Andrei ; Petersen, Philipp ; Voigtlaender, Felix:
+Neural network approximation and estimation of classifiers with classification boundary in a Barron class.
+2022. - 42 S.
+arXiv:2011.09363
+Open AccessVolltext file
+Caragea, Andrei ; Lee, Dae Gwan:
+A note on exponential Riesz bases.
+In: Sampling theory, signal processing, and data analysis. 20 (2022): 13. - 14 S.
+ISSN 2730-5724 ; 2730-5716
+10.1007/s43670-022-00031-9
+Volltext
+Baller, Reinhard ; Fontaine, Pirmin ; Minner, Stefan ; Lai, Zhen:
+Optimizing automotive inbound logistics : a mixed-integer linear programming approach.
+In: Transportation research : an international journal. Part E, Logistics and transportation review. 163 (2022): 102734.
+ISSN 1366-5545
+10.1016/j.tre.2022.102734
+(Peer-Review-Journal)
+Open AccessVolltext
+Fuchs, Tim ; Gross, David ; Jung, Peter ; Krahmer, Felix ; Kueng, Richard ; Stöger, Dominik:
+Proof Methods for Robust Low-Rank Matrix Recovery.
+In: Kutyniok, Gitta ; Rauhut, Holger ; Kunsch, Robert J. (Hrsg.): Compressed Sensing in Information Processing. - Cham : Birkhäuser, 2022. - S. 37-75. - (Applied and Numerical Harmonic Analysis)
+ISBN 978-3-031-09744-7
+ISSN 2296-5009
+10.1007/978-3-031-09745-4_2
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Caragea, Andrei ; Lee, Dae Gwan ; Maly, Johannes ; Pfander, Götz E. ; Voigtlaender, Felix:
+Quantitative approximation results for complex-valued neural networks.
+In: SIAM Journal on Mathematics of Data Science. 4 (2022) 2. - S. 553-580.
+ISSN 2577-0187
+0.1137/21M1429540
+(Peer-Review-Journal)
+Open AccessVolltext
+Schulz, Raphael:
+Uniqueness of Degenerating Solutions to a Diffusion-Precipitation Model for Clogging Porous Media.
+In: Mathematical modelling and analysis. 27 (2022) 3. - S. 471-491.
+ISSN 1648-3510 ; 1392-6292
+10.3846/mma.2022.15132
+(Peer-Review-Journal)
+Volltext
+Nieto-Isaza, Santiago ; Fontaine, Pirmin ; Minner, Stefan:
+The value of stochastic crowd resources and strategic location of mini-depots for last-mile delivery : a Benders decomposition approach.
+In: Transportation research. Part B, Methodological. 157 (2022). - S. 62-79.
+ISSN 0191-2615
+10.1016/j.trb.2021.12.014
+(Peer-Review-Journal)
+Volltext
+Fontaine, Pirmin:
+The vehicle routing problem with load-dependent travel times for cargo bicycles.
+In: European Journal of Operational Research. 300 (2022) 3. - S. 1005-1016.
+ISSN 0377-2217
+10.1016/j.ejor.2021.09.009
+(Peer-Review-Journal)
+2021
+Open AccessVolltext
+Legler, Stefanie ; Janjić, Tijana:
+Combining data assimilation and machine learning to estimate parameters of a convective-scale model.
+In: Quarterly journal of the Royal Meteorological Society. (20. Dezember 2021). - 15 S.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.4235
+(Peer-Review-Journal)
+Open AccessVolltext
+Grohs, Philipp ; Klotz, Andreas ; Voigtlaender, Felix:
+Phase Transitions in Rate Distortion Theory and Deep Learning.
+In: Foundations of computational mathematics. (16. November 2021). - 64 S.
+ISSN 1615-3375 ; 1615-3383
+10.1007/s10208-021-09546-4
+(Peer-Review-Journal)
+Open AccessVolltext
+Koppensteiner, Sarah ; Van Velthoven, Jordy Timo ; Voigtlaender, Felix:
+Anisotropic Triebel-Lizorkin spaces and wavelet coefficient decay over one-parameter dilation groups.
+2021. - 40 S.
+arXiv:2104.14361
+Open AccessVolltext
+Zeng, Yuefei ; de Lozar, Alberto ; Janjić, Tijana ; Seifert, Axel:
+Applying a new integrated mass-flux adjustment filter in rapid update cycling of convective-scale data assimilation for the COSMO model.
+In: Geoscientific model development. 14 (2021) 3. - S. 1295-1307.
+ISSN 1991-9603 ; 1991-959x
+10.5194/gmd-14-1295-2021
+(Peer-Review-Journal)
+Volltext
+Zeng, Yuefei ; Janjić, Tijana ; de Lozar, Alberto ; Welzbacher, Christian A. ; Blahak, Ulrich ; Seifert, Axel:
+Assimilating radar radial wind and reflectivity data in an idealized setup of the COSMO-KENDA system.
+In: Atmospheric research. 249 (2021): 105282.
+ISSN 0169-8095
+10.1016/j.atmosres.2020.105282
+(Peer-Review-Journal)
+Open AccessVolltext
+Darbenas, Zymantas ; Oliver, Marcel:
+Breakdown of Liesegang precipitation bands in a simplified fast reaction limit of the Keller–Rubinow model.
+In: Nonlinear differential equations and applications. 28 (2021): 4. - 34 S.
+ISSN 1420-9004 ; 1021-9722
+10.1007/s00030-020-00663-7
+(Peer-Review-Journal)
+Open AccessVolltext
+Janjić, Tijana ; Ruckstuhl, Yvonne ; Toint, Philippe L.:
+A data assimilation algorithm for predicting rain.
+In: Quarterly journal of the Royal Meteorological Society. 147 (2021) 736. - S. 1949-1963.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.4004
+(Peer-Review-Journal)
+Open AccessVolltext
+Voigtlaender, Felix:
+A General Version of Price’s Theorem.
+In: Journal of theoretical probability. 34 (2021). - S. 1474-1485.
+ISSN 0894-9840 ; 1572-9230
+10.1007/s10959-020-01017-w
+(Peer-Review-Journal)
+Open AccessVolltext
+Zeng, Yuefei ; Janjić, Tijana ; Feng, Yuxuan ; Blahak, Ulrich ; de Lozar, Alberto ; Bauernschubert, Elisabeth ; Stephan, Klaus ; Min, Jinzhong:
+Interpreting estimated observation error statistics of weather radar measurements using the ICON-LAM-KENDA system.
+In: Atmospheric measurement techniques. 14 (2021) 8. - S. 5735-5756.
+ISSN 1867-8548 ; 1867-1381
+10.5194/amt-14-5735-2021
+(Peer-Review-Journal)
+Open AccessVolltext
+Kümmerle, Christian ; Mayrink Verdun, Claudio ; Stöger, Dominik:
+Iteratively Reweighted Least Squares for Basis Pursuit with Global Linear Convergence Rate.
+In: Advances in Neural Information Processing Systems 34 (NeurIPS 2021). - 2021
+(Begutachteter Beitrag / peer-reviewed paper)
+Open AccessVolltext
+Almira, J. M. ; Lopez-de-Teruel, P. E. ; Romero-Lopez, D. J. ; Voigtlaender, Felix:
+Negative results for approximation using single layer and multilayer feedforward neural networks.
+In: Journal of mathematical analysis and applications. 494 (2021) 1: 124584.
+ISSN 0022-247x ; 1096-0813
+10.1016/j.jmaa.2020.124584
+(Peer-Review-Journal)
+Open AccessVolltext
+Lee, Dae Gwan ; Philipp, Friedrich ; Voigtlaender, Felix:
+A note on the invertibility of the Gabor frame operator on certain modulation spaces.
+2021. - 17 S.
+arXiv:2106.02365
+Volltext
+Mohamad, Haidar ; Oliver, Marcel:
+Numerical Integration of Functions of a Rapidly Rotating Phase.
+In: SIAM journal on numerical analysis. 59 (2021) 4. - S. 2310-2319.
+ISSN 0036-1429 ; 1095-7170
+10.1137/19M128658X
+(Peer-Review-Journal)
+Open AccessVolltext
+Romero, José Luis ; Van Velthoven, Jordy Timo ; Voigtlaender, Felix:
+On dual molecules and convolution-dominated operators.
+In: Journal of functional analysis. 280 (2021) 10: 108963.
+ISSN 0022-1236 ; 1096-0783
+10.1016/j.jfa.2021.108963
+(Peer-Review-Journal)
+Open AccessVolltext
+Voigtlaender, Felix ; Petersen, Philipp:
+Optimal learning of high-dimensional classification problems using deep neural networks.
+2021. - 41 S.
+arXiv:2112.12555
+Open AccessVolltext file
+Trömel, Silke ; Simmer, Clemens ; Blahak, Ulrich ; Blanke, Armin ; Ewald, Florian ; Frech, Michael ; Gergely, Mathias ; Hagen, Martin ; Hörnig, Sabine ; Janjić, Tijana ; Kalesse, Heike ; Kneifel, Stefan ; Knote, Christoph ; Mendrok, Jana ; Moser, Manuel ; Möller, Gregor ; Mühlbauer, Kai ; Myagkov, Alexander ; Pejcic, Velibor ; Seifert, Patric ; Shrestha, Prabhakar ; Teisseire, Audrey ; von Terzi, Leonie ; Tetoni, Eleni ; Vogl, Teresa ; Voigt, Christiane ; Zeng, Yuefei ; Zinner, Tobias ; Quaas, Johannes:
+Overview: Fusion of Radar Polarimetry and Numerical Atmospheric Modelling Towards an Improved Understanding of Cloud and Precipitation Processes.
+In: Atmospheric chemistry and physics. 21 (2021) 23. - S. 17291-17314.
+ISSN 1680-7324 ; 1680-7316
+10.5194/acp-21-17291-2021
+(Peer-Review-Journal)
+Volltext
+Mühlbauer, Ferdinand ; Fontaine, Pirmin:
+A parallelised large neighbourhood search heuristic for the asymmetric two-echelon vehicle routing problem with swap containers for cargo-bicycles.
+In: European Journal of Operational Research. 289 (2021) 2. - S. 742-757.
+ISSN 0377-2217
+10.1016/j.ejor.2020.07.034
+(Peer-Review-Journal)
+Open AccessVolltext
+Grohs, Philipp ; Voigtlaender, Felix:
+Proof of the Theory-to-Practice Gap in Deep Learning via Sampling Complexity bounds for Neural Network Approximation Spaces.
+2021. - 42 S.
+arXiv:2104.02746
+Open AccessVolltext
+Caragea, Andrei ; Lee, Dae Gwan ; Maly, Johannes ; Pfander, Götz E.:
+Quantitative approximation results for complex-valued neural networks.
+Eichstätt : arXiv, 2021. - 19 S.
+arxiv:2102.13092
+Volltext
+Caragea, Andrei ; Lee, Dae Gwan ; Philipp, Friedrich ; Voigtlaender, Felix:
+A quantitative subspace Balian-Low theorem.
+In: Applied and computational harmonic analysis. 55 (2021). - S. 368-404.
+ISSN 1063-5203 ; 1096-603x
+10.1016/j.acha.2021.06.005
+(Peer-Review-Journal)
+Open AccessVolltext
+Feng, Yuxuan ; Janjić, Tijana ; Zeng, Yuefei ; Seifert, Axel ; Min, Jinzhong:
+Representing Microphysical Uncertainty in Convective-scale Data Assimilation using Additive Noise.
+In: Journal of advances in modeling earth systems. 13 (2021) 10: e2021MS002606. - 21 S.
+ISSN 1942-2466
+10.1029/2021MS002606
+(Peer-Review-Journal)
+Volltext
+Fontaine, Pirmin ; Crainic, Teodor Gabriel ; Jabali, Ola ; Rei, Walter:
+Scheduled service network design with resource management for two-tier multimodal city logistics.
+In: European Journal of Operational Research. 294 (2021) 2. - S. 558-570.
+ISSN 0377-2217
+10.1016/j.ejor.2021.02.009
+(Peer-Review-Journal)
+Open AccessVolltext
+Holighaus, Nicki ; Voigtlaender, Felix:
+Schur-type Banach modules of integral kernels acting on mixed-norm Lebesgue spaces.
+In: Journal of functional analysis. 281 (2021) 9: 109197.
+ISSN 0022-1236 ; 1096-0783
+10.1016/j.jfa.2021.109197
+(Peer-Review-Journal)
+Open AccessVolltext
+Stöger, Dominik ; Soltanolkotabi, Mahdi:
+Small random initialization is akin to spectral learning : Optimization and generalization guarantees for overparameterized low-rank matrix reconstruction.
+In: Advances in Neural Information Processing Systems 34 (NeurIPS 2021). - 2021
+(Begutachteter Beitrag / peer-reviewed paper)
+Open AccessVolltext
+Grohs, Philipp ; Voigtlaender, Felix:
+Sobolev-type embeddings for neural network approximation spaces.
+2021. - 14 S.
+arXiv:2110.15304
+Open AccessVolltext
+Petersen, Philipp ; Raslan, Mones ; Voigtlaender, Felix:
+Topological properties of the set of functions generated by neural networks of fixed size.
+In: Foundations of computational mathematics. 21 (2021). - S. 375-444.
+ISSN 1615-3375 ; 1615-3383
+10.1007/s10208-020-09461-0
+(Peer-Review-Journal)
+Open AccessVolltext
+Ruckstuhl, Yvonne ; Janjić, Tijana ; Rasp, Stephan Rasp:
+Training a convolutional neural network to conserve mass in data assimilation.
+In: Nonlinear processes in geophysics. 28 (2021) 1. - S. 111-119.
+ISSN 1607-7946 ; 1023-5809
+10.5194/npg-28-111-2021
+(Peer-Review-Journal)
+Open AccessVolltext
+Balaji, Yogesh ; Sajedi, Mohammadmahdi ; Kalibhat, Neha Mukund ; Ding, Mucong ; Stöger, Dominik ; Soltanolkotabi, Mahdi ; Feizi, Soheil:
+Understanding Overparameterization in Generative Adversarial Networks.
+In: International Conference on Learning Representations 2021. - Vienna, Austria, 2021
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Özden, Gözde ; Oliver, Marcel:
+Variational balance models for the three-dimensional Euler–Boussinesq equations with full Coriolis force.
+In: Physics of fluids. 33 (2021) 7: 076606. - 15 S.
+ISSN 1089-7666 ; 1070-6631
+10.1063/5.0053092
+(Peer-Review-Journal)
+Open AccessVolltext
+Voigt, Stefan ; Frank, Markus ; Fontaine, Pirmin ; Kuhn, Heinrich:
+The Vehicle Routing Problem with Availability Profiles.
+Eichstätt : SSRN, 2021. - 34 S.
+10.2139/ssrn.3793033
+Open AccessVolltext
+Craig, George C. ; Fink, Andreas H. ; Hoose, Corinna ; Janjić, Tijana ; Knippertz, Peter ; Laurian, Audine ; Lerch, Sebastian ; Mayer, Bernhard ; Miltenberger, Annette ; Redl, Robert ; Riemer, Michael ; Tempes, Kirsten I. ; Wirth, Volkmar:
+Waves to Weather : Exploring the Limits of Predictability of Weather.
+In: Bulletin of the American Meteorological Society. 102 (2021) 11. - E2151-E2164 .
+ISSN 0003-0007 ; 1520-0477
+10.1175/BAMS-D-20-0035.1
+(Peer-Review-Journal)
+Open AccessVolltext
+Janjić, Tijana ; Zeng, Yuefei:
+Weakly constrained LETKF for estimation of hydrometeor variables in convective-scale data assimilation.
+In: Geophysical research letters. (2021).
+ISSN 1944-8007
+10.1029/2021GL094962
+(Peer-Review-Journal)
+2020
+Open AccessVolltext
+Krahmer, Felix ; Stöger, Dominik:
+Complex phase retrieval from subgaussian measurements.
+In: The journal of Fourier analysis and applications. 26 (20. November 2020) 6: 89. - 27 S.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-020-09797-9
+(Peer-Review-Journal)
+Volltext
+Zech, Simon ; Dultz, Stefan ; Guggenberger, Georg ; Prechtel, Alexander ; Ray, Nadja:
+Microaggregation of goethite and illite evaluated by mechanistic modeling.
+In: Applied clay science : an international journal on the application and technology of clays and clay minerals. 198 (November 2020): 105845.
+ISSN 0169-1317
+10.1016/j.clay.2020.105845
+(Peer-Review-Journal)
+Open AccessVolltext
+Cagnetti, Filippo ; Perugini, Matteo ; Stöger, Dominik:
+Rigidity for perimeter inequality under spherical symmetrisation.
+In: Calculus of variations and partial differential equations. 59 (4. August 2020): 139.
+ISSN 0944-2669 ; 1432-0835
+10.1007/s00526-020-01786-6
+(Peer-Review-Journal)
+Volltext
+Lee, Dae Gwan ; Pfander, Götz E.:
+Weighted Zak transforms and the dual tiling condition.
+In: Journal of mathematical analysis and applications. 487 (15. Juli 2020) 2.
+ISSN 0022-247x ; 1096-0813
+10.1016/j.jmaa.2020.124020
+(Peer-Review-Journal)
+Fontaine, Pirmin ; Baller, Reinhard ; Hage, Steffen ; Spinler, Stefan:
+The assembly line feeding problem : An extended formulation with multiple line feeding policies and a case study.
+In: International Journal of Production Economics. 222 (2020): 107489.
+ISSN 0925-5273
+(Peer-Review-Journal)
+Open AccessVolltext
+Ruckstuhl, Yvonne ; Janjić, Tijana:
+Combined State-Parameter Estimation with the LETKF for Convective-Scale Weather Forecasting.
+In: Monthly weather review. 148 (2020) 4. - S. 1607-1628.
+ISSN 0027-0644 ; 1520-0493
+10.1175/MWR-D-19-0233.1
+(Peer-Review-Journal)
+Open AccessVolltext
+Zeng, Yuefei ; Janjić, Tijana ; de Lozar, Alberto ; Rasp, Stephan ; Blahak, Ulrich ; Seifert, Axel ; Craig, George C.:
+Comparison of Methods Accounting for Subgrid-Scale Model Error in Convective-Scale Data Assimilation.
+In: Monthly weather review. 148 (2020) 6. - S. 2457-2477.
+ISSN 0027-0644 ; 1520-0493
+10.1175/MWR-D-19-0064.1
+(Peer-Review-Journal)
+Open AccessVolltext
+Darbenas, Zymantas ; van der Hout, Rein ; Oliver, Marcel:
+Conditional uniqueness of solutions to the Keller-Rubinow model for Liesegang rings in the fast reaction limit.
+2020. - 29 S.
+arXiv:2011.12441
+Open AccessVolltext
+Bytchenkoff, Dimitri ; Voigtlaender, Felix:
+Design and properties of wave packet smoothness spaces.
+In: Journal de mathématiques pures et appliquées. 133 (2020). - S. 185-262.
+ISSN 0021-7824
+10.1016/j.matpur.2019.05.006
+(Peer-Review-Journal)
+Open AccessVolltext file
+Gärttner, Stephan ; Frolkovic, Peter ; Knabner, Peter ; Ray, Nadja:
+Efficiency and Accuracy of Micro‐Macro Models for Mineral Dissolution.
+In: Water resources research : an AGU journal. 56 (2020) 8: e2020WR027585.
+ISSN 0043-1397 ; 1944-7973
+10.1029/2020WR027585
+(Peer-Review-Journal)
+Open AccessVolltext
+Petersen, Philipp ; Voigtlaender, Felix:
+Equivalence of approximation by convolutional neural networks and fully-connected networks.
+In: Proceedings of the American Mathematical Society. 148 (2020). - S. 1567-1581.
+ISSN 0002-9939 ; 1088-6826
+10.1090/proc/14789
+(Peer-Review-Journal)
+Open AccessVolltext
+Mohamad, Haidar ; Oliver, Marcel:
+High-order uniformly accurate time integrators for semilinear wave equations of Klein-Gordon type in the non-relativistic limit.
+2020. - 15 S.
+arXiv:2008.05227
+Fontaine, Pirmin ; Taube, F. ; Minner, Stefan:
+Human solution strategies for the vehicle routing problem : Experimental findings and a choice-based theory.
+In: Computers & Operations Research. 120 (2020): 104962.
+ISSN 0305-0548 ; 1873-765x
+(Peer-Review-Journal)
+Open AccessVolltext
+Juricke, Stephan ; Danilov, Sergey ; Koldunov, Nikolay ; Oliver, Marcel ; Sein, Dmitry ; Sidorenko, Dmitry ; Wang, Qiang:
+A Kinematic Kinetic Energy Backscatter Parametrization : from Implementation to Global Ocean Simulations.
+In: Journal of advances in modeling earth systems. 12 (2020) 12: e2020MS002175. - 20 S.
+ISSN 1942-2466
+10.1029/2020MS002175
+(Peer-Review-Journal)
+Open AccessVolltext
+Juricke, Stephan ; Danilov, Sergey ; Koldunov, Nikolay ; Oliver, Marcel ; Sidorenko, Dmitry:
+Ocean Kinetic Energy Backscatter Parametrization on Unstructured Grids : Impact on Global Eddy-Permitting Simulations.
+In: Journal of advances in modeling earth systems. 12 (2020) 1: e2019MS001855. - 21 S.
+ISSN 1942-2466
+10.1029/2019MS001855
+(Peer-Review-Journal)
+Open AccessVolltext
+Krahmer, Felix ; Stöger, Dominik:
+On the convex geometry of blind deconvolution and matrix completion.
+In: Communications on pure and applied mathematics. 74 (2020) 4. - S. 790-832.
+ISSN 0010-3640 ; 1097-0312
+10.1002/cpa.21957
+(Peer-Review-Journal)
+Volltext
+Akramov, Ibrokhimbek ; Oliver, Marcel:
+On the Existence of Solutions to a Bi-Planar Monge-Ampère Equation.
+In: Acta Mathematica Scientia. 40 (2020). - S. 379-388.
+ISSN 1003-3998 ; 1572-9087
+10.1007/s10473-020-0206-6
+(Peer-Review-Journal)
+Volltext
+Masur, Gökce Tuba ; Oliver, Marcel:
+Optimal balance for rotating shallow water in primitive variables.
+In: Geophysical & astrophysical fluid dynamics. 114 (2020) 4-5. - S. 429-452.
+ISSN 1029-0419 ; 0309-1929
+10.1080/03091929.2020.1745789
+(Peer-Review-Journal)
+Open AccessVolltext
+Fontaine, Pirmin ; Crainic, Teodor Gabriel ; Gendreau, Michel ; Minner, Stefan:
+Population-based risk equilibration for the multi-mode hazmat transport network design problem.
+In: European Journal of Operational Research. 284 (2020) 1. - S. 188-200.
+ISSN 0377-2217
+10.1016/j.ejor.2019.12.028
+(Peer-Review-Journal)
+Open AccessVolltext
+Voigtlaender, Felix:
+The universal approximation theorem for complex-valued neural networks.
+2020. - 29 S.
+arXiv:2012.03351
+2019
+Volltext
+Ray, Nadja ; Schulz, Raphael:
+Derivation of an effective dispersion model for electro-osmotic flow involving free boundaries in a thin strip.
+In: Journal of engineering mathematics. 119 (18. November 2019). - S. 167-197.
+ISSN 1573-2703 ; 0022-0833
+10.1007/s10665-019-10024-8
+(Peer-Review-Journal)
+Open AccessVolltext file
+Rupp, Andreas ; Guhra, Tom ; Meier, Andreas ; Prechtel, Alexander ; Ritschel, Thomas ; Ray, Nadja ; Totsche, Kai Uwe:
+Application of a cellular automaton method to model the structure formation in soils under saturated conditions : A mechanistic approach.
+In: Frontiers in Environmental Science. 7 (November 2019): 170.
+ISSN 2296-665x
+10.3389/fenvs.2019.00170
+(Peer-Review-Journal)
+Volltext
+Schulz, Raphael ; Ray, Nadja ; Zech, Simon ; Rupp, Andreas ; Knabner, Peter:
+Beyond Kozeny–Carman : predicting the permeability in porous media.
+In: Transport in porous media : TIPM. 130 (November 2019). - S. 487-512.
+ISSN 1573-1634 ; 0169-3913
+10.1007/s11242-019-01321-y
+(Peer-Review-Journal)
+Volltext
+Geppert, Jakob ; Krahmer, Felix ; Stöger, Dominik:
+Sparse power factorization : balancing peakiness and sample complexity.
+In: Advances in computational mathematics. 45 (1. Juni 2019). - S. 1711-1728.
+ISSN 1019-7168 ; 1572-9044
+10.1007/s10444-019-09698-6
+(Peer-Review-Journal)
+Volltext
+Lee, Dae Gwan ; Pfander, Götz E. ; Pohl, Volker:
+Sampling and Reconstruction of Multiple-Input Multiple-Output Channels.
+In: IEEE Transactions on Signal Processing. 67 (15. Februar 2019) 4. - S. 961-976.
+ISSN 1053-587x ; 1941-0476
+10.1109/TSP.2018.2886150
+(Peer-Review-Journal)
+Volltext
+Voigtlaender, Felix ; Petersen, Philipp:
+Approximation in Lp(μ) with deep ReLU neural networks.
+In: Proceedings of International Conference on Sampling Theory and Applications (SampTA), Bordeaux, France, 2019. - Piscataway, NJ : IEEE, 2019
+ISBN 978-1-7281-3741-4
+10.1109/SampTA45681.2019.9030992
+(Begutachteter Beitrag / peer-reviewed paper)
+Open AccessVolltext
+Gribonval, Rémi ; Kutyniok, Gitta ; Nielsen, Morten ; Voigtlaender, Felix:
+Approximation spaces of deep neural networks.
+2019. - 64 S.
+arXiv:1905.01208
+Volltext
+Caragea, Andrei ; Lee, Dae Gwan ; Pfander, Götz E. ; Philipp, Friedrich:
+A Balian-Low theorem for subspaces.
+In: The journal of Fourier analysis and applications. 25 (2019) 4. - S. 1673-1694.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-018-9634-2
+(Peer-Review-Journal)
+Volltext
+Mohamad, Haidar ; Oliver, Marcel:
+A direct construction of a slow manifold for a semilinear wave equation of Klein–Gordon type.
+In: Journal of differential equations. 267 (2019) 1. - S. 1-14.
+ISSN 1090-2732 ; 0022-0396
+10.1016/j.jde.2019.01.001
+(Peer-Review-Journal)
+Volltext
+Oliver, Marcel ; Vasylkevych, Sergiy:
+Geodesic motion on groups of diffeomorphisms with H1 metric as geometric generalised Lagrangian mean theory.
+In: Geophysical & astrophysical fluid dynamics. 113 (2019) 5-6. - S. 466-490.
+ISSN 1029-0419 ; 0309-1929
+10.1080/03091929.2019.1639697
+(Peer-Review-Journal)
+Volltext
+Lee, Dae Gwan ; Pfander, Götz E. ; Pohl, Volker ; Zhou, Weiqi:
+Identification of channels with single and multiple inputs and outputs under linear constraints.
+In: Linear algebra and its applications. 581 (2019). - S. 435-470.
+ISSN 0024-3795
+10.1016/j.laa.2019.07.025
+(Peer-Review-Journal)
+Open AccessVolltext
+Romero, José Luis ; Van Velthoven, Jordy Timo ; Voigtlaender, Felix:
+Invertibility of frame operators on Besov-type decomposition spaces.
+2019. - 54 S.
+arXiv:1905.04934
+Open AccessVolltext
+Sureau, Florent ; Voigtlaender, Felix ; Wust, Malte ; Starck, Jean-Luc ; Kutyniok, Gitta:
+Learning sparse representations on the sphere.
+In: Astronomy & astrophysics. 621 (2019): A73. - 17 S.
+ISSN 1432-0746
+10.1051/0004-6361/201834041
+(Peer-Review-Journal)
+Volltext
+Ray, Nadja ; Oberlander, Jens ; Frolkovic, Peter:
+Numerical investigation of a fully coupled micro-macro model for mineral dissolution and precipitation.
+In: Computational geosciences : modeling, simulation and data analysis. 23 (2019). - S. 1173-1192.
+ISSN 1420-0597 ; 1573-1499
+10.1007/s10596-019-09876-x
+(Peer-Review-Journal)
+Volltext
+Juricke, Stephan ; Danilov, Sergey ; Kutsenko, Anton ; Oliver, Marcel:
+Ocean kinetic energy backscatter parametrizations on unstructured grids : impact on mesoscale turbulence in a channel.
+In: Ocean modelling. 138 (2019). - S. 51-67.
+ISSN 1463-5003 ; 1463-5011
+10.1016/j.ocemod.2019.03.009
+(Peer-Review-Journal)
+Volltext
+Dahlke, Stefan ; De Mari, Filippo ; De Vito, Ernesto ; Sawatzki, Lukas ; Steidl, Gabriele ; Teschke, Gerd ; Voigtlaender, Felix:
+On the Atomic Decomposition of Coorbit Spaces with Non-Integrable Kernel.
+In: Boggiatto, Paolo ; Cordero, Elena ; de Gosson, Maurice ; Feichtinger, Hans. G ; Nicola, Fabio ; Oliaro, Alessandro ; Tabacco, Anita (Hrsg.): Landscapes of Time-Frequency Analysis. - Basel : Birkhäuser, 2019. - S. 75-144. - (Applied and Numerical Harmonic Analysis)
+ISBN 978-3-030-05209-6
+10.1007/978-3-030-05210-2_4
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Caragea, Andrei ; Lee, Dae Gwan ; Philipp, Friedrich ; Voigtlaender, Felix:
+A quantitative Balian-Low theorem for subspaces.
+In: Proceedings of International Conference on Sampling Theory and Applications (SampTA), Bordeaux, France, 2019. - Piscataway, NJ : IEEE, 2019
+ISBN 978-1-7281-3741-4
+10.1109/SampTA45681.2019.9030951
+(Begutachteter Beitrag / peer-reviewed paper)
+Open AccessVolltext
+Caragea, Andrei ; Lee, Dae Gwan ; Philipp, Friedrich ; Voigtlaender, Felix:
+A quantitative subspace Balian-Low theorem.
+2019. - 38 S.
+10.48550/arXiv.1904.12250
+Open AccessVolltext
+Zeng, Yuefei ; Janjić, Tijana ; Sommer, Matthias ; de Lozar, Alberto ; Blahak, Ulrich ; Seifert, Axel:
+Representation of Model Error in Convective-Scale Data Assimilation : Additive Noise Based on Model Truncation Error.
+In: Journal of advances in modeling earth systems. 11 (2019) 3. - S. 752-770.
+ISSN 1942-2466
+10.1029/2018MS001546
+(Peer-Review-Journal)
+Volltext
+Walnut, David ; Pfander, Götz E. ; Revay, Shauna:
+Riesz bases of exponentials for partitions of intervals.
+In: Proceedings of 13th International conference on Sampling Theory and Applications (SampTA). - Bordeaux : IEEE, 2019
+ISBN 978-1-7281-3741-4 ; 978-1-7281-3740-7
+10.1109/SampTA45681.2019.9030949
+(Begutachteter Beitrag / peer-reviewed paper)
+Open AccessVolltext
+Pfander, Götz E. ; Salanevich, Palina:
+Robust Phase Retrieval Algorithm for Time-Frequency Structured Measurements.
+In: SIAM journal on imaging sciences. 12 (2019) 2. - S. 736-761.
+ISSN 1936-4954
+10.1137/18M1205522
+(Peer-Review-Journal)
+Volltext
+Lee, Dae Gwan ; Pfander, Götz E. ; Pohl, Volker:
+Signal transmission through an unidentified channel.
+In: Proceedings of 13th International conference on Sampling Theory and Applications (SampTA). - Bordeaux : IEEE, 2019
+ISBN 978-1-7281-3741-4 ; 978-1-7281-3741-4
+10.1109/SampTA45681.2019
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Petersen, Philipp ; Raslan, Mones ; Voigtlaender, Felix:
+The structure of spaces of neural network functions.
+In: Proceedings of the conference SPIE 11138, Wavelets and Sparsity XVIII, 2019, San Diego, California, United States. - s.l. : SPIE, 2019
+10.1117/12.2528313
+(Begutachteter Beitrag / peer-reviewed paper)
+Open AccessVolltext
+Caragea, Andrei ; Lee, Dae Gwan ; Philipp, Friedrich ; Voigtlaender, Felix:
+Time-Frequency Shift Invariance of Gabor Spaces.
+In: Proceedings of International Conference on Sampling Theory and Applications (SampTA), Bordeaux, France, 2019. - Piscataway, NJ : IEEE, 2019
+ISBN 978-1-7281-3741-4
+10.1109/SampTA45681.2019.9030919
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Cabrelli, Carlos ; Lee, Dae Gwan ; Molter, Ursula ; Pfander, Götz E.:
+Time-frequency shift invariance of Gabor spaces generated by integer lattices.
+In: Journal of mathematical analysis and applications. 474 (2019) 2. - S. 1289-1305.
+ISSN 0022-247x ; 1096-0813
+arXiv:1705.02495 [math.CA]
+(Peer-Review-Journal)
+Open AccessVolltext
+Caragea, Andrei ; Lee, Dae Gwan ; Philipp, Friedrich ; Voigtlaender, Felix:
+Time-frequency shift invariance of Gabor spaces with an S0-generator.
+2019. - 15 S.
+arXiv:1904.12345
+Volltext
+Danilov, Sergey ; Juricke, Stephan ; Kutsenko, Anton ; Oliver, Marcel:
+Toward Consistent Subgrid Momentum Closures in Ocean Models.
+In: Eden, Carsten ; Iske, Armin (Hrsg.): Energy Transfers in Atmosphere and Ocean. - Cham, Switzerland : Springer, 2019. - S. 145-192. - (Mathematics of Planet Earth ; 1)
+ISBN 978-3-030-05704-6 ; 978-3-030-05703-9
+ISSN 2524-4272
+10.1007/978-3-030-05704-6_5
+Volltext
+Petersen, Philipp ; Raslan, Mones ; Voigtlaender, Felix:
+Unfavorable structural properties of the set of neural networks with fixed architecture.
+In: Proceedings of International Conference on Sampling Theory and Applications (SampTA), Bordeaux, France, 2019. - Piscataway, NJ : IEEE, 2019
+ISBN 978-1-7281-3741-4
+10.1109/SampTA45681.2019.9030975
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Darbenas, Zymantas ; Oliver, Marcel:
+Uniqueness of solutions for weakly degenerate cordial Volterra integral equations.
+In: Journal of integral equations and applications. 31 (2019) 3. - S. 307-327.
+ISSN 1938-2626 ; 0897-3962
+10.1216/JIE-2019-31-3-307
+(Peer-Review-Journal)
+2018
+Volltext
+Petersen, Philipp ; Voigtlaender, Felix:
+Optimal approximation of piecewise smooth functions using deep ReLU neural networks.
+In: Neural networks. 108 (Dezember 2018). - S. 296-330.
+ISSN 1879-2782 ; 0893-6080
+10.1016/j.neunet.2018.08.019
+(Peer-Review-Journal)
+Open AccessVolltext file
+Rupp, Andreas ; Totsche, Kai Uwe ; Prechtel, Alexander ; Ray, Nadja:
+Discrete-continuum multiphase model for structure formation in soils including electrostatic effects.
+In: Frontiers in Environmental Science. 6 (25. September 2018): 96.
+ISSN 2296-665x
+10.3389/fenvs.2018.00096
+(Peer-Review-Journal)
+Volltext
+Fontaine, Pirmin ; Minner, Stefan:
+Benders decomposition for the hazmat transport network design problem.
+In: European Journal of Operational Research. 267 (2018) 3. - S. 996-1002.
+ISSN 0377-2217
+10.1016/j.ejor.2017.12.042
+(Peer-Review-Journal)
+Volltext
+Jung, Peter ; Krahmer, Felix ; Stöger, Dominik:
+Blind demixing and deconvolution at near-optimal rate.
+In: IEEE transactions on information theory. 64 (2018) 2. - S. 704-727.
+ISSN 0018-9448 ; 1557-9654
+10.1109/TIT.2017.2784481
+(Peer-Review-Journal)
+Volltext
+Janjić, Tijana ; Potthast, Roland ; Van Leeuwen, Peter Jan:
+Editorial for "Advances in Data Assimilation Methods".
+In: Quarterly journal of the Royal Meteorological Society. 144 (2018) 713. - S. 1189-1190.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.3382
+(Peer-Review-Journal)
+Open AccessVolltext
+Petersen, Philipp ; Voigtlaender, Felix:
+Equivalence of approximation by convolutional neural networks and fully-connected networks.
+2018. - 13 S.
+arXiv:1809.00973
+Open AccessVolltext
+Sommer, Matthias ; Janjić, Tijana:
+A flexible additive inflation scheme for treating model error in ensemble Kalman filters.
+In: Quarterly journal of the Royal Meteorological Society. 144 (2018) 716. - S. 2026-2037.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.3254
+(Peer-Review-Journal)
+Open AccessVolltext
+Lee, Dae Gwan ; Pfander, Götz E. ; Pohl, Volker ; Zhou, Weiqi:
+Identification of Multiple-Input Multiple-Output Channels Under Linear Side Constraints.
+In: 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Proceedings. - Calgary, 2018. - S. 3889-3893
+ISBN 978-1-5386-4658-8
+10.1109/ICASSP.2018.8461863
+Fontaine, Pirmin:
+Methodological Advances and New Formulations for Bilevel Network Design Problems.
+In: Kliewer, Natalia ; Ehmke, Jan Fabian ; Borndörfer, Ralf (Hrsg.): Operations research proceedings 2017. - Cham, Switzerland : Springer, 2018. - S. 31-36
+ISBN 978-3-319-89919-0
+Open AccessVolltext file
+Totsche, Kai Uwe ; Amelung, Wulf ; Gerzabek, Martin H. ; Guggenberger, Georg ; Klumpp, Erwin ; Knief, Claudia ; Lehndorff, Eva ; Mikutta, Robert ; Peth, Stephan ; Prechtel, Alexander ; Ray, Nadja ; Kögel-Knabner, Ingrid:
+Microaggregates in soils.
+In: Journal of plant nutrition and soil science = Zeitschrift für Pflanzenernährung und Bodenkunde. 181 (2018) 1. - S. 104-136.
+ISSN 1522-2624
+10.1002/jpln.201600451
+(Peer-Review-Journal)
+Fontaine, Pirmin:
+Neue Planungsmethoden zur fairen Risikoverteilung im Gefahrguttransport und zur effizienten Stauminimierung in Verkehrsnetzen.
+In: OR News : das Magazin der GOR. 62 (2018).
+ISSN 1437-2045
+Volltext
+Ray, Nadja ; Rupp, Andreas ; Schulz, Raphael ; Knabner, Peter:
+Old and new approaches predicting the diffusion in porous media.
+In: Transport in porous media : TIPM. 124 (2018) 3. - S. 803-824.
+ISSN 1573-1634 ; 0169-3913
+10.1007/s11242-018-1099-x
+(Peer-Review-Journal)
+Open AccessVolltext
+Janjić, Tijana ; Bormann, N. ; Bocquet, Marc ; Carton, J. A. ; Cohn, Stephen E. ; Dance, Sarah L. ; Losa, Svetlana N. ; Nichols, Nancy K. ; Potthast, Roland ; Waller, Joanne A. ; Weston, P.:
+On the representation error in data assimilation.
+In: Quarterly journal of the Royal Meteorological Society. 144 (2018) 713. - S. 1257-1278.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.3130
+(Peer-Review-Journal)
+Volltext
+Ruckstuhl, Yvonne M. ; Janjić, Tijana:
+Parameter and state estimation with ensemble Kalman filterbased algorithms for convective-scale applications.
+In: Quarterly journal of the Royal Meteorological Society. 144 (2018) 712. - S. 826-841.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.3257
+(Peer-Review-Journal)
+Fontaine, Pirmin ; Albiński, S. ; Minner, Stefan:
+Performance analysis of a hybrid bike sharing system : A service-level-based approach under censored demand observations.
+In: Transportation research. Part E, Logistics and transportation review. 116 (2018). - S. 59-69.
+ISSN 1366-5545
+(Peer-Review-Journal)
+Open AccessVolltext
+Zeng, Yuefei ; Janjić, Tijana ; de Lozar, Alberto ; Blahak, Ulrich ; Reich, Hendrik ; Keil, Christian ; Seifert, Axel:
+Representation of Model Error in Convective-Scale Data Assimilation : Additive Noise, Relaxation Methods, and Combinations.
+In: Journal of advances in modeling earth systems. 10 (2018) 11. - S. 2889-2911.
+ISSN 1942-2466
+10.1029/2018MS001375
+(Peer-Review-Journal)
+Volltext
+Stöger, Dominik ; Geppert, Jakob ; Krahmer, Felix:
+Sparse power factorization with refined peakiness conditions.
+In: 2018 IEEE Statistical Signal Processing Workshop (SSP). - Freiburg im Breisgau, 2018
+ISBN 978-1-5386-1571-3
+10.1109/SSP.2018.8450850
+(Begutachteter Beitrag / peer-reviewed paper)
+Open AccessVolltext
+Gustafsson, Nils ; Janjić, Tijana ; Schraff, Christoph ; Leuenberger, Daniel ; Weissmann, Martin ; Reich, Hendrik ; Brousseau, Pierre ; Montmerle, Thibaut ; Wattrelot, Eric ; Bučánek, Antonín ; Mile, Máté ; Hamdi, Rafiq ; Lindskog, Magnus ; Barkmeijer, Jan ; Dahlbom, Mats ; Macpherson, Bruce ; Ballard, Sue ; Inverarity, Gordon ; Carley, Jacob ; Curtis, Alexander ; Dowell, David ; Liu, Shun ; Ikuta, Yasutaka ; Fujita, Tadashi:
+Survey of data assimilation methods for convective-scale numerical weather prediction at operational centres.
+In: Quarterly journal of the Royal Meteorological Society. 144 (2018) 713. - S. 1218-1256.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.3179
+(Peer-Review-Journal)
+Open AccessVolltext
+Petersen, Philipp ; Raslan, Mones ; Voigtlaender, Felix:
+Topological properties of the set of functions generated by neural networks of fixed size.
+2018. - 51 S.
+arXiv:1806.08459
+2017
+Volltext
+Ray, Nadja ; Rupp, Andreas ; Prechtel, Alexander:
+Discrete-continuum multiscale model for transport, biomass development and solid restructuring in porous media.
+In: Advances in water resources. 107 (September 2017). - S. 393-404.
+ISSN 0309-1708 ; 1872-9657
+10.1016/j.advwatres.2017.04.001
+(Peer-Review-Journal)
+Volltext
+Voigtlaender, Felix:
+Understanding X-let sparsity via decomposition spaces.
+2017
+Veranstaltung: 2017 International Conference on Sampling Theory and Applications (SampTA), 3-7 July 2017, Tallinn, Estonia.
+(Veranstaltungsbeitrag: Kongress/Konferenz/Symposium/Tagung, Vortrag)
+10.1109/SAMPTA.2017.8024402
+Volltext
+Schulz, Raphael ; Ray, Nadja ; Frank, F. ; Mahato, H.S. ; Knabner, Peter:
+Strong solvability up to clogging of an effective diffusion–precipitation model in an evolving porous medium.
+In: European journal of applied mathematics. 28 (April 2017) 2. - S. 179-207.
+ISSN 0956-7925 ; 1469-4425
+10.1017/S0956792516000164
+(Peer-Review-Journal)
+Open AccessVolltext
+Walk, Philipp ; Jung, Peter ; Pfander, Götz E.:
+On the stability of sparse convolutions.
+In: Applied and computational harmonic analysis. 42 (Januar 2017) 1. - S. 117-134.
+ISSN 1063-5203 ; 1096-603x
+10.1016/j.acha.2015.08.002
+(Peer-Review-Journal)
+Open AccessVolltext
+Voigtlaender, Felix ; Pein, Anne:
+Analysis vs. synthesis sparsity for α-shearlets.
+2017. - 101 S.
+arXiv:1702.03559
+Volltext
+Lange, Heiner ; Craig, George C. ; Janjić, Tijana:
+Characterizing noise and spurious convection in convective data assimilation.
+In: Quarterly journal of the Royal Meteorological Society. 143 (2017) 709. - S. 3060-3069.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.3162
+(Peer-Review-Journal)
+Volltext
+Keiper, Sandra ; Kutyniok, Gitta ; Lee, Dae Gwan ; Pfander, Götz E.:
+Compressed sensing for finite-valued signals.
+In: Linear algebra and its applications. 532 (2017). - S. 570-613.
+ISSN 0024-3795
+10.1016/j.laa.2017.07.006
+(Peer-Review-Journal)
+Volltext
+Fontaine, Pirmin ; Minner, Stefan:
+A dynamic discrete network design problem for maintenance planning in traffic networks.
+In: Annals of Operations Research. 253 (2017) 2. - S. 757-772.
+ISSN 0254-5330 ; 1572-9338
+(Peer-Review-Journal)
+Volltext
+Zeng, Yuefei ; Janjić, Tijana ; Ruckstuhl, Yvonne ; Verlaan, Martin:
+Ensemble-type Kalman filter algorithm conserving mass, total energy and enstrophy.
+In: Quarterly journal of the Royal Meteorological Society. 143 (2017) 708. - S. 2902-2914.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.3142
+(Peer-Review-Journal)
+Cabrelli, Carlos ; Lee, Dae Gwan ; Molter, Ursula ; Pfander, Götz E.:
+Extra invariance and Balian-Low type obstructions for Gabor spaces.
+In: Proceedings of 2017 International Conference on Sampling Theory and Applications (SampTA), Tallinn, Estonia. - Tallinn, Estonia, 2017
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Feichtinger, Hans Georg ; Voigtlaender, Felix:
+From Frazier-Jawerth characterizations of Besov spaces to Wavelets and Decomposition spaces.
+In: Cwikel, Michael ; Milman, Mario (Hrsg.): Functional analysis, harmonic analysis, and image processing : a collection of papers in honor of Björn Jawerth. - Providence, Rhode Island : American Mathematical Society, 2017. - S. 185-216. - (Contemporary mathematics ; 693)
+ISBN 978-1-4704-2836-5 ; 978-1-4704-4166-1
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Pfander, Götz E. ; Salanevich, Palina:
+Geometric properties of Gabor frames with a random window.
+In: Proceedings of the 12th International Conference on Sampling Theory and Applications (SampTA), Tallinn, Estonia. - Tallinn, Estonia, 2017
+ISBN 978-1-5386-1565-2 ; 978-1-5386-1564-5
+10.1109/SAMPTA.2017.8024460
+(Begutachteter Beitrag / peer-reviewed paper)
+Fontaine, Pirmin ; Crainic, T.G. ; Jabali, O. ; Rei, W:
+The impact of combining inbound and outbound demand in city logistics systems.
+In: 2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC). - Turin, 2017. - S. 766-770
+Volltext
+Pfander, Götz E. ; Zhou, Weiqi:
+Irregular Orthonormal Gabor Basis in Finite Dimensions and Applications.
+In: Proceedings of SampTA 2017. - Tallinn, Estonia : SampTA, 2017. - S. 303-307
+ISBN 978-1-5386-1564-5 ; 978-1-5386-1565-2
+10.1109/SAMPTA.2017.8024467
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Geppert, Jakob ; Krahmer, Felix ; Stöger, Dominik:
+Refined performance guarantees for Sparse Power Factorization.
+In: 2017 International Conference on Sampling Theory and Applications (SampTA). - Tallinn, Estonia, 2017. - S. 509-513
+ISBN 978-1-5386-1565-2
+10.1109/SAMPTA.2017.8024391
+(Begutachteter Beitrag / peer-reviewed paper)
+2016
+Volltext
+Molahajloo, Shahla ; Okoudjou, Kasso ; Pfander, Götz E.:
+Boundedness of multilinear pseudo-differential operators on modulation spaces.
+In: The journal of Fourier analysis and applications. 22 (Dezember 2016) 6. - S. 1381-1415.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-016-9461-2
+(Peer-Review-Journal)
+Volltext
+Pfander, Götz E. ; Walnut, David:
+Sampling and reconstruction of operators.
+In: IEEE transactions on information theory. 62 (Januar 2016) 1. - S. 435-458.
+ISSN 0018-9448 ; 1557-9654
+10.1109/TIT.2015.2501646
+(Peer-Review-Journal)
+Volltext
+Walk, Philipp ; Jung, Peter ; Pfander, Götz E. ; Hassibi, Babak:
+Ambiguities on convolutions with applications to phase retrieval.
+In: Matthews, Michael B. (Hrsg.): Conference Record of the 50th Asilomar Conference on Signals, Systems and Computers. - Pacific Grove, California, 2016. - S. 1228-1234
+ISBN 978‑1‑5386‑3954‑2
+10.1109/ACSSC.2016.7869569
+Open AccessVolltext
+Janjić, Tijana ; Lange, Heiner ; Ruckstuhl, Yvonne ; Zeng, Yuefei:
+Approaches to convective scale data assimilation.
+In: Steinle, Peter ; Dharssi, Imtiaz ; Gottwald, Georg ; et al. (Hrsg.): Data assimilation – Abstracts of the tenth CAWCR Workshop 5-9 December 2016, Melbourne, Australia. - Melbourne : Australian Government, Bureau of Meteorology, 2016. - S. 41-44. - (Bureau Research Reports ; 017)
+ISBN 978-0-642-70683-6
+Open AccessVolltext
+Lange, Heiner ; Janjić, Tijana:
+Assimilation of Mode-S EHS Aircraft Observations in COSMO-KENDA.
+In: Monthly weather review. 144 (2016) 5. - S. 1697-1711.
+ISSN 0027-0644 ; 1520-0493
+10.1175/MWR-D-15-0112.1
+(Peer-Review-Journal)
+Volltext
+Stöger, Dominik ; Jung, Peter ; Krahmer, Felix:
+Blind deconvolution and compressed sensing.
+In: 4th International Workshop on Compressed Sensing Theory and its Applications to Radar, Sonar and Remote Sensing (CoSeRa). - Aachen, 2016. - S. 24-27
+ISBN 978-1-5090-2920-4
+(Begutachteter Beitrag / peer-reviewed paper)
+Keiper, Sandra ; Kutyniok, Gitta ; Lee, Dae Gwan ; Pfander, Götz E.:
+Compressed Sensing for Finite-Valued Signals.
+s.l., 2016
+arXiv:1609.09450
+Open AccessVolltext
+Voigtlaender, Felix:
+Embedding theorems for decomposition spaces with applications to wavelet coorbit spaces.
+RWTH Aachen University
+Aachen, 2016
+urn:nbn:de:hbz:82-rwth-2015-075066
+Open AccessVolltext
+Voigtlaender, Felix:
+Embeddings of Decomposition Spaces into Sobolev and BV Spaces.
+2016. - 64 S.
+arXiv:1601.02201
+Open AccessVolltext
+Simmer, Clemens ; Adrian, Gerhard ; Jones, Sarah ; Wirth, Volkmar ; Göber, Martin ; Hohenegger, Cathy ; Janjić, Tijana ; Keller, Jan ; Ohlwein, Christian ; Seifert, Axel ; Trömel, Silke ; Ulbrich, Thorsten ; Wapler, Kathrin ; Weissmann, Martin ; Keller, Julia ; Masbou, Matthieu ; Meilinger, Stefanie ; Riß, Nicole ; Schomburg, Annika ; Vormann, Arnd ; Weingärtner, Christa:
+HErZ: The German Hans-Ertel Centre for Weather Research.
+In: Bulletin of the American Meteorological Society. 97 (2016) 6. - S. 1057-1068.
+ISSN 0003-0007 ; 1520-0477
+10.1175/BAMS-D-13-00227.1
+(Peer-Review-Journal)
+Volltext
+Böhme, David ; Geimer, Markus ; Arnold, Lukas ; Voigtlaender, Felix ; Wolf, Felix:
+Identifying the Root Causes of Wait States in Large-Scale Parallel Applications.
+In: ACM Transactions on Parallel Computing. 3 (2016) 2: 11. - 24 S.
+ISSN 2329-4949 ; 2329-4957
+10.1145/2934661
+(Peer-Review-Journal)
+Volltext
+Albertella, Alberta ; Savcenko, Roman ; Janjić, Tijana ; Rummel, Reiner ; Bosch, Wolfgang ; Schröter, Jens:
+Mean Dynamic Ocean Topography in the Southern Ocean from GRACE and GOCE and Multi-mission Altimeter Data.
+In: Rizos, Chris ; Willis, Pascal (Hrsg.): Earth on the Edge : Science for a Sustainable Planet. - Berlin ; Heidelberg : Springer, 2016. - S. 81-87. - (International Association of Geodesy Symposia ; 139)
+ISBN 9783642372216
+10.1007/978-3-642-37222-3_10
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Žagar, Nedjeljka ; Bojarova, Jelena ; Gustafsson, Nils ; Janjić, Tijana ; Marseille, Gert-Jan ; Rennie, Michael ; Stoffelen, Ad ; Šavli, Matic:
+Mesoscale data assimilation and the role of winds in limited-area models for NWP in Europe.
+In: Workshop on Wind Profiles and Mesoscale Data Assimilation, 19-20 September 2016. - Ljublijana, Slowenien, 2016
+Volltext
+Fell, Jonathan ; Führ, Hartmut ; Voigtlaender, Felix:
+Resolution of the wavefront set using general continuous wavelet transforms.
+In: The journal of Fourier analysis and applications. 22 (2016) 5. - S. 997-1058.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-015-9445-7
+(Peer-Review-Journal)
+Open AccessVolltext
+Zeng, Yuefei ; Janjić, Tijana:
+Study of conservation laws with the Local Ensemble Transform Kalman Filter.
+In: Quarterly journal of the Royal Meteorological Society. 142 (2016) 699. - S. 2359-2372.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.2829
+(Peer-Review-Journal)
+Open AccessVolltext
+Haslehner, Mylène ; Janjić, Tijana ; Craig, George C.:
+Testing particle filters on simple convective-scale models. Part 2: A modified shallow-water model.
+In: Quarterly journal of the Royal Meteorological Society. 142 (2016) 697. - S. 1628-1646.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.2757
+(Peer-Review-Journal)
+Open AccessVolltext
+Haslehner, Mylène ; Janjić, Tijana ; Craig, George C.:
+Testing particle filters on simple convective-scale models. Part l: A stochastic cloud model.
+In: Quarterly journal of the Royal Meteorological Society. 142 (2016) 696. - S. 1439-1452.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.2745
+(Peer-Review-Journal)
+Volltext
+Cabrelli, Carlos ; Molter, Ursula ; Pfander, Götz E.:
+Time-frequency shift invariance and the Amalgam Balian-Low theorem.
+In: Applied and computational harmonic analysis. 41 (2016) 3. - S. 677-691.
+ISSN 1063-5203 ; 1096-603x
+(Peer-Review-Journal)
+2015
+Volltext
+Ray, Nadja ; Elbinger, Tobias ; Knabner, Peter:
+Upscaling the flow and transport in an evolving porous medium with general interaction potentials.
+In: SIAM journal on mathematical analysis. 75 (30. September 2015) 5. - S. 2170-2192.
+ISSN 0036-1410 ; 1095-7154
+10.1137/140990292
+(Peer-Review-Journal)
+Volltext
+Pfander, Götz E. ; Zheltov, P.:
+Estimation of Overspread Scattering Functions.
+In: IEEE Transactions on Signal Processing. 63 (Mai 2015) 10. - S. 2451-2463.
+ISSN 1053-587x ; 1941-0476
+10.1109/TSP.2015.2403309
+(Peer-Review-Journal)
+Volltext
+Fell, Jonathan ; Führ, Hartmut ; Voigtlaender, Felix:
+Resolution of the wave front set using general wavelet transforms.
+2015
+Veranstaltung: 2015 International Conference on Sampling Theory and Applications (SampTA), 25-29 May 2015, Washington, DC, USA.
+(Veranstaltungsbeitrag: Kongress/Konferenz/Symposium/Tagung, Vortrag)
+10.1109/SAMPTA.2015.7148907
+Volltext
+Cabrelli, Carlos ; Molter, Ursula ; Pfander, Götz E.:
+An Amalgam Balian-Low Theorem for symplectic lattices of rational density.
+In: Proceedings on the International Conference on Sampling Theory and Applications (SampTA), May 25 - 29, 2015, Washington DC. - Piscataway, New Jersey : IEEE, 2015. - S. 134-138
+ISBN 978-1-4673-7353-1 ; 1-4673-7353-2 ; 978-1-4673-7353-1
+10.1109/SAMPTA.2015.7148866
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Walnut, David ; Pfander, Götz E. ; Kailath, Thomas:
+Cornerstones of Sampling of Operator Theory.
+In: Balan Radu ; Begué Matthew ; Benedetto John J. ; Czaja Wojciech (Hrsg.): Excursions in Harmonic Analysis. - Cham : Birkhäuser, 2015. - S. 291-332. - (Applied and Numerical Harmonic Analysis ; 4)
+ISBN 978-3-319-20188-7 ; 978-3-319-20187-0
+10.1007/978-3-319-20188-7_12
+(Begutachteter Beitrag / peer-reviewed paper)
+Janjić, Tijana:
+Data assimilation for atmospheric and oceanic applications from the models perspective.
+München, 2015
+Volltext
+Salanevich, Palina ; Pfander, Götz E.:
+Polarization based phase retrieval for time-frequency structured measurements.
+In: Proceedings on the International Conference on Sampling Theory and Applications (SampTA), May 25 - 29, 2015, Washington DC. - Piscataway, New Jersey : IEEE, 2015. - S. 187-191
+ISBN 978-1-4673-7353-1 ; 1-4673-7353-2 ; 978-1-4673-7353-1
+10.1109/SAMPTA.2015.7148847
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Pfander, Götz E. ; Walnut, David:
+Regular operator sampling for parallelograms.
+In: Proceedings on the International Conference on Sampling Theory and Applications (SampTA), May 25 - 29, 2015, Washington DC. - Piscataway, New Jersey : IEEE, 2015. - S. 44-47
+ISBN 978-1-4673-7353-1 ; 1-4673-7353-2 ; 978-1-4673-7353-1
+10.1109/SAMPTA.2015.7148847
+(Begutachteter Beitrag / peer-reviewed paper)
+Sampling Theory, a Renaissance - Compressive Sensing and Other Developments.
+Hrsg.: Pfander, Götz E.
+Basel : Birkhäuser, 2015. - 532 S. - (Applied and Numerical Harmonic Analysis)
+ISBN 978-3-319-19748-7
+Open AccessVolltext
+Führ, Hartmut ; Voigtlaender, Felix:
+Wavelet coorbit spaces viewed as decomposition spaces.
+In: Journal of functional analysis. 269 (2015) 1. - S. 80-154.
+ISSN 0022-1236 ; 1096-0783
+10.1016/j.jfa.2015.03.019
+(Peer-Review-Journal)
+2014
+Volltext
+Krahmer, Felix ; Pfander, Götz E.:
+Local Sampling and Approximation of Operators with Bandlimited Kohn--Nirenberg Symbols.
+In: Constructive approximation. 39 (Juni 2014) 3. - S. 541-572.
+ISSN 0176-4276 ; 1432-0940
+(Peer-Review-Journal)
+Volltext
+Pfander, Götz E. ; Zheltov, P.:
+Sampling of Stochastic Operators.
+In: IEEE transactions on information theory. 60 (April 2014) 4. - S. 2359-2372.
+ISSN 0018-9448 ; 1557-9654
+(Peer-Review-Journal)
+Volltext
+Losa, Svetlana N. ; Danilov, Sergey ; Schröter, Jens ; Janjić, Tijana ; Nerger, Lars ; Janssen, Frank:
+Assimilating NOAA SST data into BSH operational circulation model for the North and Baltic Seas. Part 2. Sensitivity of the forecast's skill to the prior model error statistics.
+In: Journal of marine systems. 129 (2014). - S. 259-270.
+ISSN 0924-7963
+10.1016/j.jmarsys.2013.06.011
+(Peer-Review-Journal)
+Open AccessVolltext
+Janjić, Tijana ; McLaughlin, Dennis ; Cohn, Stephen E. ; Verlaan, Martin:
+Conservation of Mass and Preservation of Positivity with Ensemble-Type Kalman Filter Algorithms.
+In: Monthly weather review. 142 (2014) 2. - S. 755-773.
+ISSN 0027-0644 ; 1520-0493
+10.1175/MWR-D-13-00056.1
+(Peer-Review-Journal)
+Volltext
+Pfander, Götz E. ; Zheltov, Pavel:
+Identification of stochastic operators.
+In: Applied and computational harmonic analysis. 36 (2014) 2. - S. 256-279.
+ISSN 1063-5203 ; 1096-603x
+(Peer-Review-Journal)
+Open AccessVolltext
+Weissmann, Martin ; Göber, Martin ; Hohenegger, Cathy ; Janjić, Tijana ; Keller, Jan ; Ohlwein, Christian ; Seifert, Axel ; Trömel, Silke ; Ulbrich, Thorsten ; Wapler, Kathrin ; Bollmeyer, Christoph ; Deneke, Hartwig:
+Initial phase of the Hans-Ertel Centre for Weather Research – A virtual centre at the interface of basic and applied weather and climate research.
+In: Meteorologische Zeitschrift. 23 (2014) 3. - S. 193-208.
+ISSN 0941-2948 ; 1610-1227
+10.1127/0941-2948/2014/0558
+(Peer-Review-Journal)
+Oktay, O. ; Pfander, Götz E. ; Zheltov, P.:
+Reconstruction of the scattering function of overspread radar targets.
+In: IEEE Transactions on Signal Processing. 8 (2014) 9. - S. 1018-1024.
+ISSN 1053-587x ; 1941-0476
+(Peer-Review-Journal)
+Volltext
+Pfander, Götz E. ; Zheltov, Pavel:
+SIC-POVMs vs WSSUS : Quantum Information Theory meets Channel Estimation.
+EMS Publishing House, 2014. - (Oberwolfach Reports ; 11)
+10.4171/OWR/2014/18
+2013
+Volltext
+Pfander, Götz E. ; Rashkov, Peter:
+Remarks on multivariate Gaussian Gabor frames.
+In: Monatshefte für Mathematik. 172 (November 2013) 2. - S. 179-187.
+ISSN 0026-9255 ; 1436-5081
+10.1007/s00605-013-0556-4
+(Peer-Review-Journal)
+Volltext
+Pfander, Götz E. ; Rauhut, Holger ; Tropp, Joel:
+The restricted isometry property for time-frequency structured random matrices.
+In: Probability theory and related fields. 156 (August 2013) 3-4. - S. 707-737.
+ISSN 0178-8051
+10.1007/s00440-012-0441-4
+(Peer-Review-Journal)
+Volltext
+Frank, Florian ; Ray, Nadja ; Knabner, Peter:
+Numerical investigation of homogenized Stokes–Nernst–Planck–Poisson systems.
+In: Computing and visualization in science. 14 (19. Juni 2013). - S. 385-400.
+ISSN 1432-9360 ; 1433-0369
+10.1007/s00791-013-0189-0
+(Peer-Review-Journal)
+Volltext
+Pfander, Götz E.:
+Sampling of Operators.
+In: The journal of Fourier analysis and applications. 19 (Juni 2013) 3. - S. 612-650.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-013-9269-2
+(Peer-Review-Journal)
+Volltext
+Molahajloo, Shahla ; Pfander, Götz E.:
+Boundedness of pseudo-differential operators on L^p, Sobolev, and modulation spaces.
+In: Mathematical modelling of natural phenomena : MMNP. 8 (2013) 1. - S. 175-192.
+ISSN 0973-5348
+10.1051/mmnp/20138113
+(Peer-Review-Journal)
+Grip, Niklas ; Pfander, Götz E. ; Rashkov, Peter:
+A density criterion for operator identification.
+In: Sampling theory in signal and image processing. 12 (2013) 1. - S. 1-19.
+ISSN 1530-6429
+(Peer-Review-Journal)
+Volltext
+Ray, Nadja ; van Noorden, Tycho ; Radu, Florin ; Friess, Wolfgang ; Knabner, Peter:
+Drug release from collagen matrices including an evolving microstructure.
+In: ZAMM : journal of applied mathematics and mechanics = Zeitschrift für angewandte Mathematik und Mechanik / ed. in cooperation with Universität Potsdam and Gesellschaft für Angewandte Mathematik und Mechanik e.V., (GAMM). 93 (2013) 10-11. - S. 811-822.
+ISSN 1521-4001 ; 0044-2267
+10.1002/zamm.201200196
+(Peer-Review-Journal)
+Volltext
+Pfander, Götz E.:
+Gabor frames in finite dimensions.
+In: Casazza Peter K. ; Kutyniok Gitta (Hrsg): Finite Frames. - Boston : Birkhäuser, 2013. - S. 193-239. - (Applied and Numerical Harmonic Analysis)
+ISBN 978-0-8176-8372-6 ; 978-0-8176-8373-3 ; 0-8176-8372-0
+10.1007/978-0-8176-8373-3_6
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Pfander, Götz E. ; Walnut, David:
+Sparse finite Gabor frames for operator sampling.
+In: Proceedings of the International Conference on Sampling Theory and Applications (SampTA), July 1 - 5, 2013, Bremen. - Bremen : Eurasip, 2013. - S. 37-40
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Grip, Niklas ; Pfander, Götz E. ; Rashkov, Peter:
+A time-frequency density criterion for operator identification.
+In: Sampling theory in signal and image processing. 12 (2013) 1. - S. 1-19.
+ISSN 1530-6429
+arXiv:1504.05730
+(Peer-Review-Journal)
+2012
+Volltext
+Casazza, Peter G. ; Pfander, Götz E.:
+Infinite dimensional restricted invertibility.
+In: Journal of functional analysis. 263 (15. Dezember 2012) 12. - S. 3784-3803.
+ISSN 0022-1236 ; 1096-0783
+10.1016/j.jfa.2012.09.008 ·
+(Peer-Review-Journal)
+Volltext
+Ray, Nadja ; van Noorden, Tycho ; Frank, Florian ; Knabner, Peter:
+Multiscale modeling of colloid and fluid dynamics in porous media including an evolving microstructure.
+In: Transport in porous media : TIPM. 95 (1. Dezember 2012) 3. - S. 669-696.
+ISSN 1573-1634 ; 0169-3913
+10.1007/s11242-012-0068-z
+(Peer-Review-Journal)
+Volltext
+Ray, Nadja ; Muntean, Adrian ; Knabner, Peter:
+Rigorous homogenization of a stokes–nernst–planck–poisson system.
+In: Journal of mathematical analysis and applications. 390 (1. Juni 2012) 1. - S. 374-393.
+ISSN 0022-247x ; 1096-0813
+10.1016/j.jmaa.2012.01.052
+(Peer-Review-Journal)
+Volltext
+Janjić, Tijana ; Schröter, Jens ; Albertella, Alberta ; Bosch, Wolfgang ; Rummel, Reiner ; Savcenko, Roman ; Schwabe, Joachim ; Scheinert, Mirko:
+Assimilation of geodetic dynamic ocean topography using ensemble based Kalman filter.
+In: Journal of geodynamics. 59-60 (2012). - S. 92-98.
+ISSN 0264-3707
+10.1016/j.jog.2011.07.001
+(Peer-Review-Journal)
+Volltext
+Herz, Matthias ; Ray, Nadja ; Knabner, Peter:
+Existence and uniqueness of a global weak solution of a Darcy‐Nernst‐Planck‐Poisson system.
+In: GAMM-Mitteilungen / Gesellschaft für Angewandte Mathematik und Mechanik. 35 (2012) 2. - S. 191-208.
+ISSN 1522-2608 ; 0936-7195
+DOI 10.1002/gamm.201210013
+(Peer-Review-Journal)
+Volltext
+Pfander, Götz E.:
+Gabor frames in finite dimensions.
+In: Casazza, Peter G .; Kutyniok, Gitta (Hrsg.): Finite Frames : Theory and Applications. - Boston : Birkhäuser, 2012. - S. 193-240
+ISBN 978-0817683726
+10.1007/978-0-8176-8373-3_6
+Volltext
+Pfander, Götz E. ; Rashkov, Peter ; Wang, Yang:
+A geometric construction of tight multivariate Gabor frames with compactly supported smooth windows.
+In: The journal of Fourier analysis and applications. 18 (2012). - S. 223-239.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-011-9198-x
+(Peer-Review-Journal)
+Volltext
+Albertella, Alberta ; Savcenko, Roman ; Janjić, Tijana ; Rummel, Reiner ; Bosch, Wolfgang ; Schröter, Jens:
+High resolution dynamic ocean topography in the Southern Ocean from GOCE.
+In: Geophysical journal international. 190 (2012) 2. - S. 922-930.
+ISSN 1956-540x ; 1365-246x
+10.1111/j.1365-246X.2012.05531.x
+(Peer-Review-Journal)
+Open AccessVolltext
+Janjić, Tijana ; Schröter, Jens ; Savcenko, Roman ; Bosch, Wolfgang ; Albertella, Alberta ; Rummel, Reiner ; Klatt, Olaf:
+Impact of combining GRACE and GOCE gravity data on ocean circulation estimates.
+In: Ocean science. 8 (2012). - S. 65-79.
+ISSN 1812-0784 ; 1812-0792
+10.5194/os-8-65-2012
+(Peer-Review-Journal)
+Albertella, Alberta ; Savcenko, Roman ; Janjić, Tijana ; Rummel, Reiner ; Bosch, Wolfgang ; Schröter, Jens:
+Mean Dynamic Ocean Topography in the Southern hemisphere from GRACE and GOCE and multi-mission altimeter data.
+In: Proceedings of IUGG, Melbourne, 28th June - 7th of July, 2011. - Melbourne, Australia, 2012
+Volltext
+Janjić, Tijana ; McLaughlin, Dennis ; Cohn, Stephen E.:
+Preservation of physical properties with ensemble based Kalman filter algorithms.
+In: Griewank, Andreas ; Reich, Sebastian ; Roulstone, Ian ; Stuart, Andrew (Hrsg): Mathematical and Algorithmic Aspects of Atmosphere-Ocean Data Assimilation. - Oberwolfach : EMS Publishing House, 2012. - S. 3433-3436. - (Oberwolfach Reports ; 9,4)
+10.4171/OWR/2012/58
+Open AccessVolltext
+Nerger, Lars ; Janjić, Tijana ; Schröter, Jens ; Hiller, Wolfgang:
+A regulated localization scheme for ensemble-based Kalman filters.
+In: Quarterly journal of the Royal Meteorological Society. 138 (2012) 664. - S. 802-812.
+ISSN 1477-870x ; 0035-9009
+10.1002/qj.945
+(Peer-Review-Journal)
+Open AccessVolltext
+Nerger, Lars ; Janjić, Tijana ; Schröter, Jens ; Hiller, Wolfgang:
+A Unification of Ensemble Square Root Kalman Filters.
+In: Monthly weather review. 140 (2012) 7. - S. 2335-2345.
+ISSN 0027-0644 ; 1520-0493
+(Peer-Review-Journal)
+2011
+Volltext
+Casazza, Peter G. ; Pfander, Götz E.:
+The Bourgain Tzafriri restricted invertibility theorem in infinite dimensions.
+In: Oberwolfach Reports. 8 (2011) 1. - S. 955-957.
+ISSN 1660-8933
+10.4171/OWR/2011/17
+Open AccessVolltext
+Janjić, Zaviša I. ; Janjić, Tijana ; Vasic, Ratko:
+A class of conservative fourth-order advection schemes and impact of enhanced formal accuracy on extended-range forecasts.
+In: Monthly weather review. 139 (2011) 5. - S. 1556-1568.
+ISSN 0027-0644 ; 1520-0493
+10.1175/2010MWR3448.1
+(Peer-Review-Journal)
+Grip, Niklas ; Pfander, Götz E. ; Rashkov, Peter:
+Density criteria in operator identification.
+In: Proceedings of the 9th International Conference on Sampling Theory and Applications (SampTA), May 2 - 6, 2011, Singapore. - Singapore, 2011
+(Begutachteter Beitrag / peer-reviewed paper)
+Grip, Niklas ; Pfander, Götz E.:
+Efficient Analysis of OFDM Channels.
+In: Rohling, Hermann (Hrsg.): OFDM : Concepts for Future Communication Systems. - Berlin ; Heidelberg : Springer, 2011. - S. 109-114
+ISBN 978-3-642-17495-7
+Pfander, Götz E. ; Zheltov, Pavel:
+Identification and sampling of stochastic operators.
+In: Proceedings of the 9th International Conference on Sampling Theory and Applications (SampTA), May 2 - 6, 2011, Singapore. - Singapore, 2011
+(Begutachteter Beitrag / peer-reviewed paper)
+Open AccessVolltext
+Janjić, Tijana ; Schröter, Jens ; Savcenko, Roman ; Bosch, Wolfgang ; Albertella, Alberta ; Rummel, Reiner ; Klatt, Olaf:
+Impact of combining GRACE and GOCE gravity data on ocean circulation estimates.
+In: Ocean science discussions. 8 (2011). - S. 1535-1573.
+ISSN 1812-0806 ; 1812-0806
+(Peer-Review-Journal)
+Open AccessVolltext
+Janjić, Tijana ; Nerger, Lars ; Albertella, Alberta ; Schröter, Jens ; Skachko, Sergey:
+On Domain Localization in Ensemble-Based Kalman Filter Algorithms.
+In: Monthly weather review. 139 (2011) 7. - S. 2046-2060.
+ISSN 0027-0644 ; 1520-0493
+10.1175/2011MWR3552.1
+(Peer-Review-Journal)
+2010
+Volltext
+Pfander, Götz E. ; Rauhut, Holger:
+Sparsity in time-frequency representations.
+In: The journal of Fourier analysis and applications. 16 (April 2010). - S. 233-260.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-009-9086-9
+(Peer-Review-Journal)
+Volltext
+Albertella, Alberta ; Rummel, Reiner ; Savcenko, Roman ; Bosch, Wolfgang ; Janjić, Tijana ; Schröter, Jens ; Gruber, Thomas ; Bouman, Johannes:
+Dynamic Ocean Topography from GOCE : Some Preparatory Attempts.
+In: Proceedings of ESA Living Planet Symposium, held on 28 June - 2 July 2010 at Bergen in Norway. - Bergen, Norway, 2010
+Open AccessVolltext
+Loza, Svetlana ; Nerger, Lars ; Janjić, Tijana ; Schröter, Jens ; Janssen, Frank:
+Entwicklung und Implementierung eines Verfahrens zur Datenassimilation von Fernerkundungsdaten in ein operationelles Modell für die Nord- und Ostsee (DOM).
+In: Jahresbericht / DeMarine Umwelt. 2009-2010. Operationalisierung mariner GMES-Dienste in Deutschland (2010). - S. 57-68.
+hdl:10013/epic.38015
+Open AccessVolltext
+Hong, Yoon Mi ; Pfander, Götz E.:
+Irregular and multi-channel sampling of operators.
+In: Applied and computational harmonic analysis. 29 (2010) 2. - S. 214-231.
+ISSN 1063-5203 ; 1096-603x
+10.1016/j.acha.2009.10.006
+(Peer-Review-Journal)
+Pfander, Götz E. ; Rashkov, Peter:
+Window design for multivariate Gabor frames on lattices.
+2010. - 46 S. - (Jacobs University Technical Reports ; 21)
+2009
+Krahmer, Felix ; Pfander, Götz E. ; Rashkov, Peter:
+Applications of the uncertainty principle for finite abelian Groups to communications engineering.
+In: Bulgarian Journal of Physics. 36 (2009) 1. - S. 54-59.
+ISSN 1310-0157
+(Peer-Review-Journal)
+Open AccessVolltext
+Rollenhagen, Katja ; Timmermann, Ralph ; Janjić, Tijana ; Schröter, Jens ; Danilov, Sergey:
+Assimilation of sea ice motion in a finite‐element sea ice model.
+In: Journal of geophysical research. Oceans. 114 (2009) C5.
+ISSN 2169-9275 ; 2169-9291
+10.1029/2008JC005067
+(Peer-Review-Journal)
+Hong, Yoon Mi ; Pfander, Götz E.:
+Irregular and multichannel sampling in operator Paley-Wiener spaces.
+In: Proceedings of the International Conference on Sampling Theory and Applications (SampTA), May 18 - 22, 2009, Marseille. - Marseille, 2009
+(Begutachteter Beitrag / peer-reviewed paper)
+Pfander, Götz E.:
+Linear independence and coherence of Gabor systems in finite dimensional spaces.
+In: Proceedings of the International Conference on Sampling Theory and Applications (SampTA), May 18 - 22, 2009, Marseille. - Marseille, 2009
+(Begutachteter Beitrag / peer-reviewed paper)
+Open AccessVolltext
+Janjić, Tijana ; Albertella, Alberta ; Skachko, Sergey ; Schröter, Jens ; Rummel, Reiner:
+Observational error covariance specification in ensemble based Kalman filter algorithms.
+In: Proceedings of 5th WMO Symposium on the Assimilation of Observations for Meteorology, Oceanography and Hydrology, Melbourne 5-9 October 2009. - Melbourne, Australia, 2009
+hdl:10013/epic.33723
+Open AccessVolltext
+Krahmer, Felix ; Pfander, Götz E. ; Rashkov, Peter:
+An open question on the existence of Gabor frames in general linear position.
+In: Dahlke, Stephan ; Daubechies, Ingrid ; Elad, Michal ; Kutyniok, Gitta ; Teschke, Gerd (Hrsg.): Structured Decompositions and Efficient Algorithms. - Dagstuhl : Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany, 2009. - (Dagstuhl Seminar Proceedings ; 08492)
+(Begutachteter Beitrag / peer-reviewed paper)
+Pfander, Götz E. ; Walnut, David:
+Operator identification and sampling.
+In: Proceedings of the International Conference on Sampling Theory and Applications (SampTA), May 18 - 22, 2009, Marseille. - Marseille, 2009
+(Begutachteter Beitrag / peer-reviewed paper)
+2008
+Open AccessVolltext
+Krahmer, Felix ; Pfander, Götz E. ; Rashkov, Peter:
+Uncertainty in time-frequency representations on finite Abelian groups.
+In: Applied and computational harmonic analysis. 25 (September 2008). - S. 209-225.
+ISSN 1063-5203 ; 1096-603x
+10.1016/j.acha.2007.09.008
+(Peer-Review-Journal)
+Volltext
+Pfander, Götz E. ; Rauhut, Holger ; Tanner, Jared:
+Identification of matrices having a sparse representation.
+In: IEEE Transactions on Signal Processing. 56 (15. Juli 2008) 11. - S. 5376-5388.
+ISSN 1053-587x ; 1941-0476
+10.1109/TSP.2008.928503
+(Peer-Review-Journal)
+Open AccessVolltext
+Pfander, Götz E.:
+On the invertibility of "rectangular" bi-infinite matrices and applications in time-frequency analysis.
+In: Linear algebra and its applications. 429 (Juli 2008) 1. - S. 331-345.
+ISSN 0024-3795
+10.1016/j.laa.2008.02.025
+(Peer-Review-Journal)
+Open AccessVolltext
+Pfander, Götz E.:
+Measurement of time-varying multiple-input multiple-output channels.
+In: Applied and computational harmonic analysis. 24 (Mai 2008) 3. - S. 393-401.
+ISSN 1063-5203 ; 1096-603x
+10.1016/j.acha.2007.09.006
+(Peer-Review-Journal)
+Grip, Niklas ; Pfander, Götz E.:
+A discrete model for the efficient analysis of time-varying narrowband communication channels.
+In: Multidimensional systems and signal processing. 19 (2008) 1. - S. 3-40.
+ISSN 0923-6082 ; 1573-0824
+0.1007/s11045-007-0032-1
+(Peer-Review-Journal)
+Grip, Niklas ; Pfander, Götz E. ; Rashkov, Peter:
+Identification of time-frequence localized operators.
+2008. - 75 S. - (Jacobs University Technical Reports ; 22)
+Open AccessVolltext
+Skachko, Sergey ; Danilov, Sergey ; Janjić, Tijana ; Schröter, Jens ; Sidorenko, Dmitry ; Savcenko, Roman ; Bosch, Wolfgang:
+Sequential assimilation of multi-mission dynamical topography into a global finite-element ocean model.
+In: Ocean science. 4 (2008). - S. 307-318.
+ISSN 1812-0784 ; 1812-0792
+(Peer-Review-Journal)
+Volltext
+Krahmer, Felix ; Pfander, Götz E. ; Rashkov, Peter:
+Support size restrictions on time-frequency representations of functions on finite Abelian groups.
+In: Proceedings of the 79th Annual Meeting of the International Association of Applied Mathematics and Mechanics (GAMM), Bremen 2008. - Weinheim : Wiley Blackwell, 2008. - S. 10825-10826. - (Proceedings in Applied Mathematics and Mechanics ; 8)
+10.1002/pamm.200810825
+2007
+Open AccessVolltext
+Pfander, Götz E. ; Wünsche, Isabel:
+Exploring infinity : number sequenes in modern art.
+In: Arkhai. 12 (2007). - S. 41-66.
+Open AccessVolltext
+Pfander, Götz E.:
+Note on sparsity in signal recovery and in matrix identification.
+In: The open applied mathematics journal. 1 (2007). - S. 21-23.
+ISSN 1874-1142
+10.2174/1874114200701010021]
+(Peer-Review-Journal)
+Pfander, Götz E. ; Walnut, David:
+On the sampling of functions and operators with an application to Multiple-Input Multiple-Output channel identification.
+In: Van De Ville, Dimitri ; Goyal, Vivek K. ; Papadakis, Manos (Hrsg.): Wavelets XII. Proceedings of the SPIE. - San Diego, California, 2007. - 67010T-1
+(Begutachteter Beitrag / peer-reviewed paper)
+Krahmer, Felix ; Pfander, Götz E. ; Rashkov, Peter:
+Support size conditions for time-frequency representations on finite Abelian groups.
+2007. - 42 S. - (Jacobs University Technical Reports ; 13)
+Grip, Niklas ; Pfander, Götz E.:
+Time varying narrowband communications channels: analysis and implementation.
+2007. - 125 S. - (Jacobs University Technical Reports ; 12)
+2006
+Volltext
+Pfander, Götz E. ; Walnut, David:
+Measurement of time variant linear channels.
+In: IEEE transactions on information theory. 52 (November 2006) 11. - S. 4808-4820.
+ISSN 0018-9448 ; 1557-9654
+10.1109/TIT.2006.883553
+(Peer-Review-Journal)
+Pfander, Götz E. ; Walnut, David:
+Operator identification and Feichtinger´s algebra.
+In: Sampling theory in signal and image processing. 5 (Mai 2006) 2. - S. 183-200.
+ISSN 1530-6429
+(Peer-Review-Journal)
+Open AccessVolltext
+Benedetto, John ; Pfander, Götz E.:
+Frame expansions for Gabor multipliers.
+In: Applied and computational harmonic analysis. 20 (Januar 2006) 1. - S. 26-40.
+ISSN 1063-5203 ; 1096-603x
+10.1016/j.acha.2005.03.002
+(Peer-Review-Journal)
+Volltext
+Kozek, Werner ; Pfander, Götz E.:
+Identification of operators with bandlimited symbols.
+In: SIAM journal on mathematical analysis. 37 (2006) 3. - S. 867-888.
+ISSN 0036-1410 ; 1095-7154
+10.1137/S0036141003433437
+(Peer-Review-Journal)
+Open AccessVolltext
+Janjić, Tijana ; Cohn, Stephen E.:
+Treatment of Observation Error due to Unresolved Scales in Atmospheric Data Assimilation.
+In: Monthly weather review. 134 (2006) 10. - S. 2900-2915.
+ISSN 0027-0644 ; 1520-0493
+10.1175/MWR3229.1
+(Peer-Review-Journal)
+2005
+Volltext
+Lawrence, Jim ; Pfander, Götz E. ; Walnut, David:
+Linear indepencence of Gabor systems in finite dimensional vector spaces.
+In: The journal of Fourier analysis and applications. 11 (Dezember 2005) 6. - S. 715-726.
+ISSN 1069-5869 ; 1531-5851
+10.1007/s00041-005-5017-6
+(Peer-Review-Journal)
+Open AccessVolltext
+Wulfmeyer, Volker ; Janjić, Tijana:
+Twenty-Four-Hour Observations of the Marine Boundary Layer Using Shipborne NOAA High-Resolution Doppler Lidar.
+In: Journal of applied meteorology and climatology. 44 (2005) 11. - S. 1723-1744.
+ISSN 1558-8424 ; 1558-8432
+10.1175/JAM2296.1
+(Peer-Review-Journal)
+2003
+Volltext
+Gröchenig, Karlheinz ; Janssen, Augustus J. E. M. ; Kaiblinger, Norbert ; Pfander, Götz E.:
+Note on B-splines, wavelet scaling functions, and Gabor frames.
+In: IEEE transactions on information theory. 49 (Dezember 2003). - S. 3318-3320.
+ISSN 0018-9448 ; 1557-9654
+10.1109/TIT.2003.820022
+(Peer-Review-Journal)
+Volltext
+Janjić, Tijana ; Wulfmeyer, Volker:
+High-Resolution Studies of Transport Processes in the Atmospheric Boundary Layer Using the Synergy of Large Eddy Simulation and Measurements of Advanced Lidar Systems.
+In: Krause, Egon ; Jäger, Willi ; Resch, Michael (Hrsg.): High Performance Computing in Science and Engineering 2003 : Transactions of the High Performance Computing Center Stuttgart (HLRS) 2003. - Berlin ; Heidelberg : Springer, 2003. - 01-10
+ISBN 978-3-642-55876-4
+10.1007/978-3-642-55876-4_1
+(Begutachteter Beitrag / peer-reviewed paper)
+2002
+Open AccessVolltext
+Kozek, Werner ; Pfander, Götz E. ; Zimmermann, Georg:
+Perturbation stability of coherent Riesz systems under convolution operators.
+In: Applied and computational harmonic analysis. 12 (Mai 2002) 3. - S. 286-308.
+ISSN 1063-5203 ; 1096-603x
+10.1006/acha.2001.0375
+(Peer-Review-Journal)
+Charina, Maria ; Jetter, Kurt ; Kehrein, Achim ; Kozek, Werner ; Pfander, Götz E. ; Zimmermann, Georg:
+ISI / ICI comparison of DMT and wavelet based MCM schemes for time invariant channels.
+In: Speidel, Joachim (Hrsg.): Neue Kommunikationsanwendungen in modernen Netzen. - Berlin : VDE, 2002. - S. 109-115. - (ITG-Fachbericht ; 171)
+(Begutachteter Beitrag / peer-reviewed paper)
+Open AccessVolltext
+Benedetto, John ; Pfander, Götz E.:
+Periodic wavelet transforms and periodicity detection.
+In: SIAM journal on applied mathematics. 62 (2002) 4. - S. 1329-1368.
+ISSN 0036-1399 ; 1095-712x
+(Peer-Review-Journal)
+2001
+Jetter, Kurt ; Pfander, Götz E. ; Zimmermann, Georg:
+The crest factor of trigonometric polynomials. Part 1: Approximation theoretic results.
+In: Revue d'analyse numérique et de théorie de l'approximation. 30 (2001) 2. - S. 179-195.
+ISSN 1010-3376 ; 1222-9024 ; 2501-059x
+(Peer-Review-Journal)
+Janjić, Tijana:
+Error due to Unresolved Scales in Estimation Problems for Atmospheric Data Assimilation.
+University of Maryland, College Park, USA., 2001
+2000
+Kozek, Werner ; Pfander, Götz E. ; Ungermann, Jörn ; Zimmermann, Georg:
+A comparative study of various MCM schemes.
+In: Proceedings of the 5th International OFDM-Workshop 2000, Technische Universität Hamburg-Harburg. - Hamburg, 2000. - 20.1-20.4
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Pfander, Götz E.:
+Generalized Haar wavelets and frames.
+In: Aldroubi, Akram ; Laine, Andrew F. ; Unser, Michael A. (Hrsg.): Proceedings of SPIE, Wavelet Applications in Signal and Image Processing VIII. - Bellingham, USA : SPIE, 2000
+ISBN 978-0819437648
+10.1117/12.408641
+(Begutachteter Beitrag / peer-reviewed paper)
+Volltext
+Kozek, Werner ; Pfander, Götz E. ; Zimmermann, Georg:
+Perturbation stability of various coherent Riesz families.
+In: Aldroubi, Akram ; Laine, Andrew F. ; Unser, Michael A. (Hrsg.): Proceedings of SPIE, Wavelet Applications in Signal and Image Processing VIII. - Bellingham, USA : SPIE, 2000. - S. 411-419
+ISBN 978-0819437648
+10.1117/12.408627
+(Begutachteter Beitrag / peer-reviewed paper)
+1998
+Open AccessVolltext
+Janjić, Tijana:
+Comments on ‘A finite-volume integration method for computing pressure gradient force in general vertical coordinates’ by Shian-Jiann Lin (July B, 1997, 123, 1749-1762).
+In: Quarterly journal of the Royal Meteorological Society. 124 (1998) 551. - S. 2527-2529.
+ISSN 1477-870x ; 0035-9009
+(Peer-Review-Journal)
+Volltext
+Benedetto, John ; Pfander, Götz E.:
+Wavelet periodicity detection algorithms.
+In: Aldroubi, Akram ; Laine, Andrew F. ; Unser, Michael A. (Hrsg.): Proceedings of SPIE, Wavelet Applications in Signal and Image Processing VI. - Bellingham, USA : SPIE, 1998. - S. 48-55
+10.1117/12.328148
+(Begutachteter Beitrag / peer-reviewed paper)
+1997
+Benedetto, John ; Pfander, Götz E.:
+Wavelet detection of periodic behaviour in EEG and ECoG Data.
+In: Sydow, Achim (Hrsg.): Proceedings of the 15th IMACS World Congress on Scientific Computation, Modelling and Applied Mathematics, Berlin August 1997. - Berlin : Wissenschaft & Technik, 1997. - S. 75-80
+ISBN 978-3896855503
+(Begutachteter Beitrag / peer-reviewed paper)

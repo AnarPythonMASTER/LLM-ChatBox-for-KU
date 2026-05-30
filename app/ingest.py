@@ -28,7 +28,7 @@ def read_txt_files(folder_path):
     return documents
 
 
-def chunk_text(text, chunk_size=500, overlap=100):
+def chunk_text(text, chunk_size=500, overlap=100):# test it with different values
     words = text.split()
     chunks = []
 

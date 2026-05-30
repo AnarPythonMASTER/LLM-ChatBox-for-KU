@@ -1,0 +1,205 @@
+MIDS Seminar
+The MIDS Seminar always takes place on Wednesdays at 10.30 am in room Georgianum-101
+The following dates are planned:
+
+29.04.2026
+06.05.2026
+13.05.2026
+Fabian Stallbauer
+“Small Random Initialization for Matrix Completion with Vanilla Gradient Descent”
+27.05.2026
+Hannes Matt
+“Existence of maximally spread out measures on quasi-convex subsets in infinite dimensions”
+03.06.2026
+10.06.2026
+Catherine George
+17.06.2026
+Bernd Käßemodel (TU Chemnitz)
+24.06.2026
+Chang Peng
+01.07.2026 / MIDS Sommerfest (HB-GH)
+Prof. Dr. Daniel Schnurr (Universität Regensburg)
+“The European AI Act: Implementation and New Challenges”
+08.07.2026
+15.07.2026
+The speakers and the topics of the talks will always be published on this page in a timely manner. Please contact the organizers of the seminar if you have any questions.
+
+Contact Persons
+Felix Bartel
+Dr. Felix Bartel
+Research Associate
+
+E-mail Felix.Bartel@ku.de
+Room: GEOG-205(Collegium Georgianum in Ingolstadt)
+Overview of past talks
+Wintersemester 2025/26
+September 17
+Juntian Chen (Atmospheric Dynamics and Predictability, University of Hamburg)
+"On the investigation of non-hydrostatic effects in the ICON model"
+October 01
+Erwin Riegler (ETH Zurich)
+“Lossy Compression of General Random Variables”
+October 15
+Fabian Schwickert (Fraunhofer-Institut für Verkehrs- und Infrastruktursysteme)
+“Increasing and Certifying Local Robustness of Neural Networks with Adversarial Training and Lipschitz Continuity”
+October 29
+Ilya Krishtal (Northern Illinois University)
+“Carleson Frames”
+November 05
+Ivan Penkov (Constructor University)
+“A problem in number theory motivated by representation theory”
+November 12
+Chang Peng
+“Denoising Diffusion Probabilistic Model”
+November 19
+Yvonne Ruckstuhl
+"Parameter Estimation in Numerical Weather Prediction: From Ensemble Methods to Stochastic Galerkin Approaches"
+November 26
+Philomène Dufour (Uni Hamburg)
+“Introduction to the Generalized Lagrangian Mean (GLM) Theory”
+December 03
+Marc Tiofack Kenfack
+“Quantifying dynamical regimes in geophysical flows via Optimal Balance”
+December 10
+Javad Mashreghi (Université Laval)
+“Analytic Characterizations of Convexity via Blaschke Products”
+December 17
+Junyu Zhou
+"Optimal Rates for Generalization of Gradient Descent Methods with Deep Neural Networks"
+January 14 / GEOG-201!
+Jan Boeckmann
+“A Machine Learning Approach to Model Runoff Behaviour in Heavy Rain Events”
+January 21
+Michael Speckbacher
+“Spectral deviation of concentration operators on reproducing kernel Hilbert spaces”
+January 28
+Felix Bartel
+“$L_2$-Marcinkiewicz-Zygmund inequalities”
+Wintersemester 2024/25
+October 16: Anders Hansen (University of Cambridge) 
+"On the consistent reasoning paradox of intelligence and optimal trust in AI: The power of `I don't know'"
+October 23: Andrei Caragea
+"Partial results towards extending Chebotarev's theorem on Fourier submatrices"
+October 30: Raphael Schulz
+"Derivation and investigations of effective dispersion models for electroosmotic flow with rigid and free boundaries in a thin strip"
+November 13: Thomas Jahn
+"Besov regularity of random wavelet series"
+November 20: Hannes Matt 
+"Linear regression with overparameterized linear neural networks: Tight upper and lower bounds for implicit $\ell^1$-regularization"
+November 27: Felix Voigtlaender
+"Sampling numbers of the Fourier side Barron spaces"
+December 18: Ojesh Koul
+"Balanced asymptotic models for the earth's troposphere"
+January 08: Hao Liang
+"The nonconforming locking-free virtual element method for the poroelasticity model"
+January 15: Maximilian Rötzer
+"Combining microbial modeling and soil structure dynamics for an improved"
+January 22: Tatsiana Bardachova
+"Towards the assimilation of dual-polarization radar data"
+January 29: Simon Mader
+"A supervised machine learning framework to predict the request fit for dynamic dial-a-ride problems"
+
+Data Science Studentes Veronika Rybak, Ruslan Tsibirov, Denis Hoti, and Ali Guliyev will present their prize winning work done during the VGI Challenge “How does the VGI-Flexi move Rural Areas”.
+February: 05: Tizian Wenzel (LMU)
+"Deep and greedy kernel methods: Algorithms, Analysis and Applications"
+Sommersemester 2024
+April 23 - 14 Uhr: Martin Buhmann (Justus-Liebig Universität Giessen)
+"New multiquadric-type interpolation and on a regular domain"
+April 29 - 16 Uhr Romanos Diogenes Malikiosis* (Aristotle University of Thessaloniki)
+"A linear programming approach to Fuglede's conjecture in ℤp3\mathbb{Z}^3_p"
+May 08: Anton Kutsenko
+"Wave propagation through complex structures with sources and defects"
+May 22: Erlangen National High Performance Computing Center
+June 05: Götz Pfander & Andrei Caragea
+"Exponential bases and Chebotarev-type results on Fourier matrices"
+June 12: Dominik Stöger
+"Breaking the quadratic rank bottleneck in non-convex matrix sensing: Recovery guarantees with (near-)optimal sample complexity"
+June 19: André Uschmajew (Universität Augsburg)
+"Gauss–Southwell type descent methods for low-rank matrix optimization"
+June 26: Marcel Oliver
+"Slow manifolds in rotating fluid flow"
+July 03: Mihalis Kolountzakis (University of Crete)
+"Common fundamental domains"
+July 10: Ilya Krishtal (Northern Illinois University)
+"A Spectral Theory Approach to Prony’s Problem"
+Wintersemester 2023/24
+October 18: Palina Salanevich (Utrecht University)
+"Graph Uncertainty Principle and Eigenvector Delocalization"
+October 25: Raphael Schulz (KU Eichstätt-Ingolstadt) 
+"Fluid flow and reactive transport in evolving and clogging porous media"
+November 08: Thomas Jahn (KU Eichstätt-Ingolstadt)
+"Constant width, completeness, and reducedness of convex bodies"
+November 15: kein Seminar
+November 22: Anton Kutsenko (KU Eichstätt-Ingolstadt)
+"Branching processes in random environments, asymptotic of the limit distribution"
+November 29: Andreas Horst (Technical University of Denmark)
+"Inverse problems with Besov prior and Markov chain Monte Carlo methods"
+December 04:
+Sam Buchanan (Toyota Technological Institute of Chicago)
+"Deep Networks and the Multiple Manifold Problem"
+December 06: Friedrich Philipp (TU Ilmenau)
+"Koopman-based learning of dynamics with guarantees"
+December 13: Bin Cheng (University of Surrey)
+"Near resonant approximation in Geophysical Fluid Dynamics"
+December 20: Nadja Ray (KU Eichstätt-Ingolstadt)
+"Effective reactive flow and transport models"
+Januar 12: Martin Schäfer (TU Chemnitz)
+"A Primer on Gate-Based Quantum Computing"
+Januar 24: Khadeeja Afzal (KU Eichstätt-Ingolstadt)
+"An investigation of Nearly Geostrophic flows in Bounded domain"
+Januar 31: Manjot Singh (LMU Munich)
+"Expressivity of Spiking Neural Networks through the Spike Response Model"
+March 18: Florian Semrau (KU Eichstätt-Ingolstadt)
+"A stochastic, particle based model for testing the impact of correlated representation error on data assimilation"
+Sommersemester 2023
+May 10: Maximilian Rötzer (FAU Erlangen)
+"Explicit, pore scale modeling of the influence of roots on soil aggregation"
+May 17: Paul Geuchen
+"Optimal approximation using complex-valued neural networks"
+May 24: David Walnut (George Mason University)
+"Extraction and splitting of Riesz bases of exponentials"
+May 31: Andrei Caragea
+"More on hierarchical Riesz bases"
+June 07: Frank Filbir (Helmholtz Center Munich)
+"Marcinkiewicz-Zygmund inequalities, sampling, and approximation of functions"
+June 14: Svetlana Loza (Alfred Wegener Institut)
+"Combining sea-ice and ocean data assimilation with nudging atmospheric circulation in AWI Coupled Prediction System"
+June 21: Marc Tiofack 
+"Deterministic and stochastic surrogate model for fast oscillatory motion"
+June 28: Günther Wirsching
+"Quantum-Inspired Logic"
+July 03: Yizhe Zhu
+"Effective Algorithms for Differentially Private Synthetic Data Generation"
+July 05: no seminar
+July 12: 
+10:15: Dr. Joerg Steinwagner (Verisk Atmospheric and Environmental Research)
+"Applied data assimilation - Wind for renewable energy production prediction"
+11:15: Prof. Akram Aldroubi (Vanderbilt University)
+"Transport Transforms for Machine Learning"
+July 19: Martin Doss (FAU)
+"The Full Drying Process of a Colloidal Suspension: Mathematical Modeling and Numerical Simulations"
+Wintersemester 2022/23
+October 26: Thomas Jahn
+“On the optimal constants in the two-sided Stechkin inequalities”
+November 02: Dominik Stöger
+“Algorithmic Regularization in Overparameterized Asymmetric Matrix Sensing beyond the lazy training regime”
+November 08: Tijana Janjic
+“Data assimilation and conservation laws”
+November 16: Anton Kutsenko
+"How random permutations create waves"
+December 7: Hannes Matt
+"Banach gradient flows for various families of knot energies​​​​"
+December 14: Yvonne Ruckstuhl
+"A test of an alternative approach for uncertainty representation in data assimilation"
+December 21: Götz Pfander
+"Barron class functions and avoiding the curse of dimensionality in NN classification”
+January 11: Karlheinz Gröchenig (University of Vienna)
+“Variable bandwidth and sampling theorems”
+January 25: Wolfgang Utschick (TU München)
+“Bayesian Inference and Generative Models for Parameter Estimation in Wireless Communication System”
+February 1: Simon Zech
+"Mechanistic, Integrative Multiscale Modelling of the Turnover of Soil Microaggregates"
+February 8: Janin Jäger
+"Classes of non-radial kernels for interpolation on spheres and other compact Riemannian manifolds”
+March 10: Hans Feichtinger (University of Vienna) 
+“Fourier Standard Spaces”

@@ -1,0 +1,99 @@
+International Conference in Computational Harmonic Analysis featuring a star speaker
+
+The International Conference in Computational Harmonic Analysis, organized by Prof. Pfander of MIDS and Profs Aldroubi and Powell of the University of Vanderbilt took place in late May in Nashville. 
+
+Prof. Yann LeCun, until late 2025 Chief AI Scientist at Meta Platforms gave the Shanks lecture, discussing various AI architectures, outlining the potential of  world models as he is developing with his new Startup Amilabs which he expects will outperform Large Language Models in 3-5 years.  The organizers enjoyed vivid discussions on the role of math in the advancement of AI, the risks of AI, the impact on the job market and many other topics over dinner.
+
+New Scientific Director at MIDS
+
+Dr. Jörg Steinwagner is the new Scientific Director at MIDS since May 1, 2026. 
+He also supports Professor Janjic’s research group (Chair of Data Assimilation), thereby combining research, teaching, and knowledge transfer. He holds a Ph.D. in meteorology and has many years of experience in the development of data-driven methods, particularly in the fields of satellite-based remote sensing and numerical modeling. His professional career includes work on international research and development projects, including in the areas of Earth observation and weather forecasting.
+
+A key focus of his current work is the design and implementation of knowledge transfer formats on AI and digitalization, as well as the preparation of scientific content tailored to specific audiences for stakeholders from academia, industry, and society. In addition, he develops consulting services and supports the establishment of regional networks, including in cooperation with partners such as AININ and brigk.
+
+Within the context of MIDS, he coordinates key activities such as the Jour Fix, contributes to strategic development, organizes scientific events, and assists with third-party funding applications. In Prof. Janjic’s research group, he is involved in both research and teaching, works on data-driven models and HPC applications, and supports ongoing research projects.
+
+His work helps strengthen the regional AI ecosystem and fosters close collaboration between research and practical application. We are very much looking forward to working with him and warmly welcome him to MIDS.
+
+
+Chair Team at the Ingolstadt Half Marathon
+
+Last weekend, our Chair participated in the Ingolstadt Half Marathon. Prof. Pirmin Fontaine, Büsra Nur Dag, Merve Ibis, Dennis John, and Philipp Parche took part as individual runners and as a relay team.
+
+Beyond the sporting challenge, the event was mainly about enjoying the experience together and strengthening team spirit. It was a great opportunity to experience endurance, collaboration, and team spirit outside everyday research and teaching.
+
+
+New PhD Researcher at the Chair of Analysis: Welcome, Anna Simon
+
+On 1 May 2026, Anna Simon joins the team at the Chair of Analysis. After successfully completing her Master’s degree in Mathematics at the University of Regensburg, she is now beginning her PhD at KU.
+
+ 
+
+Her research focuses on developing new analytical approaches to precisely describe the effective behaviour of thin elastic structures with fine-scale, periodic reinforcements. These questions are motivated by concrete applications in medical technology. Her PhD project is part of the collaborative initiative “MAS-TOB: Multiscale Analysis and Structural Optimisation of Patient-Specific Therapeutic Orthoses and Bandages”, conducted jointly with the RPTU Kaiserslautern-Landau and the Fraunhofer Institute for Industrial Mathematics ITWM, and funded by the Federal Ministry of Research, Technology and Space (BMFTR).
+
+ 
+
+A warm welcome to Eichstätt, Anna - we very much look forward to working with you!
+
+
+
+Successful PhD Defense of Dr. Johannes Gückel
+
+We are pleased about the successful PhD defense of Johannes Gückel.
+
+Under the supervision of Prof. Pirmin Fontaine, Johannes made a significant contribution to the field of urban logistics and collaboration among logistics service providers. He developed innovative mathematical models, metaheuristics, and machine learning approaches to design efficient and fair cooperative city logistics systems. His work particularly addresses network design, fair cost allocation, and the practical implementation of collaboration concepts. The results demonstrate how efficiency and fairness can be jointly considered in urban freight systems. Johannes now continues his career as a Data Scientist at dm-drogerie markt. We wish him all the best for his future career.
+
+His dissertation resulted in four scientific articles, which have been published or accepted for publication in renowned academic journals:
+
+Gückel, J., Crainic, T.G., & Fontaine, P. (2026). A two-step large neighborhood search for a collaborative two-tier city logistics system. European Journal of Operational Research (VHB: A).
+Gückel, J., Crainic, T.G., & Fontaine, P. (2025). Tactical planning in cooperative two-tier city logistics systems with fairness constraints. Sustainability Analytics and Modeling (VHB: B).
+Gückel, J., & Fontaine, P. (2025). Fast Shapley Value Approximation Through Machine Learning With Application in Routing Problems. Networks (VHB: A).
+Gückel, J. (2025). Approximating Shapley values with subcoalition Shapley values in routing problems. Transportation Research Procedia (VHB: C).
+
+
+
+Save the Date: Stukon 26 in Ingolstadt
+We are excited to announce the Student Conference of the German Mathematical Society (StuKon26), to take place from September 16–18, 2026, at the KU Eichstätt-Ingolstadt.
+
+The event offers recent graduates of all mathematical disciplines a unique platform for networking, workshops, and career insights. There will be exciting lectures, best talk awards, company workshops and a career fair.
+
+Participation is free of charge, though registration is required.
+
+For more information and to register, visit:
+
+www.ku.de/mgf/mathematik/stukon26 
+
+We look forward to seeing you there!
+
+
+
+
+European Meteorological Society at Georgianum
+
+The European Meteorological Society (EMS) Council is meeting as a guest of MIDS at the Georgianum. The EMS is the association of meteorological societies in Europe, such as the German Meteorological Society, and is represented by the EMS Council. The meeting in Ingolstadt was initiated by EMS Vice President Dr. Joerg Steinwagner. The Council meets twice a year and, among other things, discusses the society’s strategic direction, deliberates on collaborations, and votes on nominations for the EMS’s numerous awards.
+
+
+
+"Förderverein Georgianum" approves scholarship for data science students
+
+Last week, the board of the “Förderverein Georgianum” met with its advisory board.
+
+The committee decided to fund a “Deutschlandstipendium” for new data science students next year. This is a great support, and MIDS would like to express its sincere thanks for the funding.
+
+The committee includes the following people, front row, from left to right:
+Vice Chairman Prof. Ludwig Mödl
+Ingolstadt´s mayor Dr. Michael Kern
+Dr. Gerhard Schmidt, Chairman
+Götz Pfander, MIDS spokesperson
+
+
+
+Data4Good Festival
+
+In January, the data4good festival took place at the Hertie School in Berlin. Ali Guliyev, Aleksandra Karabutova, Denis Hoti, Olga Ivanova, Ruslan Tsibirov, and Veronika Rybak from the Data Science program once again took part in the challenge and were very successful by receiving the Best Data Storyteller Award.
+
+After 48 hours at the Data4Good Festival hackathon the team built coRel, a tool using the ReligionMonitor dataset to make religious diversity easier to understand and support stronger communities. 
+
+Link to coRel: https://corel.denishoti.dev/
+
+The entire MIDS team is very proud of your achievement.
