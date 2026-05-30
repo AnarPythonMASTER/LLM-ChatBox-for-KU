@@ -1,0 +1,27 @@
+Degree
+Master of Science
+Semester fee
+88 Euro
+Start of the program
+Winter semester
+Standard length of the program
+4 Semester
+Place of study
+Ingolstadt
+Part-time studies possible
+No
+Language of instruction
+English
+Contents
+Application
+Advisory Service
+FAQ
+The successes of artificial intelligence, especially machine learning, impressively demonstrate the potential of mathematical and statistical methods. They enable us to recognise hidden correlations in large amounts of data using automation and make them usable in a targeted manner. The Master's degree programme in Data
+Science imparts in-depth knowledge of modern methods of data analysis and machine learning and combines theoretical principles with practical applications. The course focuses on 
+
+data analytics and operations research,
+weather and climate research,
+the mathematical foundations of data science and
+the interface between data-based and model-based modelling.
+Through this interdisciplinary orientation, students acquire both methodological expertise and the ability to
+solve complex data problems in scientific and industrial contexts.

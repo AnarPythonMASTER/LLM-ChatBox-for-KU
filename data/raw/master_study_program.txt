@@ -1,0 +1,4 @@
+In the winter semester 2025/26, the KU will offer the new Master's degree course in Data Science.
+
+This Master's degree program in Data Science provides in-depth knowledge of modern methods of data analysis and machine learning. 
+The course focuses on applications in the field of data analytics/operations research, weather and climate research, the mathematical foundations of data science and the interface between data-based and model-based modeling.
