@@ -1,0 +1,25 @@
+Prof. Dr. Felix Voigtlaender
+Chair of Reliable Machine Learning
+Funded by the Hightech Agenda Bavaria as part of the consortium "Resource Aware Artificial Intelligence for Future Technologies" of the KU Eichstätt-Ingolstadt, the FAU Erlangen-Nürnberg, the TU Munich and the University of Bayreuth. 
+
+Supported by the DFG funded Emmy Noether project "Stability and Solvability in Deep Learning".
+
+The research group "Reliable Machine Learning" mathematically studies the properties of machine learning algorithms. Particular attention is paid to the question of stability or robustness of neural networks. Although trained neural networks often perform extremely well on real data, empirical studies have shown time and again that they are vulnerable to so-called "adversarial examples": A minimal perturbation of the input, invisible to a human, can cause the network to produce an incorrect output. The research group "Reliable Machine Learning" mathematically studies the underlying mechanisms leading to the existence of such adversarial examples, with the aim of developing novel training methods that produce provably robust neural networks. More information on research and teaching of the group can be found here -> https://www.ku.de/en/mgf/mathematics/chairs-and-professorships/chair-of-reliable-machine-learning and here -> http://voigtlaender.xyz/
+
+Team of Prof. Voigtlaender:
+
+Dr. Hannes Matt
+Research Associate
++49 841 937-21559
+hannes.matt@ku.de
+
+Junyu Zhou
+Research Associate
+
+junyu.zhou@ku.de
+
+Caroline Seibert
+Secretary
++49 841 937-21452
+caroline.seibert@ku.de
+Room: GEOG-103

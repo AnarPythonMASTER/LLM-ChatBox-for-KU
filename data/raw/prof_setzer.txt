@@ -1,0 +1,28 @@
+Prof. Dr. Thomas Setzer
+Chair of Business Administration and Business Informatics
+Head of the Analytics Working Group of the Society for Operations Research (Gesellschaft für Operations Research)
+Program Speaker: Digital and Data-Driven Business (B.Sc.)
+
+In our research we focus on business analytics and designing modern information systems and analytical processes for data-based planning and optimization procedures as well as digital business models and systems. One major focus is on models and methods to analyze, intelligently reduce, transform and utilize complex data sets in decision support systems. The generation of dense and useful features from heterogeneous data sets and the simplification of operational problems by integrating geometric projection and mathematical optimization play an essential role here. The statistical correction of structural biases in decisions and predictions as well as the combination of heterogeneous data, opinions and forecasts are further key areas of our research.
+
+You´ll find more informations HERE -> https://www.ku.de/en/wfi/bi
+
+The Team of Prof. Setzer:
+
+Veronika Wachslander, M. Sc., M. Ed.
+Research Associate
+0841/937-21998
+veronika.wachslander@ku.de
+Room: HB-306
+
+André Konersmann, M. Sc.
+Research Associate
++49 841 937-21920
+andre.konersmann@ku.de
+Room: HB-306
+
+Waltraud Fischermeier
+Secretary
++49 841 937-21871
+waltraud.fischermeier@ku.de
+Room: HB-304

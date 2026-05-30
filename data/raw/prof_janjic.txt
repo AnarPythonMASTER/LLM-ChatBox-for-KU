@@ -1,0 +1,22 @@
+Prof. Dr. Tijana Janjic
+Professor for data assimilation
+Funded by the Heisenberg-Programm of the DFG. 
+
+In order to be able to predict severe weather events or the melting of ice in the Arctic, information in the form of heterogeneous data must be linked with numerical models of dynamic systems. This is done through data assimilation, which makes it possible to better investigate processes and predict their further development.  In the field of data assimilation, the professorship is concerned with the further development of data science algorithms by incorporating physical conservation laws, and solving correspondingly large optimisation problems in the environmental sciences. Quantifying the uncertainties of predictions, numerical models and observations also plays a central role here.
+
+You´ll find more informations here -> https://www.ku.de/en/mgf/mathematics/chairs-and-professorships/heisenberg-professorship-for-data-assimilation
+
+Team of Prof. Janjic
+Tatsiana Bardachova
+Research Associate
++49 841 937-21158
+tatsiana.bardachova@ku.de
+Catherine George
+Research Associate
+0841 937-21065
+catherine.george@ku.de
+Caroline Seibert
+Secretary
++49 841 937-21452
+caroline.seibert@ku.de
+Room: GEOG-103

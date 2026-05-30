@@ -1,0 +1,48 @@
+Prof. Dr. Pirmin Fontaine
+Professor for Logistics and Operations Analytics
+In our research group, the main focus lies in developing efficient solution methods for problem settings in mobility, supply chain management, production, and logistics. The starting point is always real-life applications, formulated as mathematical optimization problems- Then, tailored solution methods are chosen and newly developed. Here, the focus lies on efficient reformulations, decomposition methods (e.g., Benders decomposition and branch-and-repair), and metaheuristics.
+Current projects cover, for example: Increasing the resiliency in supply chains using machine learning, Improving on-demand bus systems, or planning urban logistics systems.
+
+More information and further projects can be found here -> https://www.ku.de/en/the-ku/faculties/wfi/departments-chairs/business-administration/assistant-professorship-for-operations-management
+
+Team of Prof. Fontaine:
+Simon Mader M. Sc.
+Ph.D. student
+
+simon.mader@ku.de
+Room: NB-221
+Dr. Alexander Rave
+PostDoc
++49 841 937-21833
+ARave@ku.de
+Ayşe Nur Bakla M. Sc.
+Ph.D. student
+Room: NB-219
+Merve Ibis
+Merve Ibis M. Sc.
+Ph.D. student
+
+Merve.Ibis@ku.de
+Room: NB-219
+Philipp Parche M. Sc.
+Ph.D. student
+
+philipp.parche@baw.de
+Dennis John M. Sc.
+Ph.D. student
+
+dennis.john@ku.de
+Room: NB-223
+Büşra Nur Dağ M. Sc.
+Ph.D. student
+
+buesra.dag@ku.de
+Room: NB-219
+Dr. Stefan Voigt
+Senior Researcher
++49 841 937-21971
+stefan.voigt@ku.de
+Birgit Jürgens
+Secretary
++49 841 937-21823
+birgit.juergens@ku.de

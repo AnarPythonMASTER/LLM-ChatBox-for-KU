@@ -1,0 +1,14 @@
+Prof. Dr. Dominik Stöger
+Junior professorship for mathematics - Data Science
+Supported by  Tenure-Track Programm of BMBF. 
+
+Prof. Stöger's research interests lie in the development and analysis of mathematical methods in machine learning and signal processing. A particular area of focus for his research is the analysis of overparameterized models in machine learning and algorithms for Compressed Sensing and Low-Rank Matrix Recovery. It combines tools from a broad range of mathematical disciplines ranging from high-dimensional probability theory to optimization. He has been collaborating with scientists from different application areas such as wireless communications and image recognition.
+
+You can find more informations here -> https://www.ku.de/en/mgf/mathematics/chairs-and-professorships/junior-professorship-for-data-science and here -> https://dominiksto.github.io/
+
+Team of Prof. Stöger:
+
+Ya-Chun Tsai
+Secretary
++49 841 937-21790
+ya-chun.tsai@ku.de
