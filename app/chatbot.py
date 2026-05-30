@@ -553,6 +553,40 @@ def detect_topic(question):
     # ----------------
     # Master Data Science
     # ----------------
+    
+    if any(w in q for w in [
+        "master admission",
+        "master requirements",
+        "master application",
+        "admission requirements",
+        "requirements for the master",
+        "apply for master",
+        "master documents",
+        "master aptitude test"
+    ]):
+        return "master_application.txt"
+
+    if any(w in q for w in [
+        "study abroad",
+        "semester abroad",
+        "internationalization",
+        "internationalisation",
+        "global network",
+        "abroad"
+    ]):
+        return "master_internatiolization_study_abroad.txt"
+    
+    if any(w in q for w in [
+        "ects",
+        "120 ects",
+        "credits",
+        "credit points",
+        "program structure",
+        "master structure"
+    ]):
+        return "master_in_detail_and_program_structure.txt"
+    
+
     if any(w in q for w in [
         "master general", "msc general", "master degree",
         "what is master data science", "msc data science",
