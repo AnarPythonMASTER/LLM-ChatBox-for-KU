@@ -284,20 +284,71 @@ collection = client.get_collection(COLLECTION_NAME)
 embedding_model = SentenceTransformer(EMBEDDING_MODEL)
 
 
+# def detect_topic(question):
+#     q = question.lower()
+
+#     if any(word in q for word in ["professor", "prof", "stöger", "stoeger", "müller", "mueller"]):
+#         return "professors.txt"
+
+#     if any(word in q for word in ["bachelor", "bsc", "undergraduate"]):
+#         return "bachelor_data_science.txt"
+
+#     if any(word in q for word in ["master", "msc", "graduate"]):
+#         return "master_data_science.txt"
+
+#     if any(word in q for word in ["mids", "mathematical institute", "machine learning and data science"]):
+#         return "mids.txt"
+
+#     return None
+
 def detect_topic(question):
     q = question.lower()
 
-    if any(word in q for word in ["professor", "prof", "stöger", "stoeger", "müller", "mueller"]):
-        return "professors.txt"
+    if any(word in q for word in [
+        "professor", "prof", "teacher", "team", "chair", "research group",
+        "stöger", "stoeger", "pfander", "fontaine", "janjic", "janjić",
+        "oliver", "ray", "setzer", "voigtlaender", "voigtländer",
+        "götz", "goetz", "pirmin", "dominik", "felix", "tijana"
+    ]):
+        return "mids_the_team.txt"
 
-    if any(word in q for word in ["bachelor", "bsc", "undergraduate"]):
-        return "bachelor_data_science.txt"
+    if any(word in q for word in [
+        "contact", "email", "phone", "address", "room", "secretary",
+        "management", "where is mids", "location", "visiting address",
+        "mailing address"
+    ]):
+        return "mids_contact.txt"
 
-    if any(word in q for word in ["master", "msc", "graduate"]):
-        return "master_data_science.txt"
+    if any(word in q for word in [
+        "job", "jobs", "vacancy", "position", "phd", "student assistant",
+        "research assistant", "application", "apply", "salary"
+    ]):
+        return "mids_jobs.txt"
 
-    if any(word in q for word in ["mids", "mathematical institute", "machine learning and data science"]):
-        return "mids.txt"
+    if any(word in q for word in [
+        "seminar", "talk", "speaker", "wednesday", "georgianum",
+        "presentation", "lecture", "sommerfest"
+    ]):
+        return "mids_seminar.txt"
+
+    if any(word in q for word in [
+        "publication", "publications", "paper", "journal", "doi",
+        "article", "research output"
+    ]):
+        return "mids_publications.txt"
+
+    if any(word in q for word in [
+        "news", "event", "conference", "new scientific director",
+        "half marathon", "data4good", "stukon"
+    ]):
+        return "mids_news.txt"
+
+    if any(word in q for word in [
+        "mids", "about", "institute", "mathematical institute",
+        "machine learning and data science", "bachelor", "bsc",
+        "master", "msc", "degree program", "data science program"
+    ]):
+        return "mids_about.txt"
 
     return None
 
