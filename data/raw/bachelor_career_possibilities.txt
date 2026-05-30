@@ -1,0 +1,37 @@
+Data Science is of fundamental importance for the artificial intelligence revolution bound to take place in the next decades: The environment and industry will be increasingly permeated with networked information systems and data-collection devices. 
+
+While modern hardware already allows the collection of massive data sets, the development of tools and algorithms that can utilize such a wealth of data for extracting relevant patterns and information is still in its infancy. 
+
+Addressing this challenge requires well-trained data scientists proficient with novel technologies and techniques working in industry, business, start-ups, and the public sector. The most sought-after graduates are those who have simultaneously strong analytical and implementation skills, while also being aware of the responsibility in processing sensitive data, in particular regarding the impartiality and objectivity of algorithms. 
+
+Occupational fields for graduates of all profiles in the program include: 
+
+Managerial and implementational positions in Data Science and Information Technology in national and international companies and organizations, 
+Cross-sectional tasks in the field of machine learning, data analysis and forecasting, 
+Consulting activities in the aforementioned areas, 
+Academia (in particular related to mathematics, statistics, and data science).  
+Specialization-dependent occupational fields include the following: 
+
+Applied Mathematics and Scientific Computing
+Research and development in technical industries, 
+Development of algorithms and software in companies and organizations, 
+Research and teaching in educational institutions (e.g., schools and universities), 
+Data science consultant; 
+Machine Learning and Statistics
+Expert for data collection, analysis, interpretation and forecasting, 
+Analyst or risk assessment analyst in financial departments of companies, public institutions, ministries and international organizations; 
+Environmental Science
+Data scientist in research institutes such as the German Aerospace Center and the Alfred Wegener Institute for Polar and Marine Research, 
+Data scientist working for scientific services such as the German Weather Service and the Federal Maritime and Hydrological Agency, 
+Adviser for governments and non-governmental organizations such as the Ministry of the Environment and Greenpeace;   
+Business Analytics and Operations
+Consultant for strategic planning and corporate development, especially with a focus on digital transformation processes of companies,  
+Supply chain manager focusing on data-based optimization and decision support in procurement, production, distribution, and logistics, 
+Process architect for the design, control and coordination of internal and cross-company flows of goods and information. 
+Finance and Economics
+Financial advisor and analyst in finance departments of companies and organizations in the public sector, 
+Manager in politics, business and public administration.
+Digital Transformation of Society
+Data analyst in market and opinion research, 
+Statistician or data analyst for media companies, 
+Consultant for political parties, organizations and associations. 

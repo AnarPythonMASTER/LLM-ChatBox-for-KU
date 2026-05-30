@@ -1,0 +1,82 @@
+Requirements
+General university entrance qualification (Allgemeine Hochschulreife)
+or subject-specific university entrance qualification/economics or technical branch
+Language requirements
+English & after the first year German A2
+Application period winter
+Apr 01 - Jul 15
+Admission restriction
+No
+Selection procedure
+No
+
+All applicants who have a German university entrance qualification (awarded by a German educational institution) can simply enroll in the program within the above-mentioned application period.
+EU citizens who possess a EU university entrance qualification but not a German university entrance qualification need to have their formal qualification checked. They need to submit their study results and degree and language certificates via ku.de/application between beginning of April and July 15.
+All others are subject to a mandatory aptitude test. They must submit all required materials via uni-assist (https://www.uni-assist.de ) between beginning of April and July 15! Details below!
+We appreciate early applications and enrollment.
+
+Aptitude assessment procedure for non-EU citizens
+Persons who are not EU citizens or who have acquired their higher education entrance qualification outside the European Union must successfully complete an aptitude assessment procedure. The aptitude assessment procedure takes into account school and university achievements (especially in mathematics and computer science), results in standardized tests (SAT, TestAS), participation in designated mathematics and computer science Olympiads and other extracurricular activities in the field of data science. The overall grade of the aptitude assessment procedure is determined as the arithmetic mean of the university entrance qualification and an aptitude grade determined by the examiners. The aptitude assessment procedure is successfully completed if the overall grade is 2.0 or better.
+
+
+Important note!
+Detailed information on the application requirements and the application process
+Please carefully read the information to ensure your eligibility for this high-demand bachelor’s degree program. This will enable you to prepare all necessary documents for your digital application package in a timely manner. 
+
+Attention: International applicants, who obtained their university entrance qualification outside of the EU need to apply through uni-assist! Please note that only the country in which you obtained your university entrance qualification for Data Science matters for the question of whether you have to apply via uni-assist or not. Please be aware that master’s degree programs or (additional) bachelor’s degree programs started or completed in the EU are not relevant for this matter. Also, please take into consideration, that the UK is not a member of the EU. For further information see below.
+
+Requirements:
+
+Basic requirement: university entrance qualification formally equivalent to a German one. If unsure about your qualification, check the anabin databank or the DAAD databank respectively.
+
+Required application documents
+Required application documents:
+Educational documents (all documents need to be uploaded both a) original or as a certified true copy, and –where necessary –b) translated into German or English, also as certified true
+copy) 
+
+Your secondary higher education certificate ((high) school leaving / A-levels etc.) The certificate must show your average graduation grade.
+Official grading system of your school to convert the grade into a German equivalent grade.
+If applicable: university entrance examination certificate from your home country.
+If applicable:
+Full transcripts of your university studies. Your transcript must display the average grade of your studies.
+Official grading system of your university to convert your grade into a German equivalent grade.
+If applicable
+Your university leaving certificate (bachelor degree or equivalent).
+Complete transcript showing an overall degree grade.
+Official grading system of your university to convert your grade into a German grade.
+Applicants who have completed previous periods of study in China, India, Mongolia or Vietnam: APS certificate
+General documents
+
+Full CV starting with date and grade of completion of your last three years of secondary higher education
+Copy of Passport
+Language Skills
+
+Proof of English Skills (e.g. by TOEFL score of 78 or better, IELTS band 5.5 or better; bachelor or master degree in English - confirmation of university required- etc.)
+Proof of German skills at level A 2 or better (not required upon application; but A2 must be achieved by the end of the second term of the program at the latest; registration is under caution until then)
+Further Requirements:
+
+Applicants, who are not EU citizens or obtained their higher education entrance qualification outside the European Union must also successfully complete an aptitude test procedure for admission. Thus, add the following documents to your digital application file, if available:
+
+proof of TestAS score and/or
+proof of SAT Math score and/or
+proof of participation in recognized national or international mathematics or computer science competitions (proof required in form of an official confirmation of participation, issued by the organizational committee or similar) and/or
+proof of extracurricular activities in the field of data science
+The aptitude test is evaluated on a 1-5 scale, considering the overall grade of the higher education entrance qualification and the grade achieved in the aptitude test. Admission is possible if the arithmetic mean is 2.0 (German equivalent) or better. 
+
+Application process
+Application procedure:
+
+German citizens and applicants, who obtained their university entrance qualification within the European Union: Please apply directly through the KU- application portal https://studienservice.ku.de All further communication with you will be through this portal.
+International applicants, who obtained their first university entrance qualification outside of the European Union: Please apply through uni-assist.de only Please apply via https://www.uni-assist.de/ with all required documents (digital uploads of originals or certified true copies) as soon as possible! You do not need to send a VPD to us since we do not utilize the VPD-system. Once your documents have been successfully checked, we will gain access to them through uni-assist. Additionally, the assessment results will also be accessible to us. We have established the necessary interfaces between the two systems (uni-assist and the KU application portal). Consequently, the interface will automatically generate an applicant account for individuals who meet the formal basic admission requirements. This account will facilitate communication between you, as an applicant, and the KU. Applicants who do not pass the initial formal check by uni-assist will not proceed to the selection process. Notifications regarding this will be sent by uni-assist. Applicants, who were formally approved by uni-assist, will receive the notification of either their acceptance or their rejection through the KU application portal after the KU selection committee has set up the above- mentioned ranking list.
+ 
+Application period for both groups and portals is 1 April to 15 July. We recommend that you submit your application at your earliest convenience. This way, if you meet the formal requirements or pass the aptitude test, we can offer you early admission. However, for candidates who are required to apply through uni-assist.de, we kindly ask you to refrain from inquiring about the status of your application with us, as we have no control over their processing times. 
+
+We are looking forward to your application.
+For further information regarding the admission requirements, please send an email to welcome(at)ku.de .
+
+Application
+The application process for international applicants is now completely digital. You can register online in our application portal and carry out and submit your application. After you have carried out the application and uploaded your documents, you do not need to send your documents to us again by post. You do have to submit certified true copies only if you are admitted at the time of enrollment.
+
+Depending on the course of study, you may be asked for information on internships, professional experience, etc. Please upload the relevant documents in the upload area for all the information you provide, even if these are not mandatory fields!
+
+Before you start the application process, please read the additional information on this page, in particular the information on the respective (German) language requirements and university entrance qualifications.

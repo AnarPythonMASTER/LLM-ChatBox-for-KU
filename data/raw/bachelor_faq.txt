@@ -1,0 +1,79 @@
+Frequently Asked Questions from prospective students and applicants
+About the Data Science Program
+Is the Data Science program located in Eichstätt or in Ingolstadt?
+The program is located in Ingolstadt, i.e. all courses for the Data Science major will be offered in Ingolstadt. Our home is the newly renovated Georgianum (and the Hohe Schule. Most data science courses take place there. Contrarily, the Math BSc program has most of its courses in Eichstätt, so if you want to take some pure maths course, you may have to go to Eichstätt.
+
+When should I arrive?
+You should try to arrive in the first half of October.  Lectures at the KU typically start in mid-October.
+
+What if I get my Visa a bit late?
+We are aware that international students sometimes have to wait months for a Visa. For this reason, we issue admissions as quickly as possible and grant a very late deadline for enrollment so that applicants have the best possible chance of obtaining a Visa. The enrollment deadline (according to the admission letter) is usually only a few days before the start of lectures. All required documents including Visa must be submitted by mail to the Student Office  by this deadline
+
+How much self-study is an average student who is studying in this course expected to do daily?
+Good question. Certainly, there will be a significant part of self-study. Exemplarily, in the course ‘Linear Algebra’ probably about 5hrs per week. The overall effort is comparable to other German universities. Studying Data Science at KU is a full time job.
+
+Should I revise any mathematics topics from home such as calculus or probability or will the faculties teach us all topics from scratch in a way that there is no need for any prerequisites?
+Our courses are all self-contained. Usually the toughest part for many is the formal math, such as ‘Linear Algebra’ and ‘Analysis’. However, a good level of prior knowledge is of course helpful for the beginning. For example, you can look up what a vector space is and learn a little about matrices. A preliminary course is also offered before the start of the semester, in which some mathematical basics are covered.
+
+Do people normally finish this degree course in the given time span of three years or does it take more time than that? 
+This is a new study program.  We expect people to finish in three years, the program is very streamlined towards that. 
+
+What is the schedule during a week?
+Via the link
+
+https://www.ku.de/en/mgf/studiengaenge/bachelor/data-science
+
+you will find the current schedules for the different semesters under ‘Documents’.
+
+Could you please provide me with access to the module handbook or guide me to the appropriate resource?
+You can find such a comprehensive course catalog for the respective semester on KU.Campus
+
+https://campus.ku.de/
+
+Go there in the navigation to 'Informationsportal --> Studiengänge'. Enter the degree program and the relevant semester in the search mask. In the list of results, the module handbook will appear in the upper right-hand corner for downloading as a pdf or Word file. However, it is written in German.
+
+Does the University provide free German lessons for its enrolled students?
+We will support at least going to the mandatory A2 level, as this level must be proven after one year. The university regularly offers free of charge German lessons at least up to this level. 
+
+Is it possible to study data science online or hybrid at the KU?
+The program is designed as an online in-person study. However, you will be provided with online teaching materials and for some courses even with video recordings. This means that you can also learn the course content on your own, although we highly recommend that you actively participate in the courses. However, examinations must always be taken in person.
+
+When do I have to choose one of the focus area offered? And is it possible to change it afterwards?
+You should decide on a specialization (so-called focus area) at the beginning of the third semester and choose your courses accordingly. However, a change of specialization is possible at any time.
+
+Is it possible to spend a semester abroad and when should I do it?
+We are happy to support you in spending a semester abroad. If you are interested, we recommend this in the fifth semester.
+
+About the KU Eichstätt-Ingolstadt
+Is this university a private university or a public university? Are the degrees provided here equally valid in other countries?
+The university is funded 85% by the state of Bavaria, all degree programs follow the same rules as at any other Bavarian university. It is considered a private university, but the degrees are the same as at another German university and are also equally valid in other countries. The Data Science degree program is internationally accredited.
+
+What will be the chronological order of things that will happen once I arrive in Munich? Kindly guide me for the same and tell me if there is any buddy program in the University.
+Well, first, take the train to Ingolstadt. We have a student union (Fachschaft) which will help you getting settled.  Please address this question to welcome@ku.de.  We offer a preliminary course before the regular lectures begin, where students can get to know each other.
+
+Does KU provide accommodation to its students and if yes then how can I apply for one?
+The International Office international(at)ku.de supports to finding an accommodation and offers a housing service, see
+
+https://www.ku.de/fileadmin/1907/Dokumente_Incoming/Download_Incoming/Housing_Guide_New.pdf
+
+However, we recommend that you look for accommodation as early as possible.
+
+Does the University have a swimming pool and a gym and are they free to use?
+We have a gym in Eichstätt, which won't be much use for people from Ingolstadt.  But there are special offers for students on the public market in Ingolstadt. Generally, swimming pools and gyms have very reasonable student prices.
+
+About Life in Ingolstadt
+If possible, kindly guide me about the monthly expenses I can expect during my stay as a student in Ingolstadt. 
+For questions of this kind, as well as regarding arrival, first steps, getting settled, etc. please contact welcome(at)ku.de
+
+I would like to know about the situation of speaking English in Ingolstadt. Do people typically know English or do they rather refuse to speak English?
+Ingolstadt is a fairly large town with plenty of English speakers, e.g. working at Audi, and an international atmosphere. So I don’t think this is a problem at all.  Also, many people in Ingolstadt commute for work to Munich, which is very cosmopolitan.
+
+About miscellaneous
+What should I expect to be doing after I am done with this degree course? Will I get a job and will the University help me with this?
+Finding a job will be up to you.  But in the field of data science, there is currently a very high demand in the job market.
+
+What does the collaboration of the university with Audi, Continental and Airbus mean?
+They, and other companies, like the education that we offer and are hoping to get good job applicants out of our program.  To get to know the companies, you can apply for an internship at their places.  Obviously, no guarantee.
+
+What is MIDS?
+The interdisciplinary Data Science BSc and MSc study programs are coordinated by the Mathematical Institute for Machine Learning and Data Science, in short, MIDS. MIDS, founded in 2022, seeks to develop (and teach in degree programs) the scientific foundations that help to responsibly exploit the potential of the emerging second wave of digitalization. See LINK for MIDS news.

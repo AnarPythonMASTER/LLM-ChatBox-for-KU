@@ -1,0 +1,27 @@
+Structure
+The standard period of study is six semesters. A total of 180 ECTS credits are to be acquired, which are essentially divided into a required, specialization/focus area and elective area. In addition, there is a Bachelor's seminar and the Bachelor's thesis.
+
+Required area
+In the required part of the program, fundamental knowledge and basic practical skills in Data Science are taught. The compulsory area consists of modules in the core fields of Data Science, Mathematics, Statistics and Computer Science. In addition, the module "Ethics of Algorithms and Data" is mandatory.
+
+Data Science: Data Lab, Ethics of Algorithms and Data, Foundations of Data Science, Foundations of Machine Learning, Hands-on Machine Learning and Data Science, Practical Training
+Mathematics: Analysis for Data Science 1, Analysis for Data Science 2, Linear Algebra 1, Linear Algebra 2  and Analytic Geometry, Optimization in Data Science
+Statistics: Introduction to Statistics, Introduction to Stochastics, Statistical Learning
+Computer science: Introduction to Programming, Advanced Programming, Algorithms and Data Structures, Basics of Information Systems
+The Data Science program at the KU is distinguished by the fact that, with the exception of the foundational courses in Linear Algebra, Statistics, and Stochastics, all of the required courses have been developed specifically for this program.
+
+Specialization
+The offer of specializations gives students the opportunity to further their education in an area of their interest. The selected specialization deepens competencies in a core area of Data Science or imparts competencies in one of its application areas. The selected specialization is identified on the bachelor's degree certificate.
+
+The following specializations are usually offered:
+
+Applied Mathematics and Scientific Computing
+Business Analytics and Operations
+Digital Transformation of Society
+Environmental Sciences
+Finance and Economics
+Machine Learning and Statistics
+Required elective area
+The required elective area serves to expand the range of studies and to acquire competencies that go beyond or complement the basic studies. All modules that can be credited to a specialization are also part of the required elective area. They are supplemented by additional modules.
+
+Students also choose a required module from the inter-university offer Studium.Pro. Here, KU students engage in cross-disciplinary and interdisciplinary work primarily on socially relevant issues. This experience can provide essential impulses for subject-related work.

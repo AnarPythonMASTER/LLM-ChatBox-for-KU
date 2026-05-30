@@ -1,0 +1,36 @@
+Testimonials from our students:
+
+
+"The KU Data Science program gave us more than just theory—it gave us the confidence and skills to take on real-world challenges. As the 'Fantastic Four,' we've competed in several national and international hackathons, often inspired by topics we studied in class. The hands-on courses and constant support from KU, including opportunities to share our success with peers and professors, made all the difference. If you're looking for a place where learning goes beyond the classroom, this is it."
+
+
+- Team "Fantastic Four" (Denis, Ali, Veronika, Ruslan)
+Portrait Jan Stüwe
+
+I like the international atmosphere of the program, which brings together students from all over the world. No one has to worry that they won't be able to keep up with the English courses. On the contrary, the common language makes it easier to communicate, and you improve your language skills along the way.
+
+- Jan Stüwe (Student Council Data Science)
+Alena Semkiv
+
+"The Data Science program inspires us to think exploratorily, confidently build logical chains and solve non-trivial problems. Professors are sincerely interested in ensuring that each student is interested and able to master complex material, regardless of the level of knowledge already gained. Already after two semesters in this progressive program, I can confidently say that I have accumulated tons of skills essential to be a true Data Science professional."
+
+
+- Alena Semkiv
+Aditi Bhushan
+
+"I really like that the professors in the DS program are genuinely passionate about teaching and enjoy helping students understand concepts. They are easily accessible, providing valuable guidance and support through various means such as Zoom, Email, or personal appointments. As a recent school graduate, their assistance has greatly enhanced my learning experience. The Data science program by itself is well structured with subjects well distributed across semesters so as to allow students for deeper understanding of topics."
+
+
+- Aditi Bhushan
+Shizen Li
+
+"I like that the order of the content is carefully designed, not only within a single course, but also in the interconnection parts among different courses. Although the mathematics courses can be demanding, they aid in understanding the content of the specialist courses. I also like the passions from Professors. They are eager to help us, encourage us to try new technologies, rather than merely showing up and presenting outdated slides."
+
+
+- Shizhen Li
+Oleksandr Bobryshev
+
+"I like that the university offers the possibility to pursue a second degree in mathematics in parallel with studying data science. I enjoy the maths courses and am now in the process of doing the second degree. Maths is an integral part of data science, but it is also interesting in its own right, so I am happy to study both in depth. The professors are very supportive of students' desire to study maths and they do everything they can to make obtaining the second degree as smooth as possible."
+
+
+- Oleksandr Bobryshev
