@@ -301,57 +301,308 @@ embedding_model = SentenceTransformer(EMBEDDING_MODEL)
 
 #     return None
 
+# def detect_topic(question):
+#     q = question.lower()
+
+#     if any(word in q for word in [
+#         "professor", "prof", "teacher", "team", "chair", "research group",
+#         "stöger", "stoeger", "pfander", "fontaine", "janjic", "janjić",
+#         "oliver", "ray", "setzer", "voigtlaender", "voigtländer",
+#         "götz", "goetz", "pirmin", "dominik", "felix", "tijana"
+#     ]):
+#         return "mids_the_team.txt"
+
+#     if any(word in q for word in [
+#         "contact", "email", "phone", "address", "room", "secretary",
+#         "management", "where is mids", "location", "visiting address",
+#         "mailing address"
+#     ]):
+#         return "mids_contact.txt"
+
+#     if any(word in q for word in [
+#         "job", "jobs", "vacancy", "position", "phd", "student assistant",
+#         "research assistant", "application", "apply", "salary"
+#     ]):
+#         return "mids_jobs.txt"
+
+#     if any(word in q for word in [
+#         "seminar", "talk", "speaker", "wednesday", "georgianum",
+#         "presentation", "lecture", "sommerfest"
+#     ]):
+#         return "mids_seminar.txt"
+
+#     if any(word in q for word in [
+#         "publication", "publications", "paper", "journal", "doi",
+#         "article", "research output"
+#     ]):
+#         return "mids_publications.txt"
+
+#     if any(word in q for word in [
+#         "news", "event", "conference", "new scientific director",
+#         "half marathon", "data4good", "stukon"
+#     ]):
+#         return "mids_news.txt"
+
+#     if any(word in q for word in [
+#         "mids", "about", "institute", "mathematical institute",
+#         "machine learning and data science", "bachelor", "bsc",
+#         "master", "msc", "degree program", "data science program"
+#     ]):
+#         return "mids_about.txt"
+
+#     return None
 def detect_topic(question):
     q = question.lower()
 
-    if any(word in q for word in [
-        "professor", "prof", "teacher", "team", "chair", "research group",
-        "stöger", "stoeger", "pfander", "fontaine", "janjic", "janjić",
-        "oliver", "ray", "setzer", "voigtlaender", "voigtländer",
-        "götz", "goetz", "pirmin", "dominik", "felix", "tijana"
-    ]):
-        return "mids_the_team.txt"
+    # ----------------
+    # Individual professors
+    # ----------------
+    if any(w in q for w in ["fontaine", "pirmin", "logistics", "operations analytics"]):
+        return "prof_fontaine.txt"
 
-    if any(word in q for word in [
-        "contact", "email", "phone", "address", "room", "secretary",
-        "management", "where is mids", "location", "visiting address",
-        "mailing address"
-    ]):
-        return "mids_contact.txt"
+    if any(w in q for w in ["janjic", "janjić", "tijana", "data assimilation"]):
+        return "prof_janjic.txt"
 
-    if any(word in q for word in [
-        "job", "jobs", "vacancy", "position", "phd", "student assistant",
-        "research assistant", "application", "apply", "salary"
-    ]):
-        return "mids_jobs.txt"
+    if any(w in q for w in ["oliver", "marcel", "applied mathematics", "trr 181", "climate science"]):
+        return "prof_oliver.txt"
 
-    if any(word in q for word in [
-        "seminar", "talk", "speaker", "wednesday", "georgianum",
-        "presentation", "lecture", "sommerfest"
-    ]):
-        return "mids_seminar.txt"
+    if any(w in q for w in ["pfander", "götz", "goetz", "scientific computing", "sampling theory", "speaker of the institute"]):
+        return "prof_pfander.txt"
 
-    if any(word in q for word in [
-        "publication", "publications", "paper", "journal", "doi",
-        "article", "research output"
-    ]):
-        return "mids_publications.txt"
+    if any(w in q for w in ["ray", "nadja", "geomatics", "geomathematics", "geosciences"]):
+        return "prof_ray.txt"
 
-    if any(word in q for word in [
-        "news", "event", "conference", "new scientific director",
-        "half marathon", "data4good", "stukon"
-    ]):
-        return "mids_news.txt"
+    if any(w in q for w in ["setzer", "thomas", "business informatics", "business analytics", "digital and data-driven business"]):
+        return "prof_setzer.txt"
 
-    if any(word in q for word in [
-        "mids", "about", "institute", "mathematical institute",
-        "machine learning and data science", "bachelor", "bsc",
-        "master", "msc", "degree program", "data science program"
+    if any(w in q for w in ["stöger", "stoeger", "stoger", "dominik", "compressed sensing", "low-rank", "signal processing"]):
+        return "prof_stoeger.txt"
+
+    if any(w in q for w in ["voigtlaender", "voigtländer", "felix", "reliable machine learning", "adversarial", "robustness"]):
+        return "prof_voigtlaender.txt"
+
+    # ----------------
+    # International applicants / general admission
+    # ----------------
+    if any(w in q for w in [
+        "international student", "foreign qualification", "bildungsausländer",
+        "uni-assist", "uni assist", "aps", "studienkolleg",
+        "preparatory college", "foreign university entrance qualification",
+        "grade conversion", "anabin", "daad database",
+        "language requirements international", "international application"
+    ]):
+        return "application_admission_international_students.txt"
+
+    # ----------------
+    # General FAQ
+    # ----------------
+    if any(w in q for w in [
+        "faq", "visa late", "late visa", "when should i arrive",
+        "arrive in ingolstadt", "self-study", "self study",
+        "online", "hybrid", "accommodation", "housing",
+        "german lessons", "english in ingolstadt", "monthly expenses",
+        "private or public university", "is ku private", "gym", "swimming pool",
+        "semester abroad", "preliminary course"
+    ]):
+        return "FAQ.txt"
+
+    # ----------------
+    # MIDS general
+    # ----------------
+    if any(w in q for w in [
+        "what is mids", "about mids", "about the institute",
+        "mathematical institute", "institute for machine learning",
+        "machine learning and data science institute"
     ]):
         return "mids_about.txt"
 
-    return None
+    if any(w in q for w in [
+        "mids contact", "mids address", "where is mids", "mids located",
+        "mids location", "mids management", "mids secretary",
+        "mids phone", "mids email", "visiting address", "mailing address"
+    ]):
+        return "mids_contact.txt"
 
+    if any(w in q for w in [
+        "mids job", "jobs at mids", "vacancy", "vacancies",
+        "phd position", "student assistant", "research assistant"
+    ]):
+        return "mids_jobs.txt"
+
+    if any(w in q for w in [
+        "mids seminar", "seminar", "talk", "speaker", "georgianum",
+        "wednesday", "sommerfest"
+    ]):
+        return "mids_seminar.txt"
+
+    if any(w in q for w in [
+        "mids news", "news", "event", "conference", "data4good",
+        "scientific director", "stukon", "half marathon"
+    ]):
+        return "mids_news.txt"
+
+    if any(w in q for w in [
+        "publication", "publications", "paper", "journal", "doi",
+        "research output"
+    ]):
+        return "mids_publications.txt"
+
+    # ----------------
+    # Bachelor Data Science
+    # ----------------
+    if any(w in q for w in [
+        "bachelor deadline", "bachelor application deadline",
+        "bachelor general", "bachelor degree", "semester fee bachelor",
+        "standard length bachelor", "place of study bachelor",
+        "language of instruction bachelor", "bachelor start"
+    ]):
+        return "bachelor_general_and_application_deadlines.txt"
+
+    if any(w in q for w in [
+        "bachelor apply", "bachelor application", "uni-assist bachelor",
+        "aptitude assessment bachelor", "bachelor requirements",
+        "bachelor admission", "bachelor documents", "english skills bachelor",
+        "german a2 bachelor"
+    ]):
+        return "bachelor_application.txt"
+
+    if any(w in q for w in [
+        "bachelor structure", "bachelor ects", "180 ects",
+        "required area", "required modules", "bachelor modules",
+        "bachelor thesis", "bachelor seminar"
+    ]):
+        return "bachelor_structure.txt"
+
+    if any(w in q for w in [
+        "bachelor specialization", "specialization", "focus area",
+        "applied mathematics and scientific computing",
+        "business analytics and operations",
+        "digital transformation of society",
+        "environmental sciences", "finance and economics",
+        "machine learning and statistics"
+    ]):
+        return "bachelor_in_detail_specializations.txt"
+
+    if any(w in q for w in [
+        "bachelor study program", "what is bachelor data science",
+        "bsc data science", "bachelor data science about",
+        "data science bachelor about"
+    ]):
+        return "bachelor_study_program.txt"
+
+    if any(w in q for w in [
+        "bachelor internship", "industrial internship",
+        "research internship", "audi", "continental", "airbus",
+        "practical connection", "career center"
+    ]):
+        return "bachelor_internship.txt"
+
+    if any(w in q for w in [
+        "bachelor career", "career possibilities", "job after bachelor",
+        "occupational fields", "graduates", "data scientist job"
+    ]):
+        return "bachelor_career_possibilities.txt"
+
+    if any(w in q for w in [
+        "bachelor consulting", "bachelor advisory", "consultation hours",
+        "office hour", "sarah eberle", "armelle langenwald",
+        "international office"
+    ]):
+        return "bachelor_consulting.txt"
+
+    if any(w in q for w in [
+        "bachelor contact", "bachelor contact person",
+        "examination office", "program spokesperson",
+        "subject advisor", "examinations committee"
+    ]):
+        return "bachelor_contact_persons.txt"
+
+    if any(w in q for w in [
+        "ranking", "rankings", "studycheck", "popular university",
+        "student satisfaction", "recommend studying"
+    ]):
+        return "bachelor_rankings_and_assesments.txt"
+
+    if any(w in q for w in [
+        "testimonial", "testimonials", "student opinion",
+        "student experience", "fantastic four", "jan stüwe",
+        "alena", "aditi", "shizhen", "oleksandr"
+    ]):
+        return "bachelor_testimonials.txt"
+
+    if any(w in q for w in [
+        "bachelor faq", "bachelor question", "bachelor visa",
+        "bachelor accommodation", "bachelor housing",
+        "bachelor online", "bachelor hybrid",
+        "bachelor german lessons"
+    ]):
+        return "bachelor_faq.txt"
+
+    # ----------------
+    # Master Data Science
+    # ----------------
+    if any(w in q for w in [
+        "master general", "msc general", "master degree",
+        "what is master data science", "msc data science",
+        "master data science about", "standard length master",
+        "place of study master", "language of instruction master"
+    ]):
+        return "master_general.txt"
+
+    if any(w in q for w in [
+        "master study program", "master course", "msc study program",
+        "winter semester 2025", "master focuses", "data analytics",
+        "operations research", "weather and climate"
+    ]):
+        return "master_study_program.txt"
+
+    if any(w in q for w in [
+        "master application", "master apply", "master admission",
+        "master requirements", "master deadline", "master documents",
+        "aptitude test master", "uni-assist master", "lisbon convention",
+        "gre", "module prerequisites"
+    ]):
+        return "master_application.txt"
+
+    if any(w in q for w in [
+        "master structure", "master program structure", "120 ects",
+        "master ects", "mathematics for data science",
+        "advanced programming", "database management",
+        "applied data science project", "studium.pro"
+    ]):
+        return "master_in_detail_and_program_structure.txt"
+
+    if any(w in q for w in [
+        "master abroad", "study abroad master", "internationalization",
+        "internationalisation", "semester abroad master",
+        "international focus", "global network"
+    ]):
+        return "master_internatiolization_study_abroad.txt"
+
+    if any(w in q for w in [
+        "master consulting", "master advice", "master advisory",
+        "master consultation"
+    ]):
+        return "master_advice_and_consulting.txt"
+
+    if any(w in q for w in [
+        "master contact", "master contact person", "contact persons master"
+    ]):
+        return "master_contact_persons.txt"
+
+    # ----------------
+    # Fallback broad routing
+    # ----------------
+    if "bachelor" in q or "bsc" in q:
+        return "bachelor_general_and_application_deadlines.txt"
+
+    if "master" in q or "msc" in q:
+        return "master_general.txt"
+
+    if "professor" in q or "prof" in q or "chair" in q or "research group" in q:
+        return "mids_the_team.txt"
+
+    return None
 
 def retrieve_context(question, n_results=6):
     query_embedding = embedding_model.encode(question).tolist()
