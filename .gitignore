@@ -3,5 +3,5 @@ __pycache__/
 
 vector_db/
 
-.env
+.venv
 .vscode/
