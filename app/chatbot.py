@@ -785,3 +785,4 @@ if __name__ == "__main__":
 
         answer = ask_ollama(question, context)
         print("\n" + answer)
+# New line
