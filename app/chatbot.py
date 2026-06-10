@@ -267,10 +267,23 @@
 
 
 
-
+import os
+from openai import OpenAI
 import chromadb
 import requests
 from sentence_transformers import SentenceTransformer
+
+
+USE_HF = True
+
+HF_MODEL = "meta-llama/Llama-3.1-8B-Instruct"
+OLLAMA_MODEL = "gemma3:1b"
+
+hf_client = OpenAI(
+    base_url="https://router.huggingface.co/v1",
+    api_key=os.getenv("HF_TOKEN")
+)
+
 
 CHROMA_PATH = "vector_db"
 COLLECTION_NAME = "ku_mids_docs"
@@ -685,7 +698,8 @@ def retrieve_context(question, n_results=8): # i changed 6 to 8 because we have 
 
 
 
-def ask_ollama(question, context):
+# def ask_ollama(question, context):
+def ask_local_ollama(question, context):
     q = question.lower()
 
     if "what is mids" in q or "what does mids mean" in q:
@@ -739,6 +753,59 @@ Answer:
     return response.json()["response"]
 
 
+def ask_hf(question, context):
+    q = question.lower()
+
+    if "what is mids" in q or "what does mids mean" in q:
+        return (
+            "MIDS stands for the Mathematical Institute for Machine Learning "
+            "and Data Science at KU Eichstätt-Ingolstadt. It is located in "
+            "Ingolstadt and focuses on machine learning, data science, "
+            "mathematical foundations, and digitalization."
+        )
+
+    prompt = f"""
+You are a helpful chatbot for KU Eichstätt-Ingolstadt, especially the MIDS / Data Science department.
+
+Important rules:
+- Use ONLY the given context.
+- MIDS belongs to KU Eichstätt-Ingolstadt.
+- Never call it Ingolstadt University of Technology.
+- Do NOT invent university names, locations, professors, admission rules, or program details.
+- If the context does not clearly say something, say:
+"I do not have enough information in my current knowledge base."
+- If the question is not related to KU/MIDS, answer:
+"This chatbot is designed only for KU/MIDS-related questions."
+- Keep answers short, factual, and student-friendly.
+
+Context:
+{context}
+
+Question:
+{question}
+
+Answer:
+"""
+
+    response = hf_client.chat.completions.create(
+        model=HF_MODEL,
+        messages=[
+            {"role": "user", "content": prompt}
+        ],
+        max_tokens=180,
+        temperature=0.1
+    )
+
+    return response.choices[0].message.content
+
+def ask_llm(question, context):
+
+    if USE_HF:
+        return ask_hf(question, context)
+
+    return ask_local_ollama(question, context)
+
+
 # while True:
 #     question = input("\nAsk a question: ")
 
@@ -783,5 +850,6 @@ if __name__ == "__main__":
         for source in sources:
             print("-", source)
 
-        answer = ask_ollama(question, context)
+        # answer = ask_ollama(question, context)
+        answer = ask_llm(question, context)
         print("\n" + answer)
