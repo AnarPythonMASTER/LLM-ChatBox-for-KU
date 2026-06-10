@@ -274,8 +274,7 @@ import requests
 from sentence_transformers import SentenceTransformer
 
 
-USE_HF = True
-
+USE_HF = False
 HF_MODEL = "meta-llama/Llama-3.1-8B-Instruct"
 OLLAMA_MODEL = "gemma3:1b"
 
@@ -364,6 +363,10 @@ embedding_model = SentenceTransformer(EMBEDDING_MODEL)
 #         return "mids_about.txt"
 
 #     return None
+
+def set_llm_mode(use_hf):
+    global USE_HF
+    USE_HF = use_hf
 def detect_topic(question):
     q = question.lower()
 
