@@ -650,7 +650,7 @@ def detect_topic(question):
 
     return None
 
-def retrieve_context(question, n_results=6):
+def retrieve_context(question, n_results=8): # i changed 6 to 8 because we have now more small txt files
     query_embedding = embedding_model.encode(question).tolist()
     topic = detect_topic(question)
 
@@ -670,7 +670,18 @@ def retrieve_context(question, n_results=6):
         source = meta.get("source", "unknown")
         context_parts.append(f"[Source: {source}]\n{doc}")
 
-    return "\n\n".join(context_parts)
+    #return "\n\n".join(context_parts)
+    sources_used = list(
+        set(
+            meta.get("source", "unknown")
+            for meta in metadatas
+        )
+    )
+
+    return (
+        "\n\n".join(context_parts),
+        sources_used
+    )
 
 
 
@@ -739,18 +750,38 @@ Answer:
 
 #     print("\n" + answer)
 
-while True:
-    question = input("\nAsk a question: ")
+# while True:
+#     question = input("\nAsk a question: ")
 
-    if question.lower() in ["exit", "quit", "q"]:
-        break
+#     if question.lower() in ["exit", "quit", "q"]:
+#         break
 
-    context = retrieve_context(question)
+#     #context = retrieve_context(question)
+#     context, sources = retrieve_context(question)
 
-    print("\n================ CONTEXT ================\n")
-    print(context)
-    print("\n=========================================\n")
+#     # print("\n================ CONTEXT ================\n")
+#     # print(context)
+#     # print("\n=========================================\n")
+#     print("\nSources used:")
 
-    answer = ask_ollama(question, context)
+#     for source in sources:
+#         print("-", source)
+#     answer = ask_ollama(question, context)
 
-    print("\n" + answer)
+#     print("\n" + answer)
+    
+if __name__ == "__main__":
+    while True:
+        question = input("\nAsk a question: ")
+
+        if question.lower() in ["exit", "quit", "q"]:
+            break
+
+        context, sources = retrieve_context(question)
+
+        print("\nSources used:")
+        for source in sources:
+            print("-", source)
+
+        answer = ask_ollama(question, context)
+        print("\n" + answer)
