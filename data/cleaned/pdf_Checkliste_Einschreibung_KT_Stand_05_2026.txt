@@ -1,0 +1,87 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Checkliste_Einschreibung_KT_Stand_05_2026.pdf
+TITLE: Checkliste_Einschreibung_KT_Stand_05_2026.pdf
+SOURCE_FILE: Checkliste_Einschreibung_KT_Stand_05_2026.pdf
+------------------------------------------------------------
+
+[Page 1]
+Bitte beachten Sie, dass Sie sich sowohl an der Katholischen Universität Eichstätt-Ingolstadt als auch an der
+Universität Passau einschreiben müssen, um ein Studium im Bachelor Katholische Theologie aufnehmen zu
+können. Sie beginnen mit der Immatrikulation an der KU Eichstätt-Ingolstadt:
+Erster Schritt 
+Sie registrieren sich online im Bewerbungs- und Einschreibeportal der KU. Nach der Registrierung erhalten
+Sie eine Mail mit Ihren Login-Daten und weiteren Anweisungen.
+Zweiter Schritt 
+Nach erfolgter Registrierung können Sie im Portal unter "Login und Bewerbung/Einschreibung" Ihren
+Bewerbungsantrag für den gewünschten Studiengang stellen. Dort geben Sie Ihre Daten ein.
+Dritter Schritt 
+Danach können Sie sich im Portal online immatrikulieren. Unmittelbar nach dem Abschicken des
+Bewerbungsantrags können Sie die Immatrikulation durchführen. Laden Sie alle dafür benötigten Dokumente
+im Einschreibeportal in den entsprechenden Feldern als PDF-Dateien hoch, ein Versand der Unterlagen per
+Post an das Studierendenbüro ist nicht erforderlich.
+Erforderliche Unterlagen: 
+Die mit * markierten Unterlagen müssen parallel auch bei der Einschreibung in Passau eingereicht werden (vgl. Seite 2)
+ 
+Zeugnis der Hochschulzugangsberechtigung* (z.B. Abitur) 
+Kopie eines gültigen Personalausweises oder Reisepasses* (Daten, die nicht zur Identifizierung
+benötigt werden, insbesondere die Zugangs- und Seriennummer sowie Augenfarbe und Größe, können
+und sollen geschwärzt werden)
+Vollständiger und unterschriebener Lebenslauf
+Digitaler Krankenversicherungsnachweis*: muss zur Einschreibung von einer deutschen gesetzlichen
+Krankenkasse elektronisch übermittelt werden, ebenso bestätigt die Universität der KV digital die
+Einschreibung. Wichtig: Auch Privatversicherte benötigen diesen Nachweis der gesetzlichen Krankenkasse
+(z.B. Befreiung). Bitten Sie die Krankenkasse den Versicherungsnachweis direkt an beide Universitäten
+zu senden - die KU (Absendernummer H 0000 834) und die Universität Passau (Absendernummer
+H 0000 745). Andere Bescheinigungen (Versicherungskarte, Mitgliedsbescheinigung) reichen nicht aus! 
+Überweisen Sie den Semesterbeitrag vor der Einschreibung. Kontodetails 
+Foto in digitaler Form für die KU.Card: Bitte laden Sie ein geeignetes Lichtbild über https://bewerber-
+foto.ku.de/ hoch. Benutzername = Bewerbernummer, Kennwort = Geburtsdatum mit Punkt (xx.xx.xxxx)
+Falls Sie bereits studiert haben:
+Studienverlaufsbescheinigung*, falls Sie bereits an einer deutschen Hochschule eingeschrieben waren
+Nachweis über bereits erworbene Studienabschlüsse* (Zeugnis & Urkunde)
+Hinweis: Bitte melden Sie sich nach erfolgter Immatrikulation mit Ihrer Kennung für das 
+ Start- und Informationsportal im Bachelorstudiengang Katholische Theologie an.
+PHASE 1: Einschreibung über das Einschreibeportal der
+Katholischen Universität Eichstätt-Ingolstadt
+Checkliste für Ihre Einschreibung in den
+Bachelor Katholische Theologie
+Checkliste für Ihre Einschreibung in den
+Bachelor Katholische Theologie
+
+[Page 2]
+Bitte beachten Sie, dass Sie sich sowohl an der Katholischen Universität Eichstätt-Ingolstadt als auch an der
+Universität Passau einschreiben müssen, um ein Studium im Bachelor Katholische Theologie aufnehmen zu
+können. Nachdem Sie an der KU eingeschrieben sind, immatrikulieren Sie sich an der Universität Passau:
+Erster Schritt 
+Registrieren Sie sich online im Campusportal der Universität Passau. Nach der Registrierung erhalten Sie
+eine E-Mail mit Ihren Login-Daten und weiteren Anweisungen.
+Zweiter Schritt 
+Nach erfolgter Registrierung können Sie im Portal unter "Login und Bewerbung/Einschreibung" Ihren
+Bewerbungsantrag für den gewünschten Studiengang stellen. Dort geben Sie Ihre Daten ein.
+Dritter Schritt 
+Sobald Ihr Antragsstatus auf „zulassungsfrei“ steht, können Sie sich im Portal online immatrikulieren.
+Unmittelbar nach dem Abschicken des Bewerbungsantrags können Sie die Immatrikulation durchführen.
+Laden Sie alle dafür benötigten Dokumente im Campusportal in den entsprechenden Feldern als PDF-
+Dateien hoch, ein Versand der Unterlagen per Post an das Studierenden-sekretariat ist nicht erforderlich.
+Sie müssen keinen Semesterbeitrag an der Universität Passau bezahlen.
+Erforderliche Unterlagen: 
+Sie haben die mit * markierten Unterlagen bereits in Eichstätt eingereicht – sie sollten Ihnen daher vorliegen (vgl. Seite 1)
+Immatrikulationsbescheinigung der Universität Eichstätt
+Zeugnis der Hochschulzugangsberechtigung* (z.B. Abitur) in amtlich beglaubigter Kopie
+Scan eines gültigen Personalausweises oder Reisepasses* (Daten, die nicht zur Identifizierung benötigt
+werden, insbesondere die Zugangs- und Seriennummer sowie Augenfarbe und Größe, können und sollen
+geschwärzt werden)
+Digitaler Krankenversicherungsnachweis*: muss zur Einschreibung von einer deutschen gesetzlichen
+Krankenkasse elektronisch übermittelt werden, ebenso bestätigt die Universität der KV digital die
+Einschreibung. Wichtig: Auch Privatversicherte benötigen diesen Nachweis der gesetzlichen Krankenkasse
+(z.B. Befreiung). Bitten Sie die Krankenkasse den Versicherungsnachweis direkt an beide Universitäten
+zu senden - die KU (Absendernummer H 0000 834) und die Universität Passau (Absendernummer
+H 0000 745). Andere Bescheinigungen (Versicherungskarte, Mitgliedsbescheinigung) reichen nicht aus! 
+Falls Sie bereits studiert haben:
+Studienverlaufsbescheinigung, wenn Sie bereits an einer deutschen Hochschule eingeschrieben waren 
+Nachweis über bereits erworbene Studienabschlüsse (Zeugnis & Urkunde, amtlich beglaubigt)
+PHASE 2: Immatrikulation über das Campusportal 
+der Universität Passau
+Checkliste für Ihre Einschreibung in den
+Bachelor Katholische Theologie
+Checkliste für Ihre Einschreibung in den
+Bachelor Katholische Theologie

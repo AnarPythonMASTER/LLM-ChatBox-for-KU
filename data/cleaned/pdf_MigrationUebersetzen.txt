@@ -1,0 +1,45 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/MigrationUebersetzen.pdf
+TITLE: MigrationUebersetzen.pdf
+SOURCE_FILE: MigrationUebersetzen.pdf
+------------------------------------------------------------
+
+[Page 1]
+springer.com
+1. Aufl. 2020, VI, 207 S. 6 Abb.
+Gedrucktes Buch
+Softcover
+44,99 € (D) | 46,25 € (A) | CHF 
+[1]
+50,00
+eBook
+34,99 € (D) | 34,99 € (A) | CHF 
+[2]
+40,00
+Erhältlich bei Ihrer Bibliothek oder
+springer.com/shop
+Angela Treiber, Kerstin Kazzazi, Marina Jaciuk (Hrsg.)
+Migration Übersetzen
+Alltags- und Forschungspraktiken des Dolmetschens im Rahmen von 
+Flucht und Migration
+Forschen in multilingualen Feldern - Theorien und Praktiken
+Dolmetschen als Forschungsgegenstand
+Interdiszplinärer Band zur Problematik in den verschiedenen Umfeldern
+Für zahlreiche berufliche Praxis- und Forschungsfelder gilt, dass Gespräche nicht mehr in der 
+Erstsprache der jeweiligen Beteiligten geführt werden können. Die zunehmende Vielfalt von 
+Sprachen, von Multi- und Translingualität verlangen die Einbindung von Sprachmittler_innen
+/Dolmetscher_innen. In den Zusammenhängen von Flucht, Asyl und Migration diskutiert dieser 
+interdisziplinäre Band unterschiedliche Verfahrensstrategien zur Überwindung sprachlicher wie 
+auch kulturell bedingter Kommunikationsbarrieren und zeigt die entstehenden methodischen 
+und theoretischen Herausforderungen für die soziale Beratungs- und Therapiepraxis wie für die 
+Praxis qualitativer Forschung auf.
+ 
+Part of
+Erhältlich bei Ihrem Buchhändler oder – Springer Nature Customer Service Center GmbH, Haberstrasse 7, 69126 
+Heidelberg, Germany / Call: + 49 (0) 6221-345-4301 / Fax: +49 (0)6221-345-4229 / Email: 
+customerservice@springer.com / Web: springer.com
+[1] € (D) sind gebundene Ladenpreise in Deutschland und enthalten 7% MwSt; € (A) sind gebundene Ladenpreise in 
+Österreich und enthalten 10% MwSt. CHF und die mit [2] gekennzeichneten Preise für elektronische Produkte sind 
+unverbindliche Preisempfehlungen und enthalten die landesübliche MwSt. Programm- und Preisänderungen (auch 
+bei Irrtümern) vorbehalten. Es gelten unsere Allgemeinen Liefer- und Zahlungsbedingungen.
+Springer-Verlag GmbH, Handelsregistersitz: Berlin-Charlottenburg, HR B 91022. Geschäftsführung: Haank, Mos, 
+Hendriks

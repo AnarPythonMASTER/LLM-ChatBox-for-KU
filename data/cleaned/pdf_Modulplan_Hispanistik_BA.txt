@@ -1,0 +1,102 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulplan_Hispanistik_BA.pdf
+TITLE: Modulplan_Hispanistik_BA.pdf
+SOURCE_FILE: Modulplan_Hispanistik_BA.pdf
+------------------------------------------------------------
+
+[Page 1]
+Interdisziplinärer BA; Profil flexibler Bachelorstudiengang 
+ Hispanistik (exemplarischer Modulplan) 
+ 
+6 
+Bachelorarbeit 
+Wissenschaftliches 
+Kolloquium zur 
+Bachelorarbeit 
+ 
+ 
+ 
+30 ECTS 
+5 
+Berufspraktikum 
+Auslandssemester 
+30 ECTS 
+4 
+Wahlpflichtmodul 
+Sprach-/ 
+Literaturwissenschaft oder 
+Sprachpraxis 
+Wahlpflichtmodul 
+Sprach-/ 
+Literaturwissenschaft oder 
+Sprachpraxis 
+Wahlpflichtmodul 
+Sprach-/ 
+Literaturwissenschaft oder 
+Sprachpraxis 
+Studium.Pro 
+Studium.Pro 
+ 
+ 
+30 ECTS 
+3 
+Wahlpflichtmodul 
+Literaturwissenschaft 
+Wahlpflichtmodul 
+Sprach-/ 
+Literaturwissenschaft oder 
+Sprachpraxis 
+Wahlpflichtmodul 
+Sprach-/ 
+Literaturwissenschaft oder 
+Sprachpraxis 
+ 
+ 
+ 
+30 ECTS 
+2 
+Wahlpflichtmodul 
+Sprachwissenschaft 
+Wahlpflichtmodul 
+Sprach- oder 
+Literaturwissenschaft 
+Wahlpflichtmodul 
+Sprach-/ 
+Literaturwissenschaft oder 
+Sprachpraxis 
+ 
+ 
+ 
+30 ECTS 
+1 
+Einführung in die 
+Literaturwissenschaft 
+Basismodul Synchronie 
+Grammatik und 
+Wortschatz I 
+ 
+ 
+ 
+30 ECTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hispanistik 
+ 
+ 
+ 
+weiteres Fach / weitere Fächer 
+ 
+ 
+ 
+ 
+BA-Arbeit und Modul zur BA-Arbeit 
+Praxisbezogener Studienteil 
+Auslandsstudium (empfohlen) 
+ 
+Profilorientiertes Studieren

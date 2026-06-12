@@ -1,0 +1,92 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Profil_flex_IntDi_MA.pdf
+TITLE: Studienverlaufsplan_Profil_flex_IntDi_MA.pdf
+SOURCE_FILE: Studienverlaufsplan_Profil_flex_IntDi_MA.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Die oder der Studierende muss 
+1. ein Fach im Umfang von mindestens 30 ECTS-Punkten , 
+2. das Studium.Pro im Umfang von 5 ECTS-Punkten , 
+3. ein Praktikum oder ein weiteres Modul aus einem gewählten Fach im Umfang von 5 ECTS-Punkten und 
+4. die Masterarbeit im Umfang von 30 ECTS-Punkten erfolgreich absolvieren . 
+ 
+Die oder der Studierende kann 
+1. bis zu zwei weitere Fächer im Umfang von jeweils mindestens 25 ECTS-Punkten , 
+2. das Studium Individuale im Umfang von bis zu 25 ECTS-Punkten erfolgreich absolvieren . 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Masterarbeit 
+(30 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+3 
+Fach A, B, C 
+(5 ECTS-Punkte) 
+Fach A, B, C 
+(5 ECTS-Punkte) 
+Fach A, B, C 
+(5 ECTS-Punkte) 
+Fach A, B, C, 
+Studium 
+Individuale 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+2 
+Fach A, B. C 
+(5 ECTS-Punkte) 
+Fach A, B, C 
+(5 ECTS-Punkte) 
+Fach A, B, C, 
+Studium 
+Individuale 
+(5 ECTS-Punkte) 
+Fach A, B, C 
+Studium 
+Individuale 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+1 
+Praktikum 
+(5 ECTS-Punkte) 
+Studium.Pro 
+(5 ECTS-Punkte) 
+Fach A, B, C, 
+Studium 
+Individuale 
+(5 ECTS-Punkte) 
+Fach A, B, C 
+Studium 
+Individuale 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte

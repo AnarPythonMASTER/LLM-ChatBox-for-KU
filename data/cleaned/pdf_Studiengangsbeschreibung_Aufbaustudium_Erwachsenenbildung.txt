@@ -1,0 +1,335 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_Aufbaustudium_Erwachsenenbildung.pdf
+TITLE: Studiengangsbeschreibung_Aufbaustudium_Erwachsenenbildung.pdf
+SOURCE_FILE: Studiengangsbeschreibung_Aufbaustudium_Erwachsenenbildung.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status 10/2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inhalt 
+ 
+A. Bezeichnung des Studiengangs und Abschluss ......................................................................... 1 
+B. 
+Beschreibung .............................................................................................................................. 1 
+B.1 Der Studiengang in 3 Sätzen 
+................................................................................................ 1 
+B.2 Zielgruppe 
+............................................................................................................................. 1 
+B.3 Studieren mit Mehrwert ........................................................................................................ 1 
+B.4 Beitrag des Studiengangs zum KU-Profil ............................................................................. 2 
+B.5 Fakultäre Ansiedelung des Studiengangs ............................................................................. 2 
+C. 
+Idealtypischer Studienplan 
+........................................................................................................... 3 
+D. Studiengangskonzept .................................................................................................................. 4 
+D.1 Studienziele 
+........................................................................................................................... 4 
+D.2 Aufbau des Studiengangs 
+..................................................................................................... 5 
+D.3 Struktur des Studiengangs.................................................................................................... 6 
+Modulkatalog zum Aufbaustudium Erwachsenenbildung ............................................................. 7 
+A Status des Modulkatalogs 
+........................................................................................................ 7 
+B Auflistung der Wahlpflichtmodule ............................................................................................. 7 
+Beschreibung für das 
+Aufbaustudium Erwachsenenbildung 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+
+[Page 2]
+Status 10/2024 
+ 
+1 
+ 
+ 
+ 
+A. 
+ Bezeichnung des Studiengangs und Abschluss 
+Der Name des (Teil-)Studiengangs lautet: Erwachsenenbildung (Aufbaustudium) 
+Der (Teil-)Studiengang führt zur Verleihung des akademischen Grades: --- 
+ 
+Beim angegebenen Studiengang handelt es sich um einen 
+☐ 
+Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☒ Vollzeit- und Teilzeitstudiengang 
+ 
+ 
+Beschreibung 
+B.1 Der Studiengang in 3 Sätzen 
+ 
+B.2 Zielgruppe 
+ 
+B.3 Studieren mit Mehrwert 
+ 
+Das Aufbaustudium Erwachsenenbildung bietet interessierten Studierenden und bereits im Beruf 
+stehenden Erwachsenen die Möglichkeit einer umfassenden wissenschaftlichen Weiterbildung im 
+Bereich 
+Erwachsenenbildung. 
+Vor 
+dem 
+Hintergrund 
+aktueller 
+gesellschaftlicher 
+Transformationsprozesse 
+werden 
+die 
+Studierenden 
+befähigt, 
+den 
+damit 
+verbundenen 
+Herausforderungen mit wissenschaftlich fundierten Lehr-Lernangeboten zu begegnen und die 
+Bildungslandschaft aktiv mitzugestalten. Die Weiterqualifikation eröffnet Zugang zu vielfältigen 
+Aufgaben- und Tätigkeitsbereichen in verschiedenen beruflichen Handlungsfeldern der 
+Erwachsenen- und Weiterbildung. 
+ 
+Das Aufbaustudium Erwachsenenbildung richtet sich an alle Studieninteressierten mit einem 
+ersten akademischen Abschluss sowie an bereits im Beruf stehende und berufserfahrene 
+Personen mit einer grundlegenden wissenschaftlichen Qualifikation, die vertiefte und umfangreiche 
+Kenntnisse und Kompetenzen im Bereich der Erwachsenen- und Weiterbildung erwerben wollen. 
+Die 
+sich 
+immer 
+schneller 
+vollziehenden 
+gesellschaftlichen 
+und 
+technologischen 
+Transformationsprozesse 
+machen 
+ein 
+kontinuierliches, 
+lebensbegleitendes 
+Lernen 
+im 
+Erwachsenenalter erforderlich. Die Bedeutung von Erwachsenen- und Weiterbildung nimmt daher 
+stetig zu. Diese Entwicklung geht Hand in Hand mit einer zunehmenden Ausdifferenzierung der 
+Aufgabenfelder der Erwachsenen- und Weiterbildung als einem äußerst heterogenen beruflichen 
+Handlungsfeld. Daraus erwächst die Notwendigkeit einer weiterführenden Professionalisierung in 
+der Erwachsenen- und Weiterbildung im Kontext einer akademischen Ausbildung, die auf 
+spezifische Aufgaben- und Handlungsfelder adäquat vorbereitet. Das Studienangebot trägt dazu 
+bei, eine Wissenschafts- und Bildungskultur geprägt von reflexiver Verantwortlichkeit in 
+pädagogischen Handlungsfeldern zu gestalten. 
+
+[Page 3]
+Status 10/2024 
+ 
+2 
+ 
+ 
+ 
+B.4 Beitrag des Studiengangs zum KU-Profil 
+ 
+ B.5 Fakultäre Ansiedelung des Studiengangs 
+ B.5.1 Federführende Fakultät 
+ 
+ B.5.2 Weitere beteiligte Fakultäten 
+ 
+ 
+Das Aufbaustudium Erwachsenenbildung eröffnet Studierenden und berufserfahrenen Personen 
+die Möglichkeit einer umfassenden wissenschaftlichen Weiterqualifizierung im Bereich 
+Erwachsenenbildung. Der Verknüpfung von Wissenschaft, Gesellschaft und Wirtschaft wird durch 
+die enge Kooperation mit relevanten Akteuren der Zivilgesellschaft und Wirtschaft Rechnung 
+getragen. Das Aufbaustudium ermöglicht mit Blick auf eine heterogene Gesellschaft eine 
+ganzheitliche, akademische Bildung, die transformatives Potential für eine wissenschafts-
+fundierte, verantwortliche und förderliche Mitgestaltung des gesellschaftlichen Lebens bietet. 
+Überdies schließt das Aufbaustudium Erwachsenenbildung einerseits Studierende und 
+andererseits bereits im Beruf Stehende jeglicher Herkunft und wissenschaftlicher Vorqualifikation 
+mit 
+ein. 
+Um 
+ein 
+berufsbegleitendes 
+flexibles 
+Studium 
+zu 
+ermöglichen, 
+werden 
+Lehrveranstaltungen bei Bedarf hybrid angeboten. 
+ 
+Philosophisch-Pädagogische Fakultät 
+--- 
+
+[Page 4]
+Status 10/2024 
+ 
+3 
+ 
+ 
+C. Idealtypischer Studienplan 
+Idealtypischer Studienverlauf des Aufbaustudiums Erwachsenenbildung (Vollzeit und Teilzeit) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 5]
+Status 10/2024 
+ 
+4 
+ 
+ 
+ 
+D. Studiengangskonzept 
+D.1 Studienziele 
+D.1.1 Qualifikationsziele 
+ 
+ 
+D.1.2 Aufbauende Qualifizierungsmöglichkeiten 
+ 
+ 
+D.1.3 Berufs- und Tätigkeitsfelder 
+Das Aufbaustudium Erwachsenenbildung umfasst in der Regel drei Semester (alternativ in Teilzeit 
+bis zu sechs Semester). Das Aufbaustudium wird mit einem Weiterbildungszertifikat abgeschlossen. 
+Es eröffnet Studierenden die Möglichkeit, aufbauend auf ihre Erstausbildung eine grundlegende 
+fachwissenschaftliche, pädagogische Qualifikation zu erwerben, die sowohl fundiertes Wissen aus 
+der Erwachsenenbildung zur Verfügung stellt als auch professionsbezogene Kompetenzen 
+vermittelt. Das übergreifende Qualifikationsziel ist die Befähigung der Studierenden zum 
+professionellen pädagogischen Handeln im Kontext von Erwachsenen- und Weiterbildung unter den 
+Bedingungen gesellschaftlicher Diversität und Transformation. 
+ 
+Aufbauende Qualifizierungsmöglichkeiten eröffnen sich in folgenden Bereichen, wenn die in den 
+entsprechenden Prüfungsordnungen formulierten Zulassungsvoraussetzungen der im Folgenden 
+aufgeführten Studiengänge erfüllt sind: 
+• 
+B.A. Bildungs- und Erziehungswissenschaft 
+• 
+weitere bildungsbezogene Masterstudiengänge an der KU, wie etwa der Master Flucht, 
+Migration, Gesellschaft oder der Master Bildung für nachhaltige Entwicklung 
+• 
+u.a. 
+Mit dem Abschluss des Aufbaustudiums Erwachsenenbildung sind die Studierenden für 
+pädagogische Tätigkeiten im Handlungsfeld der Erwachsenen- und Weiterbildung qualifiziert. Den 
+Absolventinnen und Absolventen eröffnen sich in staatlicher und nicht-staatlicher Trägerschaft (u. a. 
+kirchliche Träger, freie Träger, Verbände, Gewerkschaften, Wirtschaftsunternehmen) zahlreiche 
+Beschäftigungsmöglichkeiten. Dies schließt u. a. die Leitung einer Bildungseinrichtung, eine 
+Dozenten- und Referententätigkeit, eine Tätigkeit im Bereich der Personal-, Team- und 
+Organisationsentwicklung, im Bildungsmanagement und der (Weiter-)Bildungsberatung mit ein. 
+
+[Page 6]
+Status 10/2024 
+ 
+5 
+ 
+D.2 Aufbau des Studiengangs 
+Grundsätzlicher Aufbau des Studiengangs 
+ 
+Pflichtbereich 
+ 
+Studium.Pro 
+ 
+Wahlpflichtbereich 
+ 
+Wahlbereich 
+ 
+Bereich mit Praxisbezug 
+ 
+Ausgestaltung der Internationalisierung 
+Das Aufbaustudium Erwachsenenbildung umfasst 9 Module, die in Grund- und Aufbaumodule 
+sowie je ein Praxis-, Wahl- und Abschlussmodul untergliedert sind. Die Grundlagenmodule 
+umfassen theoretische Grundlagen der Erwachsenen- und Weiterbildung sowie den Erwerb 
+pädagogischer Basiskompetenzen und grundlegender methodisch-didaktischer Fertigkeiten. 
+Zudem bieten sie einen praxisnahen Überblick über die Heterogenität der Handlungsfelder und 
+Zielgruppen im Kontext der Erwachsenen- und Weiterbildung. Die Aufbaumodule vertiefen und 
+erweitern professionelles Handlungswissen aus den Bereichen der transformativen Bildung, der 
+makrodidaktischen Programmplanung sowie der Personal- und Organisationsentwicklung. Durch 
+eine Praktikumsphase wird die Verschränkung von Theorie und Praxis gefördert; es kann 
+theoretisches Handlungswissen in die Praxis übersetzt werden und gleichzeitig vor dem Hintergrund 
+der eigenen Professionalisierung analysiert, reflektiert und angewendet werden. Zur individuellen 
+Profilbildung sowie interdisziplinären Wissenserweiterung kann im Wahlbereich ein Modul aus dem 
+gesamten Modulangebot der nicht zulassungsbeschränkten Studiengänge an der KU Eichstätt-
+Ingolstadt außerhalb des Fachs Pädagogik belegt werden. Im Rahmen der Abschlussarbeit erfolgt 
+eine individuelle Schwerpunktsetzung, indem sich die Studierenden mit einem selbst gewählten 
+Thema vertieft und unter Anwendung des bis dahin erlangten fachlichen und methodischen Wissens 
+auseinandersetzen. 
+Sämtliche Module im Aufbaustudium Erwachsenenbildung - mit Ausnahme des Wahlbereichs - sind 
+Pflichtmodule. 
+--- 
+--- 
+Zur individuellen Profilbildung sowie interdisziplinären Wissenserweiterung kann im Wahlbereich ein 
+Modul aus dem gesamten Modulangebot der nicht zulassungsbeschränkten Studiengänge an der 
+KU Eichstätt-Ingolstadt außerhalb des Fachs Pädagogik belegt werden. 
+Das Aufbaustudium Erwachsenenbildung möchte eine enge reflexive Theorie-Praxis-Verknüpfung 
+bieten. Deshalb ist eine studienbegleitende, vierwöchige Praktikumsphase integriert. Diese 
+beinhaltet unter anderem eine Hospitation im Praxisfeld, Praxisberatung und Praxisanleitung durch 
+Personal der Einrichtung vor Ort und ermöglicht gleichzeitig selbstgeleitetes Lernen in der 
+Berufspraxis. Darüber hinaus haben die Studierenden im Rahmen eines praktikumsbegleitenden 
+Seminars die Möglichkeit, die in der Praxis gewonnen Erfahrungen vor einem theoretischen 
+Hintergrund zu analysieren und zu reflektieren. 
+Es besteht jederzeit im Rahmen des Aufbaustudiums die Möglichkeit, ein Auslandspraktikum bzw. 
+-semester zu absolvieren. Darüber hinaus achten wir in unseren Studienangeboten grundsätzlich 
+auf internationale Anschlussfähigkeit. 
+
+[Page 7]
+Status 10/2024 
+ 
+6 
+ 
+D.3 Struktur des Studiengangs 
+D.3.1 Studienumfang und -dauer 
+ 
+ 
+D.3.2 Zugangs- / Zulassungskriterien 
+ 
+ 
+D.3.3 Unterrichtssprache 
+ 
+ 
+D.3.4 Studienbeginn 
+ 
+ Das Aufbaustudium Erwachsenenbildung umfasst 50 ECTS-Punkte und wird in der Regel innerhalb 
+von bis zu drei Semestern (alternativ in Teilzeit innerhalb von bis zu sechs Semestern) absolviert. 
+ Für das Aufbaustudium Erwachsenenbildung gibt es drei Zulassungsvoraussetzungen: 
+ (1) Nachweis über einen ersten Hochschulabschluss 
+ (2) Nachweise über Deutschkenntnisse auf B2-Niveau nach dem Gemeinsamen Europäischen 
+Referenzrahmen (GER) 
+ (3) Nachweis über Berufserfahrung von in der Regel mindestens 4 Monaten nach Erwerb des 
+Hochschulabschlusses. In Ausnahmefällen kann die Berufserfahrung nach Studienbeginn bis zum 
+Abschluss der Regelstudienzeit erworben werden. 
+ Dies gilt unabhängig vom bisherigen Tätigkeitsfeld und Herkunftsland. Es wird keine 
+Zugangsbeschränkung aufgrund der Abschlussnote vorgenommen. 
+Das Aufbaustudium 
+Erwachsenenbildung wird mit einem Weiterbildungszertifikat abgeschlossen. Die Einschreibung für 
+das Aufbaustudium Erwachsenenbildung ist zum Wintersemester möglich. 
+ Ansprechpartner bei Fragen zu den Zugangs- und Zulassungsvoraussetzungen ist die Professur 
+für Lebenslanges Lernen der Katholischen Universität Eichstätt-Ingolstadt. 
+(Kontakt: erwachsenenbildung@ku.de). 
+ Die Unterrichtssprache ist vornehmlich deutsch, ggf. englisch. 
+Das Aufbaustudium Erwachsenenbildung kann zum Wintersemester eines jeden Kalenderjahres 
+aufgenommen werden. 
+
+[Page 8]
+Status 10/2024 
+ 
+7 
+ 
+ 
+Modulkatalog zum 
+Aufbaustudium Erwachsenenbildung 
+ 
+mit Geltungsbereich zum WiSe 2024/25 
+ 
+A Status des Modulkatalogs 
+1. Anlage zur Studiengangsbeschreibung (10/2024) und Satzung in der 
+Fassung vom 07.02.2024, geändert durch Satzung vom 19. Juli 2024 
+2. Vom Fakultätsrat der Philosophisch-Pädagogischen Fakultät beschlossen am 
+17.04.2014 
+ 
+ 
+B Auflistung der Wahlpflichtmodule 
+In der PO verankerte Wahlpflichtbereiche: ---

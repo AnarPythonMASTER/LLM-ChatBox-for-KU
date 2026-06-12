@@ -1,0 +1,163 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_BWL_DE_Bachelor_SoSe_2026_alte_Struktur.pdf
+TITLE: Wahlpflichtkatalog_BWL_DE_Bachelor_SoSe_2026_alte_Struktur.pdf
+SOURCE_FILE: Wahlpflichtkatalog_BWL_DE_Bachelor_SoSe_2026_alte_Struktur.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Aus den gekennzeichneten Wahlpflichtmodulen sind drei aus vier Modulen zu belegen. Aus dem Wahlpflichtbereich 
+sind sechs Module auszuwählen. (Start Sommersemester 2023) 
+Wahlpflichtkatalog im Studiengang 
+(Betriebswirtschaftslehre B.Sc.) 
+SoSe/WiSe 
+ 
+Modulangebot Sommersemester: 
+1. nach § 9 der Prüfungsordnung Bachelorstudiengang Betriebswirtschaftslehre in der 
+Fassung vom 20.05.2021 
+2. Geltungsbereich zum SoSe 2026 
+ 
+3. vom Fakultätsrat der Fakultät Wirtschaftswissenschaften beschlossen am 
+28.01.2026. 
+ 
+Auflistung der Studienschwerpunkte 
+In der PO verankerte Studienschwerpunkte: 
+ 
+1. Major Wirtschaft und Psychologie (Koordinator: Prof. Dr. Verena Bader) 
+2. Major Management and Marketing (Koordinatorin: Prof. Dr. Katja Gelbrich) 
+3. Major Financial Management (Koordinator: Prof. Dr. Reinald Koch) 
+4. Major Supply Chain & Information Management (Koordinator: Prof. Dr. Heinrich 
+Kuhn) 
+ 
+5. Minor Wirtschaftssprachen 
+6. Minor Wirtschaftsethik 
+7. Minor Quantitative Methoden und Digitalisierung 
+8. Minor Volkswirtschaftslehre 
+ 
+ 
+1. Modulangebot im Major Wirtschaft und Psychologie (Koordinator: Prof. Dr. Max 
+Ringlstetter) 
+ 
+Wahlpflichtkurse 
+Consumer Psychology, (5 ECTS) Seminararbiet 
+Management & HR (5 ECTS) Klausur 
+Grundlagen der Organisationspsychologie (5 ECTS) Klausur 
+Arbeitsmarktökonomik (5 ECTS) Klausur 
+Arbeitsrecht (5 ECTS) Klausur 
+Digital HRM (5 ECTS) – geplant ab WS 26/27 
+Psychologie der Führung und Kooperation (5 ECTS) Portfolio 
+Sozialpolitik (5 ECTS) Klausur 
+The Science of Happiness: A Multi-Disciplinary and Multi-Cultural Approach to 
+Happiness and Well-being (5 ECTS) Portfolio 
+Understanding Organizations (5 ECTS) ab SoSe27 
+New Work - Digitale Transformation und Wertewandel in der Arbeitswelt (Modul der 
+VHB) 
+Talentmanagement (Modul der VHB) 
+Vertragsgestaltung und Vertragsmanagement (Modul der VHB) 
+ 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Aus den gekennzeichneten Wahlpflichtmodulen sind drei aus vier Modulen zu belegen. Aus dem Wahlpflichtbereich 
+sind sechs Module auszuwählen. (Start Sommersemester 2023) 
+ 
+2. Modulangebot Major Management and Marketing (Koordinatorin: Prof. Dr. Katja 
+Gelbrich) 
+ 
+Wahlpflichtkurse 
+ 
+Digital Human Resource Management1 (5 ECTS) – geplant ab WS26/27 
+Service and Technology Marketing1 (5 ECTS) Klausur 
+Global Marketing Management1 (5 ECTS) Klausur 
+Konsumentenverhalten und Marktforschung1 (5 ECTS) Klausur (letztmalig SoSe 26) 
+Consumer Psychology (5 ECTS) Seminararbeit 
+Sustainable Entrepreneurship (5 ECTS) Klausur 
+International Business (5 ECTS) Klausur 
+Social Marketing (5 ECTS) Portfolio 
+Supply Chain Analytics (5 ECTS) Klausur 
+Tourismusmanagement (5 ECTS) Portfolio 
+Understanding Organizations (5 ECTS) ab SoSe27 
+ 
+ 
+3. Modulangebot im Major Financial Management (Koordinator: Prof. Dr. Reinald 
+Koch) 
+ 
+Wahlpflichtkurse 
+ 
+Grundlagen der internationalen Rechnungslegung1 (5 ECTS) Klausur 
+Grundlagen des Controlling1 (5 ECTS) Klausur 
+Kapitalmarkttheorie1 (5 ECTS) Klausur 
+Steuerbilanzen und Rechtsformwahl1 (5 ECTS) Klausur 
+Behavioral Finance (5 ECTS) Klausur 
+Company Taxation in the EU: Towards more Fairness and Sustainability (5 ECTS) Klausur 
+Corporate Governance (5 ECTS) Klausur 
+Data Sciene in Finance mit Python (5 ECTS) Portfolio 
+Geldpolitik (5 ECTS) Klausur 
+Konzernrechnungslegung (5 ECTS) Klausur 
+Performance Measurement (5 ECTS) Klausur 
+Political Institutions, the Economy & Financial Markets (5 ECTS) Klausur 
+Seminar Sustainable Finance (5 ECTS) Paper / Vorträge 
+Sustainability@leading companies (5 ECTS) Portfolio 
+ 
+4. Major Supply Chain & Information Management (Koordinator: Prof. Dr. Heinrich 
+Kuhn) 
+ 
+Wahlpflichtkurse 
+Business Analytics & Data Mining1 (5 ECTS) Klausur 
+Operations Analytics1 (5 ECTS) Klausur 
+Retail Operations 1 (5 ECTS) Klausur 
+Software Engineering und Programmierung1 (5 ECTS) Klausur 
+Applied Machine Learning (5 ECTS) Klausur 
+Digitale und nachhaltige Geschäftsmodelle (5 ECTS) Klausur 
+Forschungs-Projektstudium (5 ECTS) Hausarbeit und Präsentation 
+Grundlagen des Controllings (5 ECTS) Klausur 
+Nachhaltigkeit durch Logistik und Informationsverarbeitung (VHB) (5 ECTS) Klausur 
+
+[Page 3]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Aus den gekennzeichneten Wahlpflichtmodulen sind drei aus vier Modulen zu belegen. Aus dem Wahlpflichtbereich 
+sind sechs Module auszuwählen. (Start Sommersemester 2023) 
+Software Tools for Simulation and Optimization (5 ECTS) 
+Supply Chain Analytics (5 ECTS) Klausur 
+Systementwicklung (5 ECTS) Klausur 
+Wirtschaft und Raum (5 ECTS) Klausur 
+ 
+ 
+6. Modulangebot im Minor Wirtschaftssprachen 
+ 
+Business Fiction (5 ECTS) Klausur, Term Paper, mündliche Prüfung 
+Current Business Topics (5 ECTS) Klausur, mündliche Prüfung 
+Comunicación en los negocios (5 ECTS) Klausur, mündliche Prüfung 
+Interkulturelle Kommunikation in der hispanischen Welt 
+(5 ECTS) Klausur, mündliche 
+Prüfung 
+Kulturen und Gesellschaften Lateinamerikas (5 ECTS) Klausur 
+Négociation professionelle (5 ECTS) Klausur, mündliche Prüfung 
+Thèmes économiques actuels (5 ECTS) Klausur, mündliche Prüfung 
+Wirtschaftssprache I (zusätzlich zu Grundstudium) (5 ECTS) Klausur, mündliche Prüfung 
+Wirtschaftssprache II (zusätzlich zu Grundstudium) (5 ECTS) Klausur, mündliche Prüfung 
+ 
+ 
+7. Modulangebot im Minor Wirtschaftsethik 
+ 
+Fallstudien zur Unternehmensethik (VHB) (5 ECTS) Portfolio 
+Social Market Economy (5 ECTS) Klausur 
+Sustainability@leading companies (5 ECTS) Portfolio 
+Sozialpolitik (5 ECTS) Klausur 
+ 
+8. Modulangebot im Minor Quantitative Methoden und Digitalisierung 
+ 
+Business Analytics & Data Mining (5 ECTS) Klausur 
+Rechnergestützte Statistik mit R (5 ECTS) Klausur (nicht im Sommer 26) 
+Software Engineering und Programmierung (5 ECTS) Klausur 
+Systementwicklung (5 ECTS) Klausur 
+ 
+9. Modulangebot im Minor Economics 
+ 
+Arbeitsmarktökonomik (5 ECTS) Klausur 
+Ausgewählte Probleme der Finanzwissenschaft (VHB) (5 ECTS) Klausur, schriftliche Hausarbeit 
+Geldpolitik (5 ECTS) Klausur 
+Political Institutions, the Economy & Financial Markets (5 ECTS) Klausur 
+Sozialpolitik (5 ECTS) Klausur

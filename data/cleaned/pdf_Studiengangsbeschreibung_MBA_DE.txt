@@ -1,0 +1,719 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_MBA_DE.pdf
+TITLE: Studiengangsbeschreibung_MBA_DE.pdf
+SOURCE_FILE: Studiengangsbeschreibung_MBA_DE.pdf
+------------------------------------------------------------
+
+[Page 1]
+Stand 1 – Juli 2021 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Studiengangsbeschreibung für den 
+Master of Business Administration (MBA) 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+ 
+ 
+
+[Page 2]
+Stand 1 – Juli 2021 
+ 
+ 
+2 
+Inhalt 
+ 
+A. Allgemeine Struktur des Studiengangs 
+.................................................. 
+3 
+B. Beschreibung des Studiengangs 
+.......................................................... 
+5 
+1. Der Studiengang in drei Sätzen 
+........................................................ 
+5 
+2. Zusammenfassung des Studiengangs ................................................. 
+5 
+3. Zielgruppe ................................................................................ 
+5 
+C. Studiengangskonzept ...................................................................... 
+6 
+1. Struktur des Studiengangs ............................................................. 
+6 
+1.1. Zugangs-/Zulassungsvoraussetzungen und Auswahlverfahren ............... 
+6 
+1.2. Qualifikationsziele ................................................................. 
+7 
+1.3. Karrierewachstum in aktuellen Organisationen und zukünftige 
+Karrierechancen 
+............................................................................ 
+7 
+1.4. Möglichkeiten zur Weiterqualifizierung 
+......................................... 
+8 
+2. Aufbau des Studiengangs 
+............................................................... 
+8 
+2.1. Grundsätzlicher Aufbau des Studiengangs 
+...................................... 
+8 
+2.1.1. 
+Orientierungswochenende ....................................................... 
+8 
+2.1.2. 
+Kursmodule 
+......................................................................... 
+8 
+2.1.3. 
+Internationale Exkursion in das Silicon Valley und Exkursion in 
+Deutschland ................................................................................... 
+8 
+2.1.4. 
+Masterarbeit ....................................................................... 
+9 
+2.1.5. 
+Kamingespräche, Sprint-Learning-Sitzungen, Networking-Sitzungen ..... 
+9 
+2.2. 
+Module .................................................................................... 
+9 
+2.3. 
+Studium.Pro ............................................................................ 10 
+2.4. 
+Praxisbezug 
+............................................................................. 10 
+2.5. 
+Ausgestaltung der Internationalisierung ........................................... 10 
+3. Organisation von Studien und Prüfungen .......................................... 11 
+3.1. 
+Programmbeauftragte und Programmkoordination .............................. 11 
+3.2. 
+Beratung vor Studienbeginn und während des Studiums ........................ 11 
+4. Ausschreibungsverfahren 
+............................................................. 12 
+5. Qualitätssicherung und -kontrolle .................................................. 12 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre 
+............................................................................ 13 
+E. Idealtypischer Studienverlaufplan 
+..................................................... 14 
+ 
+ 
+
+[Page 3]
+Stand 1 – Juli 2021 
+ 
+ 
+3 
+ 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Name des Studiengangs: 
+ 
+Weiterbildungsstudiengang "Master of 
+Business Administration (MBA)" 
+ 
+Verantwortliche Fakultät: 
+ 
+Wirtschaftswissenschaftliche Fakultät 
+ 
+Akademischer Grad: 
+Master of Business Administration 
+ 
+Studienform: 
+ 
+☐ Vollzeitstudiengang 
+☒ Teilzeitstudiengang 
+☐ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+ 
+☐ grundständig 
+☐ konsekutiv 
+☒ weiterbildend 
+ 
+Wissenschaftliche/Praktische 
+Orientierung: 
+(nur bei Masterstudiengängen) 
+ 
+☒ eher anwendungsorientiert 
+☐ eher forschungsorientiert 
+Regelstudienzeit: 
+ Semester (Vollzeit) 
+ 
+4 Semester (Teilzeit) 
+ 
+Studienbeginn: 
+ 
+☐ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-
+Leistungspunkte: 
+90 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+☐ Nein 
+☒ Ja 
+ 
+
+[Page 4]
+Stand 1 – Juli 2021 
+ 
+ 
+4 
+Kosten pro Teilnehmer/in: 12.000 – 16.000€ (einschließlich Semesterbeitrag, 
+Lehrmaterial und Verpflegung, jedoch ohne die Kosten für Reise und Unterkunft 
+für die beiden Exkursionen). 
+Die konkrete Gebührenhöhe und die Zahlungsmodalitäten werden in einer 
+Gebührenordnung für den MBA geregelt. Die Bezahlung der Gebühr ist 
+Voraussetzung für die Immatrikulation. 
+Studierende, die mehr als vier Semester studieren, müssen ab dem fünften 
+Semester den Semesterbeitrag selbst bezahlen. 
+ 
+ 
+ 
+ 
+
+[Page 5]
+Stand 1 – Juli 2021 
+ 
+ 
+5 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in drei Sätzen 
+Ziel des MBA-Programms an der WFI ist es, berufstätigen Studierenden ein 
+sachkundiges, ganzheitliches Verständnis der Betriebswirtschaft zu vermitteln, um 
+sie unabhängig von ihrem derzeitigen Funktionsbereich für zukünftige Top-
+Management- und Führungspositionen zu qualifizieren. Ein Unterscheidungs- und 
+Wettbewerbsmerkmal dieses Programms ist die Einbeziehung von zwei Exkursionen – 
+eine zum Silicon Valley und eine nach Deutschland, die Themen von besonderer 
+Bedeutung für das heutige Wirtschaftsleben behandelt werden. Das Programm ist 
+durch strenge wissenschaftliche Grundlagen, hohen Anwendungsbezug, eine starke 
+internationale Ausrichtung und eine besondere Betonung von Ethik und 
+Nachhaltigkeit im Geschäftsleben gekennzeichnet. 
+ 
+2. Zusammenfassung des Studiengangs 
+Organisationen jeder Größe und Art stehen vor einer Vielzahl komplexer Heraus-
+forderungen: Notwendigkeit der Anpassung bestehender Geschäftsmodelle, 
+Digitalisierung und sich schnell verändernde Technologien, globaler und lokaler 
+Wettbewerb, erhöhtes Risiko und Unklarheiten, die Etablierung und Einhaltung 
+ethischer und nachhaltiger Praktiken sowie die Vorbereitung auf die Zukunft der 
+Arbeit. Mehr denn je müssen Managerinnen und Manager und Führungskräfte ein 
+breites Spektrum an Fähigkeiten und Kompetenzen entwickeln, um diese 
+anhaltenden Herausforderungen zu bewältigen, da sich das Wesen des 
+Geschäftslebens rasch weiterentwickelt. 
+ 
+Der Weiterbildungsstudiengang "Master of Business Administration (MBA)" vermittelt 
+berufstätigen Studierenden die Denkweise und die Werkzeuge, um diese Heraus-
+forderungen erfolgreich zu meistern und Organisationen und Unternehmen zu leiten 
+und ihre Entwicklung zu gestalten. 
+ 
+Es handelt sich um ein Programm, das die "Breite" und das "allgemeine Management" 
+betont, anstatt sich auf einen spezialisierten Funktionsbereich der Betriebs-
+wirtschaft zu konzentrieren. Dieses Prinzip steht im Einklang mit einem MBA-
+Abschluss, der in Deutschland oder weltweit angeboten wird, da es auf ein 
+ganzheitliches Verständnis von Betriebswirtschaft ausgerichtet ist, mit dem Ziel, 
+hochinteressante Kandidatinnen und Kandidaten unabhängig vom aktuellen 
+Funktionsbereich für zukünftige Top-Management- und Führungspositionen zu 
+fördern. 
+ 
+Ein Unterscheidungs- und Wettbewerbsmerkmal dieses MBA-Programms ist die 
+Einbeziehung von zwei Exkursionen – eine in das Silicon Valley, mit einem Fokus auf 
+die Themen Digitalisierung, Scaling Up und neue Geschäftsmodelle, und eine zweite 
+innerhalb Deutschlands, die sich um die Themen globales Wachstum und 
+Wettbewerbsfähigkeit dreht. 
+ 
+3. Zielgruppe 
+Der Studiengang richtet sich an Führungskräfte und Berufstätige (Senior- oder Junior-
+Managerinnen und -Manager) aus allen Bereichen sowie kommunale, kirchliche und 
+
+[Page 6]
+Stand 1 – Juli 2021 
+ 
+ 
+6 
+gemeinnützige Organisationen und an Selbständige und Unternehmerinnen und 
+Unternehmer, die einen ersten Hochschulabschluss, ausreichende Berufserfahrung 
+(mindestens zwei Jahre) und gute Englischkenntnisse haben. 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen und Auswahlverfahren 
+Zum Studiengang „Master of Business Administration (MBA)" kann zugelassen 
+werden, wer 
+1. ein Kompetenzniveau von mindestens 210 ECTS-Punkten nachweist, die im 
+Rahmen eines ersten berufsqualifizierenden Hochschulabschlusses oder 
+gleichwertiger Zugangsvoraussetzungen erworben wurden, 
+2. eine qualifizierte berufspraktische Erfahrung von in der Regel nicht unter 
+zwei Jahren mit Aufgaben der Führung, Planung und Kontrolle nach 
+Abschluss des ersten Hochschulstudiums in privaten oder öffentlichen 
+Unternehmen, Verbänden, Verwaltungen oder kirchlichen Institutionen 
+nachweisen kann, 
+3. vor Beginn des ersten Semesters des MBA-Programms Englische 
+Sprachkenntnisse nachweisen kann. Akzeptierte Nachweise von 
+Englischkenntnissen sind – 
+TOEFL iBT: 90 oder höher, oder 
+IELTS: 6,5 oder höher, oder 
+Cambridge Zertifikat C1 Advanced 
+Andere englischsprachige Zertifikate können vorgelegt werden, wobei die 
+Auswahlkommission jedem Bewerber mitteilen wird ob die vorgelegten 
+Zertifikate ausreichend sind, oder ob der Bewerber einen der drei oben 
+aufgeführten Nachweise erbringen muss. Die Auswahlkommission kann 
+gegebenenfalls einen Intensiv-Sprachkurs vorschlagen, der von der 
+Fakultät vor Beginn des Semesters angeboten wird. 
+4. die Eignungsprüfung nach Maßgabe der Anlage 1 bestanden hat, und 
+5. Deutschkenntnisse auf dem Niveau von mindestens A2 nach dem 
+Gemeinsamen Europäischen Referenzrahmen für Sprachen nachweist; der 
+erforderliche Nachweis der Deutschkenntnisse erfolgt durch das 
+Reifezeugnis, einen einschlägigen ersten Studienabschluss, ein Goethe-
+Zertifikat A2 oder einen anderen qualifizierenden Nachweis und kann bis 
+zum Ende des zweiten Fachsemesters nachgeholt werden; die 
+Immatrikulation erfolgt bis dahin unter Vorbehalt. 
+1Die 
+erforderlichen 
+ECTS-Punkte 
+können 
+auch 
+in 
+studiengangsrelevanten 
+Fachgebieten durch das Abschließen von Modulen an Hochschulen oder durch die 
+Anerkennung entsprechender Vorkenntnisse im Rahmen einer qualifizierten 
+Berufstätigkeit im Umfang von bis zu 30 ECTS-Punkten nachgewiesen werden. 2Bis 
+zum Ende des ersten Studienjahres kann der Erwerb von bis zu 30 ECTS-Punkten 
+
+[Page 7]
+Stand 1 – Juli 2021 
+ 
+ 
+7 
+nachgeholt werden, die auf die 210 ECTS-Punkte nach Absatz 1 Nr. 1 angerechnet 
+werden; bis dahin ist die Einschreibung unter Vorbehalt möglich. 
+1.2. 
+Qualifikationsziele 
+Mehr denn je müssen Manager und Führungskräfte ein breites Spektrum an 
+Fähigkeiten und Kompetenzen entwickeln, um komplexe Herausforderungen zu 
+meistern, da sich die Art des Wirtschaftens rasch weiterentwickelt. Das Ziel des 
+Weiterbildungsprogramms "Master of Business Administration (MBA)" ist es, 
+berufstätigen Studierenden die Denkweise und die Werkzeuge zu vermitteln, um 
+komplexe geschäftliche Herausforderungen erfolgreich zu meistern und ihre 
+Organisationen und Unternehmen zu leiten und ihre Entwicklung zu gestalten. 
+ 
+Durch die Lehrveranstaltungen, die internationalen Exkursionen und extracurriculare 
+Aktivitäten betont das Programm "Breite" und "allgemeines Management", ähnlich 
+wie bei den renommiertesten MBA-Programmen, die in Deutschland oder weltweit 
+angeboten werden. Ziel ist es, den Studierenden ein ganzheitliches Verständnis von 
+Betriebswirtschaft zu vermitteln und sie unabhängig von ihrem aktuellen Fachgebiet 
+auf zukünftige Top-Management- und Führungspositionen vorzubereiten. 
+ 
+Das Programm ist ein eigenständiger Bestandteil des akademischen Lebens und der 
+Angebote der Wirtschaftswissenschaftlichen Fakultät der Katholischen Universität 
+Eichstätt-Ingolstadt. 
+ 
+MBA-Studierende ... 
+- werden befähigt, Führungs- und Fachaufgaben in einem nationalen und 
+internationalen Umfeld verantwortungsbewusst, sozial- und fachkompetent zu 
+erfüllen, 
+- lernen, wissenschaftliche Stringenz mit praxisorientiertem Denken zu verbinden, 
+- können die Führung bei der Entwicklung und Umsetzung ethischer und sozialer 
+Initiativen in ihren Organisationen übernehmen 
+- erwerben wichtige Soft Skills im kommunikativen Bereich, 
+- erwerben vertiefte Fremdsprachen- und interkulturelle Kompetenz in der 
+geschäftlichen und beruflichen Praxis, 
+- erweitern ihre Kenntnisse von Präsentationstechniken, Teamwork sowie Selbst- und 
+Zeitmanagement, 
+- lernen interdisziplinär zu denken und zu handeln. 
+ 
+1.3. 
+Karrierewachstum in aktuellen Organisationen und zukünftige 
+Karrierechancen 
+Das MBA-Programm soll den Studierenden eine beschleunigte Karriere in ihren 
+derzeitigen Organisationen ermöglichen und eine breite Palette zukünftiger 
+Karrieremöglichkeiten im Management eröffnen. 
+ 
+Insbesondere werden erfolgreiche Absolventinnen und Absolventen ... 
+- in der Lage sein, sich um Beförderungen innerhalb ihrer derzeitigen Organisationen 
+zu bewerben, 
+- in der Lage sein, eine verbesserte Fähigkeit zur Führung von Menschen und zum 
+Management 
+von 
+Produkten 
+und 
+Prozessen 
+innerhalb 
+ihrer 
+derzeitigen 
+Organisationen nachzuweisen, 
+
+[Page 8]
+Stand 1 – Juli 2021 
+ 
+ 
+8 
+- in der Lage sein, verbesserte Vertrautheit in der Arbeit mit und im Management 
+von funktionsübergreifenden Aufgaben innerhalb ihrer derzeitigen Organisationen zu 
+demonstrieren, 
+- in der Lage sein, strategische Initiativen für ihre derzeitigen Organisationen zu 
+entwickeln und umzusetzen, 
+- in der Lage sein, sich für eine Vielzahl von Management- und Führungspositionen in 
+einer Vielzahl von Branchen und Organisationen zu bewerben 
+ 
+1.4. 
+Möglichkeiten zur Weiterqualifizierung 
+Die Absolventinnen und Absolventen werden im Laufe ihres Studiums für die 
+Promotion qualifiziert. 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Der Studiengang besteht aus 5 Bausteinen, die im Folgenden beschrieben werden: 
+ 
+2.1.1. Orientierungswochenende 
+Die Teilnahme am Orientierungswochenende (Freitag und Samstag, jeweils 
+acht Stunden, plus ein Abendempfang am Freitag) wird den Studierenden 
+dringend empfohlen. Die Studierenden erhalten eine detaillierte Orientierung 
+über die vier Semester, werden allen Professorinnen und Professoren 
+vorgestellt und werden gebeten, an verschiedenen Aktivitäten teilzunehmen, 
+einschließlich solcher, die auf die Entwicklung von Kommunikations- und 
+Teamarbeitsfähigkeiten ausgerichtet sind. 
+ 
+2.1.2. Kursmodule 
+Es gibt 14 Lehrmodule in diesem Programm. Jedes Lehrmodul umfasst 5 ECTS-
+Punkte und konzentriert sich auf ein spezifisches Managementthema. Jedes 
+Modul hat vier Unterrichtstage, einschließlich Blended Learning, wobei es aus 
+mehreren Unterthemen bestehen kann. 
+ 
+2.1.3. Internationale Exkursion in das Silicon Valley und Exkursion in 
+Deutschland 
+Zwei der 14 Module bestehen aus Exkursionen (fünf volle Arbeitstage ohne 
+Reisetage), die intensives Lernen, Firmenbesuche und Präsentationen zur 
+globalen 
+Vernetzung 
+beinhalten. 
+Die 
+Studierenden 
+erhalten 
+Abschlusszertifikate, eines von der University of California at Davis für die 
+Silicon Valley-Exkursion und eines von den teilnehmenden Unternehmen in 
+Deutschland. 
+ 
+
+[Page 9]
+Stand 1 – Juli 2021 
+ 
+ 
+9 
+2.1.4. Masterarbeit 
+Im Rahmen der Master-Thesis (20 ECTS-Punkte) beschäftigen sich die 
+Studierenden mit einem aktuellen Projekt aus ihrem beruflichen Umfeld oder 
+ihrer aktuellen Organisation und haben so die Möglichkeit, das erworbene 
+Wissen in einem einzelnen Fachgebiet unter der Betreuung eines Professors 
+oder einer Professorin zu vertiefen. Die Master-Thesis kann nach dem Erwerb 
+von 40 ECTS-Punkten beginnen und muss bis zum Ende des vierten Semesters 
+abgeschlossen sein. 
+ 
+2.1.5. Kamingespräche, Sprint-Learning-Sitzungen, Networking-Sitzungen 
+Zusätzlich zu den Kursmodulen werden die Studierenden dringend 
+aufgefordert, an einer Reihe von extracurricularen Angeboten teilzunehmen, 
+die am Freitagabend - viermal pro Semester - stattfinden. Diese werden eine 
+Besonderheit dieses Studiengangs ausmachen und Expertinnen und Experten 
+wie KU/WFI-Alumni und Führungskräfte aus der Wirtschaft einbeziehen. 
+ 
+2.2. 
+Module 
+Die Module des Studiengangs sind in der Reihenfolge des Angebots aufgeführt: 
+ 
+Semester 1: 
+1. Firms, Markets and Money: Principles of Economics for Business 
+2. Innovation and Creativity in Management 
+3. Managing Operations and Supply Chains 
+4. Managing Markets, Products, and Consumers (Marketing) 
+ 
+März des ersten Jahres: 
+5. Global Immersion in the Silicon Valley: Digitalization, Scaling Up, and New 
+Business Models 
+ 
+Semester 2: 
+6. Financial and Managerial Accounting 
+7. Managing People and Organizations: Leadership, Power and Influence 
+8. Financial Management 
+9. Creating, Managing and Delivering Exceptional Service 
+ 
+
+[Page 10]
+Stand 1 – Juli 2021 
+ 
+ 
+10 
+ 
+Semester 3: 
+10. 
+Business Analytics for Insights 
+11. 
+Applied Economics for Decision Making in Business 
+12. 
+Business and Society: Ethics and Sustainability 
+13. 
+Seminar on Advanced Topics in Business Administration 
+ 
+März des zweiten Jahres: 
+14. 
+Business Immersion in Germany: Achieving Global Growth and 
+Competitiveness: 5 ECTS-Punkte; Modulprüfung: Präsentation und 
+Hausarbeit 
+ 
+Masterarbeit (20 ECTS) 
+! Grundsätzlich kann die Masterarbeit an jeder der am Studiengang beteiligten 
+Professuren angefertigt werden. 
+! Praktische Relevanz und für die Rolle des Studierenden oder der aktuellen 
+Arbeitgeberorganisation wird angestrebt. 
+ 
+2.3. 
+Studium.Pro 
+Fachintegrierte Implementierung im Umfang von 5 ECTS-Punkten: Modul Business 
+and Society: Ethics and Sustainability 
+ 
+2.4. Praxisbezug 
+Der MBA-Abschluss ist für Berufstätige gedacht, und daher sind alle Programminhalte 
+so konzipiert, dass sie praktische und angewandte Managementfähigkeiten fördern. 
+ 
+Darüber hinaus wird dringend empfohlen, dass MBA-Studierende ihre Master-Thesis 
+in Zusammenarbeit mit ihren aktuellen Organisationen über ein wesentliches 
+Geschäftsproblem oder eine Frage schreiben, mit der die Organisation konfrontiert 
+ist. 
+ 
+ 
+2.5. Ausgestaltung der Internationalisierung 
+Das MBA-Programm trägt zur Internationalisierungsstrategie von KU und WFI bei, 
+indem 
+- 
+alle Programminhalte in englischer Sprache angeboten werden, 
+
+[Page 11]
+Stand 1 – Juli 2021 
+ 
+ 
+11 
+- 
+globales Eintauchen in einen internationalen Unternehmensstandort mit 
+vielfältigen Geschäftskontexten und Kontakt zu internationalen Lehrenden 
+und Führungskräften aus der Wirtschaft ermöglicht wird, 
+- 
+Abschlusszertifikate für die beiden Exkursionen, eines von der University of 
+California at Davis (Exkursion im Silicon Valley) und eines von Führungskräften 
+aus internationalen Unternehmen in Deutschland, verliehen werden. 
+ 
+3. Organisation von Studien und Prüfungen 
+ 
+3.1. 
+Programmbeauftragte und Programmkoordination 
+! Der Programmkoordinator (oder akademische Direktor): 
+Prof. Dr. Shashi Matta KU / WFI 
+! Beirat: Es wird ein Beirat eingerichtet, der Input zu den Programminhalten 
+und zukünftigen Weiterentwicklung des Studiengangs liefern soll. Dieser 
+Beirat wird auf Einladung gebildet und besteht aus einer Mischung von WFI-
+Professorinnen und -Professoren, KU/WFI-Alumni und Führungskräften aus 
+der Wirtschaft. Die Mitgliedschaft in diesem Beirat wird durch den 
+Fakultätsrat genehmigt, bevor die Einladungen an potenzielle Mitglieder 
+verschickt werden. 
+! Es wird ein Prüfungsausschuss eingerichtet, der den ordnungsgemäßen 
+Ablauf des Studiums und insbesondere der anstehenden Prüfungen 
+sicherstellen soll. Dieser Prüfungsausschuss besteht aus zwei Professoren 
+und Professorinnen, die aus dem Kreis der hauptamtlichen Professoren der 
+Wirtschaftswissenschaftlichen Fakultät Ingolstadt gewählt werden, sowie 
+dem Programmkoordinator oder der Programmkoordinatorin. Der 
+Fakultätsrat der WFI ernennt einen Vertreter oder eine Vertreterin des 
+wissenschaftlichen Personals, der oder die dem Fakultätsrat mit beratender 
+Stimme angehört. Der Prüfungsausschuss überwacht die Einhaltung der 
+Studien- und Prüfungsordnung, entscheidet über die inhaltliche und formale 
+Gestaltung des Studiengangs und bestellt die einzelnen Prüferinnen und 
+Prüfer. 
+ 
+3.2. 
+Beratung vor Studienbeginn und während des Studiums 
+Das Studienprogramm sowie die Beschreibung der Inhalte und Ziele werden sowohl 
+im Internet als auch in Form von Informationsmaterial präsentiert. Ein 
+Programmführer wird auf der MBA-Website zur Verfügung gestellt, und für jedes 
+Semester werden Veranstaltungsinformationen in digitaler Form angeboten. Der 
+Programmkoordinator wird für Beratungsfragen zur Verfügung stehen. 
+ 
+
+[Page 12]
+Stand 1 – Juli 2021 
+ 
+ 
+12 
+4. Ausschreibungsverfahren 
+Das MBA-Programm wird in den einschlägigen nationalen und regionalen Medien 
+beworben. Darüber hinaus wird der Studiengang durch digitales (Website, Social 
+Media) und gedrucktes Informationsmaterial bekannt gemacht, das von der Studien-
+gangsleitung und der zentralen Studienberatung der Katholischen Universität 
+Eichstätt-Ingolstadt verteilt wird. 
+ 
+5. Qualitätssicherung und -kontrolle 
+Interne und externe Evaluationen werden durchgeführt, um die Qualität des MBA-
+Programms sicherzustellen und zu kontrollieren. 
+Alle Komponenten des Programms, einschließlich der Kurse und extracurriculuaren 
+Aktivitäten, werden von den Studierenden bewertet. Die Ergebnisse der 
+Evaluierungen 
+werden 
+in 
+geeigneter 
+Form 
+veröffentlicht 
+und 
+bei 
+der 
+Weiterentwicklung und Umsetzung des Programms berücksichtigt. Ein detailliertes 
+und systematisches Evaluationsverfahren wird vom Beirat entwickelt und im 
+gesamten Programm umgesetzt. 
+ 
+
+[Page 13]
+Stand 1 – Juli 2021 
+ 
+ 
+13 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage 
+des Leitbilds für Studium und Lehre 
+ 
+- Der Studiengang verbindet einen hohen wissenschaftlichen Anspruch mit 
+konsequenter Praxisorientierung 
+- Es handelt sich um ein Weiterbildungsprogramm, das sich an berufstätige 
+Fachleute in der Industrie richtet und das Profil der KU in diesem Bereich, der 
+derzeit noch nicht ausreichend entwickelt ist, stärken wird. 
+- Unterstützung der Persönlichkeitsentwicklung in einer starken Gewichtung der 
+Wirtschafts- und Unternehmensethik im Curriculum 
+- Dieses Programm beinhaltet Blended Learning und kann als Modell für die 
+Entwicklung zukünftiger Studienprogramme mit Blended Learning an der KU 
+dienen. 
+ 
+ 
+ 
+
+[Page 14]
+Stand 1 – Juli 2021 
+ 
+ 
+14 
+ 
+E. Idealtypischer Studienverlaufplan 
+ 
+ 
+Semester 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+Masterarbeit 
+(20 ECTS) 
+ 
+ 
+20 
+ECTS-
+Punkte 
+3 
+Business 
+Analytics for 
+Insights 
+(5 ECTS) 
+Business and 
+Society: Ethics 
+and 
+Sustainability 
+(5 ECTS) 
+Applied 
+Economics 
+for Decision 
+Making in 
+Business 
+(5 ECTS) 
+Seminar on 
+Advanced 
+Topics in 
+Business 
+Administratio
+n 
+(5 ECTS) 
+Business 
+Immersion in 
+Germany: 
+Achieving Global 
+Growth and 
+Competitiveness 
+(5 ECTS) 
+25 
+ECTS-
+Punkte 
+2 
+Financial and 
+Managerial 
+Accounting 
+(5 ECTS) 
+Managing 
+People and 
+Organizations: 
+Leadership, 
+Power and 
+Influence 
+(5 ECTS) 
+Financial 
+Management 
+(5 ECTS) 
+Creating, 
+Managing and 
+Delivering 
+Exceptional 
+Service 
+(5 ECTS) 
+ 
+20 
+ECTS-
+Punkte 
+1 
+Firms, Markets 
+and Money: 
+Principles of 
+Economics for 
+Business 
+(5 ECTS) 
+Innovation and 
+Creativity in 
+Management 
+(5 ECTS) 
+Managing 
+Operations 
+and Supply 
+Chains 
+(5 ECTS) 
+Managing 
+Markets, 
+Products, and 
+Consumers 
+(5 ECTS) 
+Global Immersion 
+in the Silicon 
+Valley: 
+Digitalization, 
+Scaling Up, and 
+New Business 
+Models 
+(5 ECTS) 
+25 
+ECTS-
+Punkte

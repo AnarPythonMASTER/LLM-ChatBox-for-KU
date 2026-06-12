@@ -1,0 +1,199 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Latinistik_BA-Flex.pdf
+TITLE: Studienverlaufsplan_Latinistik_BA-Flex.pdf
+SOURCE_FILE: Studienverlaufsplan_Latinistik_BA-Flex.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anlage 1 zur Studiengangsbeschreibung 
+ 
+ 
+ 
+ 
+Latinistik im Profil Flexibler Bachelorstudiengang 
+ 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+WP Latinistik: 
+z.B. 
+Aufbaumodul 
+lat. Literatur 
+und 
+Literaturwiss. 
+III (5 ECTS-
+Punkte) 
+WP Latinistik: 
+z.B. 
+Projektmodul 
+Interdisziplinär
+e Forschung 
+(5 ECTS-
+Punkte) 
+Wissenschaft-
+liches 
+Kolloquium 
+zur 
+Bachelorarbeit 
+(5 ECTS-
+Punkte) 
+BA-Arbeit 
+(10 ECTS-Punkte) 
+Studium 
+Individuale 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+5 
+WP Latinistik: 
+z.B. 
+Aufbaumodul 
+lat. Literatur 
+und 
+Literaturwiss. 
+II (5 ECTS-
+Punkte) 
+WP Latinistik: 
+z.B. 
+Historische 
+Sprachwissen-
+schaft 
+(5 ECTS-
+Punkte) 
+Studium 
+Individuale 
+(5 ECTS-
+Punkte) 
+Studium 
+Individual
+e (5 
+ECTS-
+Punkte) 
+Studium 
+Individuale 
+(5 ECTS- 
+Punkte) 
+Studium 
+Individuale 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+4 
+Aufbaumodul 
+Lateinische Lit. 
+und Literaturw. I 
+(5 ECTS-
+Punkte) 
+WP Latinistik: 
+z.B. 
+Lateinische 
+Sprache: 
+Grundkurs IV 
+(5 ECTS-
+Punkte) 
+Studium.Pro 
+(5 ECTS-
+Punkte) 
+Fach 3 
+(5 ECTS-
+Punkte) 
+Fach 3 
+(5 ECTS-
+Punkte) 
+Studium 
+Individuale 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+3 
+WP Latinistik: 
+z.B. 
+Griechische 
+Literatur und 
+Literaturwiss. I 
+(5 ECTS-
+Punkte) 
+WP Latinistik: 
+z.B. 
+Lateinische 
+Sprache: 
+Grundkurs III 
+(5 ECTS-
+Punkte) 
+Praktikum 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 3 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+2 
+Grundfragen 
+der lat. 
+Literatur II 
+(5 ECTS-
+Punkte) 
+Lateinische 
+Sprache: 
+Grundkurs II 
+(5 ECTS-
+Punkte) 
+Studium.Pro 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 3 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+1 
+Grundfragen 
+der lat. 
+Literatur I 
+(5 ECTS-
+Punkte) 
+Lateinische 
+Sprache: 
+Grundkurs I 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 3 
+(5 ECTS-
+Punkte) 
+Fach 3 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte

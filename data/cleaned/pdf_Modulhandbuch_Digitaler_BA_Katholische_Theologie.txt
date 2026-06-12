@@ -1,0 +1,2039 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulhandbuch_Digitaler_BA_Katholische_Theologie.pdf
+TITLE: Modulhandbuch_Digitaler_BA_Katholische_Theologie.pdf
+SOURCE_FILE: Modulhandbuch_Digitaler_BA_Katholische_Theologie.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+1 
+ 
+ 
+ 
+Digitaler Bachelorstudiengang Katholische Theologie 
+Modulhandbuch 
+ 
+(genehmigte Fassung – Stand: 02.07.2024) 
+ 
+Inhaltsverzeichnis 
+Studienphase I: Theologische Grundlegung 
+............................................................ 2 
+M0 Wissenschaftliches Arbeiten in der Theologie ................................................................... 
+2 
+M1 Einführung ins theologische Denken 
+.................................................................................. 
+3 
+M2 Einführung in die Biblische Theologie ................................................................................ 
+4 
+M3 Einführung in die Kirchengeschichte .................................................................................. 
+5 
+M4 Einführung in die Systematische Theologie ....................................................................... 
+6 
+M5 Einführung in die Praktische Theologie 
+.............................................................................. 
+7 
+Studienphase II a: Theologie und Gesellschaft ....................................................... 8 
+Themenbereich: Christsein in Verantwortung .......................................................................... 
+8 
+M6 Lebenswelten – verantwortliches Handeln ........................................................................ 
+8 
+M7 Endlich leben – der Mensch, Gottes Schöpfung und die Herausforderungen der 
+Gegenwart 
+................................................................................................................................ 
+9 
+M8 Einflusssphären – Verhältnisbestimmungen von Kirche, Staat und Gesellschaft ............ 
+11 
+M9 Glaubensvollzüge – Leben und kirchliche Strukturen gestalten ...................................... 
+13 
+Themenbereich: Christentum und Kirche im Kontext 
+.............................................................. 15 
+M10 Kritische Zeitgenossenschaft – Glaube und religiöse Bildung in heutiger Kultur und 
+Gesellschaft ............................................................................................................................ 
+15 
+M11 Relationen – das Christentum in seinen interreligiösen Beziehungen ........................... 
+17 
+M12 Jesus Christus – seine Botschaft in Schrift und Verkündigung ....................................... 
+19 
+M13 Kirchenmodelle – Ansätze zeitgemäßer Pastoral und Liturgie ...................................... 
+21 
+Studienphase II b: Individuelle theologische Profilierung ..................................... 23 
+M14: Wahlpflichtbereich 
+....................................................................................................... 23 
+M14.1 Alte Sprachen .............................................................................................................. 
+23 
+M14.2 Vertiefung Biblische und Historische Theologie 
+.......................................................... 
+24 
+M14.3 Vertiefung Systematische und Praktische Theologie 
+.................................................. 
+25 
+M 15 Studium.Pro ................................................................................................................. 26 
+M16 Praktikum ..................................................................................................................... 27 
+M17 Bachelorarbeit .............................................................................................................. 28 
+ 
+ 
+ 
+
+[Page 2]
+2 
+ 
+Studienphase I: Theologische Grundlegung 
+ 
+M0 Wissenschaftliches Arbeiten in der Theologie 
+ 
+Modulbezeichnung: 
+Wissenschaftliches Arbeiten in der Theologie 
+Modulbezeichnung in Englisch: 
+Academic Working Skills in Theology 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Kirchengeschichte (Univ. Passau) und weitere Disziplinen 
+Modulverantwortung: 
+Prof. Dr. Christian Handschuh (Univ. Passau) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+4 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Wissenschaftliches Arbeiten in der Theologie“ 
+können die Studierenden… 
+- die Theologie als „Rede von Gott“ in ihrem wissenschaftlichen Anspruch und 
+ihrer individuell-spirituellen Wirklichkeit begründen, 
+- ihr digital strukturiertes Studium erfolgreich organisieren, 
+- die studienbegleitenden Institutionen und deren Bedeutung benennen, 
+- zu einem gegebenen Thema eigenständig Literatur recherchieren und 
+beschaffen, 
+- ein den wissenschaftlichen Ansprüchen genügendes Referat vorbereiten und 
+durchführen sowie eine schriftliche Hausarbeit verfassen, 
+- die einzelnen theologischen Fächer in ihrem Selbstverständnis sowie deren 
+Gesamtzusammenhang erläutern, 
+- das eigene Gottes- und Menschenbild in Auseinandersetzung mit anderen 
+Entwürfen und im Hinblick auf das Theologiestudium überprüfen und 
+bewerten. 
+Inhalte/Themen: 
+- Einführung in das Studium allgemein / Studienberatung 
+- Überblick über die Theologie und ihre Fächer 
+- Kennenlernen der studienbegleitenden Institutionen 
+- mündliche und schriftliche Studien- und Arbeitstechniken (z.B. 
+Bibliotheksrecherche, Bibliographieren, Referate, schriftliche Hausarbeiten) 
+- Berufsorientierung 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+--- 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Betreuungsseminar (entspricht 3 SWS; als digitales Lehr- und Lernangebot) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: Portfolio 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 1,5 ECTS-Punkte, entspricht 
+45 Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 1,5 ECTS-Punkte, entspricht 
+45 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 1 ECTS-Punkt, entspricht 30 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+Polyvalenz auf Modulebene: Zertifikat „Basisqualifikation Katholische Theologie – 
+digital“ 
+Turnus des Angebots: 
+WS 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+
+[Page 3]
+3 
+ 
+M1 Einführung ins theologische Denken 
+ 
+Modulbezeichnung: 
+Einführung ins theologische Denken 
+Modulbezeichnung in Englisch: 
+Introduction to Theological Thinking 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Philosophie, Fundamentaltheologie (Univ. Passau) 
+Modulverantwortung: 
+Prof. Dr. Markus Weißer (Univ. Passau) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+10 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Einführung ins theologische Denken“ können die 
+Studierenden… 
+- anhand von historischen und gegenwärtigen Texten der Geistesgeschichte 
+philosophische Grundfragen wiedergeben, 
+- verschiedene philosophiegeschichtliche Entwicklungen nachzeichnen und die 
+Vereinbarkeit von Glaube und Vernunft erklären, 
+- unterschiedliche Phasen der Religionskritik darlegen, 
+- die grundlegenden fundamentaltheologischen Fragen und Methoden auch 
+angesichts veränderter Rationalitätsvorstellungen erklären und beurteilen, 
+- verschiedene Zugänge zur Glaubensverantwortung sowie die sog. 
+Gottesbeweise (ontologisch, kosmologisch, teleologisch) innerhalb ihres 
+jeweiligen Entstehungskontextes erläutern sowie die kritischen 
+Gegenargumente bewerten. 
+Inhalte/Themen: 
+- 
+Einblick in grundlegende Methoden argumentativen, philosophischen Denkens 
+- 
+Vermittlung fundierter Kenntnisse der europäischen Geistes- und 
+Philosophiegeschichte 
+- 
+Verhältnis zwischen Philosophie und Theologie 
+- 
+Reflexion des Verhältnisses von Glaube und Vernunft anhand der Gottesfrage 
+(Gottesbeweise) 
+- 
+Auseinandersetzung mit philosophischer Religionskritik 
+- 
+Geschichte, Aufgaben, Methoden und Ansätze der Fundamentaltheologie 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+--- 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Betreuungsseminar (entspricht 4 SWS; als digitales Lehr- und Lernangebot) 
+Vertiefungsseminar (entspricht 2 SWS, als vorwiegend als digitales Lehr- und 
+Lernangebot; etwaige präsentische Anteile gem. Ankündigung) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: mündliche Prüfung 
+(20 Min.) 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 3 ECTS-Punkte, entspricht 90 
+Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 4,5 ECTS-Punkte, entspricht 
+135 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2,5 ECTS-Punkte, entspricht 75 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+Polyvalenz auf Modulebene: Zertifikat „Basisqualifikation Katholische Theologie – 
+digital“ 
+Turnus des Angebots: 
+WS 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+
+[Page 4]
+4 
+ 
+M2 Einführung in die Biblische Theologie 
+ 
+Modulbezeichnung: 
+Einführung in die Biblische Theologie 
+Modulbezeichnung in Englisch: 
+Introduction to Biblical Theology 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Exegese und Biblische Theologie, Alttestamentliche und Neutestamentliche 
+Wissenschaft (Univ. Passau) 
+Modulverantwortung: 
+Prof. Dr. Sandra Huebenthal (Univ. Passau) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-Punkte): 
+12 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Einführung in die Biblische Theologie“ können 
+die Studierenden… 
+- zu verschiedenen hermeneutischen Modellen der Interpretation des Alten und 
+Neuen Testaments Stellung nehmen, 
+- methodische Grundkenntnisse auf biblische Texte und ihre Auslegung 
+anwenden, 
+- biblische Zeit- und Sozialgeschichte sowie bibelkundliches Basiswissen über 
+ausgewählte Schriften des Alten und Neuen Testaments darstellen und 
+erläutern, 
+- die theologischen Grundkonzeptionen alt- und neutestamentlicher Theologien 
+darstellen und miteinander vergleichen, 
+- und so wesentliche Grundzüge der Botschaft des Alten und Neuen Testaments 
+darstellen. 
+Inhalte/Themen: 
+- Grundlegende Kenntnisse von hermeneutischen Modellen und Methoden 
+biblischer Exegese 
+- zeit- und sozialgeschichtliche Kontexte und Entstehung ausgewählter alt- und 
+neutestamentlichen Schriften sowie deren theologische Aussagen 
+- Einführung in die Schriften des Alten Testaments und Neuen Testaments: in 
+den Pentateuch, ausgewählte Bücher aus den Geschichtsbüchern, den 
+prophetischen und den weisheitlichen Schriften, in die Evangelien, die 
+Apostelgeschichte, in eine Auswahl der paulinischen und nicht-paulinischen 
+Briefe sowie in die Offenbarung des Johannes 
+- theologische Grundkonzeptionen des Alten und des Neuen Testaments 
+Formale Voraussetzungen für die 
+Teilnahme: 
+--- 
+Empfohlene Voraussetzungen für 
+die Teilnahme: 
+--- 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Kontaktstudium: Seminar Hermeneutik und Methodik (1 SWS, WS); Seminar 
+Altes Testament (2 SWS, WS); Seminar Neues Testament (2 SWS, SoSe) 
+Selbststudium: Digitale Lehr- und Lernformate (Hermeneutik und Methoden, 1,5 
+ECTS-Punkte / Altes Testament, 3 ECTS-Punkte / Neues Testament, 3 ECTS-
+Punkte) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: Portfolio oder 
+mündliche Prüfung (20 Min.) 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 2,5 ECTS-Punkte, entspricht 
+75 Stunden 
+- 
+Selbststudium, Vor- und Nachbereitung der Veranstaltungen (umfasst 
+Studienleistungen), insbesondere via digitale Lehr- und Lernformate: 7,5 
+ECTS-Punkte, entspricht 225 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2 ECTS-Punkte, entspricht 60 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+Polyvalenz auf Modulebene: Zertifikat „Basisqualifikation Katholische Theologie 
+– digital“ 
+Turnus des Angebots: 
+WS und SoSe 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+
+[Page 5]
+5 
+ 
+M3 Einführung in die Kirchengeschichte 
+ 
+Modulbezeichnung: 
+Einführung in die Kirchengeschichte 
+Modulbezeichnung in Englisch: 
+Introduction to Church History 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Alte Kirchengeschichte und Patrologie, Mittlere und Neue Kirchengeschichte, 
+Kirchengeschichte und christliche Identitäten (Univ. Passau) 
+Modulverantwortung: 
+Prof. Dr. Christian Handschuh (Univ. Passau) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+10 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Einführung in die Kirchengeschichte“ können die 
+Studierenden… 
+- 
+auf der fachwissenschaftlichen Ebene die zentralen Epochen der 
+Kirchengeschichte von der Antike bis zum 19. Jahrhundert in ihren 
+kulturgeschichtlichen Zusammenhängen entwickeln und die Faktoren Staat, 
+Kirche, Gesellschaft, Theologie und Frömmigkeit zueinander vernetzt in ihrer 
+Wechselwirkung erklären, 
+- 
+das Selbstverständnis der Kirchengeschichte als Fach skizzieren, die Methodik 
+des Faches benennen und erklären sowie an einem Beispiel exemplarisch 
+anwenden, 
+- 
+anhand eines epochenübergreifenden exemplarischen Beispiels 
+Zusammenhänge zwischen kirchenhistorischer Epochenstruktur und 
+kirchenhistorischem Längsschnittthema identifizieren und aufzeigen. 
+Inhalte/Themen: 
+- 
+Anfänge und Ausbreitung des Christentums im Altertum und Mittelalter 
+- 
+Entstehung und Entwicklung der kirchlichen Ämter und Dienste sowie Theorie 
+und Praxis der kirchlichen Einheit im Altertum 
+- 
+kulturgeschichtliches Verständnis von Religion und Kirche in den Epochen 
+- 
+Entwicklung von Frömmigkeit, Theologie und Kirchenstruktur bis zur Neuzeit 
+- 
+Methodik und Hermeneutik der Kirchengeschichte 
+- 
+ein exemplarisches Längsschnittthema 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+--- 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Betreuungsseminar (entspricht 4 SWS; als digitales Lehr- und Lernangebot) 
+Vertiefungsseminar (entspricht 2 SWS; als vorwiegend als digitales Lehr- und 
+Lernangebot; etwaige präsentische Anteile gem. Ankündigung) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: Portfolio oder 
+mündliche Prüfung (20 Min.) 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 3 ECTS-Punkte, entspricht 90 
+Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 4,5 ECTS-Punkte, entspricht 
+135 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2,5 ECTS-Punkte, entspricht 75 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+Polyvalenz auf Modulebene: Zertifikat „Basisqualifikation Katholische Theologie – 
+digital“ 
+Turnus des Angebots: 
+WS 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+
+[Page 6]
+6 
+ 
+M4 Einführung in die Systematische Theologie 
+ 
+Modulbezeichnung: 
+Einführung in die Systematische Theologie 
+Modulbezeichnung in Englisch: 
+Introduction to Systematic Theology 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Dogmatik, Moraltheologie, Christliche Sozialethik (Univ. Passau) 
+Modulverantwortung: 
+Prof. Dr. Bernhard Bleyer (Univ. Passau) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+12 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Einführung in die systematische Theologie“ 
+können die Studierenden… 
+- die geschichtliche Entwicklung des biblischen Gottesverständnisses darstellen, 
+- Grundbegriffe, Themen und Methoden der beteiligten systematisch-
+theologischen Fächer darstellen und erklären, 
+- die inhaltliche Vielfalt und Einheit der Theologie, ihre methodische 
+Komplexität sowie die Intention systematischer Theologie reflektiert erläutern, 
+- den Unterschied zwischen Handlungs- und Glaubenstheorie erklären, 
+- die Bedeutung von Humanwissenschaften für den systematisch-theologischen 
+Diskurs begründen, 
+- die Bedeutung des Wortes „Gott“ reflektieren und differenziert erläutern, 
+- die Bedeutung Jesu für den christlichen Glauben differenziert erklären. 
+Inhalte/Themen: 
+- 
+Grundbegriffe und Grundthemen der Moraltheologie 
+- 
+Grundbegriffe und Grundthemen der Sozialethik 
+- 
+Einführung in die Dogmatik und Dogmengeschichte 
+- 
+Grundzüge des biblischen Gottesverständnisses 
+- 
+Grundlagen der Gotteslehre, Christologie und Soteriologie 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+--- 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Betreuungsseminar (entspricht 4 SWS; als digitales Lehr- und Lernangebot) 
+Vertiefungsseminar (entspricht 2 SWS; als vorwiegend als digitales Lehr- und 
+Lernangebot; etwaige präsentische Anteile gem. Ankündigung) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: mündliche Prüfung 
+(20 Min.) 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 2,5 ECTS-Punkte, entspricht 
+75 Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltungen (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 7 ECTS-Punkte, entspricht 
+210 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2,5 ECTS-Punkte, entspricht 75 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+Polyvalenz auf Modulebene: Zertifikat „Basisqualifikation Katholische Theologie – 
+digital“ 
+Turnus des Angebots: 
+SoSe 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+ 
+
+[Page 7]
+7 
+ 
+M5 Einführung in die Praktische Theologie 
+ 
+Modulbezeichnung: 
+Einführung in die Praktische Theologie 
+Modulbezeichnung in Englisch: 
+Introduction to Practical Theology 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Kirchenrecht, Liturgiewissenschaft, Pastoraltheologie, Religionspädagogik (KU) 
+Modulverantwortung: 
+Prof. Dr. Rafael Rieger (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+12 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Einführung in die Praktische Theologie“ können 
+die Studierenden die praktisch-theologischen Fächer Kirchenrecht, 
+Liturgiewissenschaft, Religionspädagogik und Katechetik, Pastoraltheologie in 
+ihrer inhaltlichen und methodischen Eigenart und ihrem spezifischen Bezug auf 
+Praxis charakterisieren, insbesondere… 
+- die Relevanz der kirchlichen Rechtsordnung für das Leben der Kirche erkennen 
+und begründen, 
+- die Dimensionen des Faches Liturgiewissenschaft darstellen und 
+liturgiewissenschaftliche Grundkenntnisse auf die gottesdienstliche Praxis 
+anwenden, 
+- geschichtliche Entwicklungen und wissenschaftliche Grundlagen von 
+Pastoraltheologie und Religionspädagogik skizzieren, 
+- die Bedingungen, Chancen und Grenzen unterschiedlicher religiöser Lernorte 
+(z.B. Familie, Jugendarbeit, Jugendkirchen, Sakramentenkatechese, Gemeinde, 
+Erwachsenenbildung, Öffentlichkeit) beurteilen. 
+Inhalte/Themen: 
+- 
+rechtliche Rahmenbedingungen zentraler kirchlicher Handlungsfelder 
+- 
+liturgiewissenschaftliche Grundlagen am Beispiel des Kirchenjahres 
+- 
+Profile unterschiedlicher religiöser Lernorte 
+- 
+ausgewählte Themen zur Geschichte und zu den Methoden der 
+Pastoraltheologie 
+- 
+Basismethoden, -inhalte und Praxiselemente von Pastoraltheologie 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene 
+Voraussetzungen 
+für die Teilnahme: 
+--- 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- 
+und 
+Lernformen/ 
+Lehrveranstaltungstypen: 
+Betreuungsseminar (entspricht 4 SWS; als digitales Lehr- und Lernangebot) 
+Vertiefungsseminar (entspricht 2 SWS; als vorwiegend als digitales Lehr- und 
+Lernangebot; etwaige präsentische Anteile gem. Ankündigung) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen 
+für 
+die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: Portfolio oder 
+mündliche Prüfung (20 Min.) 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 3 ECTS-Punkte, entspricht 90 
+Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltungen (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 6,5 ECTS-Punkte, entspricht 
+195 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2,5 ECTS-Punkte, entspricht 75 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+Polyvalenz auf Modulebene: Zertifikat „Basisqualifikation Katholische Theologie – 
+digital“ 
+Turnus des Angebots: 
+SoSe 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+
+[Page 8]
+8 
+ 
+Studienphase II a: Theologie und Gesellschaft 
+Themenbereich: Christsein in Verantwortung 
+ 
+M6 Lebenswelten – verantwortliches Handeln 
+ 
+Modulbezeichnung: 
+Lebenswelten – verantwortliches Handeln 
+Modulbezeichnung in Englisch: 
+Living Worlds – Responsible Acting 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Philosophische Grundfragen der Theologie, Moraltheologie (KU) 
+Modulverantwortung: 
+Prof. Dr. Markus Riedenauer (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+10 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Lebenswelten – verantwortliches Handeln“ 
+können die Studierenden gegenwärtige Lebenswelten aus Perspektive der 
+philosophischen und theologischen Ethik kritisch bewerten, indem sie… 
+- ethische Fragen und Probleme analysieren und verschiedene Lösungsansätze 
+begründen, 
+- philosophische und spezifisch christliche ethische Prinzipien und Ansätze 
+verstehen und vergleichend diskutieren, 
+- grundlagen- wie anwendungstheoretische Herausforderungen im Bereich der 
+Lebens- und Beziehungsethik theologisch-ethisch reflektieren. 
+Inhalte/Themen: 
+- 
+klassische ethische Ansätze: Eudaimonia, Strebens- und Tugendethik 
+- 
+Kardinaltugenden und theologische Tugenden 
+- 
+verschiedene Arten der Normativität (Ordnung der lex) 
+- 
+deontologische und utilitaristische Ethik 
+- 
+Diskursethik und angewandte Ethik 
+- zentrale wie aktuelle grundlagen- und anwendungstheoretische 
+Herausforderungen im Bereich der Lebens- und Beziehungsethik, 
+- exemplarische Themenfelder, bspw. Sexualität, Möglichkeiten der Medizin, 
+Sterbehilfe u.ä. 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+Absolvierung der Module in der Theologischen Grundlegung (M 0 - M 5) 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Beratungsseminar (entspricht 2 SWS; als digitales Lehr- und Lernangebot) 
+Vertiefungsseminar (entspricht 2 SWS; als vorwiegend als digitales Lehr- und 
+Lernangebot; etwaige präsentische Anteile gem. Ankündigung) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: Portfolio oder 
+mündliche Prüfung (20 Min.) 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 2 ECTS-Punkte, entspricht 
+60 Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 5,5 ECTS-Punkte, entspricht 
+165 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2,5 ECTS-Punkte, entspricht 75 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+--- 
+Turnus des Angebots: 
+WS 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+
+[Page 9]
+9 
+ 
+M7 Endlich leben – der Mensch, Gottes Schöpfung und die Herausforderungen der 
+Gegenwart 
+ 
+Modulbezeichnung: 
+Endlich leben – der Mensch, Gottes Schöpfung und die Herausforderungen der 
+Gegenwart 
+Modulbezeichnung in Englisch: 
+Life’s Finitude – Man, God’s creation and Today’s Challenges 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Alttestamentliche Wissenschaft, Dogmatik, Theologie in Transformationsprozessen 
+der Gegenwart (KU) 
+Modulverantwortung: 
+Prof. Dr. Martin Kirschner (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+10 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Endlich leben – der Mensch, Gottes Schöpfung 
+und die Herausforderungen der Gegenwart“ können die Studierenden anhand eines 
+interdisziplinär behandelten Problemfeldes entsprechende Themen theologisch 
+erklären, analysieren und bewerten, indem sie… 
+- 
+zeitgeschichtliche und landeskundliche Hintergründe des Alten Testaments 
+benennen und ihre Bedeutung für die Auslegung anthropologisch und 
+schöpfungstheologisch relevanter biblischer Texte darstellen, 
+- 
+zentrale Begriffe, Problemstellungen und Positionen in der Schöpfungslehre 
+kennen und ihre Relevanz erläutern, 
+- 
+zentrale Begriffe der theologischen Anthropologie aufzeigen und erläutern, 
+- 
+wichtige Aspekte des biblischen Verständnisses von Mensch und Schöpfung 
+darstellen und auf entsprechende Texte anwenden, 
+- 
+eine reflektierte Darstellung der Stellung des Menschen in der Welt im Bezug 
+zur Transzendenz entwickeln, 
+- 
+in Auseinandersetzung mit Herausforderungen der Gegenwart den 
+Sinnhorizont christlichen Glaubens argumentativ erschließen. 
+Inhalte/Themen: 
+- 
+Aspekte biblischer Schöpfungstheologien und ihrer zeitgeschichtlichen und 
+landeskundlichen Bezüge 
+- 
+biblische Perspektiven auf den Menschen 
+- 
+grundlegende Kenntnis der dogmatischen Schöpfungslehre 
+- 
+Grundpositionen bzw. Begriffe theologischer Anthropologie 
+- 
+Reflexion der Stellung des Menschen in der Welt und seiner Umwelt im 
+Kontext der gegenwärtigen Herausforderungen, z.B. ökologische Krise, 
+Anthropozän, Posthumanismus 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+Absolvierung der Module in der Theologischen Grundlegung (M 0 - M 5), 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Beratungsseminar (entspricht 2 SWS; als digitales Lehr- und Lernangebot) 
+Vertiefungsseminar (entspricht 2 SWS; als vorwiegend als digitales Lehr- und 
+Lernangebot; etwaige präsentische Anteile gem. Ankündigung) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: Portfolio oder 
+mündliche Prüfung (20 Min.) 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 2 ECTS-Punkte, entspricht 
+60 Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 5,5 ECTS-Punkte, entspricht 
+165 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2,5 ECTS-Punkte, entspricht 75 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+--- 
+
+[Page 10]
+10 
+ 
+gängen/Hinweise zur 
+Zugänglichkeit: 
+Turnus des Angebots: 
+WS 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+ 
+
+[Page 11]
+11 
+ 
+M8 Einflusssphären – Verhältnisbestimmungen von Kirche, Staat und Gesellschaft 
+ 
+Modulbezeichnung: 
+Einflusssphären – Verhältnisbestimmungen von Kirche, Staat und Gesellschaft 
+Modulbezeichnung in Englisch: 
+Spheres of Influence – Determining the Relationship between Church, State and 
+Society 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Alte Kirchengeschichte und Patrologie, Mittlere und Neue Kirchengeschichte, 
+Christliche Sozialethik (KU) 
+Modulverantwortung: 
+Prof. Dr. Bernward Schmidt (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+10 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des „Einflusssphären – Verhältnisbestimmungen von Kirche, 
+Staat und Gesellschaft“ können die Studierenden Wege christlichen Lebens und 
+Denkens aus kirchengeschichtlicher und systematischer Perspektive und 
+entsprechende Wechselwirkungen mit Staat und Gesellschaft reflektieren, indem 
+sie… 
+- exemplarisch das Verhältnis zwischen Kirche, Gesellschaft und Staat im 
+christlichen Altertum darstellen, 
+- die mittelalterliche und neuzeitliche Kirche-Gesellschaft-Staat-Problematik 
+historisch fundiert erläutern, 
+- ausgewählte Schwerpunkte des Verhältnisses von Kirche, Gesellschaft und 
+Staat im 20. Jahrhundert erörtern, 
+- Grundkenntnisse kirchlicher und verbandlicher Positionen, die Prinzipien und 
+Argumentationsformen der christlichen Sozialethik in konkrete gesellschaftlich 
+relevante Bereiche übertragen, 
+- anhand der Ergebnisse der Wirtschafts- und Sozialwissenschaften erworbene 
+sozialethische Sprachfähigkeit auf aktuelle Themenfelder anwenden. 
+Inhalte/Themen: 
+- 
+Kirche und Staat zwischen Konfrontation und Kooperation im christlichen 
+Altertum 
+- 
+ausgewählte Schwerpunkte des Verhältnisses von Kirche, Gesellschaft und 
+Staat im Laufe der mittleren und neuen Kirchengeschichte, 
+- 
+ausgewählte Schwerpunkte des Verhältnisses von Kirche, Gesellschaft und 
+Staat im 20. Jahrhundert 
+- 
+Begründung der Würde der menschlichen Person, Menschenrechte 
+- 
+Grundlagen der Friedens- und Konfliktethik 
+- 
+Sozialethik der Lebensformen, bspw. Ethik von Familie 
+- 
+Gerechtigkeit und Gemeinwohl: Kriterien für die strukturelle und 
+institutionelle Gestaltung gelingenden Zusammenlebens 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+Absolvierung der Module in der Theologischen Grundlegung (M 0 - M 5) 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Beratungsseminar (entspricht 2 SWS; als digitales Lehr- und Lernangebot, je 1 
+SWS im WS und SoSe) 
+Vertiefungsseminar (entspricht 2 SWS, als vorwiegend als digitales Lehr- und 
+Lernangebot; etwaige präsentische Anteile gem. Ankündigung, SoSe) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: Portfolio oder 
+Klausur (120 Min., ggf. in Form einer Thesen-/Textdiskussion) 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 2 ECTS-Punkte, entspricht 
+60 Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 5,5 ECTS-Punkte, entspricht 
+165 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2,5 ECTS-Punkte, entspricht 75 Stunden 
+
+[Page 12]
+12 
+ 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+--- 
+Turnus des Angebots: 
+WS und SoSe 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+
+[Page 13]
+13 
+ 
+M9 Glaubensvollzüge – Leben und kirchliche Strukturen gestalten 
+ 
+Modulbezeichnung: 
+Glaubensvollzüge – Leben und kirchliche Strukturen gestalten 
+Modulbezeichnung in Englisch: 
+Performing Faith – Shaping Life and Ecclesiastical Structures 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Neutestamentliche Wissenschaft, Kirchenrecht (KU) 
+Modulverantwortung: 
+Prof. Dr. Rafael Rieger (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+10 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Glaubensvollzüge – Leben und kirchliche 
+Strukturen gestalten“ können die Studierenden unterschiedliche Dimensionen und 
+Vollzüge des Glaubenslebens des Einzelnen und der Kirche unter biblischen und 
+praktischen Gesichtspunkten analysieren und reflektieren, indem sie… 
+- 
+das Verhältnis von Glaube und Offenbarung in biblischer Perspektive 
+darstellen und erläutern, 
+- 
+Aspekte des neutestamentlichen Glaubensverständnisses aus den biblischen 
+Texten entwickeln sowie den Zusammenhang von Glauben, Leben und 
+kirchlicher Gemeinschaft in neutestamentlicher Perspektive differenziert 
+erörtern, 
+- 
+die Anfänge kirchlicher Strukturen darstellen und die Vielfalt frühchristlicher 
+Gemeindemodelle vergleichen und im Hinblick auf deren Stärken und 
+Schwächen kritisch bewerten, 
+- 
+die Verfassungsstruktur der katholischen Kirche beschreiben und die 
+grundlegende Rolle der Pfarrei in der katholischen Kirchenstruktur erfassen, 
+- 
+aktuelle Möglichkeiten und Grenzen des Kirchenrechts in Bezug auf 
+Gemeinde- und Kirchenentwicklung reflektieren können. 
+Inhalte/Themen: 
+- 
+Interpretation neutestamentlicher und frühchristlicher Texte mit Bedeutung für 
+das Glaubensverständnis und das Kirchenbild 
+- 
+Entfaltung des Glaubens und der kirchlichen Strukturen in den frühchristlichen 
+Gemeinden 
+- 
+Zuordnung von christlichem Glaube und Gemeinschaft 
+- 
+Kirchenamt und Leitungsvollmacht, Laien und Kleriker 
+- 
+Pfarrei als konstitutives Element der Kirchenverfassung 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene 
+Voraussetzungen 
+für die Teilnahme: 
+Absolvierung der Module in der Theologischen Grundlegung (M 0 - M 5) 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- 
+und 
+Lernformen/ 
+Lehrveranstaltungstypen: 
+Beratungsseminar (entspricht 2 SWS; als digitales Lehr- und Lernangebot) 
+Vertiefungsseminar (entspricht 2 SWS; als vorwiegend als digitales Lehr- und 
+Lernangebot; etwaige präsentische Anteile gem. Ankündigung) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen 
+für 
+die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: Klausur (120 Min.) 
+oder mündliche Prüfung (20 Min.) 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 2 ECTS-Punkte, entspricht 
+60 Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 5,5 ECTS-Punkte, entspricht 
+165 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2,5 ECTS-Punkte, entspricht 75 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+--- 
+
+[Page 14]
+14 
+ 
+Zugänglichkeit: 
+Turnus des Angebots: 
+SoSe 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+ 
+
+[Page 15]
+15 
+ 
+Themenbereich: Christentum und Kirche im Kontext 
+ 
+M10 Kritische Zeitgenossenschaft – Glaube und religiöse Bildung in heutiger Kultur und 
+Gesellschaft 
+ 
+Modulbezeichnung: 
+Kritische Zeitgenossenschaft – Glaube und religiöse Bildung in heutiger Kultur und 
+Gesellschaft 
+Modulbezeichnung in Englisch: 
+Contemporary and Critical – Faith and Religious Education in Today’s Culture and 
+Society 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Theologie in Transformationsprozessen der Gegenwart, Religionspädagogik (KU) 
+Modulverantwortung: 
+Prof. Dr. Martin Kirschner (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+10 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Kritische Zeitgenossenschaft – Glaube und 
+religiöse Bildung in heutiger Kultur und Gesellschaft“ können die Studierenden 
+religionsbezogene Aspekte pluralistischer Gesellschaften analysieren, ein 
+grundlegendes Verständnis zeitgemäßen Glaubens entwickeln und religiöse 
+Bildung als Weg der Auseinandersetzung mit Religion und Religiosität reflektieren, 
+indem sie… 
+- 
+in Auseinandersetzung mit theologischen und außertheologischen Deutungen 
+der Zeit Herausforderungen der Gegenwart benennen und analysieren, 
+- 
+ausgehend vom Zweiten Vatikanischen Konzil ein theologisches Verständnis 
+von Glauben, Tradition und Kirche darlegen und erläutern, das diese 
+Herausforderungen aus den Quellen des Glaubens heraus bearbeitet, 
+- 
+Ansätze einer kontextuellen Theologie wiedergeben und auf Dialoge und 
+Konflikte der Gegenwart anwenden, 
+- 
+religiöse Bildung auf dem Hintergrund religionstheoretischer Aspekte 
+verstehen, 
+- 
+religiöse Kompetenz als Ziel religiöser Bildung profilieren und von anderen 
+Zielkategorien (Glaube, Religiosität, Religionskunde) unterscheiden, 
+- 
+Konfessionalität und Konfessionslosigkeit als Voraussetzungen und 
+Begleitprozesse religiöser Bildung aufeinander beziehen. 
+Inhalte/Themen: 
+- exemplarische Ansätze, Analysen und Deutungen der gegenwärtigen 
+Zeitsituation 
+- Theologie, Methode und Ekklesiologie des Zweiten Vatikanischen Konzils, 
+- grundlegende Inhalte und Struktur des katholischen Verständnisses von 
+Glauben, Überlieferung, Sakramentalität und Kirche 
+- Ansätze und Modelle einer kontextuellen Theologie 
+- Religion, Religiosität und Religionskultur als Basisbegriffe religiöser Bildung 
+- Divergenzen und Konvergenzen zwischen Bildung und Religion 
+- religiöse Kompetenz als Schlüsselbegriff einer modernen Religionspädagogik 
+- positionelle religiöse Bildung vor dem Hintergrund wachsender 
+Konfessionslosigkeit 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+Absolvierung der Module in der Theologischen Grundlegung (M 0 - M 5) 
+Lehr- und Prüfungssprache: 
+Deutsch 
+
+[Page 16]
+16 
+ 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Beratungsseminar (entspricht 2 SWS; als digitales Lehr- und Lernangebot) 
+Vertiefungsseminar (entspricht 2 SWS; als vorwiegend als digitales Lehr- und 
+Lernangebot; etwaige präsentische Anteile gem. Ankündigung) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: Klausur (120 Min.) 
+oder Portfolio 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 2 ECTS-Punkte, entspricht 
+60 Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 5,5 ECTS-Punkte, entspricht 
+165 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2,5 ECTS-Punkte, entspricht 75 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen 
+Studiengängen/ Hinweise zur 
+Zugänglichkeit: 
+--- 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+--- 
+Turnus des Angebots: 
+SoSe 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+ 
+
+[Page 17]
+17 
+ 
+M11 Relationen – das Christentum in seinen interreligiösen Beziehungen 
+ 
+Modulbezeichnung: 
+Relationen – das Christentum in seinen interreligiösen Beziehungen 
+Modulbezeichnung in Englisch: 
+Relations – Christianity and its Relations to other Religions 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Alttestamentliche Wissenschaft, Philosophische Grundfragen der Theologie, 
+Fundamentaltheologie (KU) 
+Modulverantwortung: 
+Prof. Dr. Markus Riedenauer (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+10 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Relationen – das Christentum in seinen 
+interreligiösen Beziehungen“ können die Studierenden zu den großen 
+Weltreligionen aus theologischer und philosophischer Sicht differenziert Stellung 
+nehmen, indem sie… 
+- 
+alt- und neutestamentliche Texte interpretieren sowie Aspekte ihrer Rezeption 
+in Christentum, Judentum und Islam darstellen, 
+- 
+theologische Verschiebungen und Weiterentwicklungen solcher Texte im 
+Rahmen des Rezeptionsvorgangs erkennen, erklären und beurteilen, 
+- 
+verschiedene Positionen der so genannten ‚pluralistischen Religionstheologie' 
+benennen und aus der kirchlichen Position heraus reflektieren, 
+- 
+die Charakteristika nicht-christlicher Weltreligionen erläutern, 
+- 
+spezielle philosophische Probleme und Argumentationsweisen bezüglich der 
+Gottesfrage prüfen, 
+- 
+das Verhältnis der monotheistischen Religionen vor dem Hintergrund der Texte 
+des Zweiten Vatikanischen Konzils diskutieren. 
+Inhalte/Themen: 
+- 
+Rezeption und Interpretation biblischer Texte in Christentum, Judentum und 
+Islam 
+- 
+Religionstheologie des Zweiten Vatikanischen Konzils 
+- 
+theologische Zuordnung des Christentums zu den anderen Weltreligionen unter 
+Berücksichtigung des christlichen Offenbarungs- und Heilsverständnisses 
+- 
+theologische und philosophische Zugänge zu nicht-christlichen Religionen im 
+Lauf der Theologie- bzw. Philosophiegeschichte 
+- 
+vertiefte Fragestellungen zu speziellen Themen der Gottesfrage anhand von 
+christlichen, jüdischen und islamischen Quellen 
+- 
+anthropologische Grundlagen von Religiosität und Spiritualität 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+Absolvierung der Module in der Theologischen Grundlegung (M 0 - M 5) 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Beratungsseminar (entspricht 2 SWS; als digitales Lehr- und Lernangebot) 
+Vertiefungsseminar (entspricht 2 SWS; als vorwiegend als digitales Lehr- und 
+Lernangebot; etwaige präsentische Anteile gem. Ankündigung) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: mündliche Prüfung 
+(20 Min.) oder Klausur (120 Min.) 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- Kontakt-/Selbststudium in den Veranstaltungen: 2 ECTS-Punkte, entspricht 
+60 Stunden 
+- Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 5,5 ECTS-Punkte, entspricht 
+165 Stunden 
+- Vorbereitung Leistungsnachweis: 2,5 ECTS-Punkte, entspricht 75 Stunden 
+
+[Page 18]
+18 
+ 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen 
+Studiengängen/ Hinweise zur 
+Zugänglichkeit: 
+--- 
+Turnus des Angebots: 
+SoSe 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+
+[Page 19]
+19 
+ 
+M12 Jesus Christus – seine Botschaft in Schrift und Verkündigung 
+ 
+Modulbezeichnung: 
+Jesus Christus – seine Botschaft in Schrift und Verkündigung 
+Modulbezeichnung in Englisch: 
+Jesus Christ – His Message in the Scriptures and in Preaching 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Neutestamentliche Wissenschaft, Pastoraltheologie, Homiletik (KU) 
+Modulverantwortung: 
+Prof. Dr. Katharina Karl (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+10 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Jesus Christus – seine Botschaft in Schrift und 
+Verkündigung“ können die Studierenden die Frage nach Jesus Christus und seiner 
+Gottesbotschaft mit aktuellem Zeitbezug und interdisziplinär analysieren und 
+reflektieren, indem sie… 
+- 
+ anhand biblischer Texte in kritischer Auseinandersetzung mit 
+exegetischer Literatur Grundzüge der Botschaft Jesu von der Gottesherrschaft 
+entwickeln und für die Verkündigung aufbereiten, 
+- 
+für die Christologie relevante biblische Aussagen aus entsprechenden Texten 
+unter Anwendung exegetischer Methoden entfalten, 
+- 
+anhand dieser Aussagen die Vielfalt und Einheit neutestamentlicher 
+Christologie darlegen, 
+- 
+sich mit der Wort-Gottes-Theologie auf der Basis des Zweiten Vatikanischen 
+Konzils auseinandersetzen, 
+- 
+aktuelle Ansätze der Verkündigung reflektieren und anwenden, 
+- 
+Praxiserfahrung in der Verkündigung sammeln. 
+Inhalte/Themen: 
+- 
+Auslegung zentraler synoptischer Texte zur Reich-Gottes-Botschaft Jesu 
+- 
+Interpretation weiterer neutestamentlicher Texte, die für Entstehung und 
+Entwicklung der Christologie relevant sind 
+- 
+Neutestamentliches Kerygma 
+- 
+Gotteswort im Menschenwort – theologische Grundlegung der Homiletik 
+- 
+Offenbarungsverständnis des Zweiten Vatikanischen Konzils (DV) in Bezug 
+auf eine dialogorientierte Homiletik 
+- 
+Praxis einer zeitgemäßen Verkündigung 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+Absolvierung der Module in der Theologischen Grundlegung (M 0 - M 5). 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Beratungsseminar (entspricht 2 SWS; als digitales Lehr- und Lernangebot) 
+Vertiefungsseminar (entspricht 2 SWS; als vorwiegend als digitales Lehr- und 
+Lernangebot; etwaige präsentische Anteile gem. Ankündigung) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: mündliche Prüfung 
+(30 Minuten) 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 2 ECTS-Punkte, entspricht 
+60 Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 5,5 ECTS-Punkte, entspricht 
+165 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2,5 ECTS-Punkte, entspricht 75 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+--- 
+
+[Page 20]
+20 
+ 
+gängen/Hinweise zur 
+Zugänglichkeit: 
+Turnus des Angebots: 
+WS 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+
+[Page 21]
+21 
+ 
+M13 Kirchenmodelle – Ansätze zeitgemäßer Pastoral und Liturgie 
+ 
+Modulbezeichnung: 
+Kirchenmodelle – Ansätze zeitgemäßer Pastoral und Liturgie 
+Modulbezeichnung in Englisch: 
+Concepts of Church – Current Approaches to Pastoral Care and Liturgy 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Liturgiewissenschaft, Pastoraltheologie (KU) 
+Modulverantwortung: 
+Prof. Dr. Katharina Karl (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+10 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Kirchenmodelle – Ansätze zeitgemäßer Pastoral 
+und Liturgie“ können die Studierenden zur ekklesiologischen Thematik 
+unterschiedliche fachliche Beiträge benennen, diese in ihrem je eigenen Kontext 
+reflektieren und sie zu interdisziplinären Entwürfen zusammenfassen, indem sie… 
+- 
+Grundvollzüge pastoraler Praxis identifizieren und reflektieren, 
+- 
+auf der Basis der Ekklesiologie des II. Vatikanischen Konzils verschiedene 
+Erscheinungsformen kirchlicher Wirklichkeit darlegen, 
+- 
+die Sakramentalität der Kirche und die Einzelsakramente erläutern und in ihrer 
+Bedeutung erörtern, insbesondere die ökumenischen Herausforderungen Amt 
+und Eucharistie betreffend, 
+- 
+die Sakramentalität der Kirche in ihrer pastoraltheologischen Bedeutung 
+entfalten und die ökumenischen Kernfragen darlegen und beurteilen, 
+- 
+die Kirche als betende Kirche darstellen, die Vielfalt des gottesdienstlichen 
+Lebens benennen und als Glaubensvollzug des Volkes Gottes theologisch 
+begründen, 
+- 
+die Feier der Eucharistie als Vollzug des Glaubens der Kirche analysieren und 
+erklären, 
+- 
+zentrale Themen pastoralen Handelns in heutiger Kirche und Gesellschaft 
+analysieren und reflektieren. 
+Inhalte/Themen: 
+- 
+Kirchenstiftungsfrage; Konziliare Ekklesiologie; Sakramentalität der Kirche; 
+Konfessionell geprägte Kirchenverständnisse; Geschichte und Prinzipien der 
+ökumenischen Bewegung 
+- 
+Pastoral-liturgische Grundstrukturen der Katholischen Kirchen 
+- 
+Formen zeit- und anlassbezogener Feiern der Kirche (z.B. Tagzeitenliturgie, 
+Wort-Gottes-Feiern, Andachtswesen, Segnungen und Begräbnisfeier) 
+- 
+fundamentalpastorale und gemeindetheologische Fragestellungen zu den 
+Grund- und Handlungsvollzügen der Kirche 
+- 
+Reflexion auf die Pastoralkonstitution des II. Vatikanischen Konzils 
+- 
+systematische Erschließung und Darstellung der Feier der Eucharistie in ihrem 
+liturgietheologischen und- pastoralen Aspekten 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+Absolvierung der Module in der Theologischen Grundlegung (M 0 - M 5) 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Beratungsseminar (entspricht 2 SWS; als digitales Lehr- und Lernangebot) 
+Vertiefungsseminar (entspricht 2 SWS; als vorwiegend als digitales Lehr- und 
+Lernangebot; etwaige präsentische Anteile gem. Ankündigung) 
+Digitale Lehr- und Lernformate 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 2 ECTS-Punkte, entspricht 
+60 Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 5,5 ECTS-Punkte, entspricht 
+
+[Page 22]
+22 
+ 
+165 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2,5 ECTS-Punkte, entspricht 75 Stunden 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: Klausur (120 Min., 
+ggf. in Form einer Thesen-/Textdiskussion) oder mündliche Prüfung (20 Min.) 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+--- 
+Turnus des Angebots: 
+WS 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+
+[Page 23]
+23 
+ 
+Studienphase II b: Individuelle theologische Profilierung 
+M14 - Wahlpflichtbereich 
+ 
+M14.1 Alte Sprachen 
+ 
+Modulbezeichnung: 
+Alte Sprachen 
+Modulbezeichnung in Englisch: 
+Ancient Languages 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Alte Kirchengeschichte und Patrologie, ggf. weitere Fächer nach Angebot (KU und 
+Univ. Passau) 
+Modulverantwortung: 
+Prof. Dr. Dr. Andreas Weckwerth (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+5 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Alte Sprachen“ können die Studierenden… 
+- 
+mit Hilfe eines Wörterbuchs einfache bis mittelschwere hebräische, 
+altgriechische oder lateinische Texte übersetzen, 
+- Übersetzungen auch schwierigerer Textpassagen nachvollziehen, 
+- Verben und Nomina grammatikalisch analysieren. 
+Inhalte/Themen: 
+Wechselnde Themen: 
+- 
+Hebräische Texte des Alten Testaments 
+- 
+Koine-Griechisch des Neuen und Alten Testaments 
+- 
+Vulgata-Texte sowie liturgische und patristische lateinische Texte 
+- 
+Grammatik und Syntax einer der genannten Sprachen 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+--- 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Sprachkurs (2 SWS; wahlweise als vorwiegend digitales Lehr- und Lernangebot 
+oder in Präsenz) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Klausur (180 Min.) 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 1 ECTS-Punkt, entspricht 
+30 Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 2,5 ECTS-Punkte, entspricht 
+75 Stunden 
+- 
+Vorbereitung Leistungsnachweis: 1,5 ECTS-Punkt, entspricht 45 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+--- 
+Turnus des Angebots: 
+WS, SoSe 
+Bemerkungen: 
+Mehrfachwahl möglich 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+ 
+
+[Page 24]
+24 
+ 
+M14.2 Vertiefung Biblische und Historische Theologie 
+ 
+Modulbezeichnung: 
+Vertiefung Biblische und Historische Theologie 
+Modulbezeichnung in Englisch: 
+Deepening Biblical and Historical Theology 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Alttestamentliche Wissenschaft, Neutestamentliche Wissenschaft, Alte 
+Kirchengeschichte und Patrologie, Mittlere und Neue Kirchengeschichte, 
+Theologie des Christlichen Ostens (KU und Univ. Passau) 
+Modulverantwortung: 
+Prof. Dr. Bernward Schmidt (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+5 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Vertiefung Biblische und Historische Theologie“ 
+können Studierende… 
+- 
+die bereits aus dem Studiengang bekannten Methoden der biblischen und 
+historischen Fächer der Theologie auf neue Themenfelder anwenden, 
+- 
+hermeneutische und methodische Grundlagen der biblischen und historischen 
+Fächer wiedererkennen und in Abgrenzung zu den Nachbarfächern definieren, 
+- 
+biblische und historische Texte analysieren und in ihren Entstehungskontext 
+einbetten. 
+Inhalte/Themen: 
+Spezialthemen der Kirchengeschichte, der Exegese oder der Bibeltheologie 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+Absolvierung der Module in der Theologischen Grundlegung (M 0 - M 5) 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Seminar (2 SWS; wahlweise als vorwiegend digitales Lehr- und Lernangebot oder 
+in Präsenz) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: mündliche Prüfung 
+(20 Min.) oder Hausarbeit gemäß Ankündigung des Modulverantwortlichen 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 1 ECTS-Punkt, entspricht 
+30 Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 2 ECTS-Punkte, entspricht 60 
+Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2 ECTS-Punkte, entspricht 60 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen 
+Studiengängen/ Hinweise zur 
+Zugänglichkeit: 
+--- 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+--- 
+Turnus des Angebots: 
+WS, SoSe 
+Bemerkungen: 
+Mehrfachwahl möglich 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+
+[Page 25]
+25 
+ 
+M14.3 Vertiefung Systematische und Praktische Theologie 
+ 
+Modulbezeichnung: 
+Vertiefung Systematische und Praktische Theologie 
+Modulbezeichnung in Englisch: 
+Deepening Systematic and Practical Theology 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Philosophische Grundfragen der Theologie, Fundamentaltheologie, Dogmatik, 
+Theologie in Transformationsprozessen der Gegenwart, Moraltheologie, Christliche 
+Sozialethik, Pastoraltheologie, Liturgiewissenschaft, Religionspädagogik, 
+Kirchenrecht (KU und Univ. Passau) 
+Modulverantwortung: 
+Prof. Dr. Rafael Rieger (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+5 ECTS-Punkte 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Vertiefung Systematische und Praktische 
+Theologie“ können Studierende… 
+- 
+die bereits aus dem Studiengang bekannten Methoden der systematischen und 
+praktischen Fächer der Theologie auf neue Themenfelder anwenden, 
+- 
+hermeneutische und methodische Grundlagen der systematischen und 
+praktischen Fächer wiedererkennen und in Abgrenzung zu den Nachbarfächern 
+definieren, 
+- 
+einschlägige Texte oder Praxisbeispiele fachlich korrekt analysieren. 
+Inhalte/Themen: 
+Spezialthemen der systematischen oder praktischen Theologie 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+Absolvierung der Module in der Theologischen Grundlegung (M 0 - M 5) 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Seminar (2 SWS; wahlweise als vorwiegend digitales Lehr- und Lernangebot oder 
+in Präsenz) 
+Digitale Lehr- und Lernformate 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: mündliche Prüfung 
+(20 Min.) oder Hausarbeit gemäß Ankündigung des Modulverantwortlichen 
+Zeitaufwand/Berechnung der 
+ECTS-Punkte innerhalb des 
+Moduls: 
+- 
+Kontakt-/Selbststudium in den Veranstaltungen: 1 ECTS-Punkt, entspricht 
+30 Stunden 
+- 
+Vor- und Nachbereitung der Veranstaltung (umfasst Studienleistungen), 
+insbesondere via digitale Lehr- und Lernformate: 2 ECTS-Punkte, entspricht 60 
+Stunden 
+- 
+Vorbereitung Leistungsnachweis: 2 ECTS-Punkte, entspricht 60 Stunden 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen 
+Studiengängen/ Hinweise zur 
+Zugänglichkeit: 
+--- 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur 
+Zugänglichkeit: 
+--- 
+Turnus des Angebots: 
+WS, SoSe 
+Bemerkungen: 
+Mehrfachwahl möglich 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+ 
+
+[Page 26]
+26 
+ 
+M 15 Studium.Pro 
+ 
+Studium.Pro ist das interdisziplinär angelegte Programm zum profilorientierten Studium an der KU. „Pro“ steht dabei 
+für Profil, Profession und eine auch gesellschaftlich engagierte Wissenschaft. Studium.Pro bietet Studierenden die 
+Möglichkeit, ihren Bildungs- und Qualifizierungsweg begleitend zum bzw. im Fachstudium bereichernd zu gestalten. 
+Dies geschieht durch die interdisziplinäre Auseinandersetzung mit aktuellen Problemstellungen, durch die qualifizierte 
+Auseinandersetzung mit fachübergreifenden Themen oder durch die projektbezogene Bearbeitung von aktuellen 
+gesellschaftlichen Themen und Herausforderungen. 
+Jedes Semester finden sich im Studienangebot der KU Lehrveranstaltungen, die von Studierenden aller Fachrichtungen 
+optional besucht werden können. Während des Studiums muss ein Modul aus dem Kanon des Angebots im Umfang von 
+5 ECTS-Punkten gewählt werden. Jedes Semester werden auch Module angeboten, die teilweise oder rein digital 
+stattfinden. 
+ 
+Zum aktuellen Angebot: 
+https://www.ku.de/studienangebot/studiumpro 
+ 
+ 
+
+[Page 27]
+27 
+ 
+M16 Praktikum 
+ 
+Modulbezeichnung: 
+Praktikum 
+Modulbezeichnung in Englisch: 
+Practical Training 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Diverse Fächer nach Wahl der Studierenden (KU und Univ. Passau) 
+Modulverantwortung: 
+Prof. Dr. Christian Handschuh (Univ. Passau) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+5 ECTS-Punkte 
+ 
+Kompetenzen: 
+Nach Absolvierung des Moduls „Praktikum“ können die Studierenden… 
+- Praxisfelder der Seelsorge oder des Religionsunterrichts aus eigener Erfahrung 
+darstellen, 
+- über konkrete Situationen der Seelsorge oder des Religionsunterrichts 
+reflektieren und mit Themen der Pastoraltheologie oder der Religionspädagogik 
+in Verbindung bringen, 
+- 
+eigene berufsspezifische Qualifikationen und Berufsbilder weiterentwickeln. 
+Inhalte/Themen: 
+- Herausforderungen pastoraler bzw. caritativer Strukturen und Formen in 
+den Pfarreien und anderen Einrichtungen, 
+- exemplarische Erfahrung in der Gemeinde- und Seelsorgearbeit. 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+Absolvierung der Module in der Theologischen Grundlegung (M 0 - M 5) 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+1 Praktikum in einer Pfarrei und/oder in der kategorialen Seelsorge und/oder im 
+Religionsunterricht 
+Begleitendes Seminar (entspricht 1 SWS; als digitales Lehr- und Lernangebot) 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+- Anwesenheit im Praktikum, 
+- 
+mindestens mit „ausreichend“ bewerteter Leistungsnachweis: schriftlicher 
+Praktikumsbericht. 
+Begründung Anwesenheitspflicht: 
+Der intendierte Kompetenzerwerb kann durch Selbststudium nicht erreicht werden. 
+Insbesondere um eigene berufsspezifische Qualifikationen und Berufsbilder 
+weiterzuentwickeln sind für die Zielgruppe des Studiengangs Praxiserfahrung 
+(Anwesenheit) und wiss. Reflektion (Praktikumsbericht) angezeigt. 
+Modulnote: 
+Leistungsnachweis (Bestanden / Nicht bestanden) 
+Polyvalenz mit anderen 
+Studiengängen/ Hinweise zur 
+Zugänglichkeit: 
+--- 
+Turnus des Angebots: 
+WS, SoSe 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden] 
+ 
+ 
+ 
+
+[Page 28]
+28 
+ 
+M17 Bachelorarbeit 
+ 
+Modulbezeichnung: 
+Bachelorarbeit 
+Modulbezeichnung in Englisch: 
+Bachelor Thesis 
+Modulnummer: 
+ 
+Niveau: 
+Bachelormodul 
+Geberstudiengang: 
+Digitaler Bachelorstudiengang Katholische Theologie 
+institutionelle Verankerung: 
+ThF 
+Beteiligte Fachgebiete: 
+Alle Fächer je nach Wahl der Studierenden (KU und Univ. Passau) 
+Modulverantwortung: 
+Prof. Dr. Bernward Schmidt (KU) 
+Prüfende im Modul: 
+[von der oder dem Modulverantwortlichen direkt über Zugang in KU.Campus innerhalb der Fristen 
+gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien zu befüllen und aktuell zu halten: diese Stelle hier dient in 
+KU.Campus der Bekanntgabe der jeweiligen Prüferbestellung] 
+Leistungspunkte (ECTS-
+Punkte): 
+10 ECTS-Punkte 
+ 
+Kompetenzen: 
+- 
+Befähigung zu einer in Methodik und Thematik fachspezifischen und/oder - 
+übergreifenden (Problem-)Erörterung 
+- 
+Überprüfung und Interpretation der auszuwählenden Inhalte (Methoden) mit 
+dem Ziel der perspektivischen Entwicklung eines selbstständigen theologischen 
+(Reflexions- bzw. Anwendungs-) Modells 
+Inhalte/Themen: 
+Die Inhalte ergeben sich aus der Themenstellung. 
+Formale Voraussetzungen für 
+die Teilnahme: 
+--- 
+Empfohlene Voraussetzungen 
+für die Teilnahme: 
+Absolvierung der Module in der Theologischen Grundlegung (M 0 - M 5) 
+Lehr- und Prüfungssprache: 
+Deutsch 
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen: 
+Selbstständiges Verfassen einer umfänglichen schriftlichen 
+Arbeit in Begleitung durch den Betreuer/die Betreuerin 
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten: 
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis der Bachelor-Arbeit. 
+Modulnote: 
+Leistungsnachweis 
+Polyvalenz mit anderen 
+Studiengängen/ Hinweise zur 
+Zugänglichkeit: 
+--- 
+Turnus des Angebots: 
+WS, SoSe 
+Bemerkungen: 
+[kann innerhalb der Fristen gemäß § 5 Abs. 4 Satz 2 Modulrichtlinien von der oder dem 
+Modulverantwortlichen unmittelbar in KU.Campus geändert werden]

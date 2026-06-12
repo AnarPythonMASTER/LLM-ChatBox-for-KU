@@ -1,0 +1,41 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Formular_fuer_einen_Eintrag_im_Veranstaltungskalender_des_Studentischen_Konvents__01.pdf
+TITLE: Formular_fuer_einen_Eintrag_im_Veranstaltungskalender_des_Studentischen_Konvents__01.pdf
+SOURCE_FILE: Formular_fuer_einen_Eintrag_im_Veranstaltungskalender_des_Studentischen_Konvents__01.pdf
+------------------------------------------------------------
+
+[Page 1]
+Überschrift:
+Teaser:
+Der Teaser ist das Fettgedruckte bei der Veranstaltung und sollte nicht zu lang sein
+Datum:
+Bei mehrtägigen Events Enddatum:
+Beginn:
+Uhr
+Ende:
+Uhr
+Veranstaltungstext:
+Formular für einen Eintrag im
+Veranstaltungskalender des Studentischen
+Konvents 
+Hier kann nun alles weitere rein
+
+[Page 2]
+Veranstalter:
+Verwandte Links:
+URL:
+Titel:
+Bei der Vergabe eines Titels ersetzt dieser den Link.
+Beispiel: wenn der Link www.ku.de/konvent ist & ein Titel "Konvent" eingefügt wird, sieht es wie folgt aus: Konvent
+Beschreibung:
+Falls es zu dem Link weitere
+wichtige Informationen gibt
+(z.B. ein Passwort oder
+ähnliches) kann dies hier
+eingetragen werden.
+Bilder:
+Bitte sämtliche Bilder für die Veranstaltung als Anhang per Mail an
+konvent-sprecherrat@ku.de senden Und mit "Titelbild", "1", "2" etc.
+betiteln. 
+ 
+Das vollständig ausgefüllte Dokument bitte (ggf. mit Bilder)
+per Mail zurück an: konvent-sprecherrat@ku.de

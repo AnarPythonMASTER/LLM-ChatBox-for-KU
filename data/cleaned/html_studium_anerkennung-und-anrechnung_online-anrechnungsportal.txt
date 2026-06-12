@@ -1,0 +1,46 @@
+SOURCE_URL: https://www.ku.de/studium/anerkennung-und-anrechnung/online-anrechnungsportal
+TITLE: Online-Anrechnungsportal – KU
+SOURCE_FILE: studium_anerkennung-und-anrechnung_online-anrechnungsportal.html
+------------------------------------------------------------
+
+Zugang
+Hier geht es direkt zur Anmeldung im Online-Anrechnungsportal der KU:
+Online-Anrechnungsportal
+Falls Sie in einem Studiengang immatrikuliert sind, der das digitale Online-Verfahren noch nicht nutzt, was aktuell nur für den Magister Katholische Theologie, den Digitalen Bachelor Katholische Theologie sowie für einige Zertifikate zutrifft, wenden Sie sich bitte direkt an den für Sie
+zuständigen Prüfungsausschuss
+.
+Kurzanleitung für Antragstellende
+Wenn Sie sich am Online-Anrechnungsportal angemeldet haben, kommen sie zur Ansicht „Meine Anrechnungen“. Hier können Sie folgende Optionen wählen:
+- „Anrechnung von internen Leistungen“,
+- „Anrechnung von externen Leistungen“ sowie
+- „Learning Agreement“, letzteres ausschließlich nach einer vorherigen Anmeldung in
+Mobility-Online
+.
+Mit einem Anrechnungsantrag kann die Anerkennung bzw. Anrechnung auf ausschließlich jeweils ein einzelnes Modul des Studiengangs beantragt werden. Möchten Sie Anerkennungen oder Anrechnungen auf mehrere Module Ihres Studiengangs durchführen, müssen Sie dementsprechend mehrere Anträge stellen.
+Sobald Sie einen neuen Antrag gestellt haben, wird Ihnen per KU-Mail eine Bestätigung mit der Absendeadresse
+anrechnungen-noreply(at)ku.de
+zugestellt.
+Sobald sich der Status Ihres Antrags ändert, werden Sie ebenfalls per KU-Mail benachrichtigt.
+Die Anerkennungs- oder Anrechnungsentscheidung des Prüfungsausschusses ist im Online-Anrechnungsportal als PDF-Datei abrufbar.
+Im Falle einer
+Ablehnung des Antrags
+sind dem Bescheid eine Begründung der Ablehnung sowie eine Rechtsbehelfsbelehrung beigefügt.
+Bitte rechnen Sie derzeit mit einer Bearbeitungszeit von bis zu drei Monaten für das gesamte Anerkennungs- bzw. Anrechnungsverfahren.
+Wichtige Status-Anzeigen im Online-Anrechnungsportal
+Status “im Genehmigungsprozess”
+: Der Antrag befindet sich im Genehmigungsprozess. Sie können keine Änderungen am laufenden Antrag vornehmen. Sie können, wenn sich ein vorheriger Antrag im Genehmigungsprozess befindet, jederzeit einen weiteren Antrag stellen.
+Status “angerechnet”
+: Der Antrag wurde von dem zuständigen Prüfungsausschuss genehmigt. Die Anerkennungs- oder Anrechnungsentscheidung ist als PDF-Datei abrufbar.
+Status “abgelehnt”
+: Der Antrag wurde vom zuständigen Prüfungsausschuss abgelehnt. Die Anerkennungs- oder Anrechnungsentscheidung samt Begründung der Ablehnung und Rechtsbehelfsbelehrung sind als PDF-Datei abrufbar.
+Status “zu bearbeiten”
+: Der Antrag wurde von Ihnen zwischengespeichert oder es liegt eine Rückfrage vor. Beantworten Sie bitte die Rückfrage bzw. ergänzen Sie noch fehlende Informationen. Senden Sie bitte dann Ihren Antrag erneut ab, indem Sie am Ende des Antrags den Button “Antrag absenden” klicken. Unabhängig davon kann jederzeit ein anderer, neuer Antrag gestellt werden.
+Status “genehmigt, Note ergänzen”
+: Die Genehmigung für eine spätere Anrechnung eines VHB-Kurses oder einer Leistung aus dem Auslandsemester liegt vor. Sobald Sie eine Bestätigung über die erfolgreich bestandene VHB-Prüfung, bzw. das Transkript erhalten, laden Sie bitte das Dokument im Vorgang hoch. Anschließend senden Sie bitte den Antrag erneut ab, indem Sie am Ende des Antrags den Button “Antrag absenden” klicken.
+Status “genehmigt":
+Der Antrag wurde vom zuständigen Prüfungsausschuss genehmigt. Die Verbuchung Ihrer Leistung steht noch aus, sodass diese noch nicht in Ihrer Datenabschrift abrufbar ist.
+Wenn ausnahmsweise eine Funktion des Portals nicht wie erwartet verfügbar sein sollte, zum Beispiel, wenn der Button zum Absenden des Antrags nicht angezeigt wird, liegt dies an Aktualisierungen im Hintergrund, während der beispielsweise die benötigten Datenbanken synchronisiert werden. Bitte haben Sie dann etwas Geduld und versuchen Sie es zu einem späteren Zeitpunkt noch einmal.
+Ausführliche Anleitungen für Antragstellende
+Anleitung interne Anrechnung
+Anleitung externe Anrechnung
+Anleitung Learning Agreement

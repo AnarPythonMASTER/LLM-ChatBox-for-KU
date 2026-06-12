@@ -1,0 +1,29 @@
+SOURCE_URL: https://www.ku.de/studienangebot/unsere-studienfelder
+TITLE: Unsere Studienfelder – KU
+SOURCE_FILE: studienangebot_unsere-studienfelder.html
+------------------------------------------------------------
+
+Unsere Studienfelder
+Von Wirtschaft und Lehramt über Psychologie, Theologie und Musik bis hin zu interdisziplinären Programmen – das Studienangebot der KU lässt sich in zehn Studienfelder erkunden, damit Studieninteressierte schnell finden, was zu ihren Interessen passt. Die vollständige Liste aller Studiengänge – filterbar nach Abschlussart und Studienbeginn –
+gibt es hier
+.
+Interdisziplinäre Studiengänge
+Mit dem Interdisziplinären Bachelor und Master an der KU wird das Studienfach noch individueller und genau auf die Interessen der Studierenden zugeschnitten – von Kultur und Medien über Antike bis zum Flexiblen Profil, das vollständig nach eigenen Schwerpunkten gestaltet werden kann.
+Lehramt
+Lehrkraft sein – einer der wichtigsten Berufe unserer Zeit. An der KU ist Lehramt für Grundschule, Mittelschule, Realschule und Gymnasium studierbar – und die KU ist eine der wenigen Universitäten in Bayern, die Ethik als Hauptfach im Lehramt anbietet.
+Mathematik & Data Science
+Algorithmen steuern die Welt. Wer sie versteht, gestaltet sie mit. Von Mathematik und Data Science bis Digital and Data-Driven Business – die Studiengänge an der KU verbinden mathematische Tiefe mit praxisnaher Anwendung in einer zunehmend datengetriebenen Welt.
+Musik & Kunst
+Kreativität braucht Reflexion. Kunst braucht Kontext. An der KU verbinden Studierende künstlerische Praxis mit wissenschaftlicher Auseinandersetzung – in Studiengängen von Musikwissenschaft und Musikpädagogik bis Kunstgeschichte und inklusiver Musikpädagogik.
+Nachhaltigkeit
+Geographie, Transformation, wirtschaftliche Verantwortung – Nachhaltigkeit ist keine Nische, sondern die zentrale Herausforderung unserer Zeit. Die Studiengänge an der KU befähigen Studierende, den Status quo zu hinterfragen und aktiv an Lösungen zu arbeiten.
+Politik & Gesellschaft
+Demokratie unter Druck. Globale Konflikte. Gesellschaftliche Spaltung. Wer die Welt verstehen und verändern will, braucht analytische Tiefe. Die interdisziplinären Studiengänge an der KU vermitteln politikwissenschaftliche und gesellschaftliche Kompetenzen – von nationaler Politik bis zu internationalen Beziehungen.
+Soziales
+Menschen verstehen, Gesellschaft gestalten. Von Psychologie und Klinischer Psychotherapie über Soziale Arbeit bis Pflegewissenschaft – die Studiengänge an der KU vermitteln wissenschaftliche Grundlagen und praxisnahe Kompetenzen für verantwortungsvolles Handeln im sozialen Bereich.
+Sprache & Kultur
+Sprache ist Macht. Kultur ist Identität. Die Studiengänge in Sprache und Kultur an der KU verbinden Literatur, interkulturelle Kommunikation und sprachliche Analyse – und öffnen Türen in Journalismus, Werbung, Bildung und internationalen Berufsfeldern.
+Theologie
+Glaube, Ethik, interreligiöser Dialog – Theologie stellt die Fragen, die Gesellschaft und Wissenschaft nicht alleine beantworten können. An der KU verbinden Studierende theologische Tradition mit aktuellen gesellschaftlichen Herausforderungen.
+Wirtschaft
+Die Welt verändert sich. Wirtschaft auch. Von Management und Finance über Marketing bis Wirtschaftspsychologie – Studierende erwerben an der AACSB-akkreditierten WFI fundierte wirtschaftliche Kompetenzen mit Fokus auf Nachhaltigkeit und gesellschaftliche Verantwortung.

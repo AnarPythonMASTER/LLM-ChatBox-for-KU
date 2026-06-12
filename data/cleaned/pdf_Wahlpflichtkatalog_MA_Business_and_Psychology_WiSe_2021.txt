@@ -1,0 +1,81 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_MA_Business_and_Psychology_WiSe_2021.pdf
+TITLE: Wahlpflichtkatalog_MA_Business_and_Psychology_WiSe_2021.pdf
+SOURCE_FILE: Wahlpflichtkatalog_MA_Business_and_Psychology_WiSe_2021.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+(Business and Psychology M.Sc.) 
+ 
+1. nach § 7 der Prüfungsordnung Masterstudiengang Business and Psychology in der 
+Fassung vom 12.10.2020 
+2. Geltungsbereich zum WiSe 2021/2022 
+ 
+3. vom Fakultätsrat der Fakultät Wirtschaftswissenschaften beschlossen am 
+07.07.2021. 
+ 
+ 
+Auflistung der Studienschwerpunkte 
+In der PO verankerte Studienschwerpunkte: 
+ 
+1. Wirtschaft, 
+2. Psychologie 
+ 
+Modulangebot im Wahlpflichtbereich 
+ 
+Sommersemester: 
+ 
+Advanced Topics in Consumer Psychology for a Better World (10 ECTS) Research Project and 
+Report 
+ 
+Arbeit und Gesundheit: Methoden (5 ECTS) Abschlussklausur oder mündliche Prüfung oder 
+Portfolio 
+ 
+Behavioral and Experimental Economics (5 ECTS) Seminar paper and presentation 
+ 
+Change Management (5 ECTS) Klausur 
+ 
+Consumer Psychology for a Better World (2,5 ECTS) Exam 
+ 
+ 
+Ethik der Digitalisierung (5 ECTS) Präsentation und schriftliche Fallstudienbearbeitung 
+ 
+Grundlagen der psychologischen Diagnostik (Testtheorie & Testkonstruktion) (5 ECTS) Klausur 
+oder mündliche Prüfung 
+ 
+Ethik Innovation and Creativity in Individuals, Teams, and Organizations (5 ECTS) teambasiertes 
+Innovationsprojekt und Präsentation und Klausur 
+ 
+Interkulturelles Management (5 ECTS) Abschlussklausur 
+Psychologie der Verantwortung, Gerechtigkeit und Werte (5 ECTS) Hausarbeit mit Präsentation 
+oder Abschlussklausur oder mündliche Prüfung oder Portfolio 
+ 
+Wintersemester: 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+ 
+Coaching, Mediation und Umgang mit Diversität (5 ECTS) Hausarbeit mit Präsentation oder 
+Abschlussklausur oder mündliche Prüfung oder Portfolio 
+ 
+Economics of Consumption: Theory and Experimental Evidence (5 ECTS) Hausarbeit 
+ 
+Forschungsmethoden in der Psychologie (5 ECTS) Klausur 
+ 
+Migration, Interkulturalität und Beruf (5 ECTS) Abschlussklausur oder Abschlussprüfung 
+ 
+Psychologie der Führung und Motivierung (5 ECTS) Portfolio 
+ 
+Psychologie des Arbeits- und Freiwilligenengagements (5 ECTS) Hausarbeit mit Präsentation 
+oder Abschlussklausur oder mündliche Prüfung oder Portfolio 
+ 
+Quasi- experimental Policy Evaluation (5 ECTS) Hausarbeit 
+ 
+Service Management (5 ECTS) Portfolio 
+ 
+ 
+ 
+Wahlbereich: Modulangebot

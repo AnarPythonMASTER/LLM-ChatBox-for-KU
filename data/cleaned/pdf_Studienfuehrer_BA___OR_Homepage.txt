@@ -1,0 +1,815 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienfuehrer_BA___OR_Homepage.pdf
+TITLE: Studienfuehrer_BA___OR_Homepage.pdf
+SOURCE_FILE: Studienfuehrer_BA___OR_Homepage.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Masterstudiengang 
+Betriebswirtschaftslehre 
+Master of Science 
+ 
+ 
+Studienschwerpunkt 
+Business Analytics & 
+Operations Research 
+ 
+ 
+ 
+ 
+ 
+Study Guide 
+Version 1.1 
+ 
+Ingolstadt, 31. Januar 2019 
+ 
+
+[Page 3]
+Überblick 
+ 
+1. 
+BA&OR: QUANTITATIVER BWL MASTER 
+4 
+2. 
+BERUFSAUSSICHTEN 
+6 
+3. 
+STRUKTUR 
+7 
+4. 
+STUDIENPLAN 
+10 
+5. 
+BESCHREIBUNG DER FACHGEBIETE 
+12 
+6. 
+SEMESTERPLAN 
+15 
+7. 
+ANSPRECHPARTNER 
+17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 4]
+1. BA&OR: Quantitativer BWL Master 
+ 4 
+1. 
+BA&OR: Quantitativer BWL Master 
+Im Rahmen des Masterstudiengangs Betriebswirtschaftslehre an der WFI mit dem Ab-
+schluss Master of Science (M.Sc.) können die Studierenden ihr bisher erworbenes Wis-
+sen fokussieren und gezielt erweitern. Dafür muss jeder Studierende genau einen 
+Schwerpunkt von mehreren zur Verfügung stehenden Studienschwerpunkten wählen. 
+In dieser Broschüre wird der Studienschwerpunkt Business Analytics & Operations Re-
+search (BA&OR) im Hinblick auf seine organisatorische und inhaltliche Struktur beschrie-
+ben. 
+ 
+ 
+Methoden. 
+Lerne quantitative und informationsverarbeitende Methoden kennen, die Dich 
+auf die digitale Revolution vorbereiten. 
+Praxis. 
+Wende erlernte Methoden auf praxisrelevante Problemstellungen an. 
+Zukunft. 
+Absolviere eine zeitgemäße Ausbildung mit großem Jobpotenzial 
+ 
+ 
+Im Studienschwerpunkt Business Analytics and Operations Research (BA&OR) werden 
+Kompetenzen für die Beherrschung einer zunehmend komplexeren und digitalen Arbeits-
+welt vermittelt. Dazu zählen unterschiedliche quantitative und informationsverarbeitende 
+Methoden zur Analyse, Planung und Optimierung betriebswirtschaftlicher Problemstel-
+lungen. Die erlernten Methoden können auf verschiedene Teilbereiche der BWL speziali-
+siert und in einem praxisnahen Umfeld angewendet werden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die große Auswahl an Kombinationsmöglichkeiten der Studienschwerpunkte des 
+BA&OR-Masters und Auslandsaufenthalte ermöglichen es mir, meine Interessen im 
+Studium nach meinen Wünschen zu gestalten. 
+
+[Page 5]
+1. BA&OR: Quantitativer BWL Master 
+ 5 
+1.1. Aufbau 
+Im Studienschwerpunkt BA&OR müssen insgesamt 120 ECTS erworben werden. Davon 
+sind 30 ECTS Pflichtmodule, 35 ECTS Wahlpflichtmodule, 25 ECTS Wahlmodule und 30 
+ECTS für die Masterarbeit zu erbringen. 
+ 
+ 
+ 
+1.2. Zielgruppe 
+Wir sprechen Studierende mit Interesse für betriebswirtschaftliche Zusammenhänge und 
+ausgeprägter Neigung zu quantitativen, analytischen und informationsverarbeitenden 
+Methoden an. Dies sind insbesondere Absolventen folgender Fachrichtungen: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 ECTS
+35 ECTS
+25 ECTS
+30 ECTS
+Pflichtmodule
+Wahlpflichtmodule
+Wahlmodule
+Masterarbeit
+Der Studienschwerpunkt bietet mit als einziger BWL-Studiengang den vielfältigen 
+Einsatz von Programmen wie R, CPLEX, AnyLogic etc. und fokussiert sich 
+dadurch auf die quantitativen Aspekte in den Bereichen Marketing und Logistik. 
+Weitreichende internationale Beziehungen, Kursgrößen von 5 bis 20 Studierenden 
+und der enge Kontakt unter Kommilitonen machen die WFI zur idealen Universität 
+für mich. 
+
+[Page 6]
+2. Berufsaussichten 
+ 6 
+2. 
+Berufsaussichten 
+ 
+Data Analyst 
+ 
+Viele Unternehmen sprechen von Daten als dem wertvollsten Rohstoff des 
+gegenwärtigen Informationszeitalters. Die enormen Datenmengen müssen 
+aber zuerst nutzbar gemacht werden. Der Data Analyst wird dabei für die 
+systematische Erfassung, Verarbeitung und Auswertung aller Arten von 
+Daten zwingend benötigt. 
+ 
+OR Analyst 
+ 
+Immer optimale Entscheidungen treffen – Operations Research macht es 
+möglich. Der OR Analyst wendet mathematische Modelle und Verfahren an, 
+um Unternehmen zu helfen, komplexe betriebswirtschaftliche Probleme zu 
+lösen. Diese reichen von Entscheidungstheorie über mathematische Opti-
+mierung bis hin zu Statistik und Spieltheorie. 
+ 
+Academic 
+ 
+ 
+Der Studienschwerpunkt vermittelt alle nötigen Grundlagen für weitere For-
+schungsarbeit und schafft ideale Voraussetzungen für ein erfolgreiches kon-
+sekutives Promotionsstudium in einem der behandelten Fachbereiche. 
+ 
+Consultant 
+ 
+Mit dem vermittelten Methodenwissen und der analytischen Vorgehens-
+weise sind Absolventen des Studienschwerpunkts für den Einstieg als Ge-
+neralisten bei den großen Strategieberatungen bestens geeignet. Durch den 
+Fokus auf einen Fachbereich bietet sich aber auch eine Laufbahn als Spe-
+zialist mit starkem thematischen Wissen bei einer Nischenberatung an. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die wissenschaftlichen Methoden, die ich in den BA&OR-Veranstaltungen erlernt 
+habe sind heute die Basis meiner Forschungen für meine Promotion. Heute 
+versuche ich selbst als Dozent den Studierenden die Inhalte in kooperativer Weise 
+zu vermitteln. 
+
+[Page 7]
+3. Struktur 
+ 7 
+3. 
+Struktur 
+Der konzeptionelle Aufbau des BA&OR Studiums setzt sich aus den Methoden, den 
+Fachbereichen und der Anwendung zusammen. Die durch das Studium vermittelten Me-
+thoden lassen sich dem Track „Business Analytics“ oder dem Track „Operations Rese-
+arch“ zuordnen. In den Fachbereichen kommen die erlernten Methoden zum Einsatz und 
+werden je nach Anforderung des Fachbereichs weiterentwickelt. Vervollständigt wird das 
+Studium durch die Anwendung des Erlernten durch Praktika, Auslandsaufenthalte, viel-
+fältige Studentenorganisationen und zuletzt während der Masterarbeit. 
+ 
+Methoden 
+ 
+ 
+Business 
+Analytics 
+ 
+Operations 
+Research 
+ 
+ 
+Fachbereiche 
+ 
+SCM 
+ 
+Finance 
+ 
+Marketing 
+ 
+Digitalisierung 
+ 
+Anwendung 
+ 
+Praktika 
+ 
+Auslands-
+semester 
+ 
+Studenten-
+organisationen 
+ 
+Abschluss-
+arbeit 
+ 
+3.1. Methoden 
+Während des Masterstudiums bietet es sich an, sich einem der beiden Methodenkom-
+plexe „Business Analytics“ und „Operations Research“ vertieft zuzuwenden. Kurse beider 
+Tracks können allerdings auch frei kombiniert werden. Der Track „Business Analy-
+tics“ widmet sich dabei der Frage, wie Prozesse und Leistungen in einem Unternehmen 
+mit Hilfe statistischer Methoden analysiert, modelliert, prognostiziert und evaluiert werden 
+können. Im Track „Operations Research“ werden den Studierenden Modelle und Metho-
+den zur Entscheidungsunterstützung in Unternehmen vermittelt. 
+ 
+3.2. Fachbereiche 
+Es besteht die Möglichkeit sich einem oder mehreren Fachbereichen zuzuwenden und 
+die erlernten Methoden fachspezifisch zu erweitern. Die Kurse stammen aus den Fach-
+bereichen Supply Chain Management, Finance, Marketing und Digitalisierung. In Kapitel 
+5 stellen die Fachgebietsleiter ihre Vertiefung persönlich vor. 
+ 
+
+[Page 8]
+3. Struktur 
+ 8 
+3.3. Anwendung 
+Abschlussarbeit 
+An der WFI besteht die Möglichkeit die Masterarbeit in Kooperation mit einem Unterneh-
+men zu schreiben. Weiterhin ist es auch möglich Themen selbst einzubringen. Natürlich 
+kann die Masterarbeit auch klassisch in enger Zusammenarbeit mit einem Mitarbeiter ver-
+fasst werden. 
+ 
+Praktika 
+Das Sammeln von praktischer Erfahrung neben dem Studium ist sehr bedeutend. Daher 
+bietet die WFI durch Kooperationen mit führenden Unternehmen unterschiedlichster Wirt-
+schaftsbranchen sowie durch Karrieremessen, Recruiting Events und Unternehmensprä-
+sentationen und Workshops den Studierenden beste Perspektiven für Praktika und Ein-
+stiegsmöglichkeiten im In- und Ausland. 
+ 
+Studentenorganisationen 
+An der WFI gibt es zahlreiche Studentenorganisationen und nahezu jeder Studierende ist 
+mindestens in einer aktiv. Die Tätigkeiten in den Studentenorganisationen sind weitrei-
+chend: Ganz gleich, ob Kontakte pflegen, das Organisieren von WFI-Partys oder gemein-
+nützige Eigeninitiative: Bei 22 Studentenorganisationen ist für jeden etwas dabei! 
+ 
+Auslandsaufenthalt 
+Während des Masterstudiums ist es möglich ein oder mehrere Semester im Ausland zu 
+studieren bzw. Praktika zu absolvieren. Für Praktika im Ausland kann auch eine ERAS-
+MUS+ Förderung beantragt werden. Auslandssemester werden üblicherweise von Stu-
+dierenden im Master im 3. Fachsemester absolviert. 
+Damit Studierende einen Auslandsaufenthalt absolvieren können, stehen mehrere Mög-
+lichkeiten zur Verfügung: So können Studierende an einem ERASMUS+ Programm teil-
+nehmen, sich über die KU an einer der über 90 Partneruniversitäten oder sich als 
+„Freemover“ bei einer beliebigen Universität weltweit bewerben. Alle im Ausland belegten 
+Kurse können eingereicht werden, sofern der Antrag auf Anrechnung der Kurse bestätigt 
+wurde. Nähere Informationen zur Bewerbung, zu den Partneruniversitäten und zur An-
+rechnung sind auf der Homepage des International Office zu finden. 
+ 
+ 
+ 
+ 
+Universidade do Porto 
+ 
+
+[Page 9]
+3. Struktur 
+ 9 
+ 
+Empfohlene Universitäten und bereits anerkannte Kurse (Auszug) 
+ 
+Belgien – KU Leuven 
+ Project Management and Scheduling 
+ Supply Chain Management 
+ 
+ 
+Portugal – Universidade do Porto 
+ Business Analytics 
+ Logistics Management 
+ Decision Support Systems and BI 
+ 
+ 
+China - Sun Yat-Sen University 
+ China Supply Chain & Logistics Management 
+ Operations Management Special Topics 
+ 
+ 
+Südafrika – Stellenbosch University 
+ Supply Chain Management in the humanitarian Context 
+ Spatial accessibility and transport Network analysis 
+ Supply Chain Forecasting and Planning 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nach einer langen Suche nach einem Master in ganz Deutschland, habe ich mich 
+für den Master in BA&OR an der WFI entschieden. Die persönliche Atmosphäre, 
+Unterstützung der Studierenden und internationale sowie interdisziplinäre 
+Ausrichtung des Masters der Universität macht den Unterschied zu anderen 
+großen Universitäten in Deutschland. Als Wirtschaftsingenieurin find ich, dass 
+dieses Studium eine unverzichtbare Ergänzung für meine berufliche Perspektive 
+darstellt. 
+
+[Page 10]
+4. Studienplan 
+ 10 
+4. 
+Studienplan 
+Der Studienplan orientiert sich an der Prüfungsordnung des Master of Science (M.Sc.) in 
+Betriebswirtschaftslehre und konkretisiert die Vorgaben aus der Prüfungsordnung für den 
+Studienschwerpunkt Business Analytics & Operations Research. Im Laufe eines zweijäh-
+rigen Studiums müssen insgesamt 120 ECTS-Punkte erzielt werden. 
+1. - 3. Semester 
+4. Semester 
+Pflichtmodule 
+6 Module 
+Wahlpflichtmodule 
+7 Module 
+Wahlmodule 
+5 Module 
+Masterarbeit 
+30 ECTS 
+35 ECTS 
+25 ECTS 
+30 ECTS 
+ 
+Pflichtprogramm 
+Das Pflichtprogramm des Schwerpunkts BA&OR sieht ein festes „Methodenpro-
+gramm“ vor, das von allen Studierenden absolviert werden muss. Im Pflichtbereich sind 
+sechs Module zu absolvieren, in denen vorwiegend Methoden des BA&OR vermittelt wer-
+den. Ein Modul widmet sich dabei den Fragen der Wissenschafts- und Wirtschaftsethik. 
+ Decision Science 
+ Operations Research 
+ Statistische Prognoseverfahren 
+ Service Analytics 
+ Stochastische Modelle 
+ Ethik 
+ 
+Wahlpflichtprogramm 
+Im Wahlpflichtprogramm müssen sieben Wahlpflichtmodule absolviert werden, in denen 
+vorwiegend spezifisches, problemorientiertes Wissen aus den einzelnen Fachgebieten 
+des Schwerpunkts vermittelt wird. Die Module können aus einem einzigen Fachgebiet 
+stammen; sie können aber auch über alle Fachgebiete verteilt belegt werden. Auf Antrag 
+können auch Module aus dem Ausland als Wahlpflichtmodul eingebracht werden. Diese 
+müssen allerdings einen ähnlichen Inhalt zu den Modulen des Schwerpunkts BA&OR auf-
+weisen. Eine Liste mit allen Wahlpflichtmodulen findest Du im Modulkatalog oder auf un-
+serer Homepage unter Kurse. 
+Wahlprogramm 
+Es sind insgesamt fünf Wahlmodule zu absolvieren. Diese können aus allen Fachgebieten 
+des Schwerpunkts BA&OR oder aus dem Angebot aller anderen Schwerpunkte (MARKT, 
+FACT etc.) des BWL-Masterprogramms frei gewählt werden. Auf Antrag können auch 
+weitere Module (aus dem Ausland oder dem Gesamtangebot der KU) eingebracht wer-
+den. 
+Der Wahlbereich kann somit u. a. dazu verwandt werden, weitere für ein Fachgebiet inte-
+ressante Module zu belegen. Der Wahlbereich kann aber auch dazu verwandt werden, 
+sich in einem gänzlich anderen Fachgebiet der BWL, der VWL, in einer Wirtschaftsspra-
+che oder in einem Rechtsfach zu vertiefen oder aber sich allgemeinen, wissenschaftlichen 
+Fragestellungen zu widmen. 
+
+[Page 11]
+4. Studienplan 
+ 11 
+Weiterhin können bis zu drei Module aus einer ausgewählten Liste an Veranstaltungen 
+aus dem Bachelor-Programm der WFI in den Wahlbereich eingebracht werden, sofern 
+diese (oder vergleichbare) nicht bereits im Rahmen des Bachelor-Studiums besucht wur-
+den. 
+ 
+Abschlussarbeit 
+Die Masterarbeit ist an einem Lehrstuhl zu absolvieren, der regelmäßig Veranstaltungen 
+zu einem Fachgebiet im Studienschwerpunkt BA&OR anbietet. Es besteht aber auch die 
+Möglichkeit, die Masterarbeit an einem Lehrstuhl zu schreiben, der nicht am Studien-
+schwerpunkt beteiligt ist. Voraussetzung dabei ist jedoch, dass die Arbeit in Zusammen-
+arbeit mit einem „BA&OR -Lehrstuhl“ erfolgt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Campus WFI 
+ 
+Der Studienschwerpunkt hat mich insbesondere aufgrund der Vielfältigkeit der 
+wählbaren Kurse, bei gleichzeitigen anspruchsvollen und heutzutage relevanten 
+Inhalten, angesprochen. Die hohe Anwendungsorientierung gibt einem das nötige 
+Skillset mit, um aktuelle und künftige betriebswirtschaftliche Probleme mit 
+analytischen Methoden zu lösen. 
+
+[Page 12]
+5. Beschreibung der Fachgebiete 
+ 12 
+5. 
+Beschreibung der Fachgebiete 
+5.1. Finance 
+Die heutzutage enge Verbundenheit von Wissenschaft und 
+Praxis im Finanzbereich verdeutlicht die Vielzahl der inzwi-
+schen zum Standardrepertoire der Finanzpraxis gehörenden 
+kapitalmarktorientierten Modelle und quantitativen Methoden. 
+Beispiele für Wissenschaft in der Praxis (oder umgekehrt) sind: 
+CAPM, Optionspreistheorie, Value-at-Risk-Ansatz, Kreditrisi-
+komodelle und Basel II, Financial Engineering und Strukturierte 
+Finanzprodukte. 
+Gegenstand des Fachgebietes Finance sind primär finanzwirt-
+schaftliche Modelle zur Beschreibung und entsprechende Me-
+thoden zur Lösung von Fragestellungen, wie sie typischer-
+weise in der Praxis auftreten. 
+Das Studium dieser Vertiefungsrichtung ist insbesondere denjenigen zu empfehlen, die 
+bei Finanzdienstleistern wie Banken und Versicherungen oder generell im Finanzbereich 
+von Unternehmen sowie in entsprechenden Bereichen der Unternehmensberatung und 
+Wirtschaftsprüfung arbeiten möchten. Ferner erarbeiten sich die Studenten eine fundierte 
+Grundlage für ein möglicherweise anschließendes Doktorandenprogramm in diesem 
+Fachgebiet. 
+ 
+5.2. Informationsmanagement 
+Daten bzw. daraus ableitbare Informationen sind zu einem 
+zentralen Produktionsfaktor in Unternehmen geworden. Be-
+triebliche Informationssysteme sind dabei komplexe rechner-
+gestützte Systeme, welche die operativen Geschäftsprozesse 
+im und zwischen Unternehmen unterstützen bzw. im Rahmen 
+der zunehmenden Digitalisierung der Wirtschaft überhaupt 
+erst realisierbar machen. Daneben wird von Informationssys-
+temen auch zunehmend erwartet, analytische Prozesse zur 
+daten- und faktenbasierten Planung und Entscheidungsfin-
+dung in Echtzeit und automatisiert abzubilden bzw. über De-
+cision Support Systems bestmöglich zu unterstützen. 
+Im Fachgebiet Informationsmanagement lernen die Studierenden theoretische Grundla-
+gen und praxisorientiertes Know-how bzgl. Algorithmen und Datenstrukturen, Prozess-
+modellierung sowie Datenbanksystemen und Datenanalysetechniken – die Basis jedes 
+Informationssystems zum Management betrieblicher Informationen sind. Weitere Module 
+dieses Fachgebiets vertiefen Entwicklung und Aufbau von Datenbanken und Informati-
+onssystemen, Methodik des Erkenntnisgewinns aus Daten (Data Mining/Business Analy-
+tics), Business Intelligence und Entscheidungsunterstützungssysteme im Unternehmen 
+sowie spezielle Anwendungsszenarien von Informationssystemen im Digital Commerce, 
+insb. Empfehlungssystemen und Personalisierung von Web-Diensten und Inhalten, des 
+Internet of Things, sowie im Online Marketing und analytischen CRM. 
+ 
+ 
+ 
+Prof. Dr. Thomas 
+Mählmann 
+Prof. Dr. Thomas 
+Setzer 
+
+[Page 13]
+5. Beschreibung der Fachgebiete 
+ 13 
+5.3. Marketing 
+Der Lehrstuhl für Marketing beschäftigt sich schwerpunktmä-
+ßig mit klassischen kunden- und wertorientierten Problemen 
+im Marketing. Dabei steht stets die modell- und quantitative 
+Analyse der Bestimmungsfaktoren des Kaufverhaltens im Vor-
+dergrund. Informationen über den Kunden, sein Kaufverhalten 
+oder über Marktgegebenheiten bilden die Grundlage für eine 
+Vielzahl unternehmerischer Entscheidungen. In Anbetracht 
+sehr kurzer Produktlebenszyklen sowie gut informierter, kriti-
+scher Kunden und intensivem Wettbewerb, liegt die Bedeu-
+tung von aktuellen, genauen und umfassenden Marktinforma-
+tionen auf der Hand. 
+Der Einsatz quantitativer Methoden zur Analyse wichtiger kundenbezogener Informatio-
+nen ist mittlerweile nicht nur in der Forschung, sondern auch in der Praxis von großer 
+Bedeutung. Interaktionen in Geschäftsbeziehungen hinterlassen Verhaltensinformationen 
+vielfältigster Art. Die Vergangenheit hat gezeigt, dass diese Informationen strukturelle Zu-
+sammenhänge beinhalten, die zur Generierung eines Wettbewerbsvorteils herangezogen 
+werden können. Oft ist das Kundenverhalten jedoch latent und heterogen, weshalb ent-
+scheidungstheoretisch fundierte Modelle auf Individualbasis zunehmend Anwendung fin-
+den. 
+ 
+5.4. Quantitative Methoden 
+Statistische und quantitative Methoden legen eine Grundlage 
+für optimale Entscheidungsmodelle in der Betriebswirtschafts-
+lehre. Mit Hilfe statistischer Methoden können quantifizierbare 
+Prozesse und Leistungen eines Unternehmens analysiert, mo-
+delliert, prognostiziert und evaluiert werden. Dementspre-
+chend breit ist das Spektrum an konkreten Anwendungen in 
+unternehmerischen Funktionsbereichen wie beispielsweise 
+Logistik, Marketing, Controlling und Personal. 
+Im Rahmen der Ausbildung sollen Studenten zum einen dazu 
+befähigt werden, mit Hilfe objektiver und transparenter Krite-
+rien eine für eine Problemlösung effektive Methode aus einer 
+breiten Methodenvielfalt auszuwählen. Zum anderen sollen 
+Studenten durch das vermittelte Methodenwissen in die Lage versetzt werden, bestimmte 
+Methoden, die zur Lösung eines Problems vorgeschlagen werden, kritisch zu hinterfragen 
+und bezüglich ihrer Effizienz beurteilen zu können. Schließlich sollen Studenten im Rah-
+men ihrer methodischen Ausbildung auch in die Lage versetzt werden, empirische Fra-
+gestellungen mit Hilfe von statistischen Programmier-, Auswertungs- und Graphikumge-
+bungen (derzeit R) praktisch zu lösen. 
+ 
+ 
+ 
+Prof. Dr. Joachim 
+Büschken 
+Prof. Dr. Ulrich 
+Küsters 
+
+[Page 14]
+5. Beschreibung der Fachgebiete 
+ 14 
+5.5. Supply Chain Management & Operations 
+Bei der Versorgung der Konsumenten mit Produkten und 
+Dienstleistungen ist für die Unternehmen zur Erhaltung Ihrer 
+Wettbewerbsfähigkeit eine integrative, systemweite Betrach-
+tung der gesamten Transport-, Lager- und Produktionspro-
+zesse zwingend notwendig geworden. Als Reaktion darauf 
+werden auf allen Hierarchieebenen und über die Unterneh-
+mensgrenzen hinweg die Abhängigkeiten zwischen Einkauf, 
+Produktion, Vertrieb und Distribution explizit in die Planungen 
+einbezogen, um die Unternehmensstrukturen geeignet zu ge-
+stalten und die jeweiligen Prozesse zielführend zu steuern. Für 
+diesen grundsätzlichen Ansatz hat sich der Begriff Supply 
+Chain Management (SCM) durchgesetzt. 
+Aufgrund der Vielfältigkeit der Ausrichtungen und Methoden im SCM sind die zukünftigen 
+Berufsfelder der Absolventen ganz unterschiedlich. Klassisch ist der Einstieg in einen der 
+Funktionsbereiche Logistik, Produktion und Einkauf oder im SCM. In diesen Bereichen 
+werden Absolventen gesucht, die über ein fundiertes methodisches und informations-
+technisches Wissen verfügen. Darüber hinaus ist das erlernte „SCM-Know-How“ bei Be-
+ratungsunternehmen sehr gefragt, unabhängig davon, ob diese eine strategische, ope-
+rative und/oder informationstechnische Orientierung aufweisen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prof. Dr. Heinrich 
+Kuhn 
+Mein Bachelorabschluss an der WFI hat mich vom familiären Umfeld, intensiven 
+Betreuungsverhältnis und der aktiven Studierendengemeinschaft überzeugt. 
+Dadurch konnte ich nachhaltige Kontakte zu Unternehmen und Wissenschaft 
+knüpfen. Besonders der BA&OR-Master bereitet mich nun auf die Lösung 
+wissenschaftlicher und praxisrelevanter Problemstellungen vor, womit ich den 
+Unternehmen einen signifikanten Mehrwert bieten kann und zukunftsfähig bleiben 
+werde. 
+
+[Page 15]
+6. Semesterplan 
+ 15 
+6. 
+Semesterplan 
+Studierende können den Master in BWL sowohl zum Winter- als auch zum Sommerse-
+mester beginnen. Pro Semester werden drei Pflichtmodule angeboten. 
+Studienbeginn im Wintersemester 
+Beispieltrack: OR Analyst für Anwendungen in der Logistik 
+1. Semester (WS) 
+Pflichtmodule 
+• Operations Research 
+• Statistische Prognoseverfahren 
+• Decision Science 
+ 
+Wahlpflichtmodule 
+• Modeling and Optimization with 
+OPL 
+• Simulation 
+ 
+Wahlmodule 
+• OR Case Study with Python 
+ 
+Pflichtmodule 
+• Service Analytics 
+• Stochastische Modelle 
+ 
+ 
+Wahlpflichtmodule 
+• Algorithmen und Datenstrukturen 
+• Simulation mit Plant Simulation 
+ 
+Wahlmodule 
+• Operations Scheduling 
+• Programmieren von Heuristiken 
+2. Semester (SS) 
+3. Semester (WS) 
+Pflichtmodule 
+• Ethikmodul 
+ 
+Wahlpflichtmodule 
+• Konfigurierung von Produktions- 
+und Logistiksystemen 
+• Seminar zum Supply Chain 
+Management 
+• Seminar zum Operations 
+Research 
+ 
+Wahlmodule 
+• Logistik 
+• Service Operations 
+ 
+Masterarbeit 
+4. Semester (SS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nach meinem Bachelor in Economics habe ich mich für einen Master an einer 
+kleinen Uni mit intensivem Betreuungsverhältnis zu den Dozenten entschieden. Die 
+breite Kurspalette aus verschiedenen Fachgebieten, besonders der 
+Wirtschaftsinformatik, verbunden mit dem wissenschaftlichen Anspruch einer 
+Universität, brachte mich dazu die WFI einer Privatuni in München vorzuziehen. 
+
+[Page 16]
+6. Semesterplan 
+ 16 
+ 
+Im Folgenden wird auch der Studienverlauf für den Beispieltrack Data Scientist darge-
+stellt, wenn das Studium im Sommersemester begonnen wird. Sowohl die Ausbildung 
+zum OR Analyst als auch zum Data Scientist können sowohl zum Wintersemester als 
+auch zum Sommersemester beginnen. 
+ 
+Studienbeginn im Sommersemester 
+Beispieltrack: Data Scientist für Anwendungen im Marketing 
+ 
+1. Semester (SS) 
+Pflichtmodule 
+• Service Analytics 
+• Stochastische Modelle 
+• Ethikmodul 
+ 
+Wahlpflichtmodule 
+• Digital Business Models and 
+Technologies 
+ 
+Wahlmodule 
+• Rechnergestützte Statistik mit R 
+• Theoretische Grundlagen der 
+klassischen Statistik und 
+Ökonometrie 
+Pflichtmodule 
+• Operations Research 
+• Statistische Prognoseverfahren 
+• Decision Science 
+ 
+Wahlpflichtmodule 
+• Kundenbasisanalyse 
+• Data Science Werkzeuge 
+ 
+Wahlmodule 
+• Quasi-experimental Policy 
+Evaluation 
+2. Semester (WS) 
+3. Semester (SS) 
+Pflichtmodule 
+ 
+Wahlpflichtmodule 
+• Zeitreihenanalyse 
+• Algorithmen und Datenstrukturen 
+• Data Science Methoden 
+• Objektorientierte Programmierung 
+in der Betriebswirtschaftslehre 
+ 
+Wahlmodule 
+• Seminar Statistik 
+• Digital Business Models and 
+Technologies 
+Masterarbeit 
+4. Semester (WS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 17]
+7. Ansprechpartner 
+ 17 
+7. 
+Ansprechpartner 
+• Bitte wenden sie sich mit Fragen, die die einzelnen Veranstaltungen oder Fach-
+gebiete betreffen, an die jeweiligen Dozenten bzw. Fachvertreter 
+• Bitte beachten Sie auch die aktuellen Aushänge und Internetseiten der beteiligten 
+Lehrstühle. Dort finden Sie genauere Informationen über die angebotenen Veranstal-
+tungen. 
+• Sollten Sie noch allgemeine Fragen zum Studienschwerpunkt BA&OR haben, dann 
+wenden sie sich bitte an den Schwerpunktkoordinator: 
+ 
+Prof. Dr. Heinrich Kuhn 
+Lehrstuhl für Supply Chain Management & Operations 
+Auf der Schanz 49 
+85049 Ingolstadt 
+ 
+Tel.: 0841-937-1823 
+Fax: 0841-937-1955 
+E-Mail: heinrich.kuhn@ku.de 
+Homepage: http://www.ku.de/nc/wwf/pw/ 
+ 
+Assistenz des Schwerpunktkoordinators 
+Tobias Potoczki 
+Tel.: 0841-937-21852 
+E-Mail: tobias.potoczki@ku.de 
+ 
+Studienberatung 
+Franziska Rast 
+Tel.: 0841-937-21863 
+E-Mail: studienberatung-wfi@ku.de 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.ku.de/baor 
+Website des BA&OR 
+Schwerpunkts 
+www.wfi.edu 
+Website der WFI 
+
+[Page 18]
+8. Notizen 
+ 18 
+8. 
+Notizen 
+ 
+ 
+ 
+
+[Page 19]
+8. Notizen 
+ 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 20]
+8. Notizen 
+ 20

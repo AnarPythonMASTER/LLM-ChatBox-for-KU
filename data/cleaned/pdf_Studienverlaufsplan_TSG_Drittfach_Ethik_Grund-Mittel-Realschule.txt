@@ -1,0 +1,60 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_TSG_Drittfach_Ethik_Grund-Mittel-Realschule.pdf
+TITLE: Studienverlaufsplan_TSG_Drittfach_Ethik_Grund-Mittel-Realschule.pdf
+SOURCE_FILE: Studienverlaufsplan_TSG_Drittfach_Ethik_Grund-Mittel-Realschule.pdf
+------------------------------------------------------------
+
+[Page 1]
+Idealtypische Studienverlaufspläne 
+Im lehramtsgeeigneten Profil (Vollzeit) 
+Semester 
+2 
+Positionen und 
+Probleme der 
+Ethikdidaktik 
+(5 ECTS) 
+Religionsphilosophie 
+(5 ECTS) 
+Christentum und 
+Weltreligionen 
+(5 ECTS) 
+15 
+ECTS-
+Punkte 
+1 
+Klassiker der Ethik I 
+(5 ECTS) 
+Systematische Ethik 
+(5 ECTS) 
+15 
+ECTS-
+Punkte 
+Im lehramtsgeeigneten Profil (Teilzeit; neben Lehrtätigkeit oder grundständigem 
+Studium) 
+Semester 
+4 
+Religionsphilosophie 
+(5 ECTS) 
+Positionen und Probleme der 
+Ethikdidaktik 
+(5 ECTS) 
+10 
+ECTS-
+Punkte 
+3 
+Systematische Ethik 
+(5 ECTS) 
+5 
+ECTS-
+Punkte 
+2 
+Christentum und Weltreligionen 
+(5 ECTS) 
+5 
+ECTS-
+Punkte 
+1 
+Klassische Werke der Ethik I 
+(5 ECTS) 
+5 
+ECTS-
+Punkte

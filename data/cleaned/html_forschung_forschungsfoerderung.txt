@@ -1,0 +1,24 @@
+SOURCE_URL: https://www.ku.de/forschung/forschungsfoerderung
+TITLE: Forschungsförderung – KU
+SOURCE_FILE: forschung_forschungsfoerderung.html
+------------------------------------------------------------
+
+Forschungsförderung
+An der KU erhalten Wissenschaftlerinnen und Wissenschaftler
+Informationen, Beratungen und Unterstützungen
+bei der Planung und Vorbereitung, Beantragung und Durchführung (vor allem begutachteter) drittmittelgeförderter Forschungsprojekte, Zentraler Ansprechpartner dafür ist das
+Zentrum für Forschungsförderung (ZFF)
+.
+Das ZFF berät Doktorandinnen und Doktoranden, insbesondere aber Wissenschaftlerinnen und Wissenschaftler in der frühen Phase nach der Promotion individuell zu verschiedenen Optionen und Unterstützungsmöglichkeiten für die
+wissenschaftliche Karriereentwicklung
+.
+Darüber hinaus ist es Anliegen des ZFF, die Forschung von Wissenschaftlern, Projekten, Institutionen und Themen der KU besser sichtbar und erfahrbar zu gestalten und einen
+Wissenstransfer
+von Forschungsergebnissen und -themen in die Gesellschaft zu ermöglichen.
+KU-interne Forschungsförderung proFOR+
+Weitere Fördermöglichkeiten
+• für Promotions- und Forschungsstipendien
+• für Forschungsprojekte
+• für Konferenzreisen
+• für Forschungsaufenthalte
+• für Wissenschaftspreise

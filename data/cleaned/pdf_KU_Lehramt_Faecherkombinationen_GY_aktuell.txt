@@ -1,0 +1,80 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/KU_Lehramt_Faecherkombinationen_GY_aktuell.pdf
+TITLE: KU_Lehramt_Faecherkombinationen_GY_aktuell.pdf
+SOURCE_FILE: KU_Lehramt_Faecherkombinationen_GY_aktuell.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Lehramt Gymnasium 
+Fächerkombinationsmöglichkeiten an der KU 
+ 
+Unterrichtsfach 1 
+Unterrichtsfach 2 
+Deutsch 
+Englisch** 
+Französisch 
+Geographie 
+Geschichte 
+Latein 
+Mathematik 
+Katholische Religionslehre 
+Philosophie / Ethik 
+Politik und Gesellschaft 
+ 
+Englisch** 
+Französisch 
+Geographie 
+Geschichte 
+Italienisch 
+Latein 
+Mathematik 
+Philosophie / Ethik 
+Psychologie mit schulpsychologischem Schwerpunkt* 
+Katholische Religionslehre 
+Politik und Gesellschaft 
+Spanisch 
+Wirtschaftswissenschaften 
+ 
+Französisch 
+Geschichte 
+Latein 
+Politik und Gesellschaft 
+Spanisch 
+ 
+Geographie 
+Wirtschaftswissenschaften 
+ 
+Latein 
+Geschichte 
+Griechisch 
+Mathematik 
+Philosophie / Ethik 
+Politik und Gesellschaft 
+Psychologie mit schulpsychologischem Schwerpunkt* 
+Katholische Religionslehre 
+ 
+Mathematik 
+Philosophie / Ethik 
+Psychologie mit schulpsychologischem Schwerpunkt* 
+Katholische Religionslehre 
+Wirtschaftswissenschaften 
+ 
+* Zulassungsbeschränkung – fristgerechte Bewerbung erforderlich 
+** Eignungsfeststellungsverfahren – fristgerechte Anmeldung erforderlich 
+ 
+Erweiterungen (ab dem dritten Fachsemester): 
+- 
+weiteres Unterrichtsfach 
+- 
+Beratungslehrkraft 
+- 
+Psychologie mit schulpsychologischem Schwerpunkt* 
+- 
+Deutsch als Zweitsprache (nur als nachträgliche Erweiterung möglich) 
+- 
+fremdsprachliche Qualifikation (nur als nachträgliche Erweiterung möglich) 
+ 
+Bei Fragen wenden Sie sich bitte an die Studierendenberatung der KU 
+(studierendenberatung@ku.de). 
+ 
+Grundlage: §§ 59–60 LPO I; Stand 05 / 2025

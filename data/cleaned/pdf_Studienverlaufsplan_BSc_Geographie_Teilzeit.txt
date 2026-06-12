@@ -1,0 +1,192 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BSc_Geographie_Teilzeit.pdf
+TITLE: Studienverlaufsplan_BSc_Geographie_Teilzeit.pdf
+SOURCE_FILE: Studienverlaufsplan_BSc_Geographie_Teilzeit.pdf
+------------------------------------------------------------
+
+[Page 1]
+STUDIENVERLAUF B.SC. GEOGRAPHIE - TEILZEIT
+Phys. Geographie / Gesellschaft, Tourismus und Umwelt / Allgem. Geographie
+Pﬂichtbereich 
+Wahlpﬂichtbereich 
+ Wahlmodule * wird im Sommersemester und Wintersemester angeboten
+V1-H
+Humangeographie 3 
+V5-H
+Humangeographie 4 
+V2-H
+Tourismusmanagement 1 
+V6-H
+Tourismusgeographie
+V3-R
+Regionale Geographie 2:
+Globale Strukturen
+V7-M
+BerufsprakƟkum
+V4-H
+GesellschaŌ und Umwelt
+G10-M
+Empirische Methoden und kleines Projekt
+V1-P
+Physische Geographie 3: LandschaŌsökologie
+V2-P
+Schnee- und Gletscherkunde 
+V4-P
+Fernerkundung
+W2-H
+Mediengeographie und Techniken der 
+Filmerstellung
+W3-H
+Grundlagen in Planung u. Recht
+V5-P
+Phys. Geographie 4: VegetaƟonsgeographie
+V6-P
+Gewässerkunde
+W2-P
+Ökosystemleistungen
+W1-H
+Tourismuspsychologie u. -soziologie
+W1-P
+Umweltplanung
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+10 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5. Semester
+VERTIEFUNG
+6. Semester
+7. Semester
+8. Semester
+G7-H
+Humangeographie 2
+G2-P
+Physische Geographie 1:
+Hydro- und Klimageographie
+G8-P
+Physische Geographie 2:
+Geomorphologie
+G3-M
+Einführung in staƟsƟsche Methoden 
+für Geographen
+G9-M
+Geländemethoden und kleines Projekt
+G4-O
+Einführung in die Geographie
+G11-T
+GeoinformaƟk
+G5-T
+Kartenkunde und 
+Kartographie
+G12-Ex
+Exkursionen 
+(insg. 5 Tage)
+G6-R
+Regionale Geographie 1: 
+Europa
+G1-H
+Humangeographie 1
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+1. Semester
+GRUNDLAGEN
+2. Semester
+3. Semester
+4. Semester
+G13-P
+Bodengeographie
+ 
+Anlage1b: Idealtypischer Studienverlaufsplan in Teilzeit
+11
+
+[Page 2]
+STUDIENVERLAUF B.SC. GEOGRAPHIE - TEILZEIT
+Phys. Geographie / Gesellschaft, Tourismus und Umwelt / Allgem. Geographie
+Anlage1b: Idealtypischer Studienverlaufsplan in Teilzeit
+S1-H
+Spezielle Methoden und Große Projektarbeit
+in der Human- und WirtschaŌsgeographie
+S1-P
+Mensch-Umwelt-Konﬂikte 
+S1-R
+Regionale Geographie 3: Deutschland
+S3-H
+Tourismusmanagement 2 
+S4-P
+Analyse und Bewertung in der Physischen Geographie und Große Projektarbeit
+S2-P
+Fallbsp. der Angew. Phys. Geographie
+S4-H
+Auswertung große Projektarbeit
+in der Human- und WirtschaŌsgeographie
+V8-Ex
+Großes Geländeseminar
+S5
+Bachelorarbeit
+S2-H
+Entrepreneurship
+S6-H*
+Begl. Seminar zur BA (GTU)
+W4-H
+Geographische 
+Entwicklungsforschung
+S3-P
+Einführung in die Geologie 
+W4-P
+Den Klimawandel verstehen lernen: 
+NaturwissenschaŌliche Grundlagen
+W5-H
+WissenschaŌstheorie
+und Methodologie
+S6-P*
+Begl. Seminar zur BA (PG)
+10 cp
+5 cp
+5 cp
+5 cp
+10 cp
+5 cp
+5 cp
+10 cp
+10 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+5 cp
+9. Semester
+SPEZIALISIERUNG
+10. Semester
+11. Semester
+12. Semester
+G13-Pro
+Studium Pro
+Pﬂichtbereich 
+Wahlpﬂichtbereich 
+ Wahlmodule * wird im Sommersemester und Wintersemester angeboten
+12

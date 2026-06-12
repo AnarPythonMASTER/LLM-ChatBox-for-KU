@@ -1,0 +1,143 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_BWL_MSc_WiSe_22_23.pdf
+TITLE: Wahlpflichtkatalog_BWL_MSc_WiSe_22_23.pdf
+SOURCE_FILE: Wahlpflichtkatalog_BWL_MSc_WiSe_22_23.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+(Betriebswirtschaftslehre M.Sc.) 
+ 
+1. nach § 9 der Prüfungsordnung Masterstudiengang Betriebswirtschaftslehre in der 
+Fassung vom 20.05.2021 
+2. Geltungsbereich zum WiSe 2022/2023 
+ 
+3. vom Fakultätsrat der Fakultät Wirtschaftswissenschaften beschlossen am 
+13.07.2022 
+ 
+ 
+Auflistung der Studienschwerpunkte 
+In der PO verankerte Studienschwerpunkte: 
+ 
+1. Marktorientierte Unternehmensführung (MARKT), 
+2. Finance, Accounting, Controlling, Taxation und Wirtschaftsrecht (FACT), 
+3. Business Analytics and Operations Research, 
+4. Entrepreneurship und Innovation, 
+5. Internationale Betriebswirtschaftslehre, 
+6. Digital Customer Experience & Service Design 
+ 
+1. Modulangebot im Wahlpflichtbereich Marktorientierte Unternehmensführung 
+Advanced Consulting Case (5 ECTS–Punkte) Portfolio 
+Advanced Entrepreneurial Finance & Strategy (5 ECTS–Punkte) Portfolio 
+Ausgewählte Probleme der Unternehmensentwicklung (5 ECTS–Punkte) Klausur 
+Consumer Psychology and Decision Making (5 ECTS–Punkte) Klausur 
+Economics of Consumption (5 ECTS–Punkte) Hausarbeit 
+Effective English for Leadership (5 ECTS–Punkte) Portfolio 
+Entrepreneurial Management and Tourismus (5 ECTS–Punkte) Portfolio 
+From Idea to Commercialization: Start-Up School (5 ECTS–Punkte) Portfolio 
+Intercultural Communication (5 ECTS-Punkte) Portfolio 
+Konfigurierung von Produktions- und Logistiksystemen (5 ECTS–Punkte) Klausur 
+Kundenbasisanalyse (5 ECTS–Punkte) Klausur und Hausaufgaben 
+Objektorientierte Programmierung von Heuristiken * (5 ECTS), Projekt 
+Operations Research (5 ECTS–Punkte) Klausur 
+Projektstudium „Management und Führung“ (5 ECTS–Punkte) Portfolio 
+Regional- und Stadtökonomie (5 ECTS–Punkte) Klausur 
+Strategies for Family Owned Business (5 ECTS–Punkte) Portfolio 
+Statistische Prognoseverfahren (5 ECTS–Punkte) Klausur 
+Strategisches Management von Professional Service Firms (5 ECTS–Punkte) Portfolio 
+Projekt im Dienstleistungs-und Innovationsmanagement (5 ECTS–Punkte) Portfolio 
+Seminar "Europäisches und Internationales Handels- und Wirtschaftsrecht" (10 ECTS–
+Punkte) Schriftliche Seminararbeit / Vortrag und Diskussion 
+Seminar zum Supply Chain Management (5 ECTS–Punkte) Portfolio 
+ 
+ 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+2. Modulangebot im Wahlpflichtbereich Finance, Accounting, Controlling, Taxation und 
+Wirtschaftsrecht 
+Bilanzsteuerrecht (5 ECTS-Punkte) Klausur 
+Business Intelligence im Controlling (5 ECTS-Punkte) Praktische Leistungen 
+Erbrecht und Zivilprozessrecht (5 ECTS–Punkte) Klausur 
+Fallstudien zu Umwandlungs- und internationalem Steuerrecht (2,5 ECTS–Punkte) 
+Präsentation zu einer Fragestellung und Diskussion 
+Fallstudienseminar Accounting & Controlling (5 ECTS–Punkte) Hausarbeit + Präsentation 
+Fortgeschrittene Datenanalyse in Finance mit Python (5 ECTS–Punkte) Portfolio 
+Internationale Unternehmensbesteuerung (5 ECTS–Punkte) Klausur 
+Internationale Verrechnungspreise und Gewinnabgrenzung (2,5 ECTS–Punkte) Präsentation 
+zu einer Fragestellung und Diskussion 
+Quasi- experimentelle Methoden der Politikevaluation (5 ECTS–Punkte) Hausarbeit 
+Seminar „Aktuelle Fragen der Steuerpolitik“ (5 ECTS–Punkte) Portfolio 
+Seminar: Applied Empircal Accounting Research (5 ECTS–Punkte) Seminararbeit und 
+Präsentation 
+Seminar "Europäisches und Internationales Handels- und Wirtschaftsrecht" (10 ECTS–
+Punkte) Schriftliche Seminararbeit / Vortrag und Diskussion 
+Seminar Finance and Banking A (5 ECTS–Punkte) Portfolio 
+Seminar Restrukturierung, Sanierung und Insolvenz (5 ECTS–Punkte) Portfolio 
+Statistische Prognoseverfahren (5 ECTS–Punkte) Klausur 
+Steuerfunktion 4.0 – Strategische Führungsaufgabe in Zeiten der Digitalisierung (5 ECTS–
+Punkte) Präsentation 
+Systeme der Unternehmenssteuerung (5 ECTS–Punkte) Portfolio 
+Unternehmenssteuerrecht (5 ECTS–Punkte) Klausur 
+Workshop Empirical Accounting (5 ECTS–Punkte) Portfolio 
+ 
+ 
+3. Modulangebot im Wahlpflichtbereich Business Analytics and Operations Research 
+Analytical Customer Management (5 ECTS–Punkte) Klausur 
+Customer Relationship Management (5 ECTS–Punkte) Klausur 
+Data Science Theorie (5 ECTS–Punkte) Klausur oder mündliche Prüfung 
+Data Science Werkzeuge (5 ECTS–Punkte) Klausur 
+Empirische Managementforschung (5 ECTS–Punkte) Klausur 
+Forschungs- Projektstudium SCM (5 ECTS–Punkte) Portfolio 
+Fortgeschrittene Datenanalyse in Finance mit Python (5 ECTS–Punkte) Klausur 
+Konfigurierung von Produktions- und Logistiksystemen (5 ECTS–Punkte) Klausur 
+Objektorientierte Programmierung von Heuristiken * (5 ECTS), Projekt 
+Quasi- experimentelle Methoden der Politikevaluation (5 ECTS–Punkte) Hausarbeit 
+Seminar Finance and Banking A (5 ECTS–Punkte) Portfolio 
+Seminar Operations Research (5 ECTS–Punkte) Portfolio 
+Seminar zum Supply Chain Management (5 ECTS–Punkte) Portfolio 
+Simulation (5 ECTS–Punkte) Portfolio 
+ 
+ 
+4. Modulangebot im Wahlpflichtbereich Entrepreneurship und Innovation 
+Advanced Consulting Case (5 ECTS–Punkte) Portfolio 
+Advanced Entrepreneurial Finance & Strategy (5 ECTS–Punkte) Portfolio 
+Analytisches Customer Management (5 ECTS–Punkte) Klausur 
+Ausgewählte Probleme der Unternehmensentwicklung (5 ECTS–Punkte) Klausur 
+Consumer Psychology and Decision making (5 ECTS–Punkte) Klausur 
+Economics of Innovation (5 ECTS–Punkte) Klausur 
+
+[Page 3]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Entrepreneurial Management and Tourism (5 ECTS–Punkte) Klausur 
+Forschungsprojektstudium in der Christlichen Sozialethik und Gesellschaftspolitik (5 ECTS–
+Punkte) Portfolio 
+Intercultural Communication (5 ECTS–Punkte) Portfolio 
+Operations Research (5 ECTS–Punkte) Klausur 
+Projekt im Dienstleistungs- und Innovationsmanagement (5 ECTS–Punkte) Portfolio 
+Projektstudium „Management und Führung“ (5 ECTS–Punkte) Portfolio 
+Regional and Urban Economics (5 ECTS–Punkte) Klausur 
+Seminar on Entrepreneurship and Innovation (5 ECTS–Punkte) Portfolio 
+Social Innovation II: Social Impact Analysis and Communication (5 ECTS–Punkte) Portfolio 
+Strategies for Family Owned Business (5 ECTS–Punkte) Portfolio 
+Strategisches Management (5 ECTS–Punkte) Portfolio 
+Strategisches Management von Professional Service Firms (5 ECTS–Punkte) Portfolio 
+Sustainable Entrepreneurship (5 ECTS-Punkte) Portfolio 
+ 
+5. Modulangebot im Wahlpflichtbereich Internationale Betriebswirtschaftslehre 
+Wahlpflichtmodule können aus allen Masterschwerpunkten gewählt werden. Die genauen Module 
+der hier aufgeführten Fachgebiete der Schwerpunkte können den obigen Auflistungen entnommen 
+werden. 
+ 
+6. Modulangebot im Wahlpflichtbereich Digital Customer Experience & Service Design 
+ 
+Wahlpflichtmodule können aus allen Masterschwerpunkten gewählt werden. Die genauen Module 
+der hier aufgeführten Fachgebiete der Schwerpunkte können den obigen Auflistungen entnommen 
+werden. 
+ 
+ 
+ 
+Wahlbereich: Modulangebot

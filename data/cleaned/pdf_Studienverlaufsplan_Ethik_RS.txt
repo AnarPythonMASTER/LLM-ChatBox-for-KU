@@ -1,0 +1,61 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Ethik_RS.pdf
+TITLE: Studienverlaufsplan_Ethik_RS.pdf
+SOURCE_FILE: Studienverlaufsplan_Ethik_RS.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+ 
+ 
+ 
+Lehramt Realschule (mind. 210 ECTS-Punkte) 
+Unterrichtsfach Ethik (72 ECTS-Punkte) 
+(Stand: Januar 2025, gültig ab Studienbeginn WiSe 2025/2026) 
+ 
+ 
+Studienverlaufspläne stellen einen idealtypischen Ablauf des Studiums dar und dienen der Orientierung; die angegebenen 
+Module müssen nicht zwingend zu den dargestellten Zeitpunkten absolviert werden. Dieser idealtypische Studienverlaufsplan 
+ist nur vollständig in Kombination mit der zugehörigen Fachprüfungsordnung. Laden Sie sich diese zu Beginn Ihres Studiums 
+unter https://www.ku.de/die-ku/organisation/verwaltung/recht/rechtsvorschriften/studium-und-lehre/pruefungsordnungen 
+herunter und archivieren Sie sie zusammen mit diesem Plan. Wenn Sie sich nicht sicher sind, welche Version der 
+Fachprüfungsordnung für Sie gilt, fragen Sie im Prüfungsamt nach. Rechtliche Gültigkeit besitzt ausschließlich die 
+Fachprüfungsordnung, nicht der vorliegende Studienverlaufsplan. 
+ 
+ 
+ 
+7. Semester 
+Angewandte Ethik II 
+5 ECTS 
+Positionen und Probleme der Ethikdidaktik 
+5 ECTS 
+6. Semester 
+Klassiker der Ethik II 
+5 ECTS 
+Lektürekurs Ethik 
+5 ECTS 
+5. Semester 
+Angewandte Ethik I 
+5 ECTS 
+Einführung in die politische Theorie 
+und Sozialphilosophie 
+5 ECTS 
+4. Semester 
+Klassiker der Ethik I 
+5 ECTS 
+Religionsphilosophie 
+5 ECTS 
+3. Semester 
+Einführung in die Theoretische Philosophie 
+5 ECTS 
+Systematische Ethik 
+5 ECTS 
+2. Semester 
+Einführung in die Praktische Philosophie 
+5 ECTS 
+Christentum und Weltreligionen 
+5 ECTS 
+1. Semester 
+Einführung in das Studium der Philosophie 
+5 ECTS 
+Basismodul Ethische Bildung 
+7 ECTS

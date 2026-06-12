@@ -1,0 +1,217 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_MSc_Umweltprozesse_Naturgefahren.pdf
+TITLE: Studienverlaufsplan_MSc_Umweltprozesse_Naturgefahren.pdf
+SOURCE_FILE: Studienverlaufsplan_MSc_Umweltprozesse_Naturgefahren.pdf
+------------------------------------------------------------
+
+[Page 1]
+Pflichtmodule
+Wahlpflichtmodule
+Wahlmodule
+3 
+.
+Semester
+SPEZIALISIERUNG
+Großes Geländeseminar (mind. 8 Tage)
+Lehrstuhl für Physische Geographie (KUEI)
+SM 1: Nachhaltige 
+Umweltent-
+wicklung
+Fachgebiet Boden- 
+geographie und 
+Bodenerosion (KUEI)
+SM 2: Angewandte 
+Geologie
+Lehrstuhl für 
+Physische 
+Geographie (KUEI)
+SM 3: Analyse von Risiken 
+durch Naturgefahren
+Lehrstuhl für Physische Geographie 
+(KUEI)
+WP 6: Praxismodul
+15 Werktage
+WP 7: Freies Modul
+aus benachbarten Fächern der 
+KUEI, TUM oder HM
+WP 3: Aspekte des 
+Managements von Risiken 
+durch Naturgefahren
+Lehrstuhl für Physische Geographie 
+(KUEI)
+WP 9: Freies Modul
+aus benachbarten Fächern der 
+KUEI, TUM oder HM
+4 .
+Semester
+ABSCHLUSS
+AM: Abschlussarbeit Master
+ 1 .
+Semester
+GRUNDLAGEN
+GM 1: Geomorphologisch und 
+hydrologische Umweltprozesse und 
+Naturgefahren
+Lehrstuhl für Physische Geographie (KUEI)
+GM 2: Klimatologische Umweltprozesse 
+und Naturgefahren
+Professur für Physische Geographie/LÖ und 
+nachhaltige ÖE (KUEI)
+GM 3: Umweltmonitoring
+Professur für Angewandte 
+Physische Geographie (KUEI)
+GM 4: Geoinformatische und 
+statistische Methoden
+Lehrstuhl für Physische Geographie 
+(KUEI)
+GM 5: Aufnahme und 
+Prozessierung digitaler 
+Geländedaten
+Lehrstuhl für Physische Geographie 
+(KUEI)
+ 2 .
+Semester 
+VERTIEFUNG
+GM 1: Geomorphologisch und 
+hydrologische Umweltprozesse und 
+Naturgefahren
+Lehrstuhl für Physische Geographie (KUEI)
+GM 2: Klimatologische Umweltprozesse 
+und Naturgefahren
+Professur für Physische Geographie/ LÖ und 
+nachhaltige ÖE (KUEI)
+WP 1: Bodenerosion: Messung 
+– Modellierung- Management
+Fachgebiet Bodengeographie und 
+Bodenerosion (KUEI)
+WP 2A:
+Hochwassermanagement
+Lehrstuhl für Hydrologie und 
+Flussgebietsmanagement(TUM)
+WP 2B: Hydrometeorologie 
+und Management von 
+Wasserressourcen 
+Professur für Ökoklimatologie (TUM)
+VM 3: Landschaft- 
+analyse und 
+Naturschutz
+Professur für Phy-
+sische Geographie/ 
+LÖ und nachhaltige 
+ÖE (KUEI)
+VM 4: Digitale 
+Reliefanalyse
+Lehrstuhl für 
+Physische 
+Geographie (KUEI)
+WP 8: Freies Modul
+(aus benachbarten Fächern der 
+KUEI, TUM oder HM)
+WP 4A: Gebirgseinzugsgebiete 
+im Klimawandel
+Professur für Ökoklimatologie (TUM)
+WP 4B: Klimatologische 
+Gelände- und Analysemethoden 
+Professur für Physische Geographie/ 
+LÖ und nachhaltige ÖE (KUEI)
+WP5A: Einführung in die 
+Programmiertechnik 
+Mathematik und Data Science (KUEI)
+WP 5B: Hands-on machine learning
+Mathematik und Data Science (KUEI)
+ 2 .
+Semester 
+VERTIEFUNG
+VM 1: Regionale Umweltaspekte
+Vorbereitungsseminar
+VM 2: Projektarbeit Umweltmonitoring: 
+Gelände und Labor
+alle Einheiten der Physischen Geographie 
+(KUEI)
+WP 1: Bodenerosion: Messung 
+– Modellierung-Management
+Fachgebiet Bodengeographie und 
+Bodenerosion (KUEI)
+WP 2A:
+Hochwassermanagement
+Lehrstuhl für Hydrologie und 
+Flussgebietsmanagement (TUM)
+WP 2B: Hydrometeorologie 
+und Management von 
+Wasserressourcen 
+Professur für Ökoklimatologie 
+(TUM)
+VM 3: Landschaft- 
+analyse und 
+Naturschutz
+Professur für 
+Physische 
+Geographie/LÖ und 
+nachhaltige ÖE (KUEI)
+VM 4: Analyse 
+digitaler 
+Geländedaten
+Lehrstuhl für 
+Physische 
+Geographie (KUEI)
+WP 8: Freies Modul
+(aus benachbarten Fächern der 
+KUEI, TUM oder HM)
+WP 4A: Gebirgseinzugsgebiete 
+im Klimawandel
+Professur für Ökoklimatologie (TUM)
+WP 4B: Klimatologische 
+Gelände- und 
+Analysemethoden 
+Professur für Physische Geographie/ 
+LÖ und nachhaltige ÖE (KUEI)
+WP5A: Einführung in die 
+Programmiertechnik 
+Mathematik und Data Science (KUEI)
+Methodenworkshop Physische 
+Geographie
+alle Einheiten der Phys. Geographie 
+& externe Partner; Angebot von 
+Workshops in jedem Semester
+WP 5B: Hands-on Machine 
+Learning and Data Science
+Mathematik und Data Science (KUEI)
++
+Stand: 21.3.2025
+10
+5
+5
+5
+5
+10
+5
+5
+5
+5
+5
+5
+5
+5
+5
+10
+5
+5
+10
+5
+5
+5
+5
+30
+5
+Lehrstuhl für Physische Geographie
+Professur für Physische Geographie/LÖ und nachhaltige ÖE
+Professur für Angewandte Physische Geographie
+Fachgebiet Bodengeographie und Bodenerosion
+alle Einheiten der 
+Physischen 
+Geographie (KUEI)
+▶ direkter Link zum 
+Wahlpflichtkatalog 
+Studienverlaufsplan MSc Umweltprozesse und Naturgefahren
+5
+5
+ECTS-Punkte

@@ -1,0 +1,11 @@
+SOURCE_URL: https://www.ku.de/studium/nach-dem-studium
+TITLE: Nach dem Studium – KU
+SOURCE_FILE: studium_nach-dem-studium.html
+------------------------------------------------------------
+
+Alumni-Netzwerk der KU
+Bleiben Sie auch nach dem Studium in Kontakt - mit Ihren Komilitoninnen und Komilitonen, den Dozierenden und der KU!
+Verifikation und Zweitschrift
+Hier können Sie sich Ihren Abschluss verifizieren lassen oder eine Zweitschrift Ihrer Abschlussdokumente beantragen.
+Bescheinigungen nach Abschluss
+Hier können Sie Studienbescheinigung oder Studienverlaufsbescheinigung, Exmatrikulationsbescheinigung, Rentenbescheinigung oder Gebührenbescheinigung beantragen.

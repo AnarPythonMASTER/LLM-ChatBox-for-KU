@@ -1,0 +1,1036 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Absolv_Jour_Ei_2014.pdf
+TITLE: Absolv_Jour_Ei_2014.pdf
+SOURCE_FILE: Absolv_Jour_Ei_2014.pdf
+------------------------------------------------------------
+
+[Page 1]
+Absolventenbefragung 2014 
+Journalistik Eichstätt im bayernweiten Vergleich 
+Klaus Meier 
+ 
+ 
+-­‐ 
+im Rahmen der Bayerischen Absolventenbefragung: AG unter Leitung von Christoph 
+Neuberger (München) und Mitarbeit von Markus Behmer (Bamberg), Ralf Hohlfeld 
+(Passau) und Klaus Meier (Eichstätt), unterstützt vom Mediencampus Bayern (Markus 
+Kaiser) 
+-­‐ 
+Feldzeit: 8. September bis 5. November 2014 
+-­‐ 
+Weiterleitung der Zugangscodes an die Absolventen durch die Institute 
+-­‐ 
+bayernweit: 546 befragte Absolventen der Jahrhänge 2012/13 (21 Studiengänge von elf 
+Universitäten und Hochschulen) 
+-­‐ 
+Eichstätt: zusätzlich zu den Jahrgängen 2012/13 wurde auch der Bachelor-Jahrgang 
+2011 befragt. Damit sind alle bisherigen Jahrgänge des Bachelor- und des Master-
+Studiengangs Journalistik befragt (Start Bachelor 2008 – erste Absolventen 2011, Start 
+Master 2010 – erste Absolventen 2012). 
+-­‐ 
+Der Rücklauf war in Eichstätt mit über 80 Prozent bei weitem am höchsten (der 
+bayernweite Schnitt lag bei 28 Prozent): 
+   
+Studiengang 2013 
+2012 
+Teilnehmer 
+gesamt 
+2012/13 
+2011 
+Gesamt 
+Bachelor Ei 
+33 von 37 
+(89%) 
+21 von 26 
+(81%) 
+54 von 63 
+(86%) 
+11 von 16 
+(69%) 
+65 von 79 
+(82%) 
+Master Ei 
+5 von 6 
+(83%) 
+5 von 6 
+(83%) 
+10 von 12 
+(83%) 
+– 
+10 von 12 
+(83%) 
+Gesamt Ei 
+38 von 43 
+(88%) 
+26 von 32 
+(81%) 
+64 von 75 
+(85%) 
+11 von 16 
+(69%) 
+75 von 91 
+(82%) 
+Uni-BA 
+bayernweit 
+ 
+ 
+335 (27%) 
+ 
+ 
+Uni-MA 
+bayernweit 
+ 
+ 
+106 (31%) 
+ 
+ 
+HS-BA 
+bayernweit 
+ 
+ 
+105 (28%) 
+ 
+ 
+Gesamt 
+bayernweit 
+ 
+ 
+546 (28%) 
+ 
+ 
+ 
+-­‐ 
+Da der Rücklauf bayernweit deutlich geringer war, sind die Vergleichswerte nicht 
+repräsentativ und verallgemeinerbar, allenfalls bedingt belastbare Tendenzwerte, die der 
+Orientierung dienen können. 
+ 
+ 
+Die folgende Auswertung bezieht sich – wenn nicht anders angegeben – auf alle Eichstätter 
+Abschlussjahrgänge 2011 bis 2013. 
+Der bayernweiten Vergleichszahlen beziehen sich nur auf die Abschlussjahrgänge 2012 und 
+2013. 
+à Der Vergleich ist nicht verallgemeinerbar und liefert nur Orientierungspunkte! 
+ 
+ 
+Ausführliche Auswertung für alle bayerischen Studiengänge unter: 
+http://www.mediencampus.de/home/news/news/detail/News/erstmals-bayernweit-
+absolventen-befragt.html 
+ 
+ 
+
+[Page 2]
+Anzahl der Fachsemester 
+ 
+Bachelor 
+6 Sem. 61x | 7 Sem 4x | ø 6,06 
+ 
+Master 
+4 Sem. 9x | 5 Sem. 1x | ø 4,1 
+ 
+ 
+Vergleich bayernweit: 
+ 
+Uni-Bachelor 6,3 
+Uni-Master 4,7 
+ 
+ 
+ 
+Weiteres Studium nach Bachelor-Abschluss 
+ 
+Haben Sie nach Ihrem Abschluss in [ studium ] ein weiteres Studium (einschließlich 
+Promotion) aufgenommen? 
+ 
+ 
+Eichstätt 
+n=65 
+Uni-BA (%) 
+n=333 
+HS-BA (%) 
+n=103 
+Ja, ich habe ein weiteres Studium 
+aufgenommen und studiere es 
+noch. 
+42 (65%) 
+63 
+35 
+Ja, ich habe ein weiteres Studium 
+aufgenommen, habe dieses aber 
+wieder abgebrochen. 
+5 (8%) 
+3 
+3 
+Ja, ich habe ein weiteres Studium 
+aufgenommen und es 
+abgeschlossen. 
+3 (5%) 
+3 
+1 
+Nein, ich plane aber die Aufnahme 
+eines weiteren Studiums. 
+5 (8%) 
+12 
+31 
+Nein, ich könnte mir aber 
+vorstellen, noch ein weiteres 
+Studium aufzunehmen. 
+7 (11%) 
+12 
+26 
+Nein, ich beabsichtige keine 
+Aufnahme eines weiteren 
+Studiums. 
+3 (5%) 
+7 
+4 
+ 
+ 
+ 
+ 
+
+[Page 3]
+Motive für ein Masterstudium 
+ 
+Welche der folgenden Motive für die Aufnahme des Masterstudiums waren für Sie 
+entscheidend? 
+ 
+ 
+Eichstätt (%) 
+n=37 
+Uni-BA (%) 
+n=191 
+HS-BA (%) 
+n=33 
+sinnvolle Ergänzung, um mich 
+gezielt auf einen Beruf 
+vorzubereiten 
+81 
+70 
+82 
+mich persönlich weiterbilden 
+73 
+76 
+64 
+mangelnde Akzeptanz des 
+Bachelor-Abschlusses in der 
+Praxis 
+62 
+62 
+52 
+Zeit für die Berufsfindung 
+gewinnen 
+46 
+46 
+15 
+wissenschaftlichen Background 
+erweitern 
+43 
+40 
+46 
+fachliche Defizite ausgleichen 
+41 
+37 
+49 
+Praxiserfahrung vertiefen 
+22 
+25 
+21 
+Status „Student/in“ beibehalten, 
+beispielsweise aus finanziellen 
+Gründen 
+8 
+15 
+3 
+eine akademische Laufbahn 
+einschlagen 
+5 
+11 
+6 
+etwas ganz anderes machen als 
+bisher 
+5 
+10 
+0 
+nicht arbeitslos sein 
+5 
+10 
+9 
+Sonstiges, und zwar 
+5 
+5 
+6 
+ 
+ 
+ 
+Zeitpunkt der Entscheidung für ein Masterstudium 
+ 
+Wann haben Sie die Entscheidung für die Aufnahme eines Masterstudiums gefällt? 
+ 
+ 
+Eichstätt (%) 
+n=37 
+Uni-BA (%) 
+n=191 
+HS-BA (%) 
+n=33 
+vor Beginn des Erststudiums 
+19 
+25 
+9 
+im Laufe des Erststudiums 
+62 
+55 
+42 
+unmittelbar nach dem Erststudium 
+14 
+12 
+27 
+nach dem Erststudium und einer 
+Phase der Berufstätigkeit 
+5 
+9 
+21 
+ 
+ 
+ 
+ 
+ 
+
+[Page 4]
+Fachwechsel im Masterstudium 
+ 
+Ist Ihr Masterstudium im Bereich Kommunikations-/Medienwissenschaft/Journalistik 
+angesiedelt? 
+ 
+ 
+Eichstätt (%) 
+n=37 
+Uni-BA (%) 
+n=191 
+HS-BA (%) 
+n=33 
+ja 
+60 
+72 
+39 
+nein 
+41 
+28 
+61 
+ 
+ 
+ 
+Welches Fach bzw. welche Fächer studieren Sie im Rahmen Ihres Masterstudiums? 
+(Eichstätt, n=15) 
+ 
+Sozialwissenschaften 
+(Soziologie, Politikwissenschaft etc.) 
+ 
+9 
+ 
+Sprach- und Kulturwissenschaften 
+(Germanistik, Philosophie, Geschichte etc.) 
+3 
+Wirtschaftswissenschaften 
+ 
+ 
+ 
+2 
+Kunst, Kunstwissenschaften 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+Warum haben Sie dieses Fach/diese Fächer gewählt? 
+ 
+ 
+Eichstätt 
+n=15 
+fachliche Ergänzung zur Vorbereitung auf ein 
+bestimmtes Berufsziel 
+13 
+das bisherige Studienfach entsprach nicht mehr 
+meinen Interessen 
+1 
+um weitere Kenntnisse in einem anderen 
+Fach/anderen Fächern zu erlangen 
+11 
+keinen Studienplatz im Wunschfach bekommen 
+0 
+bessere Berufschancen mit diesem Fach/diesen 
+Fächern 
+4 
+Sonstiges, und zwar 
+1 
+ 
+ 
+ 
+ 
+
+[Page 5]
+Hochschulwechsel im Masterstudium 
+ 
+Haben Sie für Ihr Masterstudium die Hochschule gewechselt? 
+ 
+ 
+Eichstätt (%) 
+n=22 
+Uni-BA (%) 
+n=139 
+HS-BA (%) 
+n=13 
+ja 
+77 
+61 
+100 
+nein 
+23 
+39 
+0 
+ 
+ 
+Warum haben Sie für Ihr Masterstudium die Hochschule/den Hochschulort gewechselt? 
+ 
+ 
+Eichstätt (%) 
+n=17 
+Uni-BA (%) 
+n=85 
+HS-BA (%) 
+n=13 
+Ich wollte eine andere Stadt kennenlernen. 
+59 
+67 
+39 
+An der anderen Hochschule war eine 
+besondere Schwerpunktsetzung möglich. 
+53 
+54 
+39 
+Die Master-Fachrichtung wurde an meiner 
+alten Hochschule nicht angeboten. 
+47 
+51 
+92 
+Der neue Standort bietet eine andere 
+fachliche Ausrichtung in der 
+Kommunikations-
+/Medienwissenschaft/Journalistik. 
+47 
+51 
+31 
+Ich wollte mein Masterstudium an einem 
+anderen Institut absolvieren. 
+35 
+46 
+46 
+Ich wollte eine andere Hochschule kennen 
+lernen. 
+35 
+49 
+39 
+Ich hatte dafür private Gründe. 
+18 
+12 
+8 
+Die andere Hochschule hat im Bereich 
+Kommunikations-
+/Medienwissenschaft/Journalistik einen 
+besseren Ruf. 
+6 
+25 
+54 
+Ich wollte ein anderes Land kennenlernen. 
+0 
+7 
+0 
+Ich wurde zum Masterstudium an meiner 
+alten Hochschule nicht zugelassen. 
+0 
+4 
+0 
+Sonstiges 
+0 
+8 
+0 
+ 
+ 
+ 
+ 
+
+[Page 6]
+Zeitpunkt der Zusage für die erste Stelle nach dem Studium 
+ 
+Wann erhielten Sie die Zusage für die erste Festanstellung/Ausbildungsstelle nach dem 
+Ende Ihres Studiums? 
+ 
+ 
+Eichstätt 
+BA (%) 
+n=8* 
+Eichstätt 
+MA (%) 
+n=8 
+Eichstätt 
+Diplom 
+2000 (%) 
+Uni-BA 
+(%) 
+n=93 
+HS-BA 
+(%) 
+n=51 
+Uni-MA 
+(%) 
+n=82 
+während des Studiums 
+44 
+13 
+41 
+34 
+37 
+45 
+direkt nach dem 
+Abschluss 
+22 
+25 
+19 
+19 
+22 
+16 
+2 bis 6 Monate nach 
+dem Abschluss 
+22 
+38 
+21 
+26 
+26 
+27 
+mehr als 6 bis 12 
+Monate nach dem 
+Abschluss 
+11 
+0 
+12 
+12 
+14 
+7 
+mehr als 1 Jahr nach 
+dem Abschluss 
+0 
+25 
+8 
+9 
+2 
+5 
+* ausgewertet nur für diejenigen, die kein Masterstudium aufgenommen haben 
+ 
+ 
+Arbeitszufriedenheit 
+ 
+Einmal insgesamt betrachtet: Wie zufrieden sind Sie mit Ihrer beruflichen Situation? 
+ 
+ 
+Eichstätt BA 
+n=50 
+Eichstätt MA 
+n=9 
+gar nicht zufrieden 
+2 
+0 
+2 
+3 
+1 
+3 
+17 
+3 
+4 
+9 
+0 
+5 
+10 
+1 
+sehr zufrieden 
+9 
+4 
+Mittelwert 
+3,98 
+4,44 
+Mittelwert bayernweit Uni-BA 
+3,9 
+ 
+Mittelwert bayernweit HS-BA 
+4,0 
+ 
+Mittelwert bayernweit Uni-MA 
+ 
+4,2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 7]
+Tätigkeitsbereich 
+ 
+Bitte geben Sie außerdem für Ihre erste Erwerbstätigkeit nach dem Abschluss des Studiums 
+den Tätigkeitsbereich an. 
+ 
+ 
+Eichstätt BA 
+n=23 
+Eichstätt MA 
+n=4 
+Journalismus 
+14 
+1 
+Redaktion/Content in anderen 
+Bereichen 
+1 
+0 
+Medienproduktion 
+0 
+1 
+Medienpädagogik 
+1 
+0 
+Medienforschung außerhalb der 
+Hochschulen 
+1 
+0 
+Public Relations/ 
+Öffentlichkeitsarbeit 
+3 
+1 
+sonstige Tätigkeit im Bereich der 
+Organisationskommunikation 
+1 
+0 
+Sonstiges 
+2 
+1 
+ 
+ 
+Ordnen Sie bitte Ihre erste Erwerbstätigkeit nach dem Abschluss des Studiums einem 
+Medium oder einer anderen Organisation zu. 
+ 
+ 
+Eichstätt BA 
+n=22 
+Eichstätt MA 
+n=4 
+Zeitung 
+5 
+1 
+Hörfunk 
+2 
+0 
+Fernsehen 
+3 
+0 
+Internet 
+2 
+0 
+crossmediale Tätigkeit (für 
+mehrere Medien) 
+1 
+0 
+Agentur 
+2 
+1 
+Unternehmen 
+2 
+1 
+Verband/Nonprofit-Organisation 
+2 
+0 
+sonstige Organisation 
+1 
+0 
+Sonstiges 
+2 
+1 
+ 
+ 
+ 
+ 
+
+[Page 8]
+Bewertung der Studiengänge 
+ 
+Alle Angaben: 1 (Minimum/sehr schlecht) bis 6 (Maximum/sehr gut) – jeweils Mittelwerte 
+ 
+ 
+Eichstätt 
+BA 
+n=48-62 
+Eichstätt 
+MA 
+n=3-9 
+Uni-BA 
+n=242-
+319 
+HS-BA 
+n=79-
+96 
+Uni-MA 
+n=76-
+103 
+Informiertheit Vorgesetzte über Inhalt 
+meines abgeschloss. Studiengangs 
+3,2 
+3,8 
+2,3 
+2,9 
+3,4 
+Akzeptanz in der Berufspraxis 
+3,9 
+3,0 
+3,4 
+4,1 
+4,0 
+Bewertung: Lehrangebot im Bereich 
+Wissenschaft (Umfang, Themen, Niveau) 
+4,4 
+4,8 
+4,4 
+3,5 
+4,6 
+Bewertung: Lehrangebot im Bereich 
+Praxis (Umfang, Themen, Niveau) 
+5,4 
+4,9 
+3,5 
+4,9 
+3,7 
+Bewertung: Verknüpfung von 
+Wissenschaft und Praxis 
+4,6 
+5,2 
+3,3 
+4,2 
+3,8 
+Bewertung: Betreuung durch Lehrende 
+5,5 
+5,2 
+4,4 
+4,5 
+4,8 
+Bewertung: Aufbau und Struktur des 
+Studiums/Strukturiertheit 
+4,9 
+4,2 
+4,1 
+3,9 
+4,1 
+Bewertung: Kompetenz der Dozenten 
+4,9 
+4,8 
+4,7 
+4,2 
+4,8 
+Bewertung: zeitliche Koordination des 
+Lehrangebots (Überschneidungen von 
+Veranstaltungen etc.) 
+4,3 
+5,0 
+4,2 
+4,8 
+4,5 
+Bewertung: Betreuung der 
+Abschlussarbeit 
+5,1 
+5,1 
+4,7 
+4,5 
+5,0 
+Bewertung: Organisation/Ablauf von 
+Prüfungen 
+4,8 
+5,2 
+4,5 
+4,5 
+4,9 
+Bewertung: interdisziplinäre Bezüge 
+innerhalb des Lehrangebots 
+4,1 
+4,8 
+3,8 
+4,2 
+3,9 
+Bewertung Ausstattung: 
+Bibliotheken/Mediatheken (Ausstattung, 
+Bestand, Service) 
+5,1 
+4,2 
+4,6 
+4,7 
+4,4 
+Bewertung Ausstattung: technische 
+Ausstattung (Studios, Computer etc.) 
+5,0 
+4,0 
+4,4 
+5,3 
+4,0 
+Bewertung Ausstattung: personelle 
+Ausstattung (Wissenschaftler, 
+Sekretariate etc.) 
+5,1 
+4,6 
+4,5 
+4,5 
+4,5 
+Raumsituation 
+4,7 
+4,4 
+4,1 
+4,2 
+4,0 
+ 
+≤ - 1,0 ≤ -0,5 
+≥0,5 
+≥1,0 
+(Unterschied gegenüber dem bayernweiten Durchschnitt: Eichstätt BA zu Uni BA und 
+Eichstätt MA zu Uni-MA) 
+ 
+
+[Page 9]
+Bewertung der Studiengänge 
+ 
+Alle Angaben: 1 (Minimum/sehr schlecht) bis 6 (Maximum/sehr gut) – jeweils Mittelwerte 
+ 
+ 
+Eichstätt 
+BA 
+n=48-62 
+Eichstätt 
+MA 
+n=3-9 
+Uni-BA 
+n=225-
+314 
+HS-BA 
+n=73-
+98 
+Uni-MA 
+n=96-
+103 
+Vorbereitung auf jetzige Erwerbstätigkeit 
+4,8 
+3,7 
+3,6 
+4,8 
+4,0 
+Erwerb Kenntnisse: wissenschaftliches 
+Wissen über Kommunikation und Medien 
+im Allgemeinen 
+4,6 
+4,8 
+4,8 
+4,0 
+4,9 
+Erwerb Kenntnisse: wissenschaftliches 
+Wissen über das Berufsfeld meiner 
+jetzigen (bzw. letzten) Erwerbstätigkeit 
+4,0 
+3,0 
+3,2 
+3,5 
+3,3 
+Erwerb Kenntnisse: spezielles Wissen zu 
+meinem Interessenschwerpunkt 
+3,8 
+4,1 
+3,6 
+4,3 
+4,0 
+Erwerb Kenntnisse: breite 
+Allgemeinbildung 
+4,0 
+4,1 
+3,6 
+3,9 
+3,6 
+Erwerb Kenntnisse: berufspraktische 
+Fähigkeiten 
+5,4 
+4,1 
+3,2 
+4,6 
+3,1 
+Erwerb Kenntnisse: crossmediales 
+Arbeiten (gleichzeitig für mehrere 
+Medien) 
+5,1 
+3,9 
+3,6 
+4,9 
+3,2 
+Erwerb Kenntnisse: 
+Forschungskompetenzen 
+3,8 
+4,0 
+4,1 
+2,7 
+4,4 
+Erwerb Kenntnisse: wirtschaftliches 
+Denken 
+2,9 
+3,3 
+3,1 
+3,3 
+3,1 
+Erwerb Kenntnisse: fachübergreifendes 
+Wissen 
+3,7 
+4,0 
+3,6 
+4,3 
+3,7 
+Erwerb Kenntnisse: Teamfähigkeit 
+5,4 
+5,6 
+4,4 
+5,1 
+4,5 
+Erwerb Kenntnisse: selbstständiges 
+Denken und Handeln 
+5,3 
+5,4 
+4,7 
+5,0 
+5,0 
+Erwerb Kenntnisse: analytisches Denken 
+4,0 
+4,1 
+4,2 
+3,9 
+4,5 
+Erwerb Kenntnisse: Innovationsfähigkeit 
+4,3 
+4,7 
+3,5 
+4,1 
+3,6 
+Erwerb Kenntnisse: 
+Fremdsprachenkenntnisse 
+3,9 
+2,8 
+2,8 
+3,5 
+2,5 
+Erwerb Kenntnisse: Übertragen des 
+Gelernten auf praktische Probleme 
+4,6 
+4,8 
+3,3 
+4,5 
+3,6 
+Erwerb Kenntnisse: IT-
+/Internetkenntnisse 
+3,0 
+2,6 
+2,7 
+4,6 
+2,7 
+Erwerb Kenntnisse: Fähigkeit, eigenes 
+Handeln zu reflektieren 
+4,9 
+4,9 
+4,3 
+4,3 
+4,5 
+ 
+≤ - 1,0 ≤ - 0,5 ≥0,5 
+≥1,0 
+(Unterschied gegenüber dem bayernweiten Durchschnitt: Eichstätt BA zu Uni BA und 
+Eichstätt MA zu Uni-MA) 
+
+[Page 10]
+Wiederholung der Studienentscheidung 
+ 
+Würden Sie sich heute noch einmal für [ studium ] als Studiengang entscheiden, oder 
+würden Sie stattdessen etwas anderes machen? 
+ 
+Ich würde... 
+Eichstätt 
+BA (%) 
+n=58 
+Eichstätt 
+MA (%) 
+n=8 
+Eichstätt 
+Diplom 
+2000 (%) 
+Uni-BA 
+(%) 
+n=311 
+HS-BA 
+(%) 
+n=98 
+Uni-MA 
+(%) 
+n=102 
+wieder den gleichen 
+Studiengang an der 
+gleichen Hochschule 
+studieren. 
+71 
+50 
+69 
+45 
+57 
+48 
+wieder den gleichen 
+Studiengang wählen, 
+aber an einer anderen 
+Hochschule. 
+3 
+0 
+10 
+6 
+2 
+6 
+stattdessen einen 
+anderen Studiengang 
+im Fach 
+Kommunikations-
+/Medienwissenschaft/J
+ournalistik studieren 
+0 
+0 
+– 
+5 
+4 
+4 
+stattdessen ein 
+anderes Fach 
+studieren 
+5 
+25 
+20 
+23 
+13 
+17 
+stattdessen gar nicht 
+studieren und 
+Folgendes machen: 
+2 
+0 
+– 
+2 
+0 
+3 
+Ich weiß es nicht. 
+19 
+25 
+– 
+19 
+25 
+23

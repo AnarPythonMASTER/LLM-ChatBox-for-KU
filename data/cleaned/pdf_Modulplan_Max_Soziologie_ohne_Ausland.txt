@@ -1,0 +1,65 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulplan_Max_Soziologie_ohne_Ausland.pdf
+TITLE: Modulplan_Max_Soziologie_ohne_Ausland.pdf
+SOURCE_FILE: Modulplan_Max_Soziologie_ohne_Ausland.pdf
+------------------------------------------------------------
+
+[Page 1]
+6
+Praktikum
+Wissenschaftliches
+Kolloquium
+BA-Arbeit
+Migrationssoziologie
+30 CP
+5
+Prozessorientierte Soziologie
+Medien- und Kultursoziologie
+Spezielle Soziologien
+Spezielle Soziologien
+30 CP
+4
+Schwerpunkte soziologischer Theorien
+FOP 
+(Teil 2
+Studium Individuale
+30 CP
+3
+Politische Soziologie und Kultursoziologie
+Verfahren der 
+Datenanalyse II
+FOP
+(Teil 1)
+Studium Individuale
+Studium Individuale
+30 CP
+2
+Grundzüge 
+soziologischer Theorien
+Sozialstruktur der BRD
+Verfahren der 
+Datenanalyse I
+Qualitative Methoden der empirischen 
+Sozialforschung
+Studium.Pro
+30 CP
+1
+Einführung in die 
+Soziologie
+Quantitative Methoden 
+der empirischen 
+Sozialforschung
+Soziologisches Denken 
+und Forschen
+Schlüsselqualifikationen
+Studium Individuale
+Studium.Pro
+30 CP
+Interdisziplinärer BA der KU [flexibles Profil]: Soziologie
+Pflichtmodule (15 CP)
+Pflichtmodule wenn BA (35 CP)
+Bachelorarbeit, Kolloquium (15 CP)
+Studium.Pro (10 CP)
+weitere Soziologiemodule (80 CP)
+Praktikum (5 CP)
+Studium Individuale (z.B. 
+Sprachen)

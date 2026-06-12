@@ -1,0 +1,151 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Web_Lageplan_2026_DE.pdf
+TITLE: Web_Lageplan_2026_DE.pdf
+SOURCE_FILE: Web_Lageplan_2026_DE.pdf
+------------------------------------------------------------
+
+[Page 1]
+Lageplan
+Personenverzeichnis
+Über das Online-Personenverzeich-
+nis der KU können Sie Telefonnum-
+mern, Mailadressen, Gebäude- und 
+Raumnummern aller Mitarbeiterinnen 
+und Mitarbeiter der KU abfragen:
+https://voip.ku.de/telefon-ku
+1
+2
+3
+4
+5
+6
+A
+B
+C
+D
+E
+Gebäude der Universität
+Aula-Bib.
+DP8
+eO
+eRS
+Hofgarten 
+INS
+IB
+Kap
+KGA
+KGB
+KGC
+KGD
+KGE
+KHG
+Kinderhaus
+Lu10
+Lu32
+Mensa
+MP2
+MP4
+MP7
+MP18
+O14
+O17
+O18
+O27
+O28a
+O29
+PPJ
+Salzstadel 
+Sollnau
+Spo
+SR
+UA
+UH
+WH
+Teilbibliothek 2
+Domplatz 8 (International House)
+ehemalige Orangerie
+ehemalige Reitschule
+Teilbibliothek 3: Staats- 
+und Seminarbibliothek
+Ingbert-Naab-Saal 
+Interimsbau
+Kapuzinerkloster
+Kollegiengebäude Bau A 
+Kollegiengebäude Bau B 
+Kollegiengebäude Bau C 
+Kollegiengebäude Bau D (Aula)
+Kollegiengebäude Bau E (Musik)
+Katholische Hochschulgemeinde
+Uni-Kinderhaus
+Luitpoldstraße 10
+Luitpoldstraße 32
+Mensa 
+/ 
+Cafeteria
+Marktplatz 2
+Marktplatz 4
+Marktplatz 7
+Marktplatz 18
+Ostenstraße 14
+Ostenstraße 17
+Ostenstraße 18
+Ostenstraße 27
+Ostenstraße 28a
+Ostenstraße 29
+Pater-Philipp-Jeningen-Platz 2
+Am Salzstadel 1
+Sollnau 30a
+Uni-Sportanlage / Seidlkreuz
+Sommerresidenz
+Universitätsallee 
+/Zentralbibliothek
+Ulmer Hof 
+/ 
+Teilbibliothek 1
+Waisenhaus
+B/C4
+B2
+C4
+B/C4
+D4 
+C5
+E5
+C5/6
+C/D5
+D5
+D5
+D5
+D5
+B4
+C4
+B3
+B3
+D5
+A3
+A3
+A3
+A3
+C4
+C4
+C4
+C5
+C5
+C5 
+B3
+B4
+E6
+A6
+C5
+E5/6
+B3
+C5
+A
+B
+C
+D
+E
+1
+2
+3
+4
+5
+6

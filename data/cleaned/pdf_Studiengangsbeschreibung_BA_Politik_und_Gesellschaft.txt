@@ -1,0 +1,614 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_BA_Politik_und_Gesellschaft.pdf
+TITLE: Studiengangsbeschreibung_BA_Politik_und_Gesellschaft.pdf
+SOURCE_FILE: Studiengangsbeschreibung_BA_Politik_und_Gesellschaft.pdf
+------------------------------------------------------------
+
+[Page 1]
+04/2023_Monat 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den 
+Bachelorstudiengang Politik und Gesellschaft (B.A.) 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+A. Allgemeine Struktur des Studiengangs .................................................................. 2 
+B. Beschreibung des Studiengangs 
+........................................................................... 3 
+1. Der Studiengang in drei Sätzen 
+.......................................................................... 3 
+2. Zielgruppe ......................................................................................................... 3 
+C. Studiengangskonzept ........................................................................................... 4 
+1. Struktur des Studiengangs 
+................................................................................. 4 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+........................................................ 4 
+1.2. 
+Qualifikationsziele ........................................................................................ 4 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten .................................................... 5 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder ........................................................ 5 
+2. Aufbau des Studiengangs 
+.................................................................................. 6 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+...................................................... 6 
+2.2. 
+Pflichtbereich 
+.................................................................................................. 7 
+2.3. 
+Wahlpflichtbereich .......................................................................................... 8 
+2.4. 
+Wahlbereich ................................................................................................... 9 
+2.5. 
+Studium.Pro ................................................................................................... 9 
+2.6. 
+Praxisbezug.................................................................................................... 9 
+2.7. 
+Ausgestaltung der Internationalisierung 
+........................................................... 9 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für Studium 
+und Lehre 
+.................................................................................................................. 11 
+Anlage: 
+........................................................................ Fehler! Textmarke nicht definiert. 
+Idealtypischer Studienverlaufsplan ............................... Fehler! Textmarke nicht definiert. 
+Diploma Supplement (englisch, deutsch) 
+...................... Fehler! Textmarke nicht definiert. 
+ 
+ 
+ 
+
+[Page 2]
+04/2023_Monat 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Name des Studiengangs: 
+ 
+Interdisziplinärer 
+Bachelorstudiengang 
+Politik und Gesellschaft 
+ 
+Verantwortliche Fakultät: 
+ 
+Geschichts- 
+und 
+Gesellschaftswissenschaftliche Fakultät 
+ 
+Weitere beteiligte Fakultät/en: 
+ 
+Sprach- und Literaturwissenschaftliche 
+Fakultät 
+Wirtschaftswissenschaftliche Fakultät 
+ 
+Akademischer Grad: 
+Bachelor of Arts (B.A.) 
+ 
+Studienform: 
+ 
+☒ Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☐ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+ 
+☒ grundständig 
+☐ konsekutiv 
+☐ weiterbildend 
+ 
+Wissenschaftliche/Praktische 
+Orientierung: 
+(nur bei Masterstudiengängen) 
+ 
+☐ eher anwendungsorientiert 
+☐ eher forschungsorientiert 
+Regelstudienzeit: 
+6 Semester (Vollzeit) 
+ 
+ Semester (Teilzeit) 
+ 
+Studienbeginn: 
+ 
+☐ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-
+Leistungspunkte: 
+180 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+☒ Nein 
+
+[Page 3]
+04/2023_Monat 
+ 
+ 
+ 
+3 
+☐ Ja, € pro Semester 
+ 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in drei Sätzen 
+Der interdisziplinäre Bachelor of Arts-Studiengang „Politik und Gesellschaft“ verbindet 
+den politikwissenschaftlichen Zugang zu internationalen, nationalen und regionalen 
+Dimensionen von Politik mit einem soziologischen Verständnis von gesellschaftlichen 
+Strukturen, Prozessen, Akteuren und Problemfeldern. Studierende erhalten zudem eine 
+grundständige Ausbildung in empirischen Untersuchungsmethoden um politische und 
+soziologische Problemstellungen wissenschaftlich zu bearbeiten. 
+ 
+Zentrale Merkmale des Studiengangs sind Interdisziplinarität, die Berücksichtigung einer 
+ethischen Dimension in Forschung und Lehre, Praxisorientierung, Internationalisierung, 
+eine fundierte Methodenausbildung sowie eine intensive Betreuung der Studierenden. 
+ 
+2. Zielgruppe 
+Der 
+Studiengang 
+richtet 
+sich 
+an 
+Studieninteressierte 
+mit 
+allgemeiner 
+Hochschulzugangsberechtigung, die sich sowohl für die Themen der Fächer 
+Politikwissenschaft 
+als 
+auch 
+Soziologie 
+interessieren 
+und 
+eine 
+fundierte 
+Grundlagenausbildung in beiden Fachbereichen anstreben, Wert auf ergänzende 
+berufliche Kompetenzen in den Bereichen Kommunikation und Wirtschaft, sowie Wert 
+auf 
+eine 
+qualitativ 
+hochwertige 
+Methodenausbildung 
+legen 
+und/oder 
+einen 
+einsemestrigen Auslandsaufenthalt an einer Partneruniversität der KU anstreben. 
+Der Studiengang bereitet sowohl für einen anschließenden Berufseinstieg als auch für ein 
+anschließendes Masterstudium im Bereich Politikwissenschaft und/oder Soziologie vor. 
+ 
+ 
+
+[Page 4]
+04/2023_Monat 
+ 
+ 
+ 
+4 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+Zugangsvoraussetzung zum Studiengang ist eine allgemeine Hochschulreife. Es gibt kein 
+Bewerbungsverfahren. Bei ausländischen Studierenden ist zudem ein Nachweis von 
+Deutschkenntnissen auf DHS-Niveau 2 nachzuweisen. Innerhalb der von der Universität 
+zur Immatrikulation vorgegebenen Zeiträume ist eine Einschreibung in den Studiengang 
+möglich. 
+ 
+Anerkennung von Studienleistungen an anderen Hochschulen 
+Studierende, die bereits an anderen Hochschulen Leistungen erbracht haben, können 
+diese 
+Leistungen 
+auf 
+Gleichwertigkeit 
+prüfen 
+und 
+durch 
+die 
+Prüfungsausschussvorsitzenden anerkennen lassen. Die Studiengangskoordination 
+berät die Studierenden in diesem Prozess. Antragsformulare stellt das Prüfungsamt auf 
+seiner Homepage zur Verfügung. Nach der Anerkennung erfolgt ggf. eine Einstufung in 
+ein höheres Fachsemester durch das Studierendenbüro. 
+Die Anerkennung für außerhalb des Hochschulbereichs erworbene Kompetenzen und 
+Fähigkeiten ist in der Allgemeinen Prüfungsordnung der Katholischen Universität 
+Eichstätt-Ingolstadt (APO) in §25 universitätsweit geregelt. 
+ 
+1.2. 
+Qualifikationsziele 
+Die Bachelorprüfung bildet den berufsqualifizierenden Abschluss im interdisziplinären 
+Bachelorstudiengang „Politik und Gesellschaft“. 
+ 
+Studierende erlangen eine fundierte Sach- und Analyse-, sowie Urteils- und 
+Methodenkompetenz und die Fähigkeit und Fertigkeiten sich in politischen und 
+gesellschaftlichen Problemfeldern – auch im internationalen Rahmen – sachkundig zu 
+machen, systematische Recherchen anzustellen und komplexe Zusammenhänge in 
+verständlicher Form und unterschiedlichen Formaten einem fachkundigen wie 
+fachfremden Publikum zu vermitteln. Sie können nach wissenschaftlichen Methoden und 
+Erkenntnissen selbständig arbeiten und Zusammenhänge der Fächer Politikwissenschaft 
+und Soziologie überblicken. 
+ 
+Absolvent:innen können selbstständig fachkundiges Wissen erwerben und ziel- und 
+lösungsorientiert anwenden. Sie können begründet gesellschaftliche und politische 
+Problemlagen, politische Forderungen und Handlungschancen und -alternativen 
+beurteilen, Folgen und Nebenfolgen antizipieren, sowie die bei der Urteilsbildung 
+angewendeten Urteilskriterien abschätzen. Außerdem erlangen Studierende während des 
+Studiums eine umfassende und fundierte Methodenkompetenz und grundlegendes 
+Wissen fachlicher und überfachlicher Arbeitsweisen und Perspektiven. Sie können durch 
+systematisches Analysieren struktureller Bedingungen und institutioneller Ordnungen die 
+Voraussetzungen für Urteilen und Handeln schaffen, selbstständig fundierte 
+Entscheidungen treffen, diese Entscheidungen zielorientiert kommunizieren und 
+
+[Page 5]
+04/2023_Monat 
+ 
+ 
+ 
+5 
+Bürgerschaftliche Aktivitäten entfalten und Verantwortung in der Gesellschaft 
+übernehmen. 
+ 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Nach Abschluss des Bachelors können Masterstudiengänge in Politikwissenschaft 
+und/oder Soziologie angeschlossen werden. 
+ 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+Der Studiengang enthält eine Reihe von berufspraxisbezogenen Angeboten. Dazu 
+gehören u. a. das verpflichtende Berufspraktikum, Exkursionen und Gastvorträge von 
+Expert:innen ausgewählter Berufsfelder, sowie ein optionales Forschungspraktikum an 
+der KU. 
+ 
+Der Studiengang ermöglicht Studierenden einen flexiblen Einsatz auf dem sich ständig 
+verändernden Arbeitsmarkt. Durch die Profilspezialisierung können sich Studierende 
+schon während des Studiums besonders qualifizieren. 
+ 
+Für die einzelnen Profile ergeben sich folgende mögliche Berufsfelder: 
+ 
+• 
+Profil „Welt und Europa“: 
+Übernahme beratender Tätigkeiten im politischen Bereich auf regionaler und 
+überregionaler Ebene in Büros von Bundes- und Europapolitiker:innen. 
+Beratungstätigkeiten in regional oder global ausgerichteten Verbänden und 
+NGOs, sowie Tätigkeiten bei international orientierten 
+Forschungseinrichtungen. 
+ 
+• 
+Profil „Politik und Kommunikation“: 
+Öffentlichkeitsarbeit und Kommunikationsberatung in politischen Parteien und 
+Institutionen, Beratungsagenturen, Verbänden und NGOs. Tätigkeiten im 
+Umfeld von Bildungseinrichtungen und Stiftungen, Public Affairs und 
+Governmental Relations in Unternehmen, sowie Tätigkeiten im 
+journalistischen Bereich mit thematischen Schwerpunkten im Bereich Politik 
+und Gesellschaft. 
+ 
+• 
+Profil „Gesellschaft und soziale Prozesse“: 
+Tätigkeit mit Kundenkontakt im Ein- und Verkauf, Tätigkeiten in angewandter 
+Sozialforschung bei universitären oder außer-universitären Instituten und 
+außerdem personalbezogene Tätigkeiten in Vereinen, Verbänden und in 
+öffentlicher Verwaltung, bei Arbeits-, Sozial- und Jugendverwaltung und 
+Familien- und Altenhilfe, karitativen Einrichtungen und bei 
+Weiterbildungsträgern. 
+ 
+Die Erfahrung der bisherigen Abschlussjahrgänge zeigt, dass viele Absolvent:innen 
+zunächst ein Masterstudium anschließen bevor sie den Berufseinstieg in einem der oben 
+genannten Berufsfelder suchen. 
+
+[Page 6]
+04/2023_Monat 
+ 
+ 
+ 
+6 
+ 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Die insgesamt 180 ECTS-Punkte des Studienganges setzen sich zusammen aus 
+• 75 ECTS-Punkten Pflichtbereich (inkl. Berufspraktikum), 
+• 45 ECTS-Punkten Wahlpflichtbereich (Profilbereich), 
+• 30 ECTS-Punkten internationale oder methodenorientierte Ausrichtung, 
+• 20 ECTS-Punkten freier Wahlbereich und 
+• 10 ECTS-Punkten für die BA-Arbeit. 
+ 
+Die Grundlagenphase umfasst zwei Semester und wird im ersten Studienjahr absolviert. 
+Hier werden insbesondere Grundlagenwissen in Soziologie und Politikwissenschaft, 
+sowie Techniken des wissenschaftlichen Arbeitens vermittelt. Die Phase umfasst acht 
+Pflichtmodule zu je 5 ECTS-Punkten. Studierende werden in die Grundlagen, Begriffe und 
+Theorien der Politikwissenschaft, vergleichende Systemlehre, Politische Theorie und 
+Philosophie, sowie Internationale Beziehungen und spezifisch in das politische System 
+der BRD eingeführt. Daneben erhalten sie gleichermaßen Einführungen in die Begriffe und 
+grundlegenden Theorien der Soziologie, eine Einführung in die Sozialstrukturanalyse der 
+BRD und Einführung in grundlegende, quantitative sozialwissenschaftliche Methoden und 
+wissenschaftliches Arbeiten. 
+ 
+Hinzu setzen Studierende (im Umfang von 20 ECTS-Punkten) das Gelernte in einem 
+Methoden- und Praxisbereich um. Sie üben einen reflektierten Umgang mit zentralen 
+praktischen Anwendungsfeldern des Studiengangs ein und werden mit Verfahren der 
+Datenerhebung und -auswertung im Rahmen des Forschungspraktikums vertraut 
+gemacht. 
+ 
+Ergänzend werden gezielt Schlüsselqualifikation vermittelt, in denen die Studierenden ein 
+reflektiertes Verständnis der zentralen gesellschaftlichen Teilbereiche Medien, Wirtschaft 
+und Ethik erwerben. 
+ 
+Nach der ersten Orientierung wählen die Studierenden eines der drei Profile (1) „Welt und 
+Europa“ (2) „Politik und Kommunikation“, oder (3) „Gesellschaft und soziale Prozesse“, 
+die auf je unterschiedliche Weise weiterführende Thematiken aus den beiden Kernfächern 
+Politikwissenschaft und Soziologie behandeln. 
+Die Profile bestehen aus jeweils fünf Wahlpflichtmodulen. Insgesamt werden 45 ETCS-
+Punkte im Profilbereich erworben (Details dazu siehe unten 2.3.). 
+Idealtypisch im fünften Semester haben die Studierenden die Wahl, verpflichtend 30 
+ECTS-Punkte im Rahmen einer internationalen oder methodenorientierten Ausrichtung 
+zu erwerben. (Details dazu siehe 2.7.). 
+ 
+Die methodenorientierte Ausrichtung besteht aus einem Forschungspraktikum an der KU, 
+in dem sich die Studierenden umfangreiche Fähigkeiten zur Planung, Durchführung und 
+Auswertung einer standardisierten Befragung und die kompetente Darstellung der 
+
+[Page 7]
+04/2023_Monat 
+ 
+ 
+ 
+7 
+Forschungsergebnisse aneignen. Für das Forschungspraktikum steht ein CATI-Labor zur 
+Verfügung. 
+Die Entscheidung zwischen den Ausrichtungen muss ein Jahr im Voraus getroffen 
+werden: im Falle einer internationalen Ausrichtung muss eine Zusage für einen 
+Studienplatz an einer ausländischen Universität vorliegen. Studierende haben eine große 
+Wahlfreiheit bezüglich der im Ausland absolvierten Module, solange diese zu den 
+Kernstudienfächern Politikwissenschaft und Soziologie und zum gewählten Studienprofil 
+(siehe 2.3.) passen. Die Kontrolle darüber findet durch Learning Agreements statt, welche 
+auch die Anrechnung regeln. In der Auswahl ihrer Kurse werden die Studierenden durch 
+die Studiengangskoordination beraten und erfahren auch darüber hinaus umfassende 
+Betreuung und Unterstützung durch Studiengang und Universität. 
+ 
+In einem fächerübergreifenden freien Wahlbereich können die Studierenden während des 
+gesamten Studiums Zusatzwissen jenseits der Fachgrenzen von Politikwissenschaft und 
+Soziologie erwerben (insgesamt 20 ECTS-Punkte). Den Studierenden soll damit 
+ermöglicht werden, über den Rahmen des Wissensvorrats des Studiengangs hinaus 
+praxis- und berufsfeldorientierte Schlüsselqualifikationen zu erwerben und andere 
+Fachgebiete kennenzulernen. 
+Bei allen Modulen besteht Wahlfreiheit aus dem gesamten Fächerangebot der 
+Katholischen Universität Eichstätt-Ingolstadt. Studierende können z. B. eine Sprache 
+lernen oder ein beziehungsweise mehrere andere Fachgebiete kennen lernen. Ebenso 
+können Veranstaltungen aus dem Studium.Pro Angebot belegt werden. Diese Leistungen 
+können auch an anderen deutschen Universitäten und/oder im Ausland erbracht werden. 
+ 
+Der Hauptteil der Lehre ist auf Präsenzlehre ausgelegt (notfalls kann auf digitale Formate 
+ausgewichen werden). Die Grundlagenmodule bestehen hauptsächlich aus Vorlesungen, 
+die von Übungen, die in kleineren Gruppen abgehalten werden, begleitet werden, um die 
+Vorlesungsinhalte zu festigen und zu vertiefen. Prüfungsform ist in den meisten Fällen eine 
+Klausur. In den Profilmodulen und im späteren Studienverlauf besuchen die Studierenden 
+hauptsächlich Seminare. Leistungsnachweis in diesen ist im Regelfall eine 
+wissenschaftliche, schriftliche Hausarbeit. 
+ 
+2.2. 
+Pflichtbereich 
+Im Pflichtbereich werden insgesamt 75 ECTS-Punkte erworben, davon 50 ECTS-Punkte 
+aus dem Angebot der beiden Kernfächer Politikwissenschaft und Soziologie. 
+ 
+Die Studierenden belegen je fünf Einführungs- bzw. Grundlagenmodule aus den 
+beteiligten Kernfächern (zu je 5 ECTS-Punkten). Studierende erhalten eine umfassende 
+Grundlagenausbildung in Politikwissenschaft und Soziologie, lernen zentrale Begriffe, 
+theoretische, wie methodische Traditionen und Ansätze, sowie unterschiedliche 
+wissenschaftliche Anwendungsfelder eben jener kennen. Sie erhalten damit einen 
+umfassenden Über- und Einblick in die Inhalte beider Fächer, sowie einen Ausblick auf 
+mögliche Vertiefungsrichtungen in der darauffolgenden Profilphase. 
+ 
+Hinzu werden drei weitere Module (zu je 5 ECTS-Punkten) belegt. Studierende erhalten 
+dabei eine Einführung in die Grundlagen der Kommunikationswissenschaft und 
+
+[Page 8]
+04/2023_Monat 
+ 
+ 
+ 
+8 
+Betriebswirtschaftslehre. 
+Ebenso 
+gehört 
+das 
+studiengangspezifische 
+Modul 
+„Wissenschaft und Ethik“ in den Pflichtbereich. 
+ 
+Das Berufspraktikum im Umfang von 10 ECTS-Punkten gehört ebenso zum 
+Pflichtbereich. Weitere Informationen zum Pflichtpraktikum: siehe 2.6. 
+ 
+ 
+2.3. 
+Wahlpflichtbereich 
+Der Wahlpflichtbereich (auch Profilphase) umfasst 75 ECTS-Punkte, die im Rahmen des 
+zu Beginn des dritten Fachsemesters gewählten Studienprofils (45 ECTS-Punkte) sowie 
+der internationalen bzw. methodenorientierten Ausrichtung (30 ECTS-Punkte) erworben 
+werden. 
+Es werden drei Studienprofile angeboten: (1) „Welt und Europa“, (2) „Politik und 
+Kommunikation“ und (3) „Gesellschaft und Soziale Prozesse“. 
+ 
+Diese Auswahl ermöglicht den Studierenden eine fachliche Schwerpunktbildung in den 
+Fächern Politikwissenschaft („Welt und Europa“, „Politik und Kommunikation“) oder 
+Soziologie („Gesellschaft und soziale Prozesse“) und eröffnet zugleich eine 
+interdisziplinäre thematische Abstimmung. Der gewählte Schwerpunkt gewährleistet den 
+Studierenden eine orientierende thematische Rahmung für die Bachelorarbeit (10 ECTS-
+Punkte), die aber auch über die Schwerpunktgrenzen hinausgehen kann und zum Ende 
+des Studiums angefertigt wird (idealtypisch im sechsten Semester). 
+ 
+Jedes Profil enthält mehrere ausgewählte Module, die in ihrer spezifischen Kombination 
+auf das jeweilige Profil abgestimmt sind. 
+ 
+Das Profil „Welt und Europa“ vermittelt auf historisch-systematische Weise 
+weiterführende Kenntnisse über politisches Denken und Handeln innerhalb und außerhalb 
+politischer Institutionen und eröffnet den Studierenden wissenschaftliche Perspektiven 
+auf europäische und globale politische Prozesse und Politikinhalte. 
+ 
+Studierende, die das Profil „Politik und Kommunikation“ wählen, werden mit der 
+öffentlichen Dimension des Politischen vertraut gemacht. Hierzu gehören umfassende 
+Fähigkeiten und Kenntnisse zur kritischen Analyse historischer und zeitgenössischer 
+politischer Semantiken und Darstellungspraktiken, dazugehörige zentrale kommunikative 
+Kompetenzen, sowie Einblicke in die Arbeit zentraler Akteure der politischen 
+Kommunikation. 
+ 
+Das dritte Profil „Gesellschaft und soziale Prozesse“ vermittelt den Studierenden den 
+qualifizierten Umgang mit gesellschaftswissenschaftlichen methodischen Verfahren und 
+theoretischen Heuristiken in ihrer empirischen Anwendung zur Erforschung verschiedener 
+gesellschaftlicher Figurationen. 
+ 
+ 
+
+[Page 9]
+04/2023_Monat 
+ 
+ 
+ 
+9 
+2.4. 
+Wahlbereich 
+Der Wahlbereich umfasst 20 ECTS-Punkte. Studierende können dabei aus dem Angebot 
+aller nicht zulassungsbeschränkten Module der KU. Im Rahmen dieses Wahlbereichs 
+haben Studierende, insbesondere wenn die internationale Ausrichtung gewählt wurde, 
+die Möglichkeit Sprachkurse im Rahmen ihres Studiums zu belegen. 
+ 
+2.5. 
+Studium.Pro 
+Angebote aus dem Studium.Pro können im Studiengang aktuell im Wahlbereich (siehe 
+2.4.) eingebracht und belegt werden. 
+Im Zuge einer Weiterentwicklung des Studiengangs mit einer Aktualisierung der 
+Prüfungsordnung ist vorgesehen das Studium.Pro im Umfang von 5 ECTS-Punkten in 
+den Pflichtbereich des Programms mit aufzunehmen. 
+2.6. 
+Praxisbezug 
+Studierende absolvieren während des Studiums (in der Regel während der 
+vorlesungsfreien 
+Zeit) 
+ein 
+sechswöchiges 
+Berufspraktikum. 
+Das 
+Modul 
+„Berufsfeldbezogene Tätigkeit“ umfasst 10 ECTS-Punkte und gehört zu den 
+Pflichtmodulen. Dieses Praktikum kann auch im Ausland absolviert werden. Es bietet den 
+Studierenden die Möglichkeit zu einem orientierenden Einblick in ihre weiterführenden 
+beruflichen Perspektiven außerhalb des universitären Rahmens. Dieses Praktikum kann 
+über die sechswöchige verpflichtende Dauer hinaus in Absprache mit den 
+Praktikumsstellen verlängert werden. Im Anschluss dokumentieren und reflektieren 
+Studierende 
+über 
+ihre 
+Praxiserfahrung 
+im 
+Zuge 
+eines 
+ca. 
+fünfzehnseitigen 
+Praktikumsbericht. Auch erhalten Studierende während Exkursionen und im Rahmen von 
+Gastvorträgen, für die Alumni und Vertreter:innen interessanter Berufsfelder eingeladen 
+werden, Einblicke in mögliche spätere Berufsfelder. 
+ 
+2.7. 
+Ausgestaltung der Internationalisierung 
+Innerhalb des Studienverlaufs haben Studierende die Möglichkeit ein Semester im 
+Ausland zu absolvieren. Sie können hierbei bis zu 30 ECTS-Punkte einbringen. Wählen 
+Studierende die internationale (anstelle der methodenorientierten) Ausrichtung, 
+absolvieren sie min. ein Semester (empfohlen wird das 5. Fachsemester) im Ausland, in 
+der Regel an einer Partneruniversität der KU. Hierbei wählen die Studierenden Kurse, die 
+ihrem gewählten Studienprofil (siehe: 2.3.) entsprechen. Dies wird durch das vor dem 
+Auslandsaufenthalt vereinbarte Learning Agreement gewährleistet. Es handelt sich dabei 
+um ein fest integriertes Auslandsemester innerhalb des Studiums, weswegen keine 
+Beurlaubung für das Semester notwendig ist. Um das erforderliche Sprachniveau für 
+einen Auslandsaufenthalt zu erreichen, haben Studierende die Möglichkeit im Rahmen 
+des Wahlbereichs (siehe: 2.4.) Sprachkurse am Sprachenzentrum der KU zu absolvieren. 
+ 
+Es besteht die Möglichkeit ein Double Degree zu erwerben. Hierfür absolvieren 
+Studierende der KU ein Jahr (zwei Semester) in Italien an der Partneruniversität in Trento. 
+
+[Page 10]
+04/2023_Monat 
+ 
+ 
+ 
+10 
+Sie erhalten im Anschluss den BA der KU und einen BA der Universität in Trento. 
+ 
+Ein weiterer Beitrag zur Internationalisierung des Studiengangs ist, dass nicht nur KU-
+Studierende ein Semester im Ausland absolvieren können, sondern die Fächer 
+Politikwissenschaften und Soziologie auch Incoming-Studierende an der KU empfängt. 
+So besteht auch die Möglichkeit, dass Studierende der Partneruniversität Trento für ein 
+Jahr an die KU kommen, um hier ebenso am Double Degree Programm teilzunehmen. 
+Ebenso bieten die Fächer in den vertiefenden Modulen Veranstaltungen auf englischer 
+Sprache an, um ausländischen Studierenden einen guten Zugang zu ermöglichen. 
+
+[Page 11]
+04/2023_Monat 
+ 
+ 
+ 
+11 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage 
+des Leitbilds für Studium und Lehre 
+ 
+Mit Blick auf das besondere Profil einer katholischen Universität sollen die Studierenden 
+vor allem auch mit ethischen Aspekten in Politik, Gesellschaft und Wissenschaft vertraut 
+gemacht werden. Dazu gehört z. B. die ethische Dimension beruflichen Handelns, der 
+verantwortungsvolle Umgang mit gesellschaftlichen Daten und Umweltressourcen oder 
+eine 
+wissenschaftlich-ethisch 
+begründete 
+Haltung 
+bei 
+der 
+Auswahl 
+von 
+Forschungsthemen. 
+Den Beitrag des Studiengangs zum KU-Profil bildet das studiengangspezifische 
+Pflichtmodul „Wissenschaft und Ethik“ (5 ECTS-Punkte) in dem Studierende (auch aus 
+anderen Studiengängern und Fächer im Rahmen freier Wahlbereiche oder Studium 
+Individuale) Fragen der Forschungsethik, Datenschutz und christlicher Soziallehre 
+bearbeiten und für diese Themen sensibilisiert werden. 
+Bisherige Studierende aus dem Studiengang engagierten sich darüber hinaus auch stark 
+hochschulpolitisch, wirkten beispielsweise in der Initiative tun.starthilfe oder in 
+studentischen Arbeitsgemeinschaften wie Amnesty International mit. 
+Förderung 
+der 
+eigenständigen 
+Entwicklung 
+wissenschaftlicher 
+und 
+gesellschaftsrelevanter Fragestellungen, die mithilfe erlernter Methoden untersucht und 
+erforscht werden und deren Ergebnisse kritisch reflektiert und diskursiv analytisch 
+bewertet, eingeordnet und im Kontext unterschiedlicher Kriterien und Perspektive, 
+darunter ethische und gesellschaftskritische, erkenntnis- und anwendungsorientiert 
+eingeordnet, bewertet und diskutiert werden können. 
+Kleine Studierendengruppen ermöglichen eine spezifische und individuelle Betreuung in 
+eben diesem Prozess. Innerhalb der stark diskussionsorientierten Seminare werden 
+gesellschaftskritische Themen unter unterschiedlichen Perspektiven diskutiert und 
+eingeordnet. Die individuelle, wissenschaftliche und persönliche Entwicklung von 
+Studierenden wird durch eine differenzierte Betreuung begleitet und unterstützt. 
+Studierende lernen ihre eigenen wissenschaftlichen Positionen in unterschiedlichen 
+Formaten, schriftlich, mündlich, visuell unterstützt, in Form von kurzen Impulsvorträgen 
+oder ausführlichen Hausarbeiten und Abschlussarbeiten aufzuarbeiten und darzulegen. 
+Schon in den einführenden politikwissenschaftlichen und soziologischen Veranstaltungen 
+werden 
+aktuelle, 
+gesellschaftlich 
+relevante 
+Themen 
+aufgegriffen 
+und 
+mithilfe 
+verschiedener Theorien und Methoden bearbeitet und analysiert. 
+Die Coronazeit hat gezeigt, dass die Politikwissenschaft und Soziologie in Eichstätt 
+besonders engagiert und anpassungsfähig auf aktuelle Herausforderungen reagieren 
+können. Eine Anpassungsfähigkeit und Flexibilität, von der Studierende sowohl 
+akademisch, wissenschaftlich als auch anwendungsorientiert im Bezug zu späteren 
+Berufsfeldern profitieren.

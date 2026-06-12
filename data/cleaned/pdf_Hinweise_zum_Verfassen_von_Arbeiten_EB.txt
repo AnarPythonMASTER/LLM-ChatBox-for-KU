@@ -1,0 +1,519 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Hinweise_zum_Verfassen_von_Arbeiten_EB.pdf
+TITLE: Hinweise_zum_Verfassen_von_Arbeiten_EB.pdf
+SOURCE_FILE: Hinweise_zum_Verfassen_von_Arbeiten_EB.pdf
+------------------------------------------------------------
+
+[Page 1]
+Katholische Universität Eichstätt-Ingolstadt 
+Philosophisch-Pädagogische Fakultät 
+Professur für Lebenslanges Lernen 
+ 
+Hinweise zum Verfassen von Haus- und Abschlussarbeiten 
+Aufbau 
+Wissenschaftliche Haus- und Abschlussarbeiten sollten einem universellen Aufbau folgen und 
+Elemente enthalten, die dem wissenschaftlichen Standard entsprechen. Alle Kapitel der Arbeit sollten 
+aufeinander aufbauen, sodass eine klare Struktur erkennbar ist. Folgende Elemente sind dabei 
+relevant: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beispiel für einen Aufbau einer Hausarbeit/Abschlussarbeit 
+Deckblatt 
+Inhaltsverzeichnis 
+Wenn Abkürzungen verwendet wurden: Abkürzungsverzeichnis 
+Wenn die Arbeit Abbildungen enthält: Abbildungsverzeichnis 
+1 Einleitung 
+• 
+Herleitung des Themas (gesellschaftliche, pädagogische, aktuelle Verortung 
+etc.) 
+• 
+Begründung der konkreten Fragestellung(en) 
+• 
+Darstellung und Begründung des inhaltlichen Aufbaus 
+2 Hauptteil 
+• 
+Definition und Einbettung zentraler Begriffe 
+• 
+Darlegung des aktuellen Forschungsstandes (bei empirischen Arbeiten) 
+• 
+Darlegung des methodischen Vorgehens (bei empirischen Arbeiten) 
+ Begründung des Forschungsdesigns 
+ Erläuterung der Erhebungsmethoden 
+ Beschreibung der Stichprobe/Sample 
+ Darlegung der Auswertungsmethode 
+• 
+Kritisch reflexive Auseinandersetzung mit der/den Fragestellung(en) vor dem 
+Hintergrund der gewählten Thematik und unter Einbezug relevanter Literatur 
+3 Schlussteil 
+• 
+Dokumentation und Diskussion der generierten Ergebnisse (bei empirischen 
+Arbeiten durch Rückbezug zur Auswertungsmethode) 
+• 
+Rückbezug der Ergebnisse zu/r dargestellten Fragestellung(en) und 
+Beantwortung dieser 
+• 
+Diskussion der Reichweite/Grenzen der generierten Ergebnisse 
+• 
+Zusammenfassung und Ausblick 
+ Zusammenfassung 
+ Ausblick: Implikationen (für Theorie und Forschung, für Praxis) 
+• 
+Fazit etc. 
+Literaturverzeichnis 
+Optional: Anhang 
+ 
+ 
+ 
+ 
+
+[Page 2]
+Katholische Universität Eichstätt-Ingolstadt 
+Philosophisch-Pädagogische Fakultät 
+Professur für Lebenslanges Lernen 
+ 
+Deckblatt 
+Einer wissenschaftlichen Arbeit ist immer ein Deckblatt beizufügen. Dies muss folgende Punkte 
+enthalten: 
+• 
+Name der Universität, Fakultät 
+• 
+Modulname und Modulnummer 
+• 
+Titel der Hausarbeit/Abschlussarbeit 
+• 
+Semesterangabe und Jahr (Winter-, Sommersemester) 
+• 
+Name der/des Dozierenden 
+• 
+Verfasserin bzw. Verfasser der Arbeit (Vor- und Nachname) 
+• 
+Adresse und Emailadresse der/des Verfasserin/Verfassers 
+• 
+Studiengang und Semesteranzahl der/des Verfasserin/Verfassers 
+• 
+Abgabedatum 
+ 
+Beispiel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Katholische Universität Eichstätt-Ingolstadt 
+Philosophisch-Pädagogische Fakultät 
+Professur für Lebenslanges Lernen 
+ 
+ 
+ 
+Titel der Hausarbeit/Abschlussarbeit im Modul 
+(Modulnummer) 
+ 
+ 
+Semesterangabe und Jahr 
+Name der/des Dozierenden 
+Verfasserin/Verfassers: Max Mustermann 
+Adresse: Musterstrasse 1, 12345 Musterstadt 
+E-Mailadresse: max.mustermann@ku.de 
+Studiengang und Semesteranzahl 
+Abgabedatum 
+
+[Page 3]
+Katholische Universität Eichstätt-Ingolstadt 
+Philosophisch-Pädagogische Fakultät 
+Professur für Lebenslanges Lernen 
+ 
+ 
+Abbildungen und Tabellen: 
+• 
+Tabellen und/oder Abbildungen im Text sind mit einer Nummer, einem Titel und 
+gegebenenfalls einer Quellenangabe fortlaufend zu kennzeichnen. 
+• 
+Abbildungen und Tabellen müssen für sich verständlich sein und eine klare Einbindung im 
+Text enthalten 
+• 
+Abbildungen und Tabellen, die Sie übernehmen müssen Sie als solche zitieren 
+• 
+Abbildungen und Tabellen, die sie selbst erstellt haben müssen Sie als solche kennzeichnen 
+(„Eigene Darstellung“) 
+ 
+Formale Kriterien: 
+• 
+Die Einhaltung wissenschaftlicher Standards muss im gesamten Dokument gegeben sein 
+• 
+DIN A4 – Rand: links und rechts 2,5 cm; oben und unten 2 cm 
+• 
+Zeilenabstand 1,5 
+• 
+Schriftgröße: Arial 11 ODER Times New Roman 12 
+• 
+Überschriften haben eine größere Schrift und sind „Fett“ 
+• 
+Blätter werden nur einseitig bedruckt 
+• 
+Seitennummerierung: 
+(1) Deckblatt: ohne Seitenzahl 
+(2) Verzeichnisse (Inhaltsverzeichnis, Abbildungsverzeichnis, Tabellenverzeichnis etc.): 
+römische Nummerierung (beginnend mit I) 
+(3) Textteil: arabische Nummerierung (beginnend mit 1) 
+(4) Anhang: römische Nummerierung 
+• 
+Blocksatz und Silbentrennung 
+• 
+Hervorhebungen im Text (fett, kursiv) sind einheitlich anzuwenden 
+ 
+Gliederung/Inhaltsverzeichnis 
+• Die einzelnen Gliederungspunkte sollten logisch aufeinander aufbauen 
+• Nummerierung durchgehend einheitlich (gängig: numerische Gliederung 1, 2, 3, 
+sowie 3.1, 3.2, etc.) 
+ 
+Sprachstil: 
+Grundvoraussetzung ist die Verwendung von Wissenschaftssprache → Nüchterner und sachlicher 
+Schreibstil, neutrale Perspektive, einheitliche Schreibweise. 
+Umgangssprache ist zu vermeiden, da sie nicht dem wissenschaftlichen Standard entspricht. Zum 
+Beispiel: 
+• 
+Immer und ewig 
+• 
+Irgendwie 
+• 
+Selbstverständlich 
+
+[Page 4]
+Katholische Universität Eichstätt-Ingolstadt 
+Philosophisch-Pädagogische Fakultät 
+Professur für Lebenslanges Lernen 
+ 
+• 
+Unglaublich 
+• 
+Enorm 
+• 
+Nie und nimmer 
+• 
+Ich glaube, ich vermute, ich meine... 
+Ich-/Man-/Wir-Form 
+• 
+Ist nur bei wichtigen Positionsbeschreibungen und Bewertungen zu verwenden (z.B. bei 
+einem spezifischen Erfahrungsbericht) 
+Geschlechterspezifische Schreibweise 
+• 
+Haus- und Abschlussarbeiten sind in einer geschlechtergerechten inklusiven Sprache zu 
+verfassen 
+• 
+Möglichkeiten einer inklusiven, geschlechtersensiblen Sprache: 
+a) Mit Sternchen oder Gender_Gap (z. B. Mitarbeiter*innen oder Mitarbeiter_innen) 
+b) Doppelnennung, d.h. beide Nennungen werden ausgeschrieben (z.B. Studentinnen und 
+Studenten) 
+c) Beide Nennungen mit Schrägstrich oder Klammer (z.B. Student/innen oder Student(innen)) 
+d) Neutralisierung (z. B. Studierende) 
+ 
+Orthographie 
+• 
+richtet sich nach der neuen deutschen Rechtschreibung 
+ 
+Eigenständigkeitserklärung 
+Hausarbeiten bzw. Abschlussarbeiten müssen mit einer unterschriebenen Erklärung versehen sein, in 
+der Sie erklären, dass Sie die Arbeit selbständig und ohne Hilfe Dritter angefertigt sowie rechtlich 
+ordnungsgemäß zitiert haben. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplarische Eigenständigkeitserklärung: 
+Hiermit erkläre ich, dass ich die vorliegende Arbeit selbstständig und ohne Hilfe Dritter verfasst 
+habe. Bei der Arbeit wurden keine anderen als die angegebenen Quellen und Hilfsmittel benutzt. 
+Alle den angegebenen Quellen entnommenen wörtlichen oder sinngemäßen Inhalte wurden von 
+mir entsprechend kenntlich gemacht. 
+ 
+Ort, Datum 
+ 
+ 
+ 
+ Unterschrift 
+
+[Page 5]
+Katholische Universität Eichstätt-Ingolstadt 
+Philosophisch-Pädagogische Fakultät 
+Professur für Lebenslanges Lernen 
+ 
+Zitation 
+Die Zitierregeln richten sich nach der 7. Auflage des „Publication Manual“ der American Psychological 
+Association (APA), die 2020 herausgegeben wurde. Das vollständige Manual ist als Printpublikation in 
+der Bibliothek der Katholischen Universität Eichstätt-Ingolstadt verfügbar: 
+American Psychological Association (2020). Publication manual of the American Psychological 
+Association: The official guide to APA style (7. Aufl.). 
+ 
+Auszüge aus dem Manual sind zudem online abrufbar: https://apastyle.apa.org/style-grammar-
+Guidelines 
+ 
+Folgend finden Sie Beispielzitationen und eine Auflistung der wichtigsten Regeln für die häufigsten 
+Literaturangaben. Diese ist jedoch nicht erschöpfend: 
+ 
+Monographie 
+Schön, D. A. (1983). The reflective practitioner: How professionals think in action. Basic Books. 
+Hinweise: 
+• Nennen Sie Autor*in, Erscheinungsjahr, Titel sowie den Namen des Verlags 
+• Nennen Sie die Informationen über die Auflage in einer Klammer nach dem Titel 
+• Wenn das Buch einen doi (Digital Object Identifier) hat, nennen Sie die doi-Nummer als Link 
+nach dem Namen des Verlags (ISBN-Angaben werden im APA-Stil nicht verwendet) 
+• Der Verlagsort wird nicht angegeben 
+• Wenn das Buch keine doi besitzt und ein eBook einer wissenschaftlichen Datenbank 
+ist, endet die Literaturangabe nach dem Verlagsnamen 
+• Wenn ein Buch 20 Autor*innen oder weniger besitzt, nennen Sie alle Autor*innen 
+• Wenn ein Buch 21 Autor*innen oder mehr besitzt, nennen Sie die ersten 19 Autor*innen, setzen 
+Sie danach drei Punkte („...“) und nennen Sie danach den Namen der/des letzten Autor*in. 
+ 
+Beitrag in einem Sammelband 
+Holm, U. (2018). Anthropologische Voraussetzungen des Lernens Erwachsener – Lernfähigkeit als 
+Grundlage der Erwachsenenbildung. In R. Tippelt & A. von Hippel (Hrsg.), Springer Reference 
+Sozialwissenschaften. Handbuch Erwachsenenbildung/Weiterbildung (6. Aufl.). Springer VS. 
+ 
+Zeitschriftenaufsatz 
+McGrew, M. & DiPietro, M. (2019). Understanding Identity: An Ecological Systems Approach. New 
+Directions for Teaching and Learning, 2019(159), 11–20. https://doi.org/10.1002/tl.20344 
+ 
+Hinweise: 
+
+[Page 6]
+Katholische Universität Eichstätt-Ingolstadt 
+Philosophisch-Pädagogische Fakultät 
+Professur für Lebenslanges Lernen 
+ 
+• Wenn ein Aufsatz eine doi-Nummer hat, geben Sie die doi an 
+• Geben Sie bei Zeitschriftenaufsätzen, immer die Heftnummer an 
+• Wenn ein Zeitschriftenaufsatz keine doi besitzt und von einer wissenschaftlichen Datenbank 
+stammt, beenden Sie die Angabe mit der Seitenspannangabe 
+• Wenn der Zeitschriftenaufsatz keine doi besitzt, aber dafür eine URL, nennen Sie 
+stattdessen die URL am Ende der Literaturangabe 
+• Wenn ein Zeitschriftenartikel 20 Autor*innen oder weniger besitzt, nennen Sie alle Autor*innen 
+• Wenn ein Artikel 21 Autor*innen oder mehr besitzt, nennen Sie die ersten 19 Autor*innen, 
+setzen Sie danach drei Punkte („...“) und nennen Sie danach den Namen der/des letzten 
+Autor*in. 
+ 
+Vortrag 
+McLoughlin, C. & Luca, J. (2000, December 9–14). Learning through self-direction: The influence of 
+task design on team-based professional knowledge building in an online environment. [Paper 
+presentation]. ASCILITE Conference, Coffs Harbour, Australia. 
+http://www.ascilite.org/conferences/coffs00/papers/catherine_mcloughlin.pdf 
+ 
+Bericht einer Organisation oder Institution als Autor*in | URL anstelle einer doi 
+Pew Research Center. (2020). Parenting children in the age of screens. https://www.pewre- 
+search.org/internet/2020/07/28/parenting-children-in-the-age-of-screens/ 
+ 
+Bericht von Autor*innen innerhalb einer Organisation | URL anstelle einer doi 
+Fried, D., & Polyakova, A. (2018). Democratic defense against disinformation. Atlantic 
+Council. https://www.atlanticcouncil.org/images/publications/Democratic_De- 
+fense_Against_Disinformation_FINAL.pdf 
+ 
+Präsentation eines Beitrags auf einer Tagung | ohne URL 
+Freytag, A., Knop-Huelss, K., Hefner, D., Klimmt, C., Reinecke, L., Meier, A., & Vorderer, P. 
+(2019, 24.–28. Mai). Permanently online and always stressed out? The effects of online 
+vigilance on digital stress experiences [Konferenzbeitrag]. 69. Jahrestagung der Internati- 
+onal Communication Association (ICA), Prag, Tschechische Republik. 
+Dissertation aus einer Datenbank | mit URL 
+Sharp, D. C. (2020). Waiting to connect: In pursuit of belongingness and connectedness needs 
+for girls through social network sites (Publikation Nr. 27837279) [Dissertation, Oklahoma 
+State University]. ProQuest Dissertations and Theses Global. 
+ 
+Beitrag auf einer Nachrichtenwebsite 
+Roller-Spoo, J. (2020, 24. Oktober). Von Hatern und Hetzern: Der Kampf gegen Hass im Netz. 
+ZDF heute–Nachrichten. https://www.zdf.de/nachrichten/digitales/hate-speech-hass-ge- 
+walt-internet-100.html 
+ 
+Zitation im Text: Indirekte und direkte Zitate 
+
+[Page 7]
+Katholische Universität Eichstätt-Ingolstadt 
+Philosophisch-Pädagogische Fakultät 
+Professur für Lebenslanges Lernen 
+ 
+Direkte oder indirekte Zitate müssen mit der Nennung des Nachnamens der Autoren, der Angabe des 
+Erscheinungsjahres der Publikation und der Seitenzahl belegt werden. 
+• 
+Um auf eine spezifische Stelle einer Quelle im Text zu verweisen, nennen Sie Autor*in, Jahr 
+und eine Information über die bestimmte Stelle 
+• 
+Bei einem indirekten Zitat (d.h. einer sinngemäßen Wiedergabe von Textstellen) setzen Sie 
+immer Kurzbelege 
+• 
+Seitenangaben sind dabei vor allem angemessen, wenn spezifische Stellen einer Quelle 
+belegt werden 
+• 
+Das direkte Zitat ist eine wortwörtliche Übernahme eines Textes aus der Literatur 
+• 
+Direkte Zitate werden mit Anführungszeichen „“ gekennzeichnet und meist in den Satzbau 
+eingebunden 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Allgemeine Zitationsstruktur indirekter Zitate: 
+ 
+… (Nachname, Erscheinungsjahr, ggf. Seitenzahl). 
+ 
+Autorin/Autor und Autorin/Autor (2014) belegen in einer Metaanalyse, dass … 
+ 
+Autorin/Autor et al. (2013) beschäftigten sich mit der Fragestellung, inwieweit… (bei mehr als drei 
+Autoren) 
+ 
+Allgemeine Zitationsstruktur direkter Zitate: 
+ 
+„…“ (Nachname/n, Erscheinungsjahr, Seitenzahl). 
+ 
+„…“ (Autorin/Autor & Autorin/Autor, Erscheinungsjahr) oder Autorin/Autor und Autorin/Autor (2021) 
+zeigen, dass „…“ 
+ 
+Überblick 
+ 
+ 
+Erste Zitation im 
+Weitere Zitation 
+Erste Zitation im 
+Weitere Zitation 
+ 
+Text 
+im Text 
+Klammerausdruck 
+im Klammeraus- 
+ 
+ 
+ 
+ 
+druck 
+Ein(e) Autor(in) 
+Trautwein (2007) 
+Trautwein (2007) 
+(Trautwein, 2007) 
+(Trautwein, 2007) 
+Zwei Autor/inn/en 
+Klassen und Tze 
+Klassen und Tze 
+(Klassen & Tze, 
+(Klassen & Tze, 
+ 
+(2014) 
+(2014) 
+2014) 
+2014) 
+Drei und mehr 
+Pennings et al. 
+Pennings et al. 
+(Pennings et al., 
+(Pennings et al., 
+Autor/inn/en 
+(2013) 
+(2013) 
+2013) 
+2013) 
+Gruppen als Au- 
+Organisation für 
+OECD (2015) 
+(Organisation für 
+(OECD, 2015) 
+tor/inn/en 
+wirtschaftliche 
+ 
+wirtschaftliche 
+ 
+(mit Abkürzungen) 
+Zusammenarbeit 
+und Entwicklung 
+ 
+Zusammenarbeit 
+und Entwicklung 
+ 
+ 
+(OECD, 2015) 
+ 
+[OECD], 2015) 
+ 
+ 
+ 
+ 
+ 
+
+[Page 8]
+Katholische Universität Eichstätt-Ingolstadt 
+Philosophisch-Pädagogische Fakultät 
+Professur für Lebenslanges Lernen 
+ 
+Hinweise 
+• 
+Grammatikalische Fehler im Original-Zitat werden übernommen und mit [sic] (d.h. 
+„genau so“) markiert 
+• 
+Auslassungen innerhalb eines Zitates kennzeichnet man durch „ ... “ 
+• 
+Zitate in Zitaten werden durch einfache Anführungszeichen ‚‘ gekennzeichnet 
+• 
+Bei Besonderheiten in wörtlichen Zitaten (z.B. Veränderungen zur grammatikalischen 
+Anpassung, Hervorhebungen, etc.) nutzen Sie eine eckige Klammer, um eine 
+Zusatzinformation zu platzieren 
+• 
+Wenn ein direktes Zitat 40 oder mehr Wörter beinhaltet, wird es als Block formatiert, ohne 
+Anführungszeichen (APA, 2020, S. 272), links erfolgt ein Einschub (wie bei Absätzen; 
+normalerweise 0,5 cm). 
+• 
+Der APA-Stil sieht keine Fußnoten-Belege vor

@@ -1,0 +1,112 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BA_Bildungs-und_Erzw_Vollzeit.pdf
+TITLE: Studienverlaufsplan_BA_Bildungs-und_Erzw_Vollzeit.pdf
+SOURCE_FILE: Studienverlaufsplan_BA_Bildungs-und_Erzw_Vollzeit.pdf
+------------------------------------------------------------
+
+[Page 1]
+Idealtypischer Studienplan
+ECTS- 
+Punkte
+6
+Bachelorarbeit
+12 ECTS-Punkte
+Wahlpflicht: Praxisbezogene Vertiefung in den ge-
+wählten Schwerpunkten
+10 ECTS-Punkte
+Begleitendes Seminar zur Bachelorarbeit 
+8 ECTS Punkte
+30
+5
+Wahlpflicht: Einführung in den Schwerpunkt 
+(Bildungspolitik und Bildungsphilosophie 
+oder Sozial- und Gesundheitspädagogik oder Er-
+wachsenen- und Weiterbildung) 
+10 ECTS-Punkte
+Wahlpflicht: Projektentwicklung und 
+-management in den jeweiligen Schwerpunkten
+10 ECTS-Punkte
+Wahlpflicht: Lernforschungsprojekt im 
+jeweiligen Schwerpunkt 
+10 ECTS-Punkte
+30
+4
+Wahlpflicht: 
+Studium.Pro 
+(Pro Horizont) 
+5 ECTS-Punkte
+Bildung und 
+Migration
+5 ECTS-Punkte
+Bildungs- und 
+Erziehungsverhältnisse 
+in der Schule
+5 ECTS-Punkte
+Psychologie II
+5 ECTS-Punkte
+Bildungssoziologie II 
+5 ECTS-Punkte
+Pädagogische 
+Diagnostik, Förderung 
+und Evaluation
+5 ECTS-Punkte
+30
+3
+Praktikum II (4 Wo) 
+einschl. begleitendes Seminar
+10 ECTS-Punkte
+Empirische 
+Bildungsforschung
+Quantitative 
+Methoden
+5 ECTS-Punkte
+Psychologie I
+5 ECTS-Punkte
+Bildungssoziologie I
+5 ECTS-Punkte
+Pädagogische Kinder-, 
+Jugend- und 
+Familienforschung
+5 ECTS-Punkte
+30
+2
+Bildungsphilosophie 
+und Politische Theorie
+5 ECTS-Punkte
+Erwachsenen- 
+pädagogische 
+Handlungskompetenz II
+5 ECTS-Punkte
+Lehren und Lernen mit 
+digitalen Medien
+5 ECTS-Punkte
+Empirische Bildungsfor-
+schung: Qualitativ-her-
+meneutische Methoden
+5 ECTS-Punkte
+Praktikum I (4 Wo) 
+einschl. begleitendes Seminar
+10 ECTS-Punkte
+30
+1
+Einführung in das 
+Pädagogische Handeln
+5 ECTS-Punkte
+Einführung in die digita-
+le Bildung
+5 ECTS-Punkte
+Geschichte und 
+Theorien von Bildung 
+und Erziehung
+5 ECTS-Punkte
+Grundlagen der 
+Persönlichkeitsbildung
+5 ECTS-Punkte
+Einführung in die 
+Berufs- und 
+Kompetenzfelder
+5 ECTS-Punkte
+Erwachsenen- 
+pädagogische 
+Handlungskompetenz I
+5 ECTS-Punkte
+30

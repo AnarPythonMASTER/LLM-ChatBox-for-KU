@@ -1,0 +1,539 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/BA_Journalistik_Wahlpflichtkatalog_SoSe_23.pdf
+TITLE: BA_Journalistik_Wahlpflichtkatalog_SoSe_23.pdf
+SOURCE_FILE: BA_Journalistik_Wahlpflichtkatalog_SoSe_23.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Modulkatalog für die Schwerpunkte im Studiengang 
+Journalistik (B.A.) 
+ 
+1. nach § 7 der Prüfungsordnung für den Bachelorstudiengang Journalistik in der Fassung vom 
+TT.MM.JJJJ 
+2. Geltungsbereich zum SoSe 2023 
+ 
+3. vom Fakultätsrat der Sprach- und Literaturwissenschaftlichen Fakultät beschlossen am 25.01.2023 
+ 
+ 
+Auflistung der Schwerpunkte 
+In der Prüfungsordnung verankerte Schwerpunkte: 
+(1) Journalismus und interkulturelle Kommunikation (Spanisch), 
+(2) Fach- und interkulturelle Kommunikation (Französisch), 
+(3) Literatur und Kultur, 
+(4) Lateinamerika-Studien, 
+(5) Geschichtswissenschaften, 
+(6) Politik und Gesellschaft, 
+(7) Betriebswirtschaftslehre, 
+(8) Umwelt und Nachhaltigkeit 
+(9) Data Science 
+ 
+Die Prüfungsformen der Module richten sich nach der Prüfungsordnung des Geberstudiengangs in der 
+aktuellsten Fassung, auf die jeweilige (Fach-)Prüfungsordnung wird verwiesen. 
+ 
+(1) Im Schwerpunkt Journalismus und interkulturelle Kommunikation (Spanisch) muss die oder der 
+Studierende im sprachpraktischen Bereich 15 ECTS-Punkte in Modulen der Sprache Spanisch 
+erwerben: 
+1. Sprachneueinsteiger oder -innen müssen Kenntnisse auf dem Niveau B1+/B2 des 
+Gemeinsamen Europäischen Referenzrahmens erwerben, oder 
+2. Studierende, die bereits Spanischkenntnisse vorweisen, müssen diese in Modulen bis zum 
+Niveau B2 des Gemeinsamen Europäischen Referenzrahmens erweitern sowie Module zur 
+Sprachpraxis und Landeskunde bis zum Erreichen der 15 ECTS-Punkte absolvieren. 
+ 
+Folgende Module können gewählt werden: 
+a) Intensivkurs Spanisch 1: 5 ECTS-Punkte, Modulprüfung: siehe Modulkatalog 
+Sprachenzentrum, 
+b) Intensivkurs Spanisch 2. 5 ECTS-Punkte, Modulprüfung: siehe Modulkatalog 
+Sprachenzentrum, 
+c) Intensivkurs Spanisch 3: 5 ECTS-Punkte, Modulprüfung: siehe Modulkatalog 
+Sprachenzentrum, 
+d) Landeskunde/Kulturwissenschaft I (Spanisch): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe FPO Romanistik, 
+e) Landeskunde/Kulturwissenschaft II (Spanisch): 5 ECTS-Punkte, siehe FPO 
+Romanistik, 
+f) 
+Spanisch 1 (Moderne Fremdsprache 1): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+g) Spanisch 2 (Moderne Fremdsprache 2): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+h) Spanisch 3 (Moderne Fremdsprache 3): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+i) 
+Spanisch 4 (Moderne Fremdsprache 4): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+j) 
+Grammatik und Wortschatz I (Spanisch): 5 ECTS-Punkte, Anwesenheitspflicht, 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Modulprüfung: siehe FPO Romanistik (unbenotet), 
+k) Grammatik und Wortschatz II (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Romanistik, 
+l) 
+Sprachmittlung I und Aussprache (Spanisch): Anwesenheitspflicht, 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Romanistik, 
+m) Sprachmittlung II (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe FPO Romanistik, 
+n) Textproduktion und Stilistik I (Spanisch): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe FPO Romanistik, 
+o) Textproduktion und Stilistik II (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Romanistik 
+ 
+ 
+1. Weitere Module im Umfang von 15 ECTS-Punkten sind in diesem Schwerpunkt aus folgenden 
+Modulen erfolgreich zu absolvieren. Eines der folgenden Module 
+a) Periodismo online: La Prensa: 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Romanistik, 
+b) Periodismo online: Medios audiovisuales: 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Romanistik, 
+2. Kommunikation im interkulturellen Kontext Competencia comunicativa en contextos inter- 
+culturales: 5 ECTS-Punkte, Anwesenheitspflicht, Modulprüfung: siehe FPO Romanistik, 
+3. Geschäftskommunikation und Öffentlichkeitsarbeit Español de la empresa: negocios y 
+communicación externa: 5 ECTS-Punkte, Anwesenheitspflicht, Modulprüfung: siehe FPO 
+Romanistik, 
+4. Oberstufenmodul Spanisch: 5 ECTS-Punkte, , Modulprüfung: siehe FPO Romanistik. 
+ 
+ 
+(2) Im Schwerpunkt Fach- und interkulturelle Kommunikation (Französisch) muss die oder der 
+Studierende im sprachpraktischen Bereich 20 ECTS-Punkte in Modulen der Sprache Französisch 
+erwerben: 
+1. Sprachneueinsteiger oder -innen müssen Kenntnisse auf dem Niveau B1+/B2 des 
+Gemeinsamen Europäischen Referenzrahmens erwerben, oder 
+2. Studierende, 
+die 
+bereits 
+Französischkenntnisse 
+vorweisen, 
+müssen 
+diese 
+in 
+Sprachmodulen bis zum Niveau B2 des Gemeinsamen Europäischen Referenzrahmens 
+erweitern sowie Module zur Sprachpraxis und Landeskunde bis zum Erreichen der 20 
+ECTS-Punkte absolvieren. 
+ 
+Folgende Module können gewählt werden: 
+a) Landeskunde/Kulturwissenschaft I (Französisch), Anwesenheitspflicht, 5 ECTS-
+Punkte, Modulprüfung: siehe FPO Romanistik, 
+b) Landeskunde/Kulturwissenschaft II (Französisch), 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Romanistik, 
+c) Französisch 1 (Moderne Fremdsprache 1), 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+d) Französisch 2 (Moderne Fremdsprache 2), 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+e) Französisch 3 (Moderne Fremdsprache 3), 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+f) 
+Französisch 4 (Moderne Fremdsprache 4), 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+g) Grammatik und Wortschatz I (Französisch), 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe FPO Romanistik (unbenotet), 
+h) Grammatik und Wortschatz II (Französisch), 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Romanistik, 
+i) 
+Sprachmittlung I und Aussprache (Französisch), 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe FPO Romanistik, 
+j) 
+Sprachmittlung II (Französisch), 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Romanistik, 
+k) Textproduktion und Stilistik I (Französisch), 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe FPO Romanistik, 
+
+[Page 3]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+l) 
+Textproduktion und Stilistik II (Französisch), 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Romanistik, 
+m) Geschäftskommunikation und Öffentlichkeitsarbeit: Français de l'entreprise: la 
+communication dans l'entreprise, 5 ECTS-Punkte, Anwesenheitspflicht, Modulprüfung: 
+siehe FPO Romanistik, 
+ 
+ 
+Eines der folgenden Module ist in diesem Schwerpunkt erfolgreich zu absolvieren: 
+ 
+1. Kommunikation im interkulturellen Kontext: Compétence communicative en contexte 
+interculturel: 5 ECTS-Punkte, Anwesenheitspflicht, Modulprüfung: siehe FPO Romanistik, 
+oder 
+2. Culture, sociétè et médias dans la France contemporaine: 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Romanistik. 
+ 
+In diesem Schwerpunkt ist ein weiteres frei wählbares Modul, das mit dem Schwerpunkt vereinbar 
+ist, im Umfang von 5 ECTS-Punkten erfolgreich zu absolvieren, dabei stehen folgende Module zur 
+Verfügung: 
+a) Einführung in die romanische Literaturwissenschaft (Französisch), 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Romanistik (unbenotet), 
+b) Basismodul I: Französischsprachige Literatur des 19.-21. Jahrhunderts, 5 ECTS-
+Punkte, Voraussetzung: erfolgreiche Teilnahme am Modul „Einführung in die 
+romanische Literaturwissenschaft“, Modulprüfung: siehe FPO Romanistik 
+c) Vertiefungsmodul II: Französischsprachige Literatur vom Mittelalter bis 1800, 5 ECTS-
+Punkte, Modulprüfung: siehe FPO Romanistik, 
+d) weitere Module, die mit dem Schwerpunkt vereinbar sind. 
+ 
+(3) Im Schwerpunkt Literatur und Kultur muss die oder der Studierende folgende Module erfolgreich 
+absolvieren: 
+1. Ein Modul im Umfang von 5 ECTS-Punkten aus dem Bereich „Einführung in die 
+Literaturwissenschaft“, dabei stehen folgende Module zur Verfügung: 
+a) Introduction to Literary und Cultural Studies: 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Anglistik (unbenotet), 
+b) ÄdL und NdL Studienportal Literaturwissenschaft: 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Germanistik (unbenotet), 
+c) NdL Grundkurs: 5 ECTS-Punkte, Modulprüfung: siehe FPO Germanistik 
+(unbenotet), 
+d) ÄdL Grundkurs: 5 ECTS-Punkte, Modulprüfung: siehe FPO Germanistik (unbenotet) 
+e) Einführung in die Romanische Literaturwissenschaft (Französisch): 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Romanistik (unbenotet), 
+f) 
+Einführung in die Romanische Literaturwissenschaft (Italienisch): 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Romanistik (unbenotet), 
+g) Einführung in die Romanische Literaturwissenschaft (Spanisch/Lateinamerika): 5 
+ECTS-Punkte, Modulprüfung: siehe FPO Romanistik (unbenotet) 
+2. Module im Umfang bis zu 15 ECTS-Punkten aus dem Bereich „Aufbaumodule“ oder 
+„Vertiefungsmodule“ in der Literaturwissenschaft, dabei stehen folgende Modle zur 
+Verfügung: 
+a) Literary and Cultural History I: English Literary Studies: 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Anglistik, 
+b) Literary and Cultural History I: American Studies: 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Anglistik, 
+c) Literature and Media (Bachelormodul): 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Anglistik, 
+d) NdL Literaturtheorie und Kulturwissenschaft: 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Germanistik, 
+e) NdL Literaturgeschichte 1: 5 ECTS-Punkte, Modulprüfung: siehe FPO Germanistik 
+(unbenotet), 
+f) 
+NdL Literaturhistorische Analysen: 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Germanistik 
+
+[Page 4]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+g) NdL Literatur und Neue Medien: 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Germanistik, 
+h) NdL Literaturgeschichte 2: 5 ECTS-Punkte, Modulprüfung: siehe FPO Germanistik, 
+i) 
+Basismodul I: Französischsprachige Literatur des 19.-21. Jahrhunderts: 5 ECTS-
+Punkte, Voraussetzung: erfolgreiche Teilnahme am Modul „Einführung in die 
+Romanische Literaturwissenschaft“, Modulprüfung: siehe FPO Romanistik, 
+j) 
+Vertiefungsmodul I: Analyse von Text, Film und anderen Medien (Französisch): 5 
+ECTS-Punkte, Modulprüfung: siehe FPO Romanistik, 
+k) Vertiefungsmodul II: Französischsprachige Literatur vom Mittelalter bis 1800: 5 
+ECTS-Punkte, Modulprüfung: siehe FPO Romanistik, 
+l) 
+Basismodul I: Italienischsprachige Literatur des 19.-21. Jahrhunderts: 5 ECTS-
+Punkte, Voraussetzung: erfolgreiche Teilnahme am Modul „Einführung in die 
+Romanische Literaturwissenschaft“, Modulprüfung: siehe FPO Romanistik, 
+m) Vertiefungsmodul I: Analyse von Text, Film und anderen Medien (Italienisch): 5 
+ECTS-Punkte, Modulprüfung: siehe FPO Romanistik 
+n) Vertiefungsmodul II: Italienischsprachige Literatur vom Mittelalter bis 1800: 5 ECTS-
+Punkte, Modulprüfung: siehe FPO Romanistik, 
+o) Basismodul I: Spanischsprachige Literatur des 19.-21. Jahrhunderts: 5 ECTS-
+Punkte, Voraussetzung: erfolgreiche Teilnahme am Modul „Einführung in die 
+Romanische Literaturwissenschaft“, Modulprüfung: siehe FPO Romanistik, 
+p) Vertiefungsmodul 
+I: 
+Analyse 
+von 
+Text, 
+Film 
+und 
+anderen 
+Medien 
+(Spanisch/Lateinamerika): 5 ECTS-Punkte, Modulprüfung: siehe FPO Romanistik, 
+q) Vertiefungsmodul II: Spanischsprachige Literatur vom Mittelalter bis 1800: 5 ECTS-
+Punkte, Modulprüfung: siehe FPO Romanistik. 
+ 
+3. weitere Module im Umfang von bis zu 15 ECTS-Punkten aus folgender Auswahl: 
+a) Grundlagen Europäischer Kulturgeschichte: 5 ECTS-Punkte, Modulprüfung: siehe 
+PO BA Europastudien, 
+b) Selbst- und Fremdwahrnehmung der europäischen Literaturen und Kulturen: 5 
+ECTS-Punkte, Modulprüfung: siehe PO BA Europastudien, 
+c) Spiel- und Theaterdidaktik (Modul mit Praxisbezug): 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Germanistik, 
+d) Körper, Sprache und Stimme: 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Germanistik, 
+e) Formen und Methoden der Theaterpädagogik/des darstellenden Spiels: 5 ECTS-
+Punkte, Modulprüfung: siehe FPO Germanistik, 
+f) 
+Historische, kultur- und sozialwissenschaftliche Grundlagen des Theaters/des 
+Performativen: 5 ECTS-Punkte, Modulprüfung: siehe FPO Germanistik, 
+g) Fachpraxis (Modul mit Praxisbezug): Dramaturgie und Inszenierungspraxis: 10 
+ECTS-Punkte, Modulprüfung: siehe FPO Germanistik, 
+h) weitere Module, die mit dem Schwerpunkt vereinbar sind. 
+ 
+(4) Im Schwerpunkt Lateinamerika-Studien muss die oder der Studierende im sprachpraktischen 
+Bereich 15 ECTS-Punkte in Modulen der Sprache Spanisch oder Portugiesisch erwerben: 
+1. Sprachneueinsteiger oder -innen müssen Kenntnisse in Spanisch auf dem Niveau B1+/B2 
+in 
+Portugiesisch 
+auf 
+dem 
+Niveau 
+B1+/B2 
+des 
+Gemeinsamen 
+Europäischen 
+Referenzrahmens erreichen, oder 
+2. Studierende, die in der zu wählenden Sprache bereits Kenntnisse vorweisen, müssen diese 
+bis zum Niveau B2 beziehungsweise B1+/B2 des Gemeinsamen Europäischen 
+Referenzrahmens erweitern sowie Module zur Sprachpraxis oder Landeskunde (Politik 
+Lateinamerikas, Geografie Lateinamerikas, Geschichte Lateinamerikas) bis zum Erreichen 
+der 15 ECTS-Punkte absolvieren. 
+ 
+Folgende Module können gewählt werden: 
+a) Landeskunde/Kulturwissenschaft I (Spanisch): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe FPO Romanistik, 
+b) Landeskunde/Kulturwissenschaft II (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Romanistik, 
+c) Portugiesisch 1 (Moderne Fremdsprache 1): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+
+[Page 5]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+d) Portugiesisch 2 (Moderne Fremdsprache 2): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+e) Portugiesisch 3 (Moderne Fremdsprache 3): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+f) 
+Portugiesisch 4 (Moderne Fremdsprache 4): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+g) Spanisch 1 (Moderne Fremdsprache 1): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+h) Spanisch 2 (Moderne Fremdsprache 2): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+i) 
+Spanisch 3 (Moderne Fremdsprache 3): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+j) 
+Spanisch 4 (Moderne Fremdsprache 4): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum, 
+a. Grammatik und Wortschatz I (Spanisch): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe FPO Romanistik (unbenotet), 
+b. Grammatik und Wortschatz II (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Romanistik, 
+c. Sprachmittlung I und Aussprache (Spanisch): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe FPO Romanistik, 
+d. Sprachmittlung II (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe FPO Romanistik, 
+e. Textproduktion und Stilistik I (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Romanistik, 
+k) Textproduktion und Stilistik II (Spanisch): 5 ECTS-Punkte, Anwesenheitspflicht, 
+Modulprüfung: siehe FPO Romanistik, 
+l) 
+Geschäftskommunikation und Öffentlichkeitsarbeit Español de la empresa: negocios y 
+communicación externa: 5 ECTS-Punkte, Anwesenheitspflicht, Modulprüfung: siehe 
+FPO Romanistik. 
+ 
+ 
+ 
+In diesem Schwerpunkt sind weiterhin Module, die mit dem Schwerpunkt vereinbar sind, aus den 
+Bereichen Geschichte, Politik, Geografie, Wirtschaft oder Literatur Lateinamerikas im Umfang von 
+15 ECTS-Punkten aus folgender Auswahl erfolgreich zu absolvieren: 
+ 
+a) Grundlagen der Geographie Lateinamerikas (Geographie I): 5 ECTS-Punkte, 
+Modulprüfung: siehe PO BA Lateinamerikastudien, 
+b) Methoden- und Projektseminar: Mensch-Umwelt-Beziehungen in Lateinamerika : 5 
+ECTS-Punkte, Modulprüfung: siehe Wahlpflichtkatalog PO Lateinamerikastudien, 
+c) Einführung in die Geographien Lateinamerikas: Soziale und wirtschaftliche 
+Realitäten wahrnehmen und schaffen: 5 ECTS-Punkte, Modulprüfung: siehe PO 
+Lateinamerikastudien, 
+d) Geschichte Lateinamerikas I: historisches Orientierungswissen: 5 ECTS-Punkte, 
+Modulprüfung: siehe PO Lateinamerikastudien, 
+e) Geschichte Lateinamerikas V: Identitäskonstruktion und Erinnerung: 5 ECTS-
+Punkte, Modulprüfung: siehe PO Lateinamerikastudien, 
+f) 
+Geschichte 
+Lateinamerikas: 
+Kultur 
+und 
+Globalisierung: 
+5 
+ECTS-Punkte, 
+Modulprüfung: siehe PO Lateinamerikastudien, 
+g) Basismodul I: Spanischsprachige Literatur des 19.-21. Jahrhunderts: 5 ECTS-
+Punkte, Modulprüfung: siehe FPO Romanistik, 
+h) Vertiefungsmodul I: Analyse von Text, Film und anderen Medien (Spanisch/Latein- 
+amerika): 5 ECTS-Punkte, Modulprüfung: siehe FPO Romanistik, 
+i) 
+Vertiefungsmodul II: Spanischsprachige Literatur vom Mittelalter bis 1800: 5 ECTS-
+Punkte, Modulprüfung siehe FPO Romanistik, 
+j) 
+Aufbaumodul II: Spanische/Lateinamerikanische Literatur- oder Filmgeschichte: 5 
+ECTS-Punkte, Modulprüfung: siehe FPO Romanistik (unbenotet), 
+k) Erweiterungsmodul 
+I: 
+Literaturen 
+der 
+Romania: 
+Gattungen, 
+Epochen, 
+Fragestellungen (Spanisch/Lateinamerika): 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Romanistik, 
+l) 
+Grundlagen der Politikwissenschaft/Politik: Lateinamerika (Politik I): 5 ECTS-
+Punkte, Modulprüfung: siehe PO Lateinamerikastudien, 
+
+[Page 6]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+m) Regierungssysteme und politischer Prozess in Lateinamerika seit 1950 (Politik II): 
+5 ECTS-Punkte, Modulprüfung: siehe PO Lateinamerikastudien, 
+n) Aktuelle politische und sozioökonomische Krisen und Herausforderungen in 
+Lateinamerika (Politik IV): 5 ECTS-Punkte, Modulprüfung: siehe PO BA 
+Lateinamerikastudien. 
+ 
+(5) Im Schwerpunkt Geschichtswissenschaften muss die oder der Studierende folgende Module 
+erfolgreich absolvieren: 
+1. a) Einführung in die Prinzipien und Methoden der Geschichtswissenschaft: 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Geschichte, oder 
+b) Geschichtskultur in Vergangenheit und Gegenwart: 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Geschichte, oder 
+c) Fragestellungen – Kontroversen - Historiographie: 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Geschichte, 
+2. Praxismodul in der Neueren und Neuesten Geschichte: Film, Theater, Literatur und neue 
+Medien: 5 ECTS-Punkte, Modulprüfung: siehe FPO Geschichte, 
+3. Praxismodul in der Neueren und Neuesten Geschichte: Erinnerungsorte, Jubiläen, Museen 
+und Gedenkstätten: 5 ECTS-Punkte, Modulprüfung: siehe FPO Geschichte. 
+Die oder der Studierende kann die Teildisziplin Neuere und Neueste Geschichte oder die 
+Teildisziplin Wirtschafts- und Sozialgeschichte wählen. 
+In der Teildisziplin Neuere und Neueste Geschichte muss der Studierende folgende Module 
+absolvieren: 
+1. Einführung in die Neuere und Neueste Geschichte: 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Geschichte , 
+2. Konkretisierungen zu Themen und Fragestellungen der Neueren und Neuesten 
+Geschichte: 5 ECTS-Punkte, Anwesenheit im Proseminar, Modulprüfung: siehe FPO 
+Geschichte , 
+3. Vertiefung Neuere und Neueste Geschichte: 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Geschichte. 
+ 
+In der Teildisziplin Wirtschafts- und Sozialgeschichte muss der Studierende folgende 
+Module absolvieren: 
+ 
+1. Einführung in die Wirtschafts- und Sozialgeschichte: 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Geschichte, 
+2. Konkretisierungen zu Themen und Fragestellungen der Wirtschafts- und Sozialgeschichte: 
+5 ECTS-Punkte, Anwesenheit im Proseminar, Modulprüfung: siehe FPO Geschichte, 
+3. Vertiefung Wirtschafts- und Sozialgeschichte: 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Geschichte. 
+(6) Im Schwerpunkt Politik und Gesellschaft muss die oder der Studierende folgende Module 
+absolvieren: 
+1. Das gemäß § 6 Abs. 3 Nr. 1 und 2 der Prüfungsordnung noch nicht absolvierte Modul muss 
+absolviert werden, entweder 
+a) Einführung in die Internationale Politik: 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Politikwissenschaft, oder, wenn dieses Modul bereits nach § 6 Abs. 3 Nr. 1 absolviert wurde, 
+b) Einführung in die Politische Systemlehre und die Vergleichende Politikwissenschaft: 5 
+ECTS-Punkte; Modulprüfung: siehe FPO Politikwissenschaft. 
+2. Das politische System der Bundesrepublik Deutschland: 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Politikwissenschaft, 
+3. Einführung in die Soziologie: 5 ECTS-Punkte, Modulprüfung: siehe FPO Soziologie, 
+4. Grundzüge soziologischer Theorien: 5 ECTS-Punkte, Modulprüfung: siehe FPO Soziologie, 
+5. Ein Modul aus dem Bereich Politik und Gesellschaft im Umfang von 10 ECTS-Punkten aus 
+folgendem Angebot: 
+
+[Page 7]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+a) Akteure und Systeme der Internationalen Politik: 10 ECTS-Punkte, Modulprüfung: siehe 
+FPO Politikwissenschaft, 
+b) Europäische Politische Ideen: 10 ECTS-Punkte, Modulprüfung: siehe FPO 
+Politikwissenschaft, 
+c) Europäische Integration (Europa in der Weltpolitik): 10 ECTS-Punkte, Modulprüfung: 
+siehe FPO Politikwissenschaft, 
+d) Politische Soziologie und Kultursoziologie: 10 ECTS-Punkte, Modulprüfung: siehe FPO 
+Soziologie, 
+e) Schwerpunkte soziologischer Theorien: 10 ECTS-Punkte, Modulprüfung: siehe FPO 
+Soziologie. 
+ 
+(7) Im Schwerpunkt Betriebswirtschaftslehre muss die oder der Studierende folgende Module 
+absolvieren: 
+1. BWL I: Grundlagen der Allgemeinen Betriebswirtschaftslehre I: 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Wirtschaftswissenschaften, 
+2. BWL II: Grundlagen der Allgemeinen Betriebswirtschaftslehre II: 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Wirtschaftswissenschaften, 
+3. Betriebliches 
+Rechnungswesen: 
+5 
+ECTS-Punkte, 
+Modulprüfung: 
+siehe 
+FPO 
+Wirtschaftswissenschaften 
+4. VWL 
+I: 
+Mikroökonomie: 
+5 
+ECTS-Punkte, 
+Modulprüfung: 
+siehe 
+FPO 
+Wirtschaftswissenschaften, 
+5. VWL 
+II: 
+Makroökonomie: 
+5 
+ECTS-Punkte, 
+Modulprüfung: 
+siehe 
+FPO 
+Wirtschaftswissenschaften, 
+6. ein Modul im Umfang von 5 ECTS- Punkten aus folgendem Angebot: 
+a) Investition, Finanzierung und Kapitalmarkt: 5 ECTS-Punkte, Modulprüfung: siehe PO 
+Betriebswirtschaftslehre, 
+b) Grundlagen des Marketingmanagements: 5 ECTS-Punkte, Modulprüfung: siehe PO 
+Betriebswirtschaftslehre, 
+c) weitere Module, die mit dem Schwerpunkt vereinbar sind. 
+ 
+(8) Im Schwerpunkt Umwelt und Nachhaltigkeit muss die oder der Studierende folgende Module 
+ absolvieren: 
+ 
+1. Physische Geographie 1: Hydro- und Klimageographie: 5 ECTS-Punkte, Modulprüfung: 
+siehe PO BA Geographie, 
+2. Physische Geographie 2: Geomorphologie: 5 ECTS-Punkte, Modulprüfung: siehe PO BA 
+Geographie. 
+ 
+20 ECTS-Punkte müssen durch die erfolgreiche Absolvierung von folgenden möglichen Module 
+erworben werden: 
+ 
+1. Techniken der Geographie 2: Geoinformatik: 5 ECTS-Punkte, Modulprüfung: siehe PO BA 
+Geographie, 
+2. Physische Geographie 3: Landschaftsökologie: 5 ECTS-Punkte, Modulprüfung: siehe 
+Wahlpflichtkatalog BA Geographie, 
+3. Schnee- und Gletscherkunde: 5 ECTS-Punkte, Anwesenheit in der Vorlesung oder 
+Seminar, Modulprüfung: siehe Wahlpflichtkatalog BA Geographie, 
+4. Naturgefahren: 5 ECTS-Punkte, Modulprüfung: siehe Wahlpflichtkatalog BA Geographie, 
+5. Bodengeographie: 5 ECTS-Punkte, Anwesenheit im Seminar mit Geländeteil, 
+Modulprüfung: siehe PO BA Geographie, 
+6. Mensch-Umwelt-Konflikte: 5 ECTS-Punkte, Modulprüfung: siehe Wahlpflichtkatalog BA 
+Geographie, 
+7. Fallbeispiele der Angewandten Physischen Geographie: 5 ECTS-Punkte, Modulprüfung: 
+siehe Wahlpflichtkatalog BA Geographie, 
+8. Den Klimawandel verstehen lernen: Naturwissenschaftliche Grundlagen: 5 ECTS-Punkte, 
+Modulprüfung: siehe Wahlpflichtkatalog BA Geographie, 
+9. Weitere physisch-geographischen Module können mit Zustimmung der Dozierenden gewählt 
+werden. 
+ 
+ 
+
+[Page 8]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+(9) Im Schwerpunkt Data Science muss die oder der Studierende folgende Module absolvieren: 
+ 
+1. Einführung in das statistische Arbeiten: 5 ECTS-Punkte, Modulprüfung: siehe PO BA Data 
+Science, 
+2. Einführung in die Programmiertechnik: 5 ECTS-Punkte, Modulprüfung: siehe PO BA 
+Mathematik, 
+3. Hands-on Machine Learning und Data Science: 10 ECTS-Punkte, Modulprüfung: siehe PO 
+BA Data Science, 
+4. a) Mathematik für Wirtschaftswissenschaftler 5 ECTS-Punkte, Modulprüfung: siehe PO BA 
+Betriebswirtschaftslehre oder 
+ b.) Lineare Algebra I (GS/MS/RS) (10 ECTS-Punkte, Modulprüfung: siehe FPO Mathematik 
+ 
+5. In diesem Schwerpunkt ist ein weiteres frei wählbares Modul, das mit dem Schwerpunkt 
+vereinbar ist, im Umfang von 5 ECTS-Punkten erfolgreich zu absolvieren, dabei stehen folgende 
+Module zur Verfügung: 
+ 
+a.) Algorithmen und Datenstrukturen: 5 ECTS-Punkte, Modulprüfung: siehe PO BA Data 
+Science oder 
+b.) Grundlagen von Informationssystemen: 5 ECTS-Punkte, Modulprüfung: siehe PO BA Digital 
+and Data Driven Business,

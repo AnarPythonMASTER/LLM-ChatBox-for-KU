@@ -1,0 +1,365 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_MA_Sprachen_und_Kulturen_Europas.pdf
+TITLE: Studiengangsbeschreibung_MA_Sprachen_und_Kulturen_Europas.pdf
+SOURCE_FILE: Studiengangsbeschreibung_MA_Sprachen_und_Kulturen_Europas.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status 2025_Oktober 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den 
+MA Sprachen und Kulturen Europas 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+A. Allgemeine Struktur des Studiengangs .................................................................. 2 
+B. Beschreibung des Studiengangs 
+........................................................................... 3 
+1. Der Studiengang in drei Sätzen 
+.......................................................................... 3 
+2. Zielgruppe ......................................................................................................... 3 
+C. Studiengangskonzept ........................................................................................... 4 
+1. Struktur des Studiengangs 
+................................................................................. 4 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+........................................................ 4 
+1.2. 
+Qualifikationsziele ........................................................................................ 4 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten .................................................... 4 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder ........................................................ 4 
+2. Aufbau des Studiengangs 
+.................................................................................. 4 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+...................................................... 4 
+2.2. 
+Pflichtbereich 
+.................................................................................................. 5 
+2.3. 
+Wahlpflichtbereich .......................................................................................... 6 
+2.4. 
+Wahlbereich ................................................................................................... 6 
+2.5. 
+Studium.Pro ................................................................................................... 6 
+2.6. 
+Praxisbezug.................................................................................................... 6 
+2.7. 
+Ausgestaltung der Internationalisierung 
+........................................................... 6 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre ...................................................................................................... 8 
+ 
+ 
+ 
+
+[Page 2]
+Status 2025_Oktober 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Name des Studiengangs: 
+ 
+Sprachen und Kulturen Europas 
+ 
+Verantwortliche Fakultät: 
+ 
+Sprach- und Literaturwissenschaftliche 
+Fakultät 
+ 
+Weitere beteiligte Fakultät/en: 
+ 
+Geschichts- und 
+Gesellschaftswissenschaftliche Fakultät 
+Philosophisch-Pädagogische Fakultät 
+ 
+ 
+Akademischer Grad: 
+M.A. 
+ 
+Studienform: 
+ 
+☐ Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☒ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+ 
+☐ grundständig 
+☒ konsekutiv 
+☐ weiterbildend 
+ 
+Wissenschaftliche/Praktische 
+Orientierung: 
+(nur bei Masterstudiengängen) 
+ 
+☐ eher anwendungsorientiert 
+☒ eher forschungsorientiert 
+Regelstudienzeit: 
+4 Semester (Vollzeit) 
+ 
+8 Semester (Teilzeit) 
+ 
+Studienbeginn: 
+ 
+☐ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-
+Leistungspunkte: 
+120 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+☒ Nein 
+
+[Page 3]
+Status 2025_Oktober 
+ 
+ 
+ 
+3 
+☐ Ja, € pro Semester 
+ 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in drei Sätzen 
+Der Studiengang ist im Kern kultur- und sprachwissenschaftlich ausgerichtet und 
+zeichnet sich durch eine starke Forschungsorientierung aus. Das Studium behandelt in 
+vertiefter Weise die kulturelle und sprachliche Vielfalt des europäischen Kontinents und 
+seiner weltweiten Verflechtungen und regt zur kritischen Auseinandersetzung mit 
+historischen und aktuellen Entwicklungen Europas an. Die Studierenden erwerben 
+Sprachkenntnisse, erhalten in eigens dafür konzipierten Modulen erweiterten Zugang zu 
+modernen digitalen Forschungsmethoden und können durch die Wahl eines 
+Vertiefungsbereichs ihr Profil individuell schärfen. 
+ 
+ 
+2. Zielgruppe 
+Die Studierenden sollten ein ausgeprägtes Interesse haben an 
+ sprach- 
+und 
+kulturwissenschaftlichen 
+Fragestellungen 
+mit 
+europäischer 
+Perspektive 
+ selbstständiger wissenschaftlicher Forschung und deren Vermittlung 
+ der Vertiefung bzw. dem Ausbau ihrer fremdsprachlichen Kenntnisse 
+ 
+ 
+
+[Page 4]
+Status 2025_Oktober 
+ 
+ 
+ 
+4 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+ erster berufsqualifizierender Hochschulabschluss im Bachelorstudiengang 
+Sprachen und Kulturen Europas oder vergleichbarer Hochschulabschluss (z. B. 
+in einer Philologie), 
+ Kenntnisse in Englisch, mindestens auf dem Niveau B2 des Gemeinsamen 
+Europäischen Referenzrahmens, 
+ Kenntnisse in mindestens einer weiteren Fremdsprache, zum Beispiel 
+Französisch, Italienisch, Spanisch oder Latein, mindestens auf dem Niveau B2 
+des Gemeinsamen Europäischen Referenzrahmens, 
+ Vorkenntnisse in einem der zur Auswahl stehenden Vertiefungsbereiche, die mit 
+mindestens 15 ECTS-Punkten aus erfolgreich absolvierten Modulen aus dem 
+entsprechenden Bereich nachgewiesen werden. 
+ 
+1.2. 
+Qualifikationsziele 
+Der Studiengang ermöglicht eine interdisziplinäre Vernetzung und Vertiefung von auf 
+Bachelorebene erworbenem Wissen, die Ausbildung von fremdsprachlichen und 
+kommunikativen Kompetenzen, vertieften methodischen Kompetenzen sowie Planungs- 
+und Organisationskompetenzen in den beiden Projektmodulen. Die Wahl eines 
+Vertiefungsbereichs sowie das Belegen freier Module im Auslandsstudium ermöglichen 
+zusätzlich die Herausbildung eines persönlichen wissenschaftlichen Profils. 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Möglichkeit zur Promotion 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+Der Masterabschluss Sprachen und Kulturen Europas qualifiziert für Tätigkeiten in 
+internationalen Organisationen, kulturellen Einrichtungen, in der Presse- und 
+Öffentlichkeitsarbeit, im Kulturmanagement sowie generell in allen Bereichen, in denen 
+ein breites kulturgeschichtliches Wissen, gute Fremdsprachenkenntnisse und eine 
+ausgeprägte Vermittlungskompetenz relevant sind. 
+Denkbar sind etwa Tätigkeiten im Verlagswesen, in der Leitung regionaler /städtischer 
+Kulturinstitutionen oder im Marketing. 
+ 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+1. Semester: Ausbau der im BA-Studium erworbenen Kenntnisse 
+Im 1. Semester werden die im BA-Studium erworbenen Kenntnisse der Studierenden 
+zusammengeführt und ausgebaut. In den Modulen des Kernbereichs werden die 
+zentralen Inhalte des Studiengangs vermittelt. Durch die Wahl des Vertiefungsbereichs 
+wird bereits im ersten Semester ein individueller Schwerpunkt gesetzt. Aus folgenden 
+
+[Page 5]
+Status 2025_Oktober 
+ 
+ 
+ 
+5 
+Vertiefungsbereichen kann gewählt werden: Literaturwissenschaft, Sprachwissenschaft, 
+Kunstgeschichte, 
+Klassische 
+Archäologie, 
+Geschichte, 
+Politikwissenschaft 
+und 
+Europäische Ethnologie / Empirische Kulturwissenschaft. In der Literatur- sowie der 
+Sprachwissenschaft kann ein zusätzlicher Schwerpunkt durch die Wahl der Philologie 
+gesetzt werden. Zur Auswahl stehen Anglistik / Amerikanistik, Germanistik sowie 
+Romanistik, im Vertiefungsbereich Literaturwissenschaft zusätzlich die Klassische 
+Philologie. Hier können auch Module aus mehreren Philologien kombiniert werden. Im 1. 
+Semester wird zudem mit dem Studium der zwei gewählten Fremdsprachen begonnen, 
+welches im zweiten Semester fortgeführt wird. 
+ 
+2. Semester: Forschungssemester 1 
+Dieses Semester steht ganz im Zeichen der Forschung. In dem ersten von zwei 
+Projektmodulen werden Studierende – etwa durch die Konzeption, Organisation und 
+Durchführung eines Workshops oder einer Konferenz – an Forschungsarbeit 
+herangeführt. Dadurch wird neben der kulturwissenschaftlichen Reflexionsfähigkeit die 
+Kompetenz zur Vermittlung komplexer theoretischer Inhalte gezielt gefördert. Ergänzend 
+dazu werden den Studierenden in dem Modul des methodologischen Bereichs 
+zusätzliche Werkzeuge zur Forschung an die Hand gegeben. 
+ 
+3. Semester: Ausbau der interkulturellen Erfahrung 
+Das verpflichtende Auslandssemester ermöglicht den Studierenden interkulturelle 
+Erfahrungen. Hier können die Studierenden durch die Wahl ihres Studienortes einen 
+weiteren inhaltlichen Schwerpunkt setzen. Das Praktikum kann ebenfalls im Ausland 
+absolviert werden. Zudem kann bereits mit der Masterarbeit begonnen werden. 
+ 
+4. Semester: Forschungssemester 2 
+Im vierten Semester können die Studierenden sich in ihrer Masterarbeit intensiv mit 
+Forschungsfragen auseinandersetzen. Darüber hinaus vertiefen sie im zweiten 
+Projektmodul ihre Erfahrung in der Erarbeitung eines übersichtlichen Forschungsprojekts. 
+Zusätzlich werden im transdisziplinären Bereich die Fertigkeiten der Studierenden 
+ausgebaut, sich über Fächergrenzen hinweg fundiert wissenschaftlich mit einem Thema 
+zu befassen. 
+ 
+2.2. 
+Pflichtbereich 
+ 
+Der Pflichtbereich ist in drei Bereiche unterteilt: 
+ 
+Kernbereich (im Umfang von 30 ECTS-Punkten): 
+In diesem Bereich werden zentrale Inhalte des Studiengangs vermittelt. Dazu zählen 
+eine vertiefte Auseinandersetzung mit der europäischen Linguistik und der europäischen 
+Kulturgeschichte auch im Hinblick auf aktuelle Entwicklungen. In den beiden 
+Projektmodulen werden diese Kenntnisse vertieft und in eigene Forschungsarbeiten 
+überführt. 
+ 
+Methodologischer Bereich (im Umfang von 5 ECTS-Punkten): 
+Ergänzend zu den Projektmodulen werden hier v.a. digitale Methodenkompetenzen 
+ausgebaut. 
+
+[Page 6]
+Status 2025_Oktober 
+ 
+ 
+ 
+6 
+ 
+Transdisziplinärer Bereich (im Umfang von 5 ECTS-Punkten): 
+Die Fähigkeit zum Austausch über Fächergrenzen hinweg wird in diesem Bereich 
+dezidiert weiterentwickelt. 
+ 
+ 
+2.3. 
+Wahlpflichtbereich 
+Die belegbaren Wahlpflichtmodule der einzelnen Wahlpflichtbereiche sind in der Anlage 
+2 zur Studiengangsbeschreibung aufgelistet. Folgende Wahlpflichtbereiche gibt es: 
+ Vertiefungsbereich (15 ECTS-Punkte) 
+ Sprachpraktischer Wahlpflichtbereich (20 ECTS-Punkte) 
+ 
+2.4. 
+Wahlbereich 
+Es sind Wahlmodule im Umfang von 10 ECTS-Punkten zu absolvieren. Diese sind im 
+Ausland zu erbringen. Ausländische Studierende haben die Möglichkeit, Module im 
+Umfang von 10 ECTS-Punkten aus dem Modulangebot des Vertiefungsbereichs an der 
+KU zu belegen. 
+ 
+2.5. 
+Studium.Pro 
+Ein Modul aus dem Masterangebot des Studium.Pro im Umfang von 5 ECTS-Punkten ist 
+verpflichtend zu absolvieren. 
+ 
+2.6. 
+Praxisbezug 
+Das obligatorische Praktikum stellt ein Profilelement des Masterstudiengangs Sprachen 
+und Kulturen Europas dar und sorgt für die Ausbildung von Selbstlern- und 
+Vermittlungskompetenzen sowie für eine Verbindung von Studium und Berufsleben. Das 
+Praktikum, das sowohl im Inland als auch im Ausland abgeleistet werden kann, soll sich 
+über mindestens vier Wochen erstrecken und den Studierenden eine Anschauung von 
+berufspraktischer Tätigkeit sowie eine berufsfeldbezogene Zusatzqualifikation vermitteln. 
+Das Praktikum soll in einem engen Zusammenhang mit den im Studiengang vermittelten 
+Inhalten stehen; denkbar sind Praktika beispielsweise im EU-Parlament, in Museen, in 
+Touristeninformationen, 
+in 
+Medienunternehmen, 
+bei 
+Kommunikationsabteilungen 
+international agierender Unternehmen oder in Deutschen Botschaften im Ausland. Auch 
+Praktika bei Forschungsprojekten an Universitäten und anderen Forschungsinstitutionen 
+im In- und Ausland sind möglich. 
+ 
+2.7. 
+Ausgestaltung der Internationalisierung 
+Das Auslandsstudium stellt eine unerlässliche Komponente des Studiums dar und bildet 
+eine wichtige Säule der Kompetenz- und Erfahrungserweiterung. Der Studiengang 
+verfügt derzeit über 13 Partneruniversitäten in acht Ländern: University of Southern 
+Denmark, Odense, Dänemark; Institut Catholique de Paris, Frankreich; Institut Catholique 
+de Toulouse, Frankreich; Institut catholique d'études supérieures (ICES), La Roche-sur-
+Yon, Frankreich; Katholische Universität Johannes Paul II Lublin, Polen; Universität 
+
+[Page 7]
+Status 2025_Oktober 
+ 
+ 
+ 
+7 
+Luzern, Schweiz; Università della Svizzera Italiana, Lugano, Schweiz; Universidad 
+Francisco de Vitoria, Madrid, Spanien; Universidad Pontificia de Salamanca, Spanien; 
+Universidad de Valladolid, Spanien; University of Hradec Králové, Tschechien; Bilgi 
+University, Istanbul, Türkei; University of Cyprus, Zypern. Zusätzlich haben die 
+Studierenden die Möglichkeit, andere Partnerschaften der KU zu nutzen. So können sie 
+z.B. auch an Universitäten in Österreich, Finnland, Italien, Schweden und Portugal 
+studieren. Eine zusätzliche Stärkung der Internationalisierung wird dadurch ermöglicht, 
+dass im Kernbereich die Lehre auch auf Englisch angeboten wird. Darüber hinaus bieten 
+Gastvorträge und Konferenzen, die etwa im Rahmen des Projektmoduls „Sprachen und 
+Kulturen Europas“ mitorganisiert werden, die Möglichkeit, sich mit internationalen 
+Forschenden zu vernetzen. 
+ 
+
+[Page 8]
+Status 2025_Oktober 
+ 
+ 
+ 
+8 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage 
+des Leitbilds für Studium und Lehre 
+ 
+Indem der Studiengang die historische Herausbildung von europäischen Werten wie 
+Menschenwürde, Freiheit und sozialer Verantwortlichkeit sowie Toleranz, Demokratie und 
+Pluralität in den Blick nimmt, sich mit den historischen und aktuellen Herausforderungen 
+und Chancen europäischer Mehrsprachigkeit auseinandersetzt und den Studierenden im 
+verpflichtenden Auslandsstudium zusätzlich interkulturelle Erfahrungen ermöglicht, trägt 
+er in besonderer Weise zur Verwirklichung des Leitbildes der KU bei.

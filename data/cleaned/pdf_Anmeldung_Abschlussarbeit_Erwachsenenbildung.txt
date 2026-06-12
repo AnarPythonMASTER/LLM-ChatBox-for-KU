@@ -1,0 +1,196 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Anmeldung_Abschlussarbeit_Erwachsenenbildung.pdf
+TITLE: Anmeldung_Abschlussarbeit_Erwachsenenbildung.pdf
+SOURCE_FILE: Anmeldung_Abschlussarbeit_Erwachsenenbildung.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+ 
+ 
+ 
+Antrag auf Ausgabe eines Abschlussarbeitsthemas im Studiengang: 
+Postgraduale Studien in Erwachsenenbildung 
+gemäß der Prüfungsordnung für den o.a. Studiengang an der Katholischen Universität Eichstätt-Ingolstadt in der jeweils geltenden Fassung (PO) 
+ 
+Dieses Formblatt wird ausschließlich für die Anmeldung der Abschlussarbeit des Postgradualen Studiengangs in Erwachsenenbildung verwendet. 
+Prüfungsamt 
+Bitte füllen Sie den Antrag am PC aus! 
+I. Angaben des/der Studierenden 
+ 
+ 
+ ......................................................................................... 
+ 
+.................................. 
+ 
+ .................................. 
+ 
+........................... 
+ Familienname und ggf. Geburtsname, Vorname(n) 
+ Geburtsdatum 
+ Matrikelnummer 
+ Fachsemester 
+ 
+Hiermit beantrage ich die Ausgabe eines Themas für meine Abschlussarbeit. Die ggf. lt. PO bzw. APO für die Ausgabe des 
+Abschlussthemas zu erfüllenden Bedingungen habe ich nachweislich erbracht. Des Weiteren erkläre ich, dass ich nicht bereits eine 
+Prüfung im o.a. Studiengang endgültig nicht bestanden habe und während des gesamten Bearbeitungszeitraumes im o. a. Studiengang 
+immatrikuliert und nicht beurlaubt bin. Ich nehme zur Kenntnis, dass eine Änderung des Themas nach der Ausgabe durch den/die 
+Themensteller/in nur noch auf Antrag (erhältlich auf der Homepage des Prüfungsamtes unter „Häufig gestellte Fragen“) möglich ist und 
+dass die Abschlussarbeit gleichzeitig als Printversion (zweifach) sowie als Digitalversion (einfach) bevorzugt als PDF-Mailanhang oder - 
+falls dies nicht möglich ist - im Form einer CD oder eines USB-Sticks im Prüfungsamt einzureichen ist. 
+ 
+ 
+Eichstätt, den 
+ ................................. 
+ .................................................................................. 
+ 
+ 
+Unterschrift Studierende(r) 
+ 
+ 
+II. Themenausgabe: Themensteller/in 
+ Bitte in Druckbuchstaben angeben 
+ 
+Herrn/Frau ........................................................................... habe ich am ........................................... nachfolgend aufgeführtes Thema 
+für die Abschlussarbeit zugeteilt: (bitte gut leserlich in Blockschrift ausfüllen/max. 250 Zeichen) 
+ 
+Deutsch: ........................................................................................................................................................................................... 
+ 
+ 
+ 
+.......................................................................................................................................................................................................... 
+ 
+ 
+ 
+.......................................................................................................................................................................................................... 
+ 
+ 
+Englisch: 
+........................................................................................................................................................................................... 
+ 
+ 
+ 
+.......................................................................................................................................................................................................... 
+ 
+ 
+ 
+.......................................................................................................................................................................................................... 
+ 
+ 
+ 
+Die Bearbeitungszeit beträgt 3 Monate ab Zuteilung des Themas. 
+ 
+ 
+ 
+Eichstätt, den 
+ ................................. 
+ ................................................................................................ 
+ 
+ 
+Stempel, Unterschrift Themensteller/in1 
+ 
+1 Mit meiner Unterschrift bestätige ich, dass ich zur/zum Prüfer/in dieser Abschlussarbeit bestellt wurde. 
+Bitte das Themenblatt nach Unterschrift des Themenstellers unverzüglich an das Prüfungsamt weiterleiten. 
+ 
+ 
+III. Festlegung des Abgabetermins durch das Prüfungsamt 
+ 
+Die Abschlussarbeit ist spätestens bis 
+ 
+ 
+unter Berücksichtigung der lt. Prüfungsordnung 
+vorgegebenen Höchststudiendauer in zwei gebundenen Exemplaren inkl. digitaler Form beim Prüfungsamt 
+einzureichen. 
+ 
+ 
+ 
+Eichstätt, den 
+ ................................. 
+ ................................................................................................ 
+ 
+ 
+Unterschrift Sachbearbeiter/in Prüfungsamt 
+ 
+IV. Original des Vordruckes für die Prüfungsakte 
+Eine Kopie per E-Mail an die/den Studierende(n) / Betreuer(in) 
+ 
+
+[Page 2]
+T 
+ 
+ 
+Rev. 05 
+Stand: Juli 2024 
+ 
+ 
+INFORMATIONEN ZUR ABSCHLUSSARBEIT 
+ 
+Sobald die in der entsprechenden Prüfungsordnung (bzw. allgemeinen Prüfungsordnung) definierten Zulassungs-
+voraussetzungen vorliegen, kann ein Thema für die Abschlussarbeit ausgegeben und im Prüfungsamt angemeldet 
+werden. Die zugehörigen Antragsformulare (Antrag auf Ausgabe eines Bachelorarbeits- oder Masterarbeitsthe-
+mas) sind auf der Homepage Ihres Studienganges abrufbar. Das Formular ist von dem/der Studierenden auszu-
+füllen und nach Themenausgabe durch die/den Betreuer/in der Abschlussarbeit an das Prüfungsamt weiterzulei-
+ten. Das Prüfungsamt legt den Abgabetermin fest und leitet eine Kopie des Ausgabeformulars per Mail an die/den 
+Studierende/n und die/den Betreuer/in zurück. 
+Beachten Sie bitte, dass Sie den Antrag so rechtzeitig stellen, dass Sie unter Berücksichtigung der in der Prü-
+fungsordnung bestimmten Höchststudiendauer den vollen Bearbeitungszeitraum ausschöpfen können. 
+Beispiel: Ein/e Bachelor-Studierende/r muss spätestens im 8. FS das Studium abschließen. Wenn also das 8. 
+Fachsemester am 30.09. endet, das Bearbeitungsende der BA-Arbeit jedoch auf einen späteren Zeitpunkt fällt, 
+muss die Arbeit trotzdem spätestens am 30.09. abgegeben werden, damit das Studium im Rahmen der zulässi-
+gen Höchststudiendauer abgeschlossen werden kann. 
+ 
+Die Abschlussarbeit muss in gebundener Form (untrennbar verbunden) im Prüfungsamt abgegeben werden. Sieht 
+eine Prüfungsordnung eine ausschließlich digitale Einreichung der Abschlussarbeit vor, sind die entsprechenden 
+Regelungen auf der zugehörigen Studiengangswebsite einsehbar. 
+Die Anzahl der vorzulegenden Exemplare ist in der jeweiligen Prüfungsordnung geregelt. In der Regel sind zwei 
+Exemplare als Printversionen und gleichzeitig ein Exemplar als Digitalversion (bevorzugt als PDF- Mailanhang oder 
+in Form einer CD oder eines USB-Sticks; einige Studiengänge haben hierzu gesonderte Regelungen, die Sie auf 
+der jeweiligen Studiengangswebsite einsehen können) einzureichen. 
+Sollte die jeweilige Prüfungsordnung eine Versicherung über die eigenständige Erstellung der Abschlussarbeit vor-
+schreiben, kann, falls kein entsprechender Wortlaut vorgegeben ist, folgender Wortlaut verwendet werden: 
+ 
+“Hiermit erkläre ich, dass ich die vorliegende Bachelor-/Masterarbeit selbstständig und ohne Hilfe Dritter verfasst 
+habe. Bei der Bachelor-/Masterarbeit wurden keine anderen als die angegebenen Quellen und Hilfsmittel be-
+nutzt. Alle den angegebenen Quellen entnommenen wörtlichen oder sinngemäßen Inhalte wurden von mir ent-
+sprechend kenntlich gemacht.” 
+ 
+Diese Erklärung ist in jedem Exemplar mit einzubinden und zu unterschreiben (Originalunterschrift, keine digitale 
+bzw. eingescannte Unterschrift). 
+ 
+Sie können die Arbeit entweder persönlich im Prüfungsamt abgeben (bitte Öffnungszeiten beachten), im Post-
+fach des Prüfungsamtes einlegen (bitte die/den zuständige/n Sachbearbeiter/in auf dem Umschlag angeben, 
+Postkasten am Marktplatz 7) oder per Post an das Prüfungsamt der Katholischen Universität Eichstätt-In-
+golstadt, Ostenstraße 28a in 85071 Eichstätt, bzw. Auf der Schanz 49 in 85049 Ingolstadt (je nach Zugehörigkeit 
+des Studiengangs) einsenden. 
+Fällt der Abgabetermin der Abschlussarbeit auf einen Sonnabend, Sonntag oder Feiertag, so sind alle Versionen 
+der Arbeit am nächstmöglichen Werktag im Prüfungsamt einzureichen. Bei der postalischen Zusendung an das 
+Prüfungsamt gilt das Datum des Poststempels als Abgabedatum. Eine vorzeitige Abgabe der Abschlussarbeit ist 
+möglich. Für die Abgabe bzw. die Einlieferung der Abschlussarbeit obliegt dem Prüfling die 
+Beweislast. 
+ 
+Falls der Umfang der Abschlussarbeit nicht in der jeweiligen Prüfungsordnung geregelt ist, kann dieser in Rück-
+sprache mit dem/der Betreuer/in der Arbeit festgelegt werden. Maßstab für eine Festlegung sollte die für die Ab-
+schlussarbeit zu vergebende ECTS-Punktzahl sein. 
+ 
+Das Titelblatt der Abschlussarbeit sollte folgende Angaben enthalten: 
+ 
+♦ 
+Katholische Universität Eichstätt-Ingolstadt 
+♦ 
+Fakultät 
+♦ 
+Bachelor/Masterarbeit 
+♦ 
+Thema der Arbeit (der Titel der Arbeit ist in deutscher und englischer Sprache anzugeben) 
+♦ 
+Vor- und Zuname 
+♦ 
+Matrikelnummer 
+♦ 
+Geburtsdatum 
+♦ 
+Studiengang (Bezeichnung lt. Prüfungsordnung) 
+♦ 
+Gutachter/in (Name & Lehrstuhlbezeichnung) - die Angabe einer Zweitgutachterin/eines Zweitgutachters ist 
+nur erforderlich, wenn diese/r nach den Vorgaben der Prüfungsordnung zu bestellen ist. 
+♦ 
+Abgabetermin (Fristende lt. Anmeldebestätigung des Prüfungsamtes)

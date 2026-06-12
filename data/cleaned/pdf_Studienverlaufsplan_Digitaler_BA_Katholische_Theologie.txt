@@ -1,0 +1,313 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Digitaler_BA_Katholische_Theologie.pdf
+TITLE: Studienverlaufsplan_Digitaler_BA_Katholische_Theologie.pdf
+SOURCE_FILE: Studienverlaufsplan_Digitaler_BA_Katholische_Theologie.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anlage 1 zur Studiengangsbeschreibung
+Idealtypischer Studienverlaufsplan
+Vollzeitstudiengang (Regelstudienzeit: 6 Semester)
+Sem.
+6
+M17 
+Bachelorarbeit
+(10 ECTS)
+M11 Relationen – 
+das Christentum in 
+seinen interreligiösen 
+Beziehungen 
+(10 ECTS)
+M15
+Studium. 
+Pro
+(5 ECTS)
+M14
+Wahl-
+pflicht- 
+modul
+(5 ECTS)
+30 
+ECTS-
+Punkte
+5
+M12 Jesus Christus 
+– seine Botschaft in 
+Schrift und 
+Verkündigung
+(10 ECTS)
+M13 Kirchenmodelle 
+– Ansätze 
+zeitgemäßer Pastoral 
+und Liturgie 
+(10 ECTS)
+M16 
+Praktikum
+(5 ECTS)
+M14
+Wahl-
+pflicht- 
+modul
+(5 ECTS)
+30 
+ECTS-
+Punkte
+4
+M9 Glaubens-
+vollzüge – Leben und 
+kirchliche Strukturen 
+gestalten 
+(10 ECTS)
+M10 Kritische 
+Zeitgenossenschaft 
+– Glaube und rel. 
+Bildung in…
+(10 ECTS)
+M8 
+Einfluss-
+sphären – 
+Verhältnis-
+bestim-
+mungen v. 
+Kirche, 
+Staat und 
+Gesellsch.
+(10 ECTS)
+M14
+Wahl-
+pflicht- 
+modul
+(5 ECTS)
+30 
+ECTS-
+Punkte
+3
+M6 Lebenswelten – 
+verantwortliches 
+Handeln 
+(10 ECTS)
+M7 Endlich leben – 
+der Mensch, Gottes 
+Schöpfung und die 
+Herausforder. …
+(10 ECTS)
+M14
+Wahl-
+pflicht- 
+modul
+(5 ECTS)
+30 
+ECTS-
+Punkte
+2
+M3 Einführung in die 
+Kirchengeschichte
+Fortsetzung
+(5 v. 10 ECTS)
+M4
+Einführung in 
+die systematische 
+Theologie 
+(12 ECTS)
+M5
+Einführung in die 
+Praktische Theologie 
+(12 ECTS)
+29
+ECTS-
+Punkte
+1
+M3 
+Einführung 
+in die 
+Kirchen­
+geschichte
+(5 v. 10 
+ECTS)
+M0
+Wiss. 
+Arbeiten 
+in der 
+Theologie 
+(4 ECTS)
+M1
+Einführung ins 
+theologische 
+Denken (10 ECTS)
+M2
+Einführung in die 
+Biblische Theologie 
+(12 ECTS)
+31
+ECTS-
+Punkte
+
+[Page 2]
+Anlage 1 zur Studiengangsbeschreibung
+Teilzeitstudiengang (Regelstudienzeit: 12 Semester)
+Sem
+.
+12
+M17 
+Bachelorarbeit
+(10 ECTS)
+M16 
+Praktikum
+(5 ECTS)
+15
+ECTS
+-
+Punkt
+e
+11
+M13 Kirchenmodelle – 
+Ansätze zeitgemäßer 
+Pastoral und Liturgie (10 
+ECTS)
+M15
+Studium. Pro
+(5 ECTS)
+15
+ECTS
+-
+Punkt
+e
+10
+M11 Relationen – das 
+Christentum in seinen 
+interreligiösen 
+Beziehungen 
+(10 ECTS)
+M14
+Wahlpflicht- 
+modul
+(5 ECTS)
+15
+ECTS
+-
+Punkt
+e
+9
+M12 Jesus Christus – 
+seine Botschaft in Schrift 
+und Verkündigung
+(10 ECTS)
+M14
+Wahlpflicht- 
+modul
+(5 ECTS)
+15
+ECTS
+-
+Punkt
+e
+8
+M10 Kritische Zeitgenos­
+senschaft – Glaube und 
+rel. Bildung in heutiger 
+Kultur…
+(10 ECTS)
+M14
+Wahlpflicht- 
+modul
+(5 ECTS)
+15
+ECTS
+-
+Punkt
+e
+7
+M7 Endlich leben – der 
+Mensch, Gottes 
+Schöpfung und die 
+Herausforder. …
+(10 ECTS)
+M14
+Wahlpflicht- 
+modul
+(5 ECTS)
+15
+ECTS
+-
+Punkt
+e
+6
+M9 Glaubensvollzüge – 
+Leben und kirchliche 
+Strukturen gestalten 
+(10 ECTS)
+M8 Einfluss-
+sphären – 
+Verhältnis-
+bestimmunge
+n von Kirche, 
+Staat und 
+Gesellschaft
+(10 ECTS)
+15
+ECTS
+-
+Punkt
+e
+5
+M6 Lebenswelten – 
+verantwortliches Handeln 
+(10 ECTS)
+15
+ECTS
+-
+Punkt
+e
+
+[Page 3]
+Anlage 1 zur Studiengangsbeschreibung
+4
+M5
+Einführung in die 
+Praktische Theologie 
+(12 ECTS)
+M3 
+Einführung in 
+die 
+Kirchenge­
+schichte 
+(10 ECTS)
+17 
+ECTS
+-
+Punkt
+e
+3
+M2
+Einführung in die Biblische 
+Theologie (12 ECTS)
+17 
+ECTS
+-
+Punkt
+e
+2
+M4 
+Einführung in die sys-
+tematische Theologie 
+(12 ECTS)
+ 
+12 
+ECTS
+-
+Punkt
+e
+1
+M0
+Wissensch
+. Arbeiten 
+in der 
+Theologie 
+(4 ECTS)
+M1
+Einführung ins theologische 
+Denken (10 ECTS)
+14 
+ECTS
+-
+Punkt
+e

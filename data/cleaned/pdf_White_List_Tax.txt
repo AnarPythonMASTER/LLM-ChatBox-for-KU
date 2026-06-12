@@ -1,0 +1,89 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/White_List_Tax.pdf
+TITLE: White_List_Tax.pdf
+SOURCE_FILE: White_List_Tax.pdf
+------------------------------------------------------------
+
+[Page 1]
+Liste der aus dem B.Sc. einbringbaren Veranstaltungen TAXATION 
+(Stand 20.02.2023) 
+ 
+Es können maximal drei fakultätsinterne Veranstaltungen eingebracht werden, insofern die 
+entsprechenden Kurse nicht bereits in den Bachelorabschluss eingegangen sind. 
+ 
+ 
+Modulbezeichnung 
+Unterrichtsform 
+Prüfungsform 
+ECTS/Semesterturnus 
+SWS 
+Einbringbar 
+in 
+ 
+ 
+ 
+WS 
+SS 
+ 
+ 
+Behavioral Finance 
+Vorlesung + 
+Übung 
+Klausur 
+ 
+5 
+4 
+Wahlbereich 
+Company Taxation in the 
+EU: Towards more 
+Fairness and 
+Sustainability 
+Vorlesung + 
+Übung 
+Klausur 
+5 
+ 
+4 
+Wahlbereich 
+Data Science in Finance 
+mit Python 
+Vorlesung + 
+Übung 
+Portfolio 
+5 
+ 
+4 
+Wahlbereich 
+Datenanalyse in 
+Accounting, Finance and 
+Tax 
+Vorlesung 
+Präsentation 
+5 
+ 
+4 
+Wahlbereich 
+Econometrics 
+Vorlesung + 
+Übung 
+Klausur 
+ 
+5 
+4 
+Wahlbereich 
+Konzernrechnungslegung 
+Vorlesung 
+Klausur 
+5 
+ 
+4 
+Wahlbereich 
+Political Institutions, the 
+Economy & Financial 
+Markets 
+Vorlesung + 
+Übung 
+Klausur 
+5 
+ 
+4 
+Wahlbereich

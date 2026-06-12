@@ -1,0 +1,549 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Web_Lageplan_2026_EN.pdf
+TITLE: Web_Lageplan_2026_EN.pdf
+SOURCE_FILE: Web_Lageplan_2026_EN.pdf
+------------------------------------------------------------
+
+[Page 1]
+Campus Map
+Aula-Bib. 
+DP8
+eO
+eRS
+Hofgarten 
+INS
+INTERIM
+Kap
+KGA
+KGB
+KGC 
+KGD/Aula
+KGE
+KHG
+Kinderhaus
+Lu10
+Lu32
+Mensa
+MP2
+MP4
+MP7
+MP18 
+O14
+O17
+O18
+O27
+O28a
+O29
+PPJ
+Salzstadel
+Sollnau 30
+Spo
+SR 
+UA
+ 
+UH 
+WH
+Departmental Library “Aula” 
+Domplatz 8 (International House)
+Ehemalige Orangerie
+Ehemalige Reitschule
+Departmental Library 
+“Hofgarten”/Seminary Library
+Ingbert-Naab-Saal 
+Interim Building
+Kapuzinerkloster
+Main Building A 
+Main Building B (Art)
+Main Building C (Sports 
+Center / Students House)
+Main Building D (Auditorium)
+Main Building E (Music)
+Catholic Student Community
+Day Care
+Foundation Administration
+Luitpoldstraße 32
+Canteen, Cafeteria
+Marktplatz 2
+Marktplatz 4
+Marktplatz 7
+Marktplatz 18
+Ostenstraße 14
+Ostenstraße 17
+Ostenstraße 18
+Ostenstraße 27
+Ostenstraße 28a (Front Office)
+Ostenstraße 29
+Pater-Philipp-Jeningen-Platz 2
+Am Salzstadel 1
+Sollnau 30a
+University Sports Ground
+Sommerresidenz 
+Management / Administration
+Universitätsallee 
+/ 
+Main Library
+Departmental Library 
+“Ulmer Hof 
+”/Theology
+Waisenhaus
+B/C4
+B2
+C4
+B/C4
+D4 
+C5
+D5
+C5/6
+C/D5
+D5
+D5 
+D5
+D5
+B4
+C4
+B3
+B3
+D5
+A3
+A3
+A3
+A3
+C4
+C4
+C4
+C5
+C5
+C5
+B3
+B4
+E6
+A6
+C5
+ 
+E5/6 
+B3
+ 
+C5
+Buildings
+Register of Persons
+The online register of persons provi-
+des telephone numbers, e-mail-ad-
+resses, buildings and room numbers 
+of all staff members:
+https://voip.ku.de/telefon-ku
+Ingolstadt
+Main 
+ 
+Building 
+New 
+ 
+Building
+Lecture 
+ 
+Hall 
+Library
+Georgianum (not included in the map)
+Alt
+müh
+l
+Al
+t
+m
+üh
+l
+Ostenstraße
+Römerstraße
+Reside
+nz
+plat
+z
+Pfahlstraße
+Westen
+straß
+e
+Luitpoldstr
+aße
+Luit
+poldstraße
+P
+at
+er
+-Phil
+ipp-Je
+n
+i
+n
+g
+e
+n-Pl
+atz
+Am Graben
+Am Gra
+ben
+Universitätsallee
+Au
+m
+ü
+hl
+e
+Sp
+i
+t
+a
+l
+b
+r
+ü
+c
+ke
+Ga
+brielistr
+aße
+Mar
+ktplat
+z
+Pedettistraße
+Marktgasse
+Domplatz
+Mar
+k
+t
+p
+l
+a
+tz
+We
+stenst
+raß
+e
+Antonistraße
+Ka
+ap
+pu
+uz
+zi
+ine
+er
+rgas
+ss
+se
+Kapuzinergasse
+Wiesengäß
+che
+n
+Seminarweg
+Seminarweg
+Seminarweg
+R
+e
+si
+de
+nzp
+l.
+Herzogsteg
+Bahn
+h
+o
+f
+s
+p
+l
+a
+t
+z
+Am Anger
+Am Anger
+Am Anger
+Webe
+rg
+asse
+Büttel-
+gasse
+Am Sp
+ortpl
+atz
+A
+m
+ 
+S
+p
+o
+r
+t
+p
+l
+a
+tz
+Domplatz
+Residenzplatz
+Cemetry
+Weißenburg
+Train Station
+Eichstätt Stadt
+B13
+Ing
+olstädter Straße
+Kardinal-
+Preysing-
+Platz
+Leonrod-
+platz
+R
+i
+c
+h
+a
+r
+d
+-
+S
+t
+r
+a
+uß
+-St
+raße
+Joseph-Haas-weg
+Go
+tt
+e
+s
+a
+c
+k
+e
+r-
+ gasse
+Frie
+dhofgasse
+Glasgarten
+S
+c
+hi
+eßstättberg
+Papst-Victor-Straße
+Schi
+eßs
+tät
+tberg
+B13
+Cathedral
+Collegium Willibaldinum | 
+Episcopal Seminary
+Entrance
+Seminary
+Schutz-
+engel-
+kirche
+Heilig-Geist-
+Kirche
+Erlöser-
+kirche
+Hospital
+Franz-Xaver-
+Platz
+No
+otr
+re
+e-
+-D
+Da
+am
+me-
+-W
+Weg
+g
+Notre-Dame-Weg
+Burgstraße
+Frauen
+berg
+Pa
+rkhausstraße
+Ku
+h
+w
+e
+g
+Auf der Al
+m
+S
+e
+bastia
+n
+g
+asse
+Rot-
+K
+reuz
+-Gas
+se
+Altes 
+Stadt-
+theater
+Am Kugelberg
+Michael-Rackl-Str.
+D
+r.
+-
+H
+a
+n
+s
+-
+H
+u
+tt
+er-
+Str.
+University 
+University 
+Sports Grounds
+Sports Grounds
+Alois-Brems-Str.
+Benedicta-
+von-Spiegel-Straße
+Dr.-Hans
+-H
+utt
+er-
+Str
+.
+Michael-Rackl-Str.
+Jura-
+Hoc
+hstra
+ße Sta
+atsstr
+aß
+e 2225
+Schrö
+ffer
+-S
+tr.
+Kardi
+nal
+-
+University 
+Sports Grounds
+0
+100 m
+N
+Mapping: C. Pietsch 2015
+Basis for Map: KU
+Basis for Map: © Bischöﬂiches Ordinariat Eichstätt 2015 
+Status: 2025
+Basis for Background Map: DTK-10
+0
+50 m
+N
+Parking Deck
+Public Parking Area
+University Parking Area
+University Building
+Friedhofstraße
+Katharinen-
+Gymnasium
+ 
+Youth Hostel
+Ingolstadt
+Auf der Schanz
+New Building
+Main 
+Entrance
+City
+Center
+B13 / Eichstätt
+Library
+Lecture 
+Hall
+
+ 
+Main Building
+Jes
+uit
+enstraß
+e
+Au
+f d
+er 
+S
+c
+ha
+nz
+Auf der Sch
+a
+nz
+
+0
+50 m
+N
+MP18
+Lu32
+Mensa
+KGB
+KGC
+SR
+eO
+O14
+O18
+Stiftung 
+(Lu10)
+MP4
+MP7
+O27
+WH
+eRS
+PPJ
+DP8
+INS
+KHG/Studihaus
+Kinder-
+haus
+KGE
+KGA
+O29
+Kap
+UH
+Ingolstadt
+O28a/Front Ofﬁce
+Theatron
+Gym
+Maria Ward
+Interim 
+Building
+MP2
+Aula-
+Bib.
+Library
+Hofgarten
+UA/Main Library
+KGD/Aula
+Hofgarten
+O17
+Salesianum
+Sollnau 30a 
+
+Juramuseum
+
+Salzstadel
+A
+B
+C
+D
+1
+2
+3
+4
+5
+6
+ 
+ 
+3
+4
+5
+6
+A
+B
+C
+D
+E
+Ingolstadt

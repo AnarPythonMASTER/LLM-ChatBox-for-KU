@@ -1,0 +1,42 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_MA_CMP.pdf
+TITLE: Studienverlaufsplan_MA_CMP.pdf
+SOURCE_FILE: Studienverlaufsplan_MA_CMP.pdf
+------------------------------------------------------------
+
+[Page 1]
+4
+3
+2
+Security Studies (10 ECTS)
+Conflict Resolution & 
+Transformation 
+(5 ECTS)
+Historical Peace and 
+Conflict Studies II
+(5 ECTS)
+1
+Introduction to Conflict, Memory and Peace
+(10 ECTS)
+International Law
+(5 ECTS)
+Conflict Theories
+(5 ECTS)
+Memory – Forgiveness 
+– Reconciliation 
+(5 ECTS)
+Historical Peace and 
+Conflict Studies I
+(5 ECTS)
+Katholische Universität Eichstätt-Ingolstadt
+Universidad del Rosario, Bogotá
+Research Conflict, 
+Memory and Peace
+(5 ECTS)
+Qualitative Methods of
+Conflict Analysis
+(5 ECTS)
+Conflict and Peace in Colombia (10 ECTS)
+Elective modules (10 ECTS) 
+Colloquium (10 ECTS)
+Master’s Thesis (20 ECTS)
+Internship (10 ECTS)

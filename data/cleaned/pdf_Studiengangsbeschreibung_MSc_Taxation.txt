@@ -1,0 +1,402 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_MSc_Taxation.pdf
+TITLE: Studiengangsbeschreibung_MSc_Taxation.pdf
+SOURCE_FILE: Studiengangsbeschreibung_MSc_Taxation.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status 2/2023 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den 
+Masterstudiengang Taxation 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+A. Allgemeine Struktur des Studiengangs 
+.......................................................................... 2 
+B. Beschreibung des Studiengangs ..................................................................................... 
+3 
+1. 
+Der Studiengang in drei Sätzen ................................................................................... 
+3 
+2. 
+Zielgruppe ................................................................................................................... 
+3 
+C. Studiengangskonzept .................................................................................................... 4 
+1. 
+Struktur des Studiengangs ......................................................................................... 4 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen ............................................................... 4 
+1.2. 
+Qualifikationsziele 
+............................................................................................... 4 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten ......................................................... 4 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder .............................................................. 4 
+2. 
+Aufbau des Studiengangs 
+............................................................................................ 
+5 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs .............................................................. 
+5 
+2.2. 
+Pflichtbereich 
+........................................................................................................... 
+5 
+2.3. 
+Wahlpflichtbereich.................................................................................................. 6 
+2.4. 
+Wahlbereich 
+............................................................................................................ 6 
+2.5. 
+Studium.Pro 
+............................................................................................................ 6 
+2.6. 
+Praxisbezug ............................................................................................................ 6 
+2.7. 
+Ausgestaltung der Internationalisierung ................................................................. 6 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für Studium 
+und Lehre .............................................................................................................................. 8 
+ 
+ 
+ 
+
+[Page 2]
+Status 2/2023 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Name des Studiengangs: 
+ 
+Taxation 
+ 
+Verantwortliche Fakultät: 
+ 
+Wirtschaftswissenschaftliche Fakultät 
+ 
+Weitere beteiligte Fakultät/en: 
+ 
+Andere Fakultäten sind nur geringfügig mit 
+einzelnen Modulen beteiligt (siehe 
+Modulkatalog). 
+ 
+Akademischer Grad: 
+Master of Science (M.Sc.) 
+ 
+ 
+Studienform: 
+ 
+☐ Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☒ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+ 
+☐ grundständig 
+☒ konsekutiv 
+☐ weiterbildend 
+ 
+Wissenschaftliche/Praktische Orientierung: 
+ (nur bei Masterstudiengängen) 
+ 
+☐ eher anwendungsorientiert 
+☐ eher forschungsorientiert 
+Regelstudienzeit: 
+4 Semester (Vollzeit) 
+6 Semester (Teilzeit) 
+ 
+Studienbeginn: 
+ 
+☒ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-
+Leistungspunkte: 
+ 
+120 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+ 
+☒ Nein 
+☐ Ja, € pro Semester 
+ 
+
+[Page 3]
+Status 2/2023 
+ 
+ 
+ 
+3 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in drei Sätzen 
+Der Studiengang vermittelt eine multidisziplinäre Perspektive auf das Thema Steuern. Er 
+verbindet vertiefte Kenntnisse der betriebswirtschaftlichen Steuerlehre und der 
+volkswirtschaftlichen Teildisziplin der Finanzwissenschaft. 
+ 
+Um den Studierenden zu ermöglichen, das erlernte Fachwissen zu reflektieren, sind ein 
+verpflichtendes Ethikmodul und ein Modul des interdisziplinären Programms „Studium.Pro“, 
+das eine auch gesellschaftlich engagierte Wissenschaft vermittelt, vorgesehen. 
+ 
+Abhängig von ihren Interessen und beruflichen Plänen können die Studierenden einen oder 
+mehrere Minor aus dem folgenden Programm wählen: 
+- 
+Accounting & Auditing 
+- 
+Digitization and Digital Businesses, 
+- 
+Quantitative Methods und 
+- 
+Business Law. 
+ 
+Ein freier Wahlbereich aus der gesamten Breite der Wirtschaftswissenschaften ermöglicht 
+eine individuelle Ergänzung des Studiums bzw. gibt den Studierenden die Möglichkeit, 
+Lücken in der vorherigen Ausbildung auszugleichen. 
+ 
+ 
+2. Zielgruppe 
+Zielgruppen des Studiengangs sind Bachelorabsolventen mit einem Abschluss in 
+Betriebswirtschaftslehre, 
+Volkswirtschaftslehre, 
+Staatswissenschaften, 
+Jura 
+oder 
+verwandten Studiengängen, die sich im Bereich Steuern spezialisieren wollen. 
+ 
+ 
+
+[Page 4]
+Status 2/2023 
+ 
+ 
+ 
+4 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+Für eine Zulassung zum Studiengang müssen Bewerber ein Auswahlverfahren erfolgreich 
+durchlaufen. Zulassungsvoraussetzung ist ein erster berufsqualifizierender Studienabschluss 
+in 
+einem 
+betriebswirtschaftlichen, 
+volkswirtschaftlichen, 
+juristischen 
+oder 
+staatswissenschaftlichen Studiengang oder einem verwandten Fach. Zur Auswahl der 
+Studierenden werden Bewerber zu einem mündlichen Auswahlgespräch eingeladen. Die 
+Auswahl der Studierenden basiert auf der Bewertung dieses Gesprächs sowie den 
+eingereichten Bewerbungsunterlagen. 
+ 
+ 
+1.2. 
+Qualifikationsziele 
+Der Studiengang ermöglicht eine spezialisierte Ausbildung zum Thema Besteuerung aus 
+multidisziplinärer Perspektive. Er verbindet Kenntnisse der betriebswirtschaftlichen 
+Steuerlehre 
+mit 
+Erkenntnissen 
+aus 
+der 
+Finanzwissenschaft 
+als 
+Teilgebiet 
+der 
+Volkswirtschaftslehre. Das vermittelte Wissen beinhaltet detaillierte Kenntnisse u.a. zu den 
+einzelnen Steuerarten, zu Steuerwirkungen, zur Ausgestaltung von Steuerpolitik sowie zu 
+den verschiedenen Forschungsmethoden in diesem Bereich. Das vermittelte Wissen ist stets 
+wissenschaftlich fundiert und stellt Bezüge zur aktuellen Forschung her. So geht die 
+Wissensvermittlung sowohl in ihrer Tiefe als auch in ihrer Breite (durch die multidisziplinäre 
+Ausrichtung des Studiengangs) deutlich über das Vorwissen aus dem Bachelorstudiengang 
+hinaus. 
+ 
+Durch die Einbindung von Studium.Pro und eines Ethik-Pflichtmoduls erhalten die 
+Studierenden darüber hinaus Kompetenzen, ihre fachlichen Kenntnisse in den 
+gesellschaftlichen Diskurs einzubringen. Der verpflichtende Besuch eines Seminars 
+vermittelt wichtige Soft Skills im kommunikativen Bereich sowie im wissenschaftlichen 
+Arbeiten. Durch Gastvorträge aus der Praxis sowie durch Wahlpflichtmodule durch 
+Lehrbeauftragte, die in der Praxis tätig sind, erhalten die Studierenden einen tiefen Einblick 
+in mögliche Berufsfelder und erlernen wichtige berufliche Kompetenzen. 
+ 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Absolventen werden im Verlauf ihres Studiums zur Promotion befähigt. 
+ 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+Entsprechend der interdisziplinären Ausrichtung bereitet der Studiengang auf eine Vielzahl 
+beruflicher Tätigkeiten mit steuerlichem Bezug vor. Die angebotenen Wahlpflichtkurse und 
+Minor sind dabei gezielt auf bestimmte Berufsbilder ausgerichtet. 
+ 
+
+[Page 5]
+Status 2/2023 
+ 
+ 
+ 
+5 
+Ein erstes Berufsfeld für Absolventen ist die Tätigkeit in der Steuerberatung oder der 
+Steuerabteilung von Unternehmens. Im Sinne dieses Berufsbildes vertiefen Studierende ihr 
+steuerrechtliches Wissen, erlernen die Rechtsanwendung in Übungen und Fallstudien sowie 
+die Ableitung von Beratungsempfehlungen. Besondere Anforderungen bringen dabei die 
+zunehmende Digitalisierung der Geschäftsvorfälle (und deren steuerliche Behandlung) im 
+Allgemeinen sowie die Digitalisierung der Besteuerungsprozesse im Speziellen mit sich. 
+Dieser Entwicklung wird in dem beantragten Studiengang durch den Minor „Digitization and 
+Digital Businesses” Rechnung getragen. Eine Möglichkeit zur Vorbereitung einer Tätigkeit als 
+Steuerberater und Wirtschaftsprüfer bietet der Minor „Accounting & Auditing“ oder 
+„Business Law“. 
+ 
+Weitere potenzielle Berufsfelder sind steuernahe Tätigkeiten in Ministerien, Verbänden (z.B. 
+BDI) und internationalen Organisationen (z.B. OECD, UN, EU-Kommission) oder eine 
+Tätigkeit in der Finanzverwaltung. Lange Zeit waren diese Berufsfelder stark juristisch 
+geprägt. In den letzten Jahren zeigt sich in diesen Bereichen – u.a. aufgrund der Verfügbarkeit 
+von 
+Daten 
+– 
+eine 
+zunehmende 
+Nachfrage 
+nach 
+Berufseinsteigern 
+mit 
+wirtschaftswissenschaftlichen Abschlüssen. Der Master Taxation bereitet durch die 
+Verbindung von wirtschaftswissenschaftlicher Methodik und steuerrechtlichem Wissen auf 
+die Arbeit an dieser Schnittstelle vor. 
+ 
+Schließlich bereitet das Studium auch auf eine wissenschaftliche Tätigkeit an Universitäten 
+oder Forschungsinstituten (z.B. ZEW, Ifo) vor. Der Studiengang vermittelt einen Überblick 
+über die wichtigsten Forschungsergebnisse aus den letzten Jahrzehnten. Der Minor 
+„Quantitative Methods“ vermittelt die methodischen Grundlagen, die für eine eigenständige 
+Forschungstätigkeit notwendig sind. 
+ 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Studierende müssen Prüfungsleistungen in einem Pflichtbereich (25 ECTS) und einem 
+Wahlpflichtbereich „Taxation“ (20 ECTS) erbringen. Es kann einer, zwei oder keiner von vier 
+möglichen Minor (Accounting & Auditing, Digitization and Digital Businesses, Quantitative 
+Methods und Business Law, 15 ECTS) gewählt werden. Die verbleibenden ECTS entfallen auf 
+den Bereich Studium.Pro (5 ECTS), den freienWahlbereich (10/25/40 ECTS) sowie die 
+Masterarbeit (30 ECTS). 
+ 
+2.2. 
+Pflichtbereich 
+Im Pflichtbereich müssen fünf Module belegt werden. Im Einzelnen sind dies die Module 
+Internationale Unternehmensbesteuerung, Tax Policy, Unternehmensteuerrecht, Tax 
+Research sowie ein Ethikmodul. Die als Ethikmodul einbringbaren Kurse sind im 
+Modulkatalog gekennzeichnet. 
+ 
+
+[Page 6]
+Status 2/2023 
+ 
+ 
+ 
+6 
+2.3. 
+Wahlpflichtbereich 
+Es müssen 20 ECTS im Wahlpflichtbereich „Taxation“ belegt werden. Es können 15 ECTS in 
+einem Minor belegt werden. Als Minor stehen die Bereiche „Accounting & Auditing“, 
+„Business Law“, „Digitization and Digital Businesses“ und „Quantitative Methods“ zur 
+Auswahl. Im Wahlpflichtbereich Taxation ist mindestens ein Seminar einzubringen. Es ist 
+möglich, mehrere Minor zu wählen. 
+ 
+Das Kursangebot im Wahlpflichtbereich kann dem Modulkatalog entnommen werden. 
+ 
+2.4. 
+Wahlbereich 
+40 ECTS sind aus dem gesamten Masterangebot der wirtschaftswissenschaftlichen Fakultät 
+zu wählen. Auf Antrag können weitere Module für den Wahlbereich zugelassen werden, 
+wenn diese in sinnvollem Zusammenhang mit dem Studienfach stehen. Bei der Wahl eines 
+oder zweier Minor reduziert sich der Wahlbereich um 15 bzw. 30 ECTS. 
+ 
+Dieser freie Wahlbereich ermöglicht eine individuelle Ergänzung des Studiums bzw. gibt den 
+Studierenden die Möglichkeit, Lücken in der vorherigen Ausbildung auszugleichen (z.B. 
+Besuch 
+von 
+Management-Vorlesungen 
+für 
+Studierende 
+mit 
+juristischen 
+oder 
+staatswissenschaftlichen Vorkenntnissen). 
+ 
+2.5. 
+Studium.Pro 
+Der verpflichtende Besuch eines Moduls (5 ECTS) aus dem gesamten Lehrangebot von 
+Studium.Pro ist in der Prüfungsordnung verankert. Die Studierenden können dabei aus den 
+Bereichen „Pro Diskurs“, „Pro Horizont“ oder „Pro Gesellschaft“ 
+wählen. 
+ 
+2.6. 
+Praxisbezug 
+Ein Praktikum ist nicht obligatorisch, die Konzeption des Studiengangs eröffnet allerdings 
+ausreichend Freiräume, um Praktika in den vorlesungsfreien Zeiten zu integrieren. 
+Insbesondere werden Modulprüfungen (mit Ausnahme der innovativen Prüfungsformen) in 
+zwei Zeiträumen je Semester angeboten, um eine flexible Planung von Praktika zu 
+ermöglichen. 
+ 
+Eine praxisnahe Ausbildung wird zudem durch die regelmäßige Einbeziehung von 
+Lehrbeauftragten und Gastrednern aus der Praxis gewährleistet. Auch ist es möglich, die 
+Masterarbeit in Zusammenarbeit mit einem Praxispartner zu schreiben. 
+ 
+2.7. 
+Ausgestaltung der Internationalisierung 
+Es besteht die Möglichkeit, einen Teil des Studiums im Ausland zu absolvieren. Die 
+Studierenden profitieren dabei von der hohen Anzahl an Partneruniversitäten der Universität 
+und der Fakultät. Es ist empfohlen, den Auslandsaufenthalt in das dritte Fachsemester zu 
+legen. Grundsätzlich sind auch Auslandsaufenthalte im zweiten oder vierten Fachsemester 
+
+[Page 7]
+Status 2/2023 
+ 
+ 
+ 
+7 
+möglich. Für Incoming-Studierende besteht ein breites englischsprachiges Studienangebot, 
+sowohl im Bereich Taxation als auch in den Minor. 
+ 
+
+[Page 8]
+Status 2/2023 
+ 
+ 
+ 
+8 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des 
+Leitbilds für Studium und Lehre 
+ 
+Viele Themen auf dem Gebiet der Besteuerung sind mit zivilgesellschaftlichen, ethischen und 
+politischen Fragestellungen verbunden. Beispiele hierfür ist die Steuervermeidung 
+multinationaler Unternehmen oder der Umgang mit Steueroasen. Der kompetente Umgang 
+mit diesen Themen setzt ein sicheres Wissen zu den rechtlichen Rahmenbedingungen und 
+betriebswirtschaftlichen Anreizen, zu den volkswirtschaftlichen Auswirkungen sowie zur 
+ethischen Einordnung dieser Sachverhalte voraus. Diese Kenntnisse werden im Studiengang 
+„M.Sc. in Taxation“ vermittelt. 
+ 
+Ein Leitgedanke des Lehrkonzepts der KU ist, dass Absolventen in die Lage versetzt werden 
+sollen, 
+verantwortungsbewusst, 
+reflektiert 
+und 
+orientiert 
+am 
+Gemeinwohl 
+das 
+zivilgesellschaftliche und politische Leben kompetent mitzugestalten (siehe „Leitgedanken 
+zu Studium und Lehre“ in den Leitlinien zur Studiengangsentwicklung vom Mai 2018). Diese 
+Kompetenzen sollen die Absolventen des Studiengangs auf dem Gebiet der Besteuerung 
+erwerben und so in ihren zukünftigen Tätigkeitsfeldern – sei es in den Steuerabteilungen von 
+Unternehmen, in der Beratungspraxis oder in der Steuerpolitik – anwenden können.

@@ -1,0 +1,161 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/DS-Hinweis-Bewerbungen.pdf
+TITLE: DS-Hinweis-Bewerbungen.pdf
+SOURCE_FILE: DS-Hinweis-Bewerbungen.pdf
+------------------------------------------------------------
+
+[Page 1]
+Stiftung Katholische Universität Eichstätt-Ingolstadt 
+Kirchliche Stiftung des öffentlichen Rechts 
+ 
+ 
+1 
+ 
+ 
+ 
+Informationen zum Umgang mit Ihren Daten und Rechten nach §§ 15, 
+16 und 23 des Gesetzes über den Kirchlichen Datenschutz (KDG) im 
+Rahmen des Bewerbungsverfahrens 
+ 
+Hiermit informieren wir Sie über die Verarbeitung Ihrer personenbezogenen Daten durch die 
+Katholische Universität Eichstätt-Ingolstadt und die Ihnen nach dem Datenschutzrecht zustehenden 
+Rechte. 
+ 
+ 
+Für die Datenverarbeitung verantwortliche Stelle und Datenschutzbeauftragter 
+ 
+Verantwortlicher für die Datenverarbeitung ist 
+Katholische Universität Eichstätt-Ingolstadt (KU) 
+vertreten durch die Präsidentin Prof. Dr. Gabriele Gien 
+Ostenstraße 26 
+85072 Eichstätt 
+Telefon: 08421/93-0 
+E-Mail: info@ku.de 
+ 
+Unseren Datenschutzbeauftragten erreichen Sie unter der o. g. Adresse oder unter: 
+ 
+Herr Ziar Kabir 
+SCO-CON:SULT GmbH 
+Hauptstraße 27 
+53604 Bad Honnef 
+E-Mail: info@sco-consult.de 
+Telefon: 02224/98829-0 
+ 
+Ansprechpartner für Datenschutzfragen ist darüber hinaus: 
+ 
+Stiftung Katholische Universität Eichstätt-Ingolstadt 
+Abteilung Recht und Datenschutz 
+Luitpoldstrasse 10 
+85072 Eichstätt 
+E-Mail: stiftung-datenschutz@ku.de 
+Telefon: 08421/93-21201 
+ 
+Genutzte Datenkategorien und Quelle der Daten 
+ 
+Zu den verarbeiteten Kategorien personenbezogener Daten gehören insbesondere Geschlecht, Vorname, 
+Nachname, Namenszusätze, Staatsangehörigkeit, Kontaktdaten (etwa private Anschrift, (Mobil-) 
+Telefonnummer, E-Mail-Adresse), die bei der Nutzung der IT-Systeme anfallenden Protokolldaten 
+sowie weitere Daten aus dem Bewerbermanagement (z. B. Lebenslauf, Daten zur Ausbildung, 
+Fähigkeiten und Kompetenzen). 
+ 
+Ihre personenbezogenen Daten senden Sie uns im Rahmen des Bewerbermanagements zu. Daneben 
+können wir Daten von Dritten (z. B. Stellenvermittlung) erhalten haben. 
+ 
+
+[Page 2]
+Stiftung Katholische Universität Eichstätt-Ingolstadt 
+Kirchliche Stiftung des öffentlichen Rechts 
+ 
+ 
+2 
+ 
+Zwecke und Rechtsgrundlage der Datenverarbeitung 
+ 
+Wir verarbeiten Ihre personenbezogenen Daten unter Beachtung der Bestimmungen des Gesetzes über 
+den Kirchlichen Datenschutz (KDG). 
+ 
+Die Datenverarbeitung dient der Durchführung des Bewerbungsverfahrens. Mit der Einreichung Ihrer 
+Bewerbungsdaten willigen Sie in die Verarbeitung Ihrer personenbezogenen Daten nach § 6 Abs. 1 b) 
+KDG i. V. m. § 53 KDG ein. 
+ 
+ 
+Datenübermittlung 
+ 
+Innerhalb unserer Hochschule erhalten nur die Personen und Stellen (z. B. Fachbereich und 
+Mitarbeitervertretung) Ihre personenbezogenen Daten, die am Bewerbungsverfahren beteiligt sind. 
+ 
+Nur auf Ihren ausdrücklichen Wunsch hin geben wir Ihre Bewerbungsdaten innerhalb unserer 
+Hochschule weiter, sollten Sie bei der Stellenbesetzung nicht berücksichtigt werden und eine andere, 
+offene Stelle auf Ihr Anforderungsprofil zutreffen oder in absehbarer Zeit zur Verfügung stehen. 
+ 
+ 
+Betroffenenrechte 
+ 
+Nach dem KDG stehen Ihnen folgende Rechte zu: 
+ 
+Werden Ihre personenbezogenen Daten verarbeitet, so haben Sie das Recht Auskunft über die zu Ihrer 
+Person gespeicherten Daten zu erhalten (§ 17 KDG). 
+ 
+Sollten unrichtige personenbezogene Daten verarbeitet werden, steht Ihnen ein Recht auf Berichtigung 
+zu (§ 18 KDG). 
+ 
+Liegen die gesetzlichen Voraussetzungen vor, so können Sie die Löschung oder Einschränkung der 
+Verarbeitung verlangen sowie Widerspruch gegen die Verarbeitung einlegen (§§ 19, 20 und 23 KDG). 
+ 
+Wenn Sie in die Datenverarbeitung eingewilligt haben oder ein Vertrag zur Datenverarbeitung besteht 
+und die Datenverarbeitung mithilfe automatisierter Verfahren durchgeführt wird, steht Ihnen 
+gegebenenfalls ein Recht auf Datenübertragbarkeit zu (§ 22 KDG). 
+ 
+Sollten Sie von Ihren oben genannten Rechten Gebrauch machen, wird überprüft, ob die gesetzlichen 
+Voraussetzungen hierfür erfüllt sind. 
+ 
+ 
+Beschwerderecht 
+ 
+Sie haben die Möglichkeit, sich mit einer Beschwerde an den oben genannten Datenschutzbeauftragten, 
+die Stiftung oder an unsere Datenschutzaufsichtsbehörde zu wenden. 
+ 
+Unsere Datenschutzaufsicht ist die: Gemeinsame Datenschutzaufsicht der bayerischen (Erz-)Diözesen, 
+Kapellenstr. 4, 80333 München. 
+ 
+ 
+ 
+ 
+ 
+
+[Page 3]
+Stiftung Katholische Universität Eichstätt-Ingolstadt 
+Kirchliche Stiftung des öffentlichen Rechts 
+ 
+ 
+3 
+ 
+Dauer der Speicherung der personenbezogenen Daten 
+ 
+Sollten Sie im Bewerbungsverfahren nicht berücksichtigt werden, löschen wir Ihre personenbezogenen 
+Daten sechs Monate nach Stellenbesetzung oder senden Ihnen Ihre Unterlagen zurück. Die 
+Aufbewahrungszeit 
+richtet 
+sich 
+nach 
+der 
+Klagemöglichkeit 
+nach 
+§ 
+15 
+Allgemeines 
+Gleichbehandlungsgesetz (AGG) und den damit verbundenen Einspruchsfristen. Eine längere 
+Aufbewahrung Ihrer Daten ist nur mit Ihrer ausdrücklichen Zustimmung möglich. 
+ 
+Widerrufsrecht bei Einwilligung 
+Wenn Sie in die Verarbeitung durch die Katholische Universität Eichstätt-Ingolstadt durch eine 
+entsprechende Erklärung eingewilligt haben, können Sie die Einwilligung jederzeit für die Zukunft 
+widerrufen. Die Rechtmäßigkeit, der aufgrund der Einwilligung bis zum Widerruf erfolgten 
+Datenverarbeitung wird durch diesen nicht berührt. In diesem Fall endet die Teilnahme am 
+Bewerbungsverfahren und wir löschen Ihre Bewerbungsdaten unverzüglich oder senden diese an Sie 
+zurück. 
+ 
+Pflicht zur Bereitstellung der Daten 
+ 
+Um am Bewerbungsverfahren teilzunehmen sind Sie verpflichtet, Ihre Daten anzugeben. Wir benötigen 
+Ihre Daten zur Auswahl von Bewerbern bzw. Bewerberinnen für die Stellenbesetzung. Wenn Sie die 
+erforderlichen Daten nicht angeben, kann Ihre Bewerbung nicht berücksichtigt werden.

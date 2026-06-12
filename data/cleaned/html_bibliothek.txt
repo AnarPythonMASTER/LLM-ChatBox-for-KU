@@ -1,0 +1,101 @@
+SOURCE_URL: https://www.ku.de/bibliothek
+TITLE: Universitätsbibliothek Eichstätt-Ingolstadt – KU
+SOURCE_FILE: bibliothek.html
+------------------------------------------------------------
+
+Willkommen in Ihrer Universitätsbibliothek
+OPAC: Suche im Bibliothekskatalog
+» OPAC: Erweiterte Suche
+» EZB: Suche in der Elektronischen Zeitschriftenbibliothek
+» DBIS: Suche im Datenbank-Infosystem
+Aktuelles
+Weitere Meldungen der UB
+05. Juni 2026
+„FDM to go“: Coffee Lectures ab 10. Juni
+Grundlegendes zum Forschungsdatenmanagement (FDM) erfahren Sie in fünf kurzen Coffee Lectures – mittwochs, 13–13:15 Uhr, online.
+27. Mai 2026
+Pinnwand im Foyer: Lob, Anregungen, Kommentare
+Vielen Dank für Ihre Beiträge an unserer Pinnwand. Unsere Antworten finden Sie an der Pinnwand oder
+hier»
+12. Mai 2026
+„KI im Studium“: Coffee Lectures ab 19. Mai
+Wie denkt eigentlich Künstliche Intelligenz – und wie kann man sie im Studium sinnvoll einsetzen? Die Universitätsbibliothek lädt ein zu einer neuen Reihe kurzer Online-Coffee-Lectures, die in nur 15–20 Minuten spannende Einblicke, praktische Tipps und Denkanstöße rund um KI im Hochschulalltag…
+20. März 2026
+Bauarbeiten vor der ZB: Fußweg ab 23.3. gesperrt
+In den kommenden Wochen wird der direkte Fußweg zwischen dem Interimsgebäude und der Zentralbibliothek wegen Bauarbeiten vorübergehend gesperrt sein. Der Zugang zur Zentralbibliothek über den Haupteingang wird weiterhin möglich sein, ein ersatzweiser Fußweg wird um die Baustelle herumführen.
+03. Februar 2026
+Baulärm in der ZB
+Wegen Umbauarbeiten im Untergeschoss kommt es zurzeit zu verstärktem Baulärm in der Zentralbibliothek. Bitte weichen Sie ggf. auf die Teilbibliotheken aus oder nutzen die ruhigeren Abendstunden.
+Standorte & Öffnungszeiten
+KU.edoc: Publikationen von Wissenschaftlerinnen und Wissenschaftlern der KU
+Infos für Schulen
+Termine
+Weitere Termine
+11
+Juni
+11:00
+ 
+ bis
+ 
+ 12:15
+Zielgerichtet recherchieren: Einführung in den OPAC [ONLINE]
+Sie sind auf der Suche nach Literatur für Ihr Referat oder Hausarbeit? In diesem
+Online-Kurs
+der UB zeigen wir Ihnen, wie Sie zielgerichtet mit Hilfe der…
+16
+Juni
+13:00
+ 
+ bis
+ 
+ 13:30
+KI im Studium: KI in der Hausarbeit – konkret: für Geisteswissenschaften [ONLINE]
+Teil unserer Coffee-Lecture-Reihe „KI im Studium – Wie sie wirklich denkt & was Sie damit anfangen können“. Dienstags ab 13 Uhr, über Zoom.
+17
+Juni
+13:00
+ 
+ bis
+ 
+ 13:15
+Forschungsdatenmanagement: FDM to go
+FDM Pret-à-porter: Eigene Daten managen.
+23
+Juni
+10:00
+ 
+ bis
+ 
+ 11:30
+Zielgerichtet in der Bibliothek arbeiten: Für Sekretariate und Lehrstühle [ONLINE]
+Sie sind studentische Hilfskraft oder neu als Sekretär/-in an der KU und Sie sollen Literatur für Semesterapparate oder Forschungsanträge zusammenstellen? Sie sollen…
+23
+Juni
+13:00
+ 
+ bis
+ 
+ 13:30
+KI im Studium: Alles, was Recht ist – Urheberrecht und Datenschutz [ONLINE]
+Teil unserer Coffee-Lecture-Reihe „KI im Studium – Wie sie wirklich denkt & was Sie damit anfangen können“. Dienstags ab 13 Uhr, über Zoom.
+Bibliothek von A - Z
+Sammlungen
+Open-Access-Publizieren
+Kontakt zur UB
+Fragen, Wünsche, Lob, Kritik? Schreiben Sie uns!
+Zentrale Information –
+ Zentralbibliothek Eichstätt
+Telefon
++49 8421 93-21492
+E-Mail
+bibliothek@ku.de
+Gebäude
+Universitätsallee/Zentralbibliothek
+Zentrale Information –
+ Zweigbibliothek Ingolstadt
+Telefon
++49 841 937-21809
+E-Mail
+ub-in@ku.de
+Gebäude
+Hauptbau

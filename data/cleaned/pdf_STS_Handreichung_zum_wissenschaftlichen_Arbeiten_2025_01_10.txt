@@ -1,0 +1,638 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/STS_Handreichung_zum_wissenschaftlichen_Arbeiten_2025_01_10.pdf
+TITLE: STS_Handreichung_zum_wissenschaftlichen_Arbeiten_2025_01_10.pdf
+SOURCE_FILE: STS_Handreichung_zum_wissenschaftlichen_Arbeiten_2025_01_10.pdf
+------------------------------------------------------------
+
+[Page 1]
+STS KU Eichstätt-Ingolstadt 
+ 
+1 
+ 
+ 
+Handreichung zum wissenschaftlichen Arbeiten und for-
+schendem Lernen an der School of Transformation and 
+Sustainability (STS) 
+ 
+Erstellt von Prof.in Dr.in Simone Birkel / Prof. Dr. Martin Schneider 
+Stand: 10. November 2024 
+ 
+An der Universität / Hochschule wird das wissenschaftliche Arbeiten durch Seminar-
+arbeiten, wissenschaftliche Portfolios, wissenschaftliche Poster und Abschlussarbei-
+ten erlernt und demonstriert. Auch wer später nicht im Wissenschaftsbereich arbeiten 
+möchte, kann durch das wissenschaftliche Arbeiten profitieren, da bei einer guten Aus-
+führung Sachwissen, Gewissenhaftigkeit im Umgang mit Texten, Strenge in der Argu-
+mentation und eine ästhetisch ansprechende Vermittlung erworben werden. Eigen-
+schaften also, die Menschen, die in Öffentlichkeit und (Gesellschafts-) Bildung arbeiten 
+wollen, sehr gut anstehen. Verschiedene erste Einführungen ins wissenschaftliche Ar-
+beiten werden empfohlen.1 
+ 
+Wie entsteht eine wissenschaftliche Fragestellung? 
+Eine wissenschaftliche Arbeit ist der Idee nach ein Beitrag zur Forschung, sie richtet 
+sich an ein Fachpublikum und ist vom Stil her sachlich gehalten. 
+Um eine wissenschaftliche Frage stellen zu können, muss das bisherige Wissen zu 
+diesem Bereich bekannt sein. Was haben Forschende vor uns zu diesem Thema ge-
+arbeitet, welche Fragen haben sie sich gestellt? Ziel eines jeden Forschungsprozes-
+ses ist es, vorhandenes Wissen zu erweitern. Aus diesem Grund muss Forschungs-
+literatur, also wissenschaftliche Beiträge (Monografien, Artikel und Paper), die sich 
+mit ähnlichen Fragestellungen bereits beschäftigen, bekannt sein. Um eine For-
+schungsfrage zu beantworten, braucht es auch Material, das wissenschaftlich unter-
+sucht werden kann. Dies können Quellentexte (z.B. Kirchliche Verlautbarungen, histo-
+rische Quellen, literarische Texte etc.) oder empirisch erfasstes Material (transkribierte 
+Interviews, Zahlen und andere Daten) sein. 
+ 
+ 
+1 Allgemein kann angeführt werden: Schlicht, Laurens (2022): Wie geht Wissenschaft? Eine 
+schnelle Einführung in das wissenschaftliche Arbeiten (utb, 5960). Paderborn, Brill/Schö-
+ningh. 
+Für die theologische Arbeitsweise empfiehlt sich: Lammers, Katharina / Stosch, Klaus von 
+(2024): Arbeitstechniken Theologie (utb, 4170). 2., überarb. Aufl. Paderborn, Brill/Schöningh. 
+STS 
+School of Transformation and Sustainability 
+ 
+
+[Page 2]
+STS KU Eichstätt-Ingolstadt 
+ 
+2 
+Wie wird eine wissenschaftliche Fragestellung bearbeitet? 
+Hier kommt es ganz auf die Fachdisziplin an. Während Naturwissenschaften empi-
+risch arbeiten und beispielsweise Mess- und Versuchsreihen aufstellen um eine Hy-
+pothese zu belegen oder zu falsifizieren, arbeiten Geisteswissenschaften oft mit Da-
+ten, die empirisch erhoben werden. Klassisch werden die Daten über quantitative (z.B. 
+Befragungen) oder qualitative (z.B. Interviews) Studien erhoben. Diese werden dann 
+nach genau festgelegten Methoden ausgewertet. Ziel der Auswertung ist es, Thesen 
+zu bilden, die für weitere Forschungsprozesse dann zur Verfügung stehen. In anderen 
+geisteswissenschaftlichen Bereichen, wie z.B. der Theologie wird daneben auch ana-
+lytisch-kritisch und/oder hermeneutisch gearbeitet. Dabei werden Texte (z.B. histori-
+sche Quellen, Romane, Gedichte etc.) wiederum nach bestimmten Regeln analysiert 
+und/oder diese werden in den jeweiligen historischen, gesellschaftlichen, politischen 
+oder religiösen Verstehenskontext eingeordnet. Dabei werden nicht selten bestehende 
+Muster dekonstruiert und aufgedeckt. 
+ 
+An der STS steht neben dem interdisziplinären auch ein transdisziplinäres Forschen 
+im Vordergrund. Aus diesem Grund sollte eine Offenheit für die unterschiedlichen For-
+schungsmethoden vorhanden sein. Auch bewährte Erfahrungen aus der Praxis kön-
+nen beispielsweise in Reallaboren erforscht und überprüft werden. Es gibt nicht den 
+einen richtigen Weg für die Bearbeitung einer wissenschaftlichen Fragestellung. 
+ 
+In welchem Ausmaß kann ich KI für Bearbeitung der Fragestellung 
+verwenden? 
+Die Nutzung von KI-basierten Hilfsmittel ist in folgenden Bereichen gestattet: 
+• Schreibassistenz: Der Einsatz von KI ist gestattet, um Schreibblockaden zu lö-
+sen, Ideen zu sammeln und vorläufige Entwürfe zu formulieren. 
+• Strukturierung und Organisation: KI-Anwendungen können wertvolle Dienste 
+bei der Erstellung von Strukturen oder Gliederungen für akademische Texte 
+leisten. 
+• Forschungsunterstützung: KI darf zur Unterstützung bei der Suche nach wis-
+senschaftlichen Quellen und der Zusammenstellung von Literaturverzeichnis-
+sen verwendet werden. 
+• Sprachliche Optimierungen 
+ 
+Nicht gestattet ist die Nutzung von KI-basierten Hilfsmittel als 
+• Ersatz menschlicher akademischer Leistung: Die komplette Substitution der 
+eigenen wissenschaftlichen Arbeit durch von KI erstellte Inhalte ist untersagt. 
+Eigenständiges Denken, kritische Analyse und Reflexion sind unabdingbar. 
+• 
+Urheberrechtsverletzungen durch Neuparaphrasierung: Der Gebrauch von KI-
+Technologien zur Neuparaphrasierung und anschließenden Einbindung urhe-
+berrechtlich geschützter Werke in eigene akademische Arbeiten, ohne ange-
+messene Quellenangabe, stellt eine Übertretung der Nutzungsrichtlinien für KI 
+und einen Verstoß gegen die Prinzipien akademischer Redlichkeit dar. 
+An der STS werden Arbeit durch eine geeignete Software überprüft. 
+Wie ist eine wissenschaftliche Arbeit aufgebaut? 
+Ein wissenschaftlicher Beitrag sollte eine Problemstellung aufzeigen und erarbeiten, 
+die auf der Basis einer eigenständigen, aber immer forschungsbezogener Analyse 
+
+[Page 3]
+STS KU Eichstätt-Ingolstadt 
+ 
+3 
+eine Lösungsmöglichkeit für das Problem anbietet. Eine Grobgliederung ist hier bereits 
+angelegt: In der Einleitung kann die Ausgangslage der Forschung aufgezeigt und die 
+leitende Fragestellung herausgearbeitet werden. Diese Fragen werden dann im 
+Hauptteil anhand aktueller Forschungsliteratur diskutiert, hier sollte ein „roter Faden“ 
+erkennbar sein. An begründet ausgewählten Schwerpunkten bietet sich es an, in die 
+Tiefe zu gehen und Konsequenzen und Alternativen von Aussagen kritisch zu beden-
+ken. Die Argumentation sollte an jeder Stelle für den:die Leser:in nachvollziehbar sein. 
+Einfaches Aneinanderreihen und ungegliedertes Aufzählen führen meist nicht zu ei-
+nem Ergebnis und sind deswegen zu vermieden. Überlegen Sie sich stets, welchen 
+Argumentationsschritt gerade gehen und was Sie damit zeigen wollen. Im Schlussteil 
+erfolgen dann ein Resümee sowie sich daran anschließende Perspektiven. Grundsätz-
+lich sollten nicht nur Ergebnisse anderer reproduziert werden, sondern es sollte mög-
+lichst ein Stück über die aktuelle Forschungslage hinaus etwas ausgesagt werden. 
+Die Anmerkungen dienen dazu, Belegstellen aus der Forschungsliteratur und evtl. 
+Quellentexte nachzuweisen. Überdies können dort auch kleinere Exkurse oder Ausei-
+nandersetzungen mit anderen Forschungspositionen eingefügt werden. Häufig dient 
+die Anmerkung auch der Entlastung und Absicherung der eigenen Darstellung, vor 
+allem in Passagen, die nur überblicksartigen Charakter haben („Das folgende vor allem 
+nach...“). Im Literaturverzeichnis muss jede verwendete Forschungsliteratur und je-
+des verwendete Material aufgeführt werden. Auch Internet-Einträge können und müs-
+sen angeführt werden. 
+ 
+Wie gestaltet sich ein mündlicher Fachbeitrag / wissenschaftliches 
+Referat? 
+Bei einem wissenschaftlichen Beitrag / Referat im Rahmen eines Seminares ist es 
+nicht wichtig, einen rhetorisch mehr oder weniger geschliffenen Vortrag zu halten, bei 
+dem eine:r redet und der Rest still zuhört. Es geht vielmehr darum, eine Sitzung the-
+menbezogen aufzubereiten, dass für alle Teilnehmenden ein Lernerlebnis stattfindet: 
+Möglichst viele sollten aktiv mitwirken, die Sitzung soll als gemeinsame Arbeit an The-
+men und Texten ablaufen, sie soll methodisch-reflektiert vor sich gehen und sie soll 
+für alle Teilnehmenden Raum für innovatives und kreatives Denken schaffen. Persön-
+liche thematische Vorlieben oder eigene Ansätze können miteinfließen und zur Dis-
+kussion gestellt werden. 
+ 
+Im Bereich einer transformativen Pädagogik muss sehr häufig exemplarisch gelernt 
+werden, das heißt: An einem bestimmten, eingegrenzten Gegenstand, wird gelernt, 
+wie mit Problemstellungen umgegangen werden kann. Genauso wichtig wie das kon-
+krete Thema sind also die Fähig- und Fertigkeiten, die dabei „nebenbei“ erworben wer-
+den: Selbständigkeit im Erarbeiten von Fragestellungen und Themen; Teamfähigkeit 
+beim Konzipieren und Umsetzen eines Projekts, Kompetenz in der Problem- und Pro-
+jektentwicklung und schließlich die Präsentation, die gekonnte kommunikative Umset-
+zung des Erarbeiteten. Zu der letztgenannten gehört eine kommunikative Kompetenz, 
+zu der neben der Sprach- immer mehr auch die Medienkompetenz zu zählen ist, also 
+die Fähigkeit, thematisch fundiert und ästhetisch ansprechend sich in den neuen Me-
+dien zu präsentieren und an diesen entsprechend teilzuhaben. Solche Schlüsselqua-
+lifikationen sind für die spätere berufliche Praxis unabdingbar. 
+ 
+ 
+
+[Page 4]
+STS KU Eichstätt-Ingolstadt 
+ 
+4 
+Folgende Leitfragen sind für ein wissenschaftliches Referat hilfreich: 
+ 
+1. Welches Ziel bzw. welche Ziele will ich - inhaltlich und methodisch - erreichen, 
+kann ich den anderen eine Vision davon geben? 
+2. Wie sieht die Vorbereitung aus? Wie schaffe ich es, bei den anderen TN Vo-
+raussetzungen für eine gelingende Sitzung zu schaffen? Gebe ich vorher be-
+stimmte Literaturhinweise, Fragestellungen etc. an? 
+3. Wie strukturiere ich die Stunde methodisch abwechslungsreich? Welche 
+Medien setze ich wann ein? Was behandle ich eher summarisch, wo gehe ich 
+genau auf einen Sachverhalt ein? 
+4. Wie organisiere ich die aktive Mitarbeit der Teilnehmenden, wie schaffe ich 
+Voraussetzungen für gute Gruppenarbeit? Wie werden Ergebnisse bzw. ein-
+zelne Beiträge eingebracht und visualisiert? 
+5. Wie sieht meine Aufgabe als Moderator:in aus? Wie kann ich die Gruppen zu 
+konkreten Ergebnissen bringen? Wann lasse ich eine Diskussion zu, wann ist 
+eine ausufernde Diskussion kontraproduktiv zu meinen anvisierten Zielen? 
+6. Wie erkenne ich, ob die Gruppe bestimmte (Teil-)Ziele erreicht hat, wie sieht 
+eine gelungene Rückmeldung (Feedback) aus? 
+ 
+Folgende Kriterien sind für den jeweiligen Beitrag wichtig: 
+1. Einordnung in den Gesamtzusammenhang des Seminarthemas: Wie passt 
+mein Thema an bereits eingebrachte Gesichtspunkte? An welche Ergebnisse 
+der letzten Sitzung(en) kann ich anknüpfen? 
+2. Strukturierung und Rhythmisierung: Wie kann für die anderen Teilnehmen-
+den ein förderliches Umfeld für das Erlernte geschaffen werden? 
+3. Visualisierung: Wie werden Ziele und Ergebnisse festgehalten und sichtbar 
+gemacht? 
+4. Anschlussfähigkeit: Welche bislang ungeklärte Frage kann ich mit meinem 
+Beitrag erhellen, wo bleiben Fragen offen, an denen noch weitergearbeitet wer-
+den kann? 
+ 
+Insgesamt geht es also bei einem Referat nicht nur darum, anderen etwas bei- bzw. 
+nahezubringen, sondern der Prozess hat im Idealfall für alle Beteiligten eine Lernfunk-
+tion. Die Teilnehmer:innen lernen, wie ein bestimmtes Thema bearbeitet wurde, wel-
+che neuen Erkenntnisse und welche Fragestellungen sich daraus ergeben. Die Refe-
+rent:innen lernen hingegen, wie sie zielgenau und motiviert Lernprozesse anregen 
+können, so dass das, was sie vermitteln möchten, auch bei den Teilnehmer:innen an-
+kommt. 
+ 
+Welche Auswirkung hat die Produkt- bzw. Projektorientierung für 
+die wissenschaftliche Arbeit? 
+ 
+Durch die Bearbeitung der Semesteraufgaben werden die Studierenden darauf vorbe-
+reitet, exemplarisch einen fachrelevanten Bereich öffentlichkeitswirksam aufzuberei-
+ten. Das durch die Studiengruppe weitgehend eigenständig und eigenverantwortlich 
+geplante Produkt wird veröffentlicht bzw. das Projekt kommt zur Durchführung. Die 
+fachrelevanten Fragestellungen ergeben sich meist erst bei der Planung und Durch-
+führung, weswegen dem Just-In-Time-Teaching eine führende Rolle zukommt. Das 
+
+[Page 5]
+STS KU Eichstätt-Ingolstadt 
+ 
+5 
+Konzept eines forschendes Lernen gewinnt dabei immer mehr an Bedeutung. Bei der 
+Durchführung der Semesteraufgabe werden wichtige Erfahrungen gewonnen, die 
+dann wiederum im begleitenden Portfolio wissenschaftlich vertieft werden. Daneben 
+dient das Seminarportfolio der Dokumentation des Produktes bzw. Projektes und der 
+Reflexion des Gelernten. Das Portfolio ist im Idealfall so angelegt, dass es für spätere 
+Bewerbungen bei Multiplikator:innen potentiellen Arbeitgeber:innen vorgelegt werden 
+kann. Hieraus ergibt sich wiederum die Notwendigkeit einer stimmigen und argumen-
+tativ richtigen wissenschaftlichen Auseinandersetzung mit dem jeweiligen Themenfeld, 
+schließlich möchte sich in der Öffentlichkeit ja niemand blamieren. In Relation muss 
+hier jedoch der jeweilige Kenntnisstand der Studierenden gesehen werden, bei Studi-
+enanfänger:innen werden notwendigerweise andere Kriterien angelegt als bei fortge-
+schrittenen Studierenden. 
+ 
+Wie sieht ein neues Rollenverständnis von Dozierenden und Studie-
+renden aus? 
+ 
+Bei den oben beschriebenen kompetenzorientierten Lehr-Lern-Formaten geht es in 
+erster Linie darum, die vorhandenen Kompetenzen aller am Lernprozess Teilnehmen-
+den in den Blick zu nehmen. Das klassische Modell von allwissenden Dozierenden, 
+die den Studierenden am vorhandenen Wissen teilhaben lassen, greift in einer Gesell-
+schaft, in der Faktenwissen jederzeit problemlos abgerufen werden kann, nicht mehr. 
+Mehr denn je ist es ist es hingegen erforderlich, ökologische, soziale, wirtschaftliche 
+und religiöse Fragestellungen als Zeichen der Zeit zu ergründen sowie die vorhande-
+nen impliziten religiösen Sehnsüchte und Sinnhorizonte zu identifizieren. 
+ 
+Lernen für die Zukunft gelingt nicht mehr ohne die Kompetenzen der Studierenden als 
+eigene Größe wahrnehmen und schätzen zu können. Sie bringen ihre je eigenen Per-
+spektiven ein und sind dabei Co-Akteur:innen im Bildungsprozess. Ziel ist es, die Stu-
+dierenden in der Wahrnehmung ihrer Expertise und Verantwortung für den eigenen 
+Bildungs- und Qualifizierungsprozess zu fordern und zu fördern. Einhergehend mit der 
+Projekt- bzw. Produktorientierung in den Seminaren verändert sich auch die eigene 
+Rolle als Dozent:in. Nach wie vor ist die fachwissenschaftliche Vorbereitung und Be-
+gleitung natürlich die Hauptaufgabe. Daneben ist jedoch auch die Fähigkeit der Mode-
+ration bedeutsam, d.h. die Kunst, Gruppen zu Ergebnissen führen zu können. So ist 
+es notwendig im Sinne der Persönlichkeitsentwicklung, den Prozess der Aufgabener-
+füllung motivierend, unterstützend, aufmunternd und zuhörend zu begleiten. Dabei gilt 
+insbesondere für die produkt- und projektorientierte Arbeit, dass das Lernen innovativ, 
+kreativ und prosozial angelegt ist. Es steht somit weniger der formal organisierte Lern-
+prozess im Mittelpunkt, sondern das informelle Lernen. Durch selbstorganisierte und 
+selbstverantwortliche Praxisgemeinschaften werden die Lernenden zu Mitgestalter:in-
+nen von transformativen Bildungsprozessen, die auf Öffentlichkeit hin angelegt sind. 
+Soll das Produkt bzw. das Projekt erfolgreich werden, werden die Studierenden nicht 
+darum hinkommen, die fachliche Expertise der Dozierenden eigenständig bedarfsge-
+recht einzufordern, hierzu ist auch eine vertrauensvolle interdisziplinäre Zusammenar-
+beit im gesamten Kollegium unablässig. 
+ 
+ 
+
+[Page 6]
+STS KU Eichstätt-Ingolstadt 
+ 
+6 
+Hinweise zur formalen Gestaltung einer wissenschaftlichen 
+Arbeit/ eines Portfolios 
+ 
+Umfang und Formalia 
+Der Umfang eines Portfolios richtet sich nach den ECTS, die für die Lehrveranstal-
+tung vergeben werden (siehe dazu die spezifischen Angaben in den Rahmenbedin-
+gungen). Titelseite, Literaturverzeichnis und Anhang zählen nicht zum vorgegebe-
+nen Umfang. 
+Der Text ist folgendermaßen zu gestalten: 
+• Schriftgrad: 12 pt für den Fließtext 
+• Schriftart: Einheitlich in Text und Fußnotentext (ideal: Times News Roman) 
+• Zeilenabstand: 1,5. Vor neuen Absätzen ist eine Leerzeile einzufügen. 
+• Seitenränder: linker Rand ca. 2,5 cm, rechter Rand ca. 3 cm; Rand oben 2,0 
+cm; Rand unten 2 cm 
+• Bei Blocksatz: Einfügen der Silbentrennung 
+• Über- und Zwischenüberschriften: nummerisch gegliedert 
+• Seitenzählung: Sie beginnt mit dem Inhaltsverzeichnis. Bei der Titelseite werden 
+die Seitenzahlen weggelassen. Die Seitenzählung endet mit dem Ende des Li-
+teraturverzeichnisses. 
+• Fußnoten: Schriftgröße 10 pt. Jede Fußnote beginnt mit einem Großbuchstaben 
+und endet mit einem Punkt. Die Fußnoten sind im Blocksatz mit einfachem Zei-
+lenabstand zu formatieren und mit arabischen Ziffern zu versehen. 
+• Titelblatt sollte die folgenden Angaben umfassen: Bezeichnung der Professur | 
+beteiligte Dozent:innen | Portfolio für die [Modul bzw. Lehrveranstaltung] ([Se-
+mester]) | Vorname, Name, Straße, PLZ, Ort, Telefonnummer, E-Mail, Semester, 
+Matrikelnummer des/der Bearbeiter:in. 
+ 
+ 
+Aufbau und Bestandteile der wissenschaftlichen Arbeit /des Portfolios 
+• Titelblatt 
+• Deckblatt mit gestalteter Titelseite / Benennung der beteiligten Personen (Name, 
+Anschrift, Semester, beteiligte Dozent:innen) 
+• Inhaltsverzeichnis mit Gliederung und Seitenzahlen 
+• Beantwortung der Fragen / Aufgaben 
+• Ehrenwörtliche Erklärung (siehe Anlage) 
+ 
+Argumentation und Stil 
+Inhaltlich sollte bei der Beantwortung der Fragen ein abwägender, diskursiver Argu-
+mentationsstil und ein roter Faden erkennbar sein. Die Argumentation sollte an jeder 
+Stelle für den/die Leser:in nachvollziehbar und gut begründet sein. Einfaches Anei-
+nanderreihen und ungegliedertes Aufzählen führen meist nicht zu einem Ergebnis 
+
+[Page 7]
+STS KU Eichstätt-Ingolstadt 
+ 
+7 
+und sind deswegen zu vermeiden. 
+Ggf. werden Lösungsansätze entwickelt und die Umsetzbarkeit der neuen Erkennt-
+nisse in praktisches Handeln im jeweiligen Kontext diskutiert. 
+Die Arbeit leistet wertvolle Anregungen für die Praxis bzw. die Profession. 
+Fußnoten können dazu dienen, kleinere Exkurse oder Auseinandersetzungen einzu-
+fügen. 
+Der Text sollte stilistischen Anforderungen einer wissenschaftlichen Arbeit entspre-
+chen. So ist auf eine gewisse sprachliche Qualität (= Ausdrucksniveau), die Ver-
+wendung von Fachbegriffen sowie die Verständlichkeit des Textes zu achten. Fach-
+begriffe und Abkürzungen sind bei der ersten Nennung zu erklären bzw. zu definie-
+ren. 
+Wichtig ist vor allem die Einheitlichkeit der Zitierweise, der Fomatierung etc. 
+ 
+Umgang mit gendersensiblen Sprache 
+ 
+Gendersensible Sprache hat das Ziel, alle Geschlechter sprachlich sichtbar zu ma-
+chen. Damit ist sie auch im akademischen Kontext ein Hilfsmittel, um die Gleichstel-
+lung der Geschlechter zu fördern. Da es keine einheitliche gendersensible Sprache 
+gibt, gibt es an der KU einen Leitfaden dazu unter 
+ 
+https://www.ku.de/fileadmin/2102/Dateien/Leitfaden_Gendersensible_Spra-
+che_2024.pdf 
+ 
+An der STS wird die Verwendung einer gendersensiblen Sprache empfohlen. 
+ 
+Literaturverzeichnis 
+Das Literaturverzeichnis hat keine Gliederungsnummer. Es enthält alle Quellen, Bü-
+cher, Artikel und Dokumente, die in der Arbeit zitiert werden oder auf die verwiesen 
+wird. Zugleich soll das Literaturverzeichnis keine Quellen oder Literaturangaben 
+ausweisen, die nicht im Text aufgeführt wurden. Auch Internet-Einträge können und 
+müssen angeführt werden. 
+Die Aufzählung der Quellen und Literaturangaben erfolgt in alphabetischer Reihen-
+folge. Es wird alphabetisch – in der vorgegebenen Reihenfolge – nach den Nachna-
+men des/der Autor:in (gilt ebenfalls für Herausgeber:in) und chronologisch nach 
+dem Erscheinungsjahr geordnet. Vornamen sind möglichst auszuschreiben. 
+Literatur aus dem Internet ist nur dann zitierfähig, wenn sie eine/n Autor:in/Verfas-
+ser:in hat oder von einer Institution bzw. Organisation herausgegeben wird. 
+ 
+
+[Page 8]
+STS KU Eichstätt-Ingolstadt 
+ 
+8 
+Regeln zur Zitation2 
+1. Zitation mit Kurzbelegen im Text 
+Wenn aus Aufsätzen etc. zitiert wird, dann auch mit Kurzbelegen im Fließtext: 
+• Im Anschluss an das Zitat sind in Klammern der Name des:der Autor:in sowie das 
+Erscheinungsjahr und die Seitenzahl anzugeben (Kurz- bzw. Klammerzitier-
+weise). D. h. der jeweilige Zitatnachweis oder Literaturverweis erfolgt im fließen-
+den Text mit Hilfe runder Klammern, innerhalb derer der entsprechende Name 
+der Autorin/des Autors, das Erscheinungsjahr und ggf. die Seitenzahl (ohne „S.“ 
+oder „p.“) genannt wird. [Anm.: Bei mehreren Autor:innen mit „/“ ohne Leerzei-
+chen trennen.] 
+• Wird die/der Autor:in nicht im Text genannt, wird der Name, das Erscheinungs-
+jahr und ggf. die Seitenzahl(en) in Klammern eingefügt: 
+„… (vgl. Kunze 2005) …“ 
+„… (Habermas 1995: 59) …“ 
+• Wird die/der Autor:in im Text genannt, ist lediglich das Erscheinungsjahr der 
+Quelle in Klammern anzugeben: 
+„…so erklärte Habermas (1995) …“ 
+• Bei zwei Autor:innen werden beide Namen genannt; bei drei oder mehr Autor:in-
+nen wird nur der 
+erste Name und „u. a.“ angegeben: 
+„… (Bohmeyer/Frühbauer 2005) …“ 
+„… (Dabrowski u. a. 2003) …“ 
+• Bei mehr als einem Titel pro Autor:in und Erscheinungsjahr werden hinter der 
+Jahresangabe die Buchstaben a, b, c usw. zur Unterscheidung hinzugefügt: 
+„…Spieß (2010a: 12–24; 2010b) …“ 
+• Mehrere aufeinanderfolgende Literaturverweise werden in einer gemeinsamen 
+Klammer eingeschlossen und durch Semikolon getrennt: 
+„… (Große Kracht 2001; Dabrowski u. a. 2003; Bohmeyer/Frühbauer 2005) …“ 
+ 
+2. Direktes und indirektes Zitieren 
+Direkte und indirekte Zitate müssen als solche im Text gekennzeichnet werden. 
+ 
+Direktes Zitat 
+Bei einem direkten Zitat wird die Quelle bzw. Literaturangabe wörtlich (ohne Verän-
+derung!) wiedergegeben. Beispiel: „Es bleibt ein Erlebnis von unvergleichlichem 
+Wert, dass wir die großen Ereignisse der Weltgeschichte einmal von unten, aus der 
+ 
+2 Die Regeln orientieren sich an den Richtlinien Jahrbuch für christliche Sozialwissenschaften 
+(Peer Reviewed Journal for Christian Social Ethics), online unter: https://www.uni-muens-
+ter.de/Ejournals/index.php/jcsw/libraryFiles/downloadPublic/82 (S. 4-7) (zuletzt abgerufen 
+am 10.11.2024). 
+
+[Page 9]
+STS KU Eichstätt-Ingolstadt 
+ 
+9 
+Perspektive der Ausgeschalteten, Beargwöhnten, Schlechtbehandelten, Machtlo-
+sen, Unterdrückten und Verhöhnten, kurz der Leidenden sehen gelernt haben“ (Bon-
+hoeffer 1994: 26). 
+Diese direkten Zitate sind im Text unter Anführungszeichen zu setzen und die Quelle 
+bzw. Literaturangabe (der Familienname des Autors/ der Autorin, das Erscheinungs-
+jahr der Publikation sowie die verwendeten Seiten) erfolgt ohne das Wort „vgl.“. Feh-
+ler (z.B. Rechtschreibungsfehler) oder Hervorhebungen sind dabei aus dem Original 
+zu übernehmen und durch ein nachgestelltes „[sic]“ kenntlich zu machen. Die Zita-
+tion älterer Textstellen mit alter Rechtschreibung stellt in diesem Sinne keinen Feh-
+ler dar, da damals gültige Regeln angewandt wurden. Ebenso sind Auslassungen 
+zulässig; diese müssen jedoch mit „[…]“ gekennzeichnet werden. Ursprüngliche An-
+führungszeichen im zitierten Text werden als einfache Apostrophe geschrieben. 
+Die Zitierung längerer Textpassagen (z.B. Gesetzestexte, berühmte Reden, etc.) 
+kann als eigener Absatz, evtl. unter besonderer Kenntlichmachung durch eine klei-
+nere Schriftgröße und kursive Schreibweise, hervorgehoben werden. 
+Gesetze sind unter Angabe des jeweiligen Paragrafen und/oder des Gesetzbuches 
+zu zitieren. Bei Gesetzestexten geht man davon aus, dass diese in der jeweils ak-
+tuell gültigen Form wiedergegeben werden. 
+ 
+Indirektes Zitat 
+Bei indirekten Zitaten wird die Aussage eines Autors/einer Autorin sinngemäß mit 
+eigenen Worten wiedergegeben. Hier verwendet man keine Anführungszeichen. 
+Der Hinweis auf die Quelle bzw. Literaturangabe erfolgt hier immer mit „vgl.“. An-
+schließend werden der Familienname des Autors/ der Autorin, das Erscheinungs-
+jahr der Publikation sowie die verwendeten Seiten angegeben (Beispiel: „(vgl. Müller 
+2000: 14-21)“; vereinzelt auch so: „(vgl. Müller 2000: 14ff.)“. 
+Indirekte Zitate werden verwendet, wenn längere Textpassagen aus dem Original 
+in einer kurzen Aussage zusammengefasst werden. Die meisten Zitate einer wissen-
+schaftlichen Arbeit sind indirekte Zitate. 
+ 
+3. Zitierweise im Literaturverzeichnis 
+Alle Quellen und Literaturangaben (einschließlich mündliche Auskünfte, wie Telefo-
+nate oder Vorträge, sowie Internetquellen bzw. digitaler Veröffentlichungen) werden 
+in alphabethischer Reihenfolge der Autor:innen-, Verfasser:innen- bzw. Heraus-
+geber:innennamen aufgeführt. Bei einem Beitrag aus einem Sammelwerk werden 
+sowohl der (Buch-)Beitrag als auch das Sammelwerk im Literaturverzeichnis ausge-
+wiesen. 
+Bitte führen Sie alle verwendeten Literaturangaben und -verweise in alphabetischer 
+Reihenfolge nach Name (und je Autor:in nach dem Erscheinungsjahr und ggf. Buch-
+staben) auf, sodass sich jede Kombination aus Autor:in/Jahr der jeweiligen Klammer-
+zitierung innerhalb des Textes eindeutig zuordnen lässt. 
+Bitte legen Sie ein Literaturverzeichnis in alphabetischer Reihenfolge entsprechend 
+den folgenden Mustern an: 
+
+[Page 10]
+STS KU Eichstätt-Ingolstadt 
+ 
+10 
+ 
+Monographien 
+Nachname, Vorname (Jahr): Titel. Untertitel ([ggf.] Reihentitel, Bandnr. der Reihe). 
+[ggf.] Auflage. Verlagsort: Verlag. [Anm.: Bei mehreren Autor:innen mit Semikolon 
+trennen.] 
+• Fisch, Andreas (2007): Menschen in aufenthaltsrechtlicher Illegalität. Reform-
+vorschläge und Folgenabwägungen aus sozialethischer Perspektive. Berlin, 
+Münster: Lit. 
+• Veith, Werner (2006): Intergenerationelle Gerechtigkeit. Ein Beitrag zur sozial-
+ethischen Theoriebildung (Forum Systematik, 25). Stuttgart: Kohlhammer. 
+• Vogt, Markus (2013): Prinzip Nachhaltigkeit. Ein Entwurf aus theologisch-ethi-
+scher Perspektive (Hochschulschriften zur Nachhaltigkeit, 39). 3. Auflage. Mün-
+chen: Oekom. 
+• Wheeler, David A.; Larsen, Gregory N. (2007): Techniques for Cyber Attack 
+Attribution. Alexandria: Institute for Defense Analysis. 
+Beiträge aus Sammelbänden 
+Nachname, Vorname (Jahr): Titel. Untertitel. In: Nachname, Vorname (Hg.): Titel. 
+Untertitel ([ggf.] Reihentitel, Bandnr. der Reihe). [ggf.] Auflage. Verlagsort: Verlag, 
+Seitenzahlen. [Anm.: Bitte genaue Seitenangabe ohne Leerzeichen, nicht nur die 
+erste Seite mit ‚ff.‘ ergänzt, bspw. 96–111, nicht 96ff.; bei mehreren Autor:innen / 
+Herausgeber:innen mit Semikolon trennen, aber kein Pluralkürzel 
+„Hgg.“]. 
+• Winkler, Katja (2007): Befähigung zur Beteiligung - Befähigung durch Beteili-
+gung. Beteiligungsgerechtigkeit nach Martha Nussbaums Capabilities Approach. 
+In: Eckstein, Christiane; Filipovic, Alexander; Oostenryck, Klaus (Hg.): Beteili-
+gung, Inklusion, Integration. Sozialethische Konzepte für die moderne Gesell-
+schaft (Forum Sozialethik, 5). Münster: Aschendorff, S. 53–67. 
+• Ackermann, Denise (1999): A voice was heard in Ramah. A feminist theology 
+of praxis for healing in South Africa. In: Ackermann, Denise; Bons-Storm, Riet 
+(Hg.): Liberating faith practises. Feminist practical theologies in context. Leuven: 
+Peeters, S. 75–102. 
+ 
+Sammelbände 
+Nachname, Vorname (Hg.) (Jahr): Titel. Untertitel ([ggf.] Reihentitel, Bandnr. der 
+Reihe). [ggf.] Auflage. Verlagsort: Verlag. [Anm.: Bei mehreren Herausgeber:innen 
+mit Semikolon trennen, aber kein Pluralkürzel „Hgg.“] 
+• Ackermann, Denise; Bons-Storm, Riet (Hg.) (1999): Liberating faith practises. 
+Feminist practical theologies in context. Leuven: Peeters. 
+• Fisch, Andreas; Ueberbach, Myriam; Patenge, Prisca; Ritter, Dominik (Hg.) 
+(2018): Zuflucht - Zusammenleben - Zugehörigkeit? Kontroversen der Migrati-
+ons- und Integrationspolitik interdisziplinär beleuchtet. (Forum Sozialethik, 18). 
+3. Auflage. Münster: Aschendorff. 
+ 
+Beiträge aus Nachschlagewerken 
+
+[Page 11]
+STS KU Eichstätt-Ingolstadt 
+ 
+11 
+Nachname, Vorname (Jahr): Titel. Untertitel. In: Nachname, Vorname (Hg.): Titel 
+Nachschlagewerk. Untertitel. [ggf.] Bd. Bandnummer: Bandtitel. [ggf.] Auflage. Ver-
+lagsort: Verlag, Seitenzahlen. [Anm.: Bitte genaue Seitenangabe ohne Leerzeichen, 
+nicht nur die erste Seite mit ‚ff.‘ ergänzt, bspw. 96–111, nicht 96ff.; bei mehreren 
+Autor:innen / Herausgeber:innen mit Semikolon trennen, aber kein Pluralkürzel 
+„Hgg.“]. 
+• Baumgartner, Alois (1995): Art. „Familie“. Kap. IV: sozialethisch. In: Kasper, 
+Walter (Hg.): Lexikon für 
+Theologie und Kirche. Bd. 3. 3. völlig neu bearbeitete Auflage. Freiburg: Herder, 
+S. 1170. 
+• Baumgartner, Alois; Korff, Wilhelm (1999): Sozialprinzipien als ethische Bau-
+gesetzlichkeiten moderner Gesellschaft. In: Korff, Wilhelm (Hg.): Handbuch der 
+Wirtschaftsethik. Bd. 1: Wirtschaft und Ethik. Gütersloh: Gütersloher Verl.-Haus, 
+S. 225–237. 
+• Beaglehole, Ernest (1972): Property. In: Sills, David L. (Hg.): International En-
+cyclopedia of the Social Sciences. Bd. 12. New York: The Macmillan Company 
+& The Free Press, S. 333–345. 
+ 
+Beiträge aus Zeitschriften 
+Nachname, Vorname (Jahr): Titel. Untertitel. In: Zeitschriftenname Jahrgang ([ggf.] 
+Heftnummer), Seitenangaben. 
+• Große Kracht, Hermann-Josef (2001): Kritik an der radikalliberalen Markttech-
+nologie. John Rawls, James Buchanan und das Theorieprogramm der ‚Neuen 
+Interaktionsökonomik’ bei Karl Homann. In: Orientierung S. 65, 179–182 und 
+190–195. 
+• Abdelzaher, Dina M.; Abdelzaher, Amir (2017): Beyond Environmental Regu-
+lations: Exploring the Poten- tial of “Eco-Islam” in Boosting Environmental Ethics 
+Within SMEs in Arab Markets. In: Journal of Business Ethics 145(2), S. 357–371. 
+ 
+Beiträge aus Zeitungen 
+• Habermas, Jürgen (1995): Wahrheit und Wahrhaftigkeit. Die Freiheit der 
+Selbstvergewisserung und des Selbstseinkönnens. In: Die Zeit vom 08.12.1995, 
+S. 59. 
+• Hubschmid, Maris (2011): Ganz globaler Wahnsinn. In: Tagesspiegel vom 
+04.09.2011 (Nr. 21086), S. 22–23. 
+ 
+Internet 
+[Literaturangabe], online unter <Adresse> (zuletzt abgerufen am Abrufdatum). 
+(Trennungen bitte unbedingt ohne Trennstrich, also einfach in der nächsten Zeile 
+weiterschreiben, z.B.:) 
+• Gabriel, Karl (2003): Wandel von Ehe und Familie und die Möglichkeiten einer 
+christlichen Lebensweise in einer veränderten Gesellschaft. Referat auf der Jah-
+restagung des Referats Ehe- und Familienseelsorge des Bis- tums Münster am 
+6. 10. 2003, online unter http://www.uni-muenster.de/imperia/md/content/fb2/c-
+systemati- schetheologie/christlichesozialwissenschaften/ehe_und_familie.pdf 
+(zuletzt abgerufen am 20.06.2006). 
+
+[Page 12]
+STS KU Eichstätt-Ingolstadt 
+ 
+12 
+ 
+Kirchliche Dokumente 
+Kurzform – Autor (Jahr): [ggf.] Form des Lehrdokuments Titel. Untertitel ([ggf.] Rei-
+hentitel, Bandnr. der Reihe]). [ggf.] Auflage. Verlagsort: Verlag, [ggf.] Seitenzahlen 
+bzw. Absatznummern. 
+• PT – Johannes XXIII. (1963): Enzyklika Pacem in terris. In: Bundesverband der 
+Katholischen Arbeitnehmer- Bewegung Deutschlands (KAB) (Hg.) (2007): Texte 
+zur katholischen Soziallehre: die sozialen Rundschreiben der Päpste und andere 
+kirchliche Dokumente. 9. erw. Auflage. Köln: Ketteler, S. 241–290. 
+• GS – Zweites Vatikanisches Konzil (1965): Pastoralkonstitution Gaudium et 
+spes. In: Bundesverband der Katholischen Arbeitnehmer-Bewegung Deutsch-
+lands (KAB) (Hg.) (2007): Texte zur katholischen Soziallehre: die sozialen Rund-
+schreiben der Päpste und andere kirchliche Dokumente 9. erw. Auflage. Köln: 
+Ketteler, S. 291–395. 
+• EG – Franziskus (2013): Apostolisches Schreiben Evangelii gaudium. Bonn: 
+Sekretariat der Deutschen Bi- schofskonferenz (Verlautbarungen des Apostoli-
+schen Stuhls, 194). 
+• DBK (2000): Bischöfliches Wort Gerechter Friede (Die deutschen Bischöfe, 66). 
+Bonn: Sekretariat der deut- schen Bischofskonferenz. 
+• EKD (2007): Denkschrift Aus Gottes Frieden leben – für gerechten Frieden sor-
+gen. Hannover: EKD. 
+• CIC – Codex Iuris Canonici – Codex des kanonischen Rechtes (2001): Latei-
+nisch-deutsche Ausgabe. 5., neu- gestaltete und verb. Aufl. Kevelaer: Butzon & 
+Bercker. 
+ 
+ 
+Alle Literaturangaben im Literaturverzeichnis werden in alphabetischer Reihenfolge 
+(und je Autor:in nach dem Erscheinungsjahr und ggf. Buchstaben) sortiert. 
+ 
+ 
+ 
+ 
+ 
+ 
+Anlage 1: Ehrenwörtliche Erklärung 
+ 
+ERKLÄRUNG 
+Ich versichere, dass ich die vorliegende Arbeit selbständig verfasst, noch nicht an-
+derweitig für Prüfungszwecke vorgelegt, keine anderen als die angegebenen Quel-
+len oder Hilfsmittel benutzt sowie wörtliche oder sinngemäße Zitate als solche ge-
+kennzeichnet habe. Die Versicherung der selbständigen Arbeit bezieht sich auch 
+
+[Page 13]
+STS KU Eichstätt-Ingolstadt 
+ 
+13 
+auf die in der Arbeit enthaltenen Zeichnungen, Kartenskizzen und bildlichen Darstel-
+lungen. 
+ 
+ 
+ 
+Ort, Datum 
+Unterschrift 
+ 
+__________________________________________________________________ 
+ 
+ 
+Vorschlag bei Verwendung von KI: 
+ 
+ 
+ 
+ERKLÄRUNG 
+ 
+Hiermit versichere ich, dass ich die vorliegende Arbeit selbstständig und ohne Benut-
+zung anderer als der angegebenen Hilfsmittel angefertigt habe. Alle Stellen, die wört-
+lich oder sinngemäß aus veröffentlichten und nicht veröffentlichten Publikationen ent-
+nommen sind, sind als solche kenntlich gemacht. Die Arbeit wurde in gleicher oder 
+ähnlicher Form weder im In- noch im Ausland (einer Beurteilerin/einem Beurteiler zur 
+Begutachtung) in irgendeiner Form als Prüfungsarbeit vorgelegt. 
+Weiters versichere ich, dass ich keine KI-basierten Hilfsmittel zur Text- oder Inhalts-
+produktion, wie beispielsweise ChatGPT, ohne explizite Genehmigung des Dozen-
+ten/der Dozentin oder Prüfer/in eingesetzt habe. Sollte die Nutzung solcher Hilfsmittel 
+gestattet worden sein, bin ich bereit, die entsprechende Verwendung durch doku-
+mentarische Belege, wie etwa Chatprotokolle, nachzuweisen, falls Rückfragen auf-
+treten (bitte ankreuzen): 
+  Der Einsatz von KI-gestützten Hilfsmitteln zur Text- oder Inhaltsproduktion wurde 
+ausdrücklich genehmigt. Eine Aufstellung der erlaubten Nutzung ist beigefügt oder in 
+der Arbeit enthalten. 
+  KI-basierte Hilfsmittel zur Text- oder Inhaltsproduktion wurden nicht verwendet. 
+ 
+ 
+ 
+ 
+Eichstätt und Ingolstadt, den 
+ 
+ 
+____________________________ 
+Unterschrift

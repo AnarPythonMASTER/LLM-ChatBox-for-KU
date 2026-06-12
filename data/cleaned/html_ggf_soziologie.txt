@@ -1,0 +1,15 @@
+SOURCE_URL: https://www.ku.de/ggf/soziologie
+TITLE: Soziologie – KU
+SOURCE_FILE: ggf_soziologie.html
+------------------------------------------------------------
+
+Aktuelles und Veranstaltungshinweise
+Lehrstühle & Professuren
+Prüfungstermine
+Eichstätter Beiträge zur Soziologie
+Fachschaft
+Studium & Lehre
+Soziologie in Eichstätt - Was Dich interessiert:
+international
+interdisziplinär
+Methodenschwerpunkt

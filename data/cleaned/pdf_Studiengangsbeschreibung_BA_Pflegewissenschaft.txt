@@ -1,0 +1,2479 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_BA_Pflegewissenschaft.pdf
+TITLE: Studiengangsbeschreibung_BA_Pflegewissenschaft.pdf
+SOURCE_FILE: Studiengangsbeschreibung_BA_Pflegewissenschaft.pdf
+------------------------------------------------------------
+
+[Page 1]
+1/2020_01 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den 
+Studiengang Pflegewissenschaft 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+ 
+beschlossen durch den Fakultätsrat der Fakultät für Soziale 
+Arbeit am 26.05.2020 
+ 
+
+[Page 2]
+1/2020_01 
+ 
+ 
+ 
+2 
+Inhalt 
+A. Allgemeine Struktur des Studiengangs 
+................................................................................. 
+3 
+B. 
+Beschreibung des Studiengangs 
+............................................................................................... 
+6 
+1. 
+Der Studiengang in drei Sätzen 
+............................................................................................ 
+6 
+2. 
+Zielgruppe 
+....................................................................................................................................... 
+7 
+C. Studiengangskonzept 
+..................................................................................................................... 
+8 
+1. 
+Struktur des Studiengangs 
+...................................................................................................... 
+8 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+..................................................................... 
+8 
+1.2. 
+Anrechnung durch die Ausbildung erworbener Kompetenzen 
+..................... 
+8 
+1.3. 
+Qualifikationsziele 
+............................................................................................................. 
+10 
+1.4. 
+Aufbauende Qualifizierungsmöglichkeiten 
+............................................................ 
+11 
+1.5. 
+Arbeitsmarktsituation und Berufsfelder 
+.................................................................. 
+12 
+2. 
+Aufbau des Studiengangs 
+...................................................................................................... 
+15 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+............................................................... 
+18 
+2.2. 
+Pflichtbereich 
+........................................................................................................................... 
+37 
+2.3. 
+Wahlpflichtbereich 
+................................................................................................................ 
+37 
+2.4. 
+Wahlbereich 
+............................................................................................................................. 
+37 
+2.5. 
+Studium.Pro 
+.............................................................................................................................. 
+37 
+2.6. 
+Praxisbezug 
+............................................................................................................................... 
+37 
+2.7. 
+Ausgestaltung der Internationalisierung 
+..................................................................... 
+38 
+3. 
+Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre 
+............................................................................................................................ 
+39 
+Literaturnachweis 
+................................................................................................................................ 
+41 
+Anlage: 
+......................................................................................................................................................... 
+49 
+Idealtypischer Studienverlaufsplan 
+................................................................................................. 
+49 
+Diploma Supplement (englisch, deutsch).................................................................................... 
+50 
+
+[Page 3]
+1/2020_01 
+ 
+ 
+ 
+3 
+ 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Der Name des Studiengangs lautet 
+Bachelorstudiengang Pflegewissenschaft - berufsbegleitend 
+ 
+Verantwortliche Fakultät: 
+Fakultät für Soziale Arbeit 
+ 
+Beteiligte Fakultät/en: 
+Ggf Theologische Fakultät (gewünscht) 
+Ggf. Philosophisch-Pädagogische Fakultät (gewünscht) 
+Ggf. Geschichts- und gesellschaftliche Fakultät; Fakultät für Soziologie (gewünscht) 
+ 
+Der Studiengang führt zur Verleihung des akademischen Grades: 
+Bachelor of Science in Nursing (B.Sc.N) 
+ 
+Studienform: 
+☒ Vollzeitstudiengang - berufsbegleitend 
+☐ Teilzeitstudiengang 
+☐ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+Berufsbegleitender Studiengang: 
+Mit der Öffnung der Hochschulen in Bayern können diese ein flexibles 
+Berufsangebot für beruflich Studierende anbieten (Bayerisches Hochschulgesetz 
+2019, Art.56 Abs.4). Das Bayerische Staatsministerium für Wissenschaft und Kunst 
+(STMWK) weist explizit darauf hin, dass es für „den Beruf nicht mehr ausreicht, in 
+jungen Jahren eine Ausbildung zu durchlaufen und bis zum Ausscheiden mit diesem 
+
+[Page 4]
+1/2020_01 
+ 
+ 
+ 
+4 
+Wissen zu arbeiten“ und fordert die Hochschulen auf, adäquate und flexible 
+Studienangebote für die „unterschiedlichsten Zielgruppen“ zur Verfügung zu stellen 
+und die Hochschulen zu öffnen (STMWK 2011). Demnach „muss ein 
+berufsbegleitendes Studium so gestaltet sein, dass es neben einer Vollzeit-
+Berufstätigkeit 
+absolviert 
+werden 
+kann. 
+Die 
+Lehrveranstaltungen 
+finden 
+insbesondere am Abend, an den Wochenenden oder als Blockkurse statt. Ein 
+berufsbegleitendes Studium enthält einen deutlich höheren Anteil an virtueller 
+Lehre. Darüber hinaus beträgt die Arbeitsbelastung in der Regel auch nicht mehr 
+als 20 Leistungspunkte pro Semester“ (STMWK, 2011). Nachfolgend aufgeführtes 
+Studienprogramm wendet sich gezielt an beruflich qualifizierte Personen aus den 
+Pflegeberufen (siehe Punkt B 2. Zielgruppe). Durch das Studium erwerben 
+praktizierende Pflegende methodische Grundlagen, um Pflegehandeln und 
+Entscheidungen in allen Handlungsfeldern der in der direkten Patientenversorgung 
+(ambulant, stationär und teilstationär) auf eine wissenschaftliche Grundlage zu 
+stellen (Eberl & Hohdorf 2020, 2. Qualifikationsziele). Die inhaltliche Ausrichtung 
+des Studiengangs sowie die hierfür relevanten, formalen Vorgaben an ein 
+berufsbegleitendes Studienprogramm erfüllen gestellte Anforderungen. 
+ 
+Art des Studiengangs: 
+☒ grundständig 
+☐ konsekutiv 
+☐ weiterbildend 
+Gemäß BayHSchG, Art. 56 (2016) handelt es sich auch um einen grundständigen 
+Studiengang. Die Zielgruppe erwirbt mit diesem berufsbegleitenden Bachelor-
+Studiengang einen ersten Hochschulabschluss (siehe B Punkt 2). 
+ 
+(gilt nur für Masterstudiengänge): 
+☐ anwendungsorientiert 
+☐ forschungsorientiert 
+ 
+
+[Page 5]
+1/2020_01 
+ 
+ 
+ 
+5 
+Regelstudienzeit: 
+7 Semester 
+Studienbeginn: 
+☒ Sommersemester 2021 - wünschenswert 
+☐ Wintersemester 
+☐ Jedes Semester 
+ 
+Anzahl der zu vergebenden ECTS-Leistungspunkte: 
+210 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+☒ Nein 
+☐ Ja, € pro Semester 
+ 
+ 
+ 
+ 
+
+[Page 6]
+1/2020_01 
+ 
+ 
+ 
+6 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in drei Sätzen 
+Das Studienprogramm ist in zwei Abschnitte unterteilt: 
+Semester 1-3 stellen die „innerwissenschaftlichen Bezüge“ (Hülsken-Giesler et al. 
+2010:223), mit Blick auf die wissenschaftstheoretischen, pflegetheoretischen und 
+methodologischen 
+Herausforderungen 
+sowie 
+dem 
+aktuellen 
+Stand 
+der 
+Pflegeforschung in Deutschland und international, her. Studierende erwerben 
+Grundlagen in wissenschafts- und forschungsmethodischen Kompetenzen wie 
+wissenschaftliches Arbeiten und Schreiben, den Umgang mit wissenschaftlicher 
+Literatur und Texten sowie Grundlagen quantitativer und qualitativer Pflege- und 
+Versorgungsforschung. 
+ 
+Semester 4-7 konzentrieren sich auf die „gesellschaftlichen Bezüge“ (Hülsken-
+Giesler et al. 2010: 221), insbesondere auf die Auswirkungen aus akuter und 
+chronischer Erkrankung. Das beinhaltet deren pflegerische Diagnostik und 
+Bedarfseinschätzung mit den Erfordernissen an Primär-, Sekundär- und 
+Tertiärprävention, eine sektorenübergreifende und interprofessionelle Versorgung, 
+die 
+Befähigung 
+zur 
+Alltagsbewältigung 
+im 
+Umgang 
+mit 
+der 
+Erkrankung/Behinderung, die Berücksichtigung kultursensibler Aspekte sowie die 
+Anforderungen bei Einbindung von Digitalisierung und Technik. Studierende 
+erwerben ein grundlegendes theoretisches, wissenschaftstheoretisches und 
+methodisches 
+Verständnis, 
+damit 
+sie 
+entsprechende 
+Leistungsangebote, 
+Programme, Konzepte etc. für die Praxis entwickeln, analysieren und auf deren 
+Ergebnis beurteilen können. Sie wenden forschungsmethodische Kompetenzen mit 
+dem Fokus auf einen gezielten Praxis-Theorie-Transfer zur Praxis(weiter)entwicklung 
+an. Sie vertiefen erworbene Kenntnisse, damit sie das eigene berufliche 
+Handlungsfeld in der direkten Versorgung Betroffener und ihrer Familien 
+weiterentwickeln können. 
+ 
+
+[Page 7]
+1/2020_01 
+ 
+ 
+ 
+7 
+2. Zielgruppe 
+Angehörige der Pflegeberufe mit der Erlaubnis zur Führung der Berufsbezeichnung 
+als Gesundheits- und Krankenpfleger*in, Gesundheits- und Kinderkrankenpfleger*in, 
+Altenpfleger*in oder als Pflegefachfrau bzw.- mann, durch die erfolgreich erworbene 
+staatliche Anerkennung, verbunden mit der Berufszulassung in der stationären, 
+teilstationären oder ambulanten Versorgung Pflegebedürftiger und deren Familien. 
+ 
+ 
+ 
+
+[Page 8]
+1/2020_01 
+ 
+ 
+ 
+8 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+Voraussetzung für die Aufnahme in diesen berufsbegleitenden Bachelorstudiengang 
+ist der Nachweis 
+• der Qualifikationsvoraussetzungen gemäß dem Bayerischen Hochschulgesetz 
+vom 23. Mai 2006 (GVBl. S. 245) und der Verordnung über die Qualifikation 
+für ein Studium an den Hochschulen des Freistaates Bayern und den staatlich 
+anerkannten nichtstaatlichen Hochschulen (Qualifikationsverordnung – 
+QualV) vom 2. November 2007 (GVBl. 2007 S. 767) in der jeweiligen Fassung, 
+und 
+• eine bereits abgeschlossene dreijährige Ausbildung zur Gesundheits- und 
+Krankenpfleger*in, eine bereits abgeschlossene dreijährige Ausbildung zur 
+Gesundheits- und Kinderkrankenpfleger*in oder eine bereits abgeschlossene 
+dreijährige Ausbildung zur Altenpfleger*in. 
+• Abschluss Pflegefachfrau bzw. Pflegefachmann nach dem Pflegeberufegesetz 
+• Bewerbungs- und Einschreibefristen – noch offen – siehe Prüfungsordnung 
+ 
+1.2. 
+Anrechnung durch die Ausbildung erworbener Kompetenzen 
+Betrachtet man die jeweiligen Ausbildungsinhalte in der Gesundheits- und 
+Krankenpflege, der Gesundheit- und Kinderkrankenpflege sowie der Altenpflege 
+wird deutlich, dass sich die Anforderungen nahezu gleichen. Unterschiede ergeben 
+sich in der inhaltlich theoretischen Positionierung mit dem Fokus auf 
+Gesundheitsförderung und Prävention in der Ausbildung zur Gesundheits- und 
+Krankenpflege bzw. der Gesundheits- und Kinderkrankenpflegeausbildung im 
+Gegensatz zu lebensweltlich bezogenen Aspekten in der Altenpflege. Generell ist 
+die 
+Ausbildung 
+der 
+Gesundheits- 
+und 
+(Kinder-) 
+Krankenpflege 
+entlang 
+medizinischer Ordnungssysteme (Anatomie, Physiologie und Krankheit) strukturiert. 
+Damit treten medizinische Grundlagen für pflegerische Handlungsentscheidungen 
+
+[Page 9]
+1/2020_01 
+ 
+ 
+ 
+9 
+in den Vordergrund. Dieses Studienprogramm legt den Fokus auf pflegeoriginäre 
+Bezugsgrößen. Pflegerische Perspektiven wie die vorhandene bzw. beeinträchtigte 
+Selbständigkeit im Umgang mit funktionellen Beeinträchtigungen gelten als 
+grundlegend für Aussagen betreffend das Ausmaß und den Umfang einer 
+bestehenden Pflegebedürftigkeit und für pflegerische Handlungsentscheidungen 
+(Wingenfeld & Büscher 2017, Wissenschaftsrat 2012). 
+Dieses Studienprogramm adressiert Berufsgruppenangehörige welche die Erlaubnis 
+zur Führung der Berufsbezeichnungen Gesundheits- und Krankenpfleger*in, 
+Gesundheits- und oder Kinderkrankenpfleger`*in sowie Altenpfleger*in durch eine 
+erfolgreich 
+abgeschlossene 
+staatliche 
+Anerkennung, 
+Pflegefachfrau 
+bzw. 
+Pflegefachmann erworben haben. 
+In Deutschland gilt die staatliche Anerkennung als Voraussetzung, um in der 
+direkten Patienten- und Bewohnerversorgung als Pflegefachperson tätig zu sein. Im 
+Rahmen einer dreijährigen Ausbildung mit einem Praxisanteil1 von insgesamt 2.500 
+h und unter Einbezug der Bezugswissenschaften und Disziplinen der Medizin, 
+Psychologie, Mikrobiologie und Recht befähigen mehrheitlich Berufsfachschulen die 
+Auszubildenden für die berufliche Pflegepraxis (§3 Krankenpflegegesetz und §3 
+Altenpflegegesetz) (Böggemann et al 2019:21). Die durch die Praxiserfahrung 
+erworbenen Kompetenzen während und nach der Berufsausbildung gelten als 
+Voraussetzung für die Zulassung zu diesem berufsbegleitenden Studium. Nach 
+Kultusministerkonferenz (KMK 2008), Hochschulrektorenkonferenz (HRK 2017) und 
+Akkreditierungsrat (AR 2018) handelt es sich um eine Anrechnung von Leistungen 
+und Kompetenzen, die außerhalb der Hochschule erbracht wurden und als 
+einschlägige Berufserfahrung für diesen Studiengang mit insgesamt 70 ECTs 
+angerechnet werden. 
+ 
+ 
+ 
+ 
+ 
+1 Die Pflegeausbildung dauert in Vollzeit drei Jahre und besteht aus theoretischem (2100 h) und 
+praktischem (2500 h) Unterricht in einer Praxiseinrichtung. Der Anteil der praktischen Ausbildung 
+überwiegt und ist in Pflicht- und Wahlpflichteinsätze unterteilt. 
+
+[Page 10]
+1/2020_01 
+ 
+ 
+ 
+10 
+1.3. 
+Qualifikationsziele 
+• Bezogen auf die wissenschaftliche oder künstlerische Befähigung: das betrifft die 
+„Einübung wissenschaftlichen Denkens und Arbeitens als unverzichtbares Prinzip 
+jeglichen Studierens und als konstitutives Qualitätsmoment auch eines 
+berufsorientierten Studiums“ (Wissenschaftsrat 2008). Die Absolventinnen 
+o besitzen 
+Kenntnis 
+und 
+Verständnis 
+wissenschaftstheoretischer 
+Grundlagen der Pflegewissenschaft, die zumindest auf dem Niveau des 
+wissenschaftlichen Lehrbuchwisssens basieren (Hülsken-Giesler et al 
+2013:25). 
+o besitzen Kenntnis und Verständnis von Methoden und Techniken 
+professionellen Pflegehandelns (Hülsken-Giesler et al 2013:25). 
+ 
+• Befähigung, eine qualifizierte Erwerbstätigkeit aufzunehmen: Das betrifft die 
+o kritisch-reflexive, analytische und ethische Auseinandersetzung mit 
+patienten- und familienbezogenen Fallsituationen 
+o Gestaltung, Steuerung und Begleitung hochkomplexer Versorgungs- 
+bzw. Pflegeprozesse auf der Basis evidenzbasierter Entscheidungen 
+o Ausrichtung der pflegerischen Versorgung an Best Practice und 
+Excellence-Lösungen 
+o Implementierung und Evaluation innovativer Lösungsansätze zur 
+Verbesserung der pflegerischen Aufgaben- und Handlungsfelder 
+o Mitwirkung an der Entwicklung und Adaption von (inter-) 
+professionellen Konzepten, Leitlinien und Standards zur Sicherung der 
+Versorgungsqualität 
+o (Vorbereiten für) Qualifikation und Nachqualifikation zum/zur 
+Praxisanleiter*in 
+nach 
+Deutscher 
+Krankenhausgesellschaft 
+(DKG)/Bayerische 
+Krankenhausgesellschaft 
+(BKG) 
+gemäß 
+den 
+Bestimmungen für Praxisanleitung und Praxisbegleitung in der 
+beruflichen Pflegeausbildung. 
+ 
+ 
+
+[Page 11]
+1/2020_01 
+ 
+ 
+ 
+11 
+• Befähigung zum gesellschaftlichen Engagement 
+o Erschließung 
+von 
+praxisrelevanten 
+Fragestellungen 
+und 
+Forschungsgebieten der professionellen Pflege 
+o wissenschaftliche 
+Fundierung 
+von 
+Pflegehandeln 
+in 
+allen 
+Handlungsfeldern der direkten Patientenversorgung, ambulant, 
+stationär und teilstationär, um die Qualität pflegerischer Betreuung, 
+Begleitung und Versorgung der Betroffenen und ihrer Familien zu 
+beeinflussen. 
+ 
+• zur Persönlichkeitsentwicklung: Studierende erwerben 
+o eine persönliche professionelle Haltung 
+o Zugang für eine akademische Weiterqualifizierung im tertiären 
+Bildungs- und Hochschulbereich mit Anschluss an die internationale 
+und hier speziell europäische Pflegebildung. 
+o Perspektiven für eine erweiterte berufliche Praxis mit einer persönlich 
+verbundenen Attraktivität für den Pflegeberuf durch die akademische 
+Erstqualifikation. 
+ 
+1.4. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Masterstudiengänge im Pflege- und Gesundheitswesen werden bundesweit, mit 
+unterschiedlichen inhaltlichen Schwerpunkten angeboten. Mit dem Erwerb von 
+insgesamt 210 ECTS besteht Anschlussfähigkeit auf Grundlage der formalen 
+Voraussetzungen. Vor dem Hintergrund einer prognostizierten Zunahme von 
+Versorgungsengpässen, -brüchen und -lücken sowohl im ambulanten und speziell 
+in den familiären Settings wird auf den Bedarf von Advanced Practice Nurses (APN), 
+von Community Health Nurses und Familiy Health Nurses (WHO 1998) hingewiesen. 
+So fordert der BKK Dachverband (2020) das Einrichten von kommunalen 
+pflegerischen Versorgungszentren (KpVZ) unter der Lenkung hochqualifizierte 
+Pflegefachpersonen (APN) als wichtigen Anteil für die Primärversorgung 
+(Caremanagement) im deutschen Gesundheitswesen. 
+ 
+
+[Page 12]
+1/2020_01 
+ 
+ 
+ 
+12 
+Zukünftig wünschenswert für die Katholische Universität Eichstätt-Ingolstadt wäre 
+das Etablieren eines konsekutiven Master of Science (M.Sc.) mit den Schwerpunkten 
+Community 
+Health 
+Nursing 
+und/oder 
+Family 
+Health 
+Nursing. 
+Dieses 
+Masterprogramm führt die im Bachelor erworbenen Studieninhalte fachlich fort, 
+indem die Studierenden theoretische, empirische und konzeptionelle Kenntnisse 
+und Kompetenzen vertiefen und ethisch, theoretisch und empirisch fundierte 
+Projekte angewandter Forschung eigenständig konzipieren, kommunizieren, 
+implementieren und evaluieren. Denkbar ist auch ein fachübergreifendes 
+Masterprogramm mit den Schwerpunkten einer bereichsübergreifenden Steuerung, 
+Beratung und Begleitung komplexer Versorgungssituationen im Gesundheits- und 
+Sozialwesen (angelehnt an Case- und Caremanagement). Dieses Studienangebot 
+wäre als interdisziplinäres Angebot zugänglich für Personen mit einem 
+grundständigen Studienabschluss für unterschiedliche Berufe im Gesundheitswesen. 
+Promotionen in Pflege- und Gesundheitswissenschaft können an verschiedenen 
+Universitäten und Hochschulen der BRD absolviert werden. Die aktuelle 
+Studiengangsinhaberin besitzt aktuell Promotionsrecht an der Universität Witten-
+Herdecke, 
+Fakultät 
+für 
+Gesundheit, 
+der 
+Universität 
+Wien, 
+Fakultät 
+für 
+Sozialwissenschaften. Sie ist seit 2019 Mitglied im BayWiss Verbundkolleg 
+Gesundheit. 
+ 
+1.5. 
+Arbeitsmarktsituation und Berufsfelder 
+Zur Arbeitsmarktsituation: Generell wird die Nachfrage nach professioneller Pflege 
+aufgrund der steigenden Zahl Pflegebedürftiger weiter zunehmen. Je nachdem, von 
+welchem Szenario man ausgeht, fehlen bereits heute zwischen 260.000 und 490.000 
+Pflegende, allein für den Versorgungsbereich der stationären und ambulanten 
+Pflege (Stemmer et al. 2016). „Mit Blick auf die Primärversorgung ergeben sich 
+inzwischen gewaltige ärztliche und pflegerische Versorgungslücken, die Versorgung 
+älterer, multimorbider und schwerkranker Menschen kann ambulant heute schon 
+nicht mehr überall sichergestellt werden“ (vgl. SVR 2018, Stiftungsallianz 2020: 80). 
+Bei diesem Studiengang handelt es sich nicht um ein Studienprogramm für die 
+Qualifikation in Management- und Führungspositionen im Gesundheitswesen. 
+
+[Page 13]
+1/2020_01 
+ 
+ 
+ 
+13 
+Dieser Studiengang qualifiziert für die direkte Pflege d.h.: die unmittelbare Tätigkeit 
+mit Pflegebedürftigen im ambulanten, stationären, teilstationären Pflegebereichen 
+des Gesundheitswesens (Elsbernd und Bader 2018). Das betrifft sowohl die Bereiche 
+der Akutversorgung als auch Anliegen, die im Zusammenhang mit primär-, 
+sekundär- 
+und 
+tertiärpräventiven 
+Versorgungsbedarfen 
+chronisch 
+Kranker, 
+Behinderter und Menschen aller Altersgruppen entstehen. 
+Die steigende Komplexität von fachlichen und strukturell-organisatorischen 
+Herausforderungen an die pflegerische Versorgung macht es den Institutionen im 
+Gesundheitswesen 
+zunehmend 
+schwierig 
+mit 
+entsprechend 
+qualifizierten 
+Pflegenden darauf zu reagieren. „In zunehmend komplexeren Pflegearrangements 
+sind zukünftig Kompetenzen vorzuhalten, die es Pflegenden ermöglichen, […] 
+Pflegearbeit in den Regionen zu koordinieren, familien- und populationsorientierte 
+Angebote zu erstellen und innovative regionsspezifische Leistungsangebote zu 
+erproben. Gefordert sind qualifizierte Berufsangehörige die vernetzt denken und 
+agieren, innovativ und kreativ handeln und die Herausforderungen der Pflege in 
+den öffentlichen Raum kommunizieren“ (Hülsken-Giesler 2017:8). So findet das 
+Konzept der Advanced Nurse Practitioner (ANP) vermehrt Interesse. Akademisch 
+ausgebildete und in einem Fachgebiet spezialisierte Pflegende nehmen als 
+Pflegeexpert*innen (APN) gegenüber traditionell ausgebildeten Pflegenden 
+erweiterte Aufgaben wahr. Für die Evaluation von Praxisvorhaben und für die 
+Mitarbeit in Forschungsprojekten bringen sie Forschungsfähigkeiten ein. Die 
+Pflegeexpert*innen schulen, beraten und begleiten Betroffene und deren Familien, 
+ebenso leiten sie Pflege- und Betreuungspersonal gezielt an und erbringen 
+kollegiale Beratung. Sie arbeiten zusammen mit den verschiedenen Berufsgruppen 
+über 
+Institutionsgrenzen 
+hinweg 
+und 
+sind 
+aktiv 
+an 
+ethischen 
+Entscheidungsfindungs- prozessen beteiligt (Hamric et al. 2008). Obwohl die 
+zentralen Kernkompetenzen einer APN ursprünglich auf Masterebene anzusiedeln 
+sind 
+wird 
+diskutiert, 
+inwieweit 
+akademisch 
+qualifizierte 
+Pflegende 
+mit 
+Bachelorabschluss 
+Veränderungsmaßnahmen 
+in 
+der 
+pflegerischen 
+Versorgungspraxis mit anstoßen können und ggf. an deren Umsetzung beteiligt 
+sind. 
+
+[Page 14]
+1/2020_01 
+ 
+ 
+ 
+14 
+Pflegerische Handlungsfelder zeichnen sich zunehmend durch 
+komplexe 
+Versorgungsgeschehen aller Altersgruppen aus, die sowohl gemeinsam mit anderen 
+professionellen Berufsgruppen als auch im Interesse Betroffener geregelt werden 
+müssen. Der pflegerisch relevante Versorgungsbedarf muss diagnostiziert und an 
+alle beteiligten Berufsgruppen und Einrichtungen kommuniziert werden (Boguth et 
+al. 2013). Pflegediagnostische Verfahren mit dem Ziel, Versorgungsansprüche mit 
+Bezug auf die individuelle Bedürftigkeit herauszuarbeiten rücken in den 
+Vordergrund. Kritische Analysefähigkeit und Entscheidungsfindungskompetenz 
+gelten als Kernkompetenz. Fragen, was Pflegebedürftigkeit ausmacht, wodurch es 
+bestimmt ist, wann Unselbständigkeit mit Pflegebedürftig gleichzusetzen ist, wie 
+Leistungsansprüche entstehen, wie Pflegebedürftigkeit gemessen werden kann, 
+welche Anforderungen für Betroffene, Familien, Kommunen und Gesellschaften 
+entstehen, welche Kosten das zur Folge hat und was eine Gesellschaft insgesamt 
+für Pflege aufbringen muss sind bisher unzureichend beantwortet. 
+Hieraus ergeben sich Anforderungen an eine wissenschaftlich fundierte 
+Qualifikation mit erlernten Kompetenzen für Konzeptentwicklung, der Integration 
+von Erkenntnissen aus Forschung in die alltägliche Praxis sowie der Fähigkeit, 
+bezugswissenschaftliches 
+Knowhow 
+und 
+Expertise 
+entsprechend 
+in 
+Versorgungsentscheidungen einzubeziehen. Internationale Studien weisen auf die 
+positiven Zusammenhänge zwischen besserer Qualifikation und günstigeren 
+Ergebnissen für Betroffene, wie auch auf eine Reduzierung von Komplikationen wie 
+z.B. das Auftreten von Druckgeschwüren, Katheterinfektionen, nosokomialen 
+Infektionen, Versorgungsbrüchen bei Überleitungen und Entlassungen in andere 
+Gesundheits- und Pflegeeinrichtungen oder in das häusliche/ familiäre Umfeld etc. 
+hin (Aitken et al. 2017, Darrmann-Fink 2016). In seinem Sondergutachten 2012 weist 
+der Sachverständigenrat zur Begutachtung der Entwicklung im Gesundheitswesen 
+(SVR) darauf hin, dass akademisch qualifizierte Pflegende aktiv in die 
+Versorgungssteuerung eingebunden werden sollen, um Behandlungsergebnisse zu 
+stützen. Sie erkennen personenbezogene Versorgungsrisiken aufgrund Folgen 
+medizinischer 
+Therapieleistungen, 
+chronischer 
+Erkrankung, 
+Alter 
+und 
+Multimorbidität, potentielle Versorgungsbrüche während des Aufenthaltes in 
+
+[Page 15]
+1/2020_01 
+ 
+ 
+ 
+15 
+Einrichtungen 
+im 
+Gesundheitswesen 
+(organisations-, 
+prozess- 
+und 
+qualifikationsbezogen), und für die Zeit nach der Entlassung (u.a. familiär, sozial, 
+gesundheitsbezogen). Pflegepersonen können darauf frühzeitig reagieren sowie 
+evidenzbasierte Versorgungskonzepte mit Bezug auf die Bedarfe vulnerabler 
+Patientengruppen und ihrer Familien (mit-)entwickeln. 
+Dieses Studienprogramm zielt insbesondere auf die Weiterentwicklung der 
+Pflegepraxis in Krankenhäusern, Altenheimen, der häuslichen Pflege und allen 
+weiteren Handlungsfeldern der Pflege ab. Es greift zentrale Empfehlungen des 
+Wissenschaftsrats auf, „dass die mit besonders komplexen Aufgaben betrauten 
+Angehörigen der Gesundheitsfachberufe ihr eigenes pflegerisches, therapeutisches 
+oder geburtshelferisches Handeln auf der Basis wissenschaftlicher Erkenntnis 
+reflektieren, die zur Verfügung stehenden Versorgungs- möglichkeiten hinsichtlich 
+ihrer Evidenzbasierung kritisch prüfen und das eigene Handeln entsprechend 
+anpassen können“ (Wissenschaftsrat 2012:8) 
+Weitere Berufsfelder entstehen, wie in anderen Wissenschaftsdisziplinen auch, in 
+Forschungseinrichtungen 
+an 
+Hochschulen 
+und 
+Universitäten, 
+in 
+der 
+Gesundheitsindustrie und zunehmend auch in der Gesundheitspolitik. 
+Wie bereits (europäisch) international üblich, sind auch im deutschen 
+Gesundheitswesen vermehrt akademisierte Pflegepersonen mit Bachelor- und 
+Masterabschluss 
+und 
+promoviert 
+verstärkt 
+in 
+der 
+direkten 
+Versorgung 
+(Krankenhäuser, Kostenträger, ambulante Einrichtungen) oder beratend für 
+Führungs- und Leitungsgremien in Gesundheitseinrichtungen tätig (Eberhardt 2017, 
+Jeiler & Oetting-Ross 2018, Drube 2018). 
+ 
+2. Aufbau des Studiengangs 
+Ablösen des bisherigen Studienangebots: 
+Bereits 
+seit 
+2012 
+gibt 
+es 
+ein 
+ausbildungsintegriertes 
+Studienangebot 
+Pflegewissenschaft mit Eingrenzung auf die Gesundheits- und Krankenpflege in 
+Kooperation zwischen dem Berufsbildungszentrum (BBZ) am Klinikum Ingolstadt 
+und der KU. Die Kooperation endete am 31.12.2018, eine weitere Kooperation zur 
+
+[Page 16]
+1/2020_01 
+ 
+ 
+ 
+16 
+Durchführung eines ausbildungsintegrierten Studiengangs mit Eingrenzung auf die 
+Gesundheits- und Krankenpflege wird von Seiten der KU derzeit nicht angestrebt. 
+Gründe hierfür sind u.a. die Bindung an nur eine Ausbildungseinrichtung sowie die 
+Nichtberücksichtigung 
+anderer 
+Pflegefachberufe. 
+Die 
+genannten 
+Rahmenbedingungen erwiesen sich als nachteilig und führten zu einem Rückgang 
+ausbildungsbegleitend Studieninteressierter. Aus diesem Grund beantragte die 
+Fakultät für Soziale Arbeit, den berufsintegrierten Studiengang Pflegewissenschaft 
+mit Erfüllung des Kooperationsvertrags (letzte Einschreibung im Wintersemester 
+2018/19) einzustellen, um ein in allen wesentlichen Belangen geänderten 
+Studiengang zu konzipieren. Diesem Antrag wurde vom Präsidium der KU im Januar 
+2018 zugestimmt. Nachdem zum 1.1.2017 die Tarifpartner in einer Vereinbarung 
+TVöD (ver.di-Bundesverwaltung, Fachbereich 3, 2016) erstmalig Entgeltansprüche 
+für Pflegepersonen mit einem akademischen Grad formuliert und verabschiedet 
+hatten, wurde eine einmalige und abschließende Akkreditierung des bisherigen 
+Studienprogramms in Absprache mit den relevanten Gremien der KU veranlasst. 
+ 
+Novellierungen aus dem Pflegeberufegesetz: 
+Wesentliche 
+Änderungen 
+durch 
+das 
+novellierte 
+Pflegeberufegesetz 
+2020 
+(Bundesanzeiger Verlag 2017) erfordern Anpassungen an das bisherige 
+Studienangebot. Seit Januar 2020 sind im Pflegeberufegesetz § 4 pflegerische 
+Aufgaben als vorbehaltene Tätigkeiten festgeschrieben. Der Gesetzgeber schreibt 
+der beruflichen Pflege im Rahmen der Ausübung von Heilkunde eine besondere 
+Bedeutung für die Sicherung der Qualität der Gesundheitsversorgung und 
+erbrachter Leistungen auf dem Gebiet ihres (pflegerischen) Handlungsspektrums zu. 
+Damit wird der gesetzlich geschützte pflegespezifische und haftungsrechtliche 
+Verantwortungsbereich für Personen mit einer beruflichen Erlaubnis nach §1 
+Pflegeberufegesetz festgelegt. 
+ 
+„Die hochschulische Ausbildung zur Pflegefachfrau oder zum Pflegefachmann 
+vermittelt die für die selbstständige umfassende und prozessorientierte Pflege von 
+Menschen aller Altersstufen nach § 5 Absatz 2 in akut und dauerhaft stationären 
+sowie ambulanten Pflegesituationen erforderlichen fachlichen und personalen 
+
+[Page 17]
+1/2020_01 
+ 
+ 
+ 
+17 
+Kompetenzen auf wissenschaftlicher Grundlage und Methodik. Die hochschulische 
+Ausbildung umfasst die in § 5 Absatz 3 beschriebenen Kompetenzen der beruflichen 
+Pflegeausbildung. Sie befähigt darüber hinausinsbesondere 
+- 
+zur Steuerung und Gestaltung hochkomplexer Pflegeprozesse auf der 
+Grundlage 
+wissenschaftsbasierter 
+oder 
+wissenschaftsorientierter 
+Entscheidungen, 
+- 
+vertieftes 
+Wissen 
+über 
+Grundlagen 
+der 
+Pflegewissenschaft, 
+des 
+gesellschaftlich-institutionellen Rahmens des pflegerischen Handelns sowie 
+des normativ-institutionellen Systems der Versorgung anzuwenden und die 
+Weiterentwicklung der gesundheitlichen und pflegerischen Versorgung 
+dadurch maßgeblich mitzugestalten, 
+- 
+sich Forschungsgebiete der professionellen Pflege auf dem neuesten Stand 
+der 
+gesicherten 
+Erkenntnisse 
+erschließen 
+und 
+forschungsgestützte 
+Problemlösungen wie auch neue Technologien in das berufliche Handeln 
+übertragen 
+zu 
+können 
+sowie 
+berufsbezogene 
+Fort- 
+und 
+Weiterbildungsbedarfe zuerkennen, 
+- 
+sich kritisch-reflexiv und analytisch sowohl mit theoretischem als auch 
+praktischem Wissen auseinandersetzen und wissenschaftsbasiert innovative 
+Lösungsansätze zur Verbesserung im eigenen beruflichen Handlungsfeld 
+entwickeln und implementieren zu können und 
+- 
+an der Entwicklung von Qualitätsmanagementkonzepten, Leitlinien und 
+Expertenstandards mitzuwirken“ (PflBRefG 2017, § 5 Absatz 3). 
+ 
+Das Studienprogramm ist unterteilt in ein Grundlagenstudium Semester 1-3 mit 
+Fokus auf wissenschaftsmethodische Grundlagen und die Einführung in das 
+Studienprogramm. Ab dem 4. Studiensemester führen die Studieninhalte 
+Studierende an die Grundlagen der Methoden für einen Theorie-Praxis Transfer 
+heran. 
+Ein 
+grundlegendes 
+theoretisches, 
+wissenschaftstheoretisches 
+und 
+methodisches Verständnis ist Voraussetzung um entsprechende Leistungsangebote, 
+Programme, Konzepte etc. für die Praxis evidenzbasiert entwickeln, analysieren und 
+auf deren Ergebnis beurteilen zu können. 
+ 
+
+[Page 18]
+1/2020_01 
+ 
+ 
+ 
+18 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Es handelt sich um ein modulares Studienangebot mit wechselnden Lehrformaten 
+wie Seminare, seminaristischer Unterricht, Übungen, Kolloquien, Fallbesprechungen, 
+Journal Club und Exkursionen (Teilnahme an Kongressen und Tagungen, Besuch 
+von Best Practice Beispielen). Die Lehrformate sind auf den Modulinhalt und die zu 
+erreichenden 
+Lernziele 
+ausgerichtet. 
+Um 
+der 
+beruflichen 
+Belastung 
+entgegenzuwirken bzw. als flexibles Lehrangebot für beruflich Studierende findet 
+das Lehrangebot aufeinander abgestimmt als Präsenz- und als Onlineangebot statt. 
+Im Einvernehmen mit ausgewählten Einrichtungen lernen Studierende im Rahmen 
+von Exkursionen Best Practice Beispiele kennen und reflektieren diese auf deren 
+Gehalt für eine nachhaltige Pflegepraxis mit Bezug zu einer systematischen und 
+evidenzbasierten, 
+kontinuierlichen 
+und 
+emanzipatorischen 
+pflegeberuflichen 
+Kompetenzentwicklung (Frei 2006; Garbett & McCormack 2002). 
+ 
+Für Präsenzveranstaltungen findet die Lehre in geblockten Präsenzphasen statt. 
+Damit kann den Gegebenheiten der Dienstplan- und Urlaubsgestaltung im Beruf 
+entsprochen werden. Im Grundlagenstudium, Semester 1-3, wird die Lehre 
+vorwiegend als Präsenzveranstaltung angeboten, während mit Beginn des 4. 
+Studiensemesters das Onlineangebot zunimmt. Die Studierenden befinden sich an 
+verschiedenen Lern- und Praxisorten, mit der jeweiligen Erwartungshaltung an Lehre 
+und Prüfungen durch Studierende, Arbeitskolleg*innen und Arbeitgeber. Geplant 
+sind 25 Studierende pro Kohorte. Das ermöglicht eine enge Begleitung der 
+Studierenden bei der Entwicklung von Seminarthemen und Fragestellungen zu 
+schriftlichen Leistungsnachweisen wie Studien- und Hausarbeiten sowie eine enge 
+Abstimmung bei semesterbegleitenden Prüfungen. Auf diesem Wege wird neben 
+dem engen Austausch vor allem auch eine Entlastung der Studierenden für die 
+zusätzlichen erhöhten Anforderungen, die ein berufsbegleitendes Studium mit sich 
+bringen kann, angestrebt. Da es sich um ein neues Studienprogramm handelt und 
+bisher keine Erfahrungen zum Arbeitsaufwand der Studierenden bzw. ihr Erleben 
+dazu vorliegen, werden diese mit Studienbeginn kontinuierlich semsterbezogen 
+
+[Page 19]
+1/2020_01 
+ 
+ 
+ 
+19 
+systematisch evaluiert. Das eröffnet die Möglichkeit auf übermäßig empfundene 
+Belastungen durch Studierende entsprechend zu reagieren. 
+ 
+2.1.2 Studierbarkeit: 
+Die Studierenden absolvieren im Regelstudium zwischen zwei und drei 
+Modulen/Semester mit einem Umfang von fünf oder zehn ECTS. Der Workolad für 
+die Bachelorarbeit ist mit 15 ECTS festgelegt. Ein ECTS entspricht dabei einer 
+zeitlichen Belastung (Workload) für die Studierenden von 25 bis 30 Stunden. Mit 
+der Zunahme eines Lehr-Onlineangebotes ab dem vierten Studiensemester wird 
+den Studierenden mehr Flexibilität für die individuelle Gestaltung von Lernen und 
+für ihre gesonderten Bedürfnisse durch die berufliche Begleitsituation ermöglicht. 
+Zur besseren Orientierung und Planung für die Studierenden ist ein „idealtypischer 
+Studienverlauf“ für den Bachelorstudiengang Pflegewissenschaft erstellt (KU 2020). 
+Die einzelnen Module, deren Gewichtung, Umfang ECTS und jeweilige Prüfungsform 
+sind in der Prüfungsordnung für den Bachelorstudiengang Pflegewissenschaft vom 
+2020 (?) (s. Anlage 1) festgeschrieben. Die Verteilung der ECTS je Semester und 
+Modul ist aus dem Studienverlaufsplan ersichtlich. 
+Die Einschreibung für den Bachelorstudiengang für Studienanfänger erfolgt jeweils 
+im (Winter/Sommer?) semester. Damit ergeben sich für die (?) semester jeweils die 
+ungeraden Semesterlagen (Semester 1,3,5,7) und im (?) semester jeweils die 
+geraden Semesterlagen (Semester 2,4,6), einschließlich der dazugehörigen 
+Prüfungen. Das Angebot für Wiederholungsprüfungen ist nicht an das reguläre 
+Studienangebot gebunden, d.h.: Prüfungen können auch außerhalb des regulären 
+Angebots 
+nachgeholt 
+werden. 
+Studierende 
+können 
+auf 
+das 
+gesamte 
+Studienangebot im Winter- oder Sommersemester zugreifen. Sie erhalten dadurch 
+die Möglichkeit, entsprechend ihrer persönlichen Situation die regulär vorgegebene 
+Dauer der Studienzeit zu verkürzen. Dazu werden sie beratend durch das 
+Studienangebot geführt. Wahlangebote gibt es nicht. Laut Prüfungsordnung (in der 
+Fassung vom 28.04.2020) §11 (3) (s. Anlage) müssen mindestens 120 ECTS-Punkte 
+im Studium erworben sein für die Ausgabe des Themas der Bachelorarbeit. 
+ 
+
+[Page 20]
+1/2020_01 
+ 
+ 
+ 
+20 
+Aufgrund 
+der 
+internationalen 
+Ausrichtung 
+der 
+Pflegewissenschaft 
+sind 
+internationale, in der Regel englischsprachige Beiträge wie Veröffentlichungen, 
+Videodarstellungen 
+oder 
+auch 
+Präsentationen 
+durch 
+anderssprachige 
+Referent*innen Bestandteil der Lehre. Die Lehre wird in der deutschen Sprache 
+angeboten. Hausinterne Kursangebote wie Computerkurse zu verschiedenen 
+Textverarbeitungs-, Statistik- und Literaturverwaltungsprogrammen (Citavi, SPSS, 
+MaxQDA) durch das Rechenzentrum oder Kurse für die Nutzungs- und 
+Zugangsmöglichkeiten 
+und 
+die 
+Recherche 
+von 
+Literatur 
+durch 
+die 
+Universitätsbibliothek werden in die Lehrveranstaltungen nach Absprache mit den 
+anbietenden Einrichtungen einbezogen. Literatur, deren Beschaffung, Lesen und 
+wissenschaftliche Verwertung des Gelesenen nimmt einen großen Anteil im 
+gesamten Studium ein. Multifunktionsdrucker, Lehr- und Lernplattform „ILIAS“ für 
+ein interaktives Onlinelehr- und Kommunikationsgebot stehen Studierenden zur 
+Verfügung. 
+ 
+Da es sich bei Pflege und Gesundheit um ein gesellschaftlich relevantes Thema 
+handelt, wird die inhaltliche engere Zusammenarbeit z.B. über Kooperationen von 
+Lehrangeboten mit Bezugswissenschaften als wünschenswert betrachtet.2 Damit 
+wird nicht nur den formalen Anliegen des bayerischen Hochschulrechtes 
+entsprochen. Erfahrungen aus dem vorherigen Studiengang deuten darauf hin, dass 
+die Studierenden der Pflege aufgrund ihrer Blockpräsenzphasen und der beruflichen 
+Gebundenheit wenig Kontakt zu Studierenden anderer Disziplinen haben. Durch 
+eine Vernetzung mit anderen Fakultäten an der KU versprechen wir uns eine engere 
+Anbindung 
+an 
+das 
+Hochschulleben 
+sowie 
+vermehrten 
+Austausch 
+mit 
+Kommiliton*innen und Studierenden anderer Fakultäten. Der Mehrwert besteht im 
+Kontakt 
+mit 
+Studierenden 
+aus 
+anderen 
+Disziplinen 
+und 
+darin, 
+deren 
+ 
+ 
+2 Die Fakultäten sind auch hochschulübergreifend zur Zusammenarbeit verpflichtet, soweit dies im 
+Interesse der Interdisziplinarität von Forschung, Kunst und Lehre oder zur Abstimmung des 
+Lehrangebots und von Forschungsschwerpunkten geboten ist (Art. 27 Fakultät, Bayerisches 
+Hochschulgesetz vom 23.Mai 2006, Vollzitat nach RedR: Bayerisches Hochschulgesetz (BayHSchG) 
+vom 23. Mai 2006 (GVBl. S. 245, BayRS 2210-1-1-WK), das zuletzt durch § 1 Abs. 186 der 
+Verordnung vom 26. März 2019 (GVBl. S. 98) geändert worden ist). 
+
+[Page 21]
+1/2020_01 
+ 
+ 
+ 
+21 
+Studieninteressen und – inhalte kennen und verstehen zu lernen. Eine Steigerung 
+der Attraktivität für dieses Studienprogramm besteht in einer Vernetzung des 
+Lehrangebotes unterschiedlicher Fakultäten. Im Gespräch sind die Fakultät für 
+Geschichts- und Gesellschaftswissenschaft, hier insbesondere der Fachbereich der 
+Soziologie und deren Angebot einer Methodenwerkstatt für empirische 
+Sozialforschung, der Lehrstuhl für Moraltheologie an der Theologischen Fakultät für 
+das Modul Ethik und Anthropologie , der Lehrstuhl für Journalistik an der Sprach- 
+und Literatur- wissenschaftlichen Fakultät für das Modul wissenschaftliches Arbeiten 
+und hier explizit das Lesen, Schreiben und analysieren von Texten, der Fachbereich 
+für Pädagogik mit dem Fokus der Erwachsenenbildung und Didaktik an der Fakultät 
+für Philosophisch-Pädagogische und dem Zentrum für Migration. 
+ 
+Die inhaltliche Gestaltung des Modulhandbuches richtet sich an den Vorgaben des 
+Kerncurriculums Pflegewissenschaft für pflegebezogenen Studiengänge (Hülsken-
+Giesler 
+et 
+al. 
+2013) 
+aus. 
+Dieses 
+nimmt 
+bereits 
+beruflich 
+qualifizierte 
+Pflegefachpersonen in den Fokus, bildet das „fachwissenschaftlich für unverzichtbar 
+gehaltene pflegewissenschaftliche Grundwissen“ für einen Bachelorstudiengang 
+Pflegewissenschaft ab und „trägt zur wissenschaftlichen Begründung beruflichen 
+Pflegehandelns bei“ (Hülsken-Giesler et al. 2010: 219). Insbesondere die 
+Auswirkungen 
+auf 
+die 
+Versorgung 
+älterer 
+Menschen, 
+einhergehende 
+epidemiologische Veränderungen und eine vermehrte Chronifizierung von 
+beeinträchtigen Gesundheitssituationen führen zu neuen Herausforderungen und 
+Ansprüche an pflegerische Leistungen (Hülsken-Giesler et al. 2010, SVR 2001, SVR 
+2003, SVR 2007). Für dieses Studienprogramm hat das zur Konsequenz, die 
+Zugangsvoraussetzungen für berufliche qualifizierte Pflegende zu erweitern (siehe 
+B.2.). Gefordert sind eine stärkere berufsgruppenübergreifende Zusammenarbeit 
+und ein erweitertes „eigenes pflegerisches Leistungsangebot als unverwechselbarer 
+Beitrag einer professionalisierten Pflege für das Gesundheitssystem“ (Hülsken-
+Giesler et al. 2010:222). Der Studienteil ab dem 4. Studiensemester greift diese 
+Anforderungen auf, indem Studierende an die Grundlagen der Methoden für einen 
+Theorie-Praxis Transfer herangeführt werden. Hier wird ein grundlegendes 
+theoretisches, 
+wissenschaftstheoretisches 
+und 
+methodisches 
+Verständnis 
+
+[Page 22]
+1/2020_01 
+ 
+ 
+ 
+22 
+notwendig, um entsprechende Leistungsangebote, Programme, Konzepte etc. für 
+die Praxis entwickeln, analysieren und auf deren Ergebnis beurteilen zu können. 
+Pflegende lernen Systematik in ihr Handeln zu legen damit sie Ergebnisse vor einem 
+komplexen Hintergrund analysieren und in weitere Handlungen überführen können. 
+ 
+1.1.1 Grundlagenstudium: Semester 1-3 
+Das erhöhte Engagement in die Grundlagen von Techniken wissenschaftlicher 
+Arbeitsweisen, in methodologische Strömungen und Theoriebildung, deren 
+Gleichwertigkeit und Bedeutung für Pflegewissenschaft und Pflegeforschung und in 
+die methodischen Grundlagen von Wissenschaft und Forschung innerhalb der 
+ersten drei Studiensemester begründet sich aus den Erfahrungen aus dem 
+bisherigen Studienangebot betreffend die Zielgruppe (siehe B.2: Zielgruppe). 
+Erfahrungen aus dem vorherigen Studienprogramm deuten darauf hin, dass 
+wissenschaftliches Denken, Textverständnis, Arbeiten und Schreiben eine besondere 
+Herausforderung für die Mehrheit der Studierenden darstellt. Die Anforderungen 
+unterscheiden sich aufgrund einer aus der Praxis begründeten beruflichen 
+Sozialisation und Logik, da „Theorie und Praxis zwei Denk- und Handlungsmodelle 
+repräsentieren die in einem Spannungsverhältnis zueinander stehen“ (Brandenburg 
+2005: 30, Brandenburg 2009, Brandenburg 2013). Die Pflegepraxis folgt eigenen 
+Gesetzmäßigkeiten mit den Auswirkungen auf alle Formen von Kommunikation 
+(Sprechen, 
+Schreiben, 
+Lesen, 
+Alltagskommunikation). 
+Die 
+Techniken 
+wissenschaftlichen Arbeitens sowie ein wissenschaftlich entwickeltes Textverständnis 
+und die Kompetenz (Fähigkeit + Fertigkeit) Texte zu exzerpieren, diese mit eigenen 
+Worten wiederzugeben und eigene Texte zu verfassen sind grundlegend für das 
+gesamte weitere Studium und die weitere wissenschaftliche Qualifizierung sowie für 
+die 
+Vorbereitung 
+von 
+Konzepten, 
+Programmen, 
+Handlungsanleitungen, 
+Positionspapiere, etc. für die Praxis. Das Aneignen dieser Techniken stellt für 
+Studierende einen länger andauernden Lernprozess dar. 
+ 
+Nachfolgend wird die jeweilige Gesamtzielsetzung der einzelnen Module 
+beschrieben. Inhalte sollen den Beitrag verdeutlichen, wie Studierende als 
+Pflegefachpersonen befähigt werden, ihren Beruf entsprechend den gesetzlichen 
+
+[Page 23]
+1/2020_01 
+ 
+ 
+ 
+23 
+(Bundesministerium für Justiz und Verbraucherschutz 2003, Bundesministerium für 
+Bildung und Forschung 2011, KMK 2017) und ethischen Anforderungen des ICN 
+(Deutscher Pflegerat 2010) auszuüben und sich dabei auch persönlich weiter zu 
+entwickeln. 
+ 
+Modul 1: Theoretische Grundlagen pflegerischen Handelns in der Pflege 
+Ziel: Die Studierenden reflektieren die Auswirkung ihres Studiums auf ihre 
+pflegeberufliche Identität und verstehen sich als Angehörige eines sich 
+professionalisierenden 
+Berufsstandes 
+mit 
+einem 
+eigenen, 
+wissenschaftlich 
+begründeten, gesellschaftlichen Auftrag zur Gesunderhaltung der Bevölkerung. 
+ 
+Studierende werden an die Pflege als wissenschaftliche Disziplin herangeführt. 
+Die pflegerische Praxis bietet Phänomene und Ereignisse die Erklärung und 
+Verstehen bedürfen um entsprechend Handlungsalternativen zu entwickeln. Dieses 
+Modul befasst sich damit, den pflegerischen Beitrag in der Gesundheitsversorgung 
+herauszuarbeiten, diesen inhaltlich differenziert von den Beiträgen anderer 
+Berufsgruppen im Gesundheitswesen darzulegen und in diesem Sinne als 
+erforderlich für eine umfassende Gesundheitsversorgung zu begreifen. Studierende 
+werden in die theoretischen Grundlagen pflegerischen Handelns eingeführt, und 
+analysieren und beurteilen ausgewählte Theorien und Modelle von Gesundheit und 
+Pflege hinsichtlich ihrer Praxisrelevanz in unterschiedlichen pflegerischen 
+Tätigkeitsfeldern. Historisch und gesundheitspolitisch relevante Einflüsse auf die 
+Entwicklung der Pflege in Deutschland werden kritisch beleuchtet und sowohl im 
+nationalen wie im internationalen Kontext eingeordnet. 
+ 
+Modul 
+2: 
+Gesundheitspolitische, 
+ökonomische 
+und 
+rechtliche 
+Rahmenbedingungen für Pflege und Sozialsystem 
+Ziel: Studierende wissen um die wesentlichen Märkte, Prozesse, Finanzierungs- und 
+Informationsflüsse im Gesundheitswesen. Sie können diese auf bestehende 
+Institutionen übertragen und für Konzepte zur Vernetzung von gesundheitlicher 
+bzw. medizinischer Versorgung und Globalisierung in Medizin, Pflege und 
+Rehabilitation anwenden. 
+
+[Page 24]
+1/2020_01 
+ 
+ 
+ 
+24 
+ 
+Seit Jahrzenten lösen sich politische Reformvorhaben im Gesundheitswesen ab. 
+Während bisher fast ausschließlich die Belange einer medizinischen Versorgung die 
+Ausgestaltung der Reformvorhaben bestimmte, rückt, mit den zunehmend 
+spürbaren Auswirkungen eines Fachkräftemangels in den Pflegeberufen, die Pflege 
+vermehrt in das Zentrum von Reformbemühungen. Seit Januar 2020 sind im 
+Pflegeberufsgesetz § 4 pflegerische Aufgaben erstmals als vorbehaltene Tätigkeiten 
+festgeschrieben. Damit legt der Gesetzgeber einen gesetzlich geschützten 
+pflegespezifischen Verantwortungsbereich fest, welcher an die Bildung erworbener 
+Kompetenzen gebunden ist. Zusätzlich fördert er die berufliche Eigenständigkeit 
+durch Pflegekammmern als Organe berufsständischer Vertretung für Pflegende in 
+Deutschland auf Länder- und auf Bundesebene. Dieses Modul nimmt Aspekte der 
+Globalisierung im Gesundheitswesen (Politik, Finanzierung und Informationsflüsse) 
+in 
+den 
+Fokus 
+und 
+befasst 
+sich 
+mit 
+den 
+Auswirkungen 
+auf 
+die 
+Gesundheitsversorgung, Finanzierung und den Handlungsspielraum in den Settings 
+wo berufliche Pflege stattfindet und stellt diese in einen internationalen Vergleich. 
+ 
+Modul 3: Techniken für wissenschaftliches Arbeiten und Schreiben 
+Ziel: Studierende halten Qualitätskriterien und wissenschaftliche Ansprüche 
+wissenschaftlicher Arbeiten in Haus- und Seminararbeiten ein, analysieren Inhalte 
+wissenschaftlicher Veröffentlichungen und deren Relevanz für eigene Textentwürfe 
+kritisch. Sie verstehen „plagiieren“ als wissenschaftliches Fehlverhalten welches 
+Sanktionen nach sich zieht, und achten auf das Einhalten formaler und inhaltlicher 
+Standards in eigenen Textentwürfen, Hausarbeiten und Qualifikationsarbeiten. 
+ 
+Schlussfolgernd aus bisherigen Erfahrungen mit beruflich qualifizierten Pflegenden 
+als Fachhochschulabsolvent*innen stellt wissenschaftliches Textverständnis, Denken, 
+Arbeiten, Schreiben und deren Kommunikation eine besondere Herausforderung 
+für die Mehrheit der Studierenden dar. Die Anforderungen diesbezüglich 
+unterscheiden sich aufgrund einer aus der Praxis begründeten beruflichen 
+Sozialisation und Logik. „Theorie und Praxis repräsentieren zwei Denk- und 
+Handlungsmodelle die in einem Spannungsverhältnis zueinander stehen“ 
+
+[Page 25]
+1/2020_01 
+ 
+ 
+ 
+25 
+(Brandenburg 2005: 30, Brandenburg 2009, Brandenburg 2013). Die angestrebten 
+Lernziele sind grundlegend, sowohl für das gesamte Studium als auch für ein 
+wissenschaftlich entwickeltes Textverständnis. Bei der Fähigkeit wissenschaftliche 
+Texte nicht nur zu verfassen, sondern auch in praktischen und wissenschaftlichen 
+Gremien zu kommunizieren und zu präsentieren handelt es sich um ein Merkmal 
+dargestellter Professionalität. Das gilt insbesondere für die Vorbereitung von 
+Konzepten, Programmen, Handlungsanleitungen, Positionspapiere, etc. für einen 
+Theorie-Praxis Transfer. Das Aneignen der Techniken für wissenschaftliches Arbeiten 
+und Schreiben bedeutet für Studierende einen länger andauernder Lern- und 
+Übungsprozess. Kompetenzen können nicht durch Selbststudium erworben werden 
+und verlangen kontinuierlichen Austausch und Feedback mithilfe von Peergroup-
+Verfahren. Die Veranstaltung hat Übungscharakter. Damit beschriebene Lernziele 
+erreicht werden, besteht für die Teilnahme in diesem Modul Anwesenheitspflicht 
+(Studien- und Prüfungsordnung 2020 §8(6), Anlage 1). 
+ 
+Modul 4: Ethik und Anthropologie 
+Ziel: 
+Studierende 
+können 
+ethische 
+Entscheidungsfindungsmodelle 
+unter 
+Berücksichtigung grundlegender Prinzipien für die Fall- und Systemebene 
+anwenden, insbesondere für ethische Fallbesprechungen und für die Entwicklung 
+und Bedeutung ethischer Gremien in den Einrichtungen des Gesundheitswesens. 
+Bei moralischen Problemen und in ethischen Konfliktsituationen können 
+berufsrelevante 
+ethische 
+Standards, 
+Leitlinien 
+und 
+Handlungsanleitungen, 
+angemessen und unter Berücksichtigung der Komplexität des Einzelfalls zum Einsatz 
+gebracht werden. 
+ 
+Ethische 
+Fragestellungen 
+begleiten 
+und 
+prägen 
+pflegeberufliche 
+Handlungsentscheidungen im pflegerischen Alltag. Komplexe Pflege- und 
+Versorgungssituationen, die Vulnerabilität Betroffener durch Krankheit, Behinderung 
+und Alter, in ihrer Selbständigkeit beeinträchtigte Menschen und die Vielfalt 
+gesellschaftlicher Wertvorstellungen verlangen ethisch begründete Entscheidungen 
+durch Pflegende (Riedel et al. 2016). Die hochschulische Pflegeausbildung befähigt 
+Pflegende „zur Reflexion und Begründung des eigenen Handelns auf der Grundlage 
+
+[Page 26]
+1/2020_01 
+ 
+ 
+ 
+26 
+von wissenschaftlichen Erkenntnissen und berufsethischen Werthaltungen und 
+Einstellungen sowie Beteiligung an der Berufsentwicklung“ (BMFSFJ 2018, Anlage 
+5:1611). Dieses Modul beschäftigt sich mit den Dimensionen einer professionellen 
+Ethik der Pflege, den moralischen Problemen und ethischen Konfliktsituationen 
+insbesondere im konkreten Pflegehandeln und in pflegespezifischen Entscheidungs- 
+und Handlungssituationen anhand ethischer Fallbesprechungen und Analysen von 
+Praxisbeispielen. 
+ 
+Modul 5: Einführung in die Methoden der empirischen Sozialforschung 
+Ziel: Studierende verfügen über grundlegende Kenntnisse in der deskriptiven, der 
+schließenden Statistik und der standardisierten Datenerhebung (Beobachtung, 
+Befragung, Inhaltsanalyse), sowie über grundlegende Kenntnisse in der qualitativen 
+Forschung und den Methoden qualitativer Datenerhebung. Sie können die Schritte 
+des Forschungsprozesses und das wissenschaftliche Verständnis quantitativer 
+Methodik und qualitativer Methoden darlegen, und sind aufgeschlossen gegenüber 
+unterschiedlichen wissenschaftstheoretischen Positionen und betrachten diese als 
+gleichberechtigte Wege der Erkenntnis. 
+Pflegende sind in ihrem Praxisalltag ständig mit der „Auflistung numerischer Fakten“ 
+und darauf begründeten Managemententscheidungen, wie Personalbesetzungen 
+und Qualitätsaussagen konfrontiert. Die direkte Versorgung Betroffener ist 
+bestimmt durch deren Beeinträchtigungen und Behinderung im Alltag in Folge von 
+Krankheitsgeschehen oder gesundheitlichen Veränderungen. Die daraus resultieren 
+individuellen Bedarfslagen entstehen aus Phänomenen wie z.B. Belastungserleben, 
+persönliches 
+Leiden 
+und 
+Ängsten. 
+Es 
+werden 
+Hilfsangebote 
+und 
+Unterstützungsleistungen benötigt, die weit über ein Assistenzmedizinisches 
+hinausgehen. Erkenntnisse daraus beeinflussen maßgeblich die Qualität dieser 
+Angebote 
+und 
+letztendlich 
+die 
+objektive 
+und 
+subjektiv 
+empfundene 
+Versorgungsqualität. 
+Die Veranstaltung hat überwiegend 
+Übungscharakter mit Aufgaben zu 
+theoriegeleiteten Forschungsfragen, kritischer Reflexion zu Stärken und Schwächen 
+unterschiedlicher quantitativer und qualitativer Methoden der empirischen 
+Sozialforschung, Einführung und Anwendung deskriptiver Statistik, univariate und 
+
+[Page 27]
+1/2020_01 
+ 
+ 
+ 
+27 
+bivariate Datenanalysen, Häufigkeitsverteilungen und deren Darstellung sowie 
+Übungen zu qualitativen Methoden der Datenerhebung: Interview, Beobachtung, 
+Dokumentenanalyse und Datenanalyseverfahren. Die angestrebten Lernziele sind 
+grundlegend für die erfolgreiche Bewältigung im Praxismodul 1: Angewandte 
+Verfahren quantitativer Pflegeforschung und im Praxismodul 2: Angewandte 
+Verfahren qualitativer Pflegeforschung. Damit die beschriebenen Lernziele erreicht 
+werden, besteht für die Teilnahme in diesem Modul Anwesenheitspflicht (Studien- 
+und Prüfungsordnung 2020 §8(6), Anlage 1). 
+ 
+Modul 6: Einführung in Pflege- und Versorgungsforschung 
+Ziel: 
+Studierende 
+verfügen 
+über 
+ein 
+grundlegendes 
+Verständnis 
+zur 
+Versorgungsforschung als fachübergreifendes Forschungsgebiet, welches unter 
+besonderer Berücksichtigung der Patienten- und Populationsperspektive die 
+Verbesserung 
+von 
+Versorgungsstrukturen 
+und 
+–prozessen 
+in 
+der 
+Gesundheitsversorgung anstrebt. 
+ 
+„Versorgungsforschung untersucht die Umsetzung von Ergebnissen aus klinischer 
+Forschung in die Praxis der Gesundheitsversorgung hinsichtlich ihrer Wirkung auf 
+Qualität und Effizienz in individueller und sozioökonomischer Perspektive“ unter 
+besonderer Beachtung der Patienten- und Populationsperspektive (Neugebauer et 
+al 2007: 81). Unter wissenschaftlichen Gesichtspunkten wird Versorgungsforschung 
+als eine grundlagen- und problemorientierte, fachübergreifende Forschung 
+definiert. 
+Auf 
+Ergebnissen 
+aus 
+der 
+Versorgungsforschung 
+beruhen 
+Managemententscheidungen zur Implementierung von Versorgungsstrategien 
+sowie 
+Organisations- 
+und 
+Personalentwicklung 
+in 
+Einrichtungen 
+im 
+Gesundheitswesen. Der Gegenstand pflegerisch relevanter Forschungsschwerpunkte 
+sind Aspekte klinischer Pflegeforschung und zunehmend Aspekte pflegerischer 
+Versorgungsforschung wie Prävalenz und Inzidenz von Pflegephänomenen, 
+organisatorische 
+Rahmenbedingungen, 
+Fragen 
+zur 
+Patienten- 
+und 
+Bewohnersicherheit, Pflegepersonalausstattung und –(mindest-)besetzung, Skill-
+und Grademix, pflegesensitive Outcomeindikatoren pflegerischer Maßnahmen und 
+Interventionen etc. Dieses Modul befasst sich mit Aspekten und Konzepten von 
+
+[Page 28]
+1/2020_01 
+ 
+ 
+ 
+28 
+Versorgungsforschung in den unterschiedlichen pflegerischen Settings vor dem 
+Hintergrund der Diskussion um Gesundheitsförderung und Prävention, der 
+„Patientenorientierung“, der Stärkung der Patienten- und Betroffenenrechte (SVR 
+2001) sowie weiteren gesellschaftlichen Einflüssen. 
+ 
+M 7: Methode der Literaturrecherche 
+Ziel: Studierende verfügen über Orientierungswissen zu relevanten Datenbanken für 
+Sozial- und Gesundheitsberufe, deren unterschiedliche Suchoberfläche und können 
+Recherchetools und Suchfunktionen anwenden. Sie entwickeln eine dem 
+Gegenstand angemessene Suchstrategie, erstellen ein Suchprotokoll und bewerten 
+die formale und inhaltliche Qualität von Studien und deren wissenschaftliche 
+Aussagefähigkeit. 
+ 
+„Die Literaturrecherche ist eine notwendige Voraussetzung, um die relevanten 
+Veröffentlichungen ausfindig zu machen und damit das Lesen, Verstehen und 
+Verarbeiten zu ermöglichen“ (Simon 2018: 47). In diesem Modul lernen Studierende 
+die Methode(n) der Literaturrecherche, und deren Relevanz zur Evidenzbasierung 
+für wissenschaftlich begründetes Pflegehandeln. Übungsanteile im Seminar 
+verfolgen das Ziel Recherchetools, Suchfunktionen, Suchstrategien, kennen zu 
+lernen und zu üben. Weiterhin werden Studierende an, für die Pflege relevante, 
+Fachdatenbanken mit deren unterschiedlichen Suchoberflächen, erweiterten 
+Suchoptionen, spezifischen Strukturen und Syntax herangeführt. Übungsanteile 
+beinhalten englische Sprach- und Textarbeit aufgrund englischsprachiger 
+Suchoberflächen in Datenbanken und Wissenschaftssprache englischsprachiger 
+Studien- und Veröffentlichungen. Die Protokollierung der Rechercheergebnisse und 
+Möglichkeiten der Volltextbeschaffung sind ebenso Seminarinhalt wie die 
+Bewertung der Qualität von Veröffentlichungen. Damit beschriebene Lernziele 
+erreicht werden, besteht für die Teilnahme in diesem Modul Anwesenheitspflicht 
+(Studien- und Prüfungsordnung 2020 §8(6), Anlage 1). 
+ 
+ 
+ 
+
+[Page 29]
+1/2020_01 
+ 
+ 
+ 
+29 
+M 8: Praxismodul 1: Angewandte Verfahren quantitativer Pflegeforschung 
+Ziel: Studierende verstehen die Bedeutung statistischer Methoden für Pflege (-
+handeln) 
+indem 
+sie 
+kleinere, 
+angeleitete 
+Praxisforschung 
+zu 
+konkreten, 
+eingegrenzten pflegerelevanten Fragestellungen betreiben und die Ergebnisse im 
+Kontext der eignen Berufspraxis konkret verorten. 
+ 
+Anhand von aktuellen Beispielen aus der Pflegeforschung erlangen Studierende ein 
+grundlegendes 
+Verständnis 
+für 
+Fragestellungen 
+und 
+Ergebnissen 
+aus 
+standardisierter Forschung für die Pflegepraxis. Studierende wenden den 
+Forschungsprozess anhand eines Beispiels aus ihrer Praxis an und reflektieren 
+Aussagen und Praxisentscheidungen vor dem Hintergrund analysierter Daten. 
+ 
+M 9: Praxismodul 2: Angewandte Verfahren qualitativer Pflegeforschung 
+Ziel: Studierende verstehen die Bedeutung qualitativer Methoden für Pflege (-
+handeln) 
+indem 
+sie 
+kleinere, 
+angeleitete 
+Praxisforschung 
+zu 
+konkreten, 
+eingegrenzten pflegerelevanten Fragestellungen betreiben und die Ergebnisse im 
+Kontext der eignen Berufspraxis konkret verorten. 
+ 
+Anhand von aktuellen Beispielen aus der Pflegeforschung erlangen Studierende ein 
+grundlegendes Verständnis für Fragestellungen und Ergebnissen aus qualitativer 
+Forschung für die Pflegepraxis. Studierende wenden den Forschungsprozess anhand 
+eines Beispiels aus ihrer Praxis an und reflektieren wie ihr berufliches Verständnis 
+und pflegerisches Handeln dadurch beeinflusst wird. Sie erwerben ein 
+grundlegendes Verständnis von qualitativen Forschungsdesigns, Methoden der 
+Datenerfassung, deren Aufbereitung, Interpretation und Darstellung der Ergebnisse 
+und den Besonderheiten in der qualitativen Forschung im Gegensatz zur 
+quantitativen Forschung. 
+ 
+M 10: Beratung und Edukation durch Pflege 
+Ziel: Studierende verfügen über grundlegende Kenntnis zu relevanten Gesetzen und 
+Ansprüchen für pflegerisch relevanten Edukations- und Beratungsleistungen und 
+ordnen Beratungsbedarfe rechtlich ein. Sie differenzieren verschiedene theoretische 
+
+[Page 30]
+1/2020_01 
+ 
+ 
+ 
+30 
+Ansätze der Beratung, können diese voneinander abgrenzen und beispielhaft 
+darstellen. Sie erkennen verbale und nonverbale Strukturen von Kommunikation, 
+Störungen von Kommunikation und entwickeln Lösungsmöglichkeiten. Sie bewerten 
+bestehende Konzepte von Edukation und Beratung mit Hinblick auf deren 
+adressatenbezogenen Informationsgehalt und evidenzbasierter oder empirisch 
+gesicherter Erkenntnisse. 
+ 
+ 
+Laut Weltgesundheitsorganisation besteht die primäre Aufgabe der Pflege in der 
+Gesunderhaltung 
+durch 
+Prävention, 
+Beratung, 
+Edukation 
+und 
+Schulung, 
+hinzukommende Aspekte der Krankheitsbewältigung seien zweitrangig (WHO 
+1998). Beratung findet dort statt, wo Pflege stattfindet. Die Bedingungen sind 
+unterschiedlich und herausfordernd, manchmal nicht planbar; der Beratungserfolg 
+ist abhängig von der jeweiligen Kommunikations-und Beratungskompetenz 
+Pflegender. Anlässe entstehen entweder aus dem Bedürfnis nach Information, 
+Unterstützung und Hilfe und dem Wunsch durch Wissensvermittlung die 
+Handlungskompetenz verbunden mit Selbstwirksamkeit zu steigern, oder auch aus 
+der Notwendigkeit Auswirkungen komplexer gesundheitsbedingter Veränderungen 
+zu bewältigen. Beratungsleistungen bedingen eine professionelle Haltung von 
+Wertschätzung für sich und andere, Empathie, Offenheit und der Fähigkeit zur 
+Perspektivenübernahme. Fähigkeiten Teams und Gruppen zu führen kooperativ zu 
+handeln und interdisziplinär zu denken gelten als Voraussetzung, um komplexe 
+Problemlagen lösen zu können. Dieses Modul beinhaltet Kenntnisse zum Recht auf 
+Beratungsanspruch nach der Sozialgesetzgebung, Theorien von Kommunikation 
+und Interaktion und Modelle und Techniken der Gesprächsführung, Frage- und 
+Interviewtechniken sowie Aspekte der interkulturellen Kommunikation. Anhand von 
+Rollenspielen 
+und 
+Fallbeispielen 
+lernen 
+Studierende 
+ausgewählte 
+Gesprächsführungskonzepte auf konkrete Situationen im Pflegealltag zu übertragen 
+und deren Nutzen zu reflektieren. Sie erwerben kommunikative, methodische und 
+ethisch-reflexive 
+Kompetenzen. 
+Grundlagen 
+der 
+Wahrnehmungs- 
+und 
+Kommunikationspsychologie 
+sensibilisieren 
+Studierende 
+für 
+mögliche 
+Reaktionsmuster in Beratungssituationen die aus Prozessen der Konstruktion von 
+kultureller Identität und Differenz entstehen. Dieses Modul bereitet für die Module 
+
+[Page 31]
+1/2020_01 
+ 
+ 
+ 
+31 
+Didaktik und Pädagogik für Schulung, Beratung und Anleitung und Konzepte für 
+selbstgesteuertes Lernen vor. 
+ 
+M 11: Grundlagen der Didaktik und Pädagogik für Schulung, Beratung und 
+Anleitung 
+Ziel: Studierende erstellen Beratungs-, Schulungs- und Anleitungskonzepte unter 
+der Berücksichtigung pädagogischer Grundlagen und wenden diese im Rahmen von 
+Praxisanleitungen, in Kooperation mit Ausbildungseinrichtungen und edukativen 
+gesundheitsbezogenen Interventionsmaßnahmen praktisch an. 
+Die Inhalte in diesem Modul befassen sich mit pädagogischen und didaktischen 
+Grundlagen 
+der 
+Wahrnehmung 
+(Wahrnehmungstäuschungen, 
+Beurteilungstäuschungen 
+Beurteilungsverzerrungen, 
+Beurteilungsversagen), 
+Assessmen-instrumente zur Kompetenzentwicklung, Lern- und Arbeitstechniken, 
+wie Lernbiographien, Methoden des Lernens und der Kompetenzentwicklung, 
+Techniken der Darstellung und der Präsentation, Prüfungsrecht für Ausbildung und 
+Studium, Erstellen von Prüfungsprotollen. Das Modul dient der theoretischen 
+Vorbereitung für das Modul Konzepte für selbstgesteuertes Lernen 
+ 
+M 12: Diagnostik und Klassifikation komplexer Pflegebedarfe 
+Ziel: Studierende verstehen den pflegediagnostischen Prozess als zielgerichteten 
+Erkenntnisprozess pflegerisch relevanter Problemerfassung und besitzen ein 
+integriertes Verständnis pflegewissenschaftlichen Erkennens, der Begriffsbildung 
+und des begründeten Handelns (Hülsken-Giesler et al. 2010:25). Sie erkennen 
+Ausmaß und Umfang pflegerelevanter Problemstellungen als grundlegend für 
+pflegerische 
+Leistungserfassung 
+und 
+Leistungsdarstellung, 
+entwickeln 
+ein 
+Bewusstsein für die Risiken und Folgen ihres Handelns und übernehmen dafür 
+Verantwortung. 
+ 
+Die 
+hochschulische 
+Pflegeausbildung 
+vermittelt 
+Kompetenzen 
+für 
+die 
+„wissenschaftsbasierte Planung, Organisation, Gestaltung, Durchführung, Steuerung 
+und Evaluation von hochkomplexen Pflegeprozessen bei Menschen aller 
+Altersstufen“ 
+und 
+legt 
+die 
+Grundlage 
+für 
+einen 
+eigenverantwortlichen 
+
+[Page 32]
+1/2020_01 
+ 
+ 
+ 
+32 
+Tätigkeitsbereich fest (PflAPrV) 2018 §35 Absatz 2, §36 Absatz 1, §37Absatz 1). 
+Während Pflege „die erfolgreiche Bewältigung des Alltags im Rahmen des 
+Krankheits- und Gesundungsprozesses in den Mittelpunkt stellt, verfolgt die 
+Medizin andere Ziele indem sie Krankheit, deren Heilung bzw. Linderung“ betrachtet 
+(Schrems 2003:27). Diagnostizieren gilt als pflegerische Kernkompetenz. Laut 
+Schrems (2003:13, 2018) handelt es sich beim Diagnostizieren um einen 
+„zielgerichteten Erkenntnisprozess pflegerisch relevanter Problemerfassung“ welcher 
+der Erschließung, im weiteren Sinne der Erklärung und dem Verstehen von 
+Phänomenen (Schrems 2003:33, 2018) dient. Erkenntnisse aus pflegerischer 
+Diagnostik 
+gelten 
+als 
+grundlegend 
+für 
+die 
+Entwicklung 
+eines 
+gegenstandsbezogenen Wissenskorpus der Disziplin Pflege. Beim Diagnostizieren 
+handelt es sich um ein induktives Vorgehen, indem Pflegende Informationen aus 
+unterschiedlichen Quellen erfassen, diese ordnen um zu einer Beurteilung im Sinne 
+einer Diagnose zu kommen. Es beinhaltet das induktive Herausarbeiten von 
+pflegespezifischen Problemstellungen, der Bildung von Fragen und Hypothesen 
+bezgl. Anlässen und Ursachen, sowie von Prognosen über mögliche Folgen für das 
+häusliche, 
+familiäre 
+oder 
+auch 
+das 
+soziale 
+Umfeld. 
+Ziel 
+ist 
+es 
+z.B.: 
+Belastungssituationen, die für Beteiligte entstehen und die Risiken weiterer 
+gesundheitlicher Beeinträchtigungen frühzeitig zu erkennen, aus der individuellen 
+Situation zu begründen und wissenschaftlich fundierte Handlungsempfehlungen zu 
+geben. Pflege legt hier den Fokus auf erforderliche Fähigkeiten und Fertigkeiten 
+Betroffener, um auf ändernde Gesundheitssituationen regulierend einwirken zu 
+können. 
+ 
+M 13: Migration und Kultursensibilität Pflege 
+Ziel: Studierende verfügen über Kenntnisse zu kultursensiblen Perspektiven der 
+Pflegewissenschaft und ein Verständnis für kontextgebundenes professionelles 
+pflegerisches Handeln in kultursensiblen Belangen und in Belangen von Migration. 
+Sie sind sensibel für Betroffene und ihre Familien in besonderen Lebenslagen und 
+integrieren interkulturelle Aspekte von Diversity in professionelles Handeln. 
+ 
+
+[Page 33]
+1/2020_01 
+ 
+ 
+ 
+33 
+Aufgrund anderer Lebensumstände kann angenommen werden, dass sich ein 
+Migrationshintergrund auf die gesundheitliche Lage und langfristig auf die 
+Pflegebedürftigkeit auswirkt (Kohls 2015). Das betrifft u.a. ins Rentenalter 
+kommende Arbeitsmigranten aus den 1950iger und 1960iger Jahren aus z.B. Türkei, 
+Italien, Griechenland, Russland; die Unterjüngung aufgrund der demographischen 
+Entwicklung mit einem Fachkräftemangel und einer zunehmenden Initiative 
+Pflegefachpersonen aus dem Ausland anzuwerben sowie Flüchtlingsbewegungen 
+mit besonderen gesundheitlichen Risiken mit daraus resultierenden besonderen 
+Bedarfen für gesundheitliche Versorgung und Betreuung. Dieses Modul beinhaltet 
+Ursachen, Formen und Folgen veränderter Migrationsbewegung durch freiwillige 
+oder 
+unfreiwillige 
+Migration 
+und 
+den 
+gesundheitlichen 
+Auswirkungen, 
+(pflege)wissenschaftliche Theorien und Modelle von Kultursensibilität und 
+Migration, den Besonderheiten kultureller Einflüsse im Pflegeprozess und auf 
+pflegerische Versorgungskonzepte einschließlich interkulturellen Besonderheiten 
+wie Barrieren abbauen, Teilhabe sichern, Betroffenenperspektive einbringen, 
+Diversität und Gleichbehandlung. 
+ 
+M 14: Digitalisierung und Technisierung in der Pflege 
+Ziel: Studierende verfügen über grundlegende Kenntnis zum aktuellen Diskurs e-
+Health 
+und 
+Technisierung 
+im 
+Gesundheitswesen 
+für 
+die 
+Versorgung 
+Pflegebedürftiger in den verschiedenen pflegerischen Settings und sind befähigt, 
+Werte wie Humanität, Partizipation und Schutz von persönlichen Daten sowie 
+rechtlichen und ethischen Belangen in ihrer beruflichen Praxis Geltung zu 
+verschaffen. 
+ 
+Der 
+Einfluss 
+der 
+fortschreitenden 
+Entwicklung 
+digitaler 
+Technik 
+auf 
+personenbezogene Dienstleistungen in stationären, teilstationären und ambulanten 
+Settings der Pflege weisen aufgrund der Bedeutung der sozialen Interaktion und 
+zwischenmenschlichen 
+Fürsorgearbeit 
+zwischen 
+Pflegefachperson 
+und 
+Pflegebedürftigen noch ein geringeres Digitalisierungspotenzial auf (Daum 2017). 
+Und doch durchdringen Informations- und Kommunikationstechnologien, der 
+Einsatz von Pflegerobotern (Robotertechnologie) das deutsche Gesundheitswesen 
+
+[Page 34]
+1/2020_01 
+ 
+ 
+ 
+34 
+und damit die Pflegearbeit zunehmend. Verbunden damit ist die Vorstellung, die 
+Versorgungsqualität bei dem zunehmenden Mangel an Fachpersonen zu erhalten 
+oder zu verbessern. Aktuell finden vor allem IT-gestützte Dokumentationssysteme 
+und mobile Endgeräte Anwendung in der Praxis. Doch Auswirkungen von 
+Digitalisierung und Technisierung betreffen zunehmend den Einsatz von modernen 
+und vernetzten Informations- und Kommunikationstechnologien, intelligenter und 
+verbundener Robotik und Technik und vernetzten Hilfs- und Monitoringsystemen. 
+In diesem Modul werden Studierende an die aktuelle Diskussion von BigData, E-
+Health, den elektronischen Transfer von Patientendaten und prognostizierten 
+möglichen Einflüssen auf die Pflegearbeit, den beruflichen Alltag und die Ergebnisse 
+für die Patientenversorgung herangeführt. Digitalisierung und Technisierung 
+werden als Lösungsansätze für aktuelle Herausforderungen, die sich aus 
+ansteigenden Zahlen von Pflegebedürftigen und gleichzeitigem Mangel an 
+Fachpersonen diskutiert und kritisch reflektiert. 
+ 
+M 15: Grundlagen von Wissenszirkulation und Praxisforschung 
+Ziel: Studierende verstehen die theoretische Durchdringung praktischen Handelns 
+als elementar für Effektivität einer am Pflegebedarf orientierten Versorgung und 
+verfügen 
+über 
+grundlegende 
+Kenntnis 
+zur 
+methodischen 
+Relevanz 
+der 
+Wissenszirkulation für eine Vernetzung von Theorie und Praxis. Sie können 
+Merkmale gegenseitiger Abhängigkeiten zwischen Wissen und Handeln reflektieren 
+und ihr berufliches Handeln theoretisch fundiert und reflektiert evaluieren. 
+ 
+Die Verbesserung der Pflege(-qualität) befasst sich mit der Frage, wie Erkenntnisse, 
+berufliche Standards und Konzepte, die sich auf evidenzbasiertes Wissen stützen in 
+die Praxis gelangen und dort „rezipiert, angeeignet und intentionsgemäß“ 
+angewendet werden (Schaeffer 2006: 1; Roes, de Jong, Wulff 2013). Die Prinzipien 
+einer personenzentrierten Praxis, mit deren Analyse und Problemlösungsstrategien 
+rücken in den Vordergrund. Dieses Modul führt Studierende in die theoretischen 
+Grundlagen von Implementierung- und Evaluationsforschung ein. Die Inhalte 
+betreffen Methoden und Modelle für den Theorie-Praxis Transfer, Prinzipien von 
+Wissenszirkulation, 
+Wissensformen 
+als 
+Grundlage 
+für 
+pflegerische 
+
+[Page 35]
+1/2020_01 
+ 
+ 
+ 
+35 
+Entscheidungsfindung und weitere Wege und Möglichkeiten, wie neues Wissen 
+konkret in der täglichen Arbeit genutzt werden kann (Brandenburg 2009). 
+Entwicklungen, wie z.B. die Nationalen Expertenstandards (DNQP) und Methoden 
+der Aktionsforschung als Interaktion zwischen Evidence, Erfahrung und 
+Fallorientierung werden auf ihre Praxistauglichkeit analysiert. 
+ 
+M 16: Organisation- und Praxisentwicklung in pflegerischen Settings 
+Ziel: die Studierenden besitzen ein Verständnis für handlungsspezifische 
+Problemstellungen 
+die 
+als 
+Schlüsselprobleme 
+wissenschaftsorientiert 
+d.h. 
+systematisch methodisch geleitet bearbeiten werden. Sie können pflegerische 
+pflegerelevante Problemstellungen analysieren, beschreiben und bewerten sowie 
+Aspekte der Handlungsfolgen und der fachspezifischen und institutionsgebundenen 
+Sicherung von Qualität und Nachhaltigkeit berücksichtigen. 
+ 
+Transformation entsteht durch die Einführung und Umsetzung wissenschaftlicher 
+Ergebnisse in die Praxis und verursacht Veränderungsprozesse, die unter dem 
+Begriff des Change-Management zusammengefasst werden. Laut Garbett und 
+McCormack (2002), handelt es sich um eine Form der Praxis- und 
+Organisationsentwicklung 
+als 
+einen 
+„kontinuierlichen 
+Prozess, 
+der 
+auf 
+Effektivitätssteigerung in der patientenzentrierten Versorgung abzielt“ (Garbett & 
+McCormack 2002: 88, Garbett & McCormack 2009). Ein Kernanliegen besteht darin, 
+Gesundheitsteams im Rahmen einer sich verändernden Organisationskultur zu 
+befähigen, ihre Kenntnisse und Fähigkeiten zu entwickeln, um Kultur und Kontext 
+der Versorgung zu verändern (Garbett & McCormack 2002). Dieses Modul vermittelt 
+Studierenden Aspekte von Organisationen und Veränderungsprozessen durch 
+Wissenstransfer und mögliche Auswirkungen auf Skill-und Grademix für deren 
+Umsetzung. Vertiefend erhalten Studierende Kenntnisse über Methoden von 
+Arbeitsfeld- und Prozessanalysen, Fall- und Prozesssteuerung, Projektmanagement, 
+Implementierungsmodelle z.B. Mehrebenenmodelle, wie Promoting Action on 
+Research Implementation in Health Services (PARISH), Modelle von Evidence Based 
+Nursing (EBN), Best Practice und Evaluation. 
+ 
+
+[Page 36]
+1/2020_01 
+ 
+ 
+ 
+36 
+M 17: Konzepte für selbstgesteuertes Lernen 
+Ziel: Studierende verfügen über ein differenziertes Verständnis von praktischen 
+Anleitungen und Schulungsmaßnahmen bei Pflegebedürftigen, Angehörigen und 
+Lernenden 
+und 
+wenden 
+Methoden 
+der 
+Kompetenzerfassung, 
+der 
+Kompetenzförderung und Lernmethoden für die Gestaltung von Lernsituationen an. 
+Studierende werden befähigt, Lernangebote bedarfsgerecht unter Berücksichtigung 
+persönlicher Lehr-Lernprozesse zu erstellen und anzuwenden. 
+ 
+Die Modulinhalte beinhalten Methoden der Anleitung, Besonderheiten des Lernens 
+in der Praxis und während der Ausbildung, Methoden und Instrumente für die Vor- 
+und Nachbereitung von Lehr- und Lernsituationen, Besonderheiten der 
+Kompetenzförderung 
+und 
+–Entwicklung 
+mit 
+kognitiv 
+und 
+somatisch 
+beeinträchtigten Personengruppen und Besonderheiten der Kompetenzförderung 
+bei Menschen min unterschiedlichen Alters- und Entwicklungsstufen. Gemeinsam 
+mit dem Modul didaktische und pädagogische Grundlagen für Schulung, Beratung 
+und Anleitung bereiten die Modulinhalte für die Qualifizierung als Praxisanleitung, 
+entsprechend den Richtlinien der Deutschen Krankenhausgesellschaft (DKG), vor. 
+ 
+M 18: Bachelorarbeit 
+Ziel: Studierende erstellen selbstständig eine wissenschaftliche Arbeit zu einem 
+aktuellen, pflegewissenschaftlich relevanten Thema. 
+ 
+Das Kolloquium ermöglicht Studierenden den Gedankenaustausch im Sinne eines 
+wissenschaftlichen 
+Gesprächs 
+zwischen 
+Hochschullehrer*innen 
+und 
+Studienkommiliton*innen während der Entwicklung ihrer wissenschaftlichen 
+Qualifikationsarbeit und führt sie durch den Prozess des Erstellens einer 
+Bachelorarbeit. Die Studierenden legen ihre Ergebnisse in Form einer 
+wissenschaftlichen Arbeit als Bachelorarbeit vor. Das Kolloquium dient auch der 
+Verteidigung der Bachelorarbeit. 
+
+[Page 37]
+1/2020_01 
+ 
+ 
+ 
+37 
+2.2. 
+Pflichtbereich 
+Alle angebotenen Module müssen erfolgreich, also mindestens mit ausreichend 
+bewertetem Leistungsnachweis bis zur Ausgabe des Bachelorthemas abgeschlossen 
+sein (Studien- und Prüfungsordnung vom März 2020). 
+ 
+2.3. 
+Wahlpflichtbereich 
+kein Wahl- und Pflichtangebot 
+ 
+2.4. 
+Wahlbereich 
+Kein zusätzlicher Wahlbereich 
+ 
+2.5. 
+Studium.Pro 
+ 
+2.6. 
+Praxisbezug 
+Der Bezug zu pflegepraktischem Handeln und der Pflegepraxis in diesem 
+angewandten Studienprogramm ist in mehrerlei Hinsicht hergestellt. In den 
+Praxismodulen 1 und 2, angewandte Verfahren quantitativer und qualitativer 
+Forschung, theoretisieren Studierende praxisrelevante Fragestellungen aus ihrem 
+beruflichen Alltag und legen die pflegewissenschaftliche und die pflegepraktische 
+Relevanz dar. Sie lernen wie Forschungsanliegen für die Praxis vor- und nachbereitet 
+werden und welche betriebsrelevanten, organisatorischen, und ethischen 
+Grundsätze für die Forschung mit vulnerablen Gruppen zu berücksichtigen sind. 
+Damit greifen diese beiden Module gezielt die in den ersten Semestern vermittelten 
+theoretischen und methodischen Grundlagen für wissenschaftliches Arbeiten, 
+Schreiben und die Grundlagen der empirischen Forschung auf (siehe Punkt. 2.1 
+Grundsätzlicher Aufbau des Studiengangs:18). 
+ 
+Im weiteren Studienverlauf werden konsequent Themen für bestimmte 
+Forschungsgebiete aus der Praxis rekonstruiert, reflektiert und auf deren 
+
+[Page 38]
+1/2020_01 
+ 
+ 
+ 
+38 
+Nachhaltigkeit bzgl. der Ergebnisqualität für die Patientenversorgung analysiert. In 
+den Modulen Grundlagen von Wissenstransfer und Praxisforschung und 
+Organisations- und Praxisentwicklung in pflegerischen Settings wenden Studierende 
+die Prinzipien einer personenzentrierten Praxis an und diskutieren evidence basierte 
+Problemlösungsstrategien. Unter Berücksichtigung von alltagspraktischem Wissen 
+werden verinnerlichte professionelle Denkmuster und Werthaltungen aus der Praxis 
+kritisch analysiert und mit Hinblick auf angepasste Implementierungsstrategien und 
+der beruflichen Rolle akademisch qualifizierter Pflegender reflektiert (Eberhardt 
+2017a). 
+ 
+2.7. 
+Ausgestaltung der Internationalisierung 
+Vorstellbar sind im Rahmen des Studiums mehrwöchige Praxisaufenthalte und/oder 
+Hospitationen sowohl im deutschsprachigen Raum (Österreich und Schweiz), im 
+englischsprachigen Raum (Großbritannien bevorzugt Schottland und Irland), und im 
+Gesundheitswesen in den skandinavischen Ländern. Aufgeführte Länder vertreten 
+in ihren Health Policy Agreements ein intensives Engagement für die Belange einer 
+Patienten- 
+und 
+Familienorientierung 
+mit 
+den 
+darauf 
+ausgerichteten 
+Praxisentwicklungsstrategien in Einrichtungen des Gesundheitswesens (Shannon & 
+McCormack 2014). Da es sich um ein berufsbegleitendes Angebot handelt, werden 
+Auslandsaufenthalte auf Wunsch unterstützt. Als Regelangebot für dieses 
+Studienprogramm sind Auslandsaufenthalte nicht Inhalt der aktuellen Konzeption. 
+Zukünftige 
+Anstrengungen 
+sind 
+abhängig 
+vom 
+Interesse 
+an 
+diesem 
+Studienprogramm. Aktuell gibt es mit dem International Office keine 
+Vereinbarungen mit Partneruniversitäten und-Einrichtungen für studentische 
+Auslandsaufenthalte im Studiengang Pflegewissenschaft. 
+ 
+
+[Page 39]
+1/2020_01 
+ 
+ 
+ 
+39 
+3. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des 
+Leitbilds für Studium und Lehre 
+ 
+Bereits 2014 formuliert die Katholische Universität Eichstätt-Ingolstadt in ihrem 
+Entwicklungsplan 
+den 
+Wunsch 
+für 
+einen 
+weiteren 
+Bachelorstudiengang 
+Pflegewissenschaft zusammen mit den bereits bestehenden Bachelorstudiengängen 
+der Sozialen Arbeit und Bildung und Erziehung in der Kindheit (BEK). Begründet 
+wird das mit der demographischen Entwicklung und der zu erwarteten steigenden 
+Nachfrage nach Gesundheitsberufen. Ebenso führen Regularien in der EU zu einer 
+zunehmenden Akademisierung der Gesundheitsberufe auch in Deutschland. 
+(Entwicklungsplan KU 2014: 41/42). Gewünscht ist das Einrichten von Teilzeit- und 
+Vollzeitstudiengängen für bereits examinierte Pflegefachpersonen. Zum damaligen 
+Zeitpunkt gab es noch keine Vereinbarungen hierzulande, primärqualifizierende 
+Studiengänge unter alleiniger Verantwortung der Hochschulen/Universitäten für 
+Deutschland anzubieten. Seit Januar 2020 ist das möglich, allerdings sind spezifische 
+Regularien aufwändig und kompliziert in der Umsetzung. Das betrifft hauptsächlich 
+die notwendigen Kooperationen mit den Praxiseinrichtungen, um den Umfang an 
+2300 h für verpflichtender Praxisstunden, parallel und abgestimmt auf die 
+Studieninhalte umzusetzen. 
+Mit dem berufsbegleitenden Studienangebot Pflegewissenschaft möchten wir dem 
+Wunsch, Pflegestudiengänge an der KU einzurichten weiterhin nachkommen. Auch 
+erwarten wir eine Anhebung der Studierendenzahlen für dieses Studienprogramm, 
+da die Nachfrage durch examinierte Pflegefachpersonen für einen Studiengang zur 
+akademischen Qualifizierung in der direkten Patienten- bzw. Bewohnerversorgung 
+zugenommen hat und weiter steigt. 
+ 
+Alle Studiengänge der Fakultäten für angewandte Wissenschaften sind auf die 
+Arbeit für das Wohl der Menschen, für den Einsatz in Sozial-, Pflege-, Bildungs- und 
+Erziehungseinrichtungen bzw. auf die Ausbildung für die Tätigkeitsfelder der 
+kirchlichen Seelsorge und Bildungsarbeit ausgerichtet - sie dienen damit der 
+Sendung der Kirche. Mit ihrem helfenden Dienst am Mitmenschen kommen die 
+
+[Page 40]
+1/2020_01 
+ 
+ 
+ 
+40 
+kirchlichen Wohlfahrtsverbände und Träger sozialer Einrichtungen ihrem pastoralen 
+Auftrag nach. Die akademische Ausbildung von professionellen Pflegepersonen 
+lässt sich theologisch aus dem Verkündungsauftrag der Kirche ableiten. Dem 
+entspricht die vom kirchlichen Träger vorgetragene Bitte, an der Fakultät für Soziale 
+Arbeit der KU einen Studiengang Pflegewissenschaft einzurichten (Beschluss des 
+Stiftungsrats, Reinhard Kardinal Marx am 30.03.2012). Das Aufgabenspektrum von 
+professionell 
+Pflegenden 
+umfasst 
+mehr 
+als 
+die 
+Übernahme 
+von 
+Alltagsverrichtungen. Vielmehr stehen sie, als Ansprechpartner in nächster Nähe 
+den Betroffenen und Angehörigen bei, existenzielle Grenzerfahrungen zu 
+verarbeiten, denen sie zudem selbst regelmäßig ausgesetzt sind. Diese enorme und 
+außergewöhnliche Belastung erfordert eine kontinuierliche Selbstreflexion und die 
+Beherrschung von Strategien zu deren Bewältigung, bei denen Religion und Glaube 
+eine hohe Bedeutung besitzen (KU 2012). 
+ 
+ 
+ 
+
+[Page 41]
+1/2020_01 
+ 
+ 
+ 
+41 
+Literaturnachweis 
+ 
+Aiken, L.; Sloane, D.; Griffiths, P.; Rafferty, A.; Bruyneel, L.; McHugh, M.; Maier, C.; 
+Moreno-Casbas, T.; Ball, J.; Ausserhofer,; D.; Sermeus, W. (2017): Nursing skill mix 
+in European hospitals: cross-sectional study oft he assocation with mortality 
+patient ratings, and quality of care. In: BMJ Qual Saf. Vol. 26: 559-568. 
+http://qualitysafety.bmj.com/content/qhc/26/7/559.full.pdf (20.04.2020). 
+ 
+Akkreditierungsrat Stiftung (2018) Anerkennung und Anrechnung 
+https://www.akkreditierungsrat.de/de/faq/thema/08-anerkennung-und-
+anrechnung. Eingesehen am 02.12.2019. 
+ 
+Bundesministeriums für Familie, Senioren, Frauen und Jugend und des 
+Bundesministeriums für Gesundheit (BMFSFJ) (2018): Ausbildungs- und 
+Prüfungsverordnung für die Pflegeberufe -Prüfungsverordnung (PflAPrV). 
+https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Ge
+setze_und_Verordnungen/GuV/A/Ausbildungs-
+_und_Pruefungs_Verordnung_Pflegeberufe_final.pdf. Eingesehen am 24.09.2019. 
+Bayerische Staatskanzlei (2006): Bayerisches Hochschulgesetz. Studiengänge, 
+Sonstige Studien. https://www.gesetze-bayern.de/Content/Document/BayHSchG-
+56?AspxAutoDetectCookieSupport=1. Gültig ab: 01.05.2019, Fassung vom 
+23.05.2006. eingesehen am 23.12.2019. 
+Bayerisches Staatsministerium für Wissenschaft und Kunst (STMWK) (2011): 
+Flexibles Berufsangebot für berufliche Studierende 
+https://www.stmwk.bayern.de/studenten/wissenschaftspolitik/oeffnung-der-
+hochschulen.html). Eingesehen am 31.03.2020. 
+BKK Dachverband (2020): Kommunale pflegerische Versorgungszentren (KpVZ) für 
+eine bedarfsgerechte gesundheitliche Versorgung. Impuls des BKK 
+Dachverbands.https://www.bkk-
+
+[Page 42]
+1/2020_01 
+ 
+ 
+ 
+42 
+dachverband.de/fileadmin/user_upload/Kommunale_pflegerische_Versorgungszentr
+en__KpVZ___002_.pdf. Eingesehen am 06.02.2020. 
+Boguth, K.; Hohdorf, M., Eisert J., Göllner E. (2013) Das fallorientierte Pflegesystem 
+am Klinikum Ingolstadt. Erweiterte Kompetenzen. Pflegezeitschrift. Vol.66(3). 
+S.170-174. 
+Böggemann M., Kühme B., Schöninger U. (2019) Das Praxiscurriculum im 
+Studiengang Pflege dual – Das Osnabrücker Modell: Spagat zwischen Anspruch 
+und Alltag. PADUA. Vol.14(1): 21-27. 
+Brandenburg H. (2005) Zwei Seiten einer Medaille. Der Theorie/Praxis-Transfer in 
+der Pflege – Mythen und gangbare Wege. Nightingale. Vol.3 (2): 29-38. 
+Brandenburg H. (2009) Wie gelangt neues Wissen in die Praxis der Pflege? 
+PrInternet. Vol.5: 464-471. 
+Brandenburg H. (2013) Pflegewissenschaft zwischen Theorie und Praxis. In: 
+Brandenburg H., Panfil EM., Mayer H. (Hrsg.) Pflegewissenschaft 2. Lehr- und 
+Arbeitsbuch zur Einführung in die Methoden der Pflegeforschung. 2. vollständige 
+überarbeitete Auflage. 313-333. 
+Bundesanzeiger Verlag (2017): Gesetz zur Reform der Pflegeberufe. 
+Pflegeberufereformgesetz (PflBRefG) (2017). Bundesgesetzblatt Teil 1, Nr. 49 vom 
+24.07.2017. URL: 
+https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bg
+bl117s2581.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl117s2581.p
+df%27%5D__1559047200628. Eingesehen am 28.05.2019. 
+Darmann-Finck, I. (2016): Aufgabenfelder hochschulisch ausgebildeter Pflegender. 
+Erstausbildung an der Hochschule. Pflegezeitschrift. Vol.69 (6): 362-365. 
+Daum Mario (2017) Digitalisierung und Technisierung der Pflege in Deutschland. 
+Aktuelle Trends und ihre Folgewirkungen auf Arbeitsorganisation, Beschäftigung 
+
+[Page 43]
+1/2020_01 
+ 
+ 
+ 
+43 
+und Qualifizierung. Deutsche Angestellten Akademie (DAA) -Stiftung Bildung und 
+Beruf (Hrsg.). URL: https://www.daa-
+stiftung.de/fileadmin/user_upload/digitalisierung_und_technisierung_der_pflege_2.p
+df. Eingesehen am 13.01.2019. 
+Deutscher Berufsverband für Pflegeberufe (DBFK) (2016) Position des DBfK zum 
+Einsatz von primärqualifizierten Bachelor of Nursing in der Pflegepraxis. 
+https://www.dbfk.de/de/veroeffentlichungen/Positionspapiere.php. Eingesehen 
+06.02.2020. 
+Deutsches Netzwerk für Qualitätsentwicklung in der Pflege (DNQP). 
+Expertenstandards und Auditinstrumente. Hochschule Osnabrück (Hrsg.) URL: 
+https://www.dnqp.de/de/expertenstandards-und-auditinstrumente/. Eingesehen 
+am 24.03.2020. 
+DPR, Deutscher Pflegerat; DGP, Deutsche Gesellschaft für Pflegewissenschaft 
+(2014): Arbeitsfelder akademisch ausgebildeter Pflegefachpersonen. 
+http://www.deutscher-pflegerat.de/Fachinformationen/2015-04-17-DGP-
+Papier_final.pdf. Eingesehen am 15.08.2015. 
+Drube I. (2018) Von der Idee zur Realität. Die Integration akademisch 
+ausgebildeter Pflegekräfte in die direkte Patientenversorgung. KU 
+Gesundheitsmanagement 8:41-44. 
+Eberhardt D. (2017) Praxisentwicklung als strategischer Rahmen für die 
+Implementierung akademischer Pflegerollen. Klinische Pflegeforschung Vol.3:15-
+27. 
+Eberhardt D. (2017a) Integration akademischer Berufsrollen in die Pflegepraxis. 
+Eine empirische Untersuchung aus praxeologischer Perspektive. Dissertation zur 
+Erlangung des akademischen Grades Doktor rerum medicarum für das Fachgebiet 
+Gesundheits- und Pflegewissenschaft. Medizinische Fakultät der Martin-Luther-
+Universität Halle-Wittenberg. 
+
+[Page 44]
+1/2020_01 
+ 
+ 
+ 
+44 
+Eberl I., Hohdorf M. (2017) Bearbeitung der Punkte für die Akkreditierung des 
+Bachelorstudiengangs Pflegewissenschaft an der KU Eichstätt-Ingolstadt. 
+Eingesehen am 23.05.2017. 
+Elsbernd A.; Bader K. (2018) Herausforderungen bei der Konzeption von 
+primärqualifizierenden Pflegestudiengängen. In: Fischer M., Kremer H., Gillen J., 
+Langemeyer I. Was berufliche und akademische Bildung trennt und verbindet. 
+Entgrenzungen an der Schnittstelle von Berufsschule, Betrieb, Hochschule und 
+Universität. bwp@ Ausgabe Nr. 34. URL: 
+http://www.bwpat.de/ausgabe34/elsbernd_bader_bwpat34.pdf. Eingesehen am 
+20.04.2020. 
+Entwicklungsplan der Katholischen Universität Eichstätt-Ingolstadt (2014): 41/42) 
+URL: https://www.ku.de/interna/intranet-home/ Eingesehen am 20.02.2020. 
+Frei I. (2006) Praxisentwicklung in Richtung Best Practice – Best Care. Editorial. 
+Pflege. Vol. 19:273–274. 
+Garbett R., McCormack B. (2002). A concept analysis of practice development. 
+Journal of Research Nursing. Vol. 7(2): 87‐100. 
+Garbett R., McCormack B. (2009) Analyse des Konzepts Praxisentwicklung. In: 
+McCormack B., Manley K., Garbet R. (2009) Praxisentwicklung in der Pflege (Hrsg.). 
+Deutschsprachige Ausgabe herausgegeben von Frei A. und Spirig R. Verlag Hans 
+Huber-. Bern: 27-43. 
+Gesundheit 21: Eine Einführung zum Rahmenkonzept „Gesundheit für alle“ für die 
+Europäische Region der WHO. Europäische Schriftenreihe „Gesundheit für alle“. 
+Nr. 5. World Health Organization (WHO) (Hrsg.) 
+http://www.euro.who.int/__data/assets/pdf_file/0006/109761/EHFA5-G.pdf. 
+Eingesehen am 12.01.2020. 
+
+[Page 45]
+1/2020_01 
+ 
+ 
+ 
+45 
+Hochschulrektorenkonferenz (HRK) (2017) Projekt nexus. Übergänge gestalten, 
+Studienerfolg verbessern. https://www.hrk-nexus.de/themen/anerkennung/ 
+Eingesehen am 02.12.2019. 
+Hülsken-Giesler M., Brinker-Meyendriesch E., Keogh J., Muths S., Sieger M., 
+Stemmer R., Stöcker G., Walter A. (2010) Kerncurriculum Pflegewissenschaft für 
+pflegebezogene Studiengänge – eine Initiative zur Weiterentwicklung der 
+hochschulischen Pflegebildung in Deutschland. Pflege & Gesellschaft. Vol. 15(3): 
+216-236. 
+Hülsken-Giesler M., Korporal J. (Hrsg.) (2013) Fachqualifikationsrahmen Pflege für 
+die Hochschulische Bildung. Verlag Purschke + Hensel. 
+Hülsken-Giesler M. (2017) Dynamiken im Berufsfeld Pflege und Folgen für die 
+Fachkräftequalifizierung. Bundesinstitut für Berufsbildung (Hrsg.): Berufsbildung in 
+Wissenschaft und Praxis. Pflegeberufe. Vol. 46(1):6-9. 
+Jeiler K., Ötting-Roß C. (2018) Der Studiengang B. Sc. Pflege. Berufsbegleitend für 
+die Pflegepraxis akademisieren Pflegezeitschrift Vol.71 (7):40-41. 
+Kohls M. (2015) Migration und Pflege. Kurzdossier. Bundeszentrale für Poltische 
+Bildung(BPB) (Hrsg.). 
+Kulturministerkonferenz (KMK) Anrechnung von außerhalb des Hochschulwesens 
+erworbenen Kenntnissen und Fähigkeiten auf ein Hochschulstudium (II). Beschluss 
+vom 18.09.2008 
+https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2008/2008_09_18
+-Anrechnung-Faehigkeiten-Studium-2.pdf. Eingesehen am 02.12.2019. 
+Neugebauer E., Pfaff H., Schrappe M., Glaeske G. (2007) Versorgungsforschung – 
+Konzept, Methoden und Herausforderungen. In: Kirch W., Badura B., Pfaff H. 
+(Hrsg.) Prävention- und Versorgungsforschung. Ausgewählte Beiträge des 2. 
+Nationalen Präventionskongresses und 6. Deutschen Kongress für 
+Versorgungsforschung in Dresden. Springer Verlag. Heidelberg. 
+
+[Page 46]
+1/2020_01 
+ 
+ 
+ 
+46 
+Riedel A.; Behrens J.; Giese C.; Geiselhart M.; Fuchs G.; Kohlen H.; Pasch W.; Rabe 
+M.; Schütze L. (2016) Zentrale Aspekte der Ethikkompetenz in der Pflege. 
+Empfehlungen der Sektion Lehrende im Bereich der Pflegeausbildung und der 
+Pflegestudiengänge in der Akademie für Ethik in der Medizin e.V.. Journal Ethik in 
+der Medizin. Springer Verlag. DOI 10.1007/s00481-016-0415-7 Published online 
+am 17.10.2016. 
+Roes M., de Jong A., Wulff I. (2013) Implementierungs- und 
+Disseminationsforschung – ein notwendiger Diskurs. Pflege&Gesellschaft. Vol.18 
+(3):197-213. 
+Sachverständigenrat zur Begutachtung der Entwicklung im Gesundheitswesen 
+(SVR) (2012): Wettbewerb an der Schnittstelle zwischen ambulanter und 
+stationärer Gesundheitsversorgung. Sondergutachten 2012. http://www.svr-
+gesundheit.de/fileadmin/user_upload/Gutachten/2012/GA2012_Langfassung.pdf. 
+Eingesehen am 06.02.2020. 
+Sachverständigenrat zur Begutachtung der Entwicklung im Gesundheitswesen 
+(SVR) (2018) Bedarfsgerechte Steuerung der Gesundheitsversorgung.URL: 
+https://www.svr-gesundheit.de/fileadmin/user_upload/Gutachten/2018/SVR-
+Gutachten_2018_WEBSEITE.pdf. Eingesehen am 06.02.2020. 
+Schaeffer D. (2006) (Hrsg.) Wissenstransfer in der Pflege – ein Problemaufriss. 
+Ergebnisse eines Expertenworkshops. ISSN:1435-408X 
+Schrems B. (2003) Der Prozess des Diagnostizierens in der Pflege. Facultas 
+Universitätsverlag. Wien. 
+Schrems B. (2018) Verstehende Pflegediagnostik. Grundlagen zum angemessenen 
+Pflegehandeln. 2. Überarbeitete und erweiterte Auflage. Facultas 
+Universitätsverlag. Wien. 
+Shannon M., McCormack B. (2014) Practice Development – ein Konzept zur 
+Entwicklung der beruflichen Pflegepraxis in Irland. In: Tewes R., Stockinger A. 
+
+[Page 47]
+1/2020_01 
+ 
+ 
+ 
+47 
+(Hrsg.), Personalentwicklung in Pflege- und Gesundheitseinrichtungen. Springer-
+Verlag Berlin Heidelberg. 
+Simon M. (2018) Literaturrecherche. In: Brandenburg H., Panfil EM., Mayer H., 
+Schrems B. (Hrsg.) Pflegewissenschaft 2. Lehr- und Arbeitsbuch zur Einführung in 
+die Methoden der Pflegeforschung. 3.vollständig überarbeitet und erweiterte 
+Auflage. Hogrefe Verlag. Bern: 47-71. 
+Stemmer R., Recken H. Weber P., Latteck Ä. (2016) Pflege der Zukunft: forschen, 
+wissen, anwenden. In: Deutsche Gesellschaft für Pflegewissenschaft (DGP) mit 
+Dekanekonferenz Pflegewissenschaft (Hrsg.) Die Zukunft der 
+Gesundheitsversorgung-der Beitrag akademisierter Pflegender. Gefördert durch 
+die Robert-Bosch-Stiftung. Tagungsdokumentation zur Fachtagung am 5. 
+November 2015 in der Repräsentanz der Robert-Bosch-Stiftung Berlin. 
+Stiftungsallianz (2020) Pflege kann mehr! Positionspapier der Stiftungsallianz für 
+eine neue Rolle der professionellen Pflege im Gesundheitswesen. Pflege & 
+Gesellschaft. Vol.25 (1): 78-85. 
+Studien- und Prüfungsordnung für den berufsbegleitenden Bachelorstudiengang 
+Pflegewissenschaft (FH-Studiengang) an der Katholischen Universität Eichstätt-
+Ingolstadt. Fakultät für Soziale Arbeit. Katholische Universität Eichstätt-Ingolstadt. 
+Entwurf März 2020. 
+Eberl I., Hohdorf M. (2020) Studiengangskonzept zur Einrichtung eines neuen 
+Bachelorstudiengangs Pflegewissenschaft. Beschlossen durch den Fakultätsrat der 
+Fakultät am 14.1.2020 Vorlage für die Stellungnahme durch die Gremien der 
+Katholischen Universität Eichstätt-Ingolstadt im März 2020. 
+ver.di-Bundesverwaltung, Fachbereich 3 (2016): Die neue Entgeltordnung für 
+Gesundheitsberufe (TVöD kommunal). https://gesundheit-
+soziales.verdi.de/++file++5724f0e3890e9b0c53001dbf/download/EGO%20kommu
+nal%202017%20medium.pdf. Eingesehen am 15.04.2017 
+
+[Page 48]
+1/2020_01 
+ 
+ 
+ 
+48 
+VPU, Verband der Pflegedirektor*innen der Unikliniken (2016): Leitfaden zur 
+Implementierung von Pflegefachpersonen mit Bachelorabschluss im Krankenhaus. 
+VPU, Berlin. 
+World Health Organization (WHO) (1998) Gesundheit für alle im 21. Jahrhundert. 
+Eine Einführung. Europäische Schriftenreihe „Gesundheit für alle Nr.5“. URL: 
+http://www.euro.who.int/__data/assets/pdf_file/0005/88592/EHFA5-G.pdf?ua=1. 
+Eingesehen am 14.05.2020 
+Wingenfeld K., Büscher A. (2017) Strukturierung und Beschreibung pflegerischer 
+Aufgaben auf der Grundlage des neuen Pflegebedürftigkeitsbegriffs. Im Auftrag 
+des Bundesministeriums für Gesundheit. Universität Bielefeld (Hrsg.). URL: 
+https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/
+Pflege/Berichte/Fachbericht_Pflege.pdf. Eingesehen am 8.10.2019 
+Wissenschaftsrat (2008): Empfehlungen zur Qualitätsverbesserung von Lehre und 
+Studium. Verabschiedet am 04.07.2008, Berlin, Drs. 8639-08 
+Wissenschaftsrat (Hrsg.) (2012) Empfehlungen zu hochschulischen Qualifikationen 
+für das Gesundheitswesen. Berlin. URL: 
+https://www.wissenschaftsrat.de/download/archiv/2411-12.pdf. Eingesehen am 
+26.09.2019. 
+ 
+ 
+
+[Page 49]
+1/2020_01 
+ 
+ 
+ 
+49 
+Anlage: 
+Idealtypischer Studienverlaufsplan 
+ 
+Vorlage Bachelorstudiengänge –siehe Prüfungsordnung und Modulhandbuch 
+ 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+6 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+5 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+4 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+3 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+2 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+1 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+Modultitel 
+(ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+ 
+ 
+ 
+
+[Page 50]
+1/2020_01 
+ 
+ 
+ 
+50 
+Diploma Supplement (englisch, deutsch)

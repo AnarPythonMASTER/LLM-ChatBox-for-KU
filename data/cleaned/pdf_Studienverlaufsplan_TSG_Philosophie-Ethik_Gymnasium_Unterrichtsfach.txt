@@ -1,0 +1,103 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_TSG_Philosophie-Ethik_Gymnasium_Unterrichtsfach.pdf
+TITLE: Studienverlaufsplan_TSG_Philosophie-Ethik_Gymnasium_Unterrichtsfach.pdf
+SOURCE_FILE: Studienverlaufsplan_TSG_Philosophie-Ethik_Gymnasium_Unterrichtsfach.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status Version/2020_Dezember 
+ 
+ 
+ 
+8 
+Anlage: 
+Idealtypischer Studienverlaufsplan 
+ 
+Im lehramtsgeeigneten Profil 
+ 
+Semester 
+ 
+ 
+ 
+ 
+Vertiefungsphase 
+8 
+Religionsphilosophie 
+(5 ECTS) 
+Angewandte Ethik III 
+(5 ECTS) 
+Positionen und 
+Probleme der 
+Ethikdidaktik 
+(5 ECTS) 
+15 
+ECTS-
+Punkte 
+7 
+Politische/ Sozialphilosophie II 
+(5 ECTS) 
+Klassiker der Ethik III (5 ECTS) 
+10 
+ECTS-
+Punkte 
+6 
+Angewandte Ethik II 
+(5 ECTS) 
+Geschichte der Philosophie 
+(5 ECTS) 
+10 
+ECTS-
+Punkte 
+Basisphase 
+5 
+Politische/ Sozialphilosophie I 
+(5 ECTS) 
+Klassiker der Ethik II (5 ECTS) 
+10 
+ECTS-
+Punkte 
+4 
+Angewandte Ethik I 
+(5 ECTS) 
+Einführung Philosophiegeschichte 
+(5 ECTS) 
+10 
+ECTS-
+Punkte 
+3 
+Theoretische 
+Philosophie 
+(5 ECTS) 
+Systematische Ethik 
+(5 ECTS) 
+Lektüre-Kurs 
+(5 ECTS) 
+15 
+ECTS-
+Punkte 
+2 
+Christentum und 
+Weltreligionen 
+(5 ECTS) 
+Einführung praktische Philosophie 
+(5 ECTS) 
+Klassiker der 
+Ethik I (5 ECTS) 
+15 
+ECTS-
+Punkte 
+1 
+Einführung 
+Philosophie 
+(5 ECTS) 
+Einführung 
+theoretische 
+Philosophie 
+(5 ECTS) 
+Grundlagenmodul ethische Bildung 
+(2 ECTS Fachwissenschaft + 
+ 5 ECTS Fachdidaktik = . 
+7 ECTS) 
+-. - 
+17 
+ECTS-
+Punkte

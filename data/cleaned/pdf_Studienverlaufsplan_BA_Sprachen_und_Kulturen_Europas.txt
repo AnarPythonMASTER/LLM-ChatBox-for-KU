@@ -1,0 +1,178 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BA_Sprachen_und_Kulturen_Europas.pdf
+TITLE: Studienverlaufsplan_BA_Sprachen_und_Kulturen_Europas.pdf
+SOURCE_FILE: Studienverlaufsplan_BA_Sprachen_und_Kulturen_Europas.pdf
+------------------------------------------------------------
+
+[Page 1]
+Idealtypischer Studienverlaufsplan: BA Sprachen und Kulturen Europas 
+ 
+ 
+ 
+ 
+Kernbereich des Studiengangs „Sprachen und Kulturen Europas“ 
+ 
+Sprachpraktischer Bereich 
+ 
+Sprachwissenschaftlicher Bereich 
+ 
+Modul aus dem Bachelorangebot des Studium.Pro 
+ 
+Kultur- und literaturwissenschaftlicher Bereich 
+ 
+Bachelorarbeit 
+ 
+Kultur- und sozialwissenschaftlicher Bereich 
+ 
+ 
+ 
+Wahlbereich Modul 1-3: Klassische Archäologie, Kunstgeschichte, BWL, VWL, Geschichte, Politikwissenschaft, Journalistik, Geographie, Europäische Ethnologie 
+ 
+Wahlbereich (Auslandssemester): Mindestens 10 ECTS-Punkte sind an einer ausländischen Hochschule zu erwerben. Wurden weniger als 20 ECTS-Punkte an einer ausländischen Hochschule erbracht, 
+ 
+müssen fehlende ECTS-Punkte aus dem Modulangebot der nicht zulassungsbeschränkten Bachelorstudiengänge an der KU erbracht werden. 
+ 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+European Culture 
+and Sustainability 
+(5 ECTS-Punkte) 
+Studium.Pro 
+(5 ECTS-Punkte) 
+Wahlbereich 
+Modul 3 
+(5 ECTS-Punkte) 
+Kolloquium zur 
+Bachelorarbeit 
+(5 ECTS-Punkte) 
+Bachelorarbeit 
+(10 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+5 
+Praktikum 
+(10 ECTS-Punkte) 
+Wahlbereich (Auslandssemester) 
+(20 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+4 
+Europäische 
+Integration 
+(EU-Institutionen) 
+(5 ECTS-Punkte) 
+Deutsch als 
+europäische Sprache 
+(5 ECTS-Punkte) 
+Deutsche Literatur 
+im europäischen 
+Kontext 
+(5 ECTS-Punkte) 
+Wahlbereich 
+Modul 2 
+(5 ECTS-Punkte) 
+Sprachpraktischer 
+Wahlpflichtbereich 
+Fremdsprache 1 
+Modul 4 
+(5 ECTS-Punkte) 
+Sprachpraktischer 
+Wahlpflichtbereich 
+Fremdsprache 2 / 3 
+Modul 4 / 2 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+3 
+Ideen, die Europa 
+formten – ausge-
+wählte Entwicklungs-
+linien 
+(5 ECTS-Punkte) 
+Digitale Methoden, 
+Ressourcen und 
+Tools für das 
+wissenschaftliche 
+Arbeiten 
+(5 ECTS-Punkte) 
+Philologischer 
+Wahlpflichtbereich 
+(5 ECTS-Punkte) 
+Wahlbereich 
+Modul 1 
+(5 ECTS-Punkte) 
+Sprachpraktischer 
+Wahlpflichtbereich 
+Fremdsprache 1 
+Modul 3 
+(5 ECTS-Punkte) 
+Sprachpraktischer 
+Wahlpflichtbereich 
+Fremdsprache 2 / 3 
+Modul 3 / 1 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+2 
+European Culture in 
+a Global Context 
+(5 ECTS-Punkte) 
+Einführung in die 
+europäische Linguistik 
+2 
+(5 ECTS-Punkte) 
+Einführung in die 
+Kulturwissenschaft 
+(5 ECTS-Punkte) 
+Kultur und Medien: 
+Kultur- und sozial-
+wissenschaftliche 
+Grundlagen 2 
+(5 ECTS-Punkte) 
+Sprachpraktischer 
+Wahlpflichtbereich 
+Fremdsprache 1 
+Modul 2 
+(5 ECTS-Punkte) 
+Sprachpraktischer 
+Wahlpflichtbereich 
+Fremdsprache 2 
+Modul 2 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+1 
+Introduction to 
+European Cultural 
+History 
+(5 ECTS-Punkte) 
+Einführung in die 
+europäische Linguistik 
+1 
+(5 ECTS-Punkte) 
+Introduction to 
+European Literature 
+(5 ECTS-Punkte) 
+Kultur und Medien: 
+Kultur- und sozial-
+wissenschaftliche 
+Grundlagen 1 
+(5 ECTS-Punkte) 
+Sprachpraktischer 
+Wahlpflichtbereich 
+Fremdsprache 1 
+Modul 1 
+(5 ECTS-Punkte) 
+Sprachpraktischer 
+Wahlpflichtbereich 
+Fremdsprache 2 
+Modul 1 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte

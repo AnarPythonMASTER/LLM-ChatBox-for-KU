@@ -1,0 +1,40 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Checklist_Module_Prerequisites.pdf
+TITLE: Checklist_Module_Prerequisites.pdf
+SOURCE_FILE: Checklist_Module_Prerequisites.pdf
+------------------------------------------------------------
+
+[Page 1]
+Checklist Module Prerequisites – M.Sc. Data Science
+Lastname, Firstname:
+Prerequisite (Name of KU Module)
+ECTS
+Grade
+Analysis I for Data Science
+Analysis II for Data Science
+Linear Algebra I
+Linear Algebra II
+Introductory Statistics
+Introductory Stochastics
+Optimization for Data Science
+Introductory Programming
+Algorithms and Data Structures
+Guidelines for Completing the Module Equivalency Information
+Corresponding Module(s) in Bachelor Transcript 
+(English translation)
+Max 
+Grade
+Min 
+Passing 
+Grade
+Additional Comment(s)
+(if necessary for clarification)
+1. Eligibility and missing modules. Applicants are expected to have completed most of the listed subject areas during their Bachelor’s degree. If individual modules are missing, admission may 
+still be granted with the condition that the missing modules are completed during first two semesters of the Master’s program. These additional modules must be completed within the regular 
+duration of the program. They do not extend the standard period of study for the Master’s degree.
+2. Estimating ECTS credits. If your Bachelor transcript does not indicate ECTS credits, you must provide a reasonable estimate as follows. Take the fraction of the designated one-semester full-
+time study workload that this module occupies. Multiply this number by 30 if your university’s schedule has two semesters/year, multiply by 20 if your university’s schedule has three 
+terms/year. Example: A module has 3 credit points in your university’s own credit point system and you are expected to complete 12 credit points per term. Your academic calendar has three 
+terms/year. Then ECTS = (3/12)*20 = 5.
+3. Purpose of the information provided. The information in this document supports the preliminary evaluation of your academic background. Any ECTS estimates, credit conversions, or 
+information obtained from online conversion tables are not legally binding and do not establish eligibility for admission. The admissions committee conducts the final and binding evaluation 
+of all applications. The committee’s assessment may differ from the module equivalencies suggested by the applicant.

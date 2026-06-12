@@ -1,0 +1,475 @@
+SOURCE_URL: https://www.ku.de/studienangebot/data-science
+TITLE: B.Sc. Data Science – KU
+SOURCE_FILE: studienangebot_data-science.html
+------------------------------------------------------------
+
+Data Science
+zu den Informationen für Studierende
+Abschluss
+Bachelor of Science
+Semesterbeitrag
+88
+ Euro
+Studienbeginn
+Wintersemester
+Regelstudienzeit
+6
+ Semester
+Studienort
+Ingolstadt
+Teilzeitstudium möglich
+Nein
+Unterrichtssprache
+Englisch
+Bewerbungsfristen für das Wintersemester 2026/27
+Für Bewerberinnen und Bewerber
+ohne deutsche Hochschulzugangsberechtigung
+: Die
+Bewerbung
+ist von
+1. April bis 15. Juli 2026
+möglich.
+Für Bewerberinnen und Bewerber
+mit deutscher Hochschulzugangsberechtigung
+(z. B. Abitur): Eine Bewerbung ist nicht erforderlich. Die
+Einschreibung
+erfolgt direkt im Zeitraum vom
+10. August bis 2. Oktober 2026
+.
+Künstliche Intelligenz und Maschinelles Lernen sind die Themen der Zukunft. Dahinter stecken mathematische Berechnungen und statistische Methoden, deren Potenzial noch längst nicht ausgeschöpft sind, denn Daten sind heutzutage in großer Menge und in quasi jedem Lebensbereich verfügbar. Die Serienvorschläge auf Ihrer Netflix-Watchlist? Die Wettervorhersage der nächsten 10 Tage? Die Bilderkennung Ihres Smartphones? All das basiert auf der strukturierten Auswertung von Daten und auf dem gezielten Training neuronaler Netzwerke.
+Der neue Studiengang Data Science vermittelt die
+Grundlagen des maschinellen Lernens
+und anderer aktueller
+Verfahren zur Datenanalyse
+, sowie die Fähigkeit, diese Verfahren mit
+modernen Softwaretechnologien
+effizient umzusetzen. Dabei werden Kenntnisse aus den Studienbereichen
+Mathematik, Statistik, Informatik und Data Science
+gelehrt. Im weiteren Verlauf des Studiums können Sie
+eine von sechs Spezialisierungen
+auswählen und damit gezielt den Anwendungsbereich studieren, der zu Ihren
+Berufszielen
+passt. Dank der
+englischsprachigen Ausrichtung
+unseres Studiengangs und der
+internationalen Kontakte
+, die Sie an der KU knüpfen können, sind Sie fit für den
+internationalen Arbeitsmarkt!
+Das Studium im Detail
+Alles auf einen Blick
+Was muss ich mitbringen?
+Mathematisches Grundverständnis
+Analytisches Denken
+Spaß & Freude an komplexen Fragestellungen und Lust, technische Lösungen dafür zu entwickeln
+Allgemeine Hochschulreife
+oder Fachgebundene HR /Wirtschafts- oder Technikzweig
+Englische Sprachkenntnisse
+für internationale Studenten: Deutsch A2 nach dem 1. Studienjahr
+Karrierechancen
+Hier wird die Zukunft gelehrt!
+Wir bieten einen innovativen und modernen Studiengang an. Data Scientists werden aufgrund der immens anwachsenden Datenmengen, vor allem in der Industrie, dringend benötigt. Während des Studiums können Sie bereits eine Spezialisierung wählen, z.B. in den Bereichen Businessanalyse, Gesellschaftsentwicklung, Umwelt- und Geowissenschaften oder Finanzsysteme.
+Dank der englischsprachigen Ausrichtung unserer Studiengang sind Sie damit bereit für den internationalen Arbeitsmarkt!
+Warum Data Science an der KU studieren?
+Zukunftsorientiertes Studiengebiet
+Etablierte
+und
+moderne Lernkonzepte
+Hervorragendes Betreuungsverhältnis durch Ihre Professoren dank kleiner Gruppen
+Vorbereitung auf den internationalen Arbeitsmarkt dank englischsprachiger Ausrichtung und internationaler Kontakte
+Sensibilisierung für ethischen Umgang mit Daten
+Erfahrungen sammeln bei namenhaften Industriepartnern
+Leben und Studieren an Deutschlands beliebtester Universität
+Inhalt
+Der Studiengang vermittelt die der Data Science zugrundeliegenden Kenntnisse aus den Studienbereichen Mathematik, Statistik & Informatik und ergänzt diese durch fachübergreifende Lehrveranstaltungen im Bereich der Data Science.
+Die Verbindung verschiedener Fächer belegt den interdisziplinären Charakter des Studiengangs. Dieser wird durch die Möglichkeit zur Wahl einer Spezialisierung in einem Anwendungsbereich erweitert. Den Studierenden wird somit eine interdisziplinäre Perspektive auf die Datenwissenschaften und den digitalen Transformationsprozess in Unternehmen und Gesellschaft vermittelt.
+Spezialisierung
+Studierende besuchen Lehrveranstaltungen in einer der folgenden Spezialisierungen:
+Applied Mathematics and Scientific Computing
+„Applied Mathematics and Scientific Computing“ ermöglicht Studierenden einen tieferen Einblick in die mathematischen Grundlagen der Data Science. Schwerpunkte der Spezialisierung sind einerseits die mathematische Modellbildung, andererseits der Übergang von kontinuierlichen zu diskreten und damit praktisch implementierbaren Modellen.
+Business Analytics and Operations
+„Business Analytics and Operations“ schlägt die Brücke zu den Wirtschaftswissenschaften. Neben Grundkenntnissen der Betriebswirtschaftslehre, z.B. im Rechnungswesen, liegt der Schwerpunkt dieser Spezialisierung in datengesteuerten Lösungsansätzen zu betriebswirtschaftlichen, organisatorischen und technischen Problemstellungen.
+Digital Transformation of Society
+„Digital Transformation of Society“ betrachtet Anwendungen der Data Science in den Sozial- und Humanwissenschaften. Neben Grundlagenwissen erhalten Studierende Einblicke in die Rolle empirischer Methoden, z.B. in Soziologie und Journalistik. Die substantielle Kenntnis von Methoden der Data Science gepaart mit Einblicken in die Sozial- und Humanwissenschaften ermöglicht den Studierenden eine kritische Auseinandersetzung mit dem fortschreitenden digitalen Wandel der Gesellschaft.
+Finance and Economics
+„Finance and Economics“ beleuchtet makroökonomische Zusammenhänge, globale Märkte und Finanzinstrumente. Diese Gebiete sind stark von datenbasierten Methoden geprägt. Die Spezialisierung erweitert die Methodenkompetenz der Studierenden um Kenntnisse in der gebietsspezifischen Modellbildung und Fachsystematik
+Environmental Sciences
+„Environmental Sciences“ ermöglicht den Studierenden einen Einblick in die datenbasierten Umwelt- und Geowissenschaften. Ein zentraler Aspekt ist das Anpassen von Modellen für dynamische (zeitlich veränderliche) Prozesse wie Wetter und Klima an Messdaten, die oft nur ungenau und unvollständig vorliegen.
+Machine Learning and Statistics
+„Machine Learning and Statistics“ ermöglicht Studierenden eine Vertiefung ihres Verständnisses für statistische Methoden und führt in fortgeschrittene und forschungsnahe Aspekte der statistischen und maschinellen Lernverfahren ein.
+Aufbau
+Die Regelstudienzeit beträgt sechs Semester. Insgesamt sind 180 ECTS-Punkte zu erwerben, die sich im wesentlichen auf einen Pflicht-, Spezialisierungs- und Wahlpflichtbereich aufteilen. Hinzu kommen ein Bachelorseminar und die Bachelorarbeit.
+Pflichtbereich
+Im Pflichtbereich des Studienganges werden grundlegendes Wissen und grundlegende praktische Kompetenzen in Data Science vermittelt. Der Pflichtbereich setzt sich aus Modulen in den Kernfeldern Data Science, Mathematik, Statistik und Informatik zusammen. Darüber hinaus ist das Modul „Ethics of Algorithms and Data“ verpflichtend.
+Data Science: Data Lab, Ethics of Algorithms and Data, Foundations of Data Science, Foundations of Machine Learning, Hands-on Machine Learning and Data Science, Practical Training
+Mathematik: Analysis for Data Science 1, Analysis for Data Science 2, Linear Algebra 1, Linear Algebra 2  and Analytic Geometry, Optimization in Data Science
+Statistik: Introduction to Statistics, Introduction to Stochastics, Statistical Learning
+Informatik: Introduction to Programming, Advanced Programming, Algorithms and Data Structures, Basics of Information Systems
+Der Data Science Studiengang an der KU zeichnet sich dadurch aus, dass mit Ausnahme der Grundlagenvorlesungen in Linearer Algebra, Statistik und Stochastik, alle Lehrveranstaltungen des Pflichtbereichs speziell für diesen Studiengang entwickelt wurden.
+Spezialisierung
+Das Angebot von Spezialisierungen gibt den Studierenden die Möglichkeit, sich in einem Gebiet ihres Interesses weiterzubilden. Die gewählte Spezialisierung vertieft die Kompetenzen in einem Kerngebiet der Data Science oder vermittelt Kompetenzen in einem ihrer  Anwendungsgebiete. Die gewählte Spezialisierung wird im Bachelorzeugnis ausgewiesen.
+Es werden in der Regel die folgenden Spezialisierungen angeboten:
+Applied Mathematics and Scientific Computing
+Business Analytics and Operations
+Digital Transformation of Society
+Environmental Sciences
+Finance and Economics
+Machine Learning and Statistics
+Wahlpflichtbereich
+Der Wahlpflichtbereich dient zur Erweiterung des Studienspektrums und zum Erlangen von Kompetenzen, die über das Grundstudium hinausgehen oder dieses ergänzen. Alle auf eine Spezialisierung anrechenbaren Module sind auch Teil des Wahlpflichtbereichs. Sie werden durch weitere Module ergänzt.
+Studierende wählen zudem verpflichtend ein Modul aus dem universitätsübergreifenden Angebot
+Studium.Pro
+. Hier beschäftigen sich die Studierenden der KU fächerübergreifend und interdisziplinär vornehmlich mit gesellschaftlich relevanten Fragestellungen. Diese Erfahrung kann wesentliche Impulse für das fachbezogene Arbeiten liefern.
+Pflichtpraktikum
+Neben Lehrveranstaltungen ist innerhalb des Studiums ein Industriepraktikum oder ein Forschungspraktikum am Mathematischen Institut für Maschinelles Lernen und Data Science oder in anderen Fachgebieten der KU oder anderer Hochschulen vorgesehen.
+Im Bereich der Industriepraktika kooperiert die KU mit mehreren Partnern in der Region:
+Dokumente zum Studienverlauf
+Modulhandbuch
+Das für das jeweilige Semester gültige Modulhandbuch zum Studiengang finden Sie hier auf
+KU.Campus
+. Gehen Sie dort in der Navigation auf "Informationsportal --> Studiengänge". Geben Sie Ihren Studiengang und das betreffende Semester in der Suchmaske ein. In der Ergebnisliste erscheint oben rechts das Modulhandbuch zum Download als pdf- oder Word-Datei.
+Studiengangsbeschreibung
+Studiengangsbeschreibung
+für den Bachelorstudiengang Data Science
+Studienverlaufsplan
+Allgemeiner Studienverlaufsplan
+für den Bachelorstudiengang Data Science
+Wahlpflichtkatalog
+Wahlpflichtkatalog
+für den Bachelorstudiengang Data Science - Geltungsbereich zum SoSe 26
+Wahlpflichtkatalog
+für den Bachelorstudiengang Data Science - Geltungsbereich zum WiSe 25/26
+Häufig gestellte Fragen von Studieninteressierten
+... zum Data Science Studiengang
+Ist der Studiengang Data Science in Eichstätt oder in Ingolstadt angesiedelt?
+Sowohl der Bachelor- als auch der Masterstudiengang Data Science sind an unserem Campus in Ingolstadt angesiedelt. Alle Data-Science-Kurse werden in Ingolstadt angeboten. Am Campus in Eichstätt stehen zusätzliche Wahlfächer zur Verfügung, die jedoch völlig optional sind.
+Wann sollte ich in Ingolstadt ankommen?
+Wir empfehlen Ihnen, Anfang Oktober anzureisen, damit Sie genügend Zeit haben, sich einzuleben und am Einführungskurs teilzunehmen. Die regulären Vorlesungen an der KU beginnen Mitte Oktober; die genauen Termine entnehmen Sie bitte dem
+akademischen Kalender
+.
+Ich bin ein Student von außerhalb der EU. Was ist, wenn ich mein Visum etwas später erhalte?
+Uns ist bewusst, dass internationale Studierende mitunter monatelang auf ein Visum warten müssen. Daher stellen wir Zulassungsbescheide so schnell wie möglich aus und setzen die Einschreibungsfrist so spät wie möglich an, um den Bewerbern die bestmöglichen Chancen auf ein Visum zu geben. Die endgültige Einschreibungsfrist (siehe Zulassungsbescheid) liegt in der Regel nur wenige Tage vor Vorlesungsbeginn. Alle erforderlichen Unterlagen, einschließlich des Visums, müssen bis zu dieser Frist per Post an das Studierendensekretariat gesendet werden.
+Wieviel tägliches Selbststudium wird von einem durchschnittlichen Studenten, der diesen Studiengang belegt, erwartet?
+Wie an allen Universitäten wird ein erheblicher Teil des Studiums im Selbststudium absolviert. Im Kurs 'Lineare Algebra' haben Sie z.B. etwa 6 Kontaktstunden und 5 Stunden Selbststudium pro Woche. Der Gesamtaufwand ist vergleichbar mit dem anderer deutscher Universitäten. Data Science an der KU zu studieren ist ein Vollzeitjob.
+Sollte ich irgendwelche mathematischen Themen von zu Hause wiederholen, wie z. B. Analysis oder Wahrscheinlichkeitsrechnung, oder werden in den Vorlesungen alle Themen nochmal von Grund auf behandelt, so dass keine Voraussetzungen erforderlich sind?
+Ein gutes Maß an Vorwissen ist für den Anfang hilfreich aber nicht zwingend notwendig. Für manche ist der schwierigste Teil die formale Mathematik, z. B. "Lineare Algebra" und "Analysis". Sie können zum Beispiel nachschlagen, was ein Vektorraum ist, und ein wenig über Matrizen lernen. Es wird aber auch ein Vorkurs vor Beginn des Semesters angeboten, in dem einige mathematische Grundlagen behandelt werden. Die Mathekurse während des ersten Semesters sind so aufgebaut, dass alle Themen von Grund auf behandelt werden und man ohne große Vorkenntnisse folgen kann.
+Wird dieser Studiengang normalerweise in der vorgegebenen Zeitspanne von drei Jahren abgeschlossen oder dauert es üblicherweise etwas länger?
+Es handelt sich um einen neuen Studiengang.  Dieser ist darauf ausgerichtet, dass Studierende in drei Jahren das Studium erfolgreich abschließen.
+Wie sieht der Stundenplan während eines Semester aus?
+Über den Link
+https://www.ku.de/mgf/studiengaenge/bachelor/data-science
+finden Sie unter 'Dokumente' die aktuellen Stundenpläne für die verschiedenen Semester.
+Könnten Sie mir das Modulhandbuch zum Studiengang zusenden oder mich auf eine entsprechende Quelle verweisen?
+Ein solches Modulhandbuch finden Sie auf KU.Campus
+https://campus.ku.de/
+Gehen Sie dort in der Navigation auf 'Informationsportal --> Studiengänge'. Geben Sie in der Suchmaske den Studiengang und das entsprechende Semester ein. In der Ergebnisliste erscheint oben rechts das Modulhandbuch, das Sie als pdf- oder Word-Datei herunterladen können.
+Die Prüfungsordnung finden Sie unter 'Zentrale Dokumente' auf
+https://www.ku.de/mgf/studiengaenge/bachelor/data-science
+Bietet die Universität ihren immatrikulierten Studenten kostenlosen Deutschunterricht an?
+Wir unterstützen Sie dabei, mindestens das obligatorische Niveau A2 zu erreichen, da dieses nach einem Jahr nachgewiesen werden muss. Die Universität bietet regelmäßig kostenlose Deutschkurse mindestens bis zu diesem Niveau an. Diese werden in der Regel so angesetzt, dass sie in Ihren regulären Stundenplan passen, z. B. montagmorgens.
+Ist es möglich, an der KU Data Science online oder hybrid zu studieren?
+Der Studiengang ist als Präsenzstudium konzipiert. Allerdings werden Ihnen in der Regel Online-Lehrmaterialien und bei einigen Kursen sogar Videoaufzeichnungen zur Verfügung gestellt. Das bedeutet, dass Sie sich die Kursinhalte auch im Selbststudium aneignen können, obwohl wir Ihnen die aktive Teilnahme an den Kursen sehr empfehlen. Die Prüfungen müssen jedoch immer persönlich abgelegt werden.
+Wann muss ich mich für eine der angebotenen Spezialisierungen entscheiden? Und ist es möglich, ihn nachträglich zu ändern?
+Am Ende des zweiten Semesters sollten Sie sich für eine Spezialisierung entscheiden und Ihre Kurse ab dem dritten Semester entsprechend wählen. Sie können Ihre Spezialisierung jedoch jederzeit ändern.
+Ist es möglich, ein Auslandssemester zu absolvieren und wann sollte man das tun?
+Wir unterstützen Sie gerne dabei, ein Auslandssemester zu absolvieren. Wenn Sie Interesse haben, empfehlen wir Ihnen dies im fünften Semester zu tun. Mehr Informationen finden Sie unter
+www.ku.de/international/studierende-der-ku/studienaufenthalt-im-ausland
+... zur Unterrichtssprache englisch
+Die Vorlesungen und Prüfungen werden auf Englisch angeboten. Auf Wunsch bieten wir auch Prüfungen in deutscher Sprache an. Alle Professoren sind deutschsprachig und bereit außerhalb der Vorlesung Sachverhalte auf deutsch zu erklären.  Die Kommunikation in englischer Sprache ist heutzutage in der Wissenschaft aber auch in der Industrie im Bereich Forschung und Entwicklung – die Tätigkeitsfelder vieler Data Scientists - eine notwendige Fähigkeit. Die KU bietet Kurse zur Verbesserung der (englischen) Sprachkenntnisse an. Weitere Informationen finden Sie hier:
+https://www.ku.de/sprachenzentrum
+Schauen Sie sich gerne die folgenden Videos an, um einen Eindruck davon zu bekommen, dass man für das inhaltliche Verständnis der grundlegenden Vorlesungen in Data Science wirklich keine tiefen Sprachkenntnisse benötigt:
+Prof. Götz Pfander:
+Linear Algebra 1, Systems of linear equations
+Prof. Götz Pfander:
+Linear Algebra 1, Ring theory
+Prof. Nadja Ray:
+Analysis 1, Sequences
+... zur KU Eichstätt-Ingolstadt
+Ist die KU eine private oder eine öffentliche Universität? Sind die hier erworbenen Abschlüsse auch in anderen Ländern anerkannt?
+Die Universität wird zu 85 % vom Freistaat Bayern finanziert, alle Studiengänge folgen den gleichen Regeln wie an jeder anderen bayerischen Universität. Die KU gilt als Privatuniversität, aber die Abschlüsse sind die gleichen wie an einer anderen deutschen Universität und werden auch im Ausland gleichermaßen anerkannt. Der Studiengang Data Science ist international akkreditiert. Außerdem ist das Studium an der KU gebührenfrei.
+Wie wird der chronologische Ablauf sein, wenn ich in Ingolstadt ankomme?
+Bevor Sie nach Ingolstadt reisen, sollten Sie sich rechtzeitig um eine Unterkunft in Ingolstadt (oder Umgebung) kümmern. Das KU International Office
+international@ku.de
+/
+welcome@ku.de
+ist Ihnen dabei gerne behilflich. Bitte wenden Sie sich an das KU International Office, wenn Sie weitere praktische Informationen benötigen. Wir haben eine Fachschaft, die Ihnen insbesondere in der Anfangszeit helfen wird. Außerdem bieten wir vor Beginn der regulären Vorlesungen einen Vorkurs an, in dem sich die Studierenden untereinander kennen lernen können.
+Stellt die KU ihren Studenten eine Unterkunft zur Verfügung und wenn ja, wie kann ich mich dafür bewerben?
+Das International Office
+international(at)ku.de
+hilft Ihnen bei der Wohnungssuche und bietet einen Wohnungsservice an, siehe
+https://www.ku.de/fileadmin/1907/Dokumente_Incoming/Download_Incoming/Housing_Guide_New.pdf
+Wir empfehlen Ihnen, sich so früh wie möglich um eine Unterkunft zu kümmern.
+Hat die Universität ein Schwimmbad und ein Fitnessstudio, und ist deren Nutzung kostenlos?
+Es gibt viele verschiedene Sportarten, die Sie an der KU betreiben können, siehe
+https://www.ku.de/unileben/hochschulsport
+Die meisten Sportkurse finden in Eichstätt statt und auch das Fitnessstudio befindet sich dort. Es gibt aber auch bei privaten Anbieter häufig spezielle Angebote für Studenten. Generell haben Schwimmbäder und Fitnessstudios sehr günstige Studentenpreise. Die KU versucht derzeit, ihr kostenloses Sportangebot in Ingolstadt zu erweitern.
+... zum Leben in Ingolstadt
+Könnten Sie mir bitte einen Überblick über die monatlichen Ausgaben, die mich während meines Aufenthalts als Student in Ingolstadt erwarten, geben?
+Erste Informationen in dieser Richtung finden Sie
+hier
+.
+Wenn Sie weitere Fragen zu diesem Thema haben, wenden Sie sich bitte an das International Office
+welcome(at)ku.de
+Kann man sich mit Leuten in Ingolstadt in der Regel gut auf Englisch unterhalten?
+Ingolstadt ist eine ziemlich große Stadt mit vielen englischsprachigen Menschen, die z. B. bei Audi arbeiten, und einer internationalen Atmosphäre. Außerdem pendeln viele Ingolstädter zur Arbeit nach München, das sehr kosmopolitisch ist.
+... zu weiteren Themen
+Was kann ich nach dem Abschluss dieses Studiengangs tun? Werde ich einen Job bekommen und wird mir die Universität dabei helfen?
+Im Bereich Data Science ist die Nachfrage auf dem Arbeitsmarkt sehr hoch. Das
+Career Center
+der KU bietet Informationen rund um Praktika und Karriere. Außerdem organisiert es regelmäßig verschiedene Workshops und Vorträge zu Themen wie Bewerbungen, etc.
+Was bedeutet die Zusammenarbeit der Universität mit Audi, Continental und Airbus?
+Diese und zahlreiche andere Unternehmen in der Region schätzen das von uns angebotene Studienprogramm und werden von vielversprechenden Bewerbungen unserer Absolventen profitieren. Um die Unternehmen besser kennenzulernen, können Sie sich bei ihnen für ein Praktikum während Ihres Studiums bewerben.
+Rankings und Bewertungen
+Die Studierenden und Alumni der KU haben sie 2026 zum vierten Mal (nach 2021, 2022 und 2024) zur beliebtesten Universität Deutschlands im Ranking des Online-Portals StudyCheck gekürt. Grundlage für das Ranking waren über 87.000 Bewertungen für mehr als 500 Hochschulen und Universitäten. 97 Prozent jener Studierenden, die am Ranking teilnahmen, empfehlen ein Studium an der KU weiter.
+„Es gibt für eine Universität doch kein besseres Lob, wenn fast 100 Prozent der Studierenden und Alumni sagen: Ein Studium an der KU kann ich nur empfehlen! Darum freut uns diese Auszeichnung sehr, weil sie die hohe Zufriedenheit unserer Studierenden ausdrückt“, so KU-Präsidentin Prof. Dr. Gabriele Gien.
+Mehr Ranking Ergebnisse
+Internationalisierung und Ausland
+Maschinelles Lernen und mathematische Methoden werden nicht durch Ländergrenzen beeinflusst - daher ist der internationale Kontext im Studiengang sehr präsent.
+Der Studiengang wird auf Englisch angeboten und schafft dadurch ideale Voraussetzungen für eine Karriere in international agierenden Unternehmen.
+Es besteht zudem die Möglichkeit, einen Teil des Studiums im Ausland zu absolvieren. Dafür geeignet ist insbesondere das fünfte Studiensemester. Die Studierenden profitieren hier vom weltweiten Netzwerk der KU: Die Universität pflegt Partnerschaften mit mehr als 300 Hochschulen rund um den Globus. Egal ob Nordamerika oder Asien, Australien, Südamerika oder Europa - das passende Programm findet sich. Bei der Planung und Organisation unterstützt das
+International Office
+der KU.
+Praxis
+Ein starker Praxisbezug ist eine wesentliche Charakteristik des Studiengangs Data Science. Durch zwei Programmierkurse werden fundierte Programmierkenntnisse vermittelt. In vielen weiteren Veranstaltungen werden diese Kenntnisse angewendet und weiter vertieft. Im "Data Science Lab" beispielsweise erarbeiten die Studierenden selbstständig in kleinen Teams umfassende Fragestellungen.
+Darüber hinaus ist im Studium ein Industriepraktikum oder alternativ ein Forschungspraktikum (am Mathematischen Institut für Maschinelles Lernen und Data Science oder in anderen Fachgebieten der KU oder anderer Hochschulen) vorgesehen. Die Studierenden haben so die Möglichkeit, früh Kontakte in die Berufswelt zu knüpfen und ein Gefühl für relevante Fragestellungen zu entwickeln.
+Ob in Berlin, Den Haag oder Gran Canaria – das Data-Science-Hackathon-Team Denis, Ali, Veronika und Ruslan war als KU-Team "Fantastic Four" unterwegs, um mit Daten reale Probleme zu lösen.
+Karrieremöglichkeiten und Berufsfelder
+Data Science ist von grundlegender Bedeutung für den digitalen Transformationsprozess der nächsten Jahrzehnte. Hierbei werden Umwelt und Industrie zunehmend mit vernetzten Informationssystemen und datensammelnden Geräten durchdrungen; um daraus Gewinn zu ziehen, müssen die resultierenden Daten mittels moderner Verfahren analysiert werden. Hierdurch entsteht ein Bedarf an gut ausgebildeten Datenwissenschaftlerinnen und Datenwissenschaftlern, die diese Herausforderungen mittels neuer Technologien und Verfahren (wie maschinelle Lernverfahren in der Künstlichen Intelligenz) in z.B. Industrie, Wirtschaft, Start-ups und im öffentlichen Sektor lösen.
+Es werden Absolventinnen und Absolventen gebraucht, die ausgeprägte Fähigkeiten zum analytischen Denken und zur Umsetzung in Form von Algorithmen besitzen und die sich gleichzeitig der Verantwortung in der Verarbeitung von sensiblen Daten, auch im Hinblick auf Unvoreingenommenheit und Objektivität der Algorithmen, bewusst sind.
+Mögliche Berufsfelder für alle Profile im Studiengang sind
+Fach- und Führungspositionen in Tätigkeitsbereichen mit Bezug zur Data Science und Informationstechnologie in nationalen und internationalen Unternehmen und Organisationen,
+Querschnittsaufgaben im Bereich des maschinellen Lernens, der Datenanalyse und Prognose, - Beratertätigkeiten in den genannten Bereichen,
+Akademischer Werdegang in Mathematik, Data Science und Anwendungsgebieten.
+Spezialisierungsabhängige Berufsfelder sind:
+Applied Mathematics and Scientific Computing
+Aufgaben in Forschung und Entwicklung in technischen Industriezweigen
+Entwicklung von Algorithmen und Software in Unternehmen und Organisationen,
+Tätigkeit in Bildungseinrichtungen (Schule, Erwachsenenbildung, Hochschulen),
+Beschäftigung in analytisch ausgelegten Unternehmensberatungen.
+Machine Learning and Statistics
+Experten und Expertinnen in Datensammlung, -analyse und -interpretation sowie Prognose,
+analytische Tätigkeiten in Finanzabteilungen von Unternehmen, öffentlichen Einrichtungen, Ministerien und internationalen Organisationen.
+Environmental Science
+Mitarbeit in Forschungsinstituten wie Deutsches Zentrum für Luft- und Raumfahrt und Alfred-Wegener-Institut für Polar- und Meeresforschung,
+Tätigkeit bei wissenschaftlichen Diensten wie dem Deutschen Wetterdienst und dem Bundesamt für Schifffahrt und Hydrologie,
+Beratung von Regierungen und Nichtregierungsorganisationen wie dem Umweltministerium und Greenpeace.
+Business Analytics and Operations
+Tätigkeiten in der strategischen Planung und Unternehmensentwicklung, insbesondere mit Fokus auf digitale Transformationsprozesse von Unternehmen,
+Experten und Expertinnen für die datenbasierte Optimierung und Entscheidungsunterstützung in Beschaffung, Produktion, Distribution, Logistik und Supply Chain Management,
+Prozessarchitekten zur Gestaltung, Steuerung und Koordination unternehmensinterner und unternehmensübergreifender Waren- und Informationsflüsse mit Hilfe moderner Methoden der Data Science und des Maschinellen Lernens.
+Finance and Economics
+Analytische und entscheidungsunterstützende Tätigkeiten in Finanzabteilungen von Unternehmen und Organisationen im öffentlichen Sektor,
+Allgemeine Führungsaufgaben in Politik, Wirtschaft und öffentlicher Verwaltung.
+Digital Transformation of Society
+Entwicklung und Anwendung von Datenanalyseverfahren in der Markt- und Meinungsforschung,
+Quantitative Untersuchungen für Medienunternehmen,
+Tätigkeit im auf empirischen Methoden basierten Journalismus,
+Berater für Parteien, Organisationen und Verbände
+Stimmen zum Studium
+„Mir gefällt die internationale Atmosphäre des Studiengangs, der Studierende aus aller Welt zusammenbringt. Keiner muss Bedenken haben, dass er bei den englischen Veranstaltungen sprachlich nicht mitkommt. Im Gegenteil: Die gemeinsame Sprache erleichtert die Verständigung und ganz nebenbei verbessert man seine Sprachkompetenz.“
+„Mir gefällt die internationale Atmosphäre des Studiengangs, der Studierende aus aller Welt zusammenbringt. Keiner muss Bedenken haben, dass er bei den englischen Veranstaltungen sprachlich nicht mitkommt. Im Gegenteil: Die gemeinsame Sprache erleichtert die Verständigung und ganz nebenbei verbessert man seine Sprachkompetenz.“
+- Jan Stüwe
+„Der Studiengang in Data Science inspiriert uns dazu, explorativ zu denken, selbstbewusst logische Ketten zu konstruieren und bedeutende Probleme zu lösen. Die Professoren sind aufrichtig daran interessiert, sicherzustellen, dass der Studiengang für jeden Studierenden interessant ist und alle in der Lage sind, komplexe…
+„Der Studiengang in Data Science inspiriert uns dazu, explorativ zu denken, selbstbewusst logische Ketten zu konstruieren und bedeutende Probleme zu lösen. Die Professoren sind aufrichtig daran interessiert, sicherzustellen, dass der Studiengang für jeden Studierenden interessant ist und alle in der Lage sind, komplexe Aufgaben zu lösen, unabhängig von bereits vorher erworbenen Wissensständen. Bereits nach zwei Semestern in diesem fortschrittlichen Studiengang kann ich absolut unterstreichen, dass ich eine Menge Fähigkeiten erworben habe, die für einen echten Data Science Profi unerlässlich sind."
+- Alena Semkiv
+(3. Semester)
+„Mir gefällt es sehr, dass die Lehrenden des Data Science Studiengangs mit echter Leidenschaft unterrichten und den Studierenden gerne dabei helfen, die zugrundeliegenden Konzepte zu verstehen. Sie sind leicht erreichbar und bieten wertvolle Beratung und Unterstützung über verschiedene Wege wie Zoom, E-Mail oder…
+„Mir gefällt es sehr, dass die Lehrenden des Data Science Studiengangs mit echter Leidenschaft unterrichten und den Studierenden gerne dabei helfen, die zugrundeliegenden Konzepte zu verstehen. Sie sind leicht erreichbar und bieten wertvolle Beratung und Unterstützung über verschiedene Wege wie Zoom, E-Mail oder persönliche Termine. Für mich als frischgebackener Schulabgänger hat ihre Unterstützung meine Lernerfahrung sehr bereichert. Der Studiengang in Data Science an sich ist gut strukturiert und die Fächer sind gut über die Semester verteilt, um den Studierenden ein tieferes Verständnis der Themen zu ermöglichen."
+- Aditi Bhusan
+(3. Semester)
+„Mir gefällt, dass die Reihenfolge der Inhalte sorgfältig gestaltet ist, nicht nur innerhalb eines einzelnen Kurses, sondern auch in Verbindung zwischen den verschiedenen Kursen. Obwohl die Mathematikkurse anspruchsvoll sein können, helfen sie, die Inhalte der Fachkurse zu verstehen. Mir gefällt auch die Leidenschaft…
+„Mir gefällt, dass die Reihenfolge der Inhalte sorgfältig gestaltet ist, nicht nur innerhalb eines einzelnen Kurses, sondern auch in Verbindung zwischen den verschiedenen Kursen. Obwohl die Mathematikkurse anspruchsvoll sein können, helfen sie, die Inhalte der Fachkurse zu verstehen. Mir gefällt auch die Leidenschaft der Professorinnen und Professoren. Sie wollen uns helfen und ermutigen uns, neue Technologien auszuprobieren, anstatt nur aufzutauchen und veraltete Folien zu präsentieren."
+- Shizhen Li
+(3. Semester)
+„Mir gefällt, dass die Universität die Möglichkeit bietet, parallel zum Studium Data Science einen zweiten Abschluss in Mathematik zu erwerben. Die Mathematikkurse machen mir Spaß, und ich bin gerade dabei, den zweiten Abschluss zu machen. Mathematik ist ein wesentlicher Bestandteil von Data Science, aber auch für sich…
+„Mir gefällt, dass die Universität die Möglichkeit bietet, parallel zum Studium Data Science einen zweiten Abschluss in Mathematik zu erwerben. Die Mathematikkurse machen mir Spaß, und ich bin gerade dabei, den zweiten Abschluss zu machen. Mathematik ist ein wesentlicher Bestandteil von Data Science, aber auch für sich genommen interessant, daher bin ich froh, beides vertiefen zu können. Die Dozierenden unterstützen die Studierenden sehr in ihrem Wunsch, Mathematik zu studieren, und tun alles, um den Erwerb des zweiten Abschlusses so reibungslos wie möglich zu gestalten."
+- Oleksandr Bobryshev
+Die KU
+Die KU hat zwei Standorte: Eichstätt und Ingolstadt. In Eichstätt sind sieben Fakultäten angesiedelt. In Ingolstadt hat die Wirtschaftswissenschaftliche Fakultät und das MIDS (Institut für Maschinelles Lernen und Data Science) ihren Sitz.
+Dieser Studiengang ist in Ingolstadt beheimatet.
+Studienort
+Der Landkreis Eichstätt und die Stadt Ingolstadt bilden die Mitte Bayerns. Die
+zentrale Lage
+steht auch für die gute Erreichbarkeit der KU. Die Verbindung von historischer Altstadt, moderner Infrastruktur, attraktiven Freizeitmöglichkeiten und sehr viel Grün macht Ingolstadt – die zweitgrößte Stadt Oberbayerns – zu einem idealen Studienort.
+Campus
+Trotz ihrer zentralen Lage in der Großstadt Ingolstadt, zeichnet sich der Campus der WFI durch
+kurze Wege
+aus. Nach dem Prinzip einer Campus-Universität sind die modern ausgestatteten Gebäude der KU in Ingolstadt direkt an der Altstadt gelegen.
+MehrWert
+Das Studium an der KU vermittelt nicht nur Fachwissen, sondern will seinen Studierenden auch echte Zukunftsperspektiven eröffnen. Wir wollen unsere Studierenden dabei unterstützen, ihren ganz persönlichen Weg in ihre Traumzukunft zu finden! Nicht
+„Was will ich werden?“,
+sondern
+„Wer will ich sein?“
+Beratungsangebot
+Allgemeine Studierendenberatung
+Die Studierendenberatung der KU
+steht allen Studieninteressierten für ihre Fragen offen. Sie unterstützt bei der Suche nach dem richtigen Studiengang und gibt Tipps rund um Bewerbung, Zulassung und Einschreibung.
+Marie-Anne
+ Kohll M.A.
+Leitung Referat IV/2 Studierendenberatung
+Telefon
++49 8421 93-21283
+E-Mail
+studierendenberatung@ku.de
+Gebäude
+Marktplatz 7
+| 
+ 
+ 
+ 
+ Raum: MP7-005
+Fachstudienberatung
+Wenn Sie Detailfragen zu genau diesem Studiengang haben, z. B. zu Studienaufbau und Berufsmöglichkeiten, wenden Sie sich gerne direkt an die Fachstudienberatung.
+Prof. Dr.
+ Nadja
+ Ray
+Lehrstuhlinhaberin Geomatik und Geomathematik
+Telefon
++49 841 937-21159
+E-Mail
+nadja.ray@ku.de
+Gebäude
+Georgianum
+| 
+ 
+ 
+ 
+ Raum: GEOG-104
+Prof. Dr.
+ Marcel
+ Oliver
+Inhaber des Lehrstuhls für Angewandte Mathematik
+Telefon
++49 841 937-21401
+E-Mail
+marcel.oliver@ku.de
+Raum: GEOG-106
+Dr.
+ Sarah
+ Eberle-Blick
+Wissenschaftliche Mitarbeiterin
+Telefon
++49 841 937 21220
+E-Mail
+sarah.eberle-blick@ku.de
+Gebäude
+Georgianum
+| 
+ 
+ 
+ 
+ Raum: GEOG-105
+Bewerbung
+Voraussetzung
+Fachgebundene Hochschulreife
+oder Fachgebundene HR /Wirtschafts- oder Technikzweig oder Allgemeine Hochschulreife
+Sprachvoraussetzungen
+Englisch; nach dem 1. Studienjahr Deutsch A2
+Zulassungsbeschränkung
+Nein
+Auswahlverfahren
+Nein
+Alle Bewerberinnen und Bewerber, die eine
+deutsche Hochschulzugangsberechtigung
+(verliehen von einer deutschen Bildungseinrichtung) besitzen, können sich innerhalb des
+oben genannten Zeitraums
+einfach für das Programm einschreiben.
+EU-Bürgerinnen und -Bürger, die eine
+EU-Hochschulzugangsberechtigung
+besitzen, jedoch keine deutsche Hochschulzugangsberechtigung haben, müssen ihre formale Qualifikation überprüfen lassen. Sie müssen ihre Studienergebnisse, Abschluss- und Sprachzertifikate zwischen
+Anfang April und dem 15. Juli
+über das
+Bewerbungsportal der KU
+einreichen.
+Alle anderen Bewerberinnen und Bewerber
+unterliegen einem
+obligatorischen Eignungstest
+. Sie müssen alle erforderlichen Unterlagen zwischen
+Anfang April und dem 15. Juli
+über uni-assist (
+https://www.uni-assist.de
+) einreichen! Details unten!
+Eignungsfeststellungsverfahren für Nicht-EU-Bürger und -Bürgerinnen
+Personen, die keine EU-Bürger oder EU-Bürgerinnen sind oder ihre Hochschulzugangsberechtigung außerhalb der Europäischen Union erworben haben, müssen ein Eignungsfeststellungsverfahren erfolgreich absolvieren. Beim Eignungsfeststellungsverfahren werden schulische und universitäre Leistungen (insbesondere in Mathematik und Informatik), Ergebnisse in standardisierten Tests (SAT, TestAS), Teilnahmen an ausgewiesenen Mathematik- und Informatik-Olympiaden und weitere außerschulische Aktivitäten im Bereich Data Science berücksichtigt. Die Gesamtnote des Eignungsfestellungsverfahrens wird als arithmetisches Mittel aus der Hochschulzugangsberechtigung und einer durch die Prüfer festgelegten Eignungsnote bestimmt. Das Eignungsverfahren ist erfolgreich absolviert, wenn die Gesamtnote 2,0 oder besser lautet.
+Wichtiger Hinweis!
+Detaillierte Informationen zu den Bewerbungsvoraussetzungen und zum Bewerbungsprozess
+Bitte lesen Sie die folgenden Informationen sorgfältig, um sicherzustellen, dass Sie für diesen stark nachgefragten Bachelor-Studiengang zugelassen werden können. So können Sie alle erforderlichen Unterlagen für Ihre digitale Bewerbung rechtzeitig vorbereiten.
+Achtung: Internationale Bewerbende, die ihre Hochschulzugangsberechtigung außerhalb der EU erworben haben, müssen sich für diesen Studiengang über
+uni-assist
+bewerben! Bitte beachten Sie, dass für die Frage, ob Sie sich über uni-assist bewerben müssen oder nicht, nur das Land relevant ist, in dem Sie Ihre Hochschulzugangsberechtigung für Data Science erworben haben. Bitte beachten Sie, dass Masterstudiengänge oder (zusätzliche) Bachelorstudiengänge, die in der EU begonnen oder abgeschlossen wurden, für diese Frage nicht relevant sind. Bitte beachten Sie auch, dass das Vereinigte Königreich kein Mitglied der EU ist. Weitere Informationen finden Sie unten.
+Voraussetzungen:
+Grundvoraussetzung: Hochschulzugangsberechtigung, die formal einer deutschen Hochschulzugangsberechtigung entspricht. Wenn Sie sich über Ihre Qualifikation unsicher sind, überprüfen Sie bitte die
+anabin-Datenbank
+oder die
+DAAD-Datenbank
+.
+Erforderliche Bewerbungsunterlagen
+Erforderliche Bewerbungsunterlagen:
+Bildungsunterlagen (alle Dokumente müssen sowohl a) im Original oder als beglaubigte Kopie hochgeladen werden als auch – falls erforderlich – b) ins Deutsche oder Englische übersetzt und ebenfalls beglaubigt werden)
+Ihr Sekundarschulabschlusszeugnis (Abitur, Hochschulreife, usw.). Das Zeugnis muss Ihre durchschnittliche Abschlussnote enthalten.
+Offizielles Benotungssystem Ihrer Schule, um die Note in eine deutsche Äquivalenznote umzurechnen.
+Falls zutreffend: Hochschulzugangsberechtigung aus Ihrem Heimatland.
+Falls zutreffend:
+Vollständige Zeugnisse Ihres Hochschulstudiums. Ihr Zeugnis muss die Durchschnittsnote Ihres Studiums enthalten.
+Offizielles Benotungssystem Ihrer Hochschule zur Umrechnung Ihrer Note in eine deutsche Äquivalenznote.
+Falls zutreffend:
+Ihr Hochschulabschlusszeugnis (Bachelor oder gleichwertiger Abschluss).
+Vollständiges Zeugnis mit Angabe der Gesamtnote.
+Offizielles Benotungssystem Ihrer Hochschule zur Umrechnung Ihrer Note in eine deutsche Äquivalenznote.
+Bewerbende, die zuvor in China, Indien, der Mongolei oder Vietnam studiert haben: APS-Zertifikat
+Allgemeine Unterlagen
+Vollständiger Lebenslauf (beginnend mit dem Datum und der Note des Abschlusses) Ihrer letzten drei Jahre der höheren Sekundarstufe
+Kopie des Reisepasses
+Sprachkenntnisse
+Nachweis der Englischkenntnisse (z. B. durch TOEFL-Ergebnis von 78 oder besser, IELTS-Band 5.5 oder besser; Bachelor- oder Master-Abschluss in Englisch – Bestätigung der Universität erforderlich – etc.)
+Nachweis der Deutschkenntnisse auf Niveau A2 oder besser (nicht erforderlich bei der Bewerbung; A2 muss jedoch spätestens bis zum Ende des zweiten Semesters des Studiums erreicht sein; bis dahin erfolgt die Registrierung/Einschreibung unter Vorbehalt)
+Weitere Voraussetzungen:
+Bewerbende, die nicht Bürgerinnen oder Bürger der EU sind oder ihre Hochschulzugangsberechtigung außerhalb der Europäischen Union erworben haben, müssen zusätzlich ein Eignungsprüfungsverfahren für die Zulassung erfolgreich absolvieren. Fügen Sie daher Ihrer digitalen Bewerbungsmappe folgende Unterlagen bei, sofern verfügbar:
+Nachweis der TestAS-Punktzahl und/oder
+Nachweis der SAT-Mathematik-Punktzahl und/oder
+Nachweis der Teilnahme an anerkannten nationalen oder internationalen Mathematik- oder Informatikwettbewerben (Nachweis in Form einer offiziellen Teilnahmebestätigung, ausgestellt vom Organisationskomitee oder ähnlichem) und/oder
+Nachweis außerschulischer Aktivitäten im Bereich Data Science
+Die Eignungsprüfung wird auf einer Skala von 1 bis 5 bewertet, wobei die Gesamtnote der Hochschulzugangsberechtigung und die in der Eignungsprüfung erzielte Note berücksichtigt werden. Eine Zulassung ist möglich, wenn der arithmetische Mittelwert 2,0 (deutsches Äquivalent) oder besser ist.
+Informationen zum Bewerbungsverfahren
+Bewerbungsverfahren:
+Deutsche Staatsangehörige und Bewerbende, die ihre Hochschulzugangsberechtigung innerhalb der Europäischen Union erworben haben: Bitte bewerben Sie sich direkt über das KU-Bewerbungsportal
+https://studienservice.ku.de
+. Die gesamte weitere Kommunikation mit Ihnen erfolgt über dieses Portal.
+Internationale Bewerbende, die ihre erste Hochschulzugangsberechtigung außerhalb der Europäischen Union erworben haben: Bitte bewerben Sie sich ausschließlich über uni-assist.de Bitte bewerben Sie sich so schnell wie möglich über
+https://www.uni-assist.de/
+mit allen erforderlichen Unterlagen (digitale Uploads der Originale oder beglaubigte Kopien)! Sie müssen uns kein VPD zusenden, da wir das VPD-System nicht nutzen. Sobald Ihre Unterlagen erfolgreich geprüft wurden, erhalten wir über uni-assist Zugriff darauf. Darüber hinaus sind auch die Bewertungsergebnisse für uns zugänglich. Wir haben die erforderlichen Schnittstellen zwischen den beiden Systemen (uni-assist und dem KU-Bewerbungsportal) eingerichtet. Folglich generiert die Schnittstelle automatisch ein Bewerberkonto für Personen, die die formalen Grundvoraussetzungen für die Zulassung erfüllen. Dieses Konto erleichtert die Kommunikation zwischen Ihnen als Bewerbende und der KU. Bewerbende, die die erste formale Prüfung durch uni-assist nicht bestehen, werden nicht zum Auswahlverfahren zugelassen. Entsprechende Benachrichtigungen werden von uni-assist versandt. Bewerbende, die von uni-assist formal zugelassen wurden, erhalten nach Erstellung der oben genannten Rangliste durch die KU-Auswahlkommission über das KU-Bewerbungsportal eine Benachrichtigung über ihre Zulassung oder Ablehnung.
+Die Bewerbungsfrist für beide Gruppen und Portale läuft vom 1. April bis zum 15. Juli. Wir empfehlen Ihnen, Ihre Bewerbung so früh wie möglich einzureichen. Auf diese Weise können wir Ihnen eine vorzeitige Zulassung anbieten, wenn Sie die formalen Voraussetzungen erfüllen oder den Eignungstest bestehen. Bewerbende, die sich über uni-assist.de bewerben müssen, bitten wir jedoch, von Anfragen zum Status ihrer Bewerbung bei uns abzusehen, da wir keinen Einfluss auf die Bearbeitungszeiten haben.
+Wir freuen uns auf Ihre Bewerbung.
+Für weitere Informationen zu den Zulassungsvoraussetzungen senden Sie bitte eine E-Mail an
+welcome(at)ku.de
+.
+Für die Einschreibung in diesen Studiengang ist eine Bewerbung erforderlich. Im Fall einer erfolgreichen Bewerbung erhalten Sie einen Zulassungsbescheid. Damit ist dann die Einschreibung in den Studiengang möglich.
+Die Bewerbung für den Studiengang erfolgt über das zentrale Bewerbungsportal der KU. Bitte beachten Sie, dass eine Registrierung im Portal jederzeit möglich ist, die Bewerbung selbst allerdings nur innerhalb der Bewerbungsfristen (siehe grauer Infokasten am Seitenanfang). Sollten Sie weitergehende Fragen zur Bewerbung haben, können Sie sich auf den Seiten des Studierendenbüros informieren.
+Zum Bewerbungs- und Einschreibeportal der KU
+Aktuelles zum Studium
+Alle Nachrichten
+03. Juni 2026
+Scholarships and Awards for MIDS Students
+Over the past few weeks, a number of awards and scholarships have been presented, and we are very proud that many MIDS students are among the…
+02. Juni 2026
+Teilnahme am Digi:Werk10
+Beim
+DigiWerk10
+, einer Netzwerkveranstaltung des KUS in Reichertshausen (Landkreis Pfaffenhofen) war auch das
+Mathematische Institut für maschinelles…
+27. Mai 2026
+International Conference in Computational Harmonic Analysis featuring a star speaker
+The
+International Conference in Computational Harmonic Analysis
+, organized by
+Prof. Pfander
+of
+MIDS
+and Profs Aldroubi and Powell of the University of…
+Weitere Informationen
+nach oben
+Flyer zum Studiengang
+Quicklinks
+nach oben
+Homepage der Fakultät
+Fachgruppe
+Mathematisches Institut für Maschinelles Lernen & Data Science

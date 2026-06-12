@@ -1,0 +1,296 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulplan_und_Studienverlauf_MA_Taxation_Teilzeit_de.pdf
+TITLE: Modulplan_und_Studienverlauf_MA_Taxation_Teilzeit_de.pdf
+SOURCE_FILE: Modulplan_und_Studienverlauf_MA_Taxation_Teilzeit_de.pdf
+------------------------------------------------------------
+
+[Page 1]
+Master of Science 
+Taxation 
+Wirtschaftswissenschaftliche Fakultät 
+ 
+Studienplan M.Sc. Taxation 
+Aufbau des Studiums: 
+ 
+ 
+Idealtypischer Studienverlaufsplan (Teilzeit): 
+Studienplan [Master Taxation: Start im Wintersemester] 
+(120 ECTS-Punkte) 
+6 
+ 
+Umsatzsteuerrecht 
+(Präsentation) 
+Abgabenordnung 
+(Klausur) 
+Masterarbeit 
+ 
+20 ECTS-
+Punkte 
+ 
+ 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+10 ECTS-Punkte 
+ 
+ 
+5 
+ 
+Masterarbeit 
+ 
+20 ECTS-
+Punkte 
+ 
+ 
+20 ECTS-Punkte 
+ 
+ 
+4 
+ 
+Aktuelle Fragen der 
+Unternehmens-
+besteuerung 
+(Seminararbeit + 
+Präsentation) 
+Multinationale 
+Unternehmen und ihre 
+Besteuerung (Klausur) 
+Erbschaftsteuer und 
+Bewertungsrecht 
+(Klausur) & 
+Internationale 
+Verrechnungspreise 
+und Gewinnabgren-
+zung (Präsentation) 
+Umwandlungssteuer-
+recht (Klausur) 
+ 
+20 ECTS-
+Punkte 
+ 
+ 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+ 
+ 
+ 
+3 
+ 
+ 
+Bilanzsteuerrecht 
+(Klausur) 
+Bilanzrecht (Klausur) 
+Steuerfunktion 4.0 
+(Präsentation) 
+Fallstudien zu Umw.- 
+und int. Steuerrecht 
+ (Präsentation) 
+ 
+20 ECTS-
+Punkte 
+ 
+ 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 2]
+Master of Science 
+Taxation 
+Wirtschaftswissenschaftliche Fakultät 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+Tax Policy (Klausur) 
+Tax Research 
+(Präsentation) 
+Umwandlungsrecht 
+(Klausur) 
+Advanced Business 
+Ethics (Klausur) 
+ 
+20 ECTS-
+Punkte 
+ 
+ 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+ 
+ 
+ 
+1 
+ 
+ 
+Unternehmens-
+steuerrecht (Klausur) 
+Internationale 
+Unternehmens-
+besteuerung (Klausur) 
+Studium.Pro 
+Current Issues in Tax 
+Policy (Seminararbeit + 
+Präsentation) 
+ 
+20 ECTS-
+Punkte 
+ 
+ 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+ 
+ 
+ 
+Studienplan [Master Taxation: Start im Sommersemester] 
+(120 ECTS-Punkte) 
+6 
+ 
+ 
+Masterarbeit 
+ 
+ 
+20 ECTS-
+Punkte 
+ 
+ 
+20 ECTS-Punkte 
+ 
+ 
+5 
+ 
+Umsatzsteuerrecht 
+(Präsentation) 
+Abgabenordnung 
+(Klausur) 
+Masterarbeit 
+ 
+20 ECTS-
+Punkte 
+ 
+ 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+10 ECTS-Punkte 
+ 
+ 
+4 
+ 
+Bilanzsteuerrecht 
+(Klausur) 
+Bilanzrecht (Klausur) 
+Steuerfunktion 4.0 
+(Präsentation) 
+Fallstudien zu Umw.- 
+und int. Steuerrecht 
+ (Präsentation) 
+ 
+20 ECTS-
+Punkte 
+ 
+ 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+ 
+ 
+ 
+3 
+ 
+ 
+Aktuelle Fragen der 
+Unternehmens-
+besteuerung 
+(Seminararbeit + 
+Präsentation) 
+Multinationale 
+Unternehmen und ihre 
+Besteuerung (Klausur) 
+Erbschaftsteuer und 
+Bewertungsrecht 
+(Klausur) & 
+Internationale 
+Verrechnungspreise 
+und Gewinnabgren-
+zung (Präsentation) 
+Umwandlungssteuer-
+recht (Klausur) 
+ 
+20 ECTS-
+Punkte 
+ 
+ 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+ 
+ 
+ 
+2 
+ 
+ 
+Unternehmens-
+steuerrecht (Klausur) 
+Internationale 
+Unternehmens-
+besteuerung (Klausur) 
+Studium.Pro 
+Current Issues in Tax 
+Policy (Seminararbeit + 
+Präsentation) 
+ 
+20 ECTS-
+Punkte 
+ 
+ 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+ 
+ 
+ 
+1 
+ 
+ 
+Tax Policy (Klausur) 
+Tax Research 
+(Präsentation) 
+Umwandlungsrecht 
+(Klausur) 
+Advanced Business 
+Ethics (Klausur) 
+ 
+20 ECTS-
+Punkte 
+ 
+ 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte

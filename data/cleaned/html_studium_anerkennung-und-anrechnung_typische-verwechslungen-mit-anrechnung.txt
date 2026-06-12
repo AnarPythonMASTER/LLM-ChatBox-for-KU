@@ -1,0 +1,42 @@
+SOURCE_URL: https://www.ku.de/studium/anerkennung-und-anrechnung/typische-verwechslungen-mit-anrechnung
+TITLE: Typische Verwechslungen mit Anrechnung – KU
+SOURCE_FILE: studium_anerkennung-und-anrechnung_typische-verwechslungen-mit-anrechnung.html
+------------------------------------------------------------
+
+Typische Verwechslungen mit Anrechnung
+Von den Arten und Typen von Anerkennung und Anrechnung an der KU zu unterscheiden und abzugrenzen sind andere Vorgänge, bei denen es ebenfalls am Ende zu einer Verbuchung von Leistungen in der Datenabschrift oder im Transcript of Records bzw. Diploma Supplement kommt, die an der KU des Öfteren, aber nur fälschlicherweise, als „Anrechnung“ bezeichnet bzw. für Formen von Anrechnung gehalten werden. Solche typischen Verwechslungen, die keine Anerkennungs- oder Anrechnungsvorgänge sind, sind insbesondere:
+Umbuchung von Leistungen
+Die
+Umbuchung von Leistungen
+oder Modulen innerhalb des Prüfungsverwaltungssystems KU.Campus, die von den Sachbearbeiterinnen des Prüfungsamts vorgenommen werden, wenn die oder der Prüfende eine entsprechende Umbuchung freigegeben hat, um eine vorherige Falschverbuchung zu korrigieren.
+Ausführliche Informationen zum Thema
+Umbuchung finden Sie hier.
+Aufbuchung von Prüfungsanlässen auf Hauptmodule
+Die
+Aufbuchung von Prüfungsanlässen
+auf Hauptmodule, die eine Voraussetzung dafür ist, dass die bestandenen Prüfungen innerhalb der absolvierten Module und damit in der Datenabschrift in KU.Campus sichtbar werden; dabei handelt es sich um einen rein technischen Vorgang, bei dem aus verschiedenen Gründen - insbesondere nach Studiengangwechseln - bedauerlicherweise auch technische Fehler auftreten können.
+Ausführliche Informationen zum Thema
+Aufbuchung finden Sie hier.
+Mehrfachwahl-Verbuchung
+Die Mehrfachwahl-Verbuchung: Eine mehrfache Verbuchung eines Moduls erfolgt, wenn für dieses laut Prüfungsordnung eine Mehrfachwahl möglich ist. Ohne entsprechende Regelung in der Prüfungsordnung kann ein Modul in einem Studiengang nur einmal absolviert oder angerechnet werden.
+Ausführliche Informationen zum Thema
+Mehrfachwahl finden Sie hier.
+Einbringen von Zusatzleistungen
+Das
+Einbringen von Zusatzleistungen
+: Zusatzleistungen sind Module, die während einer Immatrikulation in einem Studiengang an der KU absolviert wurden, aber nicht in diesen Studiengang eingebracht werden können (z.B. da die erforderlichen ECTS-Punkte bereits anderweitig erbracht wurden, oder das Modul nicht Teil des Studiengangs ist). Diese Leistungen können via Zeugnisantrag in den Zeugnisunterlagen ausgewiesen werden.
+Ausführliche Informationen zum Thema
+Zusatzleistungen finden Sie hier.
+Zuordnung von Modulen zu Wahlpflicht- oder Wahlbereichen
+Die
+Zuordnung von Modulen
+zu Wahlpflicht- oder Wahlbereichen: Haben Studiengänge großzügige Regelungen für die Einbringung von Modulen in diese Bereiche, so sind ggf. nicht alle möglichen Module im Studiengang in KU.Campus hinterlegt, so dass diese Module dem Studiengang noch zugeordnet werden müssen, um in der Datenabschrift sichtbar zu werden.
+Ausführliche Informationen zum Thema
+Zuordnung finden Sie hier.
+Eintragung von ehrenamtlichen Engagement im Diploma Supplement
+Die
+Eintragung von ehrenamtlichen Engagement
+im Diploma Supplement des Studiengangs, was im Rahmen des Zeugnisantrags veranlasst werden kann.
+Ausführliche Informationen zum Thema
+Ehrenamt finden Sie hier.
+Alle diese Fälle erfordern keinen Anrechnungsantrag und werden nicht über das Online-Anrechnungsportal abgewickelt. Trotzdem werden diese Fälle an der KU bedauerlicherweise immer wieder als Fälle von "Anrechnung" bezeichnet, was auf allen Seiten zu Verwechslungen und oft zu erheblichem Mehraufwand führen kann.

@@ -1,0 +1,829 @@
+<!-- SOURCE_URL: https://www.ku.de/intranet -->
+<!-- FETCH_METHOD: playwright -->
+<!DOCTYPE html><html lang="de" class="webkit chrome mac js portrait animations"><head>
+
+<meta charset="utf-8">
+<!-- 
+	********************************************************************************
+	*                                                                *****  **     *
+	*              TYPO3 by in2code.de - Wir leben TYPO3           ******  ****    *
+	*                                                               *****  **      *
+	* www.in2code.de / info(at)in2code(dot)de / +49 8031 8873983     *****         *
+	*                                                                  **          *
+	********************************************************************************
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<link rel="icon" href="/_assets/a6bd65689fdffc828e742fa51212487d/Images/Assets/favicon.ico" type="image/vnd.microsoft.icon">
+<title>Login – KU</title>
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+<meta name="generator" content="TYPO3 CMS">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index,follow">
+<meta name="author" content="Katholische Universität Eichstätt - Ingolstadt">
+<meta property="og:title" content="Login">
+<meta name="twitter:card" content="summary">
+<meta name="apple-mobile-web-app-capable" content="no">
+
+
+
+
+
+
+
+<script>
+/*<![CDATA[*/
+/*TS_inlineJS*/
+            function css_browser_selector(u){var ua=u.toLowerCase(),is=function(t){return ua.indexOf(t)>-1},g="gecko",w="webkit",s="safari",c="chrome",o="opera",m="mobile",v=0,r=window.devicePixelRatio?(window.devicePixelRatio+"").replace(".","_"):"1";var res=[!/opera|webtv/.test(ua)&&/msie\s(\d+)/.test(ua)&&(v=RegExp.$1*1)?"ie ie"+v+(v==6||v==7?" ie67 ie678 ie6789":v==8?" ie678 ie6789":v==9?" ie6789 ie9m":v>9?" ie9m":""):/edge\/(\d+)\.(\d+)/.test(ua)&&(v=[RegExp.$1,RegExp.$2])?"ie ie"+v[0]+" ie"+v[0]+"_"+v[1]+" ie9m edge":/trident\/\d+.*?;\s*rv:(\d+)\.(\d+)\)/.test(ua)&&(v=[RegExp.$1,RegExp.$2])?"ie ie"+v[0]+" ie"+v[0]+"_"+v[1]+" ie9m":/firefox\/(\d+)\.(\d+)/.test(ua)&&(re=RegExp)?g+" ff ff"+re.$1+" ff"+re.$1+"_"+re.$2:is("gecko/")?g:is(o)?"old"+o+(/version\/(\d+)/.test(ua)?" "+o+RegExp.$1:/opera(\s|\/)(\d+)/.test(ua)?" "+o+RegExp.$2:""):is("konqueror")?"konqueror":is("blackberry")?m+" blackberry":is(c)||is("crios")?w+" "+c:is("iron")?w+" iron":!is("cpu os")&&is("applewebkit/")?w+" "+s:is("mozilla/")?g:"",is("android")?m+" android":"",is("tablet")?"tablet":"",is("opr/")?o:"",is("yabrowser")?"yandex":"",is("j2me")?m+" j2me":is("ipad; u; cpu os")?m+" chrome android tablet":is("ipad;u;cpu os")?m+" chromedef android tablet":is("iphone")?m+" ios iphone":is("ipod")?m+" ios ipod":is("ipad")?m+" ios ipad tablet":is("mac")?"mac":is("darwin")?"mac":is("webtv")?"webtv":is("win")?"win"+(is("windows nt 6.0")?" vista":""):is("freebsd")?"freebsd":is("x11")||is("linux")?"linux":"",r!="1"?" retina ratio"+r:"","js portrait"].join(" ");if(window.jQuery&&!window.jQuery.browser){window.jQuery.browser=v?{msie:1,version:v}:{}}return res}(function(d,w){var _c=css_browser_selector(navigator.userAgent);var h=d.documentElement;h.className+=" "+_c;var _d=_c.replace(/^\s*|\s*$/g,"").split(/ +/);w.CSSBS=1;for(var i=0;i<_d.length;i++){w["CSSBS_"+_d[i]]=1}var _de=function(v){return d.documentElement[v]||d.body[v]};if(w.jQuery){(function($){var p="portrait",l="landscape";var m="smartnarrow",mw="smartwide",t="tabletnarrow",tw="tabletwide",ac=m+" "+mw+" "+t+" "+tw+" pc";var $h=$(h);var to=0,cw=0;function CSSSelectorUpdateSize(){if(to!=0)return;try{var _cw=_de("clientWidth"),_ch=_de("clientHeight");if(_cw>_ch){$h.removeClass(p).addClass(l)}else{$h.removeClass(l).addClass(p)}if(_cw==cw)return;cw=_cw}catch(e){}to=setTimeout(CSSSelectorUpdateSize_,100)}function CSSSelectorUpdateSize_(){try{$h.removeClass(ac);$h.addClass(cw<=360?m:cw<=640?mw:cw<=768?t:cw<=1024?tw:"pc")}catch(e){}to=0}if(w.CSSBS_ie){setInterval(CSSSelectorUpdateSize,1e3)}else{$(w).on("resize orientationchange",CSSSelectorUpdateSize).trigger("resize")}$(w).load(CSSSelectorUpdateSize)})(w.jQuery)}})(document,window);
+
+/*]]>*/
+</script>
+
+
+<!-- Vite Assets Start -->
+<script type="module" src="/_assets/a6bd65689fdffc828e742fa51212487d/vite-output/main-BCK2wnTT.js"></script>
+<link rel="stylesheet" href="/_assets/a6bd65689fdffc828e742fa51212487d/vite-output/main-Bs9lTPrI.css">
+<!-- Vite Assets End -->
+<link rel="canonical" href="https://www.ku.de/login">
+
+<link rel="alternate" hreflang="de" href="https://www.ku.de/login">
+<link rel="alternate" hreflang="en-US" href="https://www.ku.de/en/login">
+<link rel="alternate" hreflang="x-default" href="https://www.ku.de/login">
+<!-- This site is optimized with the Yoast SEO for TYPO3 plugin - https://yoast.com/typo3-extensions-seo/ -->
+<script type="application/ld+json">[{"@context":"https:\/\/www.schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.ku.de\/","name":"Katholische Universit\u00e4t Eichst\u00e4tt-Ingolstadt"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.ku.de\/login","name":"Login"}}]}]</script>
+<style data-in2cookiemodal-style="true">@charset "UTF-8";:root{--in2-modal-brand-color-default: var(--in2-modal-brand-color, rgb(31 41 55));--in2-modal-brand-color-dark-default: var(--in2-modal-brand-color-dark, rgb(17 24 39));--in2-modal-accent-color-default: var(--in2-modal-accent-color, rgb(133 136 145));--in2-modal-accent-color-light-default: var(--in2-modal-accent-color-light, rgb(173 175 181));--in2-modal-accent-color-dark-default: var(--in2-modal-accent-color-dark, rgb(96 98 106))}.in2-modal-reset{animation:none;animation-delay:0s;animation-direction:normal;animation-duration:0s;animation-fill-mode:none;animation-iteration-count:1;animation-name:none;animation-play-state:running;animation-timing-function:ease;backface-visibility:visible;background:0;background-attachment:scroll;background-clip:border-box;background-color:transparent;background-image:none;background-origin:padding-box;background-position:0 0;background-position-x:0;background-position-y:0;background-repeat:repeat;background-size:auto auto;border:0;border-style:none;border-width:medium;border-color:inherit;border-bottom:0;border-bottom-color:inherit;border-bottom-style:none;border-bottom-width:medium;border-collapse:separate;border-image:none;border-left:0;border-left-color:inherit;border-left-style:none;border-left-width:medium;border-radius:0;border-right:0;border-right-color:inherit;border-right-style:none;border-right-width:medium;border-spacing:0;border-top:0;border-top-color:inherit;border-top-style:none;border-top-width:medium;box-shadow:none;box-sizing:content-box;caption-side:top;clear:none;color:inherit;columns:auto;column-count:auto;column-fill:balance;column-gap:normal;column-rule:medium none currentColor;column-rule-color:currentColor;column-rule-style:none;column-rule-width:0;column-span:none;column-width:auto;content:normal;counter-increment:none;counter-reset:none;cursor:auto;direction:ltr;display:inline;empty-cells:show;float:none;font:normal;font-family:inherit;font-size:medium;font-style:normal;font-variant:normal;font-weight:400;height:auto;-webkit-hyphens:none;hyphens:none;inset:auto;letter-spacing:normal;line-height:normal;list-style:none;list-style-image:none;list-style-position:outside;list-style-type:disc;margin:0;max-height:none;max-width:none;min-height:0;min-width:0;opacity:1;orphans:initial;outline:0;outline-color:invert;outline-style:none;outline-width:medium;overflow:visible;overflow-x:visible;overflow-y:visible;padding:0;page-break-after:auto;page-break-before:auto;page-break-inside:auto;perspective:none;perspective-origin:50% 50%;position:static;quotes:"“" "”" "‘" "’";tab-size:8;table-layout:auto;text-align:inherit;text-align-last:auto;text-decoration:none;text-decoration-color:inherit;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-shadow:none;text-transform:none;transform:none;transform-style:flat;transition:none;transition-delay:0s;transition-duration:0s;transition-property:none;transition-timing-function:ease;unicode-bidi:normal;vertical-align:baseline;visibility:visible;white-space:normal;widows:initial;width:auto;word-spacing:normal;z-index:auto;all:initial;all:unset}.in2-modal-reset:before,.in2-modal-reset:after{animation:none;animation-delay:0s;animation-direction:normal;animation-duration:0s;animation-fill-mode:none;animation-iteration-count:1;animation-name:none;animation-play-state:running;animation-timing-function:ease;backface-visibility:visible;background:0;background-attachment:scroll;background-clip:border-box;background-color:transparent;background-image:none;background-origin:padding-box;background-position:0 0;background-position-x:0;background-position-y:0;background-repeat:repeat;background-size:auto auto;border:0;border-style:none;border-width:medium;border-color:inherit;border-bottom:0;border-bottom-color:inherit;border-bottom-style:none;border-bottom-width:medium;border-collapse:separate;border-image:none;border-left:0;border-left-color:inherit;border-left-style:none;border-left-width:medium;border-radius:0;border-right:0;border-right-color:inherit;border-right-style:none;border-right-width:medium;border-spacing:0;border-top:0;border-top-color:inherit;border-top-style:none;border-top-width:medium;box-shadow:none;box-sizing:content-box;caption-side:top;clear:none;color:inherit;columns:auto;column-count:auto;column-fill:balance;column-gap:normal;column-rule:medium none currentColor;column-rule-color:currentColor;column-rule-style:none;column-rule-width:0;column-span:none;column-width:auto;content:normal;counter-increment:none;counter-reset:none;cursor:auto;direction:ltr;display:inline;empty-cells:show;float:none;font:normal;font-family:inherit;font-size:medium;font-style:normal;font-variant:normal;font-weight:400;height:auto;-webkit-hyphens:none;hyphens:none;inset:auto;letter-spacing:normal;line-height:normal;list-style:none;list-style-image:none;list-style-position:outside;list-style-type:disc;margin:0;max-height:none;max-width:none;min-height:0;min-width:0;opacity:1;orphans:initial;outline:0;outline-color:invert;outline-style:none;outline-width:medium;overflow:visible;overflow-x:visible;overflow-y:visible;padding:0;page-break-after:auto;page-break-before:auto;page-break-inside:auto;perspective:none;perspective-origin:50% 50%;position:static;quotes:"“" "”" "‘" "’";tab-size:8;table-layout:auto;text-align:inherit;text-align-last:auto;text-decoration:none;text-decoration-color:inherit;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-shadow:none;text-transform:none;transform:none;transform-style:flat;transition:none;transition-delay:0s;transition-duration:0s;transition-property:none;transition-timing-function:ease;unicode-bidi:normal;vertical-align:baseline;visibility:visible;white-space:normal;widows:initial;width:auto;word-spacing:normal;z-index:auto;all:initial;all:unset}:where(:root){--in2-modal-font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"}[class^=in2-modal]{font-family:var(--in2-modal-font-family);font-size:15px;line-height:1.4}@media screen and (min-width:768px){[class^=in2-modal]{font-size:17px}}a.in2-modal-button,button.in2-modal-button{box-sizing:border-box;margin:0;padding:0;inline-size:auto;border:none;background:transparent;text-align:inherit;overflow:visible;outline:none;color:inherit;line-height:normal;-webkit-font-smoothing:inherit;-moz-osx-font-smoothing:inherit;appearance:none}a.in2-modal-button::-moz-focus-inner,button.in2-modal-button::-moz-focus-inner{border:0;padding:0}a.in2-modal-button,button.in2-modal-button{margin:0 auto;padding:1em;inline-size:100%;box-shadow:none!important;background-color:var(--in2-modal-accent-color-default)!important;border:none!important;border-radius:7px;color:#fff;-webkit-text-fill-color:white;cursor:pointer;text-align:center;text-decoration:none;transition:background-color .2s ease-in}a.in2-modal-button:hover,button.in2-modal-button:hover{background-color:var(--in2-modal-accent-color-dark-default)!important;text-decoration:none}a.in2-modal-button:focus,button.in2-modal-button:focus{background-color:var(--in2-modal-brand-color-dark-default)!important}a.in2-modal-button--highlight,button.in2-modal-button--highlight{background-color:var(--in2-modal-brand-color-default)!important}a.in2-modal-button--highlight:hover,button.in2-modal-button--highlight:hover{background-color:var(--in2-modal-brand-color-dark-default)!important}@media all and (min-width:768px){a.in2-modal-button,button.in2-modal-button{padding:1em 3em}}.in2-modal-checkbox{position:relative}.in2-modal-checkbox input[type=checkbox].in2-modal-checkbox__input{all:unset;position:absolute;inset-block-start:0;inset-inline-start:0;inline-size:20px;block-size:20px}.in2-modal-checkbox input[type=checkbox].in2-modal-checkbox__input:not([disabled=""]),.in2-modal-checkbox input[type=checkbox].in2-modal-checkbox__input:not([disabled=""])+.in2-modal-checkbox__label{cursor:pointer}.in2-modal-checkbox input[type=checkbox].in2-modal-checkbox__input:focus+.in2-modal-checkbox__label{outline:solid 1pt var(--in2-modal-brand-color-default)}.in2-modal-checkbox input[type=checkbox].in2-modal-checkbox__input:checked+.in2-modal-checkbox__label:before{background-color:var(--in2-modal-brand-color-default)}.in2-modal-checkbox input[type=checkbox].in2-modal-checkbox__input:checked+.in2-modal-checkbox__label:after{opacity:1;border-color:#fff;transform:rotate(-45deg) scale(.8)}.in2-modal-checkbox input[type=checkbox].in2-modal-checkbox__input:disabled+.in2-modal-checkbox__label:before{background-color:var(--in2-modal-accent-color-light-default);border-color:var(--in2-modal-accent-color-light-default)}.in2-modal-checkbox input[type=checkbox].in2-modal-checkbox__input:disabled+.in2-modal-checkbox__label:after{opacity:1;border-color:#fff;transform:rotate(-45deg) scale(.8)}.in2-modal-checkbox input[type=checkbox]+label.in2-modal-checkbox__label{display:flex;position:relative;align-items:center;justify-content:flex-start}.in2-modal-checkbox input[type=checkbox]+label.in2-modal-checkbox__label:before{display:flex;margin-inline-end:10px;content:"";block-size:20px;inline-size:20px;background:#fff;border:solid 2px var(--in2-modal-brand-color-default);border-radius:7px}.in2-modal-checkbox input[type=checkbox]+label.in2-modal-checkbox__label:after{position:absolute;content:"";block-size:3px;inline-size:10px;inset-inline-start:6px;inset-block-start:8px;border-block-end:solid 3px var(--in2-modal-brand-color-default);border-inline-start:solid 3px var(--in2-modal-brand-color-default);background:none;transform:rotate(-45deg) scale(0);transform-origin:center center;transition:transform .2s ease,opacity .2s ease}.in2-modal-checkbox input[type=checkbox]+label.in2-modal-checkbox__label:before,.in2-modal-checkbox input[type=checkbox]+label.in2-modal-checkbox__label:after{pointer-events:none}.in2-modal-checkbox:not(:last-child){margin-inline-end:40px;margin-block-end:20px}.in2-modal-link{margin:0 10px;color:#000;font-size:15px;text-decoration:none}.in2-modal-link--highlight{color:var(--in2-modal-brand-color-default)}.in2-modal-link--highlight:hover{color:var(--in2-modal-brand-color-dark-default)}.in2-modal-heading{margin:15px 0;color:var(--in2-modal-brand-color-default);font-size:20px;line-height:1.3;font-weight:700;overflow-wrap:break-word}@media all and (min-width:768px){.in2-modal-heading{font-size:25px}}.in2-modal-flexline{display:flex;flex-wrap:wrap}.in2-modal-flexline--column{flex-direction:column}.in2-modal-flexline--center{justify-content:center}.in2-modal-flexline--spacebetween{justify-content:space-between}.in2-modal-container:before,.in2-modal-container:after{display:table;content:" "}.in2-modal-container:after{clear:both}.in2-modal-container{padding-block-end:20px}.in2-modal-container--big{padding-block-end:30px}.in2-modal{margin-block-start:20px;padding:25px;background-color:#fff;border:none;border-radius:7px;box-sizing:border-box;letter-spacing:.015em;overflow-y:auto;scrollbar-gutter:stable both-edges;max-block-size:80vh;transition:width ease-in .2s,padding ease-in .2s,max-width ease-in .2s}.in2-modal::backdrop{background-color:#00000073}.kss-modifier__example .in2-modal{display:none}@media all and (min-width:768px){.in2-modal{max-inline-size:500px}}@media all and (min-width:1024px){.in2-modal{max-inline-size:600px;padding-inline:75px}}@media all and (min-width:1400px){.in2-modal{max-inline-size:650px}}.in2-modal-accordion{margin:0}.in2-modal-accordion[open] .in2-modal-accordion__button{color:var(--in2-modal-brand-color-default);transition:color ease-in .2s}.in2-modal-accordion[open] .in2-modal-accordion__icon{border-color:var(--in2-modal-brand-color-default);transform:translateY(-50%) rotate(-135deg)}.in2-modal-accordion__content{margin:0;padding:25px;box-shadow:0 0 10px #0000000d}.in2-modal-accordion__button{position:relative;padding:15px 75px 15px 25px;box-shadow:0 0 10px #00000012;color:inherit;cursor:pointer;background-color:#fff;text-align:start}.in2-modal-accordion__button::marker{content:none}.in2-modal-accordion__button::-webkit-details-marker{display:none}.in2-modal-accordion__button,.in2-modal-accordion__content{font-weight:400;margin-block-end:5px;border-radius:7px}.in2-modal-accordion__icon{display:inline-block;position:absolute;inset-inline-end:25px;inset-block-start:50%;padding:3px;border:solid var(--in2-modal-accent-color-default);border-width:0 2px 2px 0;transform:rotate(45deg) translateY(-50%);transform-origin:center center 0;transition:transform .2s ease-in;pointer-events:none}.in2-modal-accordion__strong{margin-block-end:5px;color:var(--in2-modal-brand-color-default)}.in2-modal-accordion__description:not(:last-child){border-block-end:2px var(--in2-modal-brand-color-default) solid}.in2-modal-accordion__itempoint:not(:first-child){margin-block-start:20px}.in2-modal-accordion__itempoint *{margin:0}.in2-modal-accordion__cookie:not(:last-child){margin-block-end:40px;padding-block-end:40px;border-block-end:var(--in2-modal-brand-color-default) 2px solid}.in2-modal-accordion__provider{color:var(--in2-modal-brand-color-default);font-weight:700;border-block-end:var(--in2-modal-brand-color-default) 2px solid;padding-block-end:.5rem;margin-block-end:40px}.in2-modal-accordion__cookie+.in2-modal-accordion__provider{margin-block-start:-30px}.in2-modal-divider{margin-block:20px;display:flex;align-items:center;color:var(--in2-modal-accent-color-default)}.in2-modal-divider:before,.in2-modal-divider:after{content:"";block-size:1px;background:var(--in2-modal-accent-color-light-default);flex-grow:1}.in2-modal-divider:before{margin-inline-end:20px}.in2-modal-divider:after{margin-inline-start:20px}</style></head>
+<body class="page2069">
+
+
+<div class="site-wrapper">
+    
+    
+    <div class="header" role="banner">
+        <div class="header__content">
+            <div class="header__logo">
+                <a href="/" class="logo" title="Katholische Universität Eichstätt - Ingolstadt"><img src="/_assets/a6bd65689fdffc828e742fa51212487d/Images/Assets/logo.svg" width="300" height="49" alt="Logo der Katholischen Universität Eichstätt - Ingolstadt" title="Katholische Universität Eichstätt - Ingolstadt"></a>
+            </div>
+            <button class="header__mobile-toggle" title="Menü umschalten" aria-label="Menü umschalten">
+                <span>title="Menü umschalten</span>
+            </button>
+        </div>
+
+
+        <div class="header__outer">
+            <div class="header__inner">
+                
+    
+        <div class="language-nav"><a href="/en/login" target="_self" title="Sprache wechseln" class="language-nav__toggle language-nav__toggle--link">
+                en
+            </a></div>
+    
+
+                
+    
+    
+    
+        
+            
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        <form id="search-form-2069" class="header-search header-search--shrinked" method="get" action="https://www.ku.de/suche#tx-solr-search" data-suggest="https://www.ku.de/?type=7384" data-suggest-header="Beste Suchergebnisse" accept-charset="utf-8">
+            <div class="header-search__container">
+                <input type="search" id="header-search-2069" placeholder="Suchen" class="tx-solr-q js-solr-q tx-solr-suggest header-search__input" name="tx_solr[q]" value="" autocomplete="off" aria-label="Suche">
+                <button class="header-search__close hidden" type="button" title="Suchbegriff löschen" aria-label="Suchbegriff löschen"></button>
+                <button class="header-search__submit" type="submit" title="Absenden" aria-label="Absenden"></button>
+            </div>
+        </form>
+    
+
+                
+    
+        
+            <div id="js-main-nav" class="main-nav">
+                
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    <ul class="main-nav-list main-nav-list--first">
+        
+            
+                    
+                
+            <li class="main-nav-list__item">
+                
+                        <div class="main-nav-list__item-ajax-wrapper main-nav-list__item-ajax-wrapper--center">
+                            <a href="/die-ku" title="Seite Die KU aufrufen">
+                                
+                                    <div class="main-nav-list__item-image main-nav-list__item-image--normal">
+                                        <img alt="Symbol der Seite Die KU" src="/fileadmin/Navigation_Icons/die_ku.svg" width="27" height="24">
+                                    </div>
+                                
+                                <span>Die KU</span>
+                            </a>
+                            <button class="main-nav-list__item-toggle" title="Untermenü von Die KU öffnen" aria-label="Untermenü von Die KU öffnen"></button>
+                        </div>
+                    
+            </li>
+        
+            
+                    
+                
+            <li class="main-nav-list__item">
+                
+                        <div class="main-nav-list__item-ajax-wrapper main-nav-list__item-ajax-wrapper--center">
+                            <a href="/studium" title="Seite Studium aufrufen">
+                                
+                                    <div class="main-nav-list__item-image main-nav-list__item-image--normal">
+                                        <img alt="Symbol der Seite Studium" src="/fileadmin/Navigation_Icons/studium.svg" width="30" height="18">
+                                    </div>
+                                
+                                <span>Studium</span>
+                            </a>
+                            <button class="main-nav-list__item-toggle" title="Untermenü von Studium öffnen" aria-label="Untermenü von Studium öffnen"></button>
+                        </div>
+                    
+            </li>
+        
+            
+                    
+                
+            <li class="main-nav-list__item">
+                
+                        <div class="main-nav-list__item-ajax-wrapper main-nav-list__item-ajax-wrapper--center">
+                            <a href="/forschung" title="Seite Forschung aufrufen">
+                                
+                                    <div class="main-nav-list__item-image main-nav-list__item-image--normal">
+                                        <img alt="Symbol der Seite Forschung" src="/fileadmin/Navigation_Icons/forschung.svg" width="19" height="25">
+                                    </div>
+                                
+                                <span>Forschung</span>
+                            </a>
+                            <button class="main-nav-list__item-toggle" title="Untermenü von Forschung öffnen" aria-label="Untermenü von Forschung öffnen"></button>
+                        </div>
+                    
+            </li>
+        
+            
+                    
+                
+            <li class="main-nav-list__item">
+                
+                        <div class="main-nav-list__item-ajax-wrapper main-nav-list__item-ajax-wrapper--center">
+                            <a href="/international" title="Seite International aufrufen">
+                                
+                                    <div class="main-nav-list__item-image main-nav-list__item-image--normal">
+                                        <img alt="Symbol der Seite International" src="/fileadmin/Navigation_Icons/international.svg" width="25" height="25">
+                                    </div>
+                                
+                                <span>International</span>
+                            </a>
+                            <button class="main-nav-list__item-toggle" title="Untermenü von International öffnen" aria-label="Untermenü von International öffnen"></button>
+                        </div>
+                    
+            </li>
+        
+            
+                    
+                
+            <li class="main-nav-list__item">
+                
+                        <div class="main-nav-list__item-ajax-wrapper main-nav-list__item-ajax-wrapper--center">
+                            <a href="/transfer" title="Seite Transfer aufrufen">
+                                
+                                    <div class="main-nav-list__item-image main-nav-list__item-image--normal">
+                                        <img alt="Symbol der Seite Transfer" src="/fileadmin/Navigation_Icons/transfer.svg" width="30" height="18">
+                                    </div>
+                                
+                                <span>Transfer</span>
+                            </a>
+                            <button class="main-nav-list__item-toggle" title="Untermenü von Transfer öffnen" aria-label="Untermenü von Transfer öffnen"></button>
+                        </div>
+                    
+            </li>
+        
+            
+                    
+                
+            <li class="main-nav-list__item">
+                
+                        <div class="main-nav-list__item-ajax-wrapper main-nav-list__item-ajax-wrapper--center">
+                            <a href="/unileben" title="Seite Unileben aufrufen">
+                                
+                                    <div class="main-nav-list__item-image main-nav-list__item-image--normal">
+                                        <img alt="Symbol der Seite Unileben" src="/fileadmin/Navigation_Icons/unileben.svg" width="30" height="20">
+                                    </div>
+                                
+                                <span>Unileben</span>
+                            </a>
+                            <button class="main-nav-list__item-toggle" title="Untermenü von Unileben öffnen" aria-label="Untermenü von Unileben öffnen"></button>
+                        </div>
+                    
+            </li>
+        
+    </ul>
+
+                
+            </div>
+        
+    
+
+    <script>
+        const InitializeAjaxNavigation = function (){
+            const $menuItems = document.querySelectorAll('#js-main-nav .main-nav-list > .main-nav-list__item button');
+            Array.prototype.forEach.call($menuItems, function($menuItem){
+                $menuItem.addEventListener('click', function (e){
+                    handleAjaxClick(e, $menuItem);
+                });
+            });
+        };
+
+        const handleAjaxClick = function (event, $menuItem) {
+            event.preventDefault();
+            let ajaxActionUrl = $menuItem.parentNode.childNodes[1].href + '?type=999&currentPageUid={currentPage}';
+            let $mainNav = document.querySelector('.main-nav');
+
+            xhr = new XMLHttpRequest();
+            xhr.open('GET', ajaxActionUrl);
+            xhr.responseType = 'document';
+            xhr.send();
+
+            $mainNav.classList.add('main-nav--loading');
+
+            xhr.onload = function () {
+                if (this.status === 200) {
+                    // remove click eventlistener from menuitem
+                    $menuItem.removeEventListener('click', handleAjaxClick, false);
+                    // change loaded content with menu stuff
+                    document.querySelector('#js-main-nav').innerHTML = this.response.body.childNodes[0].innerHTML;
+                    // initialize new navigation again
+                    InitializeAjaxNavigation();
+                } else {
+                    console.error("Ajax loading canceled");
+                }
+
+                $mainNav.classList.remove('main-nav--loading');
+            }
+        }
+
+        // prevent body from scrolling on mobile devices
+        const mobilePreventScroll = function () {
+            // if mobile prevent body from scrolling
+            let $body = document.querySelector('body');
+            let $header = document.querySelector('.header');
+
+            if(window.innerWidth > 575) {
+                if($header.classList.contains('header--open')) {
+                    allowScrolling($body);
+                }
+            } else {
+                if($header.classList.contains('header--open')) {
+                    lockScrolling($body);
+                } else {
+                    allowScrolling($body);
+                }
+            }
+        }
+
+        function debounce(func, wait = 100) {
+            let timeout;
+            return function (...args) {
+                clearTimeout(timeout);
+                timeout = setTimeout(() => {
+                    func.apply(this, args);
+                }, wait);
+            };
+        }
+
+        const InitializeResize = function (){
+            const debouncedResize = debounce(function (){
+                mobilePreventScroll();
+            }, 250);
+
+            window.addEventListener('resize', debouncedResize);
+        };
+
+        const initializeAjaxMenu = function() {
+            InitializeAjaxNavigation();
+            InitializeResize();
+        };
+
+        // check if document is ready
+        if (document.readyState != 'loading') {
+            initializeAjaxMenu();
+        } else {
+            document.addEventListener('DOMContentLoaded', initializeAjaxMenu);
+        }
+    </script>
+
+                
+    
+        <ul class="quicklinks">
+            
+                
+                        <li class="quicklinks__item">
+                            <a href="https://www.ku.de/intranet" title="Seite Intranet aufrufen">
+                                Intranet
+                            </a>
+                        </li>
+                    
+            
+                
+                        <li class="quicklinks__item">
+                            <a href="/bibliothek" title="Seite Bibliothek aufrufen">
+                                Bibliothek
+                            </a>
+                        </li>
+                    
+            
+                
+                        <li class="quicklinks__item">
+                            <a href="https://campus.ku.de/studienangebot/" title="Seite KU.Campus aufrufen">
+                                KU.Campus
+                            </a>
+                        </li>
+                    
+            
+                
+                        <li class="quicklinks__item">
+                            <a href="https://elearn.ku.de/" title="Seite elearn.KU aufrufen">
+                                elearn.KU
+                            </a>
+                        </li>
+                    
+            
+                
+                        <li class="quicklinks__item">
+                            <a href="https://exchange.ku.de/" title="Seite mail.KU aufrufen">
+                                mail.KU
+                            </a>
+                        </li>
+                    
+            
+                
+                        <li class="quicklinks__item">
+                            <a href="/unileben/campus-und-umfeld/lageplan" title="Seite Lageplan aufrufen">
+                                Lageplan
+                            </a>
+                        </li>
+                    
+            
+        </ul>
+    
+
+            </div>
+        </div>
+    </div>
+
+
+    <!--TYPO3SEARCH_begin-->
+    
+    
+    
+
+    <div id="maincontent" class="main" role="main">
+        <div class="main__outer">
+            
+    
+        <div class="language-nav"><a href="/en/login" target="_self" title="Sprache wechseln" class="language-nav__toggle language-nav__toggle--link">
+                en
+            </a></div>
+    
+
+            <div class="main__inner">
+                <div class="main__content">
+                    
+                    
+                        
+
+        
+    
+<div id="c4945" class="frame frame--type-felogin_login frame-layout-0 frame--spacing-top-none frame--spacing-bottom-full">
+    
+    
+    
+        
+            
+    
+        
+            
+
+    
+            <h1>Benutzer-Login</h1>
+        
+
+
+
+            
+    
+
+
+        
+    
+
+
+        
+    
+    
+
+        
+        
+                
+
+
+
+
+    <h3>
+        
+Benutzeranmeldung
+
+
+    </h3>
+    <p>
+        
+Bitte geben Sie Ihren Benutzernamen und Ihr Passwort ein, um sich an der Website anzumelden.
+
+
+    </p>
+
+
+<form spellcheck="false" method="post" target="_top" action="/login?tx_felogin_login%5Baction%5D=login&amp;tx_felogin_login%5Bcontroller%5D=Login&amp;cHash=c6388deb51f93ca3d9aef5619da8d002">
+<div>
+<input type="hidden" name="__referrer[@extension]" value="Felogin">
+<input type="hidden" name="__referrer[@controller]" value="Login">
+<input type="hidden" name="__referrer[@action]" value="login">
+<input type="hidden" name="__referrer[arguments]" value="YTowOnt90418f50006f949f7b3617bafcb0871873e262121">
+<input type="hidden" name="__referrer[@request]" value="{&quot;@extension&quot;:&quot;Felogin&quot;,&quot;@controller&quot;:&quot;Login&quot;,&quot;@action&quot;:&quot;login&quot;}7b88b63344d04e162b4cdf3fb32f9bf7c712647a">
+<input type="hidden" name="__RequestToken" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IntcInR5cGVcIjpcIm5vbmNlXCIsXCJuYW1lXCI6XCJCd2NXYzZORHdZYmxITC04ekpWSVlBXCJ9In0.eyJzY29wZSI6ImNvcmUvdXNlci1hdXRoL2ZlIiwidGltZSI6IjIwMjYtMDYtMTJUMDA6NDI6NDIrMDI6MDAiLCJwYXJhbXMiOnsicGlkIjoiMzQiLCJyZXF1ZXN0Ijp7InVyaSI6Ii9sb2dpbj90eF9mZWxvZ2luX2xvZ2luJTVCYWN0aW9uJTVEPWxvZ2luJmFtcDt0eF9mZWxvZ2luX2xvZ2luJTVCY29udHJvbGxlciU1RD1Mb2dpbiZhbXA7Y0hhc2g9YzYzODhkZWI1MWY5M2NhM2Q5YWVmNTYxOWRhOGQwMDIifX19.AslUH8YmkrBvsqW8z0OJhOlZ3d1MSuBU7nme8MDmm80"><input type="hidden" name="__trustedProperties" value="{&quot;user&quot;:1,&quot;pass&quot;:1,&quot;submit&quot;:1,&quot;logintype&quot;:1,&quot;redirect_url&quot;:1}fd9c21f7f4107945fe5903f8838ff68c9ffe8c2b">
+</div>
+
+    
+    <fieldset>
+        <legend>
+            Anmelden
+        </legend>
+        <div>
+            <label for="tx-felogin-input-username">
+                Benutzername:
+            </label>
+           <input autocomplete="username" id="tx-felogin-input-username" type="text" name="user" required="required">
+        </div>
+        <div>
+            <label for="tx-felogin-input-password">
+                Passwort:
+            </label>
+           <input required="required" autocomplete="current-password" id="tx-felogin-input-password" type="password" name="pass" value="">
+        </div>
+
+        
+
+        <div>
+            <input type="submit" value="Anmelden" name="submit">
+        </div>
+
+        <div class="felogin-hidden">
+            <input type="hidden" name="logintype" value="login">
+            
+                <input type="hidden" name="redirect_url" value="https://www.ku.de/intranet">
+            
+            
+            
+            
+        </div>
+    </fieldset>
+
+</form>
+
+
+
+
+
+
+            
+
+    
+    
+</div>
+
+
+                    
+                </div>
+                
+    
+	 <!--TYPO3SEARCH_end-->
+	<button id="contrastswitch" class="footer__contrastswitch" aria-label="Kontrastansicht">
+			<img class="footer__contrastswitch" src="/_assets/a6bd65689fdffc828e742fa51212487d/Icons/contrast.svg" width="100" height="100" alt="">
+	</button>
+
+	<button class="footer__to-top-link is-visible" title="Zum Seitenanfang scrollen" aria-label="Zum Seitenanfang scrollen">
+		<svg class="footer__to-top-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+			<title>Zum Seitenanfang scrollen</title>
+			<path d="M20.016 12L12 20.016 3.984 12l1.453-1.406 5.578 5.578V3.984h1.969v12.188l5.625-5.578z" fill="currentColor"></path>
+		</svg>
+	</button>
+	<div class="footer">
+		
+			<div class="footer__content">
+				
+					<a href="/die-ku/kontakt" title="Seite Kontakt aufrufen" class="footer__link">
+						Kontakt
+					</a>
+				
+					<a href="/impressum" title="Seite Impressum aufrufen" class="footer__link">
+						Impressum
+					</a>
+				
+					<a href="/datenschutz" title="Seite Datenschutz aufrufen" class="footer__link">
+						Datenschutz
+					</a>
+				
+					<a href="/barrierefreiheit" title="Seite Barrierefreiheit aufrufen" class="footer__link">
+						Barrierefreiheit
+					</a>
+				
+					<a href="/die-ku/organisation/kommunikation-marketing" title="Seite Presse aufrufen" class="footer__link">
+						Presse
+					</a>
+				
+					<a href="/die-ku/stellenangebote" title="Seite Stellenangebote aufrufen" class="footer__link">
+						Stellenangebote
+					</a>
+				
+					<a href="/notfall" title="Seite Hilfe im Notfall aufrufen" class="footer__link">
+						Hilfe im Notfall
+					</a>
+				
+					<a href="https://stiftungku.hintbox.de/" target="_blank" rel="noreferrer" title="Seite Hinweisgeberschutzgesetz aufrufen" class="footer__link">
+						Hinweisgeberschutzgesetz
+					</a>
+				
+			</div>
+			<div class="footer__socialmedia">
+				<ul>
+					<li>
+						<a href="https://www.linkedin.com/school/unieichstaett/" target="_blank" rel="noopener" title="LinkedIn">
+							<img src="/_assets/a6bd65689fdffc828e742fa51212487d/vite-output/icons/socialmedia/linkedin_gray.svg" alt="LinkedIn" class="icon-default">
+							<img src="/_assets/a6bd65689fdffc828e742fa51212487d/vite-output/icons/socialmedia/linkedin_color.svg" alt="LinkedIn" class="icon-hover">
+						</a>
+					</li>
+					<li>
+						<a href="https://www.instagram.com/uni.eichstaett" target="_blank" rel="noopener" title="Instagram">
+							<img src="/_assets/a6bd65689fdffc828e742fa51212487d/vite-output/icons/socialmedia/instagram_gray.svg" alt="Instagram" class="icon-default">
+							<img src="/_assets/a6bd65689fdffc828e742fa51212487d/vite-output/icons/socialmedia/instagram_color.svg" alt="Instagram" class="icon-hover">
+						</a>
+					</li>
+					<li>
+						<a href="https://www.facebook.com/uni.eichstaett" target="_blank" rel="noopener" title="Facebook">
+							<img src="/_assets/a6bd65689fdffc828e742fa51212487d/vite-output/icons/socialmedia/facebook_gray.svg" alt="Facebook" class="icon-default">
+							<img src="/_assets/a6bd65689fdffc828e742fa51212487d/vite-output/icons/socialmedia/facebook_color.svg" alt="Facebook" class="icon-hover">
+						</a>
+					</li>
+					<li>
+						<a href="https://www.youtube.com/unieichstaett" target="_blank" rel="noopener" title="Youtube">
+							<img src="/_assets/a6bd65689fdffc828e742fa51212487d/vite-output/icons/socialmedia/youtube_gray.svg" alt="YouTube" class="icon-default">
+							<img src="/_assets/a6bd65689fdffc828e742fa51212487d/vite-output/icons/socialmedia/youtube_color.svg" alt="YouTube" class="icon-hover">
+						</a>
+					</li>
+				</ul>
+			</div>
+		
+	</div>
+	 <!--TYPO3SEARCH_begin-->
+
+
+            </div>
+        </div>
+    </div>
+
+    <!--TYPO3SEARCH_end-->
+</div>
+
+<script src="/typo3temp/assets/compressed/Form.min-9a447e84b450e168bf7c03c457066399.js?1781157119" defer="defer"></script>
+
+
+
+
+
+<dialog id="in2-modal" class="in2-modal" autofocus="" data-in2-modal-root-node="" data-nosnippet="" open="">
+    <div class="in2-modal-container">
+        <h2 class="in2-modal-heading">Datenschutzeinstellungen</h2>
+        <p class="in2-modal-paragraph">
+            Wir verwenden Cookies, um Funktionen unserer Webseiten zur Verfügung zu stellen, Anzeigen zu personalisieren, evtl. Funktionen für soziale Medien anbieten zu können und Zugriffsstatistiken zu erstellen. Durch verschiedene Techniken können Daten zur Verwendung unserer Seite durch Sie an unsere Partner für soziale Medien und Werbung weitergegeben werden. Genauere Angaben dazu finden Sie in unserer Datenschutzerklärung. Weitere Informationen finden Sie in der unten verlinkten Datenschutzerklärung.
+        </p>
+    </div>
+    <div class="in2-modal-flexline in2-modal-spacing in2-modal-container in2-modal-container--big">
+        
+            <div class="in2-modal-reset in2-modal-checkbox">
+    <input class="in2-modal-reset in2-modal-checkbox__input" disabled="" checked="" type="checkbox" value="essential" id="in2-modal-checkbox-essential">
+    <label class="in2-modal-reset in2-modal-checkbox__label" for="in2-modal-checkbox-essential">Funktional</label>
+</div>
+
+        
+            <div class="in2-modal-reset in2-modal-checkbox">
+    <input class="in2-modal-reset in2-modal-checkbox__input" type="checkbox" value="analytics" id="in2-modal-checkbox-analytics">
+    <label class="in2-modal-reset in2-modal-checkbox__label" for="in2-modal-checkbox-analytics">Analytics</label>
+</div>
+
+        
+    </div>
+    <div class="in2-modal-spacing in2-modal-flexline in2-modal-flexline--column in2-modal-container in2-modal-container--big">
+        <button type="button" class="in2-modal-reset in2-modal-button in2-modal-button--highlight" data-in2-modal-accept-button="">
+    Alle akzeptieren
+</button>
+
+<p class="in2-modal-divider">
+    oder
+</p>
+
+<button type="button" class="in2-modal-reset in2-modal-button " data-in2-modal-save-button="">
+    Speichern &amp; Schließen
+</button>
+
+    </div>
+    <div class="in2-modal-accordion in2-modal-container in2-modal-container--big">
+        
+            <details class="in2-modal-accordion">
+    <summary class="in2-modal-accordion__button">
+        Funktional
+        <span class="in2-modal-accordion__icon" aria-hidden="true"></span>
+    </summary>
+
+    <div class="in2-modal-accordion__content">
+        
+            <div class="in2-modal-accordion__provider">TYPO3</div>
+            
+                <div class="in2-modal-accordion__cookie">
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Name</strong>
+        <p>PHPSESSID</p>
+    </div>
+
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Zweck</strong>
+        <p>PHP Daten-Identifikator, gesetzt, wenn die PHP session()-Methode verwendet wird.</p>
+    </div>
+
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Gültigkeit</strong>
+        <p>Session</p>
+    </div>
+</div>
+
+            
+                <div class="in2-modal-accordion__cookie">
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Name</strong>
+        <p>fe_typo_user</p>
+    </div>
+
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Zweck</strong>
+        <p>Cookie für den Status des TYPO3 Frontend Logins.</p>
+    </div>
+
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Gültigkeit</strong>
+        <p>Dauer der Sitzung</p>
+    </div>
+</div>
+
+            
+        
+            <div class="in2-modal-accordion__provider">in2cookiemodal</div>
+            
+                <div class="in2-modal-accordion__cookie">
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Name</strong>
+        <p>in2cookiemodal-selection</p>
+    </div>
+
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Zweck</strong>
+        <p>Speichert den Zustimmungsstatus des Benutzers für Cookies auf der aktuellen Domäne.</p>
+    </div>
+
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Gültigkeit</strong>
+        <p>10 Jahre</p>
+    </div>
+</div>
+
+            
+        
+    </div>
+</details>
+
+        
+            <details class="in2-modal-accordion">
+    <summary class="in2-modal-accordion__button">
+        Analytics
+        <span class="in2-modal-accordion__icon" aria-hidden="true"></span>
+    </summary>
+
+    <div class="in2-modal-accordion__content">
+        
+            <div class="in2-modal-accordion__provider">Matomo</div>
+            
+                <div class="in2-modal-accordion__cookie">
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Name</strong>
+        <p>_pk_id.*</p>
+    </div>
+
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Zweck</strong>
+        <p>Erfasst Statistiken über Besuche des Benutzers auf der Website, wie z. B. die Anzahl der Besuche, durchschnittliche Verweildauer auf der Website und welche Seiten gelesen wurden.</p>
+    </div>
+
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Gültigkeit</strong>
+        <p>1 Jahr</p>
+    </div>
+</div>
+
+            
+                <div class="in2-modal-accordion__cookie">
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Name</strong>
+        <p>_pk_ses.*</p>
+    </div>
+
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Zweck</strong>
+        <p>Wird von Matomo Analytics Plattform genutzt, um Seitenabrufe des Besuchers während der Sitzung nachzuverfolgen.</p>
+    </div>
+
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Gültigkeit</strong>
+        <p>Browsersitzung</p>
+    </div>
+</div>
+
+            
+                <div class="in2-modal-accordion__cookie">
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Name</strong>
+        <p>_pk_testcookie</p>
+    </div>
+
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Zweck</strong>
+        <p>Überprüft, ob der Browser des Besuchers Cookies unterstützt.</p>
+    </div>
+
+    <div class="in2-modal-accordion__itempoint">
+        <strong class="in2-modal-accordion__strong">Gültigkeit</strong>
+        <p>Browsersitzung</p>
+    </div>
+</div>
+
+            
+        
+    </div>
+</details>
+
+        
+    </div>
+    <div class="in2-modal-flexline in2-modal-flexline--center in2-modal-spacing in2-modal-container">
+        
+	<a class="in2-modal-link in2-modal-link--highlight" href="https://www.ku.de/impressum?in2cookieHideOptIn=true">
+		Impressum
+	</a>
+	
+		<span>|</span>
+	
+
+	<a class="in2-modal-link in2-modal-link--highlight" href="https://www.ku.de/datenschutz?in2cookieHideOptIn=true">
+		Datenschutz
+	</a>
+	
+
+
+    </div>
+</dialog></body></html>

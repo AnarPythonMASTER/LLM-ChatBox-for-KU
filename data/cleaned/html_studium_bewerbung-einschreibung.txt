@@ -1,0 +1,10 @@
+SOURCE_URL: https://www.ku.de/studium/bewerbung-einschreibung
+TITLE: Bewerbung & Einschreibung – KU
+SOURCE_FILE: studium_bewerbung-einschreibung.html
+------------------------------------------------------------
+
+Sie möchten sich für einen Studiengang an der KU einschreiben oder bewerben? Hier finden Sie alle Informationen zur Bewerbung, Zulassung, Studienplatzvergabe und Immatrikulation,
+Der Weg zum Studium
+Wir begleiten Sie von der Bewerbung und Zulassung zur Einschreibung! Hier finden Sie alle Informationen!
+Bewerbungs- und Einschreibeportal
+Ihr persönliches Hochschul‑Portal bietet Ihnen rund um Bewerbung, Immatrikulation und Studienverlauf alles auf einen Klick. Nutzen Sie das Bewerbungs- und Einschreibeportal Studienservice!

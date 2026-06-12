@@ -1,0 +1,51 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Hinweise_zur_Modulwahl_im_Wahlbereich.pdf
+TITLE: Hinweise_zur_Modulwahl_im_Wahlbereich.pdf
+SOURCE_FILE: Hinweise_zur_Modulwahl_im_Wahlbereich.pdf
+------------------------------------------------------------
+
+[Page 1]
+Katholische Universität Eichstätt-Ingolstadt 
+Philosophisch-Pädagogische Fakultät 
+Professur für Lebenslanges Lernen 
+ 
+ 
+Hinweise zur Modulwahl im Wahlbereich 
+Im Wahlbereich sind Module aus dem gesamten Modulangebot der nicht zulassungsbeschränkten 
+Studiengänge der Katholischen Universität Eichstätt-Ingolstadt außerhalb des Fachs Pädagogik 
+erfolgreich im Umfang von 5 ECTS-Punkten zu absolvieren. Informationen dazu, welche Bereiche zum 
+Fachgebiet der Pädagogik gehören, finden Sie unter: https://www.ku.de/ppf/paedagogik. 
+Wie in der Satzung formuliert ist, kommen alle Module aus allen Studiengängen in Frage, die 
+zulassungsfrei und außerhalb des Fachbereichs Pädagogik liegen. Manche Studiengänge haben eine 
+Liste mit besonders geeigneten oder empfohlenen Modulen erstellt. Gerne können Sie sich auf den 
+jeweiligen Studiengangsseiten informieren. Sehr beliebt sind auch die Module aus dem Studium.Pro 
+(außerhalb des Fachs Pädagogik). 
+Bei der Suche nach geeigneten Modulen empfiehlt es sich zu überlegen, welche Fächer oder 
+Studiengänge Sie interessieren und diese dann über KU.Campus „Studiengänge“ aufzurufen und die 
+Module zu sichten. Hierzu eignet es sich auch, die Fächer des interdisziplinären Bachelors oder Masters 
+aufzurufen. 
+ 
+Ausgeschlossen sind Module aus folgenden Studiengängen: 
+- 
+Betriebswirtschaftslehre (Masterstudiengang) 
+- 
+Business and Psychology (Masterstudiengang) 
+- 
+Conflict, Memory and Peace (Masterstudiengang) 
+- 
+Dt.-frz. Politikwissenschaft (Bachelor- und Masterstudiengang) 
+- 
+Journalistik (Bachelorstudiengang) 
+- 
+Klinische Psychologie und Psychotherapie (Masterstudiengang) 
+- 
+Psychologie (Bachelor- und Masterstudiengang) 
+- 
+Schulpsychologie (alle Lehrämter) 
+- 
+Transformation und nachhaltige Lebensraumentwicklung - Tourismus neu gestalten 
+(Masterstudiengang) 
+ 
+Sie können sich auch jederzeit an die Studierendenberatung wenden. Dort wird Ihnen ebenfalls 
+geholfen, passende Module zu finden und Sie erlangen dort Sicherheit mit der Modulauswahl in 
+KU.Campus. Webseite der Studierendenberatung: https://www.ku.de/studium/informationen-fuer-
+studierende/beratung/studierendenberatung

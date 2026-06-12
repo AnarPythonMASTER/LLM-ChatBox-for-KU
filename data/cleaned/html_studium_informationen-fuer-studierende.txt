@@ -1,0 +1,17 @@
+SOURCE_URL: https://www.ku.de/studium/informationen-fuer-studierende
+TITLE: Informationen für Studierende – KU
+SOURCE_FILE: studium_informationen-fuer-studierende.html
+------------------------------------------------------------
+
+Studium beginnen
+Neu an der KU? Wir haben alle Informationen und Tipps zum Studienstart zusammengestellt.
+Studium organisieren
+Fragen zu Ihrem Studiengang, dem Studienverlauf und viele organisatorische Hinweise finden Sie hier. Im Studierendenportal sind zahlreiche Materialien und Infos für Studierende der KU hinterlegt.
+Prüfungen & Prüfungsamt
+Bei allen Fragen rund um Ihre Prüfungen, zu Prüfungsterminen und Noten, ist das Prüfungsamt der richtige Ansprechpartner!
+Studierendenleben
+Studieren an der KU ist viel mehr als Seminare und Vorlesungen - Engagement, Austausch und Leben in Eichstätt und Ingolstadt gehören sind ebenso fester Bestandteil des Studierendendaseins.
+Praxis & Arbeitsmarkt
+Schon während des Studiums unterstützt sie unser Career Center und unsere Studierendenberatung, Praktika, Nebenjobs, Werkstudierendenstellen und Einstiegspositionen zu finden – lokal in der Region, deutschlandweit und international.
+Studium beenden
+Was ist zu tun, um Ihr Studium zu beenden?

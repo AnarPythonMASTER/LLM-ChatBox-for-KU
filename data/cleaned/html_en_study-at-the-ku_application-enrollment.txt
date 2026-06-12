@@ -1,0 +1,10 @@
+SOURCE_URL: https://www.ku.de/en/study-at-the-ku/application-enrollment
+TITLE: Application & enrollment – KU
+SOURCE_FILE: en_study-at-the-ku_application-enrollment.html
+------------------------------------------------------------
+
+You would like to enroll or apply for a degree program at the KU? Here you will find all the information you need about applying, admission, allocation of study places, and enrollment.
+Your path to studying
+We will guide you through the application and admission process to enrollment! You can find all the information you need here!
+Application and enrollment portal
+Your personal university portal offers you everything you need to know about applying, enrolling, and studying. Make the most of our application and enrollment portal!

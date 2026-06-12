@@ -1,0 +1,116 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Latinistik_MA-Aisthesis.pdf
+TITLE: Studienverlaufsplan_Latinistik_MA-Aisthesis.pdf
+SOURCE_FILE: Studienverlaufsplan_Latinistik_MA-Aisthesis.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anlage 1 zur Studiengangsbeschreibung 
+ 
+ 
+ 
+Latinistik im Profil „Aisthesis. Kultur und Medien“ (MA) 
+ 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Masterarbeit (30 ECTS-Punkte) 
+30 
+ECTS-
+Punkte
+3 
+WP Latinistik: z.B. 
+Interpretation und literarisches 
+Übersetzen (10 ECTS-Punkte) 
+WP Latinistik: z.B 
+Historische 
+Sprachwissenschaft 
+(5 ECTS-Punkte) 
+Praktikum 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte
+2 
+WP 
+Latinistik: 
+z.B. 
+Profilmodul 
+II. Frühe 
+und späte 
+Epochen 
+(5 ECTS-
+Punkte) 
+Aisthesis. Kultur 
+und Medien: z.B. 
+Kulturelles 
+Gedächtnis und 
+europäische 
+Identität 
+(5 ECTS-Punkte) 
+Aisthesis. Kultur 
+und Medien: 
+Transdiszipl. 
+Studien 
+(5 ECTS-Punkte) 
+Aisthesis. 
+Kultur und 
+Medien: 
+z.B. Kultur 
+und Medien 
+im Kontext 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte
+1 
+WP 
+Latinistik: 
+z.B. Profil-
+modul I 
+(5 ECTS-
+Punkte) 
+WP Latinistik: 
+Forschungsmodul 
+lat. Literaturwiss. 
+(5 ECTS-Punkte) 
+Studium.Pro 
+(5 ECTS-Punkte) 
+Aisthesis. 
+Kultur und 
+Medien: 
+Kultur- und 
+sozialwiss. 
+Grundlagen 
+(5 ECTS-
+Punkte) 
+Aisthesis. 
+Kultur und 
+Medien: 
+Wahlmodul 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte

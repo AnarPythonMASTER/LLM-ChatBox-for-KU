@@ -1,0 +1,304 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BA_Angewandte_Musikwissenschaft_Musikpaedagogik.pdf
+TITLE: Studienverlaufsplan_BA_Angewandte_Musikwissenschaft_Musikpaedagogik.pdf
+SOURCE_FILE: Studienverlaufsplan_BA_Angewandte_Musikwissenschaft_Musikpaedagogik.pdf
+------------------------------------------------------------
+
+[Page 1]
+Bachelorstudiengang Angewandte Musikwissenschaft und Musikpädagogik (gültig ab 01.10.2023) 
+ 
+ 
+ 
+ 
+ 
+ Stand: 07/2023 
+ 
+6 
+SoSe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+WiSe 
+Praxissemester 
+Vollzeitpraktikum von mind. 20 Wochen Dauer (800 Stunden) 30 ECTS 
+ 
+ 
+ 
+ 
+4 
+SoSe 
+ 
+ 
+ 
+ 
+Empirische Forschung 
+in Musikwissenschaft 
+und Musikpädagogik 
+ 
+Praxis der empirischen 
+Forschung in der 
+Musikwissenschaft und 
+Musikpädagogik 
+(SoSe) 
+ 
+2 SWS 
+ 
+ 
+ 
+ 
+Grundlagen empirischer 
+Forschungsmethoden 
+(WiSe) 
+ 
+2 SWS 
+ 
+ 
+5 ECTS 
+Systematische Musikwissenschaft 
+4 SWS nach Wahl (5 ECTS) 
+Musikethnologie 
+4 SWS nach Wahl (5 ECTS) 
+Schwerpunkt Musikwissenschaft 
+4 SWS nach Wahl (5 ECTC) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Theorie und 
+Praxis 
+der populären 
+Musik 
+ 
+Praxis der 
+populären Musik 
+(SoSe) 
+2 SWS 
+ 
+ 
+ 
+Geschichte der 
+populären Musik 
+(WiSe) 
+2 SWS 
+ 
+ 
+5 ECTS 
+ 
+Vertiefung 
+Musiktechnologi
+e 
+ 
+ 
+Digitale Bearbeitung 
+(SoSe) 2 SWS 
+ 
+ 
+ 
+ 
+ 
+Aufnahmetechnik 
+(WiSe) 2 SWS 
+ 
+ 
+5 ECTS 
+ 
+ 
+ 
+ 
+ 
+ 
+Lied-/Songbegleitung 
+(Klavier, Gitarre oder Akkordeon) 3 Semester je 1 SWS (5 ECTS) 
+Großes Ensemble 
+(Chor, Orchester, Bigband o.ä.) 4 Semester nach Wahl (5 ECTS) 
+Kleines Ensemble 
+4 Semester nach Wahl (5 ECTS) 
+Schrift- und 
+Höranalyse 
+ 
+Tonsatz IV 2 SWS 
+(SoSe) 
+ 
+Gehörbildung IV 1 SWS 
+(SoSe) 
+ 
+Analyse 
+ 2 SWS 
+(SoSe) 
+ 
+8 ECTS 
+Praxisprojekt 
+(2 Semester) 
+ 
+5 ECTS 
+ Wahlmodule 25 ECTS 
+ Darunter ein BA-Modul des Studienangebots Studium.Pro im Umfang von 5 ECTS 
+3 
+WiSe 
+ 
+Musikvermittlung 
+Musikvermittlung 2 2 SWS 
+(WiSe) 
+ 
+ 
+ 
+ 
+ 
+Musikvermittlung 1 2 SWS 
+(SoSe) 
+ 
+5 ECTS 
+Praxis 
+Ensembleleitung 
+Aufbaukurs 
+Ensembleleitung und 
+Musizieren mit 
+heterogenen Gruppen 
+(WiSe) 2 SWS 
+ 
+ 
+ 
+Basiskurs 
+Ensembleleitung und 
+Musizieren mit 
+heterogenen Gruppen 
+(SoSe) 2 SWS 
+ 
+5 ECTS 
+Formanalyse 
+ 
+Tonsatz III 2 SWS 
+(WiSe) 
+ 
+Gehörbildung III 1 SWS 
+(WiSe) 
+ 
+Formenlehre 2 SWS 
+(WiSe) 
+ 
+7 ECTS 
+Kurzpraktikum 
+(4 Wochen) 
+5 ECTS 
+2 
+SoSe 
+Musikgeschichte im 
+Überblick 
+ 
+Musikgeschichte II 
+2 SWS 
+(SoSe) 
+ 
+ 
+ 
+ 
+ 
+Musikgeschichte I 
+2 SWS 
+(WiSe) 
+ 
+5 ECTS 
+ 
+Vertiefung 
+Musiktheorie 
+ 
+Tonsatz II 2 SWS 
+(SoSe) 
+ 
+Gehörbildung II 1 SWS 
+(SoSe) 
+ 
+5 ECTS 
+Einführungsmodu
+l 
+ 
+Berufsfelder in 
+Musikwissenschaft 
+und Musikpädagogik 
+(SoSe) 2 SWS 
+ 
+ 
+Einführung in das 
+musikwissenschaftliche 
+Arbeiten 
+(WiSe) 2 SWS 
+ 
+5 ECTS 
+1 
+WiSe 
+Musikpädagogische 
+Grundlagen in 
+Wissenschaft und Praxis 
+Einführung in musikpäd. 
+Handeln und Denken 2 SWS 
+(WiSe) 
+ 
+Kreatives Gestalten 2 SWS 
+(WiSe) 
+ 
+5 ECTS 
+Grundlagen 
+Musiktechnologie 
+ 
+Praxis Musikedition 
+(WiSe) 2 SWS 
+ 
+Einführung in die Arbeit 
+im MIDI-Labor 1 SWS 
+(WiSe) 
+ 
+ 
+5 ECTS 
+ 
+ 
+Grundlagen 
+Musiktheorie 
+ 
+Tonsatz I 
+ 2 SWS 
+(WiSe) 
+ 
+Gehörbildung I 1 SWS 
+(WiSe) 
+ 
+5 ECTS 
+ 
+ 
+ 
+Bachelor-Arbeit 
+10 ECTS 
+Wissenschaftliche Vertiefung 
+ 
+Vertiefungsseminar Musikwissenschaft oder Vertiefungsseminar Musikpädagogik 
+ 
+2 SWS 
+Eine Lehrveranstaltung aus dem Bereich Musikwissenschaft oder Musikpädagogik nach Wahl 
+2 SWS 
+(SoSe) 
+ 
+5 ECTS

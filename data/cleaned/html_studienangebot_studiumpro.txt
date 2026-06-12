@@ -1,0 +1,11 @@
+SOURCE_URL: https://www.ku.de/studienangebot/studiumpro
+TITLE: Studium.Pro – KU
+SOURCE_FILE: studienangebot_studiumpro.html
+------------------------------------------------------------
+
+Studium.Pro steht für Bildung mit MehrWert an der KU. Hier bietet sich allen Studierenden die Chance, ihren Horizont zu erweitern, ein breites Angebot an Veranstaltungen unabhängig von ihrem Studiengangs zu belegen und ihre Persönlichkeit weiterzuentwickeln.
+Was ist Studium.Pro?
+Die KU steht für eine Wissenschafts- und Bildungskultur der Verantwortlichkeit. Bildungsprozesse an der KU werden im offenen, kritischen und reflektierten Austausch zwischen Lernenden und Lehrenden gestaltet. Im fächerübergreifenden Diskurs werden gesellschaftlich drängende Themen aufgegriffen und die Persönlichkeitsbildung unterstützt, so wird das Bildungsverständnis an der KU dem ganzen Menschen gerecht.
+K'Universale 2025/2026
+Verantwortung tragen - Gesellschaft gestalten
+Das Modulangebot für das Sommersemester 2026 ist online!

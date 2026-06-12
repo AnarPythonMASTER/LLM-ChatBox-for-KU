@@ -1,0 +1,366 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/APO_4.Aenderungssatzung_Senat_19.7.23_12.6.24.pdf
+TITLE: APO_4.Aenderungssatzung_Senat_19.7.23_12.6.24.pdf
+SOURCE_FILE: APO_4.Aenderungssatzung_Senat_19.7.23_12.6.24.pdf
+------------------------------------------------------------
+
+[Page 1]
+Vierte Satzung zur Änderung der 
+Allgemeinen Prüfungsordnung (APO) 
+der Katholischen Universität Eichstätt-Ingolstadt 
+ 
+Vom 24. Juli 2024 
+ 
+ 
+Aufgrund des Art. 5 § 3 Satz 1 des Konkordats zwischen dem Heiligen Stuhl und dem Freistaat Bayern 
+vom 29. März 1924 (BayRS 2220-1-K) erlässt die Katholische Universität Eichstätt-Ingolstadt (KU) 
+folgende Änderungssatzung: 
+§ 1 
+ 
+Die Allgemeine Prüfungsordnung (APO) der Katholischen Universität Eichstätt-Ingolstadt vom 26. 
+November 2014 (Amtsblatt der Stiftung Katholische Universität Eichstätt-Ingolstadt, Jg. 38, Nr. 2/2014, 
+S.124), zuletzt geändert durch Satzung vom 22. Dezember 2022 (Amtsblatt der Stiftung Katholische 
+Universität Eichstätt-Ingolstadt, Jg. 346, Nr. 2/2022, S.164), wird wie folgt geändert: 
+ 
+ 
+1. Das Inhaltsverzeichnis wird wie folgt geändert: 
+ 
+a) In der Angabe zu § 15 werden vor dem Wort „Anmeldung“ das Wort 
+„Immatrikulationspflicht“ und ein Komma eingefügt. 
+ 
+b) In der Angabe zu § 25 werden vor dem Wort „Anrechnung“ die Worte „Anerkennung 
+und“ eingefügt. 
+ 
+c) Nach der Angabe zu § 30 werden folgende Angaben eingefügt: 
+ 
+„VII. BESONDERE BESTIMMUNGEN FÜR FACHHOCHSCHULSTUDIENGÄNGE 
+ 
+§ 31 Besondere Bestimmungen für Fachhochschulstudiengänge 
+§ 32 Praktisches Studiensemester 
+§ 33 Sonderbestimmungen zu den Prüfungsorganen 
+§ 34 An- und Abmeldung zu semesterbegleitenden Prüfungen 
+§ 35 Bewertung durch mehrere Prüfende 
+§ 36 Bearbeitungsfrist für die Wiederholung der Bachelor- oder Masterarbeit“ 
+ 
+d) Die Angabe des bisherigen Abschnitts „VII.“ wird zu der Angabe des Abschnitts „VIII.“. 
+ 
+e) Die Angaben zu den bisherigen §§ 31 und 32 werden zu den Angaben der §§ 37 und 
+38. 
+ 
+f) 
+ Die Angabe des bisherigen Abschnitts „VIII.“ wird zu der Angabe des Abschnitts „IX.“. 
+ 
+g) Die Angaben zu den bisherigen §§ 33 und 34 werden zu den Angaben der §§ 39 und 
+40. 
+ 
+h) Die Angabe des bisherigen Abschnitts „IX.“ wird zu der Angabe des Abschnitts „X.“. 
+ 
+i) 
+Die Angaben zu dem bisherigen § 35 wird zu der Angabe des § 41. 
+ 
+ 
+
+[Page 2]
+2 
+ 
+2. In § 2 Abs. 1 wird das Wort „erworbenen“ durch die Worte „zu erwerbenden“ ersetzt. 
+3. In § 4 Abs. 1 wird das Wort „jeweiligen“ durch die Worte „jeweilig geltenden“ ersetzt. 
+4. § 5 wird wie folgt geändert: 
+a) In Abs. 3 Nr. 8 wird das Wort „und“ durch ein Komma ersetzt und nach dem Wort 
+„Umfang“ werden die Worte „und Bearbeitungszeiten“ eingefügt. 
+b) In Abs. 4 wird folgender Satz 4 angefügt: 
+„4Die Modulbeschreibungen gelten als Richtlinien im Sinne des Art. 84 Abs. 3 Satz 2 
+Bayerischen Hochschulinnovationsgesetz (BayHIG) vom 5. August 2022 (GVBl. S. 414, 
+BayRS 2210-1-3-WK).“ 
+c) In Abs. 5 wird folgender Satz 5 angefügt: 
+„5Soweit Module eines Studiengangs als Anlage zur Studiengangsbeschreibung in 
+einem Wahlpflichtkatalog aufgeführt werden, gilt der Wahlpflichtkatalog als Richtlinien 
+im Sinne des Art. 84 Abs. 3 Satz 2 BayHIG.“ 
+5. § 7 wird wie folgt geändert: 
+a) In Abs. 2 wird Satz 3 gestrichen. 
+b) In Abs. 3 wird vor dem Wort „Frist“ das Wort „der“ durch das Wort „einer“ ersetzt. 
+6. In § 8 Abs. 1 Satz 1 werden die Worte „Bayerischen Hochschulgesetz (BayHSchG) vom 23. 
+Mai 2006 (GVBl S. 245, BayRS 2210-1-1-WFK)“ durch das Wort „BayHIG“ ersetzt und nach der 
+Angabe „GVBl. S. 67“ werden ein Komma und die Angabe „BayRS 2210-1-1-6-WK“ eingefügt. 
+7. § 9 wird wie folgt geändert: 
+a) Abs. 2 wird wie folgt geändert: 
+aa) In Satz 2 wird das Wort „hauptamtlich“ durch die Worte „haupt- und nebenberuflich“ 
+und die Angabe „2 Abs. 3 Satz 1 Gesetz über die Rechtsverhältnisse der 
+Hochschullehrerinnen und Hochschullehrer sowie des weiteren wissenschaftlichen und 
+künstlerischen Personals an den Hochschulen (Bayerisches Hochschulpersonalgesetz 
+- BayHSchPG) vom 23. Mai 2006 in der jeweils gültigen Fassung“ durch die Angabe 
+„19 Abs. 1 Satz 1 und Satz 3 BayHIG“ ersetzt. 
+bb) Es wird folgender Satz 4 angefügt: 
+„4Die Anzahl der jeweiligen Prüfungsausschussmitglieder wird vor der Wahl der 
+Mitglieder vom Fakultätsrat beschlossen.“ 
+b) In Abs. 5 Satz 5 wird die Zahl „41“ durch die Zahl „51“ ersetzt und das Wort „BayHSchG“ 
+wird durch das Wort „BayHIG“ ersetzt. 
+8. In § 11 Abs. 4 Satz 1, 2. Halbsatz, wird das Wort „Frist“ durch das Wort 
+„Wiederholungsmöglichkeit“ ersetzt. 
+9. § 15 wird wie folgt geändert: 
+a) In der Überschrift werden vor dem Wort „Anmeldung“ das Wort „Immatrikulationspflicht“ 
+und ein Komma eingefügt. 
+b) Abs. 1 wird wie folgt gefasst: 
+
+[Page 3]
+3 
+ 
+„(1) Das Ablegen von Hochschulprüfungen setzt die Immatrikulation nach Art. 87 Abs. 
+1 Satz 1 BayHIG voraus; dies gilt nicht, wenn eine Kooperationsvereinbarung der KU 
+mit einer anderen Hochschule vorsieht, dass Studierende an Lehrveranstaltungen 
+teilnehmen und Studien- und Prüfungsleistungen ohne Immatrikulation an der KU 
+erbringen können.“ 
+c) Die bisherigen Abs. 1 und 2 werden zu den Abs. 2 und 3. 
+10. In § 16 wird folgender Abs. 6 angefügt: 
+„(6) 1Die oder der Prüfende entscheidet und teilt rechtzeitig mit, welche Hilfsmittel für die 
+Prüfung benutzt werden dürfen. 2Schriftlichen Prüfungsleistungen, die ohne Aufsicht angefertigt 
+werden (insbesondere Hausarbeiten, Studienarbeiten, Portfolios und ähnliches) ist ein 
+Verzeichnis der benutzten Hilfsmittel beizufügen. 3Ausführungen, die wörtlich oder sinngemäß 
+Veröffentlichungen oder anderen Quellen entnommen wurden, sind als solche kenntlich zu 
+machen.“ 
+11. § 17 wird wie folgt geändert: 
+a) Abs. 6 wird wie folgt geändert: 
+aa) Satz 2 wird wie folgt gefasst: 
+„2Die oder der Lehrende legt den Zeitpunkt für die Abhaltung des Referats fest und teilt 
+diesen der oder dem Studierenden frühzeitig mit; die Bearbeitung ist bis zum Termin 
+des Referats möglich.“ 
+bb) Die bisherigen Sätze 2 und 3 werden die Sätze 3 und 4. 
+b) In Abs. 8 Satz 2 wird das Wort „wird“ durch die Worte „und die Bearbeitungszeit werden“ 
+ersetzt. 
+c) In Abs. 9 wird folgender Satz 4 angefügt: 
+„4Die Bearbeitungszeit wird in der PO festgelegt.“ 
+ 12. § 19 Abs. 1 wird wie folgt gefasst: 
+„(1) 1Neben Präsenzprüfungen können Prüfungen auch als elektronische Fernprüfungen unter 
+Nutzung von Videokonferenzschaltung nach Maßgabe der Verordnung zur Erprobung 
+elektronischer 
+Fernprüfungen 
+an 
+den 
+bayerischen 
+Hochschulen 
+(Bayerische 
+Fernprüfungserprobungsverordnung – BayFEV) vom 16. September 2020 in der jeweils 
+gültigen Fassung durchgeführt werden. 2Elektronische Fernprüfungen sind Prüfungen, die ihrer 
+Natur nach dazu geeignet sind, in elektronischer Form ortsungebunden durchgeführt zu 
+werden. 3Dies gilt sowohl für mündliche und praktische Fernprüfungen als auch für 
+elektronische Fernprüfungen in Form schriftlicher Aufsichtsarbeiten (Fernklausuren) sowie für 
+Fernprüfungen oder entsprechende Verfahren mit Prüfungscharakter im Rahmen der Art. 89 
+Abs. 1, 2 und 4 und Art. 90 Abs. 1 Satz 2 BayHIG. 
+13. In § 19 Abs. 6 Satz 2 wird das Wort „DSGVO“ durch die Worte „Datenschutz-Grundverordnung 
+vom 27. April 2016 (ABl. L 119, 04.05.2016) in der jeweils geltenden Fassung“ ersetzt. 
+14. § 22 wird wie folgt geändert: 
+a. In Abs. 1 werden die Satznummerierung „1“ und Satz 2 gestrichen. 
+b. Abs. 2 wird wie folgt gefasst: 
+„(2). 1Eine während einer Prüfung unter Aufsicht eintretende Prüfungsunfähigkeit muss 
+unverzüglich geltend gemacht werden.2Der oder die Studierende soll die 
+Prüfungsunfähigkeit gegenüber der oder dem Aufsichtsführenden anzeigen, wobei die 
+
+[Page 4]
+4 
+ 
+Anzeige im Prüfungsprotokoll vermerkt wird. 3Zusätzlich hat die oder der Studierende 
+den Rücktritt und die Gründe schriftlich beim Prüfungsamt oder beim zuständigen 
+Prüfungsausschuss geltend und glaubhaft zu machen.“ 
+c. Die bisherigen Abs. 2 und 3 werden die Abs. 3 und 4. 
+15. § 23 wird wie folgt geändert: 
+a. Abs. 1 Satz 3 wird gestrichen. 
+b. Abs. 4 wird wie folgt geändert: 
+aa) In Satz 1 werden nach dem Wort „wird“ die Worte „in universitären Studiengängen“ 
+eingefügt. 
+bb) Es wird folgender Satz 3 angefügt: 
+„3Liegt der zweite Prüfungstermin aus organisatorischen Gründen im folgenden 
+Semester und überschreitet die oder der Studierende durch Nutzung des zweiten 
+Prüfungstermins die Höchststudiendauer, so wird die Höchststudiendauer von Amts 
+wegen um ein Semester verlängert.“ 
+16. § 25 wird wie folgt geändert: 
+a. In der Überschrift werden vor dem Wort „Anrechnung“ die Worte „Anerkennung und“ 
+eingefügt. 
+b. Abs. 1 wird wie folgt geändert: 
+aa) Satz 1 wird wie folgt gefasst: 
+„1Studienzeiten, Studien- und Prüfungsleistungen, die in Studiengängen an der KU oder 
+anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik 
+Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen 
+eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der 
+Bundesrepublik Deutschland oder in Studiengängen an ausländischen staatlichen oder 
+staatlich anerkannten Hochschulen erbracht worden sind, sowie aufgrund solcher 
+Studiengänge erworbene Abschlüsse sind anzuerkennen, außer es bestehen 
+wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.“ 
+bb) In Satz 2 werden die Worte „sonstigen Studien nach Art. 56 Abs. 6 Nrn. 1 und 2 
+BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder 
+an der Virtuellen Hochschule Bayern“ durch die Worte „Modul- und Zusatzstudien, an 
+der Virtuellen Hochschule Bayern oder im Rahmen eines Früh- oder Jungstudiums“ 
+ersetzt. 
+c. In Abs. 2 wird Satz 1 wie folgt gefasst: 
+„1Kompetenzen, die im Rahmen weiterbildender oder weiterqualifizierender Studien 
+nach Art. 78 Abs. 1 Satz 2 Nr. 2 Buchst. b, Abs. 2 Satz 2 Nr. 1 Buchst. b BayHIG oder 
+außerhalb des Hochschulbereichs erworben wurden, können angerechnet werden, 
+wenn sie gleichwertig sind.“ 
+d. Abs. 3 wird wie folgt geändert: 
+aa) In Satz 1 werden vor dem Wort „Anrechnung die Worte „Anerkennung bzw.“ 
+eingefügt. 
+bb) In Satz 2 werden vor dem Wort „angerechnete“ die Worte „anerkannte bzw.“ 
+eingefügt“. 
+
+[Page 5]
+5 
+ 
+e. Abs. 4 wird wie folgt geändert: 
+aa) in Satz 1 wird jeweils vor dem Wort „Anrechnung die Worte „Anerkennung bzw.“ 
+eingefügt. 
+bb) In Satz 2 werden vor dem Wort „Anrechnung die Worte „Anerkennung bzw.“ 
+eingefügt. 
+f. 
+In Abs. 5 werden vor dem Wort „angerechnet“ die Worte „anerkannt bzw.“ eingefügt. 
+g. In Abs. 7 werden vor dem Wort „Anrechnungsrichtlinien“ die Worte „Anerkennungs- 
+und“ eingefügt. 
+17. § 26 wird wie folgt geändert: 
+a. Abs. 1 wird wie folgt geändert: 
+aa) Die Satznummerierung 1 wird gestrichen. 
+bb) Vor dem Wort „glaubhaft“ werden die Worte „oder einen anderen geeigneten 
+Nachweis“ und nach dem Wort „Beeinträchtigungen“ werden die Worte „oder einer 
+besonderen Lebenslage“ eingefügt. 
+b. In Abs. 2 Satz 3 werden die Worte „Studierende mit Behinderung“ durch die Worte „die 
+Belange der Studierenden mit Behinderung oder chronischer Erkrankung“ ersetzt. 
+18. § 27 wird wie folgt geändert: 
+a. In Abs. 2 werden nach dem letzten Halbsatz das Satzzeichen Komma und die Wörter 
+„sofern die künstliche Intelligenz nicht als Hilfsmittel unter den Voraussetzungen des § 
+12 Abs. 7 oder § 16 Absatz 6 zugelassen ist“ eingefügt. 
+b. In Abs. 7 wird die Angabe „49 Abs. 2 Nr. 3 BayHSchG“ durch die Angabe „94 Abs. 2 
+i.V.m. Art. 91 Nr. 2 BayHIG“ ersetzt. 
+19. § 30 Abs. 2 wird wie folgt geändert: 
+a. Sätze 4 bis 6 werden wie folgt gefasst 
+„4Das Einbringen von Leistungen, die nicht Teil der Bachelor- oder Masterprüfung sind 
+und in das Diploma Supplement bzw. in das Transcript of Records aufgenommen 
+werden sollen, setzt eine Immatrikulation im jeweiligen Studiengang zum Zeitpunkt der 
+Erbringung der Leistung voraus. 5Leistungen im Sinne des Satzes 4 sind: 
+1. Module, die während einer Immatrikulation in einem Studiengang an der KU 
+absolviert oder angerechnet wurden und nicht Teil der Bachelor- oder 
+Masterprüfung dieses Studiengangs sind (Zusatzleistungen); 
+2. Ausgewiesenes ehrenamtliches Engagement, das im Kontext der KU über die 
+Studiendauer hinweg in einem Umfang von mindestens 90 Stunden unentgeltlich 
+erbracht wurde und nicht durch Urkunden, Arbeitszeugnisse oder Ähnliches 
+bestätigt werden kann. 
+6Ausgewiesenes ehrenamtliches Engagement wird ins Diploma Supplememt 
+eingetragen und Zusatzleitungen werden ins Transcript of Records aufgenommen.“ 
+b. Es wird folgender Satz 7 angefügt: 
+„7Über die Eintragung der ehrenamtlichen Engagements entscheidet auf schriftlichen 
+oder elektronischen Antrag der oder des Studierenden der Prüfungsausschuss; die 
+
+[Page 6]
+6 
+ 
+Zuständigkeit über die Entscheidung kann auf die Vorsitzende bzw. den Vorsitzenden 
+oder auf ein Mitglied des Prüfungsausschusses übertragen werden.“ 
+20. Die Abschnittsüberschrift VII. wird wie folgt gefasst: 
+„VII. BESONDERE BESTIMMUNGEN FÜR FACHHOCHSCHULSTUDIENGÄNGE“ 
+21. Die §§ 31 bis 36 werden wie folgt gefasst: 
+ 
+„§ 31 
+Besondere Bestimmungen für Fachhochschulstudiengänge 
+ 
+Die nachfolgenden Bestimmungen (§§ 32 bis 36) gelten für die Studiengänge der KU, die an 
+der Fachhochschulfakultät für Soziale Arbeit angeboten werden oder dem Bereich einer 
+Hochschule für angewandte Wissenschaften zugeordnet werden. 
+ 
+§ 32 
+Praktisches Studiensemester 
+ 
+(1) Bachelorstudiengänge enthalten in der Regel ein praktisches Studiensemester; 
+Masterstudiengänge können ein praktisches Studiensemester enthalten. 
+(2) Ein praktisches Studiensemester ist ein in das Studium integriertes, von der Hochschule 
+geregeltes, inhaltlich bestimmtes, betreutes und mit Lehrveranstaltungen vorbereitetes und 
+begleitetes Studiensemester, das in der Regel in einem Betrieb oder in einer anderen 
+Einrichtung der Berufspraxis außerhalb der Hochschule abgeleistet wird und einer bereits 
+deutlich berufsbezogenen Tätigkeit gewidmet ist. 
+(3) 1Soweit in der jeweiligen PO des Studiengangs nichts Abweichendes geregelt ist, umfasst 
+das praktische Studiensemerster einschließlich der begleitenden Lehrveranstaltungen 
+einen zusammenhängenden Zeitraum von 22 Wochen. 2Der zeitliche Umfang darf durch 
+Prüfungen nicht beeinträchtigt werden. 
+(4) Die Bestimmungen zum Vollzug der praktischen Studiensemester an den staatlichen 
+Hochschulen für angewandte Wissenschaften in Bayern vom 24. Januar 2023 (BayMBl. 
+2023 Nr. 60, 2210.4.1-WK) in der jeweiligen Fassung gelten entsprechend. 
+ 
+ 
+§ 33 
+Sonderbestimmungen zu den Prüfungsorganen 
+(1) Abweichend von § 9 Abs. 7 Satz 1 entscheidet in unaufschiebbaren Angelegenheiten die 
+oder der Prüfungsausschussvorsitzende. 
+ 
+(2) Der 
+Prüfungsausschuss 
+kann 
+zusätzlich 
+zu 
+den 
+bereits 
+geregelten 
+Übertragungsmöglichkeiten folgende Entscheidungen einem oder mehreren Mitgliedern 
+übertragen: 
+1. Entscheidungen über Nachteilsausgleich nach § 26 Abs. 2, 
+2. Entscheidung über die Gewährung von Fristverlängerungen für die Ablegung von 
+Prüfungsleistungen, 
+3. die Entscheidung über die Folgen des Nichterscheinens zu Prüfungen. 
+
+[Page 7]
+7 
+ 
+ 
+§ 34 
+An- und Abmeldung zu semesterbegleitenden Prüfungen 
+1Unbeschadet der Festlegung von An- und Abmeldeformalitäten gemäß § 15 Abs. 3 Satz 2 gilt 
+bei semesterbegleitenden Prüfungen der Antritt der Prüfungsleistung (Abgabe der Hausarbeit, 
+Vortrag des Referats, etc.) als Anmeldung zur Prüfung. 2Zugleich ist eine Abmeldung von der 
+Prüfung ab diesem Zeitpunkt nicht mehr zulässig. 
+ 
+§ 35 
+Bewertung durch mehrere Prüfende 
+ 
+1Ist eine Prüfungsleistung von den zwei Prüfenden unterschiedlich bewertet worden, sollen sich 
+die Prüfenden auf eine übereinstimmende Bewertung einigen. 2Kommt eine Einigung nicht 
+zustande, ergibt sich die Note aus dem auf eine Nachkommastelle abgerundeten arithmetischen 
+Mittel. 
+ 
+§ 36 
+Bearbeitungsfrist für die Wiederholung der Bachelor- oder Masterarbeit 
+ 
+Die Bearbeitungsfrist der nach § 12 Abs. 10 Satz 2 zu wiederholenden Bachelor- oder 
+Masterarbeit beginnt spätestens sechs Monate nach Bekanntgabe der ersten Bewertung.“ 
+ 
+22. Die bisherige Abschnittsüberschrift VII. wird zur Abschnittsüberschrift VIII.. 
+23. Die bisherigen §§ 31 und 32 werden zu den §§ 37 und 38. 
+24. Die bisherige Abschnittsüberschrift VIII. wird zur Abschnittsüberschrift IX.. 
+25. Die bisherigen §§ 33 und 34 werden zu den §§ 39 und 40. 
+26. In § 40 Abs. 2 wird folgender Satz 3 angefügt: 
+„3Die nochmalige Einbringung von bereits im Bachelorstudiengang absolvierten Studium.Pro-
+Modulen in einem Masterstudiengang ist nicht zulässig.“ 
+27. Die bisherige Abschnittsüberschrift IX. wird zur Abschnittsüberschrift X.. 
+28. Der bisherige § 35 wird zu § 41. 
+ 
+§ 2 
+ 
+Diese Satzung tritt mit Wirkung vom 1. Oktober 2023 in Kraft. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 8]
+8 
+ 
+Ausgefertigt aufgrund des Beschlusses des Senats der Katholischen Universität Eichstätt-Ingolstadt 
+vom 19. Juli 2023 und 12. Juni 2024 sowie der Genehmigung der Präsidentin vom 23. Juli 2024 und 
+des Einvernehmens des Bayerischen Staatsministeriums für Wissenschaft und Kunst vom 18. Oktober 
+2023; Az.: L.3-H6214.4.0/1/8. 
+Eichstätt/Ingolstadt, den 24. Juli 2024 
+ 
+ 
+ 
+Prof. Dr. Gabriele Gien 
+Präsidentin 
+ 
+Diese Satzung wurde am 24. Juli 2024 in der Katholischen Universität Eichstätt-Ingolstadt niedergelegt. 
+Die Niederlegung wurde am gleichen Tag in der Katholischen Universität Eichstätt-Ingolstadt bekannt 
+gemacht. Tag der Bekanntmachung ist daher der 24. Juli 2024.

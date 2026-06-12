@@ -1,0 +1,76 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Master_FMG_4_Semester.pdf
+TITLE: Studienverlaufsplan_Master_FMG_4_Semester.pdf
+SOURCE_FILE: Studienverlaufsplan_Master_FMG_4_Semester.pdf
+------------------------------------------------------------
+
+[Page 1]
+Interdisziplinärer Masterstudiengang Flucht, Migration, Gesellschaft (FMG)
+120 ECTS- 
+Punkte
+4. 
+Semester
+Masterarbeit FMG + Kolloquium
+30 ECTS- 
+Punkte
+30 ECTS-Punkte
+3.
+Semester
+(Lehr-)Forschungsprojekt FMG
+Praktikum FMG
+Studium.Pro
+Wahlbereich 
+fachliche/ 
+interdisziplinäre 
+Vertiefung
+30 ECTS- 
+Punkte
+10 ECTS-Punkte
+10 ECTS-Punkte
+5 ECTS-Punkte
+5 ECTS-Punkte
+2.
+Semester
+Methoden der 
+Flucht- und 
+Migrations-
+forschung II
+Glokale 
+Dynamiken
+Medien und 
+Öffentlichkeit
+Bildung, 
+Anerkennung, 
+Gerechtigkeit
+Sozialpolitische 
+Zugänge
+Institutionen 
+und Praxis
+30 ECTS- 
+Punkte
+5 ECTS-Punkte
+5 ECTS-Punkte
+5 ECTS-Punkte
+5 ECTS-Punkte
+5 ECTS-Punkte
+5 ECTS-Punkte
+1.
+Semester
+Methoden der 
+Flucht- und 
+Migrations- 
+forschung I
+Grundlagenmodul FMG
+Kultur und 
+Religion
+Rechtliche 
+Zugänge FMG
+Historische 
+Zugänge FMG
+30 ECTS- 
+Punkte
+5 ECTS-Punkte
+10 ECTS-Punkte
+5 ECTS-Punkte
+5 ECTS-Punkte
+5 ECTS-Punkte
+Idealtypischer Studienverlaufsplan für das Vollzeitstudium (4 Semester)

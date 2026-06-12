@@ -1,0 +1,195 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Transformation_Nachhaltigkeit_Ethik_BA.pdf
+TITLE: Studienverlaufsplan_Transformation_Nachhaltigkeit_Ethik_BA.pdf
+SOURCE_FILE: Studienverlaufsplan_Transformation_Nachhaltigkeit_Ethik_BA.pdf
+------------------------------------------------------------
+
+[Page 1]
+Semester
+TRANSFORMATIVE LERNPROZESSE
+Gesamt ECTS
+7. Semester
+Sustainability Indicators: 
+Digitalisierung und Monitoring 
+(10 ECTS-Punkte)
+Bachelorarbeit 
+(10 ECTS-Punkte)
+Sozial- und Pastorallabore:
+Erprobungen einer transformativen
+Praxis 
+(10 ECTS-Punkte)
+Studium.Pro 
+(5 ECTS-Punkte)
+30 ECTS-Punkte
+6. Semester
+Cooperatate Governance (5 ECTS-Punkte)
+Sustainable
+Development (5
+ECTS-Punkte)
+Kulturelle
+Transformation:
+Kommunikation
+und
+performatives
+Handeln (10
+ECTS-Punkte)
+Persönlichkeits-
+entwicklung und
+Coaching III
+(5 ECTS-Punkte)
+30 ECTS-Punkte
+5. Semester
+Praxissemester (30 ECTS-Punkte)
+30 ECTS-Punkte
+4. Semester
+Sustainable Transformation: System- und
+Zielwissen 
+(15 ECTS-Punkte)
+Akteure und
+Praktiken der
+Transformation 
+(15 ECTS-Punkte)
+Transformation Literacy: 
+Kompetenzentwicklung und Didaktik 
+(10 ECTS-Punkte)
+Studium.Pro 
+(5 ECTS-Punkte)
+30 ECTS-Punkte
+3. Semester
+Ethische
+Grundlagen der
+Transformation
+(10 ECTS-Punkte)
+Persönlichkeits-
+entwicklung und
+Coaching II
+(5 ECTS-Punkte)
+30 ECTS-Punkte
+2. Semester
+Transformative Bildung 
+(5 ECTS-Punkte)
+Werte und
+Narrative 
+(5 ECTS-Punkte)
+Soziale und
+religiöse
+Praktiken
+(5 ECTS-Punkte)
+Projektmanage-
+ment mit
+Projektentwick-
+lung Service
+Learning 
+(10 ECTS-Punkte)
+Agency 
+(10 ECTS-Punkte)
+Studium.Pro
+(5 ECTS-Punkte)
+30 ECTS-Punkte
+1. Semester
+Wahrnehmen - Deuten - Antizipieren 
+(15 ECTS-Punkte)
+Persönlichkeits-
+entwicklung und
+Coaching 
+(5 ECTS-Punkte)
+30 ECTS-Punkte
+
+[Page 2]
+Semester
+Angewandte Theologie
+Gesamt ECTS
+7. Semester
+Transformative Gemeinde- und
+Kirchenentwicklung (10 ECTS-Punkte)
+Bachelorarbeit
+ (10 ECTS-Punkte)
+Sozial- und Pastorallabore:
+Erprobungen einer transformativen
+Praxis 
+(10 ECTS-Punkte)
+Studium.Pro 
+(5 ECTS-Punkte)
+30 ECTS-Punkte
+6. Semester
+Transformative
+christliche
+Narrative und
+Rituale 
+(5 ECTS-Punkte)
+Transformative
+religiöse Bildung 
+(5 ECTS-Punkte)
+Kulturelle
+Transformation:
+Kommunikation
+und
+performatives
+Handeln
+ (10 ECTS-Punkte)
+Persönlichkeits-
+entwicklung und
+Coaching III
+(5 ECTS-Punkte)
+30 ECTS-Punkte
+5. Semester
+Praxissemester (30 ECTS-Punkte)
+30 ECTS-Punkte
+4. Semester
+Denken und
+Glauben 
+(10 ECTS-Punkte)
+Feiern und
+Trauern 
+(5 ECTS-Punkte)
+Transformation Literacy:
+Kompetenzentwicklung und Didaktik 
+(10 ECTS-Punkte)
+Studium.Pro (
+5 ECTS-Punkte)
+30 ECTS-Punkte
+3. Semester
+Erinnern und
+Erzählen 
+(10 ECTS-Punkte)
+Glauben als
+Handeln 
+(5 ECTS-Punkte)
+Ethische
+Grundlagen der
+Transformation
+(10 ECTS-Punkte)
+Persönlichkeits-
+entwicklung und
+Coaching II 
+(5 ECTS-Punkte)
+30 ECTS-Punkte
+2. Semester
+Transformative
+Bildung
+ (5 ECTS-Punkte)
+Werte und
+Narrative
+ (5 ECTS-Punkte)
+Soziale und
+religiöse
+Praktiken
+(5 ECTS-Punkte)
+Projektmanage-
+ment mit
+Projektentwick-
+lung Service
+Learning
+ (10 ECTS-Punkte)
+Agency 
+(10 ECTS-Punkte)
+Studium.Pro 
+(5 ECTS-Punkte)
+30 ECTS-Punkte
+1. Semester
+Wahrnehmen - Deuten - Antizipieren 
+(15 ECTS-Punkte)
+Persönlichkeits-
+entwicklung und
+Coaching 
+(5 ECTS-Punkte)
+30 ECTS-Punkte

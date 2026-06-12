@@ -1,0 +1,162 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BA_DFS_WiSe22_23.pdf
+TITLE: Studienverlaufsplan_BA_DFS_WiSe22_23.pdf
+SOURCE_FILE: Studienverlaufsplan_BA_DFS_WiSe22_23.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+ 
+Semester 
+Bachelorabschluss der KU: Politikwissenschaft mit Profil Kommunikation und Medien (Beispiel) 
+ 
+6 
+Politische Systeme im 
+int. Vergleich (5 ECTS) 
+BA-Arbeit (10 ECTS) 
+(1) Soziologie 
+(2) Volkswirtschaftslehre 
+(3) Betriebswirtschafts-
+lehre 
+(4) Literatur und Kunst 
+(5) Kultur und Europa 
+(6) Philosophie und Ethik 
+(7) Emp. Sozialfor-
+schung 
+(8) Kommunikation und 
+Medien 
+(9) Humangeographie 
+und regionale Ent-
+wicklung 
+(10) Neueste Geschichte 
+und Zeitgeschichte 
+(11) Lateinamerikastudien 
+Journalismus 
+und Mediensys-
+teme 
+(5 ECTS) 
+Medienwirkung und 
+Medienrezeption 
+(5 ECTS) 
+Spanisch 2 (5 
+ECTS) 
+30 
+ECTS-
+Punkte 
+5 
+Akteure und Systeme 
+der internat. Politik 
+(10 ECTS) 
+Zeitgenössische politi-
+sche Theorie (5 ECTS) 
+Grundlagen der 
+Journalistik 
+(5 ECTS) 
+ 
+Qualität und Ethik der 
+öffentl. Kommunika-
+tion 
+(5 ECTS) 
+Spanisch 1 (5 
+ECTS) 
+30 
+ECTS-
+Punkte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Les politiques éco. 
+ 
+Histoire des relations eu-
+ropéennes 
+Sociologie des terri-
+toires 
+ 
+Sociologie de l’action 
+politique 
+Cours optionnel 
+obligatoire 
+Sciences poli-
+tiques en Alle-
+mand 
+Anglais 
+Tutorat CIFA 
+30 
+ECTS-
+Punkte 
+3 
+Analyse macroécono-
+mique 
+ 
+Histoire de l'Empire Ot-
+toman 
+Droit privé 
+ 
+Institutions de l'Union 
+Européenne 
+Enseignement facultatif 
+Enseignement facultatif 
+Enseignement 
+facultatif 
+Anglais 
+Tutorat CIFA 
+30 
+ECTS-
+Punkte 
+ 
+2 
+Einführung in die Inter-
+nationale Politik (5 
+ECTS) 
+Einführung in die Politi-
+sche Theorie und Phi-
+losophie 
+(5 ECTS) 
+Das politische System der 
+BRD 
+(5 ECTS) 
+Politik in 
+Deutschland 
+und Frankreich 
+(5 ECTS) 
+Grundla-
+gen der 
+BWL II (5 
+ECTS) 
+Wiss. 
+Schrei-
+ben im 
+dt.-frz. 
+Kontext 
+(5 
+ECTS) 
+Compétence com. 
+en contexte inter-
+culturel (5 ECTS) 
+30 
+ECTS-
+Punkte 
+1 
+Einführung in die Politik-
+wissenschaft (5 ECTS) 
+Einführung in die Pol. 
+Systemlehre und Vgl. 
+Politikwiss. (5 ECTS) 
+Deutsch-französische Be-
+ziehungen vor Ort 
+(5 ECTS) 
+Grundla-
+gen der 
+BWL I (5 
+ECTS) 
+Grammatik und 
+Wortschatz 1 (5 
+ECTS) 
+30 
+ECTS-
+Punkte

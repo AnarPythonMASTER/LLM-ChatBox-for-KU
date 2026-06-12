@@ -1,0 +1,53 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_TSG_BA_Politikwissenschaft.pdf
+TITLE: Studienverlaufsplan_TSG_BA_Politikwissenschaft.pdf
+SOURCE_FILE: Studienverlaufsplan_TSG_BA_Politikwissenschaft.pdf
+------------------------------------------------------------
+
+[Page 1]
+Das politikwissenschaftliche Modulangebot umfasst vier Pflichtmodule… 
+1.
+2.
+Einführung: Das Politische als Bildungsaufgabe und Bildungsgegenstand 
+(5 ECTS-Punkte)
+Einführung in die Politische Systemlehre und die Vergleichende 
+Politikwissenschaft (5 ECTS-Punkte)
+3. Einführung in die Politische Theorie und Philosophie (5 ECTS-Punkte)
+4. Einführung in die Internationalen Beziehungen (5 ECTS-Punkte)
+… und eine Auswahl aus zehn Wahlpflichtmodulen:
+1. Zeitgenössische Politische Theorie (5 ECTS-Punkte)
+2. Grundlagenmodul Politische Theorie und Philosophie (5 ECTS-Punkte)
+3. Europäische Politische Ideen (10 ECTS-Punkte)
+4. Das politische System der Bundesrepublik Deutschland (5 ECTS-Punkte)
+5. Akteure und Systeme der Internationalen Politik (5 oder 10 ECTS-Punkte)
+6. Europäische Integration (Europa in der Weltpolitik) (5 oder 10 ECTS-Punkte)
+7. Politische Systeme im internationalen Vergleich (5 ECTS-Punkte)
+8. Politik und Kommunikation (5 oder 10 ECTS-Punkte)
+9. Rhetorik I: Grundlagen rhetorischer Kommunikation (5 ECTS-Punkte)
+10. Rhetorik II: Politische Rede- und Kommunikationssituationen (5 ECTS-Punkte)
+Politikwissenschaft 
+im Interdisziplinären Bachelorstudiengang der KU
+Verpflichtende Bestandteile
+zu absolvierende 
+ECTS-Punkte
+Politikwissenschaftliche Module
+min. 60, max. 85
+Studium.Pro
+10
+Bachelorarbeit in Politikwissenschaft
+10
+Kolloquium zur Bachelorarbeit
+5
+Praktikum
+5
+Weitere mögliche Bestandteile
+zu absolvierende 
+ECTS-Punkte
+Maximal drei zusätzliche Fächer
+min. je 30
+Studium Individuale (freier Wahlbereich)
+max. 30
+Insgesamt 
+zu absolvierende ECTS-Punkte
+180
+Modulübersicht:
+B.A. mit Politikwissenschaft als Hauptfach

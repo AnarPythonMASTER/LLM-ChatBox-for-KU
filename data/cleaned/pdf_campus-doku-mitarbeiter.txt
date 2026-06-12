@@ -1,0 +1,926 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/campus-doku-mitarbeiter.pdf
+TITLE: campus-doku-mitarbeiter.pdf
+SOURCE_FILE: campus-doku-mitarbeiter.pdf
+------------------------------------------------------------
+
+[Page 1]
+1
+ 
+ 
+ 
+Das Web-Portal 
+des Campus-Management-Systems 
+KU.Campus 
+ 
+ 
+ 
+ 
+ 
+1.  Vorbemerkung 
+............................................................................................... 2 
+2.  U
+¨ 
+bersicht u
+¨ber das Lehrangebot der KU ....................................................... 2 
+Druckfassung des Vorlesungsverzeichnisses ........................................................................ 
+4 
+Verbesserung der U
+¨ bersichtlichkeit ......................................................................................... 
+4 
+Detailinformationen ................................................................................................................ 
+6 
+Detailinformationen zu Modulen 
+............................................................................................. 
+9 
+Einzelsuche von Lehrveranstaltungen .................................................................................... 
+10 
+3.  Anmeldung zu einer Lehrveranstaltung / Pru
+¨fung 
+........................................ 12 
+Stornieren von Anmeldungen 
+................................................................................................ 17 
+4.  Spezielle Funktionen für Mitarbeiter und Dozenten ................................... 19 
+Mailversand an Veranstaltungsteilnehmer ......................................................................... 19 
+Noteneingabe zu Prüfungen ................................................................................................ 21 
+Stellvertretung im KU.Campus 
+............................................................................................ 
+23 
+Belegung von Lehrräumen 
+................................................................................................... 
+23 
+5.  Spezielle Funktionen für Modulverantwortliche 
+......................................... 
+25 
+ 
+ 
+ 
+ 
+ 
+
+[Page 2]
+2
+ 
+1. Vorbemerkung 
+ 
+Mit dem Campus-Management-System KU.Campus, das auf der Basis der Standard-Software 
+Evento zur Hochschul- und Schulverwaltung, zur Kursverwaltung sowie zum Eventmanagement 
+realisiert wird, unterstützt die Kath. Universität Eichstätt-Ingolstadt (KU) ihr Lehrver- 
+anstaltungsmanagement, ihre Raumbelegungs- und Terminplanung, sowie ihre Prüfungsver- 
+waltung. Dabei werden die wesentlichen Funktionen für Studierende, Dozenten und Mitarbeiter 
+sowie für sonstige am Lehrangebot der KU Interessierte über ein Web-Portal bereitgestellt, das Sie 
+unter der Adresse 
+http://campus.ku.de erreichen. Diese Funktionen und ihre Nutzung sollen im Folgenden 
+n¨
+aher beschrieben werden. 
+ 
+ 
+2. U
+¨ 
+bersicht u
+¨ber das Lehrangebot der KU 
+ 
+U
+¨ ber den Link Lehrveranstaltungen [nach Studieng¨
+angen] / Vorlesungsverzeichnis unter dem 
+Navigationspunkt Allgemeiner Zugriff kann sich jeder Interessent einen U
+¨ berblick u
+¨ber das 
+Lehrangebot der KU verschaffen. Ein Klicken auf diesen Link ¨
+offnet das Suchfenster Veran- 
+staltungen suchen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bei den einzelnen Feldern des Suchfensters sind Auswahllisten hinterlegt, mit denen Sie Ihre 
+Suche auf einen bestimmten Bachelor- oder Masterstudiengang bzw. auf das Lehrangebot einer 
+Fakult¨
+at in deren alten Studieng¨
+angen beschr¨
+anken, sich nur ein bestimmtes Fachsemester oder 
+den kompletten Studiengang anzeigen lassen und sich dabei auf ein ganz konkretes Semester 
+(z.B. Sommersemester 2014) beziehen. 
+So liefert beispielsweise die in der nachstehenden Abbildung festgehaltene Auswahl 
+
+[Page 3]
+3
+ 
+ 
+ 
+ 
+ 
+ 
+nach Bet¨
+atigen des Schaltknopfs Suchen im Ergebnisfenster Gefundene Veranstaltungen die 
+Auflistung aller Lehrveranstaltungen des Studiengangs Bachelor Pflegewissenschaft (FH-
+Studiengang), die im Sommersemester 2014 für das 2. Fachsemester angeboten werden. 
+ 
+ 
+ 
+ 
+ 
+
+[Page 4]
+4
+ 
+Fu
+¨r jede aufgelistete Lehrveranstaltung werden dabei in einer Kurzfassung die wichtigsten In- 
+formationen wie die (vielleicht etwas kryptische) Veranstaltungsnummer, der Veranstaltungs- 
+titel, der Turnus (7: w¨
+ochentlich, 14: vierzehnt¨
+aglich, 0: Blockveranstaltung), der Typ, die 
+Unterrichtssprache, die Anzahl der Semesterwochenstunden [SWS], der Dozent sowie ein Link 
+angezeigt, u
+¨ber den Sie sich gegebenenfalls zu dieser Lehrveranstaltung anmelden k¨
+onnen 
+(→ Anmeldung). 
+ 
+Druckfassung des Vorlesungsverzeichnisses 
+ 
+U
+¨ ber das Druckersymbol rechts oben im Ergebnisfenster Gefundene Veranstaltungen ist 
+das kommentierte Vorlesungsverzeichnis fu
+¨r den jeweils ausgew¨
+ahlten Studiengang mit dem 
+Lehrangebot des spezifizierten Semesters als PDF-Datei abrufbar. Dabei werden die PDF- 
+Dateien aus den in KU.Campus bereitgestellten Lehrveranstaltungen weitgehend automatisch 
+mit Hilfe des Satzsystems L
+ATEX erzeugt; dies geschieht jeweils zu Beginn eines Semesters. 
+ 
+Verbesserung der U
+¨ bersichtlichkeit 
+Insbesondere bei Studiengängen wie z.B. Lehramt Plus Realschule, bei denen die Auflistung der 
+Lehrveranstaltungen eines Semesters wegen des reichen Spektrums an verschiedenen Fächern 
+und sonstigen Studienschwerpunkten einen erheblichen Umfang aufweist, kann es lohnend sein, 
+alle Bereiche der Auflistung auszublenden, die Sie im Augenblick nicht interessieren, weil sie 
+beispielsweise gar nicht zu der von Ihnen studierten Fächerkombination gehören. 
+ 
+ 
+Klicken Sie dazu auf das Minuszeichen vor den Bereichen, die Sie ausblenden wollen. Wenn Sie 
+etwa im Lehrangebot Lehramt Plus Realschule im Augenblick nur die Veranstaltungen des 
+Unterrichtsfachs Katholische Religionslehre im Detail sehen wollen, schließen Sie im 
+Ergebnisfenster Gefundene Veranstaltungen durch Klicken auf das jeweilige Minuszeichen die 
+Bereiche der Unterrichtsfächer die Sie nicht benötigen. 
+
+[Page 5]
+5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wenn Sie mit dieser auf Ihre individuellen Bedu
+¨rfnisse reduzierten Darstellung weiter arbei- 
+ten wollen, mu
+¨ssen Sie allerdings Folgendes beachten: Da der Browser sich nicht merken kann, 
+welche Bereiche der Darstellung ausgeblendet wurden, geht diese Information verloren, wenn 
+Sie in demselben Tab [beim InternetExplorer: auf derselben Registerkarte] des Browserfensters 
+einen anderen Link ¨
+offnen; ein anschließendes Zuru
+¨ckkehren zum Ergebnisfenster Gefundene 
+Veranstaltungen u
+¨ber den Browser-Schaltknopf Zuru
+¨ck liefert Ihnen wieder die Ausgangssi- 
+tuation der Auflistung aller Lehrveranstaltungen, bei der alle Bereiche aufgeklappt sind. 
+Allerdings k¨
+onnen Sie dies vermeiden, wenn Sie weiterfu
+¨hrende Links wie z.B. anmelden oder 
+den auf der Veranstaltungsnummer hinterlegten Link zu den Detailinformationen mit der 
+rechten Maustaste ansteuern und in einem neuen Tab [beim InternetExplorer: neuer Regi- 
+sterkarte] oder einem neuen Browserfenster separat ¨
+offnen. 
+Wenn Sie sich dabei fu
+¨r ein O
+¨ ffnen in einem neuen Tab entscheiden, sollten Sie zuvor in Ihrem 
+Browser u
+¨ber Extras → Einstellungen → Tabs ausw¨
+ahlen, dass Tabs im Vordergrund ge¨
+offnet 
+werden bzw. beim InternetExplorer u
+¨ber Extras → Internetoptionen → Allgemein bei den 
+Einstellungen fu
+¨r Registerkarten ankreuzen, dass immer zu neuen Registerkarten gewechselt 
+wird, wenn diese erstellt werden. 
+
+[Page 6]
+6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Detailinformationen 
+ 
+Wenn Sie sich fu
+¨r eine bestimmte Lehrveranstaltung alle weiteren, vom Dozenten bereitge- 
+stellten Detailinformationen zu dieser Veranstaltung anzeigen lassen wollen, mu
+¨ssen Sie nur 
+den bei der Veranstaltungsnummer hinterlegten Link anklicken. 
+ 
+ 
+
+[Page 7]
+7
+ 
+Fu
+¨r jede Lehrveranstaltung, fu
+¨r die Raumbelegungs- und Terminplanung bereits abgeschlossen ist, 
+erhalten Sie zus¨
+atzlich in einem weiteren, unmittelbar anschließenden Resultat- 
+fenster Eingeplante Veranstaltungstermine eine U
+¨ bersicht u
+¨ber alle Veranstaltungstermine mit 
+Angabe des Raumes und des/der Dozenten. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Selbstverst¨
+andlich k¨
+onnen Sie alle Suchresultate wie die Auflistung der gefundenen Lehrveran- 
+staltungen oder die Detailinformationen zu einer bestimmten Veranstaltung auch ausdrucken. 
+
+[Page 8]
+8
+ 
+Durch Anklicken des Drucken oberhalb der Detailinformationen zu Lehrveranstaltung/Kurs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+erhalten Sie das zuletzt angezeigte Suchresultat als Auflistung in einer gesonderten Web-Seite, 
+die Sie mit der normalen Druckfunktion des Web-Browsers ausdrucken k¨
+onnen. 
+
+[Page 9]
+9
+ 
+ 
+Detailinformationen zu Modulen 
+ 
+In den neuen, modularisierten Studieng¨
+angen bezieht sich eine Lehrveranstaltung grunds¨
+atz- 
+lich auf ein bestimmtes Modul, welches durch diese Lehrveranstaltung (gegebenenfalls in 
+Kombination mit weiteren Lehrveranstaltungen) realisiert wird. Wenn Sie sich fu
+¨r die in 
+KU.Campus hinterlegten Detailinformationen fu
+¨r dieses Modul interessieren, mu
+¨ssen Sie nur im 
+Ergebnisfenster Gefundene Veranstaltungen auf die Modulbezeichnung klicken, die als 
+Überschrift über der Lehrveranstaltung steht und als Link realisiert ist. So erhalten Sie bei- 
+spielsweise durch Klicken auf die Modulbezeichnung Praxisreflexion (siehe Beispiel auf Seite 3) 
+die nachstehend dargestellten Detailinformationen zu diesem Modul: 
+
+[Page 10]
+10
+ 
+ 
+Im Navigationsmenu
+¨ steht Ihnen zus¨
+atzlich die Funktion “Module suchen” zur Verfu
+¨gung. Mit 
+dieser Funktion k¨
+onnen Sie gezielt nach Modulen suchen und es wird Ihnen angezeigt, welche 
+Veranstaltungen zu dem Modul angeboten werden. 
+ 
+ 
+Einzelsuche von Lehrveranstaltungen 
+ 
+Wenn Sie sich weniger für die Lehrveranstaltungsstruktur eines bestimmten Studiengangs, 
+sondern eher für eine ganz konkrete Lehrveranstaltung oder das Angebot eines bestimmten 
+Dozenten interessieren, verwenden Sie am besten die Suchfunktion Lehrveranstaltungen 
+[Einzelsuche] bzw. Lehrveranstaltungen 
+[ Erweiterte Suche], die ebenfalls unter dem 
+Navigationspunkt A
+llgemeiner Zugriff in der linken Navigationsspalte zur Verfügung steht. 
+Durch Anklicken des entsprechenden Links erhalten Sie das Suchfenster Einzelsuche nach 
+Lehrveranstaltungen / 
+Kursen 
+(ohne Prüfungen) bzw. Erweiterte 
+Suche 
+nach 
+Lehrveranstaltungen 
+/ 
+Kursen, 
+
+[Page 11]
+11
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in dem Sie die gewu
+¨nschten Suchkriterien entweder u
+¨ber die bereitgestellten Auswahllisten 
+(Studiengang, Semester) ausw¨
+ahlen oder als Zeichenketten in die entsprechenden Felder ein- 
+tragen, wobei dort auch Teilketten zul¨
+assig sind. Bei beiden Suchfeldern Semester und Studien- 
+gang ist die Auswahl eines leeren Eintrags zul¨
+assig, um beispielsweise das komplette Lehran- 
+gebot eines Dozenten auflisten zu k¨
+onnen, auch wenn die Veranstaltungen in unterschiedlichen 
+Studieng¨
+angen angeboten werden. 
+Da die Namen der Dozenten in KU.Campus in der Form nachnameuvorname hinterlegt sind, 
+ist es fu
+¨r die Suche nach den Lehrveranstaltungen eines bestimmten Dozenten sinnvoll, den 
+Nachnamen des Dozenten in der Form nachnameu 
+mit abschließendem Leerschlag oder besser 
+noch den kompletten Namen in der Form nachnameuvorname in das entsprechende Such- 
+feld einzugeben. Andernfalls wu
+¨rden beispielsweise bei Eingabe von Heinrich 
+in das Suchfeld 
+Dozent/in: neben den Lehrveranstaltungen von Prof. Christian Heinrich auch noch die Ver- 
+anstaltungen all jener Dozenten gefunden, die Heinrich zum Vornamen haben. 
+Die in der obigen Abbildung verwendeten Suchkriterien liefern nach Betätigen der Schaltfläche 
+Suchen anschließend im Resultatfenster Lehrveranstaltungen / K
+urse die von Prof. Stefan 
+Schieren im Sommersemester 2014 angebotenen Lehrveranstaltungen, alphabetisch sortiert 
+nach dem Veranstaltungstyp. Die Sortierung können Sie auch nachträglich noch dadurch 
+ändern, dass Sie im Resultatfenster Lehrveranstaltungen / K
+urse auf die entsprechende 
+Spaltenüberschrift klicken. 
+
+[Page 12]
+12
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Auch hier k¨
+onnen Sie wieder durch Klicken auf die als Link realisierte Veranstaltungsnummer 
+alle Detailinformationen zu dieser Lehrveranstaltung abrufen bzw. u
+¨ber den Link Anmelden 
+eine Anmeldung zu der gewu
+¨nschten Lehrveranstaltung vornehmen. 
+Finden  von  Pru
+¨fungen  und  Veranstaltungen  u
+¨ber  “Module  suchen” 
+ 
+Wenn Sie wissen möchten, welche Prüfungen und Veranstaltungen zu einem bestimmten Mo‐ dul angeboten 
+werden,  klicken Sie in auf der linken Navigationsleiste auf den Button “Module suchen”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Anmeldung zu einer Lehrveranstaltung / Pru
+¨fung 
+ 
+Nicht nur fu
+¨r Pru
+¨fungen und Lehrveranstaltungen wie Exkursionen oder Seminare, bei denen 
+eine verbindliche Anmeldung aller Teilnehmer unerl¨
+asslich ist, sondern auch fu
+¨r alle sonstigen 
+Lehrveranstaltungen bietet eine konkrete Anmeldung zahlreiche Vorteile: Studierende werden 
+bei Vorliegen eines zur Veranstaltung geh¨
+orenden eLearning-Angebots (und entsprechenden 
+Vorkehrungen durch den Dozenten) automatisch auch in den zugeh¨
+origen ILIAS-Kurs an- 
+gemeldet; nur Lehrveranstaltungen, zu denen ein Studierender angemeldet ist, k¨
+onnen mit 
+ihren einzelnen Veranstaltungsterminen im individuellen Stundenplan des Studierenden (→ 
+Mein Stundenplan) aufgefu
+¨hrt werden. Dozierende k¨
+onnen u
+¨ber eine Liste aller zu ihrer 
+
+[Page 13]
+13
+ 
+Lehrveranstaltung angemeldeten Teilnehmer verfu
+¨gen und z.B. zur Absage eines einzelnen 
+Veranstaltungstermins auf einfache Weise eine E-Mail-Benachrichtigung an alle Teilnehmer 
+senden. 
+Jeder Studierende oder Mitarbeiter, der sich zu einer Lehrveranstaltung als Teilnehmer ver- 
+bindlich anmelden will, muss sich zunächst als dazu berechtigtes Mitglied der KU mit seiner 
+üblichen Benutzerkennung gegenüber dem Campus-Management-System KU.Campus authen- 
+tifizieren. Dazu klicken Sie auf den Link Anmelden rechts oberhalb der Navigationsspalte, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tragen in dem daraufhin angezeigten Anmeldefenster Ihre Benutzerkennung und das dazu- 
+geh¨
+orende Passwort ein und bet¨
+atigen abschließend die Schaltfl¨
+ache Anmelden in diesem Fens- 
+ter. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ihre erfolgreiche Anmeldung k¨
+onnen Sie daran erkennen, dass in der U
+¨ berschrift angezeigt 
+wird Angemeldet als <Ihr Name> und dass in der Navigationsspalte in Abh¨
+angigkeit von Ihrer 
+Rolle als Studierender, Dozent oder Mitarbeiter ein neuer Navigationspunkt mit weiteren Links 
+eingeblendet wird. 
+
+[Page 14]
+14
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sie k¨
+onnen sich nun zu all jenen Lehrveranstaltungen und Pru
+¨fungen anmelden, zu denen 
+der jeweilige Dozent bzw. das Pru
+¨fungsamt die Anmeldem¨
+oglichkeit freigeschaltet hat und fu
+¨r 
+die Sie die formalen Voraussetzungen erfu
+¨llen. Beachten Sie dabei bitte, dass insbesondere fu
+¨r 
+Pru
+¨fungen jeweils feste Anmeldezeitr¨
+aume festgelegt sind, die Sie unbedingt einhalten mu
+¨ssen. 
+Suchen Sie sich dazu, wie weiter oben bereits ausführlich beschrieben, über den Link Lehr- 
+veranstaltungen [nach Studiengängen] / Vorlesungsverzeichnis die Sie interessierenden Ver- 
+anstaltungen. Wenn Sie sich z.B. für verschiedene Kurse des Universitätsrechenzentrums im 
+Sommersemester 2014 anmelden wollen, wählen Sie im Fenster Veranstaltungen suchen als 
+Studiengang VV: Universitätsrechenzentrum und als Semester Sommersemester 2014 und 
+klicken abschließend auf Suchen. 
+ 
+ 
+ 
+
+[Page 15]
+15
+ 
+Es erscheint das Resultatfenster Gefundene Veranstaltungen mit den auf Ihre Suchkriterien 
+zutreffenden Veranstaltungen der IT-Kurse in Eichst¨
+att des Universit¨
+atsrechenzentrums. 
+ 
+ 
+ 
+ 
+ 
+ 
+Zu jeder aufgelisteten Lehrveranstaltung oder Prüfung können Sie dem gegebenenfalls mit einem 
+Link verbundenen roten Eintrag rechts außen entnehmen, ob für die Veranstaltung eine 
+Anmeldemöglichkeit besteht (a.Anmeldbar), ob die Veranstaltung bereits ausgebucht ist 
+(Ausgebucht), ob Sie sich für diese Veranstaltung auf eine Warteliste setzen lassen können (an- 
+melden auf Warteliste) ob eine Anmeldung über das Internet nicht vorgesehen ist (Internet- 
+Anmeldung nicht erlaubt), oder ob eine Anmeldung erst zu einem späteren Zeitpunkt freige- 
+schaltet wird. 
+Wenn Sie sich nun für eine bestimmte Lehrveranstaltung, für die eine Anmeldemöglichkeit 
+besteht und die noch nicht ausgebucht ist, beispielsweise also für “IT-unterstützte Analyse 
+sozialwissenschaftlicher Daten mit SPSS, Stata und MAXQDA”, anmelden wollen, so klicken Sie auf 
+den zu dieser Veranstaltung gehörenden Link anmelden bzw. anmelden auf Warteliste in der 
+Spalte rechts außen. Es erscheint ein Fenster mit Ihrer Anschrift sowie ein weiteres mit den 
+Anmeldedaten. 
+ 
+ 
+ 
+
+[Page 16]
+16
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Erst das abschließende Bet¨
+atigen der Schaltfl¨
+ache Speichern fu
+¨hrt die Anmeldung definitiv 
+durch und Sie bekommen eine Anmeldebest¨
+atigung angezeigt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Daru
+¨ber hinaus wird Ihnen Ihre Anmeldung per E-Mail an Ihre KU-Mailadresse best¨
+atigt. 
+Eine U
+¨ bersicht u
+¨ber die von Ihnen get¨
+atigten Anmeldungen erhalten Sie durch Anklicken des 
+Navigationspunktes Meine Anmeldungen und anschließender Auswahl des Sie interessierenden 
+Semesters und/oder Zeitraums 
+
+[Page 17]
+17
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stornieren von Anmeldungen 
+ 
+Wenn Sie sich versehentlich fu
+¨r eine Veranstaltung angemeldet haben oder im Nachhinein fest- 
+stellen, dass Sie an einer bestimmten Veranstaltung, zu der Sie sich angemeldet haben, wegen 
+Terminkollision doch nicht teilnehmen k¨
+onnen, haben Sie die M¨
+oglichkeit, Ihre Anmeldung 
+zu dieser Veranstaltung zu stornieren. Davon sollten Sie unbedingt Gebrauch machen! Denn 
+wenn auf einer Teilnehmerliste zu einer bereits ausgebuchten Veranstaltung, zu der auch noch 
+eine Warteliste gefu
+¨hrt wird, durch Stornieren eines Teilnehmers im Web ein Platz frei wird, 
+veranlasst KU.Campus ein automatisches Nachru
+¨cken des Erstplatzierten der Warteliste 
+auf die Teilnehmerliste und dieser erh¨
+alt eine entsprechende Best¨
+atigungsmail. 
+Verschaffen Sie sich dazu über den Navigationspunkt Meine Anmeldungen wie oben beschrie- 
+ben eine Übersicht über Ihre Anmeldungen und klicken Sie in der Spalte Status / 
+Bearbeiten 
+auf 
+den zur betreffenden Veranstaltung gehörenden Link Bearbeiten. Wenn Sie also beispielsweise 
+Ihre 
+Anmeldung 
+zur 
+oben 
+aufgelisteten 
+Veranstaltung 
+IT-unterstützte 
+Analyse 
+sozialwissenschaftlicher Daten mit SPSS, Stata und MAXQDA stornieren wollen, klicken Sie auf 
+den Link in der entsprechenden Zeile. 
+
+[Page 18]
+18
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Durch Anklicken der Schaltfl¨
+ache Anmeldung stornieren im daraufhin erscheinenden Fenster 
+k¨
+onnen Sie dann die betreffende Anmeldung stornieren, was Ihnen unmittelbar danach 
+best¨
+atigt wird. 
+ 
+ 
+ 
+ 
+U
+¨ ber den Link Weiter zu “Meine Anmeldungen” gelangen Sie wieder zu dem Suchfenster, in 
+dem Sie die Auswahl des Sie interessierenden Semesters und/oder Zeitraums fu
+¨r die Auflistung 
+Ihrer Anmeldungen vornehmen k¨
+onnen. 
+Fu
+¨r das Stornieren von Anmeldungen zu Pru
+¨fungen gelten allerdings strengere Regeln als 
+bei sonstigen Lehrveranstaltungen: Nur w¨
+ahrend des vom Pru
+¨fungsamt festgesetzten und ent- 
+sprechend bekannt gemachten Anmeldezeitraums fu
+¨r Pru
+¨fungen kann eine Pru
+¨fungsanmeldung 
+u
+¨ber das Web-Portal des KU.Campus storniert werden; nach Anmeldeschluss ist ein Ru
+¨cktritt 
+von der Anmeldung nur aus wichtigem Grund und bei Vorlage entsprechender Nachweise und 
+ausschließlich über den Prüfungsausschuss möglich. 
+ 
+ 
+ 
+
+[Page 19]
+19
+ 
+4. Spezielle Funktionen für Mitarbeiter und Dozenten 
+Ähnlich wie Studierende, die sich mit ihrer Benutzerkennung gegenüber KU.Campus authentifiziert haben, 
+erhalten auch Mitarbeiter und Dozenten nach entsprechender Authentifizierung jeweils ein zusätzliches 
+Navigationsmenü, das spezielle für ihren jeweiligen Aufgabenbereich sinnvolle Funktionen bereitstellt. 
+ 
+Mailversand an Veranstaltungsteilnehmer 
+ 
+Dozenten [oder auch die zu ihrer Stellvertretung in KU.Campus autorisierten Mitarbeiter] haben über zusätzliche, 
+auf den Detailinformationen zu ihren eigenen Veranstaltungen platzierte Links die Möglichkeit, E‐Mails an alle 
+angemeldeten Teilnehmer (auf der Anmeldeliste) oder Interessenten (auf der Warteliste) zu versenden. 
+ 
+Für einen derartigen Mailversand verschaffen Sie sich zunächst über den Navigationspunkt Meine 
+Lehrveranstaltungen / Prüfungen unter der Rubrik Dozierende einen Überblick über Ihre derzeit angebotenen 
+Lehrveranstaltungen / Prüfungen, klicken auf den entsprechenden Link der Veranstaltung in der Spalte Nr., deren 
+Teilnehmer /Interessenten Sie benachrichtigen wollen, und wählen in den dann für diese Veranstaltung 
+erscheinenden Detailinformationen den Link An alle Teilnehmenden [bzw. Warteliste Adressen, wenn Sie die 
+Interessenten anschreiben wollen]. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 20]
+20
+ 
+ 
+ 
+Es öffnet ich der Evento Application Server mit dem Mailversandfenster. Sie können nun die Nachricht mit einem 
+aussagekräftigen Betreversehen und den Nachrichtentext eintragen. Vor dem Versand sollten Sie unbedingt das 
+Feld an Empfänger als Blind Carbon Copy (BCC) anklicken, damit die Nachricht verdeckt versendet wird und die 
+Liste der Empfänger für die Adressaten nicht sichtbar ist. Für das Versenden betätigen Sie abschließend die 
+Schaltfläche Senden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 21]
+21
+ 
+Noteneingabe zu Prüfungen 
+ 
+Dozenten [oder auch die zu ihrer Stellvertretung in KU.Campus autorisierten Mitarbeiter] können über das Web‐
+Portal von KU.Campus für die von ihnen in den modularisierten Stu‐diengängen abgenommenen Prüfungen die 
+dabei für die einzelnen Prüflinge vergebenen Noten erfassen. 
+ 
+Nach entsprechender Authentifizierung in KU.Campus [und eventuellem Einnehmen der Stellvertreter‐Rolle] 
+verschafft man sich dazu über den Navigationspunkt Notenerfassung unter der Rubrik Dozierende zunächst eine 
+Übersicht über die zu benotenden Prüfungen. 
+ 
+ 
+ 
+[Alternativ kann man diese Übersicht auch über den Navigationspunkt Meine Lehrveranstaltungen / Prüfungen 
+und anschließendes Suchen der eigenen Veranstaltungen im relevanten Semester erreichen.] Durch 
+Anklicken des Links Benoten in der rechten Spalte der zu bearbeitenden Prüfung gelangt man zum 
+Fenster Benotung. 
+ 
+ 
+ 
+Dort ist bereits die für den betreffenden Studiengang verbindlich festgelegte Notenskala hinterlegt, so dass für 
+die einzelnen aufgelisteten Prüflinge nur noch die jeweils vergebenen Noten ausgewählt werden müssen. Dabei 
+kann man die Noteneingabe auch zwischendurch unterbrechen; man sollte die bisherige Arbeit dann allerdings 
+dadurch sichern, dass man den Schaltknopf speichern betätigt. 
+ 
+Nach der erfolgreichen Speicherung der bisherigen Eintragungen, die mit einem entsprechenden Fenster 
+bestätigt wird, kann man die Noteneingabe sofort (über den Link zurück) oder später durch erneuten Aufruf der 
+
+[Page 22]
+22
+ 
+Notenerfassung fortsetzen. Zwischendurch oder auch nach Abschluss der Noteneingabe kann man sich über die 
+Schaltfläche weiter zur Auswertung einen Überblick verschaffen. 
+ 
+ 
+ 
+Wenn für jeden Prüfling die von ihm erreichte Note erfasst ist, können Sie Anschließend durch Betätigen der 
+Schaltfläche Benotung abschließen die Noteneingabe endgültig beendet; eine erneute Bearbeitung der Benotung 
+für diese Prüfung über das Web‐Portal von KU.Campus ist dann nicht mehr möglich. 
+ 
+ 
+ 
+Zwar kann der Prüfer [oder der von ihm bevollmächtigte Stellvertreter] jetzt keine Verände‐rungen an der 
+Benotung mehr vornehmen; allerdings kann er sich jederzeit über den Navi‐gationspunkt Meine benoteten 
+Prüfungen eine Übersicht über seine Benotungen verschaffen, indem er im sich öffnenden Fenster Gefundene 
+Anlässe auf den Link Details klickt. 
+ 
+Rufen Sie hier noch einmal die Prüfung auf und gehen anschließend oben rechts auf das Feld Drucken. 
+Unterschreiben Sie auf dem Ausdruck und senden Sie dieses Blatt anschließend an das Prüfungsamt weiter. 
+ 
+Die durch den Prüfer unterschriebene Notenübersicht, dokumentiert die rechtlichen Verbindlichkeit. 
+ 
+
+[Page 23]
+23
+ 
+ 
+ 
+Stellvertretung im KU.Campus 
+ 
+Da verschiedene Arbeiten im Web‐Portal des KU.Campus in der Regel nicht von den Lehr‐personen selbst, 
+sondern von Mitarbeiter(inne)n des Lehrstuhls / der Professur ausgeführt werden, besteht für die Dozenten die 
+Möglichkeit, eine Stellvertreterin oder einen Stellvertreter zu bevollmächtigen. Nähere Einzelheiten dazu finden 
+Sie im Schreiben des Kanzlers unter http://www.ku‐eichstaett.de/campus/stellvertretung.pdf, das Formblatt für 
+die Erteilung der Vollmacht ist unter der Adresse  
+https://www.ku‐eichstaett.de/campus/lv/vollmacht.pdf verfügbar. 
+Wenn Sie als Mitarbeiter(in) zur Stellvertretung eines Dozenten bevollmächtigt sind, erscheint nach Ihrer 
+Authentifizierung in KU.Campus im Menübereich Mitarbeitende ein zusätzlicher Navigationspunkt 
+Stellvertretungs‐Modus, über den Sie im Web‐Portal von KU.Campus die Stellvertreter‐Rolle einnehmen können. 
+ 
+ 
+ 
+ 
+Belegung von Lehrräumen 
+ 
+Über den Link Raumbelegung/‐reservierung unter dem Navigationspunkt Mitarbeitende können sich die 
+Mitarbeiter der KU eine Übersicht über die Raumbelegung der Hörsäle, Se‐minarräume, PC‐Pools, etc. verschaen 
+[sowie künftig Reservierungsanfragen an die für die Raumvergabe jeweils Zuständigen richten]. 
+ 
+Ein Klick auf diesen Link Raumbelegung/‐reservierung öffnet das entsprechende Suchfenster Raum(belegungen) 
+suchen, in dem die Suche gegebenenfalls auf ein bestimmtes Gebäude, auf einen Raumtyp, über Nummer: auf 
+
+[Page 24]
+24
+ 
+einen bestimmten Raum wie z.B. eO‐001 oder durch Spezifizierung sonstiger Randbedingungen eingeschränkt 
+werden kann. 
+ 
+ 
+Die Suche nach Räumen des Raumtyps PC‐Pool liefert beispielsweise eine Auflistung aller für 
+Lehrveranstaltungen nutzbaren PC‐Pools. 
+ 
+Die aktuelle Belegung eines bestimmten Raumes in dieser Liste kann man sich durch Anklicken des Links 
+Belegung in der rechten Spalte anzeigen lassen: 
+
+[Page 25]
+25
+ 
+ 
+ 
+Durch Anklicken eines bestimmten Datums oder weiteres Blättern im ebenfalls angezeigten Kalender können 
+andere Wochenansichten der Belegung dieses Raumes ausgewählt werden. 
+ 
+ 
+5. Spezielle Funktionen für Modulverantwortliche 
+ 
+In der linken Navigationsleiste von KU.Campus finden Sie einen eigenen Bereich „Modulverantwortliche“ Diese 
+Funktion erhalten nur die Modulverantwortlichen nachdem sie sich angemeldet haben.  
+Unter „Meine Module / Meine Prüfenden“ können die jeweiligen Modulverantwortlichen Änderungen Ihrer 
+Module vornehmen. 
+Die Felder: „Prüfende“, „Inhalte/Themen“, „Zeitaufwand/Verteilung der ECTS‐Punkte innerhalb des Moduls“ und 
+„Bemerkungen“.  
+
+[Page 26]
+26
+ 
+ 
+ 
+Genauere Angaben dazu sind § 3 Satz 3 Nr. 2, 5 Abs. 3 Satz 3 Nr. 10 sowie Abs. 4 Modulrichtlinien unter 
+www.ku.de/qm/modulrichtlinien zu entnehmen.  
+Die Eintragungen im Feld „Prüfende“ können ganzjährig ergänzt und aktualisiert werden. Für die 
+Änderungen in den anderen Feldern gelten folgende Bearbeitungsfristen gemäß § 5 Abs. 4 Satz 2 
+Modulrichtlinien:  
+1. Oktober bis zum 30. November sowie vom 1. April bis zum 31. Mai; die Möglichkeit für Änderungen in 
+diesem Bereich ist innerhalb dieser Fristen freigeschaltet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Michael Niedermeier                             
+ 
+ 
+ 
+ 
+ 
+ 
+Stand: Juli 2015

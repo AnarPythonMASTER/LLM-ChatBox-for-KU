@@ -1,0 +1,133 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BA_Soziale_Arbeit.pdf
+TITLE: Studienverlaufsplan_BA_Soziale_Arbeit.pdf
+SOURCE_FILE: Studienverlaufsplan_BA_Soziale_Arbeit.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status 01/2020_05 
+12 
+Anlage: 
+Idealtypischer Studienverlaufsplan 
+Studium.Pro
+Fortführung im 
+Schwerpunktbereich
+BASA 7.1
+BASA 7.2
+Differenzierungsbereich
+5 CP
+5 CP
+BASA 6.3
+Theorien/ Methoden der S.A. 
+in internationaler Perspektive
+Vertiefung im 
+Schwerpunktbereich
+10 CP
+Forschungswerkstatt
+BASA 6.1
+BASA 6.2
+BASA 6.4
+5 CP
+5 CP
+5 CP
+Professionsethik
+Gesundheit und S.A.
+Erziehung, Bildung, 
+Kommunikation
+Disziplinäre und 
+interdisziplinäre Perspektiven
+Ausgewählte Arbeitsfelder
+Erweiterung rechtlicher 
+Grundlagen der S.A.
+BASA 4.1
+BASA 4.2
+BASA 4.3
+BASA 4.4
+BASA 4.5
+BASA 4.6
+5 CP
+5 CP
+5 CP
+5 CP
+5 CP
+5 CP
+Methoden der empirischen 
+Sozialforschung 
+(quali./quant.)
+Ausgewählte Probleme des 
+Wohfahrtsstaats
+Sozialinformatik/ 
+Sozialmanagement
+Sozialrecht
+BASA 3.1
+BASA 3.3
+BASA 3.4
+BASA 3.5
+5 CP
+5 CP
+5 CP
+5 CP
+Ausgewählte 
+Theorien/Methoden der S.A.
+Angewandte Psychologie
+Einführung in die 
+Arbeitsfelder
+Sozialpolitik und 
+Sozialadministration
+Erweiterung der fachlich-
+methodischen Kompetenzen
+Grundlagen des Rechts der 
+S.A.
+BASA 2.1
+BASA 2.2
+BASA 2.3
+BASA 2.4
+BASA 2.5
+BASA 2.6
+5 CP
+5 CP
+5 CP
+5 CP
+5 CP
+5 CP
+Wissenschaftliche Grundlagen 
+und Theorien der S.A.
+Grundlagen der Psychologie
+Einführung in das 
+pädagogische Denken
+Grundlagen der Sozialpolitik 
+und Soziologie
+Grundlagen des beruflichen 
+Handelns
+Grundlagen des 
+wissenschaftlichen Arbeitens
+BASA 1.1
+BASA 1.2
+BASA 1.3
+BASA 1.4
+BASA 1.5
+BASA 1.6
+5 CP
+5 CP
+5 CP
+5 CP
+5 CP
+5 CP
+BASA 7.3
+15 CP
+2. Semester
+1. Semester
+10 CP
+7. Semester
+6. Semester
+5. Semester
+Einführung in die Aufgabenfelder im Schwerpunktbereich
+BASA 3.2
+Studiensemester am Lernort Praxis
+BASA 5.1
+30 CP
+4. Semester
+3. Semester
+Vertiefung rechtlicher Grundlagen der S.A.
+BASA 6.5
+10 CP
+Bachelorarbeit

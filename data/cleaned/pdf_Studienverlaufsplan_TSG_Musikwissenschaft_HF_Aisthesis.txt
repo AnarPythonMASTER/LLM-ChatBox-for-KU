@@ -1,0 +1,187 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_TSG_Musikwissenschaft_HF_Aisthesis.pdf
+TITLE: Studienverlaufsplan_TSG_Musikwissenschaft_HF_Aisthesis.pdf
+SOURCE_FILE: Studienverlaufsplan_TSG_Musikwissenschaft_HF_Aisthesis.pdf
+------------------------------------------------------------
+
+[Page 1]
+Idealtypischer Verlaufsplan Interdisziplinärer Bachelorstudiengang für das Profil „Aisthesis“ 
+ 
+ 
+Stand 11/2023 
+ 
+ 
+ 
+Musikwissenschaft als Hauptfach: 
+1. 
+Semester: Grundlagen Musiktheorie, Einführungsmodul (Teil1), Musikgeschichte im Überblick (Teil 1) 
+2. 
+Semester: Vertiefung Musiktheorie, Einführungsmodul (Teil 2), Musikgeschichte im Überblick (Teil 2) 
+3. 
+Semester: Formanalyse, Systematische Musikwissenschaft (Teil 1), Musikethnologie (Teil 1) 
+4. 
+Semester: Schrift- und Höranalyse, Systematische Musikwissenschaft (Teil 2) 
+5. 
+Semester: Schwerpunkt Musikwissenschaft (Teil 1), Musikethnologie (Teil 2), Wahlpflichtmodul 1 (Teil 1), Wahlpflichtmodul 2 (Teil 1) 
+6. 
+Semester: Schwerpunkt Musikwissenschaft (Teil 2), Wahlpflichtmodul 1 (Teil 2), Wahlpflichtmodul 2 (Teil 2) 
+ 
+ 
+ 
+ 
+Musikwissenschaft als Hauptfach 
+6. 
+Semester 
+ 
+Bachelorarbeit 
+(10 ECTS-Punkte) 
+ 
+Methodenseminar 
+(5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Schwerpunkt 
+Musikwissenschaft 
+1 Lehrveranstaltung 
+(2,5 ECTS-Punkte) 
+Wahlpflichtmodul 1 
+1 Lehrveranstaltung 
+(2,5 ECTS-Punkte) 
+Wahlpflichtmodul 2 
+1 Lehrveranstaltung 
+(2,5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+5. 
+Semester 
+Nebenfach 
+(5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Nebenfach 
+ (5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Schwerpunkt 
+Musikwissenschaft 
+1 Lehrveranstaltung 
+(2,5 ECTS-Punkte) 
+Musikethnologie 
+1 Lehrveranstaltung 
+(2,5 ECTS-Punkte) 
+Wahlpflichtmodul 1 
+1 Lehrveranstaltung 
+(2,5 ECTS-Punkte) 
+Wahlpflichtmodul 2 
+1 Lehrveranstaltung 
+(2,5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+4. 
+Semester 
+Transdisziplinäre Studien 
+(5 ECTS-Punkte) 
+Wahlpflichtmodule 
+(5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+ 
+Nebenfach 
+(5 ECTS-Punkte) 
+Schrift- und Höranalyse 
+Tonsatz IV 
+Gehörbildung IV 
+Analyse 
+(8 ECTS-Punkte) 
+Systematische Musikwissenschaft 
+1 Lehrveranstaltung 
+(2,5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+3. 
+Semester 
+Wahlpflichtmodule 
+ (5 ECTS-Punkte) 
+Wahlpflichtmodule 
+(5 ECTS-Punkte) 
+Praktikum 
+ (5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Formanalyse 
+Tonsatz III 
+Gehörbildung III 
+Formenlehre 
+(7 ECTS-Punkte) 
+Systematische 
+Musikwissenschaft 
+1 Lehrveranstaltung 
+(2,5 ECTS-Punkte) 
+Musikethnologie 
+1 Lehrveranstaltung 
+(2,5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+2. 
+Semester 
+Wahlpflichtmodule 
+ (5 ECTS-Punkte) 
+ 
+ 
+ 
+ 
+Studium Pro 
+(10 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Vertiefung Musiktheorie 
+Tonsatz II 
+Gehörbildung II 
+(5 ECTS-Punkte) 
+Einführungsmodul 
+Berufsfelder in 
+Musikwissenschaft und 
+Musikpädagogik 
+(2,5 ECTS-Punkte) 
+Musikgeschichte im 
+Überblick 
+Musikgeschichte II 
+(2,5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+1. 
+Semester 
+Kultur und Medien 
+(5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Grundlagen Musiktheorie 
+Tonsatz I 
+Gehörbildung I 
+(5 ECTS-Punkte) 
+Einführungsmodul 
+Einführung in das 
+musikwissenschaftliche 
+Arbeiten 
+(2,5 ECTS-Punkte) 
+Musikgeschichte im 
+Überblick 
+Musikgeschichte I 
+(2,5 ETCTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte

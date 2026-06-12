@@ -1,0 +1,450 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Teilstudiengangsbeschreibung_Musik_Musikwissenschaft_LAG-Reform.pdf
+TITLE: Teilstudiengangsbeschreibung_Musik_Musikwissenschaft_LAG-Reform.pdf
+SOURCE_FILE: Teilstudiengangsbeschreibung_Musik_Musikwissenschaft_LAG-Reform.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status Version 
+2/2023_02 
+1 
+ 
+ 
+Studiengangsbeschreibung für den 
+Teilstudiengang 
+Musik/Musikwissenschaft 
+an der Katholischen Universität Eichstätt-
+Ingolstadt 
+ 
+Inhalt 
+A. Allgemeine Struktur des Teilstudiengangs ............................................................ 2 
+B. Beschreibung des Teilstudiengangs ..................................................................... 3 
+1. Der Teilstudiengang in 3 Sätzen 
+........................................................................ 3 
+2. Zielgruppe 
+.......................................................................................................... 3 
+C. Teilstudiengangskonzept 
+....................................................................................... 4 
+1. Struktur des Teilstudiengangs ........................................................................... 4 
+1.1. 
+Zugangs- / Zulassungsvoraussetzungen 
+..................................................... 4 
+1.2. 
+Qualifikationsziele ....................................................................................... 4 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+................................................... 4 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder ....................................................... 4 
+2. Aufbau des Teilstudiengangs 
+............................................................................. 5 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs ................................................. 5 
+2.2. 
+Pflichtbereich 
+............................................................................................... 6 
+2.3. 
+Wahlpflichtbereich ....................................................................................... 6 
+2.4. 
+Studium.Pro ................................................................................................ 7 
+2.5. 
+Praxisbezug ................................................................................................ 7 
+2.6. 
+Ausgestaltung der Internationalisierung ...................................................... 7 
+D. Beitrag des Teilstudiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre ...................................................................................................... 8 
+
+[Page 2]
+Status Version 
+2/2023_02 
+2 
+ 
+ 
+A. Allgemeine Struktur des Teilstudiengangs 
+ 
+Name des Teilstudiengangs: 
+Musik/Musikwissenschaft 
+Verantwortliche Fakultät: 
+Philosophisch-Pädagogische Fakultät 
+Akademischer Grad: 
+B. A. 
+Der Teilstudiengang kann in folgenden 
+Profilen belegt werden: 
+☒ 
+lehramtsgeeignetes Profil 
+☒ 
+flexibles Profil 
+☒ 
+Profil Aisthesis. Kultur und Medien 
+Studienform: 
+☒ 
+Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☐ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+Art des Studiengangs: 
+☒ 
+grundständig 
+☐ konsekutiv 
+☐ weiterbildend 
+Wissenschaftliche/Praktische 
+Orientierung: 
+(nur bei Masterstudiengängen) 
+☒ 
+eher anwendungsorientiert 
+☐ eher forschungsorientiert 
+ 
+Regelstudienzeit: 
+ 
+6 Semester (Vollzeit) 
+ 
+Semester (Teilzeit) 
+Studienbeginn: 
+☐ Sommersemester 
+☒ 
+Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS- 
+Leistungspunkte: 
+ 
+80 ECTS-Punkte 
+im Profil Flexibler 
+Bachelorstudiengang 60 ECTS-
+Punkte 
+im Profil Aisthesis. Kultur und Medien 
+60 ECTS-Punkte im Profil 
+Lehramtsgeeigneter 
+Bachelorstudiengang (Lehramtplus) 
+
+[Page 3]
+Status Version 
+2/2023_02 
+3 
+ 
+ 
+ 
+ 
+ 
+Studiengebühren: 
+☒ 
+Nein 
+☐ Ja, 
+€ pro Semester 
+ 
+B. Beschreibung des Teilstudiengangs 
+ 
+1. Der Teilstudiengang in 3 Sätzen 
+Die Musikwissenschaft beschäftigt sich aus unterschiedlichen Perspektiven und mit 
+ganz unterschiedlichen Methoden mit Musik. Sie kennt dabei weder stilistische noch 
+kulturelle Grenzen. So kann sowohl die Musik von längst verstorbenen Komponist/-
+innen als auch die aktuelle Chart-Musik oder die Musik aus anderen Kulturkreisen zum 
+Gegenstand der Betrachtung werden. Gleichzeitig geht es nicht nur um die Musik an 
+sich, sondern auch um den Umgang mit ihr, beispielsweise beim Hören oder 
+Musizieren. So kann etwa die Frage, wie das Gedächtnis für Musik funktioniert oder 
+wie Musik es schafft, Gefühle auszulösen, ebenso betrachtet werden wie das 
+Lampenfieber beim Auftritt oder die Übeprozesse von Musiker/-innen. Dabei verfolgt 
+die Musikwissenschaft ihre Forschungsfragen primär anhand von theoretischen 
+Betrachtungen und empirischen Studien und nicht mithilfe einer 
+musikpraktischen 
+ 
+ 
+Ausbildung. Der (Teil-)Studiengang Musik im Profil 
+Lehramtsgeeigneter Bachelor qualifiziert die Studierenden in den Disziplinen 
+Musikpädagogik und Musikwissenschaft gemäß Lehramtsprüfungsordnung (LPO). Die 
+Inhalte sind im Wesentlichen durch die LPO und das Kerncurriculum für das Fach 
+Musik vorgegeben. Die inhaltliche Ausgestaltung innerhalb dieses Rahmens stützt sich 
+auf aktuelle wie zukunftsweisende, fachliche Orientierungen und Entwicklungen (z.B. 
+Inklusion, Digitalisierung, Inter-/Transkulturalität) und trägt sowohl zur besseren 
+Verschränkung der Studiengänge innerhalb des Faches als auch zur eigenständigen 
+Profilbildung 
+auf 
+Basis 
+einer 
+über 
+aktuelle 
+Standards 
+hinausreichenden 
+Musiklehrerbildung bei. 
+2. Zielgruppe 
+Zielgruppe sind einerseits Studierende des Lehramts für Grund-/Mittel- und 
+Realschulen für das Lehramtsgeeigneter Bachelorstudiengang (LehramtPlus). In den 
+weiteren Profilen richtet sich der Teilstudiengang an Bewerber/innen mit Interesse an 
+einer musikbezogenen Tätigkeit und die sich bereits in Schule und Freizeit intensiver 
+mit Musik befasst haben, die ein oder mehrere Instrumente (einschließlich Gesang) 
+auf gutem Niveau spielen und denen die musikpraktische Betätigung wichtig ist, ohne 
+dies auf Musikhochschul-Niveau professionalisieren zu wollen oder zu 
+können. 
+
+[Page 4]
+Status Version 
+2/2023_02 
+4 
+ 
+ 
+C. Teilstudiengangskonzept 
+ 
+1. Struktur des Teilstudiengangs 
+1.1. 
+Zugangs- / Zulassungsvoraussetzungen 
+Das Profil Lehramtsgeeigneter Bachelorstudiengang im Rahmen des Interdisziplinären 
+BA-Studiengangs kann nur gewählt werden, wenn die oder der Studierende zugleich 
+in einem entsprechenden Lehramtsstudiengang immatrikuliert ist (LehramtPlus). Des 
+Weiteren ist das Bestehen einer Eignungsprüfung erforderlich. 
+ 
+1.2. 
+Qualifikationsziele 
+Im lehramtsgeeigneten Profil 
+Das übergeordnete Ziel der angebotenen musikpädagogischen Studiengänge ist die 
+Entwicklung und berufsfeldspezifische Vertiefung musikbezogener Fach-, Selbst-, 
+Methoden- und Sozialkompetenzen. Dies setzt voraus, dass Studierende neben der 
+wissenschaftlich-theoretischen Qualifikation ihre eigenen musikalischen Bewegungs-, 
+Ausdrucks-, Wahrnehmungs-, und Kommunikationsfähigkeiten in ihrer Breite 
+entdecken, erproben und differenzieren können. 
+ 
+Im flexiblen Profil 
+Ziel 
+des 
+Teilstudiengangs 
+Musikwissenschaft 
+im 
+Interdisziplinären 
+Bachelorstudiengang ist die Vermittlung musikwissenschaftlicher Kompetenzen in 
+praxisnahen Studienprozessen, wobei allgemein auf musikbezogene Berufstätigkeiten 
+in jenen Bereichen vorbereitet wird, in denen über Musik geschrieben und gesprochen, 
+Musik vermittelt, organisiert und gemanagt wird. Als wichtige Kernkompetenz wird 
+dabei die wissenschaftlich fundierte Erarbeitung und Darstellung musikalischer 
+Sachverhalte 
+angesehen, 
+die 
+vorrangig 
+in 
+musikwissenschaftlichen 
+und 
+musiktheoretischen Studienbereichen vermittelt wird. Im Wahlpflichtbereich haben 
+Studierende darüber hinaus die Möglichkeit, musik- und berufspraktische 
+Kompetenzen zu erwerben. 
+ 
+Im Profil Aisthesis. Kultur und Medien 
+In diesem Profil kann das Fach als Nebenfach studiert werden. Die Qualifikationsziele 
+entsprechen jenen im flexiblen Profil. 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Mit dem Abschluss des Interdisziplinären Bachelors qualifizieren sich die Studierenden 
+auf 
+Masterstudiengänge 
+wie 
+bspw. 
+der 
+MA-Studiengang 
+„Inklusive 
+Musikpädagogik/Community Music“ 
+ 
+1.4. 
+Arbeitsmarktsituation und 
+Berufsfelder Im lehramtsgeeigneten Profil 
+
+[Page 5]
+Status Version 
+2/2023_02 
+5 
+ 
+ 
+Neben einer Lehrtätigkeit an Schulen, stehen auch außerschulische Tätigkeitsfelder 
+im musikpädagogischen Bereich zur Verfügung. 
+ 
+Im flexiblen Profil 
+ 
+Zentrale Berufsfelder, für die dieses Profil vorbereitet sind bspw. Musikjournalist/-in 
+oder Musikmanager/-in. Weitere Berufsfelder, für die der Teilstudiengang eine erste 
+Stufe darstellt, aber in der Regel eine weitere Vertiefung notwendig ist sind bspw. 
+Dozent/-in, Herausgeber/-in Noten, Opernregisseur/-in, Dramaturg/-in, Arrangeur/-in, 
+Intendant/-in, Musiktherapeut/-in, Musikproduzent/-in, Agent/-in 
+ 
+ 
+Im Profil Aisthesis. Kultur und 
+Medien siehe flexibles Profil 
+ 
+2. Aufbau des Teilstudiengangs 
+2.1. 
+Grundsätzlicher 
+Aufbau 
+des 
+Studiengangs Im lehramtsgeeigneten Profil 
+Der grundsätzliche Aufbau des Teilstudiengangs im lehramtsgeeigneten Profil erfolgt 
+gemäß den Regelungen der Lehramtsprüfungsordnung und variiert in Abhängigkeit 
+der gewählten Kombination. 
+Idealtypische Studienverlaufspläne lassen sich je nach Fächerkombination unter 
+http://myway.ku.de/ abrufen. 
+ 
+Im flexiblen Profil 
+Der Aufbau des Teilstudiengangs zielt auf eine fundierte Ausbildung in den für die 
+vielfältigen Berufsfelder relevanten musikwissenschaftlichen, musikpädagogischen, 
+musikpraktischen sowie musiktheoretischen Kompetenzfeldern, die Anbindung an die 
+Berufspraxis sowie die Ermöglichung ergänzender Studienmodule aus relevanten 
+Nachbardisziplinen. 
+ 
+Ein Modulplan ist zu finden unter: 
+https://www.ku.de/ppf/studiengaenge/musik- interdisziplinaerer-bachelor 
+ 
+Im Profil Aisthesis. Kultur und Medien 
+Siehe flexibles Profil 
+
+[Page 6]
+Status Version 
+2/2023_02 
+6 
+ 
+ 
+2.2. 
+Pflichtbereich 
+Im lehramtsgeeigneten Profil 
+Im Profil Lehramtsgeeigneter Bachelorstudiengang (Lehramtplus) sind Module des 
+Lehramtsstudiengangs Musik im Umfang von 60 ECTS-Punkten zu absolvieren. 
+ 
+Im flexiblen Profil und im Profil Aisthesis. Kultur und Medien 
+Folgende Pflichtmodule sind im Bereich Musikwissenschaft zu absolvieren: 
+ 
+• 
+Musikgeschichte im Überblick 
+• 
+Systematische Musikwissenschaft 
+• 
+Musikethnologie 
+• 
+Schwerpunkt Musikwissenschaft 
+ 
+Folgende Pflichtmodule sind im Bereich Musikwissenschaft zu absolvieren, wenn die 
+Bachelorarbeit im Fach Musikwissenschaft geschrieben wird: 
+ 
+• 
+Einführungsmodul 
+• 
+Grundlagen Musiktheorie 
+• 
+Vertiefung Musiktheorie 
+• 
+Formanalyse 
+• 
+Schrift- und Höranalyse 
+ 
+2.3. 
+Wahlpflichtbereich 
+Im flexiblen Profil und im Profil Aisthesis. Kultur und Medien 
+• 
+Theorie und Praxis der Populären Musik 
+• 
+Empirische Forschung in Musikwissenschaft und Musikpädagogik 
+• 
+Kurzpraktikum 
+• 
+Praxisprojekt 
+• 
+Großes Ensemble 
+• 
+Kleines Ensemble 
+ 
+Zusätzlich stehen folgende Wahlpflichtmodule zur Verfügung, falls im Fach 
+Musikwissenschaft nicht die Bachelorarbeit geschrieben wird: 
+ 
+ 
+Im flexiblen Profil und im Profil Aisthesis. Kultur und Medien 
+• 
+Einführungsmodul 
+• 
+Grundlagen Musiktheorie 
+• 
+Vertiefung Musiktheorie 
+• 
+Formanalyse 
+• 
+Schrift- und Höranalyse 
+ 
+ 
+ 
+
+[Page 7]
+Status Version 
+2/2023_02 
+7 
+ 
+ 
+2.4. 
+Studium.Pro 
+Entsprechend der Verankerung in den einzelnen Profilen kann Studium.Pro 
+Bestandteil im Bereich der Wahlmodule sein. In der Musikpädagogik gibt es einen 
+eigenen, fachspezifischen Wahlbereich, der hier zu finden ist: 
+https://www.ku.de/ppf/studiengaenge/musik-interdisziplinaerer-bachelor 
+ 
+ 
+2.5. 
+Praxisbezug 
+Der Praxisbezug in diesem Teilstudiengang ist hoch: Studierende erhalten anhand von 
+Vorträgen und Workshops mit Berufspraktiker/-innen erste Einblicke in mögliche 
+Berufsfelder und deren Anforderungen, die im Rahmen eines 4-wöchigen 
+Kurzpraktikums und/oder eines Praxisprojekts über 2 Semester vertieft werden 
+können. 
+ 
+Das Fach Musik zeichnet sich aus durch eine lebendige Musizierpraxis, die ein 
+reichhaltiges 
+Angebot 
+an 
+musikalischen 
+Ensembles 
+von 
+Jazz-Combos, 
+Kammermusikgruppen, Ensembles für Alte Musik und Volksmusik über Pop-Bands, 
+Gitarren-, iPad-, Percussion-, Flöten-, Saxophon- und Klarinettenensembles bis hin zu 
+Big-Band, A-cappella-Gruppe, Orchester und Chören, bietet. 
+ 
+Das Lehramtsstudium im Fach Musik ist an der Katholischen Universität Eichstätt- 
+Ingolstadt hinsichtlich der Verknüpfung von Theorie und Praxis eng verzahnt und auf 
+wissenschaftlicher Basis besonders an den berufsfeldspezifischen Anforderungen 
+orientiert. Alle Lehrenden verfügen über mehrjährige Unterrichtserfahrung an Schulen 
+und stellen den Lehrveranstaltungen vielfältige Bezüge zwischen Lehrinhalten und 
+schulischer Anwendbarkeit dar. 
+ 
+ 
+2.6. 
+Ausgestaltung der Internationalisierung 
+Die KU pflegt ein Netzwerk an Partnerschaften mit rund 300 Universitäten weltweit. 
+Das International Office der KU unterstützt bei der Planung und Informiert über die 
+unterschiedlichen Finanzierungsmöglichkeiten. 
+
+[Page 8]
+Status Version 
+2/2023_02 
+8 
+ 
+ 
+D. Beitrag des Teilstudiengangs zum KU-Profil auf 
+der Grundlage des Leitbilds für Studium und 
+Lehre 
+Das Fach Musik kann über die fachliche Qualifikation hinaus wesentliche Beiträge zur 
+Persönlichkeits- und Wertebildung leisten. So sammeln die Studierenden über 
+theoretisch-wissenschaftliche 
+Kenntnisse 
+hinaus 
+sowohl 
+in 
+pädagogischen 
+Gestaltungs- und Reflexionsprozessen als auch in künstlerisch-praktischen, kreativen 
+Settings eine Vielzahl an Erfahrungen, die für den Lehrerberuf unerlässliche 
+Kompetenzfelder darstellen. Dazu gehören etwa eine sensible musikalisch-
+ästhetische Wahrnehmungs- und Gestaltungsfähigkeit, verbale und 
+nonverbale Interaktions- 
+/Kommunikationsfähigkeiten, 
+Techniken 
+forschenden 
+Lernens, 
+interkulturelle 
+Kompetenz sowie breitgefächerte Kenntnisse, die der engen Verschränkung von 
+Gesellschaft, Medien, Politik, Geschichte und Musik im Sinne ganzheitlicher Bildung 
+und eines ganzheitlichen Menschenbildes Rechnung tragen. Insofern entspricht der 
+Teilstudiengang 
+Musikwissenschaft 
+und 
+Musikpädagogik/Musikdidaktik 
+dem 
+programmatischen Vierklang des Bildungsverständnisses des Leitbilds für Studium 
+und Lehre „diskursiv, vernetzt, engagiert, persönlich“.

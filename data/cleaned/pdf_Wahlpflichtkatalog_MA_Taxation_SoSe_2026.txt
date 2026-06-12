@@ -1,0 +1,138 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_MA_Taxation_SoSe_2026.pdf
+TITLE: Wahlpflichtkatalog_MA_Taxation_SoSe_2026.pdf
+SOURCE_FILE: Wahlpflichtkatalog_MA_Taxation_SoSe_2026.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+M. Sc. Taxation 
+SoSe/WiSe 
+ 
+ 
+1. nach § 8 der Prüfungsordnung für den Masterstudiengang Taxation in der 
+ Fassung vom 25.07.2024 
+2. Geltungsbereich zum SoSe 2026 und WiSe 26/27 
+ 
+3. vom Fakultätsrat der Fakultät Wirtschaftswissenschaften beschlossen am 
+ 28.01.2026 
+ 
+In der PO verankerte Wahlpflichtbereiche: 
+ 
+1. Wahlpflichtbereich Taxation, 
+2. Wahlpflichtbereich Minor Accounting & Auditing, 
+3. Wahlpflichtbereich Minor Business Law, 
+4. Wahlpflichtbereich Minor Digitization and Digital Business, 
+5. Wahlpflichtbereich Minor Quantitative Methods. 
+ 
+Auflistung der Wahlpflichtmodule im SoSe 
+ 
+1. Wahlpflichtbereich Taxation 
+Erbschaftsteuer und Bewertungsrecht (2,5 ECTS), Klausur 
+Internationale Verrechnungspreise und Gewinnabgrenzung (2,5 ECTS) Präsentation (erst 
+wieder SoSe 2027) 
+MA-Seminar „Aktuelle Fragen der Unternehmensbesteuerung“ (5 ECTS) Portfolio 
+Multinationale Unternehmen und ihre Besteuerung (5 ECTS) Klausur 
+Steuerpolitik in Wissenschaft und Praxis: Eine Exkursion ins politische Berlin (5 ECTS), 
+Portfolio (nicht im SoSe 2026) 
+Strukturgestaltungen im Konzern (5 ECTS) Präsentation 
+Umsatzsteuerrecht (5 ECTS) Präsentation 
+Umwandlungssteuerrecht (5 ECTS) Klausur 
+ 
+2. Modulangebote im Wahlpflichtbereich Minor Accounting & Auditing 
+Internationale Rechnungslegung, Prüfung u. Unternehmensbewertung (5 ECTS) Klausur 
+Kapitalmarktorientierte Rechnungslegung (5 ECTS) Klausur 
+Koordinationsorientiertes Controlling (5 ECTS), Klausur (ab SoSe 2023 alle 2 Jahre) 
+Kostenorientiertes Controlling (5 ECTS) Klausur (ab SoSe 2024 alle 2 Jahre) 
+Seminar „Accounting & Controlling“ (5 ECTS) Seminararbeit/ Präsentation 
+Seminar „Accounting & Auditing“ (5 ECTS) Seminararbeit/ Präsentation 
+Wirtschaftliches Prüfungswesen (5 ECTS) Klausur 
+Kapitalgesellschaftsrecht, Konzernrecht, europäisches und internationales 
+Gesellschaftsrecht (5 ECTS), Klausur 
+ 
+ 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+3. Modulangebot im Wahlpflichtbereich Minor Business Law 
+Kapitalgesellschaftsrecht, Konzernrecht, europäisches und internationales 
+Gesellschaftsrecht (5 ECTS), Klausur 
+Europäisches Wirtschaftsrecht (5 ECTS) Klausur (einmalig nicht im SoSe 2026) 
+Insolvenzrecht (5 ECTS) Klausur 
+Umwandlungsrecht (5 ECTS) Klausur 
+Seminar „Europäisches und internationales Handels- und Wirtschaftsrecht“ (10 ECTS) 
+Seminararbeit/Präsentation 
+Seminar „Nachhaltige Weltwirtschaft und humane Unternehmensentwicklung: 
+Unternehmensfinanzierung, Rechnungslegung und Wertschöpfung“ (5 ECTS) 
+Seminararbeit/Präsentation 
+Aktien- und Kapitalmarktrecht (5 ECTS, Virtuelle Hochschule Bayern) Klausur1 
+Recht der Personengesellschaften und der GmbH (5 ECTS, Virtuelle Hochschule Bayern) 
+Klausur2 
+ 
+4. Modulangebot im Wahlpflichtbereich Minor Digitization and Digital Business 
+Algorithmen und Datenstrukturen (5 ECTS) Klausur oder mündliche Prüfung 
+Digital Business Models and Technologies (5 ECTS) Klausur, Dokumentation und 
+Präsentation 
+Service Analytics (5 ECTS) Klausur 
+ 
+5. Modulangebot im Wahlpflichtbereich Minor Quantitative Methods 
+Empirical Finance (5 ECTS) Case Studies/ Klausur 
+ 
+Zeitreihenanalyse (5 ECTS) Klausur 
+ 
+ 
+Im Wahlbereich kann aus dem gesamten Masterangebot der wirtschaftswissenschaftlichen 
+Fakultät gewählt werden. 
+ 
+Auflistung der Wahlpflichtmodule im WiSe 
+ 
+1. Wahlpflichtbereich Taxation 
+Abgabenordnung (5 ECTS) Klausur 
+Bilanzsteuerrecht (5 ECTS) Klausur 
+Fallstudien zu Umwandlungs- und internationalem Steuerrecht (5 ECTS) Präsentation 
+Seminar “Current Issues in Tax Policy” (5 ECTS) Seminararbeit/Präsentation 
+Steuerfunktion 4.0 (5 ECTS) Präsentation 
+ 
+2. Modulangebote im Wahlpflichtbereich Minor Accounting & Auditing 
+Fallstudienseminar Accounting & Controlling (5 ECTS) Seminararbeit/Präsentation 
+Seminar „Applied Empirical Accounting Research“ (5 ECTS) Seminararbeit und Präsentation 
+ 
+3. Modulangebot im Wahlpflichtbereich Minor Business Law 
+Bilanzrecht (5 ECTS) Klausur 
+Erbrecht und Zivilprozessrecht (5 ECTS) Klausur 
+Seminar „Europäisches und internationales Handels- und Wirtschaftsrecht“ (10 ECTS) 
+Seminararbeit/Präsentation 
+ 
+1 Anerkennung nur bei Teilnahme an der Präsenzklausur. 
+2 Anerkennung nur bei Teilnahme an der Präsenzklausur. 
+
+[Page 3]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Seminar „Nachhaltige Weltwirtschaft und humane Unternehmensentwicklung: 
+Unternehmensfinanzierung, Rechnungslegung und Wertschöpfung“ (5 ECTS) 
+Seminararbeit/Präsentation 
+ 
+
+[Page 4]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+4. Modulangebot im Wahlpflichtbereich Minor Digitization and Digital Business 
+Data Analytics with Python (5 ECTS) Portfolio 
+Data Science Theorie (5 ECTS) Klausur oder mündliche Prüfung 
+Data Science Werkzeuge (5 ECTS) Klausur 
+Economics of Innovation (5 ECTS) Klausur 
+Steuerfunktion 4.0 (5 ECTS) Präsentation 
+ 
+5. Modulangebot im Wahlpflichtbereich Minor Quantitative Methods 
+Data Analytics with Python (5 ECTS) Portfolio 
+Fortgeschrittene Datenanalyse in Finance mit Python (5 ECTS) Portfolio 
+Quasi-experimental Policy Evaluation (5 ECTS) Seminararbeit 
+Statistische Prognoseverfahren (5 ECTS) Klausur 
+Webscraping and Textual Analysis in Python (5 ECTS) Portfolio 
+ 
+ 
+Im Wahlbereich kann aus dem gesamten Masterangebot der wirtschaftswissenschaftlichen 
+Fakultät gewählt werden.

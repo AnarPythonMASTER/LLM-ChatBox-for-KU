@@ -1,0 +1,63 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_MA_Business_and_Psychology_SoSe_2022.pdf
+TITLE: Wahlpflichtkatalog_MA_Business_and_Psychology_SoSe_2022.pdf
+SOURCE_FILE: Wahlpflichtkatalog_MA_Business_and_Psychology_SoSe_2022.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+(Business and Psychology M.Sc.) 
+ 
+1. nach § 7 der Prüfungsordnung Masterstudiengang Business and Psychology in der 
+Fassung vom 12.10.2020 
+2. Geltungsbereich zum SoSe 2022 
+ 
+3. vom Fakultätsrat der Fakultät Wirtschaftswissenschaften beschlossen am 
+07.07.2021. 
+ 
+ 
+Auflistung der Studienschwerpunkte 
+In der PO verankerte Studienschwerpunkte: 
+ 
+1. Wirtschaft, 
+2. Psychologie 
+ 
+Modulangebot im Wahlpflichtbereich 
+ 
+Advanced Topics in Consumer Psychology for a Better World (10 ECTS) Research Project and 
+Report 
+ 
+Arbeit und Gesundheit: Methoden (5 ECTS) Abschlussklausur oder mündliche Prüfung oder 
+Portfolio 
+ 
+Behavioral and Experimental Economics (5 ECTS) Seminar paper and presentation 
+ 
+Consumer Psychology for a Better World (2,5 ECTS) Exam 
+ 
+ 
+Ethik der Digitalisierung (5 ECTS) Präsentation und schriftliche Fallstudienbearbeitung 
+ 
+Grundlagen der psychologischen Diagnostik (Testtheorie & Testkonstruktion) (5 ECTS) Klausur 
+oder mündliche Prüfung 
+ 
+Human-Technology Interaction: Potential and Application (5 ECTS) Abschlussklausur oder 
+mündliche Prüfung oder Portfolio 
+ 
+Innovation and Creativity in Individuals, Teams, and Organizations (5 ECTS) teambasiertes 
+Innovationsprojekt und Präsentation und Klausur 
+ 
+Interkulturelles Management (5 ECTS) Abschlussklausur 
+Psychologie der Führung und Motivierung (5 ECTS) Portfolio 
+Psychologie der Verantwortung, Gerechtigkeit und Werte (5 ECTS) Hausarbeit mit Präsentation 
+oder Abschlussklausur oder mündliche Prüfung oder Portfolio 
+ 
+ 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+ 
+ 
+ 
+Wahlbereich: Modulangebot

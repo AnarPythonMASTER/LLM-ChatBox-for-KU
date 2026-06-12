@@ -1,0 +1,36 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Anfrage_Grusswort_Hochschulleitung.pdf
+TITLE: Anfrage_Grusswort_Hochschulleitung.pdf
+SOURCE_FILE: Anfrage_Grusswort_Hochschulleitung.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anfrage an die Hochschulleitung
+Grußwort
+Die Hochschulleitung der KU wird regelmäßig gebeten, bei Tagungen, Symposien und anderen universi-
+tären Veranstaltungen ein Grußwort zu sprechen. Gerne sind die Mitglieder des Präsidiums im Rahmen 
+ihrer zeitlichen Möglichkeiten dazu bereit. Damit wir Ihrem Wunsch nachkommen und Ihre Veranstaltung 
+einplanen können, bitten wir Sie jedoch um eine frühzeitige Anfrage. Bitte geben Sie uns dabei auch 
+einige Informationen zu Ihrer Veranstaltung und zu dem erbetenen Grußwort:
+Veranstalter:
+Name:
+Wer?
+E-Mail / Telefon:
+ja
+kurz
+Anzahl der erwarteten Teilnehmer:
+Wann wünschen Sie das Grußwort (Datum, Uhrzeit):
+Bis wann benötigen Sie eine Zusage der Hochschulleitung?
+Bis wann können der Programmablauf, die Gästeliste 
+und Bausteine für die Begrüßung mitgeteilt werden?
+Art des Grußworts:
+Ort der Veranstaltung:
+Wer sind die Teilnehmer/innen?
+Sind hochrangige Gäste zu erwarten 
+(z.B. Vertreter aus Politik und Kirche, Sponsoren etc.)?
+Beginn und Ende 
+der Veranstaltung:
+Titel der Veranstaltung:
+nein
+erweitert
+Angaben zur Veranstaltung
+Angaben zum Grußwort

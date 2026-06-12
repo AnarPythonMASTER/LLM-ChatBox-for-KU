@@ -1,0 +1,44 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Module_DataCompetence.pdf
+TITLE: Module_DataCompetence.pdf
+SOURCE_FILE: Module_DataCompetence.pdf
+------------------------------------------------------------
+
+[Page 1]
+Digital & Data-Driven Business 
+Status 26.06.2023 
+ 
+ 
+1 
+Wahlpflichtkatalog für den Bachelorstudiengang Digital & Data-Dri-
+ven Business 
+ 
+B) Wahlpflichtbereich „Data Competence“ 
+Modulbezeichnung 
+Prüfungsform 
+ECTS- 
+Anzahl 
+Semes-
+terlage 
+Zulassungsvo-
+raussetzungen 
+Algorithmen und Datenstrukturen 
+Klausur 
+5 
+SoSe 
+- 
+Computational Statistics 
+Klausur 
+5 
+SoSe 
+- 
+Decision Theory 
+Klausur 
+5 
+SoSe 
+- 
+Applied Machine Learning (im 
+SSEM 2023 nicht angeboten) 
+Klausur 
+5 
+SoSe 
+-

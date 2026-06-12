@@ -1,0 +1,87 @@
+SOURCE_URL: https://www.ku.de/forschung/veranstaltungen
+TITLE: Aktuelle Veranstaltungen – KU
+SOURCE_FILE: forschung_veranstaltungen.html
+------------------------------------------------------------
+
+Hinweise zur Teilnahme
+11
+Juni
+bis
+ 19.
+ Juni
+[Online] Lesewerkstatt für Promovierende
+Die verbindliche Platzvergabe erfolgt ca. 6 Wochen vor dem Veranstaltungstermin.
+23
+Juni
+16:00
+ 
+ bis
+ 
+ 18:18
+[Präsenz] Stipendium für exzellente Postdocs: Das Junge Kolleg der BAdW stellt sich vor
+Im Jungen Kolleg der Bayerischen Akademie der Wissenschaften (BAdW) werden exzellente junge Wissenschaftlerinnen und Wissenschaftler in der…
+25
+Juni
+09:00
+ 
+ bis
+ 
+ 16:00
+[Online] Souverän Auftreten – auch in schwierigen Situationen
+Die verbindliche Platzvergabe erfolgt ca. 6 Wochen vor dem Veranstaltungstermin.
+02
+Juli
+bis
+ 03.
+ Juli
+[Online] Argumentieren in wissenschaftlichen Texten
+Die verbindliche Platzvergabe erfolgt ca. 6 Wochen vor dem Veranstaltungstermin.
+09
+Juli
+bis
+ 10.
+ Juli
+[Präsenz] Messy Maps, Fragen-Gedichte und andere Denkwerkzeuge: Kreativität als Motor für Ihren Forschungs- und Schreibprozess
+Die verbindliche Platzvergabe erfolgt ca. 6 Wochen vor dem Veranstaltungstermin.
+17
+September
+09:00
+ 
+ bis
+ 
+ 13:00
+[Präsenz] Erfolgreich Drittmittel einwerben während der Promotion
+Die verbindliche Platzvergabe erfolgt ca. 6 Wochen vor dem Veranstaltungstermin.
+25
+September
+10:00
+ 
+ bis
+ 
+ 16:00
+[Präsenz] Erfolgreich Drittmittel einwerben für fortgeschrittene Forschende
+Die verbindliche Platzvergabe erfolgt ca. 6 Wochen vor dem Veranstaltungstermin.
+06
+Oktober
+09:45
+[Präsenz] Young Researchers Day 2026
+Save the Date!
+22
+Oktober
+09:00
+ 
+ bis
+ 
+ 16:30
+[Online] Generative KI in der qualitativen Forschung – Grundlagen, Methodik und praktische Anwendung
+Die verbindliche Platzvergabe erfolgt ca. 6 Wochen vor dem Veranstaltungstermin.
+29
+Oktober
+09:00
+ 
+ bis
+ 
+ 15:00
+[Online] Schöner Scheitern beim Forschen: Chancen, Mut, Resilienz und Zukunftspotenziale
+Die verbindliche Platzvergabe erfolgt ca. 6 Wochen vor dem Veranstaltungstermin.
+Rückblick

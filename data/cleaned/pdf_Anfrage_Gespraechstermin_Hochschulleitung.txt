@@ -1,0 +1,32 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Anfrage_Gespraechstermin_Hochschulleitung.pdf
+TITLE: Anfrage_Gespraechstermin_Hochschulleitung.pdf
+SOURCE_FILE: Anfrage_Gespraechstermin_Hochschulleitung.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anfrage an die Hochschulleitung
+Gesprächstermin
+Zur Vorbereitung Ihres gewünschten Gesprächs mit der Hochschulleitung und für die Terminplanung 
+bitten wir Sie vorab um einige Informationen. Füllen Sie bitte hierzu die Felder auf diesem Blatt aus und 
+reichen Sie es beim Vorzimmer ein. Bitte richten Sie Ihre Terminanfrage frühzeitig an das Präsidialamt.
+Ihr Anliegen:
+Name:
+E-Mail / Telefon:
+ja
+ja
+Wurde das Anliegen schon mit einem anderen Mitglied 
+der Hochschulleitung besprochen?
+falls ja: mit wem?
+Voraussichtliche Dauer des Gesprächs:
+Sind diesem Formular Anlagen beigefügt?
+Bis wann sollte Ihr Anliegen spätestens besprochen werden?
+Stichpunkte zum Gespräch:
+nein
+nein
+Wen wünschen Sie 
+zu sprechen?
+Präsidentin Prof. Dr. Gabriele Gien
+Kanzler Eckhard Ulmer
+Vizepräsident für Studium und Lehre Prof. Dr. Klaus Meier
+ Vizepräsident für Forschung und wiss. Nachwuchs Prof. Dr. Jens Hogreve 
+Vizepräsident für Internationales und Profilbildung Prof. Dr. Klaus Stüwe

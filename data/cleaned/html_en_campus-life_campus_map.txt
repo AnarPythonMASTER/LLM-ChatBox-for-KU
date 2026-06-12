@@ -1,0 +1,128 @@
+SOURCE_URL: https://www.ku.de/en/campus-life/campus/map
+TITLE: Map – KU
+SOURCE_FILE: en_campus-life_campus_map.html
+------------------------------------------------------------
+
+Campus map Eichstätt
+Web_Lageplan_2026_EN.pdf
+[452 KB | PDF]
+Canteen
+Crèche Uni-Kinderhaus
+Departmental Library “Aula”
+(eRS)
+Departmental Library “Hofgarten”
+Domplatz 8
+(DP8)
+Ehemalige Orangerie
+(eO)
+Ehemalige Reitschule
+(eRS)
+Foundation administration
+(Lu10)
+Gym at Gabrieli Gymnasium
+Georgianum Ingolstadt
+Hohe Schule Ingolstadt
+Indoor pool of the Bereitschaftspolizei
+Ingbert-Naab-Saal
+(INS)
+Ingolstadt Main Building
+Ingolstadt New Building
+Interim Building
+Kapuzinerkloster
+(KAP)
+Kardinal-Preysing-Platz 3 (KHG/Studihaus
+)
+Luitpoldstraße 10
+(Foundation, Lu10)
+Luitpoldstraße 32
+(Lu32)
+Main Building A
+(KGA)
+Main Building B
+(KGB)
+Main Building C
+(KGC)
+Main Building D
+(KGD)
+Main Building E
+(KGE)
+Maria Ward Gym
+Marktplatz 2
+(MP2)
+Marktplatz 4
+(MP4)
+Marktplatz 7
+(MP7)
+Marktplatz 18
+(MP18)
+Osten 14
+(O14)
+Osten 17
+(O17)
+Osten 18
+(O18)
+Osten 27
+(O27)
+Osten 28a
+(O28a) (currently under construction)
+Osten 29
+(O29)
+Pater-Philipp-Jeningen-Platz 2
+(PPJ)
+Salesianum
+Salzstadel 1
+Sollnau 30a
+Sommerresidenz
+(SR)
+Sports Center Seidlkreuz
+Ulmer Hof
+(UH)
+University Outpatient Department
+Universitätsallee/Main Library
+(UA)
+Waisenhaus
+(WH)
+Aula. Main Building KGD
+Canteen, Cafeteria
+, UA2
+Computer Center
+, eO
+Examinations Office
+, MP7
+Facility Management
+, KAP
+Foundation
+, Lu10
+Graduate Center
+. eO
+International Office, DP8
+Legal Affairs Department, MP7
+Libraries
+–
+Main Library
+, UA
+–
+Departmental Library 1
+, Ulmer Hof. UH
+–
+Departmental Library 2
+, Aula, O1
+–
+Departmental Library 3,
+Staats- & Sem. Bibliothek,
+Hofgarten
+–
+Ingolstadt Branch Library
+Lost-and-found Office
+, eO
+Mail room
+, O28a
+Media Technology/Technical Service, INTERIM
+Printing Service
+, eO
+Research Service Center
+, eO
+Student Office, MP7
+Student Advisory Service
+, MP7
+Student Representative Committee, KGC

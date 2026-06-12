@@ -1,0 +1,345 @@
+SOURCE_URL: https://www.ku.de/studienangebot/data-science-msc
+TITLE: M.Sc. Data Science – KU
+SOURCE_FILE: studienangebot_data-science-msc.html
+------------------------------------------------------------
+
+Data Science M.Sc.
+Abschluss
+Master of Science
+Semesterbeitrag
+88
+ Euro
+Studienbeginn
+Winter- und Sommersemester
+Regelstudienzeit
+4
+ Semester
+Studienort
+Ingolstadt
+Teilzeitstudium möglich
+Nein
+Unterrichtssprache
+Englisch
+Die Erfolge der künstlichen Intelligenz, insbesondere des maschinellen Lernens, demonstrieren eindrucksvoll das Potenzial mathematischer und statistischer Methoden. Sie ermöglichen es, mithilfe von Automatisierung verborgene Zusammenhänge in großen Datenmengen zu erkennen und gezielt zu nutzen. Der
+Masterstudiengang Data Science
+vermittelt fundierte Kenntnisse moderner Methoden der Datenanalyse und des maschinellen Lernens und verbindet theoretische Grundlagen mit praktischen Anwendungen.
+Der Studiengang konzentriert sich auf
+Datenanalyse und Operations Research,
+Wetter- und Klimaforschung,
+die mathematischen Grundlagen der Data Science
+sowie
+die Schnittstelle zwischen datenbasierter und modellbasierter Modellierung.
+Durch diese interdisziplinäre Ausrichtung erwerben die Studierenden sowohl methodische Expertise als auch die Fähigkeit, komplexe Datenprobleme in wissenschaftlichen und industriellen Kontexten zu lösen.
+Das Studium im Detail
+Aufbau
+Die Regelstudienzeit für den Master of Science in Data Science beträgt vier Semester. Studierende müssen 120 ECTS-Punkte erwerben, die sich wie folgt gliedern.
+Pflicht- und Wahlpflichtbereich
+Der Kern des Programms bietet eine solide Grundlage in Mathematik, Statistik, den Grundlagen der Datenwissenschaft und des maschinellen Lernens sowie interdisziplinäre Möglichkeiten:
+„Mathematics for Data Science“ (10 ECTS-Kreditpunkte) im ersten Semester vermittelt die grundlegenden mathematischen Konzepte aus Analysis und linearer Algebra und schließt bei Bedarf Lücken aufgrund unterschiedlicher Bachelor-Ausbildung der Studierenden
+„Grundsätze der Datenwissenschaft“ und „Grundsätze des maschinellen Lernens“ (10 ECTS-Kreditpunkte) bilden den disziplinären Kern; einer der beiden muss genommen werden und beide können genommen werden
+Es müssen 5–10 ECTS-Leistungspunkte in Statistik und/oder Wahrscheinlichkeit belegt werden; Studierende können aus mehreren Modulen wählen, die von Jahr zu Jahr wechseln
+Es müssen 5–10 ECTS-Credits in einem beliebigen Bereich der (angewandten) Mathematik belegt werden; Studierende können aus mehreren Modulen wählen, die von Jahr zu Jahr wechseln
+„Advanced Programming“ (5 ECTS-Kreditpunkte) vermittelt die effiziente Implementierung fortgeschrittener mathematischer und statistischer Algorithmen in Python
+„Datenbankmanagement“ (5 ECTS-Kreditpunkte) konzentriert sich auf den strukturierten Umgang mit Big Data, Datenbanken und Datenanalysen
+„Operations Research“ (5 ECTS-Kreditpunkte) umfasst die lineare und ganzzahlige Optimierung mit Anwendungen
+Das „Applied Data Science Project“ (10 ECTS-Kreditpunkte) ist ein unabhängiges Teamprojekt, bei dem Data-Science-Methoden zur Lösung eines realen Problems angewendet werden
+„Ethik und Recht“ (5 ECTS-Kreditpunkte) befasst sich mit den ethischen und rechtlichen Fragen, die sich aus der Erhebung und Analyse von Daten ergeben
+Die Studierenden absolvieren außerdem ein transdisziplinäres Modul „Studium.Pro“ (5 ECTS-Kreditpunkte).
+Wahlbereich
+Weitere 20 ECTS-Punkte können frei aus Modulen mit Bezug zur Datenwissenschaft aus dem bestehenden Studienangebot der folgenden KU-Studiengänge gewählt werden:
+Interdisziplinärer Master Mathematik: alle Module
+Interdisziplinärer Master Mathematik – Anwendungen in der Physischen Geographie: die meisten Module
+Interdisziplinärer Master Mathematik – Anwendungen in der Wirtschaftswissenschaft: die meisten Module
+Master Business Analytics und Operations Research: einige Module
+Bachelor Mathematik: Ausgewählte Module
+Bachelor Data Science: Ausgewählte Module
+Masterarbeit
+Im zweiten Studienjahr verfassen die Studierenden eine Masterarbeit (30 ECTS-Punkte).
+Dokumente zum Studienverlauf
+Modulhandbuch
+Das für das jeweilige Semester gültige Modulhandbuch zum Studiengang finden Sie hier auf
+KU.Campus
+. Gehen Sie dort in der Navigation auf "Informationsportal --> Studiengänge". Geben Sie Ihren Studiengang und das betreffende Semester in der Suchmaske ein. In der Ergebnisliste erscheint oben rechts das Modulhandbuch zum Download als pdf- oder Word-Datei.
+Studiengangsbeschreibung
+Studiengangsbeschreibung
+für den Masterstudiengang Data Science
+Studienverlaufsplan
+Studienverlaufsplan
+für den Masterstudiengang Data Science
+Wahlpflichtkatalog
+Wahlpflichtkatalog
+für den Masterstudiengang Data Science
+Internationalisierung und Ausland
+Maschinelle Lernverfahren und mathematische Methoden werden weltweit entwickelt und grenzüberschreitend angewendet. Daher ist der Studiengang konsequent international ausgerichtet und wird primär auf Englisch angeboten. Dies schafft ideale Voraussetzungen für eine Karriere in global agierenden Unternehmen und erleichtert gleichzeitig die Integration internationaler Studierender. Durch das englischsprachige Studienangebot entsteht ein vielfältiges, interkulturelles Umfeld, das den fachlichen und persönlichen Austausch fördert.
+Zusätzlich besteht die Möglichkeit, im dritten Semester ein Auslandssemester zu absolvieren und wertvolle internationale Erfahrungen zu sammeln. Die Studierenden profitieren hier vom weltweiten Netzwerk der KU: Die Universität pflegt Partnerschaften mit mehr als 300 Hochschulen rund um den Globus. Egal ob Nordamerika oder Asien, Australien, Südamerika oder Europa - das passende Programm findet sich. Bei der Planung und Organisation unterstützt das
+International Office
+der KU.
+Alternativer Studienplan bei Auslandsaufenthalt im dritten Semester
+Praxis
+Data Science vereint moderne Methoden der Statistik, Modellierung und des maschinellen Lernens mit praxisnahen Anwendungen in Industrie und Wissenschaft. Diese enge Verknüpfung spiegelt sich in den Lehrveranstaltungen wider, in denen theoretische Konzepte stets mit konkreten Implementierungen ergänzt werden. Da viele Module speziell für das Fachgebiet Data Science konzipiert wurden, wird dieser anwendungsorientierte Ansatz konsequent verfolgt.
+Ein besonders hoher Praxisbezug wird im Modul
+Applied Data Science Project
+geschaffen. Hier arbeiten Studierende eigenständig in Teams und kommunizieren direkt mit Anwendenden, die oft keine tiefgehenden Kenntnisse in Mathematik oder Algorithmik besitzen. Dadurch lernen sie, komplexe fachliche Inhalte verständlich zu vermitteln und in reale Problemstellungen zu integrieren.
+Zusätzlich bietet der Studiengang die Möglichkeit, die Masterarbeit in Kooperation mit einem Unternehmen oder einer Forschungseinrichtung zu schreiben. Dies ermöglicht eine direkte Einbindung in ein professionelles Umfeld und fördert den praktischen Wissenstransfer.
+Bewerbung
+Voraussetzung
+Bachelor
+Sprachvoraussetzungen
+Englisch B2
+Bewerbungszeitraum WS
+Bitte beachten Sie, dass für Studieninteressierte, die ihre Hochschulzugangsberechtigung im Ausland erworben haben, ggf. andere Fristen gelten. Diese finden Sie auf der englischen Seite.
+01.05.
+ -
+ 15.07.
+Bewerbungszeitraum SS
+Bitte beachten Sie, dass für Studieninteressierte, die ihre Hochschulzugangsberechtigung im Ausland erworben haben, ggf. andere Fristen gelten. Diese finden Sie auf der englischen Seite.
+01.12.
+ -
+ 15.01.
+Zulassungsbeschränkung
+Nein
+Auswahlverfahren
+Ja
+Vorraussetzungen
+Alle Bewerbenden, die eine
+„Masterzugangsberechtigung“
+(d.h. in der Regel ihren ersten, für den Master Data Science relevanten Bachelorabschluss)
+in einem Land der EU
+erworben haben, können ihre Bewerbung ab dem 1. Dezember (Sommersemester) bzw. ab dem 1. Mai (Wintersemester) über das
+KU-Bewerbungsportal
+einreichen.
+Bewerbende, die ihre Masterzugangsberechtigung
+außerhalb der Europäischen Union
+erworben haben, können sich nur für einen Studienbeginn im Wintersemester bewerben und müssen ihre Bewerbung über
+Uni-Assist
+einreichen.
+Wichtiger Hinweis!
+Zulassungsvoraussetzungen
+Sie müssen über einen Bachelor-Abschluss in Data Science, Mathematik, Statistik, Informatik, Physik oder einem eng verwandten Fachgebiet verfügen oder diesen voraussichtlich abschließen.
+Es wird erwartet, dass Ihr Bachelor-Studium im Wesentlichen die Kernfächer eines Bachelor-Studiums in Data Science, wie es an der KU angeboten wird, abdeckt. Diese Inhalte umfassen:
+Fundierte mathematische Grundlagen, bestehend aus mindestens einem Jahr Lineare Algebra und einem Jahr Analysis, einschließlich grundlegender Beweise, sowie eine erste Einführung in die Optimierung (Referenzmodule sind die KU-Module
+Lineare Algebra I
+und
+II
+,
+Analysis für Data Science I
+und
+II
+sowie
+Optimierung für Data Science
+)
+Grundkenntnisse in Wahrscheinlichkeitsrechnung und Statistik (Referenzmodule sind die KU-Module
+Einführung in die Statistik
+und
+Einführung in die Stochastik
+)
+Grundkenntnisse in Algorithmen und Programmierung (Referenzmodule sind die KU-Module
+Algorithmen und Datenstrukturen
+und
+Einführung in die Programmierung
+)
+Darüber hinaus wird erwartet, dass Sie in mindestens einigen dieser Fächer fortgeschrittenere Kurse belegt haben. Wenn Sie nicht alle oben aufgeführten Kernmodule vollständig abgedeckt haben, können Sie dennoch zugelassen werden, müssen jedoch möglicherweise ein oder mehrere Bachelor-Module wiederholen. Diese Module können nicht auf die Anforderungen des Masterstudiengangs angerechnet werden.
+Bitte beachten Sie:
+Bewerbende aus einem nicht-europäischen Land werden dringend gebeten, die Ergebnisse eines standardisierten Tests einzureichen, idealerweise den GRE-Fachtest Mathematik.
+Bewerbende sollten im Rahmen ihrer Bewerbung ein Selbstbewertungsformular ausfüllen. Der Zweck des Formulars besteht darin, Bewerbenden eine Orientierung zu geben, ob ihr akademischer Hintergrund für den Beginn eines Masterstudiums in Data Science ausreichend ist. Hinweis: Es ist nicht erforderlich, dass alle Anforderungen erfüllt sind oder die Module perfekt übereinstimmen.
+Sie sollten jedoch für die Mehrheit der genannten Module eine positive Übereinstimmung finden können.
+Wenn Sie sich nicht sicher sind, ob Ihr internationaler Bachelor-Abschluss als gleichwertig anerkannt wird, können Sie eine erste Selbsteinschätzung mithilfe der Anabin-Datenbank
+(www.anabin.de
+) vornehmen.
+Alle vollständigen Bewerbungen werden geprüft und gegebenenfalls einer Eignungsprüfung unterzogen. Bewerbende, die in der Eignungsprüfung eine Note erzielen, die einer deutschen Note von 2,0 oder besser entspricht, werden zugelassen. Bitte beachten Sie, dass die Prüfungsnote von der Note Ihres Bachelor-Abschlusses abweichen kann!
+Wie Sie sich bewerben
+Internationale Bewerbende mit einer außerhalb der Europäischen Union erworbenen Masterzugangsberechtigung
+Wenn Sie den Abschluss, der Sie zum Masterstudium berechtigt, außerhalb der EU erworben haben, müssen Sie sich über Uni-Assist bewerben (
+https://www.uni-assist.de
+).
+Ob eine Bewerbung über Uni-Assist erforderlich ist, hängt ausschließlich von dem Land ab, in dem Sie die Masterzugangsberechtigung für den Studiengang „Data Science“ erworben haben. Masterabschlüsse oder zusätzliche Bachelorstudiengänge, die innerhalb der EU begonnen oder abgeschlossen wurden, haben keinen Einfluss auf diese Regelung, ebenso wenig wie die Staatsangehörigkeit oder der Aufenthaltsstatus. Beachten Sie außerdem, dass das Vereinigte Königreich nicht mehr Teil der EU ist.
+Wenn Sie zu dieser Personengruppe gehören, reichen Sie Ihre Bewerbung bitte ausschließlich über Uni-Assist ein. Weder eine Registrierung noch eine zusätzliche Bewerbung über das KU-Bewerbungsportal sind erforderlich. Im Gegenteil, dies kann sogar zu Problemen bei der Bearbeitung der Bewerbungen führen. Sobald Ihre Bewerbung erfolgreich geprüft wurde, leitet Uni-Assist Ihre Unterlagen an uns weiter. Bitte beachten Sie, dass wir derzeit das VPD-System („Vorprüfungsdokumentation“) von Uni-Assist nicht nutzen und keine VPDs akzeptieren können, die für andere Studiengänge erstellt wurden.
+Bewerbende mit einer in der EU erworbenen Masterzugangsberechtigung
+Bewerbende, die ihre Masterzugangsberechtigung für den Studiengang „Data Science“ in der EU erworben haben, können sich direkt über das Bewerbungsportal der Universität bewerben:
+https://studienservice.ku.de/
+Besondere Bestimmungen für Bewerbungen zum Sommersemester
+Sie können sich nur für das Sommersemester bewerben, wenn
+Sie Ihren ersten für den M.Sc. Data Science relevanten Hochschulabschluss in einem Land erworben haben, das das Übereinkommen über die Anerkennung von Qualifikationen im Hochschulbereich in der europäischen Region ratifiziert hat, und
+der Notendurchschnitt Ihres Bachelor-Abschlusses einer deutschen Note von 2,0 oder besser entspricht.
+Ein Tool zur Notenumrechnung finden Sie
+hier
+.
+Im deutschen Notensystem ist 1,0 die beste Note und 4,0 die Mindestnote für das Bestehen. Das verlinkte Tool zur Notenumrechnung basiert auf der bayerischen Formel. Bitte beachten Sie, dass sich internationale Benotungssysteme stark unterscheiden können. Das Ergebnis der Berechnung dient daher nur als erste Orientierungshilfe und ist nicht rechtsverbindlich.
+Weitere Informationen zum Bewerbungsverfahren an der KU finden Sie
+hier.
+Erforderliche Bewerbungsunterlagen
+Erforderliche Bewerbungsunterlagen sind:
+Ein vollständiger Lebenslauf, in dem alle Bildungsabschlüsse aufgeführt sind, beginnend mit den letzten drei Jahren der Sekundarstufe.
+Abschlusszeugnis der Sekundarstufe II
+Abschlusszeugnis der Sekundarstufe II (z. B. deutsches Abitur) einschließlich eines Notenauszugs, aus dem die Durchschnittsnote hervorgeht
+Um die Note Ihres Schulabschlusszeugnisses in eine deutsche Note umzurechnen, benötigen wir das offizielle Benotungssystem Ihrer Schule; fügen Sie gegebenenfalls beim Hochladen der Dokumente eine Kopie des offiziellen Benotungssystems bei
+Falls zutreffend: Zeugnis über die Hochschulzugangsberechtigung aus Ihrem Heimatland
+Sollten diese Unterlagen in einer anderen Sprache als Englisch oder Deutsch verfasst sein, müssen Sie eine beglaubigte Übersetzung ins Englische oder Deutsche beifügen
+Zeugnis über den qualifizierenden Bachelor-Abschluss
+Hochschulabschlusszeugnis (Bachelor-Abschluss oder gleichwertig) – obligatorisch bei Bewerbungen über Uni-Assist; wenn Ihr Abschluss aus einem Land der Europäischen Union stammt und Sie zum Zeitpunkt der Bewerbung das Abschlusszeugnis noch nicht erhalten haben, müssen Sie einen Nachweis über den erfolgreichen Abschluss des Äquivalents von 150 ECTS-Punkten einreichen
+Vollständige Leistungsnachweise aus Ihrem Bachelor-Studiengang
+Das Zeugnis und/oder die Leistungsübersicht muss die Durchschnittsnote enthalten
+Um die Note Ihres Abschlusszeugnisses in eine deutsche Note umzurechnen, benötigen wir das offizielle Notensystem Ihrer Hochschule; fügen Sie gegebenenfalls eine Kopie des offiziellen Notensystems bei, wenn Sie die Dokumente hochladen
+Wenn diese Dokumente in einer anderen Sprache als Englisch oder Deutsch verfasst sind, müssen Sie eine beglaubigte Übersetzung ins Englische oder Deutsche beifügen
+Ausgefülltes Selbstbewertungsformular – Checkliste Modulvoraussetzungen
+Nachweis der Englischkenntnisse auf Niveau B2 (z. B. TOEFL-Ergebnis von 78 oder besser, IELTS-Ergebnis von 6,0 oder besser, Bachelor- oder Masterabschluss mit englischsprachigem Unterricht – Bestätigung der Universität erforderlich)
+Bewerber, die ihren ersten Abschluss in China, Indien oder Vietnam erworben haben: APS-Zertifikat
+Zusätzliche Unterlagen (optional)
+Etwaige weitere Abschlusszeugnisse/Zeugnisse
+Ergebnisse des GRE General Test und des GRE Subject Test in Mathematik (dringend empfohlen für Bewerbende, deren erster berufsqualifizierender Hochschulabschluss der eine gleichwertige Qualifikation nicht in einem Land erworben wurde, das die Lissabon-Konvention ratifiziert hat - siehe oben).
+Für die Einschreibung in diesen Studiengang ist eine Bewerbung erforderlich. Im Fall einer erfolgreichen Bewerbung erhalten Sie einen Zulassungsbescheid. Damit ist dann die Einschreibung in den Studiengang möglich.
+Die Bewerbung für den Studiengang erfolgt über das zentrale Bewerbungsportal der KU. Bitte beachten Sie, dass eine Registrierung im Portal jederzeit möglich ist, die Bewerbung selbst allerdings nur innerhalb der Bewerbungsfristen (siehe grauer Infokasten am Seitenanfang). Sollten Sie weitergehende Fragen zur Bewerbung haben, können Sie sich auf den Seiten des Studierendenbüros informieren.
+Zum Bewerbungs- und Einschreibeportal der KU
+Beratungsangebot
+Allgemeine Studierendenberatung
+Die Studierendenberatung der KU
+steht allen Studieninteressierten für ihre Fragen offen. Sie unterstützt bei der Suche nach dem richtigen Studiengang und gibt Tipps rund um Bewerbung, Zulassung und Einschreibung.
+Marie-Anne
+ Kohll M.A.
+Leitung Referat IV/2 Studierendenberatung
+Telefon
++49 8421 93-21283
+E-Mail
+studierendenberatung@ku.de
+Gebäude
+Marktplatz 7
+| 
+ 
+ 
+ 
+ Raum: MP7-005
+Fachstudienberatung
+Wenn Sie Detailfragen zu genau diesem Studiengang haben, z. B. zu Studienaufbau und Berufsmöglichkeiten, wenden Sie sich gerne direkt an die Fachstudienberatung.
+Prof. Dr.
+ Götz
+ Pfander
+Inhaber des Lehrstuhls Mathematik - Wissenschaftliches Rechnen | Sprecher Mathematisches Institut für Maschinelles Lernen und Data Science
+Telefon
++49 8421 93-21370
+E-Mail
+pfander@ku.de
+Raum: GEOG-202 (Collegium Georgianum in Ingolstadt)
+Prof. Dr.
+ Marcel
+ Oliver
+Inhaber des Lehrstuhls für Angewandte Mathematik
+Telefon
++49 841 937-21401
+E-Mail
+marcel.oliver@ku.de
+Raum: GEOG-106
+Prof. Dr.
+ Nadja
+ Ray
+Lehrstuhlinhaberin Geomatik und Geomathematik
+Telefon
++49 841 937-21159
+E-Mail
+nadja.ray@ku.de
+Gebäude
+Georgianum
+| 
+ 
+ 
+ 
+ Raum: GEOG-104
+Häufig gestellte Fragen von Studieninteressierten
+... zum Data Science Studiengang
+Ist der Studiengang Data Science in Eichstätt oder in Ingolstadt angesiedelt?
+Sowohl der Bachelor- als auch der Masterstudiengang in Data Science sind an unserem Campus in Ingolstadt angesiedelt. Alle Data-Science-Kurse werden in Ingolstadt angeboten. Am Campus in Eichstätt stehen zusätzliche Wahlfächer zur Verfügung, diese sind jedoch rein freiwillig.
+Wann sollte ich in Ingolstadt ankommen?
+Wir empfehlen Ihnen, Anfang Oktober anzureisen, damit Sie etwas Zeit haben, sich einzuleben. Die regulären Vorlesungen an der KU beginnen Mitte Oktober; die genauen Termine entnehmen Sie bitte dem
+akademischen Kalender
+.
+Ich bin ein Studierender von außerhalb der EU. Was ist, wenn ich mein Visum etwas später erhalte?
+Wir sind uns bewusst, dass internationale Studierende manchmal monatelang auf ein Visum warten müssen. Aus diesem Grund erteilen wir die Zulassungen so schnell wie möglich und gewähren eine möglichst späte Einschreibefrist, damit die Bewerbenden die bestmöglichen Chancen auf ein Visum haben. Die endgültige Einschreibefrist (siehe Zulassungsschreiben) liegt in der Regel nur wenige Tage vor Vorlesungsbeginn. Alle erforderlichen Unterlagen, einschließlich des Visums, müssen bis zu diesem Termin per Post an das Studentenbüro geschickt werden.
+Ist es möglich, den Masterstudiengang in Data Science in Teilzeit zu absolvieren oder nebenbei zu arbeiten?
+Der Studiengang ist als Vollzeitstudium konzipiert. Dennoch ist es nicht unmöglich, einer Teilzeitbeschäftigung nachzugehen, insbesondere in Form eines Praktikums im Studienbereich während der Semesterferien. Für den Masterstudiengang Data Science besteht keine verpflichtende Praktikumsanforderung. Wenn Sie sich also entscheiden, nebenbei zu arbeiten, liegt das Zeitmanagement vollständig in Ihrer Verantwortung. Es wird empfohlen, sich nicht zu übernehmen.
+Wie kann ich mich am besten auf das Studium vorbereiten, bevor ich nach Ingolstadt komme?
+Das Beste, was Sie zur Vorbereitung tun können, ist, Ihre Mathematikkenntnisse aus dem Bachelorstudium aufzufrischen. Das Data-Science-Programm an der KU verbindet theoretische Tiefe mit praktischen Anwendungen. Daher sind fundierte Kenntnisse in allen Bereichen der Mathematik aus dem Bachelorstudium unerlässlich. Als Referenz empfehlen wir die Buchreihe
+Foundations of Applied Mathematics
+von Humpherys, Jarvis und Evans (siehe Band 1
+epubs.siam.org/doi/book/10
+. 1137/1.9781611974904, was besonders wichtig ist, aber auch Band 2
+https://epubs.siam.org/doi/book/10.1137/1.9781611976069
+). Der Kurs „Mathematics of Data Science“ im ersten Semester behandelt zentrale Teile von Band 1, aber der Stoff wird zügig durchgenommen. Wenn Sie also nicht bereits zumindest die Grundkonzepte sicher beherrschen, wird Ihnen dringend empfohlen, sich im Vorfeld vorzubereiten.
+Muss ich Deutsch können oder lernen?
+Nein. Der Masterstudiengang Data Science kann vollständig auf Englisch absolviert werden, und Sie sind Teil einer internationalen Gemeinschaft von Studierenden, die sich routinemäßig auf Englisch verständigen. Dennoch empfehlen wir Ihnen, Deutsch zu lernen, um besser in die lokale Kultur einzutauchen, und raten Ihnen dringend, Ihre Deutschkenntnisse zu verbessern, falls Sie einen Einstieg in den deutschen Arbeitsmarkt anstreben. Die Universität bietet kostenlosen Unterricht bis zum Niveau A2 an.
+Ist es möglich, den Masterstudiengang Data Science online oder in einem hybriden Format zu absolvieren?
+Der Studiengang ist als Präsenzstudium konzipiert. Nach Ermessen der einzelnen Dozierenden bestehen möglicherweise sehr begrenzte Möglichkeiten zur Online-Teilnahme, insbesondere zu Beginn des Wintersemesters, wenn Studierende aufgrund von Visaproblemen manchmal verspätet eintreffen. Der erfolgreiche Abschluss des Studiengangs erfordert jedoch eine Vollzeitpräsenz in Ingolstadt. Insbesondere Prüfungen müssen immer persönlich abgelegt werden.
+Ist es möglich, ein Auslandssemester zu absolvieren, und wann sollte ich das tun?
+Wir unterstützen Sie gerne bei der Organisation eines Auslandssemesters. Wenn Sie daran interessiert sind, empfehlen wir, dies im dritten Semester zu tun. Weitere Informationen finden Sie
+hier
+.
+Ein angepasster Studienplan, der Ihnen im dritten Semester volle Flexibilität bei der Wahl von Kursen im Ausland bietet, könnte wie folgt aussehen.
+... zur Unterrichtssprache Englisch
+Die Vorlesungen und Prüfungen werden auf Englisch angeboten. Auf Wunsch bieten wir auch Prüfungen in deutscher Sprache an. Alle Professoren sind deutschsprachig und bereit außerhalb der Vorlesung Sachverhalte auf Deutsch zu erklären.  Die Kommunikation in englischer Sprache ist heutzutage in der Wissenschaft aber auch in der Industrie im Bereich Forschung und Entwicklung – die Tätigkeitsfelder vieler Data Scientists - eine notwendige Fähigkeit. Die KU bietet Kurse zur Verbesserung der (englischen) Sprachkenntnisse an. Weitere Informationen finden Sie hier:
+https://www.ku.de/sprachenzentrum
+Schauen Sie sich gerne die folgenden Videos an, um einen Eindruck davon zu bekommen, dass man für das inhaltliche Verständnis der grundlegenden Vorlesungen in Data Science wirklich keine tiefen Sprachkenntnisse benötigt:
+Prof. Götz Pfander:
+Linear Algebra 1, Systems of linear equations
+Prof. Götz Pfander:
+Linear Algebra 1, Ring theory
+Prof. Nadja Ray:
+Analysis 1, Sequences
+... zur KU Eichstätt-Ingolstadt
+Ist die KU eine private oder eine öffentliche Universität? Sind die hier erworbenen Abschlüsse auch in anderen Ländern anerkannt?
+Die Universität wird zu 85 % vom Freistaat Bayern finanziert, alle Studiengänge folgen den gleichen Regeln wie an jeder anderen bayerischen Universität. Die KU gilt als Privatuniversität, aber die Abschlüsse sind die gleichen wie an einer anderen deutschen Universität und werden auch im Ausland gleichermaßen anerkannt. Der Studiengang Data Science ist international akkreditiert. Außerdem ist das Studium an der KU gebührenfrei.
+Wie wird der chronologische Ablauf sein, wenn ich in Ingolstadt ankomme?
+Bevor Sie nach Ingolstadt reisen, sollten Sie sich rechtzeitig um eine Unterkunft in Ingolstadt (oder Umgebung) kümmern. Das KU International Office
+international@ku.de
+/
+welcome(at)ku.de
+ist Ihnen dabei gerne behilflich. Bitte wenden Sie sich an das KU International Office, wenn Sie weitere praktische Informationen benötigen. Wir haben eine Fachschaft, die Ihnen insbesondere in der Anfangszeit helfen wird. Außerdem bieten wir vor Beginn der regulären Vorlesungen einen Vorkurs an, in dem sich die Studierenden untereinander kennen lernen können.
+Stellt die KU ihren Studenten eine Unterkunft zur Verfügung und wenn ja, wie kann ich mich dafür bewerben?
+Das International Office
+international(at)ku.de
+hilft Ihnen bei der Wohnungssuche und bietet einen Wohnungsservice an, siehe
+https://www.ku.de/fileadmin/1907/Dokumente_Incoming/Download_Incoming/Housing_Guide_New.pdf
+Wir empfehlen Ihnen, sich so früh wie möglich um eine Unterkunft zu kümmern.
+Hat die Universität ein Schwimmbad und ein Fitnessstudio, und ist deren Nutzung kostenlos?
+Es gibt viele verschiedene Sportarten, die Sie an der KU betreiben können, siehe
+https://www.ku.de/unileben/hochschulsport
+Die meisten Sportkurse finden in Eichstätt statt und auch das Fitnessstudio befindet sich dort. Es gibt aber auch bei privaten Anbietern häufig spezielle Angebote für Studierende. Generell haben Schwimmbäder und Fitnessstudios sehr günstige Studentenpreise. Die KU versucht derzeit, ihr kostenloses Sportangebot in Ingolstadt zu erweitern.
+... zum Leben in Ingolstadt
+Könnten Sie mir bitte einen Überblick über die monatlichen Ausgaben, die mich während meines Aufenthalts als Studierender in Ingolstadt erwarten, geben?
+Erste Informationen in dieser Richtung finden Sie
+hier
+.
+Wenn Sie weitere Fragen zu diesem Thema haben, wenden Sie sich bitte an das International Office
+welcome(at)ku.de
+Kann man sich mit Leuten in Ingolstadt in der Regel gut auf Englisch unterhalten?
+Ingolstadt ist eine ziemlich große Stadt mit vielen englischsprachigen Menschen, die z. B. bei Audi arbeiten, und einer internationalen Atmosphäre. Außerdem pendeln viele Ingolstädter zur Arbeit nach München, das sehr kosmopolitisch ist.
+... zu weiteren Themen
+Was kann ich nach dem Abschluss dieses Studiengangs tun? Werde ich einen Job bekommen und wird mir die Universität dabei helfen?
+Im Bereich Data Science ist die Nachfrage auf dem Arbeitsmarkt sehr hoch. Das
+Career Center
+der KU bietet Informationen rund um Praktika und Karriere. Außerdem organisiert es regelmäßig verschiedene Workshops und Vorträge zu Themen wie Bewerbungen, etc.
+Was bedeutet die Zusammenarbeit der Universität mit Audi, Continental und Airbus?
+Diese und zahlreiche andere Unternehmen in der Region schätzen das von uns angebotene Studienprogramm und werden von vielversprechenden Bewerbungen unserer Absolventen profitieren. Um die Unternehmen besser kennenzulernen, können Sie sich bei ihnen für ein Praktikum während Ihres Studiums bewerben.
+Die KU
+Die KU hat zwei Standorte: Eichstätt und Ingolstadt. In Eichstätt sind sieben Fakultäten angesiedelt. In Ingolstadt hat die Wirtschaftswissenschaftliche Fakultät und das MIDS (Institut für Maschinelles Lernen und Data Science) ihren Sitz.
+Dieser Studiengang ist in Ingolstadt beheimatet.
+Studienort
+Der Landkreis Eichstätt und die Stadt Ingolstadt bilden die Mitte Bayerns. Die
+zentrale Lage
+steht auch für die gute Erreichbarkeit der KU. Die Verbindung von historischer Altstadt, moderner Infrastruktur, attraktiven Freizeitmöglichkeiten und sehr viel Grün macht Ingolstadt – die zweitgrößte Stadt Oberbayerns – zu einem idealen Studienort.
+Campus
+Trotz ihrer zentralen Lage in der Großstadt Ingolstadt, zeichnet sich der Campus der WFI durch
+kurze Wege
+aus. Nach dem Prinzip einer Campus-Universität sind die modern ausgestatteten Gebäude der KU in Ingolstadt direkt an der Altstadt gelegen.
+MehrWert
+Das Studium an der KU vermittelt nicht nur Fachwissen, sondern will seinen Studierenden auch echte Zukunftsperspektiven eröffnen. Wir wollen unsere Studierenden dabei unterstützen, ihren ganz persönlichen Weg in ihre Traumzukunft zu finden! Nicht
+„Was will ich werden?“,
+sondern
+„Wer will ich sein?“
+Rankings und Bewertungen
+Rankings und Bewertungen
+Die Studierenden und Alumni der KU haben sie 2026 zum vierten Mal (nach 2021, 2022 und 2024) zur beliebtesten Universität Deutschlands im Ranking des Online-Portals StudyCheck gekürt. Grundlage für das Ranking waren über 87.000 Bewertungen für mehr als 500 Hochschulen und Universitäten. 98 Prozent jener Studierenden, die am Ranking teilnahmen, empfehlen ein Studium an der KU weiter.
+„Es gibt für eine Universität doch kein besseres Lob, wenn fast 100 Prozent der Studierenden und Alumni sagen: Ein Studium an der KU kann ich nur empfehlen! Darum freut uns diese Auszeichnung sehr, weil sie die hohe Zufriedenheit unserer Studierenden ausdrückt“, so KU-Präsidentin Prof. Dr. Gabriele Gien.
+Mehr Ranking Ergebnisse
+Quicklinks
+nach oben
+Homepage der Fakultät
+Fachgruppe
+Mathematisches Institut für Maschinelles Lernen & Data Science

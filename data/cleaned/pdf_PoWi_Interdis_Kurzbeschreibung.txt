@@ -1,0 +1,23 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/PoWi_Interdis_Kurzbeschreibung.pdf
+TITLE: PoWi_Interdis_Kurzbeschreibung.pdf
+SOURCE_FILE: PoWi_Interdis_Kurzbeschreibung.pdf
+------------------------------------------------------------
+
+[Page 1]
+Politikwissenschaft 
+im Interdisziplinären Bachelor- und Masterstudiengang der KU
+Politische 
+Systemlehre und 
+Vergleichende 
+Politikwissenschaft 
+Internationale 
+Politik
+Politische Theorie 
+und 
+Philosophie
+…sowie Studium.Pro, 
+Studium Individuale
+und weitere Fächer
+Das Fach Politikwissenschaft an der KU vermittelt Ihnen umfassendes Wissen und Anwendungskompetenz in 
+verschiedenen Teilbereichen, die Sie flexibel mit individuellen Schwerpunkten studieren können:
+B.A./M.A. Politikwissenschaft

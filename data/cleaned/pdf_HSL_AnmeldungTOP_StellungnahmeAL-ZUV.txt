@@ -1,0 +1,31 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/HSL_AnmeldungTOP_StellungnahmeAL-ZUV.pdf
+TITLE: HSL_AnmeldungTOP_StellungnahmeAL-ZUV.pdf
+SOURCE_FILE: HSL_AnmeldungTOP_StellungnahmeAL-ZUV.pdf
+------------------------------------------------------------
+
+[Page 1]
+Bei einschlägigen Themen muss dieses Formular von der 
+jeweiligen Abteilungsleitung unterzeichnet und zusammen mit 
+der Anmeldung eines TOPs und der vorformulierten 
+Beschlussvorlage an referentin-praesidentin@ku.de gesendet 
+werden. 
+Zustimmung zur Beschlussvorlage 
+Bei Themen, die Personal, Finanzen bzw. Rechtsangelegenheiten betreffen, soll VOR der Anmeldung des Themas bei der 
+Referentin der Präsidentin eine Stellungnahme der entsprechenden Abteilungsleitungen eingeholt werden. Dazu soll das 
+ausgefüllte Formular „Anmeldung eines TOPs“ zusammen mit diesem Formular an die jeweilige Abteilungsleitung geschickt 
+werden. 
+Antragsteller/in: 
+Datum der Sitzung: 
+Thema: 
+Die Leitung der Abteilung Wählen Sie ein Element aus. nimmt die Beschlussvorlage zur 
+Kenntnis. Es wird empfohlen der Beschlussvorlage 
+☐zuzustimmen
+☐nicht zuzustimmen
+Begründung mit der Angabe der Konsequenzen: 
+---------------------------------------------------------------------------------------------------------------------------------------
+von der jeweiligen Abteilungsleitung auszufüllen:
+---------------------------------------------------------------------------------------------------------------------------------------
+von Antragstellenden auszufüllen:
+Signatur der Abteilungsleitung
+bitte wählen
+SIGN

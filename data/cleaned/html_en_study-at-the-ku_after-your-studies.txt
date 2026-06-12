@@ -1,0 +1,11 @@
+SOURCE_URL: https://www.ku.de/en/study-at-the-ku/after-your-studies
+TITLE: After your studies – KU
+SOURCE_FILE: en_study-at-the-ku_after-your-studies.html
+------------------------------------------------------------
+
+KU Alumni network
+Stay in touch even after graduating – with your fellow students, your professors, and the KU!
+Verification and duplicates
+Here you can have your final degree verified or request a duplicate copy of your final degree documents.
+Certificates after graduating
+Here you can request a certificate of enrollment or academic transcript, a certificate of de-registration, a pension certificate, or a fee statement.

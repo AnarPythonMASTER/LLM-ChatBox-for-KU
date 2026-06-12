@@ -1,0 +1,550 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_MA_Soziale_Arbeit.pdf
+TITLE: Studiengangsbeschreibung_MA_Soziale_Arbeit.pdf
+SOURCE_FILE: Studiengangsbeschreibung_MA_Soziale_Arbeit.pdf
+------------------------------------------------------------
+
+[Page 1]
+02/2025_01 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den 
+Masterstudiengang Soziale Arbeit (FH-Studiengang) 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+A. Allgemeine Struktur des Studiengangs .................................................................. 2 
+B. Beschreibung des Studiengangs 
+........................................................................... 3 
+1. Der Studiengang auf den Punkt gebracht 
+........................................................... 3 
+2. Zielgruppe ......................................................................................................... 3 
+C. Studiengangskonzept ........................................................................................... 3 
+1. Struktur des Studiengangs 
+................................................................................. 3 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+........................................................ 3 
+1.2. 
+Qualifikationsziele ........................................................................................ 4 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten .................................................... 4 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder ........................................................ 4 
+2. Aufbau des Studiengangs 
+.................................................................................. 5 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+...................................................... 5 
+2.2. 
+Pflichtbereich 
+.................................................................................................. 5 
+2.3. 
+Wahlpflichtbereich .......................................................................................... 5 
+2.4. 
+Wahlbereich ................................................................................................... 5 
+2.5. 
+Studium.Pro ................................................................................................... 5 
+2.6. 
+Praxisbezug.................................................................................................... 6 
+2.7. 
+Ausgestaltung der Internationalisierung 
+........................................................... 6 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre ...................................................................................................... 7 
+Anlage: 
+........................................................................................................................ 8 
+Idealtypischer Studienverlaufsplan Vollzeitstudiengang 
+................................................. 8 
+Idealtypischer Studienverlaufsplan Teilzeitstudiengang ................................................. 8 
+Diploma Supplement (englisch, deutsch) 
+...................................................................... 9 
+ 
+ 
+ 
+
+[Page 2]
+02/2025_01 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Name des Studiengangs: 
+ 
+Masterstudiengang Soziale Arbeit 
+ 
+Verantwortliche Fakultät: 
+ 
+Fakultät für Soziale Arbeit 
+ 
+Weitere beteiligte Fakultät/en: 
+ 
+ 
+Akademischer Grad: 
+Master of Arts (M.A.) 
+ 
+Studienform: 
+ 
+☒ Vollzeitstudiengang 
+☒ Teilzeitstudiengang 
+☐ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+ 
+☐ grundständig 
+☒ konsekutiv 
+☐ weiterbildend 
+ 
+Wissenschaftliche/Praktische Orientie-
+rung: 
+(nur bei Masterstudiengängen) 
+ 
+☐ eher anwendungsorientiert 
+☒ eher forschungsorientiert 
+Regelstudienzeit: 
+3 Semester (Vollzeit) 
+ 
+5 Semester (Teilzeit) 
+ 
+Studienbeginn: 
+ 
+☒ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-Leis-
+tungspunkte: 
+90 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+☒ Nein 
+☐ Ja, € pro Semester 
+ 
+ 
+ 
+
+[Page 3]
+02/2025_01 
+ 
+ 
+ 
+3 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang auf den Punkt gebracht 
+Der Masterstudiengang Soziale Arbeit ist forschungsorientiert und kombiniert theoreti-
+sche Grundlagen, empirische Methoden und praxisorientierte Ansätze, um die Heraus-
+forderungen der sozialen Arbeit wissenschaftlich fundiert und zukunftsorientiert anzuge-
+hen. Er umfasst zentrale Themen wie die Einbettung sozialarbeiterischer Strategien und 
+Umsetzungskonzepte in den verschiedenen Handlungsfeldern der Sozialwirtschaft, 
+rechtlicher und politischer Entwicklungen und Rahmungen, korrespondierender päda-
+gogischer, psychologischer Ansätze sowie sozial- und innovationsökonomischer Kon-
+zeptionen, auch und gerade mit Blick auf Weiterentwicklungen der digitalen Transfor-
+mation. Orientiert an einem interdisziplinär abgestimmten Kontext von Kern- und Be-
+zugsdisziplinen, der Fundierung auf forschungsethischen Prinzipien und eingebettet in 
+einen Methodenkontext empirischer Sozialwissenschaften erfahren die Studierenden 
+durch unterschiedliche Prüfungsformate wie mündliche Prüfungen, Portfolios, Referate 
+und Studienarbeiten Anleitungen zur Wissensgenerierung zur Stärkung der eigenen 
+Handlungs- und Problemlösungskompetenz. Mit einem Fokus auf kooperativer Wis-
+sensgenerierung, Change Management und empirisch fundierten Theorien bereitet der 
+Studiengang die Studierenden darauf vor, transformative Prozesse in der Sozialwirt-
+schaft aktiv mitzugestalten. 
+ 
+2. Zielgruppe 
+Absolventen/Absolventinnen des Bachelorstudiengangs Soziale Arbeit oder ähnlicher 
+Fachrichtungen mit Interesse an Sozialarbeitswissenschaft, Forschung, Konzeptionsent-
+wicklung. 
+ 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+§ 2 der Prüfungsordnung: 
+ 
+(1) Die Qualifikationsvoraussetzung für den Masterstudiengang Soziale Arbeit wird nach-
+gewiesen durch 
+1. ein abgeschlossenes Hochschulstudium der Sozialen Arbeit oder einer vergleichbaren 
+Fachrichtung an einer deutschen Hochschule oder einen gleichwertigen Abschluss an 
+einer inländischen oder ausländischen Hochschule 
+2. mit der Prüfungsgesamtnote 2,5 oder besser, oder bei Vorliegen einer relativen Note 
+muss die Bewerberin oder der Bewerber zu den 50 % Jahrgangsbesten zählen, und 
+3. den Nachweis von 210 ECTS-Punkten, die im Rahmen des ersten Hochschulab-
+schlusses nach Nr. 1 oder von Modulstudien in der Fachrichtung Soziale Arbeit oder 
+durch andere an einer Hochschule erbrachte Leistungen mit Bezug zur Fachrichtung So-
+ziale Arbeit erworben wurden; über die Anerkennung entscheidet der Prüfungsausschuss 
+auf Antrag. 
+
+[Page 4]
+02/2025_01 
+ 
+ 
+ 
+4 
+ 
+(2) 1Kann ein Nachweis des Abschlusses nach Abs. 1 zum Zeitpunkt der Bewerbung 
+noch nicht erbracht werden, ist eine Übersicht der bisherigen Studien- und Prüfungsleis-
+tungen mit Ausweisung einer vorläufigen Durchschnittsnote vorzulegen. 2Bis zum Nach-
+weis der Gesamtnote des Abschlusses gilt die vorläufige Durchschnittsnote nach Satz 1, 
+wenn zum Zeitpunkt der Bewerbung der Erwerb von mindestens 150 ECTS-Punkten 
+nachgewiesen wird. 
+ 
+(3) Der Nachweis des Abschlusses nach Abs. 1 kann bis zum Ende des ersten Fachse-
+mesters nachgereicht werden, bis dahin erfolgt die Immatrikulation auflösend bedingt. 
+ 
+1.2. 
+Qualifikationsziele 
+• Absolventen/Absolventinnen haben einen Überblick zur aktuellen nationalen und 
+internationalen Forschung und Entwicklung in der Sozialen Arbeit. 
+ 
+• Absolventen/Absolventinnen haben das Wissen und die Fertigkeit, komplexe Lö-
+sungsstrategien für neue Fragestellungen auf der Basis wissenschaftlicher Metho-
+dik, aktueller Professionserkenntnisse und transdisziplinär einbezogener For-
+schungsergebnisse anderer Disziplinen zu entwickeln und zu reflektieren. 
+ 
+• Absolventen/Absolventinnen entwickeln, analysieren und gestalten neue konzep-
+tionelle Wege, soziale Bedarfslagen mit akteurs- und organisationsbezogenen An-
+sätzen anzugehen, die auf empirisch begründeten und praktisch möglichen Vor-
+gehensweisen gründen. 
+ 
+• Absolventen/Absolventinnen haben die Fähigkeit, Konzeptionen zu gestatten und 
+in kollegialen Kontexten selbstständig, zielgruppenorientiert zu realisieren. Sie sind 
+in der Lage, Angehörigen anderer Professionen und der Öffentlichkeit gegenüber 
+die Anliegen Sozialer Arbeit fachgerecht zu kommunizieren. 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Promotion 
+ 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+Wachsende Herausforderungen für die Soziale Arbeit unter Stichworten wie Demogra-
+phie, Migration oder Fragmentierung der Gesellschaft sowie die knappen öffentlichen 
+Kassen zeigen deutlich: Sozialpolitik und Sozialwirtschaft müssen verstärkt die Leistungs-
+fähigkeit und Wirkung ihrer Interventionsprogramme unter Beweis stellen. Spezialis-
+ten/Spezialistinnen, die komplexe Lösungskonzeptionen für komplexe soziale Bedarfsla-
+gen entwickeln, umsetzen und implementieren können, sind künftig immer stärker gefragt 
+- vergleichbar etwa mit guter Projekt- und Organisationsentwicklung in der gewerblichen 
+Wirtschaft. Der Masterstudiengang in Eichstätt zielt genau auf diese Qualifikation. Dem 
+anspruchsvollen Studium stehen gute Berufsaussichten und überdurchschnittliche Ver-
+dienstmöglichkeiten gegenüber. 
+
+[Page 5]
+02/2025_01 
+ 
+ 
+ 
+5 
+Zusätzlich eröffnet der Master den Absolventen/Absolventinnen den Weg zur akademi-
+schen Weiterqualifikation (Promotion). 
+Absolventen/Absolventinnen des Masterstudiengangs Soziale Arbeit können vielfältige 
+Aufgaben und Funktionen übernehmen. 
+• 
+Stabs-/Leitungsfunktion bei großen Trägern oder Verbänden 
+• 
+Strategieabteilung/Produktentwicklung für Anbieter sozialer Dienstleistungen 
+• 
+Kommunale und staatliche Sozialverwaltung 
+• 
+Sozialwissenschaftliche Forschungsinstitute 
+• 
+Politikberatung 
+• 
+Fachhochschule / Universität 
+ 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Das Studium gliedert sich in drei theoretische Studiensemester im Vollzeitstudium bzw. 
+fünf theoretische Studiensemester im Teilzeitstudium. Praktische Studiensemester sind 
+nicht vorgesehen. Dabei werden insgesamt 90 ECTS-Punkte erworben, die sich über 9 
+Module verteilen. 
+ 
+2.2. 
+Pflichtbereich 
+Sämtliche 9 Module des Studiengangs sind Pflichtmodule. 
+1. 
+Gesellschaftlicher Rahmen: Recht und Politik: 10 ECTS-Punkte, 
+2. 
+Empirische Methoden: qualitativ und quantitativ: 10 ECTS-Punkte, 
+3. 
+Empirisch fundierte Theorien: 10 ECTS-Punkte, 
+4. 
+Best Practice/Kooperative Wissensgenerierung: 10 ECTS-Punkte, 
+5. 
+Empirische Forschung in der Sozialwissenschaft und Forschungsethik: 10 
+ECTS-Punkte, 
+6. 
+Digitale Transformation in der Sozialen Arbeit: 5 ECTS-Punkte, 
+7. 
+Innovationsökonomie in der Sozialwirtschaft: 5 ECTS-Punkte, 
+8. 
+Implementierung und Change Management: 10 ECTS-Punkte 
+9. 
+Masterarbeit: 20 ECTS-Punkte 
+ 
+2.3. 
+Wahlpflichtbereich 
+- 
+ 
+2.4. 
+Wahlbereich 
+- 
+ 
+2.5. 
+Studium.Pro 
+- 
+
+[Page 6]
+02/2025_01 
+ 
+ 
+ 
+6 
+ 
+2.6. 
+Praxisbezug 
+Der Masterstudiengang Soziale Arbeit ist als Teil der handlungswissenschaftlichen 
+Grundkonzeption auf die Praxis ausgerichtet. Er versucht, forschungs- und empiriege-
+stützt mittels Konzeptions-, Organisations- und Personalentwicklung die Praxis zu evalu-
+ieren, mit ihr praktische Lösungen für Handlungsprobleme zu eruieren und Lösungsmo-
+delle zu implementieren. Insofern stehen sowohl die zu erlernende Forschungspraxis (em-
+pirische Methoden) als auch praktische Fragen der Verbesserung der Praxis Sozialer Ar-
+beit im Mittelpunkt einer Reihe von Modulen, während andere Module diesen Auftrag 
+durch ihren reflexiven Charakter wahrnehmen, der aber ebenfalls zur Analyse von Praxis 
+dienen soll. 
+ 
+2.7. 
+Ausgestaltung der Internationalisierung 
+Studierende im Master müssen aufgrund der umfangreichen Forschungsdesiderate in-
+nerhalb der Sozialen Arbeit an internationale Theoriebildung anschlussfähig sein und auf 
+empirische Forschungsarbeit in internationalen Forschungszusammenschlüssen zurück-
+greifen können. Das Masterstudium der Sozialen Arbeit integriert internationale Aspekte 
+im Curriculum und ermöglicht Internationalität im Sinne der Studierenden- und Dozieren-
+denmobilität sowie inner- und außereuropäischen wissenschaftlichen Vernetzung. Mo-
+dulübergreifend werden im Masterstudiengang die fachsprachlichen Fremdspra-
+chenkompetenzen der Studierenden durch gezielte und breite Einbeziehung englisch-
+sprachiger Publikationen gefördert. Darüber hinaus wird in forschungspraktischen Übun-
+gen in verschiedenen Modulen die Analyse von englisch- und mehrsprachigem Daten-
+material umgesetzt. Im Sinne der Internationalisierungsstrategie der KU werden wissen-
+schaftliche Zusammenkünfte wie Konferenzen, Symposien, Seminare sowie Forschungs-
+projekte themenabhängig internationalisiert und in den paneuropäischen bzw. globalen 
+Diskurs eingebracht. 
+ 
+
+[Page 7]
+02/2025_01 
+ 
+ 
+ 
+7 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage 
+des Leitbilds für Studium und Lehre 
+ 
+Der Masterstudiengang für Soziale Arbeit (MASA) leistet bezogen auf das Leitbild für Stu-
+dium und Lehre einen sehr guten Beitrag: 
+ 
+a. Diskursive Dimension 
+Der MASA ist in all seinen Veranstaltungen diskursiv angelegt, was sich deutlich an den 
+gewählten Veranstaltungs- und Prüfungsformen zeigt. Es finden so gut wie keine Vorle-
+sungen statt, vielmehr ist durchgängig ein Seminar- oder Übungsstil gefordert. Die klas-
+sischen Prüfungsformen wie z.B. die Klausur treten deutlich zurück hinter Präsentationen, 
+Posterpräsentationen, Referaten, oder Portfolios, die immer ein Element der diskursiven 
+Auseinandersetzung in sich tragen. Dabei ist auch in der Einbindung der in den einzelnen 
+Modulen gegebenen disziplinären Forschungsausrichtung in ein transdisziplinäres „Gan-
+zes“ der Sozialen Arbeit der Diskurs immer mit angelegt. 
+ 
+b. Vernetzungsdimension 
+Soziale Arbeit versteht sich als eine transdisziplinäre Wissenschaft, deren Wesen in der 
+fächerübergreifenden Vernetzung unterschiedlicher Wissensbestände bezogen auf eine 
+praktische Fragestellung besteht. Sie arbeitet schon im Bachelorstudium und noch mehr 
+in der professionellen Weiterführung im Master in diesem Sinne immer vernetzt. Die Qua-
+lifikationsziele, die auf eine Verbesserung der Praxis mittels Konzeptions-, Organisations- 
+und Personalentwicklung zielen, sind ohne vernetztes Denken unmöglich zu erreichen. In 
+den Kernmodulen der Sozialen Arbeit wird die transdisziplinäre Vernetzung realisiert, in-
+dem z.B. konkrete Projekte mit und für die Praxis realisiert werden. 
+ 
+c. Engagement-Dimension 
+Der MASA arbeitet in kleinen Gruppen, wenn immer möglich unter 20 Personen. Auf diese 
+Weise ist ein intensiver persönlicher Austausch mit den Studierenden erreichbar. Im Mo-
+dulprogramm ist eine Reihe von Modulen angesiedelt, die anknüpfend an gesellschaftli-
+che (z.B. politische, ethische) Fragestellungen die Studierenden zur persönlichen Mei-
+nungsbildung herausfordern. Diversitäts- und Inklusionsfragen als Themen moderner So-
+zialer Arbeit gehören hier ebenso dazu wie die Herausforderung nachhaltiger Entwick-
+lung. 
+ 
+d. Persönliche Dimension 
+Soziale Arbeit ist als Handlungswissenschaft immer darauf angelegt, Menschen zu pro-
+fessionellem Handeln zu befähigen. Handeln setzt die handelnde Person voraus, so dass 
+es für jede Ausbildung innerhalb der Sozialen Arbeit selbstverständlich sein muss, nicht 
+bloße Inhalte zu vermitteln, sondern immer die Person zur „handelnden“ Person zu qua-
+lifizieren. Dies geschieht im MASA insbesondere in allen Modulen, in denen die Lehre 
+diskursiv angelegt ist, besonders aber in den praktischen Forschungsmodulen. 
+ 
+ 
+ 
+
+[Page 8]
+02/2025_01 
+ 
+ 
+ 
+8 
+Anlage: 
+Idealtypischer Studienverlaufsplan Vollzeitstudiengang 
+ 
+Se-
+mester 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+MASA 3.2 
+Digitale Transformation in 
+der Sozialen Arbeit 
+(5 ECTS-Punkte) 
+ 
+ 
+MASA 3.3 
+Innovationsökonomie in der 
+Sozialwirtschaft 
+(5 ECTS-Punkte) 
+MASA 5 
+Masterarbeit 
+(20 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+2 
+ 
+ 
+MASA 2.1 
+Empirisch fundierte Theorien 
+(10 ECTS-Punkte) 
+ 
+ 
+MASA 2.2 
+Best Practice / Kooperative 
+Wissensgenerierung 
+(10 ECTS-Punkte) 
+MASA 4 
+Implementierung und 
+Change Management 
+(10 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+1 
+ 
+ 
+MASA 1.1 
+Gesellschaftlicher Rahmen: 
+Recht und Politik 
+(10 ECTS-Punkte) 
+ 
+ 
+MASA 1.2 
+Empirische Methoden: quali-
+tativ und quantitativ (10 
+ECTS-Punkte) 
+MASA 3.1 
+ Empirische Forschung in 
+der Sozialwissenschaft 
+und Forschungsethik 
+ (10 ECTS- Punkte) 
+30 
+ECTS-
+Punkte 
+ 
+Idealtypischer Studienverlaufsplan Teilzeitstudiengang 
+ 
+Se-
+mester 
+ 
+ 
+ 
+ 
+5 
+ 
+MASA 5 
+Masterarbeit 
+(20 ECTS-Punkte) 
+ 
+20 
+ECTS- 
+Punkte 
+4 
+ 
+MASA 4 
+Implementierung und Change Management 
+(10 ECTS-Punkte) 
+ 
+10 
+ECTS-
+PUnkte 
+3 
+ 
+MASA 3.1 
+ Empirische Forschung in 
+der Sozialwissenschaft und 
+Forschungsethik 
+ (10 ECTS- Punkte) 
+ 
+ 
+MASA 3.2 
+Digitale Transformation in der 
+Sozialen Arbeit 
+(5 ECTS-Punkte) 
+ 
+MASA 3.3 
+Innovationsökonomie in 
+der Sozialwirtschaft 
+(5 ECTS-Punkte) 
+20 
+ECTS-
+Punkte 
+
+[Page 9]
+02/2025_01 
+ 
+ 
+ 
+9 
+2 
+ 
+MASA 2.1 
+Empirisch fundierte Theorien 
+(10 ECTS-Punkte) 
+ 
+MASA 2.2 
+Best Practice / Kooperative Wissens-
+generierung 
+(10 ECTS-Punkte) 
+20 
+ECTS-
+Punkte 
+1 
+ 
+MASA 1.1 
+Gesellschaftlicher Rahmen: 
+Recht und Politik 
+(10 ECTS-Punkte) 
+ 
+MASA 1.2 
+Empirische Methoden: qualitativ und 
+quantitativ 
+(10 ECTS-Punkte) 
+20 
+ECTS-
+Punkte 
+ 
+Diploma Supplement (englisch, deutsch) 
+ 
+Siehe Anlage „Diploma Supplement_MASA“

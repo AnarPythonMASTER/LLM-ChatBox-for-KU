@@ -1,0 +1,61 @@
+SOURCE_URL: https://www.ku.de/studium/bewerbung-einschreibung/bewerbungs-und-einschreibeportal-studienservice
+TITLE: Bewerbungs- und Einschreibeportal Studienservice – KU
+SOURCE_FILE: studium_bewerbung-einschreibung_bewerbungs-und-einschreibeportal-studienservice.html
+------------------------------------------------------------
+
+Bewerbungs- und Einschreibeportal Studienservice
+Willkommen im digitalen Studienservice der Katholischen Universität Eichstätt‑Ingolstadt!
+Hier geht's direkt zum Portal studienservice.ku.de
+Ihr persönliches Hochschul‑Portal bietet Ihnen rund um Bewerbung, Immatrikulation und Studienverlauf alles auf einen Klick. Nutzen Sie das Bewerbungs- und Einschreibeportal Studienservice, die zentrale Anlaufstelle für:
+Ihre Bewerbung:
+Bewerbung starten, Unterlagen hochladen, Status verfolgen.
+Ihre Immatrikulation:
+Zugangsdaten anlegen, Einschreibung abschließen, KU‑Card‑Foto hochladen.
+Ihren Studienverlauf:
+Verlauf einsehen, aktuelle Bescheinigungen jederzeit online herunterladen.
+Anleitung zum Aufrufen Ihrer Bescheinigungen und weiterer Funktionen unter studienservice.ku.de
+Aufruf von studienservice.ku.de und Login
+Bitte rufen Sie die Website
+studienservice.ku.de
+auf:
+Am rechten oberen Bildschirmrand finden Sie den Login-Button für Studierende:
+Nachdem Sie auf
+Login für Studierende und Mitarbeitende
+geklickt haben, können Sie sich auf dieser Oberfläche mit Benutzerkennung und Passwort im System anmelden:
+Hinweis nur für Promovierende
+Wechseln Sie Ihre Rolle immer zu Student-/in
+Verwendung des Quicklinks Studienservice
+Nach der erfolgreichen Anmeldung im System können Sie den roten Button
+Studienservice
+verwenden:
+Sie erreichen dann die Registerkarten
+Meine Studiengänge
+,
+Kontaktdaten
+,
+Zahlungen
+und
+Bescheide/Bescheinigungen
+.
+Überblick über die Registerkarten / Online-Anträge
+In der Registerkarte
+Meine Studiengänge
+sehen Sie Ihre aktuellen Studiengänge im rückgemeldeten Semester. Sie können direkt hier online einen Antrag auf Beurlaubung oder einen Antrag auf Exmatrikulation stellen.
+Änderung der Personendaten
+Möchten Sie Personaldaten, wie die Staatsangehörigkeit oder den Nachnamen ändern lassen, klappen Sie die Ansicht auf und stellen Sie online einen Antrag:
+Änderung der Kontaktdaten
+In der Registerkarte
+Kontaktdaten
+haben Sie einen Überblick über ihre hinterlegte E-Mail-Adresse, Telefonnummer und Anschrift. Durch die Verwendung des Stiftes können Sie an den entsprechenden Stellen Änderungen vornehmen:
+Rechnungen und Zahlungen
+In der Registerkarte
+Zahlungen
+können Sie sowohl die Höhe der Semestergebühren (
+Soll
+) als auch den Status Ihrer Zahlung (
+Ist)
+einsehen. Sie können hier online einen Antrag auf Erstattung von Beiträgen (z.B. Guthaben) stellen.
+Bescheide und Bescheinigungen
+Ihre Bescheinigungen (z.B. Studienbescheinigung, Gebührenbescheinigung) können Sie in der Registerkarte
+Bescheide/Bescheinigungen
+aufrufen:

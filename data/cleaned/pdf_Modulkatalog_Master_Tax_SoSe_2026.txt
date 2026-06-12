@@ -1,0 +1,6117 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulkatalog_Master_Tax_SoSe_2026.pdf
+TITLE: Modulkatalog_Master_Tax_SoSe_2026.pdf
+SOURCE_FILE: Modulkatalog_Master_Tax_SoSe_2026.pdf
+------------------------------------------------------------
+
+[Page 1]
+ Modulkatalog Taxation M.Sc.
+WFI
+30. Januar 2026
+Inhaltsverzeichnis
+Advanced Consulting Case
+4
+Advanced Neural Networks
+6
+Algorithmen und Datenstrukturen
+9
+Analytisches Customer Management
+12
+Behavioral Finance
+15
+Business Ethics
+20
+Change Management
+23
+Humane Unternehmensentwicklung und nachhaltige Wirtschaft: Unternemensﬁnanzie-
+rung, Rechnungslegung und Wertsch¨
+opfung
+26
+Data Analytics Challenge
+29
+Database Management
+32
+Digital Business Models and Technologies
+34
+Economic Growth and the Environment
+37
+Erbschaftsteuer und Bewertungsrecht
+40
+Empirical Finance
+42
+Entrepreneurial Networks and Start-up Management
+45
+Europ¨
+aisches und internationales Handels- und Wirtschaftsrecht
+47
+1
+
+[Page 2]
+Innovation and Creativity in Individuals, Teams, and Organizations (Prof. Dr. Shashi Mat-
+ta)
+49
+Innovation und Produktentwicklung im Tourismus: Gegenw¨
+artige Theorie und Praxis am
+Beispiel von Sharing Economy, China Outbound Tourismus, Boutique Hotels und Expe-
+rience Design
+54
+Insolvenzrecht
+57
+Interkulturelles Management
+59
+Kapitalgesellschaftsrecht, Konzernrecht, europ¨
+aisches und internationales Gesellschafts-
+recht
+62
+Kapitalmarktorientierte Rechnungslegung
+65
+Kostenmanagement
+67
+Kostenorientiertes Controlling
+70
+Masterarbeit
+73
+MA-Seminar ”Aktuelle Fragen der Unternehmensbesteuerung“
+75
+Modellierung und Optimierung mit OPL
+77
+Multinationale Unternehmen und ihre Besteuerung
+80
+Production and Operations Analytics (P&OA)
+83
+Projekt im Dienstleistungs- und Innovationsmanagement
+86
+Return on Service Management & Customer Experience
+90
+Retail Management
+94
+Seminar Accounting & Controlling
+98
+Seminar Finance and Banking B
+100
+Seminar Internationales Management
+103
+Service Analytics
+106
+Service Operations
+109
+2
+
+[Page 3]
+Social Innovation I: Basics and Concept Development
+112
+Strukturgestaltungen im Konzern
+115
+Sustainability Reporting
+117
+Sustainable Corporate Finance
+120
+Sustainability and Business Strategy
+123
+Steuerforschung
+126
+Theorien und Strategien des Destinationsmanagements und -marketings
+128
+Transportlogistik
+131
+Umsatzsteuerrecht
+134
+Umwandlungsrecht
+137
+Umwandlungssteuerrecht
+139
+Unternehmensethik
+141
+Wirtschaftliches Pr¨
+ufungswesen
+145
+Workshop Empirical Accounting
+148
+WIRTSCHAFTSSPRACHEN
+151
+Aktuelle Wirtschaftsthemen aus Spanien & Lateinamerica
+151
+Interkulturelle Kommunikation
+153
+La gestion de l’entreprise
+156
+3
+
+[Page 4]
+Advanced Consulting Case
+Modultitel
+Advanced Consulting Case
+Modultitel Englisch
+Advanced Consulting Case
+Modulnummer
+88-021-UF03-S-VL-0408
+Niveau
+Master
+Turnus des Angebots
+WiSe und SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at
+Beteiligte Fachgebiete
+ABWL, Organisation und Personal
+Modulverantwortlich
+Prof. Dr. Max Ringlstetter / Prof. Dr. Andrej Vizjak
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Studenten des Moduls wenden Ihre Kenntnisse des Theorie-/ Praxistransfers bei projektbezogenem
+Umgang mit einer Themenstellung aus der Praxis an.
+• Die Teilnehmer entwickeln F¨
+ahigkeiten, wissenschaftliche Arbeitsmethoden f¨
+ur die ¨
+ubergreifenden
+Zusammenh¨
+ange des betriebswirtschaftlichen Studiums in der Praxis anzuwenden.
+• Ferner k¨
+onnen die Studenten die erlernten Pr¨
+asentationsf¨
+ahigkeiten ¨
+ubertragen und dadurch
+komplexes Fachwissen pr¨
+asentieren.
+• Studenten des Moduls entwickeln zudem ihre Projektmanagementf¨
+ahigkeiten.
+• Nach Abschluss des Moduls erkennen die Studenten zudem Ans¨
+atze sich einer Problemstellung
+aus der Sicht einer Unternehmensberatung zu n¨
+ahern und k¨
+onnen diese unter Ber¨
+ucksichtigung
+wirtschaftsbezogener Rahmenbedingungen bewerten.
+Inhalte und Themen:
+• Auseinandersetzung mit aktuellen betriebswirtschaftlichen Fragestellungen
+• Methoden des Business Research
+• Verst¨
+andnis der Situation und der Herausforderung durch die Entwicklung des notwendigen
+Branchenwissens bzw. Marktverst¨
+andnisses, Analyse von Unternehmensdaten und Erarbeitung
+notwendiger Managementtheorien.
+4
+
+[Page 5]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (SE)(4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Zwischenpr¨
+asentation / Endpr¨
+asentation
+/ Management Summary
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• Kontakt-/Selbststudium in der Vorlesung: 1 ECTS-Punkt(e), entspricht 30 Stunden
+• regelm¨
+aßige und aktive Teilnahme: 1 ECTS-Punkt(e), entspricht 30 Stunden
+• Vor- und Nachbereitung (umfasst Studienleistungen): 1,5 ECTS-Punkt(e), entspricht 45 Stunden
+• Vorbereitung Leistungsnachweis: 1,5 ECTS-Punkt(e), entspricht 45 Stunden
+• Summe: 5 ECTS-Punkte entspricht 150 Stunden
+Modulnote:
+• Leistungsnachweis
+Polyvalenz mit anderen Studieng¨
+angen:
+•
+Bemerkungen: -
+5
+
+[Page 6]
+Advanced Neural Networks
+Modultitel
+Advanced Neural Networks
+Modultitel Englisch
+Advanced Neural Networks
+Modulnummer
+xxxxx
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Master Betriebswirtschaftslehre
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+BWL, insb. Operations Management
+Modulverantwortlich
+Dr. Jan Boeckmann
+Leistungspunkte ECTS-Punkte
+5
+Kompetenzen:
+• entwickeln ein grundlegendes Verst¨
+andnis f¨
+ur Neuronale Netze
+• k¨
+onnen wirtschaftspolitische datengetriebene Problemstellungen mit passenden neuronalen Netz-
+strukturen bearbeiten
+• sind in der Lage neuronale Netze an Fallbeispielen anzuwenden
+• k¨
+onnen die Ergebnisse interpretieren und deren Qualit¨
+at beurteilen
+Inhalte und Themen:
+• Einf¨
+uhrung in Neuronale Netze
+• Fully Connected Linear Layers
+• Regularization
+• Activation Functions
+• Dropout-Layer
+• Convolutional Neural Networks
+• Praktische Anwendungen im ¨
+okonomischen Kontext
+• Implementierung verschiedener Modelle in Python
+6
+
+[Page 7]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundlagen der Mathematik und Statistik
+• Grundlegende Programmierkenntnisse in Python
+• Predictive Analytics
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung und ¨
+Ubung (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens “ausreichend” bewerteter Leistungsnachweis: Projektarbeit und Abschlusspr¨
+asentation
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 56 h = Pr¨
+asenzzeit Kurs
+• 38 h = Vor- und Nachbereitung Kurs
+• 56 h = Projektarbeit und Vorbereitung der Abschlusspr¨
+asentation
+• 150,0 h = Arbeitsaufwand gesamt
+Modulnote:
+• Teambasiertes Gruppenprojekt: Bearbeitung einer Fallstudie und abschließende Pr¨
+asentation der
+Ergebnisse
+Polyvalenz mit anderen Studieng¨
+angen:
+•
+7
+
+[Page 8]
+Bemerkungen: Literatur
+• Aston Zhang, Zachary Lipton, Mu Li & Alexander Smola (): Dive into Deep Learning
+• Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016). Deep learning (Vol. 1, No. 2).
+Cambridge: MIT press.
+Weitere Informationen zur Literatur werden in der Veranstaltung bekannt gegeben.
+Teilnehmerbeschr¨
+ankung: Keine
+8
+
+[Page 9]
+Algorithmen und Datenstrukturen
+Modultitel
+Algorithmen und Datenstrukturen
+Modultitel Englisch
+Algorithms and Data Structures
+Modulnummer
+88-021-MG06-H-0408
+Niveau
+Bachelormodul
+Turnus des Angebots
+SoSe oder Wise
+Geberstudiengang
+B.Sc. Data Science
+Institutionelle Verankerung
+Mathematisch-Geographische Fakult¨
+at
+Beteiligte Fachgebiete
+ABWL, Supply Chain Management und Operations innerhalb
+der WWF, Mathematik, Data Science
+Modulverantwortlich
+Marcel Oliver
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Die Studierenden
+• k¨
+onnen die Funktion von Algorithmen erkl¨
+aren und deren Eigenschaften analysieren.
+• k¨
+onnen einfache Algorithmen entwickeln und in einer Programmiersprache implementieren.
+• ekennen wichtige Algorithmen und Datenstrukturen zum Sortierproblem und Suchen sowie f¨
+ur
+graphbasierte Problemstellungen und k¨
+onnen diese an Beispielen anwenden.
+• k¨
+onnen die Grundlagen objektorientierter Programmierung erl¨
+autern und anwenden.
+• kennen algorithmische Paradigmen und k¨
+onnen diese an Beispielen erl¨
+autern.
+Inhalte und Themen:
+• Eigenschaften von Algorithmen, z. B Efﬁzienz, Komplexit¨
+at, Rekursion
+• Datenstrukturen Array, Liste, Baum und Graph
+• Sortier- und Suchalgorithmen
+• Graph-Algorithmen
+• Grundlagen der objektorientierten Programmierung
+• Algorithmische Paradigmen Prim¨
+arliteratur: Goodrich/Tamassia/Godwasser: Data Structures and
+Algorithms in Python
+9
+
+[Page 10]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundlagen von Informationssystemen, Software Engineering – Programming
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (2 SWS)
+• ¨
+Ubung (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur oder m¨
+undliche Pr¨
+ufung
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 45 h = Pr¨
+asenzzeit Vorlesung und ¨
+Ubung oder Selbststudium
+• 75 h = Vor- und Nachbereitung Vorlesung und ¨
+Ubung
+• 30 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Leistungsnachweis.
+Polyvalenz mit anderen Studieng¨
+angen:
+• MA Betriebswirtschaftslehre
+• Bachelor-Studiengang Digital and Data-Driven Business (D3B)
+• B.Sc. Mathematik
+10
+
+[Page 11]
+Bemerkungen:
+• In Absprache mit dem Dozenten kann als Pr¨
+ufungssprache deutsch gew¨
+ahlt werden
+11
+
+[Page 12]
+Analytisches Customer Management
+Modultitel
+Analytisches Customer Management
+Modultitel Englisch
+Analytisches Customer Management
+Modulnummer
+88-021-MS21-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Absatzwirtschaft und Marketing
+Modulverantwortlich
+Prof. Dr. Joachim B¨
+uschken
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Diese Veranstaltung besch¨
+aftigt sich mit dem Management von Akquisition und Neukunden,
+sowie mit dem Management langfristiger Kundenbindung von proﬁtablen Kunden aus Sicht
+der Unternehmung. Alle zentralen Themen des Kundenmanagements werden vor dem Hinter-
+grund der Maximierung des Wertes der Kundenbasis (”Customer Equity“). Folglich beﬁnden
+sich Kundenakqui-sition, Kundenbindung sowie wertorientierte Kundenmigration im Zentrum
+des Kundenmanagements.
+• Das Ziel dieser Veranstaltung ist daher die Vermittlung der methodischen Konzepte des Kunden-
+managements sowie deren Anwendung auf eine Vielzahl von marktrelevanten Problemen durch
+das Erlernen der notwendigen F¨
+ahigkeiten.
+Inhalte und Themen:
+• Einf¨
+uhrung in das Kundenmanagement
+• Customer Lifetime Value und die Implikationen auf das wertorientierte Kundenmanagement
+• Wertorientierte Kundenakquisition und Neukundenmanagement
+• Der ¨
+okonomische Wert von Kunden
+• Kundenbindung – Voraussetzungen, Implikationen und Instrumente
+• Kundenwertmodellierung, Balance zw. Kundenakquisition und Kundenbindung
+12
+
+[Page 13]
+• Kundenmigration
+• Wechselkosten und Kundenwert – zwei Seiten der gleichen Medaille?
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Zur Erreichung des Modulziels werden zus¨
+atzlich zu der angegebenen Litera-tur Harvard Fall-
+studien bearbeitet. Diese Fallstudien reichen dabei ¨
+uber verschiedene Unternehmen aus verschie-
+denen L¨
+andern, die auf unterschiedlichen M¨
+arkten t¨
+atig sind. Daher nehmen die individuelle
+Bearbei-tung entsprechender Fallstudien bzw. ¨
+Ubungsaufgaben und deren detaillierte, gemeinsa-
+me Diskussion im Kurs breiten Raum ein. Veranstaltungsdauer innerhalb des Moduls, sofern sich
+diese ¨
+uber mehr als ein Semester erstreckt, mit turnusm¨
+aßigem Beginn der oder des jeweiligen
+Veranstaltungs(typs)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur (90 Minuten)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 36 h = Pr¨
+asenzzeit Vorlesung
+• 54 h = Vor- und Nachbereitung Vorlesung und ¨
+Ubung
+• 60 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+13
+
+[Page 14]
+• Klausur (100%)
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen: -
+14
+
+[Page 15]
+Behavioral Finance
+Modultitel
+Behavioral Finance
+Modultitel Englisch
+Behavioral Finance
+Modulnummer
+88-021-WM03-H-0120
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre B.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Juniorprofessor f¨
+ur Digital Finance
+Modulverantwortlich
+Jun.-Prof. Dr. David Streich
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Seit ¨
+uber 50 Jahren dominiert die neoklassische Kapitalmarkttheorie unser Verst¨
+andnis f¨
+ur die
+Abl¨
+aufe an Finanzm¨
+arkten. Sie hat eine Vielzahl von Konzepten und Modellen hervorgebracht
+und basiert ganz wesentlich auf der Annahme eines streng rational handelnden Homo Oeco-
+nomicus. Diese Vorlesung m¨
+ochte Studierenden eine komplement¨
+are verhaltenswissenschaftliche
+Sicht auf die Finanzm¨
+arkte vermitteln. Die hier betrachteten Marktteilnehmer setzen bei der Ent-
+scheidungsﬁndung begrenzt rationale Heuristiken ein und lassen sich von emotionalen Einﬂ¨
+ussen
+lenken.
+• Zun¨
+achst wird den Studierenden ein ¨
+Uberblick ¨
+uber die Standardmodelle der Kapitalmarkttheorie
+gegeben: Erwartungsnutzentheorie, Capital-Asset-Pricing-Model (CAPM), Efﬁcient Market Hypo-
+thesis, und Prinzipal-Agenten-Theorie.
+• Studierenden lernen die theoretischen und empirischen Schw¨
+achen der neoklassischen Finanz-
+markttheorie kennen, bspw. Spekulationsblasen als Anzeichen f¨
+ur wiederkehrende und anhalten-
+de Marktanomalien. Studierenden wird hier insbesondere die Grundlage der Entscheidungsﬁn-
+dung aus Sicht der Behavioral Finance n¨
+ahergebracht: Die Prospect Theory als Alternative zur
+traditionellen Erwartungsnutzentheorie. Studierende werden verstehen, wie zum einen ¨
+uber die
+S-f¨
+ormige Wertfunktion die Einstellung des Marktteilnehmers zum Risiko beschrieben wird, zum
+anderen ¨
+uber die Gewichtungsfunktion objektive Wahrscheinlichkeiten entsprechend subjektiver
+Ansichten transformiert werden.
+• Studierende lernen die kognitiven und emotionalen Heuristiken kennen, die die Komplexit¨
+at der
+Informationsaufnahme und Entscheidungsﬁndung verringern, jedoch den Marktteilnehmern die
+15
+
+[Page 16]
+objektive Sichtweise auf den Kapitalmarkt erschweren.
+• Studierenden wird vermittelt, wie diese begrenzt rationalen Verhaltensweisen die individuellen
+Finanzmarktentscheidungen beeinﬂussen (z.B. familiarity bias und availability bias).
+• Studierende erhalten Einsichten in die verhaltenswissenschaftlichen Grundlagen der Entstehung
+von Aktienkursen, die sich durch ¨
+okonomischen Fundamentalfaktoren nur ungen¨
+ugend erkl¨
+aren
+lassen (z.B. Dow Jones Crash 1987 und Finanzkrise 2008).
+• Studierende lernen ebenfalls begrenzt rationale Verhaltensweisen im Rahmen der Unternehmensf¨
+uhrung
+kennen. Es werden die Treiber f¨
+ur begrenzt rationale Verhaltensweisen, wie z.B. die Selbst¨
+ubersch¨
+atzung
+von Managern, besprochen und ihre Auswirkungen auf die Entwicklung der Gesamtrentabilit¨
+at
+von Unternehmen eingeordnet. Zudem werden Studierende bestimmte unternehmerische Akti-
+vit¨
+aten aus der Sichtweise der Behavioral Finance betrachten und erkennen dadurch, wie stark
+sich psychologische Einﬂ¨
+usse auf Unternehmensentscheidungen auswirken k¨
+onnen. In diesem Zu-
+sammenhang werden auch die praktischen Auswirkungen irrationalen Verhaltens auf die Arbeit
+des Controllers beleuchtet (Behavioral Controlling).
+– Anhand eines praxisorientierten Gastvortrags von Mitarbeitern von PwC erhalten die Stu-
+dierenden dabei auch einen Einblick in Verhaltensmuster und Denkweißen unterschiedlicher
+Stakeholder (Banken, Unternehmer, Eigenkapitalgeber, Arbeitnehmer etc.) im Verlauf unter-
+nehmerischer Krisen, bis hin zur extremsten Krisenform, der Insolvenz. Daran anschließend
+erarbeiten die Studierenden im Rahmen einer Case Study selbst Restrukturierungspotenziale
+f¨
+ur ein in die Krise geratenes Unternehmen.
+• Studierende lernen die neue Forschungsrichtung ”Neuro-Finance“ kennen, welche die Zielsetzung
+verfolgt, die Ursachen f¨
+ur begrenzt rationale Verhaltensweisen auf Basis der Hirnforschung zu
+ergr¨
+unden.
+Inhalte und Themen:
+• Grundlagen der neoklassischen Kapitalmarkttheorie
+– Erwartungsnutzentheorie
+– CAPM, Efﬁcient Market Hypothesis, und Prinzipal-Agenten-Theorie
+• Theoretische Grundlagen der Behavioral Finance
+– Prospect Theory
+– Framing, and Mental Accounting
+• Psychologische Grundlagen der Behavioral Finance
+16
+
+[Page 17]
+– Heuristiken und kognitive Verzerrungen
+– Selbst¨
+ubersch¨
+atzung
+• Verhalten von Investoren
+– Implikationen von Heuristiken f¨
+ur Kapitalmarktentscheidungen
+– Implikationen von Selbst¨
+ubersch¨
+atzung f¨
+ur Kapitalmarktentscheidungen
+• Verhaltenswissenschaftliche Erkl¨
+arungen f¨
+ur Finanzmarktanomalien
+• Corporate Finance
+– Verhalten von Managern und Unternehmenslenkern
+– Verhaltensorientiertes Controlling
+– Case Study PwC
+• Neuere Entwicklungen in der Behavioral Finance: Neuro-Finance
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundlegende Kenntnisse in Mikro¨
+okonomie und Finanzm¨
+arkten
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung
+• ¨
+Ubung
+• Case Study
+– Auf der Basis eines Praxisbeispiels werden die Studierenden aufgefordert, aus Sicht eines
+Beratungsunternehmens die verschiedenen Bed¨
+urfnisse der Stakeholder bei der Rettung eines
+in die Krise geratenen Unternehmens gerecht zu werden.
+17
+
+[Page 18]
+– Neben der Erarbeitung fachlicher Inhalte sollen die Studierenden ihre Team- und Organisa-
+tionsf¨
+ahigkeit unter Beweis stellen.
+– Durch den praktischen Aufbau der Fallstudie (Arbeit in PowerPoint und Excel) und der
+Vorstellung der Arbeitsergebnisse gg¨
+u. den verschiedenen Stakeholdern werden zudem die
+Soft Skills der Studierenden gef¨
+ordert.
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur (90 Minuten)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Pr¨
+asenzzeit Vorlesung
+• 30 h = Vor- und Nachbereitung Vorlesung
+• 28 h = Pr¨
+asenzzeit ¨
+Ubung
+• 30 h = Vor- und Nachbereitung ¨
+Ubung (inkl. der Bearbeitung der Fallstudie)
+• 30 h = Pr¨
+ufungsvorbereitung
+• 146 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Betriebswirtschaftslehre M.Sc.
+• Business & Psychology M.Sc.
+• Taxation M.Sc.
+Bemerkungen:
+• Main readings:
+– Ackert, Lucy F. und Richard Deaves (2010). Behavioral Finance Psychology, Decision-Making,
+and Markets. Cengage Learning.
+18
+
+[Page 19]
+• Weitere Literatur
+– Burton, Edwin und Sunit Shah (2013). Behavioral Finance: Understanding the Social, Co-
+gnitive, and Economic Debates. Wiley.
+– Daxhammer, Rolf J. und M´
+at´
+e Facsar (2012). Behavioral Finance. UVK Verlagsgesellschaft
+mbH. (auf Deutsch)
+19
+
+[Page 20]
+Business Ethics
+Modultitel
+Business Ethics
+Modultitel Englisch
+Business Ethics
+Modulnummer
+88-021-CO04-H-0120.20221.001
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Business Ethik, insb. Corporate Governance
+Modulverantwortlich
+Prof. Dr. Kai Sandner
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Vertiefung des Verst¨
+andnisses der ethischen Dimension in der Betriebswirtschaftslehre sowie der
+Grundlagen der Wissenschaftstheorie
+• Kritische Reﬂektion von und Auseinandersetzung mit Normen und Werten in betriebswirtschaft-
+lichen Fragestellungen und Inhalten
+• ¨
+Uberblick ¨
+uber und Bewertung von verbreiteten Ans¨
+atzen der Unternehmensethik
+• Anwendung der analytischen Unternehmensethik auf ausgew¨
+ahlte Funktionen und Bereiche in
+Unternehmen
+Inhalte und Themen:
+• Stellung der Unternehmensethik zur Betriebswirtschaftslehre – eine Teildisziplin von Ethik und
+Betriebswirtschaftslehre?
+– Allgemeine Grundlagen unternehmensethischer Analyse
+– Wissenschaftsverst¨
+andnis in der Betriebswirtschaftslehre
+– Analyse des Verh¨
+altnisses zwischen Ethik und Betriebswirtschaftslehre
+– Notwendigkeit der expliziten Einbeziehung unternehmensethischer Fragestellungen und Kon-
+zepte in die Betriebswirtschaftslehre
+• Grundlagen der Unternehmensethik
+20
+
+[Page 21]
+– Empirische Erkenntnisse zur Verankerung von Normen und Werthaltungen
+– Philosophische Konzepte zur Begr¨
+undung von Normen und Werten
+• ¨
+Uberblick ¨
+uber wichtige unternehmensethische Ans¨
+atze
+• Konzept der analytischen Unternehmensethik und ausgew¨
+ahlte Anwendungsfelder in Unterneh-
+men
+– Untersuchungszwecke und -felder der analytischen Unternehmensethik
+– Ethische Analyse der Corporate Governance
+– Ethische Analyse im F¨
+uhrungssystem von Unternehmungen
+– Ethische Fragestellungen im betrieblichen Leistungssystem
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL) (2 SWS)
+• Kontrollfragen und Diskussionen
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: [Klausur]
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Pr¨
+asenzzeit Vorlesung
+• 72 h = Vor- und Nachbereitung Vorlesung inkl. Literaturrecherche
+21
+
+[Page 22]
+• 50 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur 100 %
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation (M.Sc.)
+• Business and Psychology (M.Sc.)
+Bemerkungen:
+• Keine
+22
+
+[Page 23]
+Change Management
+Modultitel
+Change Management
+Modultitel Englisch
+Change Management
+Modulnummer
+88-021-UF04-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Organisation und Personal
+Modulverantwortlich
+Prof. Dr. Max Ringlstetter
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Studenten des Kurses k¨
+onnen die grundlegenden Theorien zu Change-Management bewerten (u.a.
+Barrieren und Erfolgsfaktoren eines Change-Management Prozesses)
+• Studenten k¨
+onnen dar¨
+uber hinaus praxisrelevante Methoden zur Initiierung und Umsetzung von
+Change-Management Prozessen anwenden
+• Ferner k¨
+onnen die Studenten strukturierte Probleml¨
+osungen zu Praxisbeispielen im Bereich des
+Change-Managements entwickeln
+• Nach Abschluss des Kurses k¨
+onnen die Teilnehmer anhand von theoretischen und praktischen
+Kenntnissen zu Change-Management Prozesse beurteilen
+Inhalte und Themen:
+• Grundlagen zu den Theorien des Change-Managements
+• Erfahrungsberichte aus der Praxis (Change Agent)
+• Methodik aus Beraterpraxis
+• Bearbeiten von Cases
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+23
+
+[Page 24]
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung
+• Vortr¨
+age
+• Diskussionen
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Die Studierenden erarbeiten eine praxisbezogene Fragestellung selbst¨
+andig und pr¨
+asentieren die
+Zwischenergebnisse in regelm¨
+aßigen Arbeitstreffen. Hier werden die Ergebnisse hinsichtlich der
+Inhalte und die Vorgehensweise Struktur bewertet. Die abschließende Projektpr¨
+asentation wird
+nach gleichen Kriterien bewertet.
+• Die Teilung der Pr¨
+ufungsleistung dient dem Erlernen projektarbeitsspeziﬁscher Kompetenzen und
+der Entzerrung der Pr¨
+ufungsbelastung.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 50 h = Pr¨
+asenzzeit Seminar
+• 100 h = Eigenst¨
+andige Ausarbeitung Case Studies
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfolio
+Polyvalenz mit anderen Studieng¨
+angen:
+24
+
+[Page 25]
+• Keine
+Bemerkungen:
+• Teilnehmerbeschr¨
+ankung: max. 25
+25
+
+[Page 26]
+Humane Unternehmensentwicklung und nachhaltige Wirtschaft: Un-
+ternemensﬁnanzierung, Rechnungslegung und Wertsch¨
+opfung
+Modultitel
+Humane Unternehmensentwicklung und nachhaltige Wirt-
+schaft:
+Unternemensﬁnanzierung,
+Rechnungslegung
+und
+Wertsch¨
+opfung
+Modultitel Englisch
+Human Corporate Development and Sustainable Economy:
+Corporate Finance, Financial Reporting and Value Creation
+Modulnummer
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe und SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+B¨
+urgerliches Recht, deutsches und internationales Handels-
+und Wirtschaftsrecht
+Modulverantwortlich
+Prof. Dr. iur. Claus Luttermann
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Absolventen erforschen, analysieren, erkennen, bewerten nachhaltig: Sie vertiefen f¨
+ur
+Master und Beruf wissenschaftliches Arbeiten mit Grundlagen und Methoden anhand konkreter, pra-
+xisrelevanter Themen im Gesamtkontext. Sie entwickeln damit eigenverantwortlich in selbstst¨
+andigen
+Kommunikationsebenen/-handlungen kritisches, ganzheitliches Verst¨
+andis f¨
+ur Problemlagen, reﬂektiert
+begr¨
+undete Hypothesen, Alternativen und L¨
+osungen sowie Chancen ihrer beruﬂ. Gegenwart und Zu-
+kunft.
+Inhalte und Themen: Perspektiven nachhaltiger Wirtschaft und Wertsch¨
+opfung durch menschliche
+Unternehmen (Human Corporation): Es geht um Unternehmensﬁnanzierunge, Rechnungslegung und
+Abschlusspr¨
+ufung, Steuerrecht und Unternehmensbewertung, die Verfassung der Freiheit f¨
+ur nachhal-
+tige Gesch¨
+aftsaktivit¨
+aten (Investiotionen) verantwortlicher Unternehmensf¨
+urher/-innen.
+Globale Umbr¨
+uche wie Klimawandel und Technologie (Gentechnik, Quantenphysik, KI) werden zahl-
+reiche (Rechts-)Fragen auf. Sie ¨
+offnen M¨
+oglichkeiten, die Welt f¨
+ur Menschen, Wirtschaft und Umwelt zu
+gestalten. Zum Generalthema ”Humane Unternehmensentwicklung und nachhaltige Wirtschaft: Unter-
+nemensﬁnanzierung, Rechnungslegung und Wertsch¨
+opfung”werden f¨
+ur Unternehmen relevante Semi-
+nararbeiten angeboten.
+26
+
+[Page 27]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Reales Interesse und Engagement
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch/ggf. Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (SE) / ggf. Blockveranstaltung
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Seminararbeit (75%, ca. 10 Seiten)
+mit Pr¨
+asentation und Diskussion (25%). Nach Absprache auch in Englisch m¨
+oglich.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 15 h = Pr¨
+asenzzeit, Pr¨
+asentation
+• 15 h = Vor- und Nachbereitung Pr¨
+asentation und Pr¨
+asenzteilnahme
+• 120 h = Erforschen und Erstsellen Seminararbeit
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Seminararbeit (75 %)
+• Pr¨
+asentation (25 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+27
+
+[Page 28]
+• Hayek, Die Verfassung der Freiheit, 3. Auﬂ. 1991
+• Luttermann, Human Cooperation for Sustainable Development, 2025
+• Shiller, Finance and the Good Society, 2012
+28
+
+[Page 29]
+Data Analytics Challenge
+Modultitel
+Data Analytics Challenge
+Modultitel Englisch
+Data Analytics Challenge
+Modulnummer
+88-021-MG09-H-0221
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Wirtschaftsinformatik
+Modulverantwortlich
+Prof. Dr. Thomas Setzer
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Studierende
+• k¨
+onnen eigenst¨
+andig Aufgabestellungen im Bereich Business Analytics und Data Mining struktu-
+rieren.
+• sind in der Lage, Vorgehensmodelle zur Datentransformation und zum Erkenntnisgewinn zu kon-
+ﬁgurieren und hierin relevante Phasen zu gestalten und zu bewerten.
+• k¨
+onnen im Team L¨
+osungen zu Daten-wissenschaftlichen Aufgaben erarbeiten und diskutieren.
+• k¨
+onnen Aufgaben mittels einer modernen Daten-wissenschaftlichen Sprache umsetzen und evalu-
+ieren.
+• k¨
+onnen Datenqualit¨
+at und notwendige Datenverarbeitungs- und -transformationsschritte gestal-
+ten und umsetzen.
+• k¨
+onnen erstellten Code sowie erzielte Ergebnisse Theorie-fundiert und kritisch reﬂektieren und
+validieren.
+Inhalte und Themen:
+Dieser Kurs vermittelt das Vorgehen bei der systematischen Gestaltung,
+Implementierung, Evaluation und Adjustierung von L¨
+osungen zu Aufgaben im Bereich Business Ana-
+lytics und Data Mining. Hierf¨
+ur erarbeiten die Studierenden in moderierten Teams Daten-analytische
+Vorgehensmodelle und -methoden beispielsweise f¨
+ur eine im Internet verf¨
+ugbare oder von Praxisorga-
+nisationen gestellte Aufgabe und den hierf¨
+ur bereit gestellten Daten. Die Aufgaben k¨
+onnen dabei auch
+¨
+uber Internet-Plattformen ¨
+offentlich ausgeschriebene Herausforderungen (Challenges) beinhalten.
+Der Kurs beinhaltet dabei folgenden Themen:
+29
+
+[Page 30]
+• Kategorisierung einer Aufgabe im Bereich Business Analytics und Data Science sowie Strukturie-
+rung eines entsprechenden Vorgehensmodells
+• Koordination der Projektarbeit in moderierten Teams
+• Daten-Exploration und -Vorverarbeitung sowie Feature-Engineering
+• Entwicklung und Umsetzung datenanalytischer Verfahren sowie deren Bewertung und kontinu-
+ierliche Verbesserung
+• Konzeption, Anwendung und Interpretation von Evaluations- und Validierungsmethodiken und
+Resultaten
+• Pr¨
+asentation und Diskussion des Vorgehensmodells, der L¨
+osungsgestaltung, der Implementierung
+sowie der erzielten Ergebnisse
+In dem Kurs wird eine moderne Sprache f¨
+ur Aufgaben der Datenverarbeitung und des maschinellen
+Lernens wie Python, R oder Java verwendet.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Fundierte Kenntnisse von Konzepten und Methoden im Bereich Business Analytics und/oder Data
+Science sowie sehr gute Kenntnisse einer Programmiersprache wie R, Java oder Python.
+• Um zu ¨
+uberpr¨
+ufen, ob Sie ¨
+uber die notwendigen Voraussetzungen f¨
+ur den Kurs verf¨
+ugen bitten
+wir Sie die Implementierung einer funktionierenden L¨
+osung, inklusive einer kurzen Beschreibung
+der Ergebnisse vorzunehmen. Daf¨
+ur wird im Vorfeld ein Aufgabe im Bereich der Datenanalyse
+bekanntgegeben.
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Projektarbeit (3 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+30
+
+[Page 31]
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Pr¨
+asentation: Bewertet werden die Pr¨
+asentation des Zwischenstandes sowie die Abschlusspr¨
+asentation,
+in der das Vorgehensmodell, das algorithmische Design, die Implementierung sowie die Zwischen-
+und Endergebnisse vorgestellt und diskutiert werden. (je 30 Minuten)
+• Ausarbeitung:Beschreibung des Vorgehens zur Gestaltung der Daten-analytischen Prozesse und
+den erzielten Erkenntnissen und Ergebnissen, inklusive erstelltem Code, im Stil eines kompakten
+wissenschaftlichen Artikels (Paper). (5-10 Seiten pro Teilnehmer, zzgl. Code)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 15 h = Projekt- und Problemstrukturierung
+• 20 h = Einarbeitung in Methodik und Software/ Programmiersprache/ Modellierungswerkzeuge
+• 60 h = Datenaufbereitung und -analyse, Umsetzung und Test
+• 35 h = Betreute Vor- und Nachbereitung: Pr¨
+asentationen und Live-Demonstration der L¨
+osungsmethodik
+• 20 h = Pr¨
+asenzzeit
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Pr¨
+asentation (40%)
+• Ausarbeitung (60%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+• Teilnahmebeschr¨
+ankung 15
+• Literatur wird in der Veranstaltung bekannt gegeben
+31
+
+[Page 32]
+Database Management
+Modultitel
+Database Management
+Modultitel Englisch
+Database Management
+Modulnummer
+Niveau
+Mastermodul
+Turnus des Angebots
+Sommersemester
+Geberstudiengang
+Master Betriebswirtschaftslehre
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, insb. Wirtschaftsinformatik
+Modulverantwortlich
+Prof. Dr. Thomas Setzer
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Am Ende des Kurses haben die Studierenden ein fundiertes Wissen ¨
+uber die wich-
+tigsten Aspekte des Managements von Daten mit modernen Datenbankmanagementsystemen und -
+technologien erworben. Die Studierenden sind in der Lage, die verschiedenen Datenbanksysteme und
+Paradigmen, von relationalen Datenbanken bis hin zu XML- und NoSQL-Technologien, zu unterschei-
+den und deren Vor- und Nachteile gegen¨
+uberzustellen. Die Studierenden sind in der Lage, konzeptionel-
+le, logische und physische Datenmodellierung zu verstehen und durchzuf¨
+uhren und haben ein solides
+Verst¨
+andnis von SQL erworben. Die Studierenden verstehen auch, wie Datenbankmanagementsysteme
+auf der physischen Ebene funktionieren, z. B. (verteiltes) Transaktionsmanagement und Indexierung.
+Dar¨
+uber hinaus verstehen sie, wie auf Daten von außen in Programmen mittels Application Program-
+ming Interfaces (API) zugegriffen wird. Sie verstehen die Managementaspekte, die bei der Arbeit mit
+Daten relevant sind, z. B. Datenintegration oder Qualit¨
+ats- und Governance-Aspekte, und erhalten ein
+klares Bild, wie das Konzept des Datenmanagements und entsprechender Systeme Data Science- und
+Analytics-Projekte erm¨
+oglicht und f¨
+ordert. Durch Tutorien mit konzeptionellen, technischen, algorith-
+mischen und hands-on Programmieranteilen sowie durch eine Kurs-begleitende realistische Fallstudie
+k¨
+onnen die Studierenden ihr Wissen und ihre F¨
+ahigkeiten im Bereich des Datenmanagements anwenden
+und Transferleistungen erbringen.
+Inhalte und Themen:
+• Datenbank-Management-Systeme und -Architekturen
+• Konzeptionelle und logische Datenmodellierung
+• Typen von Datenbanken
+32
+
+[Page 33]
+• Relationale Datenbanken und SQL
+• XML-basierte Datenbanken
+• NoSQL-Technologien
+• Komplexe Abfragen und Aggregation (z. B. mit MapReduce)
+• Physikalische Datenorganisation und -speicherung
+• Verteilte Daten und Transaktionsmanagement
+• Datenzugriff und Application Programming Interfaces (APIs)
+• Data Science- und Analytics-Umgebungen
+Formale Voraussetzungen f¨
+ur die Teilnahme: keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundlagen von Informationssystemen
+• Grundlegende Programmierkenntnisse
+Lehr- und Pr¨
+ufungssprache: Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen: Vorlesung (VL) (2 SWS) ¨
+Ubung (UE) (2
+SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten: Mit mindestens ”ausreichend“ bewer-
+teter Leistungsnachweis: Klausur (90 Minuten)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls: 42 h = Pr¨
+asenzzeit
+Vorlesung und ¨
+Ubung 75 h = Vor- und Nachbereitung Vorlesung und ¨
+Ubung 33 h = Pr¨
+ufungsvorbereitung
+150 h = Arbeitsaufwand gesamt
+Modulnote: Klausur (90 Minuten) 100%
+Polyvalenz mit anderen Studieng¨
+angen: Masterstudiengang Data Science
+Bemerkungen:
+33
+
+[Page 34]
+Digital Business Models and Technologies
+Modultitel
+Digital Business Models and Technologies
+Modultitel Englisch
+Digital Business Models and Technologies
+Modulnummer
+88-021-IFM02-H-0317
+Niveau
+Master
+Turnus des Angebots
+Sommersemester
+Geberstudiengang
+Master Betriebswirtschaftslehre
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, insb. Wirtschaftsinformatik
+Modulverantwortlich
+Prof. Dr. Thomas Setzer
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Teilnehmer verstehen die fundamentalen Konzepte digitaler ¨
+Okosysteme und digitaler Transfor-
+mation.
+• Sie haben wirtschaftliches und technisches Wissen um digitale Gesch¨
+aftsmodelle, von E-Commerce
+bis zu Cyber-Physischen Modellen, einzuordnen und zu verstehen, wie und warum sie funktionie-
+ren.
+• Die Studierenden kennen die zentralen Rollen von Informationssystemen, Plattformen, Kunden-
+und Partnernetzwerken, Wertemechanik, sowie insb. die Rolle von Daten in digitalen Gesch¨
+aftsmodellen.
+• Auf Basis ihres theoretischen Verst¨
+andnisses, praxis-orientierten Use-Cases und der Entwicklung
+und Analyse digitaler Gesch¨
+aftsmodelle und zugeh¨
+origer Software-Komponenten k¨
+onnen die Stu-
+dierenden digitale Gesch¨
+aftsmodelle entwickeln, kritisch und aus diversen Blickwinkeln bewerten,
+sowie Anforderungen an Informationssysteme einsch¨
+atzen und digitale Transformationen reﬂek-
+tiert planen und umsetzen.
+• Die Studierenden sind in der Lage, ihr Gesch¨
+aftsmodell zu entwickeln, pr¨
+asentieren und zu de-
+monstrieren.
+Inhalte und Themen:
+Die Veranstaltung vermittelt theoretische und praxis-bezogene Konzepte,
+wie heutige Informationssysteme und Technologien gemeinsam mit fortschrittlicher Algorithmik und
+Datenanalyse neue, disruptive digitale Gesch¨
+aftsmodelle und -systeme erm¨
+oglichen. In Fallbeispielen
+sowie der Entwicklung und Analyse von Software-Komponenten digitaler Gesch¨
+aftsmodelle k¨
+onnen die
+34
+
+[Page 35]
+Studierenden digitale Gesch¨
+aftsmodelle entwickeln, kritisch und aus diversen Blickwinkeln bewerten
+sowie Anforderungen an Informationssysteme einsch¨
+atzen und digitale Transformationen reﬂektiert
+planen und umsetzen. Die Studierenden entwickeln in Teams eigene digitale Gesch¨
+aftsmodelle und
+pr¨
+asentieren diese in unterschiedlichen Stadien w¨
+ahrend des Kurses.
+Die Veranstaltung beinhaltet folgende Themen:
+• Einf¨
+uhrung in grundlegende Konzepte digitaler Transformation und digitaler ¨
+Okosysteme
+• Analyse und Bewertung digitaler Gesch¨
+aftsmodelle
+• Enabler-Technologien f¨
+ur digitale Gesch¨
+aftsmodelle
+• Wertemechanik und die Rolle von Plattformen, Netzwerken, Netzwerkgr¨
+oße und Daten
+• Innovation durch Continuous Engineering und Rapid Experimentation
+• Cyper-physische Gesch¨
+aftsmodelle, Mobilit¨
+at, Internet der Dinge
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL) (2 SWS)
+• ¨
+Ubung (UE) (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• mit mindestens “ausreichend” bewerteter Leistungsnachweis: Portfolio
+• In Teams erarbeiten die Studierenden digitale Gesch¨
+aftsmodelle und entsprechende Prototypen,
+die sie dokumentieren, pr¨
+asentieren und verteidigen.
+35
+
+[Page 36]
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 42 h = Pr¨
+asenzzeit Vorlesung und ¨
+Ubung
+• 63 h = Vor- und Nachbereitung Vorlesung und ¨
+Ubung
+• 45 h = Vorbereitung Pr¨
+asentation und Demonstrator
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Pr¨
+asentation (50 %)
+• Dokumentation (50 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Masterstudiengang Taxation
+• Interdisziplin¨
+arer Master
+Bemerkungen: S¨
+amtliche Pr¨
+ufungsleistungen sind in englischer Sprache zu erbringen. Informatio-
+nen zur Literatur werden in der Veranstaltung bekannt gegeben
+36
+
+[Page 37]
+Economic Growth and the Environment
+Modultitel
+Economic Growth and the Environment
+Modultitel Englisch
+Economic Growth and the Environment
+Modulnummer
+[wird vom Pr¨
+ufungsamt vergeben]
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+M.Sc. Business Administration
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt (WFI)
+Beteiligte Fachgebiete
+VWL, insb. Nachhaltige Wirtschaftspolitik
+Modulverantwortlich
+Prof. Dr. Maria Waldinger
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Nach erfolgreichem Abschluss dieses Kurses:
+• verstehen und wenden die Studierenden makro¨
+okonomische Modelle des Wirtschaftswachstums
+(insbesondere das Solow-Modell) einschließlich Varianten zu Umwelt und Klimawandel an.
+• beherrschen die Studierenden die dynamischen Optimierungstechniken, die grundlegend f¨
+ur die
+L¨
+osung und Analyse struktureller makro¨
+okonomischer Wachstumsmodelle sind.
+• sind die Studierenden in der Lage, Wachstumsmodelle formal, verbal und graphisch darzustellen,
+zu erkl¨
+aren und zu analysieren.
+• k¨
+onnen die Studierenden klima- und umweltpolitische Maßnahmen in makro¨
+okonomischen Wachs-
+tumsmodellen kritisch bewerten.
+• nutzen die Studierenden die im Kurs vermittelten Techniken und Modelle, um ihr Verst¨
+andnis der
+Makro¨
+okonomie zu vertiefen und in ihrem weiteren Studium anzuwenden.
+Inhalte und Themen:
+• Einf¨
+uhrung in Konzepte der Wachstums- und Umwelt¨
+okonomik unter Verwendung makro¨
+okonomischer
+Modellierung.
+• Diskretes Solow-Modell und politische Implikationen f¨
+ur wirtschaftspolitische Entscheidungen.
+• Einf¨
+uhrung in Modelle endogenen Wachstums, Growth Accounting und empirische Fakten des
+Wachstums.
+37
+
+[Page 38]
+• Empirische Fakten ¨
+uber Wachstum und Klimawandel als Grundlage ¨
+okonomischer Modelle.
+• Erweiterung des Solow-Modells zur Analyse von Umwelt- und Klimawandelthemen:
+– Einf¨
+uhrung knapper, begrenzter Ressourcen und Analyse der Implikationen f¨
+ur Wachstumspo-
+litik
+– Integration von Klimaaspekten zur Analyse von Klimawandel, Wachstum und politischen
+Implikationen
+• Literatur zu Innovation und Umwelt/Klimawandel.
+• ¨
+Ubung: Herleitung von Modellen, Analyse politischer Implikationen, Datensammlung und -analyse,
+Lekt¨
+ure und Zusammenfassung ausgew¨
+ahlter empirischer Studien.
+Formale Voraussetzungen f¨
+ur die Teilnahme: Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundlegende wirtschaftswissenschaftliche Konzepte
+• Einf¨
+uhrung in Makro- oder Mikro¨
+okonomie
+• Grundlegende mathematische Konzepte f¨
+ur Wirtschaftswissenschaftler (z. B. Ableitungen von
+Funktionen mit zwei Variablen)
+Lehr- und Pr¨
+ufungssprache: Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL) (2 SWS)
+• ¨
+Ubung (UE) (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 30 h = Pr¨
+asenzzeit Vorlesung
+• 30 h = Pr¨
+asenzzeit ¨
+Ubung
+• 50 h = Vor- und Nachbereitung von Vorlesung und ¨
+Ubung
+38
+
+[Page 39]
+• 40 h = Pr¨
+ufungsvorbereitung
+• 150 h = Gesamtarbeitsaufwand
+Modulnote: Klausur
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business Administration, M.Sc., alle Vertiefungen (Wahlfach)
+• Business & Psychology, M.Sc. (Wahlfach)
+• Taxation, M.Sc. (Wahlfach)
+• Zusatzstudium Nachhaltige Entwicklung
+Bemerkungen: —
+39
+
+[Page 40]
+Erbschaftsteuer und Bewertungsrecht
+Modultitel
+Erbschaftsteuer und Bewertungsrecht
+Modultitel Englisch
+Inheritance Tax and Valuation Law
+Modulnummer
+88-021-TX08-H-0123
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Taxation M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Betriebswirtschaftliche Steuerlehre
+Modulverantwortlich
+Prof. Dr. Reinald Koch
+Leistungspunkte ECTS-Punkte
+2,5 ECTS
+Kompetenzen:
+• Studierende des Moduls lernen grundlegende Vorschriften des Erbschaftsteuergesetzes und des
+Bewertungsgesetzes kennen. Dabei wird ihnen u.a. die F¨
+ahigkeit vermittelt, steuerliche Konse-
+quenzen wirtschaftlichen Handelns zu erkennen und entsprechend zu quantiﬁzieren.
+• Studierende erwerben Techniken zur L¨
+osung von erbschaftsteuerlichen Sachverhalten und deren
+eigenst¨
+andige ¨
+Ubertragung auf neue Sachverhalte. Dabei erlenen sie auch den Umgang mit den
+einschl¨
+agigen Rechtsquellen.
+• Nach Abschluss des Moduls verf¨
+ugen die Studierenden ¨
+uber einen umfassenden ¨
+Uberblick ¨
+uber
+die Vorschriften des Bewertungsrechts und ¨
+uber die Vorgaben zur Ermittlung der Erbschaft- und
+Schenkungssteuer.
+Inhalte und Themen:
+• Grundlagen der Erbschaft- und Schenkungssteuer
+• Grundlagen des Bewertungsrechts
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+40
+
+[Page 41]
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL) (1 SWS)
+• ¨
+Ubung (UE) (1 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur (60 Min.) am Ende des
+Semesters
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Pr¨
+asenzzeit Vorlesung und ¨
+Ubung
+• 28 h = Vor- und Nachbereitung Vorlesung und ¨
+Ubung
+• 19 h = Pr¨
+ufungsvorbereitung
+• 75 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur (100%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Betriebswirtschaftslehre, M.Sc.
+Bemerkungen:
+• Keine
+41
+
+[Page 42]
+Empirical Finance
+Modultitel
+Empirical Finance
+Modultitel Englisch
+Empirical Finance
+Modulnummer
+88-021-FI15-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Finanzierung und Banken
+Modulverantwortlich
+Prof. Dr. Thomas M¨
+ahlmann
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Die Studierenden:
+• lernen durch konkrete Anwendungen ausgew¨
+ahlte ¨
+okonometrische Verfahren kennen.
+• befassen sich intensiv mit den Vor- und Nachteilen verschiedener Regressionsverfahren und Koef-
+ﬁzientensch¨
+atzern.
+• diskutieren die Voraussetzungen zur Anwendung dieser Verfahren und M¨
+oglichkeiten zur Pro-
+bleml¨
+osung.
+• erstellen im Rahmen von ¨
+Ubungen und Fallstudien eigenst¨
+andige Regressionsanalysen f¨
+ur aus-
+gew¨
+ahlte Anwendungsbereiche (bspw. zum Testen von Kapitalmarktmodellen, zur Kapitalkos-
+tensch¨
+atzung und Bewertung von Unternehmen).
+• befassen sich mit der Durchf¨
+uhrung einer empirischen Arbeit auf dem Niveau von anerkannten
+wissenschaftlichen Artikeln inkl. Datenerhebung, Aufbereitung, Auswertung und Interpretation.
+• lernen mit der Datenbank Bloomberg und der Statistiksoftware Stata zu arbeiten.
+• erlernen wissenschaftliches Arbeiten durch die Aufarbeitung von wissenschaftlichen Artikeln aus
+renommierten Zeitschriften.
+Inhalte und Themen:
+• Ausgew¨
+ahlte grundlegende und fortgeschrittene ¨
+okonometrische Verfahren, insb. OLS, FGLS, Pa-
+nelverfahren und Zeitreihenmodelle
+42
+
+[Page 43]
+• Auswahl und Analyse von geeigneten Testverfahren zur Beurteilung der G¨
+ute der Sch¨
+atz- und
+Prognoseergebnisse
+• Anwendung von Regressionsmodellen im Rahmen der Analyse theoretischer Modelle und Sch¨
+atzung
+bzw. Prognose von Parametern f¨
+ur praxisrelevante Problemstellungen
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Die Veranstaltung ist f¨
+ur fortgeschrittene Studierende geeignet. Vorkenntnisse in Programmierung
+sind nicht erforderlich.
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung und ¨
+Ubung (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Bearbeitung von 4 englischsprachigen Mini-Case-Studies in Einzel- oder Zweiergruppen
+• Finales Projekt
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 45 h = Pr¨
+asenzzeit Vorlesung
+• 45 h = Vor- und Nachbereitung Vorlesung
+• 60 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+43
+
+[Page 44]
+• Bearbeitung von 4 englischsprachigen Mini-Case-Studies (40%)
+• Finales Projekt (60%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+• Verbeek, M. (2008): A guide to modern econometrics, 3rd ed., Wiley
+• Wooldridge, J. M. (2009): Introductory econometrics – a modern approach, 4th ed., South-
+Western
+• Copeland, T. E., Weston, F. J., Shastri, K. (2005): Financial theory and corporate policy, 4th ed.,
+Pearson
+• Damodaran, A. (2001): Investment valuation, 2nd ed., Wiley
+• Fama, E. F., MacBeth, J. (1973): Risk, return and equilibrium: Empirical test. Journal of Political
+Economy 81, 607-636
+• Fama, E. F., French, K. (1992): On the cross-section of expected stock returns. Journal of Finance
+47, 427-466
+• Haugen, R. A. (2001): Modern investment theory, 5th ed., Prentice Hall
+• Newey, W. K., West, K. (1987): A simple positive semi-deﬁnite, heteroskedasticity and autocorre-
+lation consistent covariance matrix. Econometrica 55, 703-708
+• White, H. (1980): A heteroskedasticity-consistent covariance matrix estimator and a direct test
+for heteroskedasticity. Econometrica 48, 817-838
+44
+
+[Page 45]
+Entrepreneurial Networks and Start-up Management
+Modultitel
+Entrepreneurial Networks and Start-up Management
+Modultitel Englisch
+Entrepreneurial Networks and Start-up Management
+Modulnummer
+88-021-EPS02-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Chair of Tourism
+Modulverantwortlich
+Prof. Dr. Harald Pechlaner
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Students of the module “Entrepreneurial Networks and Start-up Management” learn about the
+establishment of Networks and the success of networks for Start-ups
+• Students gain the ability to think critically about networks in the context of regional development
+solve income tax related business cases including the application of their knowledge to new cases.
+• Furthermore they learn about attraction points and their special role in creating attractive net-
+works
+• After attending the module students will have gained a comprehensive overview of Entrepreneu-
+rial Networks and Start-up Management in theory and practice
+Inhalte und Themen:
+• Introduction in Entrepreneurship
+• Introduction in Entrepreneurial Networks and Start-up Management
+• Introduction in culture as an enabler for development
+• Research in the importance of Networks for the development of Ingolstadt
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+45
+
+[Page 46]
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung/Seminar (2SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Students present their outcomes from the research
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 50 h = Time of attendance lecture/tutorial
+• 100 h = Preparation of interviews, presentation and portfolio
+• 150 h = Total workload
+Modulnote:
+• Presentation (100%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+• Participation limit 25
+• Literature is provided in the Opening Session.
+46
+
+[Page 47]
+Europ¨
+aisches und internationales Handels- und Wirtschaftsrecht
+Modultitel
+Europ¨
+aisches und internationales Handels- und Wirtschafts-
+recht
+Modultitel Englisch
+European and International Commercial Law and Business
+Law
+Modulnummer
+88-021-WR11-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe und SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+B¨
+urgerliches Recht, deutsches und internationales Handels-
+und Wirtschaftsrecht
+Modulverantwortlich
+Prof. Dr. iur. Claus Luttermann
+Leistungspunkte ECTS-Punkte
+10 ECTS
+Kompetenzen: Die Studierenden erwerben interdisziplin¨
+ar Kenntnisse in Grundlagen und speziﬁ-
+schen Teilbereichen des Europ¨
+aischen und Internationalen Handels- und Wirtschaftsrechts. Die Teil-
+nehmer verf¨
+ugen nach Besuch der Veranstaltung ¨
+uber systematische und methodische Grundlagen der
+wissenschaftlichen Arbeit, Pr¨
+asentation und Diskussion.
+Inhalte und Themen:
+Kritische Er¨
+orterung aktueller Fragestellungen des Europ¨
+aischen und In-
+ternationalen Handels- und Wirtschaftsrechts. Vermittlung wissenschaftlicher Methodik und Forschung
+sowie Pr¨
+asentation.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• (Europ¨
+aisches) Wirtschaftsrecht, Handelsrecht, Bilanzrecht
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch/Englisch
+47
+
+[Page 48]
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (SE) / Kolloquium (KOLL) (Blockveranstaltung)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Seminararbeit und Vortrag mit Dis-
+kussion
+• Zum Seminarthema ist eine schriftliche Seminararbeit im Umfang von etwa 20 Seiten zu erstel-
+len. Das Seminarthema ist in einem 20-min¨
+utigen Vortrag zu pr¨
+asentieren. Die Teilnahme an der
+Diskussion ist Pr¨
+ufungsbestandteil.
+• Wahlweise nach Absprache: Abfassung der Seminararbeit und Pr¨
+asentation in englischer Sprache.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Pr¨
+asenzzeit Seminarveranstaltungen und Pr¨
+asentationen
+• 22 h = Vor- und Nachbereitung Seminarveranstaltungen und Pr¨
+asentationen
+• 250 h = Erstellung der Seminararbeit
+• 300 h = Arbeitsaufwand gesamt
+Modulnote:
+• Schriftliche Seminararbeit (75 %)
+• Vortrag und Diskussion (25 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+• Teilnahmebeschr¨
+ankung: 15
+• DuPlessis/Großfeld/Luttermann et al. German Corporate Governance in European and interna-
+tional Context, 3rd ed. 2017
+48
+
+[Page 49]
+Innovation and Creativity in Individuals, Teams, and Organizations
+(Prof. Dr. Shashi Matta)
+Modultitel
+Innovation and Creativity in Individuals, Teams, and Organi-
+zations (Prof. Dr. Shashi Matta)
+Modultitel Englisch
+Innovation and Creativity in Individuals, Teams, and Organi-
+zations (Prof. Dr. Shashi Matta)
+Modulnummer
+88-021-MC01-H-0620
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Innovation and Creativity
+Modulverantwortlich
+Prof. Dr. Shashi Matta
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+Innovation und Kreativit¨
+at sind die treibende Kr¨
+afte f¨
+ur den Erfolg einer Organisation. Unterneh-
+men, die insbesondere in der letzten Dekade deutliche shareholder-value Zuw¨
+achse verbuchen konnten,
+schafften dies durch eine Kultur, die auf Kreativit¨
+at und Innovation basiert. Durch das erfolgreiche Ma-
+nagement von Innovation und Kreativit¨
+at kann ein nachhaltiger Wettbewerbsvorteil erreicht werden.
+Dieser Kurs befasst sich mit der grundlegenden Frage, wie man Innovation und Kreativit¨
+at in Organi-
+sationen erfolgreich managen und f¨
+ordern kann.
+Als ¨
+ubergeordnete Ziele dieses Kurses sollen Studenten:
+• Die Bedeutung von Innovation in Organisationen verstehen und die Verbindung zu Kreativit¨
+at
+herstellen
+• Die zahlreichen Treiber, Quellen und Innovationstypen erkennen und erlernen
+• Die Rolle der Strategie, der Organisationsstruktur und der Innovationsteams begreifen
+• die Rolle der Digitalisierung im Innovationsprozess zu verstehen
+• Digitale Gesch¨
+aftsmodelle und digitales Unternehmertum identiﬁzieren und innovieren
+• Rahmenbedingungen f¨
+ur das strategische Innovationsmanagement in Organisationen entwickeln
+49
+
+[Page 50]
+• Die Herausforderungen und Barrieren von Innovation erkennen und L¨
+osungen ﬁnden
+• Ein Verst¨
+andnis f¨
+ur Kreativit¨
+at aufbauen (durch Recherche und Frameworks bzgl. Kreativit¨
+at)
+• Pers¨
+onliche- und Managementinstrumente erlenen, die sowohl die individuelle als auch die Team-
+kreativit¨
+at verbessern
+• Die Rolle von Kreativit¨
+at f¨
+ur Innovation und Probleml¨
+osung untersuchen
+• Kreativit¨
+at und Design-Thinking auf ein reales Business-Szenario anwenden
+• Die theoretischen Grundlagen beigebracht bekommen und ein Werkzeugkasten an Management-
+instrumenten erhalten, durch welche Innovation und Kreativit¨
+at gef¨
+ordert, gemanagt und erhal-
+ten werden kann.
+Neben fachlichen Kompetenzen im Bereich Kreativit¨
+at und Innovation erwerben Studenten auch Soft-
+Skills wie beispielsweise Teamf¨
+ahigkeit, Kommunikation sowie die F¨
+ahigkeit, Pr¨
+asentationen in einem
+professionellen Rahmen zu halten. Zudem verbessern Studenten ihre analytischen F¨
+ahigkeiten indem
+w¨
+ahrend des Kurses ver¨
+offentlichte und reale Fallstudien mit Praxisbezug intensiv analysiert und dis-
+kutiert werden. Sie lernen, wie Branchenpraktiken bez¨
+uglich Innovation und Kreativit¨
+at analysiert,
+diskutiert und kritisch hinterfragt werden k¨
+onnen. Da sowohl die Vorlesungen als auch die ¨
+Ubungen
+auf Englisch gehalten werden, erhalten Studenten die M¨
+oglichkeit, ihre Englischkenntnisse in einem
+professionellen Rahmen zu verbessern.
+Inhalte und Themen:
+Teil I: Einf¨
+uhrung in Innovation und Kreativit¨
+at
+• Was ist Innovation? Was ist Kreativit¨
+at?
+• Wie h¨
+angen sie in einem individuellen und organisatorischen Kontext zusammen?
+Teil II: Treiber und Innovationsquellen
+• Organisatorische Faktoren, die Innovation erm¨
+oglichen und f¨
+ordern
+• Wie h¨
+angen Strategie und Innovation zusammen?
+Teil III: Innovationsmanagement in Organisationen
+• Entwicklung eines Innovationsrahmens f¨
+ur Organisationen
+• Hindernisse und Herausforderungen f¨
+ur die Innovation
+Teil IV: Kreativit¨
+at und Probleml¨
+osung
+• Frameworks f¨
+ur Kreativit¨
+at
+• Wie kann die Kreativit¨
+at von Einzelpersonen und Teams gef¨
+ordert werden?
+50
+
+[Page 51]
+Teil V: Kreativit¨
+at und Design Thinking
+• Deﬁnition und Rahmen f¨
+ur Design Thinking
+• Design Thinking anwenden, um gesch¨
+aftliche Probleme zu l¨
+osen
+Teil VI: Innovative und kreative Organisationen
+• Denkweise von Innovatoren und Sch¨
+opfern
+• Typologie der Innovatoren und Sch¨
+opfer
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung
+• ¨
+Ubung (beinhaltet ver¨
+offentlichte sowie reale Fallstudien und ¨
+Ubungen)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Teambasiertes Innovationsprojekt sowie Pr¨
+asentation (50 %)
+– Die Studierenden m¨
+ussen Teams (5-6 Studenten) f¨
+ur das Innovationsprojekt und die dazu-
+geh¨
+orige Pr¨
+asentation bilden. Jedes Team muss als ”Beraterteam“ an einem Innovationspro-
+jekt arbeiten, welches w¨
+ahrend der ersten ¨
+Ubungsstunde bekanntgegeben wird. Dabei wird
+es sich um ein ”live“ Projekt handeln, das von einem namenhaften Unternehmen angebo-
+ten wird. Die studentischen Teams werden 12-Wochen, also ein Semester lang, f¨
+ur dieses
+”angewandte“ Projekt arbeiten, indem Sie s¨
+amtliche Inhalte/Themen darauf anwenden. Die
+studentischen Teams werden in der letzten ¨
+Ubungsstunde ihre Abschlusspr¨
+asentation vor
+Unternehmensf¨
+uhrern halten.
+51
+
+[Page 52]
+• Klausur (50 %)
+– Die Klausur basiert auf allen besprochenen Inhalten im Rahmen der Vorlesung und der
+¨
+Ubung. Die L¨
+ange der Klausur betr¨
+agt 50 Minuten, zus¨
+atzlich gibt es eine Vorbereitungszeit
+von 70 Minuten die direkt vor der Klausur stattﬁndet.
+• Es gibt zwei Pr¨
+ufungselemente: eine Team-Leistung und eine individuelle Leistung. Daf¨
+ur gibt es
+einen wichtigen Grund – die Innovation in Organisationen wird nicht von einer einzelnen Per-
+son durchgef¨
+uhrt. In jeder Organisation ist Innovation eine gemeinsame Aufgabe, die von Teams
+geplant und ausgef¨
+uhrt wird. Es gibt unterschiedliche Dynamiken bei der Erzielung von Innova-
+tion in Teams und der Art und Weise, wie ein Team kreativ arbeiten kann, obwohl die einzelnen
+Mitglieder des Teams unterschiedliche kreative F¨
+ahigkeiten und Begabungen besitzen. Dies zu
+lernen und in der Lage zu sein, dies in einem ”realen”Projekt umzusetzen, ist ein wichtiger und
+unverzichtbarer Bestandteil dieses Moduls. Dar¨
+uber hinaus ben¨
+otigen Studierende f¨
+ur die erfolg-
+reiche Entwicklung und Durchf¨
+uhrung von Innovationsprojekten individuelle Kompetenzen und
+F¨
+ahigkeiten sowie die Kenntnis von Theorien und Rahmenbedingungen, die ebenfalls in diesem
+Modul vermittelt werden. Daher bestehen die Beurteilung in diesem Modul aus zwei Elementen
+- einer Teamleistung und einer individuellen Leistung. Der Titel dieses Moduls macht deutlich,
+dass Innovation und Kreativit¨
+at auf der Ebene des Einzelnen, des Teams und der Organisation
+behandelt werden.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 30 h = Pr¨
+asenzzeit Vorlesung
+• 30 h = Pr¨
+asenzzeit ¨
+Ubung
+• 30 h = Vor- und Nachbereitung Vorlesung
+• 30 h = Vor- und Nachbereitung ¨
+Ubung
+• 30 h = Fallstudie, Projekt und Klausurvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Es gibt zwei benotete Leistungen in diesem Kurs – ein teambasiertes Innovationsprojekt sowie
+eine zugeh¨
+orige Pr¨
+asentation in Zusammenarbeit mit einem Industriepartner (50 %) und einer
+Klausur (50 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+52
+
+[Page 53]
+• Business & Psychology M.Sc.
+• Taxation M.Sc.
+Bemerkungen:
+• Die Pﬂichtlekt¨
+ure f¨
+ur diesen Kurs beinhaltet diverse Artikel/Fallstudien, die von Harvard Business
+Publishing ver¨
+offentlicht wurden.
+• Literatur:
+– Collaborating with Creative Peers (2015). Kimberly D Elsbach, Brooke Brown-Saracino and
+Francis J. Flynn. Harvard Business School Publishing.
+– Design Thinking (HBR Bestseller) (2008). Tim Brown. Harvard Business School Publishing.
+– Find Innovation Where You Least Expect It (2015). Tony McCaffrey and Jim Pearson. Har-
+vard Business School Publishing
+– How Will You Measure Your Life? (HBR Bestseller) (2010). Clayton M. Christensen. Harvard
+Business School Publishing
+– Managing Your Innovation Portfolio (2012). Bansi Nagji and Geoff Tuff. Harvard Business
+School Publishing
+– The Surprising Power of Questions (2018). Alison Wood Brooks and Leslie K. John. Harvard
+Business School Publishing.
+– You Need an Innovation Strategy (2015). Gary P. Pisano. Harvard Business School Publis-
+hing.
+• Simulations
+– The Food Truck Challenge. Harvard Business School.
+– Breaking News. Harvard Business School.
+53
+
+[Page 54]
+Innovation und Produktentwicklung im Tourismus: Gegenw¨
+artige Theo-
+rie und Praxis am Beispiel von Sharing Economy, China Outbound Tou-
+rismus, Boutique Hotels und Experience Design
+Modultitel
+Innovation
+und
+Produktentwicklung
+im
+Tourismus:
+Ge-
+genw¨
+artige Theorie und Praxis am Beispiel von Sharing Eco-
+nomy, China Outbound Tourismus, Boutique Hotels und Ex-
+perience Design
+Modultitel Englisch
+Innovation and product development in tourism: Current
+theory and practice at the example of sharing economy, China
+outbound tourism, boutique hotels and experience design
+Modulnummer
+88-021-BR05-H-0318
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Tourismus und nachhaltige Regionalentwicklung M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Lehrstuhl Tourismus
+Modulverantwortlich
+Prof. Dr. Harald Pechlaner
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Die Teilnehmer des Seminars werden:
+• einen kritischen Umgang mit den grundlegenden Theorien des Innovationsmanagements und der
+Produktentwicklung erlernen;
+• Wissens rund um Experience und Service Design kennen und anwenden lernen;
+• vom anwendungs- und realit¨
+atsnahen sowie aktuellen Zuschnitt der Lehrveranstaltung proﬁtie-
+ren;
+• aktuelle Trends im Tourismus diskutieren und deren Implikationen sowie Handlungsspielr¨
+aume
+besser verstehen;
+• eine vertiefte F¨
+ahigkeit zum autonomen Selbststudium und zur Diskussion mit Dozenten und
+Mitstudierenden entwickeln;
+54
+
+[Page 55]
+• ihre F¨
+ahigkeit der kritischen Reﬂektion betrachteter Themen im Spannungsfeld von Innovation
+und Produktentwicklung st¨
+arken;
+• F¨
+ahigkeiten zur Vorstellung selbstst¨
+andig erarbeiteter Themenbereiche verfeinern.
+Inhalte und Themen:
+• Einf¨
+uhrung in Theorien der Innovation und der Produktentwicklung
+• Instrumente und Methoden des Experience Designs und des Service Designs
+• Grundlagen aktueller Trends und Neuerungen in der Tourismusindustrie (z.B. Sharing Economy,
+China Outbound, innovative Hotelkonzepte)
+• Anwendung des Wissens und der Techniken rund um Produktentwicklung und Innovation auf
+den Bereich der Sharing Economy und andere aktuelle Trends und Themen der Tourismuspraxis
+und -forschung
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mind. ausreichend bewerteter Leistungsnachweis: 70% schriftliche Hausarbeit mit und 30%
+Pr¨
+asentationsleistung
+• Vorbereitung, entsprechendes Selbststudium, Pr¨
+asentation, schriftliche HausSeminararbeit (ent-
+spricht ca. 22.500 Zeichen, ohne Leerzeichen)
+55
+
+[Page 56]
+• Erfordernis einer Hausarbeit zur fundierten theoretischen und empirischen Auseinandersetzung
+mit einer speziﬁschen Themenstellung sowie Erfordernis der Pr¨
+asentation zur ¨
+Uberpr¨
+ufung der
+Kompetenz um F¨
+ahigkeiten zur Vorstellung selbstst¨
+andig erarbeiteter Themenbereiche weiterzu-
+entwickeln.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 60 h = Kontakt-/Selbststudium
+• 15 h = Pr¨
+asenszeit
+• 75 h = Vorbereitung Leistungsnachweis
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Schriftliche Hausarbeit (70 %)
+• Pr¨
+asentationsleistung (30 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Betriebswirtschaftslehre M.Sc.
+• Taxation M.Sc.
+Bemerkungen:
+• Teilnahmebeschr¨
+ankung: 25
+56
+
+[Page 57]
+Insolvenzrecht
+Modultitel
+Insolvenzrecht
+Modultitel Englisch
+Insolvency Law
+Modulnummer
+88-021-WR06-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+B¨
+urgerliches Recht, Zivilprozessrecht und Insolvenzrecht
+Modulverantwortlich
+Prof. Dr. iur. Christian Heinrich
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Studierende des Moduls erlernen einen sachgerechten und kritischen Umgang mit grundlegenden
+Begriffen des Insolvenzrechts.
+• Ziel ist es, ein Verst¨
+andnis f¨
+ur ¨
+ubergreifende Zusammenh¨
+ange im Insolvenzrecht zu entwickeln.
+• Nach Abschluss des Moduls verf¨
+ugen die Studierenden ¨
+uber fundierte Kenntnisse des Insolvenz-
+rechts.
+• Zur Erarbeitung dieser Kompetenzen soll die begleitende ¨
+Ubung wesentlich beitragen.
+Inhalte und Themen:
+• Die Vorlesung vertieft die Grundlagen und Besonderheiten des Insolvenzrechts.
+• Zur sachgerechten Falll¨
+osung wird die ¨
+Ubung beitragen. Die Anwendungen des Erlernten werden
+bei der ¨
+Ubung und einem Pr¨
+ufungstraining gefestigt.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+57
+
+[Page 58]
+• Privatrecht I und II
+• Handels- und Gesellschaftsrecht
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (2 SWS)
+• ¨
+Ubung (2 SWS)
+• Pr¨
+ufungstraining
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur (90 Minuten)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 30 h = Pr¨
+asenzzeit Vorlesung
+• 50 h = Vor- und Nachbereitung Vorlesung
+• 30 h = Pr¨
+asenzzeit ¨
+Ubung
+• 25 h = Vor- und Nachbereitung ¨
+Ubung
+• 15 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen: -
+58
+
+[Page 59]
+Interkulturelles Management
+Modultitel
+Interkulturelles Management
+Modultitel Englisch
+Cross-cultural Management
+Modulnummer
+88-021-IM02-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Master Betriebswirtschaftslehre
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+BWL, insb. Internationales Management
+Modulverantwortlich
+Prof. Dr. Katja Gelbrich
+Leistungspunkte ECTS-Punkte
+5
+Kompetenzen:
+• Im Rahmen der Veranstaltung setzen sich die Studierenden mit den Herausforderungen auseinan-
+der, die eine kultur¨
+ubergreifende Unternehmenst¨
+atigkeit mit sich bringt. Daf¨
+ur lernen sie zun¨
+achst
+eine Reihe von Fallstricken kennen, mit denen international t¨
+atige Manager konfrontiert werden.
+Im Rahmen der Veranstaltung erwerben sie die F¨
+ahigkeit, solche Fallstricke zu umgehen und mit
+der kulturellen Vielfalt einzelner Akteure (Kunden, Manager und Mitarbeitern) umzugehen.
+• Daf¨
+ur
+– werden die Studierenden f¨
+ur die Notwendigkeit sensibilisiert, die Landeskultur als wichtiges
+Merkmal von Wirtschaftssubjekten zu betrachten.
+– entwickeln die Studierenden eine Vorstellung von Begriff und Funktion von “Kultur” und
+lernen zwei einschl¨
+agige Messkonzepte kennen.
+– lernen die Studierenden, wie Manager die speziﬁschen Marketing- und Managementauf-
+gaben bew¨
+altigen k¨
+onnen, um Produkte und Dienstleistungen in unterschiedlichen Kul-
+turr¨
+aumen erfolgreich zu vermarkten.
+• Am Ende des Kurses verstehen die Studierenden, was kulturspeziﬁsches Management ist und wie
+man es in der internationalen Unternehmenspraxis erfolgreich konzipieren und implementieren
+kann. Dazu z¨
+ahlen die erfolgreiche Gestaltung des interkulturellen Kundenbeziehungsmanage-
+ments, die formalen und informellen Organisationsstrukturen multinationaler Unternehmen so-
+wie das interkulturelle Personalmanagement.
+59
+
+[Page 60]
+• Im Rahmen der zugeh¨
+origen ¨
+Ubung wenden die Studierenden das erlernte Vorlesungswissen auf
+einen praxisnahen Fall an. Hierf¨
+ur l¨
+osen sie eigenst¨
+andig und im Team eine Fallstudie aus dem
+Bereich des interkulturellen Managements und pr¨
+asentieren ihre Ergebnisse. Dabei lernen die
+Studierenden, ¨
+uber das in der Vorlesung erlernte Wissen zu reﬂektieren, es zu bewerten und das
+Wissen auszuw¨
+ahlen, welches f¨
+ur die L¨
+osung der Fallstudie wichtig ist. Sie lernen, konkrete, an-
+wendbare Empfehlungen f¨
+ur international t¨
+atige Manager zu geben. Die Arbeit im Team tr¨
+agt
+zu einer Verbesserung der Team- und Konﬂiktl¨
+osungsf¨
+ahigkeit bei. Weiterhin lernen die Studie-
+renden, ihre L¨
+osung gegen¨
+uber alternativen Ans¨
+atzen zu reﬂektieren. Schließlich trainieren und
+verbessern sie ihre Pr¨
+asentationsf¨
+ahigkeiten.
+Inhalte und Themen:
+• Vom internationalen zum interkulturellen Management
+• Deﬁnition und Funktion von Landeskultur
+• Messung von Landeskultur
+• Interkulturelles Kundenbeziehungsmanagement
+• Unternehmens- und Landeskultur
+• Formale Organisationsstrukturen und Landeskultur
+• Informelle Systeme und Landeskultur
+• Interkulturelle Verhandlungen
+• Interkulturelle F¨
+uhrung und Motivation
+• Multikulturelle Teams
+• Interkulturelle Konﬂiktl¨
+osung
+• Auslandsentsendung
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Bachelor-Abschluss in Wirtschaftswissenschaften, Psychologie oder einem verwandten Gebiet
+Lehr- und Pr¨
+ufungssprache:
+60
+
+[Page 61]
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL) (2 SWS)
+• ¨
+Ubung (UE) (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• mit mindestens “ausreichend” bewerteter Leistungsnachweis: Portfolio
+• Unter Anwendung der in Vorlesung erlernten Inhalte erarbeiten die Studierenden in Teams die
+L¨
+osung einer Fallstudie, welche sie in schriftlicher Form ausarbeiten und als Team pr¨
+asentieren.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 21 h = Pr¨
+asenzzeit Vorlesung
+• 21 h = Pr¨
+asenzzeit ¨
+Ubung
+• 108 h = Eigenstudium
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Leistungsnachweis
+Polyvalenz mit anderen Studieng¨
+angen:
+• Masterstudiengang Business and Psychology
+• Masterstudiengang Taxation
+• Masterstudiengang Internationale Beziehungen (MIB)
+Bemerkungen: Informationen zur Literatur werden in der Veranstaltung bekannt gegeben. Teilneh-
+merbeschr¨
+ankung: 45
+61
+
+[Page 62]
+Kapitalgesellschaftsrecht, Konzernrecht, europ¨
+aisches und internatio-
+nales Gesellschaftsrecht
+Modultitel
+Kapitalgesellschaftsrecht, Konzernrecht, europ¨
+aisches und in-
+ternationales Gesellschaftsrecht
+Modultitel Englisch
+German, European and International Law of Corporations and
+Groups
+Modulnummer
+88-021-WR04-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe und WiSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Recht, Wirtschaftswissenschaftliche Fakult¨
+at
+Modulverantwortlich
+Prof. Dr. Claus Luttermann
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Studierende des Kurses erhalten vertiefte Kenntnisse im deutschen Kapitalgesellschaftsrecht unter
+Bezugnahme auf europ¨
+aische und internationale Zusammenh¨
+ange. Konzernrechtliche Verﬂech-
+tungen werden dargestellt. In der integrierten ¨
+Ubung werden die Inhalte methodisch auch fallbe-
+zogen aufgearbeitet.
+Inhalte und Themen:
+• Rechtsgrundlagen mit Praxisbez¨
+ugen jeweils zu:
+– GmbH, AG
+– Konzern
+– Europ¨
+aische Aktiengesellschaft
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+62
+
+[Page 63]
+• Privatrecht I und II
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL) (2 SWS) / ¨
+Ubung (UE) (2 SWS)
+• Selbstgeleitetes Lernen (SGL)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Klausur am Ende des Semesters
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 24 h = Pr¨
+asenzzeit Vorlesung
+• 60 h = Vor- und Nachbereitung Vorlesung
+• 8 h = Pr¨
+asenzzeit ¨
+Ubung
+• 32 h = Vor- und Nachbereitung ¨
+Ubung
+• 26 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur 90 Minuten (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+• Kapitalgesellschaftsrecht, Konzernrecht, europ¨
+aisches und internationales Gesellschaftsrecht (Mo-
+dulbezeichnung)
+Bemerkungen:
+63
+
+[Page 64]
+• Wilhelm, Kapitalgesellschaftsrecht
+• Eisenhardt, Gesellschaftsrecht
+• K. Schmidt, Gesellschaftsrecht
+• DuPlessis/Großfeld/Luttermann et al. German Corporate Governance in European and interna-
+tional Context
+64
+
+[Page 65]
+Kapitalmarktorientierte Rechnungslegung
+Modultitel
+Kapitalmarktorientierte Rechnungslegung
+Modultitel Englisch
+Capital Market-Based Accounting
+Modulnummer
+88-021-AC01-S-VL-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Controlling und Wirtschaftspr¨
+ufung
+Modulverantwortlich
+Prof. Dr. Max G¨
+ottsche
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Studierende erkennen die Ziele und Herausforderungen einer kapitalmarktorientierten Rech-
+nungslegung und k¨
+onnen daraus die abweichenden Anforderungen gegen¨
+uber einer Unterneh-
+mensberichterstattung nach nationalen Rechnungslegungsvorschriften ableiten.
+• Studierende entwickeln ein tiefgreifendes Verst¨
+andnis ¨
+uber ausgew¨
+ahlte IAS/IFRS und k¨
+onnen
+diese auf komplexe Rechnungslegungsf¨
+alle anwenden sowie deren Bilanzwirkung analysieren.
+• Zur Vermittlung dieser Kompetenzen soll die begleitende ¨
+Ubung wesentlich beitragen.
+Inhalte und Themen:
+• Theorie der kapitalmarktorientierten Rechnungslegung
+• Bilanzierung von Sachanlageverm¨
+ogen
+• Abbildung von Differenzen in der handels- und steuerlichen Gewinnermittlung
+• Bilanzielle Erfassung von Immobilien
+• Reformierung der Bilanzierung von Umsatzerl¨
+osen aus Vertr¨
+agen mit Kunden und Leasingverh¨
+altnissen
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+65
+
+[Page 66]
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundlagen der internationalen Rechnungslegung
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung/¨
+Ubung
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur 100% (90 Minuten)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Pr¨
+asenzzeit Vorlesung
+• 23 h = Vor- und Nachbereitung Vorlesung
+• 14 h = Pr¨
+asenzzeit ¨
+Ubung
+• 23 h = Vor- und Nachbereitung ¨
+Ubung
+• 62 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Leistungsnachweis oder bestanden/nicht bestanden: Klausur 100% (90 Minuten)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation: Minor Accounting and Auditing
+Bemerkungen: Keine
+66
+
+[Page 67]
+Kostenmanagement
+Modultitel
+Kostenmanagement
+Modultitel Englisch
+Cost management
+Modulnummer
+88-021-CO01-S-VL-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Unternehmensrechnung
+Modulverantwortlich
+Prof. Dr. mult. Anton Burger
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Studierende lernen die Philosophie, Aufbau und Funktionsweise von Instrumenten
+des Kostenmanagements kennen. Nach erfolgreicher Beendigung des Moduls k¨
+onnen die Studierenden
+die Instrumente des Kostenmanagements beschreiben und in einem praxisnahen Kontext anwenden.
+Dar¨
+uber hinaus wird im Rahmen der Veranstaltung die kritische Reﬂexionsf¨
+ahigkeit entwickelt.
+Inhalte und Themen:
+• Einf¨
+uhrung zum Kosten-Management
+• Aktuelle Anforderungen an ein Kostenmanagement
+• Gestaltungsobjekte des Kosten-Managements
+• Methoden des Kosten-Managements
+• Anpassungen der traditionellen Kostenrechnung (v.a. Logistikkosten, Umweltkosten, Dienstleis-
+tungen)
+• Kostenrechnung und Verhaltenssteuerung
+• Kostenkontrolle f¨
+ur Projekte
+• Life Cycle Costing
+• Target Costing
+• Target Costing und Verhaltenssteuerung
+67
+
+[Page 68]
+• Entwicklungsbegleitende Kostenrechnung
+• Fixkostenmanagement
+• Prozesskostenorientiertes Kostenmanagement
+• Zero-Base Planing
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur (90 Minuten)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 42 h = Pr¨
+asenzzeit Vorlesung
+• 58 h = Vor- und Nachbereitung Vorlesung
+• 50 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur (100 %)
+68
+
+[Page 69]
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+• Burger, Anton: Kostenmanagement, Oldenbourg, 3. Auﬂage, M¨
+unchen, Wien, 1999.
+69
+
+[Page 70]
+Kostenorientiertes Controlling
+Modultitel
+Kostenorientiertes Controlling
+Modultitel Englisch
+Managerial Accounting
+Modulnummer
+88-021-CO04-H-0120.20221.001
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre B.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Unternehmensethik, insb. Corporate Governance
+Modulverantwortlich
+Prof. Dr. Kai Sandner
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Wissensvermittlung an der Schnittstelle von Kostenrechnung und Controlling
+• Verst¨
+andnis f¨
+ur die N¨
+utzlichkeit und Verwendung von Kostenrechnungsinformationen in unter-
+schiedlichen Entscheidungssituationen
+• Erkennen der Bedeutung der Verwendung von Kostenrechnungsinformationen f¨
+ur die Ausgestal-
+tung der Kostenrechnung, beispielsweise in Form von unterschiedlichen Kostenrechnungssystemen
+• F¨
+ahigkeit, eigenst¨
+andig Entscheidungen bei der Entwicklung und Implementierung von Kostenrech-
+nungssystemen in der Unternehmenspraxis zu treffen
+• Verst¨
+andnis der Zusammenh¨
+ange zwischen Entscheidungssituation, Informationsn¨
+utzlichkeit und
+Notwendigkeit bzw. M¨
+oglichkeit zur Verhaltensbeeinﬂussung
+• Daher Verkn¨
+upfung zum Controlling bzw. der internen Steuerung und insbesondere Kenntnisse
+in Bezug auf die ¨
+ubergreifenden Controllinginstrumente Budgetierung, Verrechnungspreise und
+Kennzahlen- und Zielsysteme
+Inhalte und Themen:
+• Controlling als F¨
+uhrungsaufgabe
+• Grundlegende Konzepte (Kostenbegriffe und Teilsysteme der Unternehmensrechnung)
+• Kostenrechnungssysteme in der Unternehmensrechnung
+70
+
+[Page 71]
+• Kostenverl¨
+aufe und Ermittlung von Kostenfunktionen
+• Grenzplankostenrechnung
+• Prozesskostenrechnung
+• Target Costing
+• Standardkostenrechnung- und Abweichungsanalyse
+• Budgetierung
+• Verrechnungspreise
+• Kennzahlen- und Zielsysteme
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundlagen in der Kostenrechnung, insbesondere in der Kostenarten-, Kostenstellen- und der Kos-
+tentr¨
+agerrechnung sowie der Ergebnisrechnung wie beispielsweise im Modul ”Betriebliches Rech-
+nungswesen“ vermittelt.
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL)
+• ¨
+Ubung (UE)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur (90 Minuten)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 22 h = Pr¨
+asenzzeit Vorlesung
+71
+
+[Page 72]
+• 22 h = Pr¨
+asenzzeit ¨
+Ubung
+• 66 h = Vor- und Nachbereitung
+• 40 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur (100%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+• Alle zwei Jahre
+72
+
+[Page 73]
+Masterarbeit
+Modultitel
+Masterarbeit
+Modultitel Englisch
+Master thesis
+Modulnummer
+-
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Betreuender Lehrstuhl der WFI
+Modulverantwortlich
+Betreuer
+Leistungspunkte ECTS-Punkte
+30 ECTS-Punkte
+Kompetenzen:
+• Ziel der Erstellung der Masterarbeit ist, dass sich die Studierenden am Ende ihres Masterstudiums
+in selbstst¨
+andiger Arbeit einen betriebswirtschaftlichen Forschungsinhalt erschließen.
+• Sie sollen in die Lage versetzt werden, eine Forschungsfrage strukturiert zu bearbeiten, unter-
+schiedliche wissenschaftliche Perspektiven miteinander zu verkn¨
+upfen und daraus Handlungsim-
+plikationen abzuleiten.
+Inhalte und Themen:
+Selbstst¨
+andige Bearbeitung eines Themas mit wirtschaftswissenschaftlichem Bezug
+• Formulierung einer Forschungsfrage
+• Recherche und Erarbeitung des Forschungsstandes
+• Bearbeitung der in der Forschungsfrage formulierten Problemstellung
+• Formulierung eines wissenschaftlich begr¨
+undeten Urteils
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Die Ausgabe des Themas der Masterarbeit kann fr¨
+uhstens erfolgen, wenn Pﬂicht- oder erforder-
+liche Wahlpﬂichtmodule des Studiengangs im Umfang von mindestens 40 Prozent der f¨
+ur den
+Studiengang insgesamt erreichbaren ECTS-Punkte erfolgreich absolviert wurden (vgl. APO).
+73
+
+[Page 74]
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch oder Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Eigenst¨
+andiges wissenschaftliches Arbeiten
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 300 h = Recherche
+• 600 h = Erstellung der Arbeit
+• 900 h = Arbeitsaufwand gesamt
+Modulnote:
+• Schriftliche Arbeit (100%)
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen: -
+74
+
+[Page 75]
+MA-Seminar ”Aktuelle Fragen der Unternehmensbesteuerung“
+Modultitel
+MA-Seminar ”Aktuelle Fragen der Unternehmensbesteue-
+rung“
+Modultitel Englisch
+Current Issues in Company Taxation
+Modulnummer
+88-021-TA09-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Betriebswirtschaftliche Steuerlehre
+Modulverantwortlich
+Prof. Dr. Reinald Koch
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Studierende des Kurses erweitern ihre F¨
+ahigkeit, ein steuerliches Thema unter Verwendung wis-
+senschaftlicher Literatur in logischer Struktur und in korrekter Anwendung der Regeln f¨
+ur wis-
+senschaftliches Arbeiten zu bearbeiten.
+• Studierende erweitern ihre F¨
+ahigkeiten, Informationen zu strukturieren, zu bearbeiten, rich-
+tig zu interpretieren, in eigene Worte zu fassen und in schriftlicher und m¨
+undlicher Form zu
+pr¨
+asentieren. Dabei erlernen sie den Umgang mit den einschl¨
+agigen Rechtsquellen, deren Kom-
+mentierungen als auch den entsprechenden Urteilen und Verwaltungsanweisungen sowie diese
+Rechtsvorschriften kritisch einzuordnen sowie betriebswirtschaftliche Methoden zur Beurteilung
+der Wirkung steuerlicher Vorschrift anzuwenden.
+• Nach Abschluss des Seminars sind Studierende in der Lage, die Wirkung steuerlicher Regelungen
+anhand betriebswirtschaftlicher Maßst¨
+abe zu analysieren und mit Blick auf die Steuersystematik
+zu beurteilen.
+Inhalte und Themen:
+Je nach Thema des Seminars
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+75
+
+[Page 76]
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Besuch der Vorlesungen des Lehrstuhls wird empfohlen.
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis:Portfolio
+• Es muss eine schriftliche Seminararbeit erstellt werden sowie das bearbeitete Thema im Rahmen
+einer Pr¨
+asentation vorgestellt werden.
+• Aufgrund der Kompetenzorientierung des Kurses ist die Kombination von einer schriftlichen Arbeit
+mit einem Vortrag zwingend notwendig.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 14 h = Pr¨
+asenzzeit Vorlesung
+• 136 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Seminararbeit (70%)
+• Pr¨
+asentation und Moderation (30%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen: Teilnahmebeschr¨
+ankung: 15
+76
+
+[Page 77]
+Modellierung und Optimierung mit OPL
+Modultitel
+Modellierung und Optimierung mit OPL
+Modultitel Englisch
+Modeling and Optimization with OPL
+Modulnummer
+88-021-SCM02
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Supply Chain Management & Operations innerhalb
+der WWF
+Modulverantwortlich
+Prof. Dr. Heinrich Kuhn
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Die Studierenden
+• lernen reale Problemstellungen, z. B. aus Produktion und Logistik, mittels mathematischer Mo-
+delle abzubilden.
+• k¨
+onnen die mathematischen Modelle eigenst¨
+andig am PC in OPL implementieren.
+• sind in der Lage, die Modelle in IBM ILOG CPLEX Optimization Studio zu l¨
+osen und die Ergebnisse
+zu interpretieren.
+• vertiefen ihre Kenntnisse zu Techniken der linearen und diskreten Modellierung.
+Inhalte und Themen:
+• Grundlagen der linearen Optimierung
+• Einf¨
+uhrung in CPLEX Optimization Studio / OPL
+• Techniken der bin¨
+aren Modellierung
+• Optimierung von Graphenproblemen
+• Probleme mit mehreren Zielfunktionen
+• Einfache Techniken der stochastischen Optimierung
+• OPL-Schnittstellen zu anderen Anwendungen
+77
+
+[Page 78]
+Formale Voraussetzungen f¨
+ur die Teilnahme: Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grunds¨
+atzliches Problemverst¨
+andnis f¨
+ur Entscheidungsprobleme in den betriebswirtschaftlichen
+Funktionsbereichen Produktion und Logistik (z. B. Organisationsprinzipien der Produktion, Pro-
+duktionsprogrammplanung, Ressourceneinsatzplanung, Ablaufplanung, Produktionssteuerung)
+• Theoretische Grundlagen der linearen Optimierung von Vorteil
+Lehr- und Pr¨
+ufungssprache: Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung
+• ¨
+Ubung
+• Projektarbeit
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis des Portfolios bestehend aus:
+– Projektarbeit 40%
+– Pr¨
+asentation der Projektarbeit 10%
+– Klausur 50%
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 24 h = Pr¨
+asenzzeit Vorlesung und ¨
+Ubung
+• 24 h = Vor- und Nachbereitung Vorlesung und ¨
+Ubung
+• 62 h = Anfertigen der Projektarbeit
+• 8 h = Erstellung der Pr¨
+asentation
+• 32 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+78
+
+[Page 79]
+• Der Kurs vermittelt neben dem praktischen Umgang mit einem Software-Tool grundlegende theo-
+retische Konzepte und Inhalte der Modellierung und Optimierung. Diese k¨
+onnen ausschließlich
+im Rahmen einer schriftlichen Klausur abgepr¨
+uft werden. Daher ist aus didaktischen Gr¨
+unden ne-
+ben dem schriftlichen und m¨
+undlichen Bericht ¨
+uber die Projektarbeit auch eine Klausur zwingend
+erforder-lich.
+• Die Projektarbeit dient der Pr¨
+ufung des Verst¨
+andnisses der Model-lierungssprache. Die Klau-
+sur pr¨
+uft das Verst¨
+andnis der in der Ver-anstaltung vermittelten Modellierungstechniken. Beide
+Pr¨
+ufungen sind zwingend erforderlich, um die Gesamtheit der Lernziele abzupr¨
+ufen.
+• F¨
+ur die Projektarbeit (2-5 Seiten, sowie Implementierung) erhalten die Teilnehmer ein zuf¨
+allig
+zugewiesenes umfangreiches ﬁktives Entscheidungsproblem. Zu diesem Problem ist anzufertigen:
+• eine Modellierung des Problems als mathematisches Programm samt Erl¨
+auterung des Programms
+• eine Implementierung des Programms in OPL
+• eine verbale und graphische Aufbereitung der Ergebnisse des Ausgangsproblems
+• Die Bewertung der Projektarbeit erfolgt nachfolgenden Kriterien:
+• Korrektheit der Modellierung und Implementierung, sowie der Ergebnisse (60%)
+• ¨
+Ubersichtlichkeit, Verst¨
+andlichkeit und Efﬁzienz der Implementierung (30%)
+• sprachliche Korrektheit, sauberer Textsatz und ¨
+außere Form der Arbeit (10%)
+• Die Klausur dauert 45 Minuten und es sind 45 Punkte zu erzielen.
+Polyvalenz mit anderen Studieng¨
+angen:
+Bemerkungen: Empfohlene Literatur:
+• Kallrath, J. & Wilson, J. M.: Business Optimization using Mathematical Programming. Macmil-
+lan, Basingstoke, 1997
+• Popp, A.: Modellierung und Optimierung mit OPL, 2. Auﬂage, epubli, 2016
+• Taha, H. A.: Operations Research: an Introduction, 10. Auﬂage, Pearson Prentice Hall, 2017
+79
+
+[Page 80]
+Multinationale Unternehmen und ihre Besteuerung
+Modultitel
+Multinationale Unternehmen und ihre Besteuerung
+Modultitel Englisch
+Multinational Firms and their Taxation
+Modulnummer
+88-021-TX06-H-0719
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+VWL, insb. Finanzwissenschaft
+Modulverantwortlich
+Prof. Dr. Dominika Langenmayr
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Studierende verstehen das Spannungsverh¨
+altnis zwischen Nationalstaaten und multinational
+t¨
+atigen Unternehmen.
+• Sie verf¨
+ugen ¨
+uber ein wissenschaftlich fundiertes, detailliertes und kritisches Verst¨
+andnis der
+¨
+okonomischen Optimierungskalk¨
+ule von multinationalen Unternehmen sowie der Besteuerung
+multinationaler Unternehmen.
+• Studierende k¨
+onnen eigenst¨
+andig volkswirtschaftliche Denkweisen auf steuerliche Themen im in-
+ternationalen Kontext anwenden. Sie k¨
+onnen die gesamtwirtschaftlichen Implikationen von steu-
+erlichen Regelungen einsch¨
+atzen.
+• Sie lernen aktuelle theoretische und empirische wissenschaftliche Forschungsans¨
+atze und -methoden
+kennen und k¨
+onnen neue Forschungsergebnisse eigenst¨
+andig interpretieren und kritisch reﬂektie-
+ren.
+Inhalte und Themen:
+• Wieso gibt es multinationale Unternehmen? Erkl¨
+arungen aus der Außenhandelstheorie
+• Spannungsfeld Nationalstaat – multinationales Unternehmen
+• Staatliche Anreize f¨
+ur ausl¨
+andische Direktinvestitionen
+• Steuerwettbewerb zwischen Staaten
+80
+
+[Page 81]
+• Gewinnverlagerung
+• Maßnahmen gegen Gewinnverlagerung
+• Alternative Steuersysteme
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (2 SWS)
+• ¨
+Ubung (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur (90 Minuten)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 30 h = Pr¨
+asenzzeit Vorlesung
+• 30 h = Vor- und Nachbereitung Vorlesung
+• 30 h = Pr¨
+asenzzeit ¨
+Ubung
+• 30 h = Vor- und Nachbereitung ¨
+Ubung
+• 30 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+81
+
+[Page 82]
+• Klausur (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen: Literatur zu jedem Kapital wird jeweils in der Vorlesung bekannt gegeben
+82
+
+[Page 83]
+Production and Operations Analytics (P&OA)
+Modultitel
+Production and Operations Analytics (P&OA)
+Modultitel Englisch
+Production and Operations Analytics (P&OA)
+Modulnummer
+88-021-SCM01-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe/SoSe (unregelm¨
+aßig)
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Logistics & Operations Analytics
+Modulverantwortlich
+Prof. Dr. Pirmin Fontaine
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Studierende k¨
+onnen ihre Kenntnisse ¨
+uber aktuelle Methoden und Konzepte des Business Analytics
+und Operations Research im Rahmen der Gestaltung und des Betriebs von Produktions- und
+Logistiksystemen anwenden.
+• Sie analysieren relevante quantitative Entscheidungsmodelle und wenden praxisrelevante L¨
+osungsalgorithmen
+auf diese Modelle an.
+• Sie k¨
+onnen Modelle implementieren und mit einem Standard-Solver l¨
+osen.
+• Sie bewerten Alternativen zur Konﬁguration von Produktions- und Logistiksystemen kritisch.
+• Sie erlangen die F¨
+ahigkeit, Planungssysteme in Produktion und Logistik in der betrieblichen Pra-
+xis umzusetzen.
+Inhalte und Themen:
+• Grundfragen der industriellen Produktion, der Logistik und des Operationsmanagements
+• Diskrete und kontinuierliche Standortplanung
+• Konzepte der Produktionsorganisation
+• Leistungsanalyse mit Warteschlangenmodellen
+• Layoutplanung
+83
+
+[Page 84]
+• Analyse und Konﬁguration von Fließproduktionssystemen
+• Analyse und Konﬁguration von Inselproduktionssystemen
+• Analyse und Konﬁguration von Flexiblen Fertigungssystemen
+• Einf¨
+uhrung in IBM ILOG CPLEX Optimization Studio
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundverst¨
+andnis f¨
+ur Entscheidungsprobleme in Produktion und Logistik (z. B. Standort- und Po-
+tentialplanung, Produktionsprogrammplanung, Ressourceneinsatzplanung, Ablaufplanung, Pro-
+duktionssteuerung)
+• Mindestens Grundkenntnisse in Statistik, Wahrscheinlichkeitsrechnung und quantitativen Me-
+thoden
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL)
+• ¨
+Ubung (UE)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Leistungsnachweis durch mindestens ”ausreichend“ bewertete Klausur (90 Minuten)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 32 h Pr¨
+asenzzeit Vorlesung
+• 32 h Vor- und Nachbereitung Vorlesung
+• 32 h Pr¨
+asenzzeit ¨
+Ubung
+84
+
+[Page 85]
+• 32 h Vor- und Nachbereitung ¨
+Ubung
+• 22 h Pr¨
+ufungsvorbereitung
+• 150 h Arbeitsaufwand gesamt
+Modulnote:
+• Klausur (100%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Keine
+Bemerkungen: - Literatur wird u. a. bereitgestellt durch Werke von Askin & Standridge, G¨
+unther &
+Tempelmeier, Heragu, Kuhn, Nahmias & Olsen, Singh & Rajamani, Tempelmeier.
+85
+
+[Page 86]
+Projekt im Dienstleistungs- und Innovationsmanagement
+Modultitel
+Projekt im Dienstleistungs- und Innovationsmanagement
+Modultitel Englisch
+Project in Service and Innovation Management
+Modulnummer
+88-021-MS12.06-H-0520
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Dienstleistungsmanagement
+Modulverantwortlich
+Prof. Dr. Jens Hogreve
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+Diese Veranstaltung gibt den Studierenden einen vertiefenden Einblick in die Konzepte und Prinzipien
+des Managements und Marketing von Dienstleistungen und Innovationen. Dar¨
+uber hinaus erlernen die
+Studierenden praxisbezogene Marktforschung.
+• Die Studierenden erlernen, konzeptionelle und forschungspraktische T¨
+atigkeiten anhand eines f¨
+ur
+die Praxis und Forschung relevanten Problems zu verkn¨
+upfen.
+• Im Rahmen der Durchf¨
+uhrung einer empirischen Forschungsstudie vertiefen die Studierenden ihre
+Kenntnisse bez¨
+uglich der Entwicklung und operativen Durchf¨
+uhrung eines Untersuchungsdesigns.
+• Ein Schwerpunkt liegt hierbei auf realen Marktforschungsprojekten, die in Kooperation mit Part-
+nerunternehmen durchgef¨
+uhrt werden.
+• Zur Erarbeitung dieser Kompetenzen ist die gemeinschaftliche Entscheidungsﬁndung im Team
+und team¨
+ubergreifend eine wesentliche Voraussetzung.
+Inhalte und Themen:
+• Bedingt durch die wechselnden Problemstellungen, Oberthemen und Praxispartner ver¨
+andert sich
+der Inhalte/Themen semesterweise. Das Seminar besteht aber immer aus Impulsvortr¨
+agen zu
+Marktforschungsmethoden und einer empirischen Praxisphase. Das im betreffenden Semester an-
+stehende Oberthema f¨
+ur das Forschungsseminar wird rechtzeitig vor der Anmeldung ¨
+uber die
+Lehrstuhlhomepage kommuniziert. In der Vergangenheit wurde bspw. die Positionierung eines
+86
+
+[Page 87]
+Big-Data Service Providers, die Bereitstellung und Gestaltung von ¨
+offentlichen Dienstleistungen
+oder die Erfolgsmessung einer Versicherung als Beratungsprojekt durchgef¨
+uhrt.
+• Aufgrund von semesterweise wechselnden Projektpartnern und Themenstellungen kann das Pra-
+xisprojekt von Studierenden mehrmals besucht und im Studium angerechnet werden.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Impulsvortr¨
+age zur Einf¨
+uhrung in die Marktforschung
+• Empirisches Praxisprojekt in Gruppenarbeit (Entwicklung der Forschungsfrage, Aufstellung des
+empirischen Erhebungsdesigns, Datenerhebung und -auswertung)
+• Diskussion der (Teil-)Projektergebnisse
+• Pr¨
+asentation der (Teil-)Projektergebnisse
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Abschlussbericht
+– Wir erwarten von den Studierenden, das Vorgehen sowie die wesentlichen Ergebnisse des
+Gesamtprojektes in einer im Kurs besprochenen Form abzufassen. Der Abschlussbericht wird
+dem Praxispartner zur Verf¨
+ugung gestellt.
+• Teilprojekt- und Abschlusspr¨
+asentation
+87
+
+[Page 88]
+– Wir erwarten von den Studierenden, im Rahmen regul¨
+ar stattﬁndender Teilprojektpr¨
+asentationen
+den aktuellen Arbeitsstand ihrer jeweiligen Teilprojekte vorzustellen und in einer Gruppen-
+diskussion kritisch hinterfragen zu lassen. Wesentlich sind in diesem Zusammenhang insbe-
+sondere die Qualit¨
+at und Vollst¨
+andigkeit der erarbeiteten Dokumente sowie das Niveau der
+dargebotenen Pr¨
+asentation.
+– Wir erwarten von den Studierenden, das Vorgehen sowie die wesentlichen Ergebnisse ihres
+jeweiligen Teilprojektes in einer kommentierten Teilprojektpr¨
+asentation abzufassen. Dieser
+Teilprojektbericht dient als Input f¨
+ur alle anderen Teilprojektgruppen und f¨
+ur die kommen-
+tierte Abschlusspr¨
+asentation.
+– Wir erwarten von den Studierenden, im Rahmen einer ﬁnalen Abschlusspr¨
+asentation die
+Ergebnisse ihrer Arbeit einem relevanten Personenkreis vorzustellen und gegen¨
+uber diesem
+zu verteidigen. Wesentlich sind in diesem Zusammenhang insbesondere die Qualit¨
+at und
+Vollst¨
+andigkeit der erarbeiteten Dokumente sowie das Niveau der dargebotenen Pr¨
+asentation.
+• Mitarbeit in der Gruppe
+– Wir erwarten von den Studierenden, sich dauerhaft und engagiert in die konzeptionelle
+Entwicklung, inhaltliche Ausgestaltung und Durchf¨
+uhrung der jeweiligen Teilprojekte ein-
+zubringen. Neben der Qualit¨
+at der geleisteten Arbeit wird dabei besonders Wert auf eine
+kollegiale Zusammenarbeit und eine gleichm¨
+aßige Verteilung der Arbeitslast gelegt.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 45h = Pr¨
+asenzzeit Vorlesung
+• 20h = Desk Research
+• 35h = Vor- und Nachbereitung der Interviews
+• 20h = Durchf¨
+uhrung der Interviews
+• 30h = Verfassen des Abschlussberichts / Projektpr¨
+asentation
+• 150h = Arbeitsaufwand gesamt
+Modulnote:
+• Abschlussbericht (50 %)
+• Teilprojekt- und Abschlusspr¨
+asentationen (30 %)
+• Mitarbeit in der Gruppe (20 %)
+88
+
+[Page 89]
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+Bemerkungen:
+• Teilnehmerbeschr¨
+ankung 20
+89
+
+[Page 90]
+Return on Service Management & Customer Experience
+Modultitel
+Return on Service Management & Customer Experience
+Modultitel Englisch
+Return on Service Management & Customer Experience
+Modulnummer
+88-021-MS20-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Dienstleistungsmanagement
+Modulverantwortlich
+Prof. Dr. Jens Hogreve
+Leistungspunkte ECTS-Punkte
+10 ECTS
+Kompetenzen:
+Der Kurs ”Return on Service Design & Customer Experience“ vertieft die Kenntnisse im Customer Ex-
+perience Management und Service Design und liefert den Transfer dieses Wissens auf eine Planspiel-
+situation. Die Teilnehmer arbeiten in Gruppen und erlernt wird die eigenst¨
+andige Organisation und
+Durchf¨
+uhrung einer Sitzung (sog. ”Sitzungsmoderation“). Lernziele des Kurses sind die Folgenden:
+• Nach dem Absolvieren des Kurses sind Studierende mit den Herausforderungen des strategischen
+Dienstleistungs- und Experience-Managements und den daraus erwachsenden Konsequenzen f¨
+ur
+die Gestaltung von Dienstleistungsinnovationen vertraut.
+• Studierende setzen das im ersten Kursteil angeeignete theoretische Wissen im Planspiel um und
+sind so in der Lage die Performance verschiedener Instrumente im Dienstleistungsbereich zu eva-
+luieren.
+• Zuletzt werden interpersonale F¨
+ahigkeiten durch intensive Diskussion der Vorlesungsinhalte trai-
+niert. Durch die Bearbeitung des Planspiels in Gruppen wird die Teamf¨
+ahigkeit und das Zeitma-
+nagement der Studierenden gest¨
+arkt.
+Inhalte und Themen:
+• Der Kurs “Return on Service Design & Customer Experience” besch¨
+aftigt sich mit der zentralen
+Frage nach der Performance von Investition in Instrumente des Dienstleistungsmanagements, um
+den Erfolg eines Dienstleistungsunternehmens nicht nur kurzfristig, sondern vielmehr langfristig
+und damit nachhaltig sicherzustellen. Beispiele f¨
+ur solche Aspekte sind das Kundenzufrieden-
+heitsmanagement oder die Schaffung eines positiven Dienstleistungsklimas. Auf interaktive Weise
+90
+
+[Page 91]
+vermittelt der Kurs Einblicke, ob und inwiefern Managementaktivit¨
+aten in Dienstleistungsﬁrmen
+die Ertr¨
+age und ﬁnanzielle Situation von Unternehmen verbessern. Der Kurs richtet sich an Stu-
+dierende aller Masterprogramme der WWF.
+• Die Grundlage des Kurses bilden Artikel aus ausgew¨
+ahlten internationalen Zeitschriften. Beson-
+derheit ist, dass ein inhaltlicher Aspekt stets aus einer Management- als auch aus einer theore-
+tischen Perspektive beleuchtet wird. Dies schl¨
+agt sich auch in der Auswahl der Artikel wider. Es
+wird erwartet, dass sich die Studierenden intensiv auf die einzelnen Artikel vorbereiten und in
+der Lage sind die Inhalte kritisch zu diskutieren. Die Auswahl der Artikel wird im Syllabus zum
+jeweiligen Semester bekannt gegeben.
+• Durch die Nutzung eines managementorientierten Planspiels lernen die Kursteilnehmer die Mana-
+gementkonzepte des strategischen Dienstleistungsmanagements kennen und wenden diese unmit-
+telbar auf Problemstellungen der Praxis an. Dabei leiten die Studierenden gemeinsam in Teams
+ein Dienstleistungsunternehmen und stehen im direkten Wettbewerb zu den Unternehmen ih-
+rer Kommilitonen. Als Mitglied der Unternehmensf¨
+uhrung lernen die Studierenden die zentralen
+Wettbewerbsfaktoren eines Dienstleistungsunternehmens zu identiﬁzieren, zu analysieren und
+strategisch zu beeinﬂussen. Sie entwickeln eine Wettbewerbsstrategie, spielen verschiedene Sze-
+narien durch und analysieren das Ergebnis ihrer Prognosen und Entscheidungen kritisch. Nach
+jeder Runde werden detaillierte Berichte ver¨
+offentlicht, die den Teams helfen ihre Leistung und
+ihren Fortschritt zu bewerten und diese entsprechend mit der Performance ihrer Mitbewerber zu
+vergleichen. Durch detaillierte Hinweise auf m¨
+ogliche ﬁnanzielle Folgen operativer Entscheidun-
+gen auf relevante Erfolgsgr¨
+oßen wie der Kundenzufriedenheit, Kosten und Einnahmen entwickeln
+Studierende eine sachbezogene analytische Herangehensweise zur Entscheidungsﬁndung.
+• Schließlich f¨
+ordert das dynamische und interaktive Planspiel die Teamarbeit, pr¨
+agt den Wettbe-
+werbsgeist und st¨
+arkt die Probleml¨
+osungskompetenz der Studierenden.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Teilnahme am Kurs Service Management
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+91
+
+[Page 92]
+• Vorlesung und ¨
+Ubung (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Pr¨
+asentation (”Sitzungsmoderation“)
+– Der Kurs ”Return on Service Design & Customer Experience“ erm¨
+oglicht die eigenst¨
+andige
+Organisation und Durchf¨
+uhrung einer Sitzung (sog. ”Sitzungsmoderation“) zu aktuellen
+Frage- und Problemstellungen im Service Management. Die Studierenden erarbeiten selbstst¨
+andig
+alle Inhalte einer interaktiven Sitzung. Zur Orientierung werden Literatur und Fallstudien
+zur Verf¨
+ugung gestellt.
+• Strategiepapier
+– Zu Beginn des Planspiels verfassen die Studierenden ein Strategiepapier, in dem sie die
+f¨
+ur Ihr Unternehmen gew¨
+ahlte Strategie unter Ber¨
+ucksichtigung der Ausgangssituation be-
+schreiben.
+• Posterpr¨
+asentation
+– Die Posterpr¨
+asentation umfasst eine kritische Betrachtung des zu Beginn des Planspiels ent-
+worfenen Strategiepapiers. Hierf¨
+ur reﬂektieren die Studierenden ihre gew¨
+ahlte Strategie und
+pr¨
+asentieren ihre Ergebnisse in Form eines Posters.
+• Abschneiden der Gruppe im Planspiel
+– Die Gruppenleistung w¨
+ahrend des Planspiels wird ¨
+uber alle Entscheidungen hinweg betrach-
+tet. Das Endergebnis ist nicht allein ausschlaggebend.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 42 h = Pr¨
+asenzzeit Vorlesung und ¨
+Ubung
+• 108 h = Vor- und Nachbereitung Vorlesung und ¨
+Ubung
+• 150 h = Gruppenprojekt
+• 300 h = Arbeitsaufwand gesamt
+Modulnote:
+• Pr¨
+asentation (”Sitzungsmoderation“) (40 %)
+92
+
+[Page 93]
+• Strategiepapier (20 %)
+• Posterpr¨
+asentation (20 %)
+• Abschneiden der Gruppe im Planspiel (20 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+• Taxation M.Sc.
+Bemerkungen:
+• Teilnehmerbeschr¨
+ankung 30
+93
+
+[Page 94]
+Retail Management
+Modultitel
+Retail Management
+Modultitel Englisch
+Retail Management
+Modulnummer
+tba
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Logistik & Operations Analytics und Juniorprofessur
+f¨
+ur Digitales Marketing
+Modulverantwortlich
+Prof. Dr. Pirmin Fontaine
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Studierende
+• verstehen und vertiefen die zentrale Dynamik und die aktuellen Entwicklungen des Retail Mana-
+gement.
+• erhalten ein vertiefendes Verst¨
+andnis ¨
+uber die aktuellen Fragen des Retail Management. Darin
+beinhaltet sind handelslogistische sowie absatzbezogene Fragen.
+• vertiefen die Zusammenh¨
+ange zwischen absatz-, marketing- und vertriebsbezogenen (z. B. Sorti-
+mentsgestaltung) und logistikbezogenen Perspektiven (z. B. Beschaffung, Kommissionierung und
+Distribution) des Handels.
+• lernen die relevanten mangementbezogenen und logistischen Aspekte der Gestaltung und des Be-
+triebs von Handelsunternehmen vertiefend kennen.
+• vertiefen die Ebenen der Zusammenarbeit verschiedener Akteure (z. B. Hersteller, Handelspartner,
+Logistikunternehmen) im Handel und deren Auswirkungen auf Unternehmen und Kunden.
+• vertiefen, wie die Digitalisierung den Handel ver¨
+andert (z. B. Multi- und Omnichannel Manage-
+ment)
+• verstehen entscheidungsunterst¨
+utzende Modelle und Konzepte im Einzelhandel und k¨
+onnen diese
+eigenst¨
+andig anwenden.
+• lernen Software kennen, um praxisrelevante Fragestellungen zu bearbeiten.
+94
+
+[Page 95]
+Inhalte und Themen:
+• Teil A: Einf¨
+uhrung - Grundfragen des Retail Management
+– Begrifﬂiche Grundlagen
+– Planungsmatrix im Handel
+• Teil B: Gestaltung von Handelssystemen
+• Teil C: Taktische Planungen im Handel
+• Teil D: Operative Planung im Handel
+– Lagerhausplanung
+– Transportplanung
+– Operatives Filialmanagement
+• Teil E: Aktuelle Entwicklungen
+– Online- und Omni-Channel-Handel
+– Sharing Economy: Crowdsourcing
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Abgeschlossenes Bachelor-Studium
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Empfohlene Voraussetzung: Kenntnisse der Betriebswirtschaftslehre
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL)
+• ¨
+Ubung (UE)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur (90 Minuten)
+95
+
+[Page 96]
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 32 h = Pr¨
+asenzzeit Vorlesung
+• 32 h = Vor- und Nachbereitung Vorlesung
+• 32 h = Pr¨
+asenzzeit ¨
+Ubung
+• 32 h = Vor- und Nachbereitung ¨
+Ubung
+• 22 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand insgesamt
+Modulnote:
+• Klausur (100%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+• Taxation M.Sc.
+Bemerkungen:
+• Agrawal, Narendra and Smith, Stephen A (Eds.), Retail Supply Chain Management: Quantitative
+Models and Empirical Studies, New York, (Springer) 2015.
+• Chopra, S. und Meindl, P., Supply Chain Management: Strategy, Planning and Operation, 6.
+Auﬂ. 2015.
+• Grewal, D.; Breugelmans, E.; Gauri, D. & Gielens, K.: Re-imagining the physical store, Journal
+of Retailing, Vol. 99, Iss, 4, 2023, 481-486. doi.org/10.1016/j.jretai.2023.11.008.
+• Grewal, D.& Roggeveen, A.L.; Understanding Retail Experiences and Customer Journey Manage-
+ment, Journal of Retailing, Vol. 96, Iss. 1, 2020, 3-8. doi.org/10.1016/j.jretai.2020.02.002.
+• Grewal, D.; Gauri, D.K.; Roggeveen, A.L. & Sethuraman, R.: Strategizing Retailing in the New
+Technology Era, Journal of Retailing, Vol. 97, Iss.1, 2021, 6-12, doi.org/10.1016/j.jretai.2021.02.004.
+• Homburg, Ch.; Sch¨
+afer, H., & Schneider, J., Sales Excellence - Systematic Sales Management,
+Springer (2012) Berlin, Heidelberg, doi.org/10.1007/978-3-642-29169-2
+• Hong, S., Misra, K., & Vilcassim, N. J. The Perils of Category Management: The Effect of Product
+Assortment on Multicategory Purchase Incidence. Journal of Marketing, Vol. 80, Iss. 5, 2016,
+34-52. doi.org/10.1509/jm.15.0060
+96
+
+[Page 97]
+• H¨
+ubner, A.; Kuhn, H.: Retail category management: State-of-the-art review of quantitative rese-
+arch and software applications in assortment and shelf space management, in: Omega, Vol. 40
+(2012), pp. 199-209.
+• H¨
+ubner, A.; H. Kuhn and M. Sternbeck, Retail demand and supply chain planning - An operations
+planning framework, in, International Journal of Retail and Distribution Management, Vol. 41,
+No. 7, 2013, pp. 512-530.
+• H¨
+ubner, A.; Holzapfel, A.; Kuhn, H., Operations management in multi-channel retailing: an ex-
+ploratory study, in: Operations Management Research, Vol. 8, Iss. 3 (2015), pp. 84-100.
+• H¨
+ubner, A.; Holzapfel, A.; Kuhn, H., Distribution systems in omni-channel retailing, in: Business
+Research, Vol. 9, Iss. 2 (2016b), pp. 255-296.
+• H¨
+ubner, A.; Kuhn, H.; Wollenburg, J., Last mile fulﬁlment and distribution in omni-channel
+grocery retailing, in: International Journal of Retail & Distribution Management, Vol. 44, Iss. 3
+(2016c), pp. 228-247.
+• H¨
+ubner, A.; Kuhn, H., Decision support for managing assortments, shelf space, and replenishment
+in retail, Flexible Services and Manufacturing, 2024, Vol. 36, Iss. 1, 1–35, doi.org/10.1007/s10696-
+023-09492-z
+• Klingler, R.; H¨
+ubner, A.; und Kempcke, T, Ganzheitliches (2016): Supply Chain-Management im
+Lebensmittelhandel: Reifegrad, Erfolgsfaktoren, Entwicklungsans¨
+atze, Studie von EHI, BCG und
+KU Eichst¨
+att-Ingolstadt
+• Kuhn, H.; Sternbeck, M., Integrative Retail Logistics: An Exploratory Study, in: Operations Ma-
+nagement Research (OMR), Volume 6, Issue 1 (2013), Page 2-18.
+• Kuhn, H.: Holzapfel, A.; Ostermeier M., Handelslogistik, in: Corsten et al. (Hrsg.), Handbuch
+Produktions- und Logistikmanagement in Wertsch¨
+opfungsnetzwerken, (De Gruyter Oldenbourg),
+2018.
+• Obermair, E; Holzapfel, A.; Kuhn, H.; Sternbeck, M., Challenges and Measures in Disruptive
+Times: Lessons Learned for Grocery Retail Operations from the Covid-19 Pandemic, Logistics
+Research, Vol. 17, Iss. 2., 2024, doi.org/10.23773/2024 2.
+• Potoczki, T; Holzapfel, A.; Kuhn, H.; Sternbeck, M.: Integrated cross-dock location and supply mo-
+de planning in retail networks, International Journal of Production Economics, 2024, 109349,
+doi.org/10.1016/j.ijpe.2024.109349.
+• Zajac S.; Kuhn, H., Joint shelf design and space planning problem with placement options, Pro-
+duction and Operations Management, forthcoming 2025, doi.org/10.1177/10591478251359808
+97
+
+[Page 98]
+Seminar Accounting & Controlling
+Modultitel
+Seminar Accounting & Controlling
+Modultitel Englisch
+Seminar Accounting & Controlling
+Modulnummer
+88-021-AC03-S-SE-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Unternehmensrechnung
+Modulverantwortlich
+Prof. Dr. mult. Anton Burger
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+Im Rahmen des Seminars erarbeiten die Studenten speziﬁsche Aufgabenstellungen, die in der Veran-
+staltung diskutiert und pr¨
+asentiert werden. Die Studierenden werden in das wissenschaftliche Arbeiten
+eingef¨
+uhrt. Dazu geh¨
+ort die Literatursuche, der Aufbau wissenschaftlicher Arbeiten und die kritische
+Bearbeitung der Aufgabenstellung. Die Studierenden entwickeln im Rahmen der Ausarbeitung und
+Pr¨
+asentation des Proseminars ihre Analysef¨
+ahigkeit, ihre Reﬂexionsf¨
+ahigkeit und ihre Pr¨
+asentationsf¨
+ahigkeit.
+Inhalte und Themen:
+Aktuelle Themen aus dem Bereich Accounting & Controlling
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+98
+
+[Page 99]
+• Seminar
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Eine Kombination aus einer schriftlichen Arbeit (80%) und einer Pr¨
+asentation (20%) ist notwen-
+dig, um die Ziele des Kurses zu erreichen.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 35 h = Einf¨
+uhrung in das wissenschaftliche Arbeiten
+• 108 h = Ausarbeitung des Themas
+• 7 h = Pr¨
+asentation und Diskussion
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Schriftliche Arbeit (80%)
+• Pr¨
+asentation (20%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen: Teilnahmebeschr¨
+ankung: 20
+99
+
+[Page 100]
+Seminar Finance and Banking B
+Modultitel
+Seminar Finance and Banking B
+Modultitel Englisch
+Seminar Finance and Banking B
+Modulnummer
+88-021-FI09-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Finanzierung und Banken
+Modulverantwortlich
+Prof. Dr. Thomas M¨
+ahlmann
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Die Studierenden:
+• Durch die Bearbeitung eines aktuellen Forschungsthemas gewinnen die Studenten tiefere Einbli-
+cke in aktuelle praktische und theoretische Fragestellungen der Finanzierung und Bankbetriebs-
+lehre.
+• Das Modul dient weiterhin der Vorbereitung zur Anfertigung einer wissenschaftlich anspruchs-
+vollen Masterarbeit.
+• Durch den Austausch mit ihren Kommilitonen und die Verteidigung ihrer Arbeit erhalten die
+Teilnehmer wertvolles Feedback hinsichtlich ihrer Pr¨
+asentations- und Argumentationsf¨
+ahigkeiten
+und erlernen den kritischen Umgang mit Ergebnissen wissenschaftlicher Arbeit.
+Inhalte und Themen:
+• In diesem Modul bearbeiten Sie ein aktuelles Forschungsthema anhand aktueller Forschungslite-
+ratur. Sie schreiben in Einzelarbeit/oder Gruppenarbeit ein Paper in Form einer Hausarbeit und
+stellen es Ihren Kommilitonen zur Diskussion.
+• Die zu bearbeitenden Themen variieren.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+100
+
+[Page 101]
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Abgeschlossene Vertiefung im Bereich Finanzwirtschaft, Bankbetriebslehre oder ¨
+Ahnlichem.
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Erstellung einer Hausarbeit in deutscher oder englischer Sprache im Umfang von 20 DIN-A4-
+Seiten bei Gruppenarbeiten bzw. 12 DIN-A4-Seiten bei Einzelarbeiten (ob Einzel- oder Gruppen-
+arbeiten anzufertigen sind, h¨
+angt von der Anzahl der Kursteilnehmer ab).
+• Pr¨
+asentation der wesentlichen Ergebnisse der Arbeit unter Zuhilfenahme zeitgem¨
+aßer Medien
+(Dauer: 40 Minuten).
+• Verteidigung der eigenen Ergebnisse und aktive Teilnahme an der Diskussion der Beitr¨
+age der
+Kommilitonen.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 10 h = Themenbesprechung und Diskussion mit dem Betreuer
+• 120 h = Anfertigung der schriftlichen Arbeit
+• 20 h = Pr¨
+asentation inklusive Vorbereitung darauf
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Hausarbeit (60%) (deutsch oder englisch)
+• Vortrag (40%) (deutsch oder englisch)
+Polyvalenz mit anderen Studieng¨
+angen:
+101
+
+[Page 102]
+• Taxation M.Sc.
+Bemerkungen: -
+102
+
+[Page 103]
+Seminar Internationales Management
+Modultitel
+Seminar Internationales Management
+Modultitel Englisch
+Seminar International Management
+Modulnummer
+88-021-IM05-S-SE
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Internationales Management
+Modulverantwortlich
+Prof. Dr. Katja Gelbrich
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Im Rahmen des Seminars entwickeln die Studierenden die F¨
+ahigkeit, eine vorgege-
+bene Zielstellung wissenschaftlich, problembezogen und eigenst¨
+andig zu bearbeiten. Sie erlangen einen
+umfassenden ¨
+Uberblick ¨
+uber die Anfertigung von wissenschaftlichen Arbeiten sowie eine fundierte Vor-
+bereitung auf ihre Masterarbeit. Dar¨
+uber hinaus werden die Teilnehmer in die Lage versetzt, in den
+abschließenden Pr¨
+asentationen ihre Pr¨
+asentations-, Artikulations- und Diskussionsf¨
+ahigkeiten zu trai-
+nieren und zu verbessern. Nach Abschluss des Kurses verf¨
+ugen sie somit ¨
+uber die fachliche und soziale
+Kompetenz, Pr¨
+asentationssituationen in der Unternehmens- und Wissenschaftspraxis souver¨
+an zu l¨
+osen.
+Inhalte und Themen: Im Rahmen der Veranstaltung schreiben die Seminarteilnehmenden in Zwei-
+ergruppen selbst¨
+andig eine Seminararbeit mit einem Umfang von 10 Seiten. Hierf¨
+ur ist die wissen-
+schaftliche Literatur zu einem speziﬁschen, forschungsrelevanten Thema aufzubereiten, zu analysieren
+und zu diskutieren. Abschließend pr¨
+asentieren und verteidigen die Seminarteilnehmenden ihre Arbeits-
+ergebnisse. Die Themenvergabe erfolgt nach Absprache mit der Betreuerin am Lehrstuhl. Die Teilneh-
+menden erhalten nach der Benotung der Seminararbeit und Pr¨
+asentation ein detailliertes Feedback von
+ihremBetreuerin.
+Untersucht werden Fragestellungen zum Verhalten von F¨
+urhrungskr¨
+aften und Mitarbeitenden in inter-
+nationalen Unternehmen bzw. Konsumenten in internationalen Kontexten. Eine besondere Rolle k¨
+onnen
+dabei folgende Aspekte spielen: Wertehaltungen, kulturelle Hintergr¨
+unde, Einstellungen, Image, Lebens-
+stil u.a.
+Beispielhafte Themen:
+• Konﬂiktstile von Mitarbeitenden im interkulturellen Vergleich
+• Einstellungen gegen¨
+uber ausl¨
+andischen Marken
+103
+
+[Page 104]
+• Akzeptanz von digitalen Agenten im internationalen Vergleich
+• F¨
+uhrungsstile im International Business
+Das konkrete Thema wird vor Beginn der Veranstaltung ver¨
+offentlicht.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Bachelor-Abschluss in Wirtschaftswissenschaften, Psychologie oder in einem verwandten Gebiet.
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• F¨
+ur die Bearbeitung der Thematik ist von jedem Studierenden eine Seminararbeit anzufertigen,
+welche nach inhaltlichen und formellen Kriterien begutachtet wird. Zudem m¨
+ussen die Ergebnis-
+se der Arbeit in einem kurzen Vortrag pr¨
+asentiert werden (15 Minuten). Kriterien hierf¨
+ur sind
+Inhalt, Vortragsstil und Rhetorik.
+• Die Kombination verschiedener Bewertungsmethoden ist eine wichtige Voraussetzung, um gezielt
+Kernkompetenzen zu schulen. Innovative Pr¨
+ufungsleistungen erm¨
+oglichen es den Studierenden,
+ihre Vortragsf¨
+ahigkeiten ¨
+uber ein ganzes Semester zu schulen. ¨
+Uberdies tr¨
+agt die Kombination
+verschiedener Bewertungsmethoden dazu bei, die Pr¨
+ufungszeitr¨
+aume zu entzerren und so die
+wahre Leistung der Studierenden ¨
+uber einen l¨
+angeren Zeitraum einzufangen. Dies erm¨
+oglicht
+eine objektive und realistische Bewertung, die dem wahren Leistungsverm¨
+ogen der Studierenden
+entspricht und robust ist gegen negative wie positive Ausreißer.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 42 h = Pr¨
+asenzzeit Kick-off-Meeting, Konsultationen, Pr¨
+asentation, Feedback
+104
+
+[Page 105]
+• 108 h = Erstellen der Seminararbeit
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfolio (100 %)
+• Seminararbeit (67 %)
+• Pr¨
+asentation (33 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+• Business and Psychology M.Sc.
+Bemerkungen:
+• Teilnehmerbeschr¨
+ankung: 16
+• Informationen zur Literatur werden in der Veranstaltung bekannt gegeben.
+105
+
+[Page 106]
+Service Analytics
+Modultitel
+Service Analytics
+Modultitel Englisch
+Service Analytics
+Modulnummer
+88-021-IFM03-H-0317
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Wirtschaftsinformatik
+Modulverantwortlich
+Prof. Dr. Thomas Setzer
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Teilnehmer verstehen die M¨
+oglichkeiten und Herausforderungen datenbasierter Modellierung von
+Dienst- (und Produkt-) Nutzungsverhalten im Digital Commerce und bei CRM-Kampagnen.
+• Die Teilnehmer beherrschen analytische Methodik zur Personalisierung von Online-Inhalten, -
+Diensten und -Kampagnen.
+• Sie sind vertraut mit den Algorithmen moderner Recommender Systems und Active Learning.
+• Die Studierenden differenzieren zwischen diagnostischen, pr¨
+adiktiven und pr¨
+askriptiven Aufga-
+ben und bestimmen und konﬁgurieren jeweils geeignete Modelle, Methoden und Optimierungs-
+kriterien.
+• Basierend auf ihrem Theorie- und Technikwissen und dessen Umsetzung in ¨
+Ubungen k¨
+onnen die
+Teilnehmer reﬂektiert Algorithmik und Software-Komponenten f¨
+ur Service Analytics-Aufgaben
+entwickeln, testen und anpassen.
+Inhalte und Themen: Mit steigender Bedeutung von Diensten und Digitalisierung werden Daten-
+basierte Erkenntnisse bzgl. Kundenpr¨
+aferenz und -nutzen immer zentraler, um Kundenbed¨
+urfnisse und
+-verhalten zu antizipieren und die richtigen Produkte oder Dienstleistungen zu empfehlen bzw. anzubie-
+ten. Die Veranstaltung behandelt Methodik der Datenanalyse und Verhaltensmodellierung f¨
+ur Aufgaben
+im Digital Commerce und der Kunden- interaktion. Insb. werden die Algorithmen moderner Recommen-
+der Systeme behandelt und erprobt. In der ¨
+Ubung mit der Sprache R, wenden die Teilnehmer ihr Wissen
+106
+
+[Page 107]
+auf Praxisprobleme an, entwickeln und testen Empfehlungssysteme auf realistischen, großen Kunden-
+datens¨
+atzen. Die Veranstaltung beinhaltet folgende Themen:
+• Einf¨
+uhrung in Service Analytics
+• Anwendungen im Digital Commerce und CRM-Kampagnenmanagement
+• Vorverarbeitung, Reduktion und Modellierung von Kunden- und Produktdaten
+• Web-Anwendungen und Analytics, Continuous Engineering
+• Empfehlungssysteme und Online-Kampagnen-Management
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundkentnisse einer modernen Programmiersprache wie R oder Python wird empfohlen
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (2 SWS)
+• ¨
+Ubung (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur (90 Minuten)
+• Klausur am Semesterende in englischer Sprache.
+• Beantwortung darf auch auf Deutsch erfolgen.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 45 h = Pr¨
+asenzzeit Vorlesung und ¨
+Ubung
+• 75 h = Vor- und Nachbereitung Vorlesung und ¨
+Ubung
+107
+
+[Page 108]
+• 30 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Abschlussklausur (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen: -
+108
+
+[Page 109]
+Service Operations
+Modultitel
+Service Operations
+Modultitel Englisch
+Service Operations
+Modulnummer
+88-021-SCM13-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Lehrstuhl f¨
+ur ABWL, Logistik und Operations Analytics
+Modulverantwortlich
+Prof. Dr. Pirmin Fontaine
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Die Studierenden:
+• erlernen quantitative Methoden der Service Operations Management und Revenue Management
+sowie deren Anwendung in der Praxis kennen.
+• erlernen und verstehen die grundlegenden Modelle und Methoden f¨
+ur Service Operations Ma-
+nagement (insbesondere Prozessmanagement und Bestandsmanagement) sowie im Revenue Ma-
+nagement (insbesondere Preisdifferenzierung, Kapazit¨
+atssteuerung, ¨
+Uberbuchungssteuerung und
+Dynamic Pricing). Dabei geht es auch darum M¨
+oglichkeiten und Grenzen der Praxis kennenzu-
+lernen.
+• vertiefen ihre Kenntnisse in Bezug auf die Modellierung und L¨
+osung von Entscheidungsproblemen
+in den oben genannten Entscheidungsfeldern.
+• erlernen die Anwendung der erfahrenen theoretischen Konzepte im Zuge einer Fallstudie aus der
+Praxis.
+Inhalte und Themen:
+• Die Grundkonzepte werden mit foliengest¨
+utzten Vortr¨
+agen dargestellt. Dabei werden jeweils die
+quantitativen Modelle und Methoden vorgestellt und anhand von ¨
+Ubungsbeispielen verdeutlicht.
+Dabei sollen auch praktische Anwendungen des Service Managements z.B. f¨
+ur Flugunternehmen,
+im Einzelhandel oder im weiteren Dienstleistungssektor diskutiert werden.
+109
+
+[Page 110]
+• Diese Inhalte bilden die Grundlage f¨
+ur eine kritische Betrachtung aus theoretisch-konzeptioneller
+und praktisch-anwendungsorientierter Sicht. Hierzu werden aktuelle, praxisorientierte Fallstudi-
+en und wissenschaftliche Beitr¨
+age verwendet.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundlagen der Mathematik und Statistik
+• Grundlagen der linearen Optimierung.
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Der Kurs vermittelt neben grundlegenden theoretischen Konzepten, Modellen und Methoden zum
+Service Operations auch deren praktischen Umsetzung im Zuge von praxisorientierten Fallstudi-
+en. Die Bearbeitung dieser Fallstudien erfordert eine schriftliche Ausarbeitung und eine Pr¨
+asentation
+der erzielten Ergebnisse, damit diese innerhalb der Gesamtgruppe diskutiert und reﬂektiert wer-
+den k¨
+onnen. Daher ist aus didaktischen Gr¨
+unden neben einer Klausur auch ein schriftlicher und
+m¨
+undlicher Bericht ¨
+uber die Ergebnisse Fallstudie zwingend erforderlich.
+• Die einzelnen Pr¨
+ufungsleistungen setzen sich wie folgt zusammen:
+– Klausur: Pr¨
+ufungszeit 60 Minuten ¨
+uber die theoretischen Konzepte, Modelle und Methoden
+zum Service Operations sowie der angegebenen Literatur.
+– Fallstudie: Bearbeitung einer Fallstudie im Rahmen einer Gruppenarbeit. Schriftlicher Be-
+richt (Referat) zur Bearbeitung der Fallstudie und Pr¨
+asentation der wesentlichen Ergeb-
+nisse. Der Vortrag beinhaltet eine kritische W¨
+urdigung der Ergebnisse und Diskussion (20
+Min.+10 Min.). Das Referat ist als foliengest¨
+utzte Zusammenfassung zum Vortrag zu er-
+stellen.
+110
+
+[Page 111]
+Alle Teilleistungen m¨
+ussen bestanden sein; einzelne Teilleistungen sind nicht wiederholbar.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 48 h = Pr¨
+asenzzeit Vorlesung, ¨
+Ubung, Seminar
+• 24 h = Vor- und Nachbereitung Vorlesung, ¨
+Ubung, Seminar
+• 54 h = Ausarbeitung Fallstudie
+• 12 h = Pr¨
+ufungsvorbereitung
+• 12 h = Erstellung der Pr¨
+asentation
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur (50 %)
+• Schriftliche Ausarbeiten der Fallstudie (35 %)
+• Pr¨
+asentation der Fallstudie (15 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+• Bordoloi, S., Fitzsimmons, J.A., and M.J. Fitzsimmons: Service Management – Operations, Stra-
+tegy, and Information Technology, 9. Auﬂ., New York (McGraw Hill) 2019.
+• Klein, R. und C. Steinhardt: Revenue Management – Grundlagen und Mathematische Methoden,
+Berlin/Heidelberg (Springer) 2008.
+• Talluri, K.T. und G.J. van Ryzin: Theory and Practice of Revenue Management, Boston (Springer)
+2005.
+111
+
+[Page 112]
+Social Innovation I: Basics and Concept Development
+Modultitel
+Social Innovation I: Basics and Concept Development
+Modultitel Englisch
+Social Innovation I: Basics and Concept Development
+Modulnummer
+88-021-SRI03-H-0818
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Christliche Sozialethik und Gesellschaftspolitik
+Modulverantwortlich
+Prof. Dr. Andr´
+e Habisch
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Studierende identiﬁzieren unternehmerische L¨
+osungsans¨
+atze f¨
+ur gesellschaftliche Herausforde-
+rungen und konzipieren in selbstorganisierten Teams eigene Projekte.
+• Studierende des Moduls erhalten einen ¨
+Uberblick ¨
+uber interdisziplin¨
+are Konzepte von Innovation
+und gesellschaftlicher Innovation, gesellschaftlichem Unternehmertum (Social Entrepreneurship)
+und gesellschaftlichem Engagement von Unternehmen (Corporate Citizenship)
+• Sie entwickeln ein Verst¨
+andnis f¨
+ur die gesellschaftlichen Voraussetzungen unternehmerischen
+Handelns mit besonderer Ber¨
+ucksichtigung von unternehmerischer Innovation.
+• Sie lernen, ihre eigene Rolle als zuk¨
+unftige Unternehmer und Manager im Kontext gesellschaftli-
+cher Kooperationsprozesse zu verstehen.
+Inhalte und Themen:
+• Eine Blockveranstaltung vermittelt eine kompakte Einf¨
+uhrung und dient der Vernetzung mit ge-
+sellschaftlichen und technischen Innovatoren.
+• Eine Unterst¨
+utzung bei der Ausarbeitung der Projektidee erfolgt dabei durch themenzentrierte
+Workshops und Reﬂektionssitzungen im Rahmen des begleitenden Projektseminars.
+• Kl¨
+arung wesentlicher Grundbegriffe: Innovation, gesellschaftliche Innovation, gesellschaftliches
+Unternehmertum, gesellschaftliches Engagement von Unternehmen
+112
+
+[Page 113]
+• Kulturelle, politische, makro¨
+okonomische Bedingungen von Innovation
+• Spiritualit¨
+at der Innovation’: Zur Interdependenz von Innovationskraft und intrinsischer Motiva-
+tion
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 40 h = Pr¨
+asenzzeit Blockveranstaltung
+• 30 h = Pr¨
+asenzzeit Projektbesprechungen (Vorlesungsslots)
+• 35 h = Vor- und Nachbereitung Pr¨
+asenzveranstaltungen
+• 45 h = Schriftliche Ausarbeitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Pitch-Video zur erarbeiteten Projektidee (20 %)
+• Vorstellung des konzeptionellen Hintergrunds (20 %)
+113
+
+[Page 114]
+• Schriftliche Ausarbeitung der Projektidee (60 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+• Teilnahmebeschr¨
+ankung 25
+• Literatur
+– Acemo˘
+glu, D., & Robinson, J. A. (2012). Why nations fail (1. ed Ausg.). New York, NY:
+Crown Publ.
+– Bessant, J. R., & Tidd, J. (2011). Innovation and entrepreneurship (2. ed Ausg.). Chichester:
+Wiley.
+– Brem, A., & Viardot, ´
+E. (2013). Evolution of innovation managemente (1st published
+Ausg.). Basingstoke [etc.]: Palgrave Macmillan.
+– Drucker, P. F. (2006). Innovation and entrepreneurship (35. [print.] Ausg.). New York NY:
+HarperCollins.
+– Habisch, A. (2011). Gesellschaftliches Unternehmertum. In Social Entrepreneurship - Social
+Business : f¨
+ur die Gesellschaft unternehmen (S. 49-66). Wiesbaden: VS Verl. f¨
+ur Sozialwis-
+senschaften.
+– Osburg, T., & Schmidpeter, R. (2013). Social innovation. Berlin; New York: Springer.
+– Schumpeter, J., & Schumpeter, E. (1986). History of economic analysis (1. publ. in paper-
+back Ausg.). London: Allen & Unwin.
+– Sommerrock, K. (2010). Social entrepreneurship business models. Basingstoke: Palgrave
+Macmillan.
+– Tidd, J., & Bessant, J. R. (2013). Managing innovation (5. ed Ausg.). Chichester: Wiley.
+114
+
+[Page 115]
+Strukturgestaltungen im Konzern
+Modultitel
+Strukturgestaltungen im Konzern
+Modultitel Englisch
+Structuring of Afﬁliated Groups
+Modulnummer
+88-021-AC11-S-VL-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Controlling und Wirtschaftspr¨
+ufung
+Modulverantwortlich
+Prof. Dr. Max G¨
+ottsche
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Nach erfolgreichem Abschluss des Moduls k¨
+onnen die Studierenden unterschiedliche Rechtsfor-
+men von Unternehmen vergleichen und die an die Rechtformwahl ankn¨
+upfenden handels- und
+steuerrechtlichen Konsequenzen beurteilen.
+• Studierende k¨
+onnen komplexe Unternehmensstrukturen hinsichtlich verschiedener Dimensionen
+(u.a. Publizit¨
+at, Haftung) systematisch analysieren und fallspeziﬁsch unternehmerisch geeignete
+und steuer-lich vorteilhafte Gestaltungsmodelle entwickeln.
+Inhalte und Themen:
+• Eignung einzelner Rechtsformen
+• Verfahrensschritte zur Umgestaltung von Unternehmensgruppen
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundlagen der Bilanzierung nach handelsrechtlichen Grunds¨
+atzen
+• Grundlagen des Ertragsteuerrechts und des Umwandlungssteuer-rechts
+115
+
+[Page 116]
+• Grundlagen des Gesellschaftsrechts
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung/Workshop
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Pr¨
+asentation(en) 100 %
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 18 h = Pr¨
+asenzzeit Vorlesung
+• 40 h = Vor- und Nachbereitung Vorlesung
+• 92 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Leistungsnachweis oder bestanden/nicht bestanden: Die Pr¨
+asentationen haben das Ziel, grunds¨
+atzliche
+Problematiken des Themas zu erschließen und L¨
+osungsans¨
+atze zu erl¨
+autern
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+• Teilnahmebeschr¨
+ankung auf 20 teilnehmer
+116
+
+[Page 117]
+Sustainability Reporting
+Modultitel
+Sustainability Reporting
+Modultitel Englisch
+Sustainability Reporting
+Modulnummer
+[wird vom Pr¨
+ufungsamt vergeben; bereits vergebene Num-
+mern sind in der Modulbeschreibung zu belassen bzw. anzu-
+geben]
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+—
+Modulverantwortlich
+Prof. Dr. Max G¨
+ottsche
+Leistungspunkte ECTS-Punkte
+5
+Kompetenzen:
+• Vertiefter Einblick in Regelwerke und Berichtsstandards der Nachhaltigkeitsberichterstattung.
+• Erkennen der Ziele und Herausforderungen der Nachhaltigkeitsberichterstattung.
+• Entwicklung eines tiefgreifenden Verst¨
+andnisses ¨
+uber ausgew¨
+ahlte Standards und Anwendung auf
+komplexe Sachverhalte.
+• Erwerb praktischer Kompetenzen durch begleitende ¨
+Ubungen.
+Inhalte und Themen:
+• Grundlagen der Nachhaltigkeitsberichterstattung
+• Normativer Rahmen der Nachhaltigkeitsberichterstattung:
+– Nachhaltigkeitsberichterstattung in der EU
+– EU-Taxonomie-Verordnung
+– NFRD und CSRD
+– European Sustainability Reporting Standards (ESRS)
+– Omnibus-Verordnung der EU
+117
+
+[Page 118]
+– Nachhaltigkeitsberichterstattung in Deutschland
+– CSDDD in der EU
+– Lieferkettensorgfaltspﬂichtengesetz in Deutschland
+– Externe Pr¨
+ufung der Nachhaltigkeitsberichterstattung
+• Die European Sustainability Reporting Standards (ESRS) im Einzelnen:
+– ESRS 1
+– ESRS 2
+– ESRS E1
+– ESRS E2
+– ESRS E3
+– ESRS E4
+– ESRS E5
+– ESRS S1
+– ESRS S2
+– ESRS S3
+– ESRS S4
+– ESRS G1
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL)
+• ¨
+Ubung (UE)
+118
+
+[Page 119]
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Pr¨
+asenzzeit Vorlesung
+• 22 h = Vor- und Nachbereitung Vorlesung
+• 28 h = Pr¨
+asenzzeit ¨
+Ubung
+• 22 h = Vor- und Nachbereitung ¨
+Ubung
+• 50 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Leistungsnachweis oder bestanden/nicht bestanden
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation: Minor Accounting and Auditing
+Bemerkungen:
+• Teilnehmerzahl begrenzt: 25
+• Kursunterlagen, einschließlich grundlegender Literatur, werden online verf¨
+ugbar sein
+• ¨
+Anderungen innerhalb der Fristen gem¨
+aß §5 Abs.4 Satz 2 Modulrichtlinien durch die/den Mo-
+dulverantwortliche/n m¨
+oglich
+119
+
+[Page 120]
+Sustainable Corporate Finance
+Modultitel
+Sustainable Corporate Finance
+Modultitel Englisch
+Sustainable Corporate Finance
+Modulnummer
+Niveau
+Master (UNI)
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at
+Beteiligte Fachgebiete
+Modulverantwortlich
+Prof. Dr. Thomas M¨
+ahlmann
+Leistungspunkte ECTS-Punkte
+5
+Kompetenzen:
+• In diesem Modul bauen die Studierenden auf ihrem grundlegenden Wissen in Unternehmensﬁ-
+nanzierung auf und vertiefen ihr Verst¨
+andnis der zentralen Prinzipien, die ﬁnanzielle Entschei-
+dungsprozesse in Unternehmen leiten. Der Kurs untersucht die Rolle und Verantwortung der Fi-
+nanzabteilung sowie deren Beitrag zum Gesamterfolg eines Unternehmens.
+• Die Studierenden lernen, strategische Finanzentscheidungen zu analysieren und deren Auswir-
+kungen auf die Unternehmensleistung und die Wertsch¨
+opfung zu bewerten. Das Modul f¨
+uhrt in
+die Grundlagen der Anleihebewertung ein und vermittelt, wie festverzinsliche Wertpapiere unter
+Ber¨
+ucksichtigung von Zins¨
+anderungen und Kreditrisiken bewertet werden.
+• Teilnehmende befassen sich außerdem mit wesentlichen Methoden der Aktienbewertung und ler-
+nen, den fairen Wert von Aktien mithilfe verschiedener Bewertungsmodelle zu bestimmen. Ein
+weiterer Schwerpunkt liegt auf dem Verst¨
+andnis der Beziehung zwischen Risiko und Rendite auf
+den Kapitalm¨
+arkten sowie der Anwendung dieses Wissens zur Bewertung und Diversiﬁzierung
+von Investitionsm¨
+oglichkeiten mit dem Ziel eines optimalen Risiko-Rendite-Verh¨
+altnisses.
+• Die Studierenden lernen, systematische Risiken zu identiﬁzieren und deren Auswirkungen auf die
+Preisbildung von Wertpapieren zu verstehen. Zudem entwickeln sie die F¨
+ahigkeit, die Kapitalkos-
+ten – einschließlich Eigen- und Fremdkapitalkomponenten – zu berechnen und deren Bedeutung
+f¨
+ur ﬁnanzwirtschaftliche Entscheidungen im Unternehmen zu analysieren. Durch die Anwendung
+dieser Konzepte k¨
+onnen sie die optimale Finanzierungsstruktur bestimmen und deren Einﬂuss auf
+den Unternehmenswert bewerten.
+120
+
+[Page 121]
+• Das Modul f¨
+uhrt außerdem in die wichtigsten Theorien der Kapitalstruktur und deren Bedeu-
+tung f¨
+ur ﬁnanzwirtschaftliche Unternehmensentscheidungen ein. Die Studierenden lernen, die
+Vor- und Nachteile von Eigen- und Fremdﬁnanzierung kritisch zu vergleichen, um fundierte Ka-
+pitalstrukturentscheidungen zu treffen, die den Marktwert des Unternehmens steigern.
+• Die Studierenden verstehen, wie ESG-Faktoren (Environmental, Social, Governance) Finanzm¨
+arkte
+und Unternehmensentscheidungen beeinﬂussen. Sie k¨
+onnen das sogenannte “Greenium” bei An-
+leiherenditen analysieren, den Zusammenhang zwischen ESG-Leistung und Aktienrenditen be-
+werten sowie die Auswirkungen von Nachhaltigkeit auf Kapitalstrukturentscheidungen untersu-
+chen.
+• Im gesamten Kurs werden theoretische Konzepte durch praktische ¨
+Ubungen und Anwendungen
+vertieft, um eine enge Verbindung zwischen akademischem Lernen und realer Finanzpraxis si-
+cherzustellen.
+Inhalte und Themen:
+• Einf¨
+uhrung: Unternehmensﬁnanzierung und der Finanzmanager
+• Zinss¨
+atze, Bewertung und Kapitalkosten
+– Zinss¨
+atze
+– Anleihen
+– Aktienbewertung I (Dividenden-Discount-Modell, DDM)
+– Aktienbewertung II (Discounted Cash Flow und dar¨
+uber hinaus, DCF)
+– Systematisches Risiko und Risikoaufschlag im Aktienmarkt
+– Kapitalkosten
+• Kapitalstruktur
+• Optionsanwendungen in der Unternehmensﬁnanzierung
+• Fusionen & ¨
+Ubernahmen
+• Ausgew¨
+ahlte Themen der nachhaltigen Finanzierung
+– Gibt es ein “Greenium” bei Anleiherenditen?
+– ESG und Prognose von Aktienrenditen
+– ESG und Entscheidungen zur Kapitalstruktur
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+121
+
+[Page 122]
+•
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+•
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL) 2 SWS
+• ¨
+Ubung (¨
+U) 2 SWS
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• 90-min¨
+utige Klausur am Ende des Semesters
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 30 Stunden = Pr¨
+asenzzeit Vorlesung
+• 30 Stunden = Pr¨
+asenzzeit ¨
+Ubung
+• 15 Stunden = Vorbereitung Vorlesung
+• 15 Stunden = Vorbereitung ¨
+Ubung
+• 60 Stunden = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur (90 Minuten) – 100%
+Polyvalenz mit anderen Studieng¨
+angen:
+•
+Bemerkungen: Die relevante Literatur wird in der Veranstaltung bekanntgegeben.
+122
+
+[Page 123]
+Sustainability and Business Strategy
+Modultitel
+Sustainability and Business Strategy
+Modultitel Englisch
+Sustainability and Business Strategy
+Modulnummer
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Economics, esp. Sustainable Economic Policy (VWL, insb.
+Nachhaltige Wirtschaftspolitik)
+Modulverantwortlich
+Prof. Dr. Maria Waldinger
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Students develop a nuanced understanding of sustainability, critically evaluating its challenges
+and opportunities in business strategy.
+• They apply theoretical concepts from sustainability economics, public policy, and behavioral eco-
+nomics to anticipate and navigate sustainability-related business challenges and opportunities.
+• Students analyze the impact of economic policies promoting sustain-ability on corporate strategy
+and operations.
+• They assess how changes in market forces, such as consumer demand, inﬂuence private busines-
+ses.
+• Students gain expertise in identifying behavioral and structural barriers to sustainable transfor-
+mation within ﬁrms, enabling them to anticipate and address these challenges effectively.
+• They evaluate and critique theoretical and empirical models of sustainable economies.
+Inhalte und Themen: This course examines the intersection of behavioral economics, sustainability,
+and business strategy. Students will develop a comprehensive understanding of the economic princip-
+les underlying sustainable development and explore their implications for corporate decision-making.
+Through the analysis of scientiﬁc literature, policy evaluations, and case studies from the corporate
+sector, students will critically assess the role of sustainability in business strategy.
+123
+
+[Page 124]
+• 1. The Economics of Sustainability
+• 2. Sustainability and Economic Growth
+• 3. Sustainable Economic Policies and Their Impact on Companies
+– a. EU Green Deal, Carbon Border Adjustment Mechanism, CO2 tax
+• 4. Market Incentives for Sustainable Production
+– a. Efﬁciency increases (improved resource allocation, im-proved environmental risk and
+innovation)
+– b. Employee behaviour and loyalty
+– c. Consumer demand for sustainable production
+• 5. Behavioral Barriers to Sustainable Business Practices
+• 6. Models of a Sustainable Economy a. Circular Economy b. Bioeconomy
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• None
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• None
+Lehr- und Pr¨
+ufungssprache:
+• English
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Lecture (2 SWS)
+• Tutorial (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Performance record assessed with at least ßufﬁcient”: exam (90 minutes)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+124
+
+[Page 125]
+• 24 h = Time of attendance lecture
+• 20 h = Time of attendance tutorial
+• 54 h = Preparation and post-processing lecture and tutorial
+• 52 h = Exam preparation
+• 150 h = Total workload
+Modulnote:
+• Exam (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business Administration M.Sc.
+• Doctoral studies
+• Zusatzzertiﬁkat SSustainability”
+Bemerkungen: -
+125
+
+[Page 126]
+Steuerforschung
+Modultitel
+Steuerforschung
+Modultitel Englisch
+Tax Research
+Modulnummer
+88-021-TA11-H-0716
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre, M. Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Betriebswirtschaftliche Steuerlehre
+Modulverantwortlich
+Prof. Dr. Reinald Koch
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Interdisziplin¨
+ares Wissen zu Fragen der internationalen Besteuerung
+• Kenntnisse aktueller Forschungsmethoden in der Steuerforschung
+• Verst¨
+andnis der Vorz¨
+uge eines interdisziplin¨
+aren Forschungsansatzes
+Inhalte und Themen:
+Das Seminar besch¨
+aftigt sich jedes Jahr mit einem speziﬁschen Thema der internationalen Besteuerung
+und betrachtet diese sowohl aus betriebswirtschaftlicher als auch aus volkswirtschaftlicher Sicht.
+nNeben diesem speziellen Thema vermittelt das Seminar Methoden sowohl aus der Betr. Steuerlehre als
+auch aus der Volkswirtschaftslehre:
+• Empirische und ¨
+okonometrische Strategien zur Ermittlung von Steuereffekten
+• Wirtschaftsmodelle, die auf internationale Steuerfragen angewendet werden
+• Rechtliche Aspekte internationaler Steuerfragen Eink¨
+unften
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+126
+
+[Page 127]
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL) (2 SWS)
+• Pr¨
+asentation / Diskussion
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Pr¨
+asentation (100 %)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• Kontakt-/Selbststudium in der Vorlesung und Abschlusspr¨
+asentation: 2 ECTS-Punkt(e), entspricht
+60 Stunden
+• Vor- und Nachbereitung (umfasst Studienleistungen): 1 ECTS-Punkt(e), entspricht 30 Stunden
+• Vorbereitung Leistungsnachweis: 2 ECTS-Punkt(e), entspricht 38 Stunden
+• Summe = 5 ECTS, entspricht 150 Stunden
+Modulnote:
+• Leistungsnachweis (100 %)
+Polyvalenz mit anderen Studieng¨
+angen: Betriebswirtschaftslehre, M.Sc. (FACT)
+Bemerkungen:
+• Literatur wird zu Beginn der Veranstaltung bekannt gegeben.
+127
+
+[Page 128]
+Theorien und Strategien des Destinationsmanagements und -marketings
+Modultitel
+Theorien und Strategien des Destinationsmanagements und
+-marketings
+Modultitel Englisch
+Theory and Strategy in Destination Management and Marke-
+ting
+Modulnummer
+88-021-BR02-H-0812
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Tourismus und nachhaltige Regionalentwicklung M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Lehrstuhl Tourismus
+Modulverantwortlich
+Prof. Dr. Harald Pechlaner
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Die Studierenden des Moduls werden:
+• einen sachgerechten und kritischen Umgang mit grundlegenden Begriffen des Tourismusmanage-
+ments erlernen,
+• werden ein vertieftes Verst¨
+andnis f¨
+ur die speziellen Fragestellungen des Tourismussektors entwi-
+ckeln,
+• einen Einblick in die praktische Umsetzung ausgew¨
+ahlter Fragestellungen erhalten,
+• lernen eigenst¨
+andig Themen aus dem Bereich Tourismus zu bearbeiten,
+• auf aktuelle Fragen des Tourismusmanagements sensibilisiert,
+• mit Unternehmen und Akteuren in Kontakt gebracht, die sich aktiv in der Praxis mit den zuvor
+besprochenen Fragestellungen besch¨
+aftigen.
+Inhalte und Themen:
+Die Studierenden sollen mit neuen und vor allem aktuellen Konzepten
+des Destinationsmanagements und -marketings konfrontiert werden. Ausgehend von neuen struktu-
+rellen Ans¨
+atzen des Destinationsmanagements geht es darum wesentliche Probleme und Perspektiven
+des Managements und Marketings von touristischen Dienstleistungen im Kontext moderner Ans¨
+atze
+verst¨
+andlich zu machen. Ziel des Moduls ist es den Studierenden einen vertieften Einblick in die Grund-
+lagen des strategischen Managements von Tourismusunternehmen zu geben. Darauf aufbauend besteht
+128
+
+[Page 129]
+das Ziel der Veranstaltung darin, die Studierenden zu bef¨
+ahigen, auf der Grundlage von Methoden
+und Instrumenten des Destinationsmanagements Mittel- bis Langfriststrategien f¨
+ur die touristischen
+Anbieter zu formulieren. Inhalt des Moduls sind ausgew¨
+ahlte Thematiken aus den unterschiedlichen
+Branchen und Industrien des Tourismus sowie das Hervorstellen der Vernetzung zwischen diesen Bran-
+chen und Industrien. Vertiefend werden die Zusammenh¨
+ange zwischen Destinations-, Standort- und
+Regionalmanagement diskutiert. Es wird die Theorie des Destinationsmanagements aufgearbeitet. Zu-
+dem werden ausgew¨
+ahlte Strategien des Managements traditioneller Destinationen und des Marketings
+sowie der Produkt- und Angebotsentwicklung in diesem Modul pr¨
+asentiert und diskutiert.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung/Seminar (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Ausarbeitung und Vorstellung einer wissenschaftlichen Pr¨
+asentation in Kleingruppen
+• Gegen¨
+uberstellung und Diskussion der Pr¨
+asentationsthemen unter aktivem Einbezug der Studie-
+renden
+• Reﬂexion der betrachteten Themen und gelernten Inhalte
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 60 h = Vor- und Nachbereitung Vorlesung
+• 30 h = Vor- und Nachbereitung ¨
+Ubung
+129
+
+[Page 130]
+• 60 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfolio (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+• Betriebswirtschaftslehre M.Sc.
+Bemerkungen: -
+130
+
+[Page 131]
+Transportlogistik
+Modultitel
+Transportlogistik
+Modultitel Englisch
+Transportation Logistics
+Modulnummer
+88-021-SCM20-H-0419
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Lehrstuhl f¨
+ur ABWL, Logistik und Operations Analytics
+Modulverantwortlich
+Prof. Dr. Pirmin Fontaine
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Studierende
+• erlangen ein detailliertes und kritisches Verst¨
+andnis von realen Fragestellungen der Transportlo-
+gistik
+• sind in der Lage Transportlogistikprobleme mathematisch darzustellen
+• k¨
+onnen m. H. v. heuristischen und exakten Algorithmen die vorgestellten Logistikprobleme l¨
+osen
+• interpretieren und beurteilen die L¨
+osungen der verschiedenen Verfahren
+• k¨
+onnen die erlernten Konzepte auf reale Fragestellungen transferieren und auf Basis von Fallstu-
+dien anwenden
+Inhalte und Themen:
+• Grundlagen der Transportlogistik
+• Transportproblem
+• Rundreiseproblem
+• Handlungsreisendenproblem
+• Netzwerkplanung
+• Hub-Location-Problem
+131
+
+[Page 132]
+• Facility Location Problem
+• Praktische Anwendungen
+• Nachhaltigkeit in der Transportlogistik
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundlagen der Mathematik und Statistik
+• Grunds¨
+atzliches Problemverst¨
+andnis f¨
+ur die in den betriebswirtschaftlichen Funktionsbereichen
+Produktion und Logistik bestehenden Entscheidungsprobleme (u.a. Organisationsprinzipien der
+Produktion, Produktionsprogrammplanung, Ressourceneinsatzplanung, Ablaufplanung und Pro-
+duktionssteuerung).
+• Theoretische Grundlagen der linearen Optimierung von Vorteil.
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung/¨
+Ubung (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Der Kurs vermittelt neben grundlegenden theoretischen Konzepten, Modellen und Methoden zu
+Themen der Transportlogistik auch deren praktischen Umsetzung im Zuge von praxisorientierten
+Fallstudien. Die Bearbeitung dieser Fallstudien erfordert eine schriftliche Ausarbeitung. Daher ist
+aus didaktischen Gr¨
+unden neben einer Klausur auch ein schriftlicher Bericht ¨
+uber die Ergebnisse
+Fallstudie zwingend erforderlich.
+• Die einzelnen Pr¨
+ufungsleistungen setzen sich wie folgt zusammen:
+– Klausur: Pr¨
+ufungszeit 60 Minuten ¨
+uber die theoretischen Konzepte, Modelle und Methoden
+zur Transport Logistik
+132
+
+[Page 133]
+– Fallstudie: Bearbeitung einer Fallstudie im Rahmen einer Gruppenarbeit. Schriftlicher Be-
+richt (Referat) zur Bearbeitung der Fallstudie.
+– Alle Teilpr¨
+ufungsleistungen m¨
+ussen bestanden werden und k¨
+onnen nicht wiederholt werden.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 20 h = Pr¨
+asenzzeit Vorlesung
+• 20 h = Vor- und Nachbereitung Vorlesung
+• 24 h = Pr¨
+asenzzeit ¨
+Ubung
+• 24 h = Vor- und Nachbereitung ¨
+Ubung
+• 32 h = Anfertigung Fallstudie
+• 30 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur (67%)
+• Fallstudie (33%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+• Domschke, W. (2007), Logistik: Transport, 5. Auﬂ., Oldenbourg
+• Domschke, W., Scholl, A. (2010), Logistik: Rundreisen und Touren, 5. Auﬂ., Oldenbourg
+• Domschke, W., Drexl, A. (1995), Logistik: Standorte, 4. Auﬂ., Oldenbourg
+• Toth, P., Vigo, D. (2014), Vehicle Routing – Problems, Methods, and Applications, 2nd ed., Siam
+• Ballou, R.H. (2004), Business Logistics/Supply Chain Management, 5th ed., Pearson
+133
+
+[Page 134]
+Umsatzsteuerrecht
+Modultitel
+Umsatzsteuerrecht
+Modultitel Englisch
+Value Added Tax (VAT)
+Modulnummer
+88-021-TX03-H-0917
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Betriebswirtschaftliche Steuerlehre
+Modulverantwortlich
+Prof. Dr. Reinald Koch
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Aufgrund der H¨
+ohe des Steueraufkommens und der Betrugsanf¨
+alligkeit ist die Umsatzsteuer in
+den vergangenen Jahren zunehmend in den Fokus der Finanzb¨
+orden sowie der Unternehmen
+ger¨
+uckt.
+• Studierende des Kurses lernen die Grundz¨
+uge des deutschen Umsatzsteuerrechts kennen und ent-
+wickeln ein Verst¨
+andnis f¨
+ur die praktischen Herausforderungen im Bereich Umsatzsteuer f¨
+ur na-
+tionale und internationale Unternehmen.
+• Studierende erwerben Techniken zur L¨
+osung von umsatzsteuerlichen Sacherhalten und deren ei-
+genst¨
+andige ¨
+Ubertragung auf neue Sachverhalte. Dabei erlernen sie auch den Umgang mit den
+einschl¨
+agigen Rechtsquellen.
+• Nach Abschluss des Kurses verf¨
+ugen die Studierenden ¨
+uber das notwendige Wissen, umsatzsteu-
+erliche Fragestellungen zu l¨
+osen.
+Inhalte und Themen:
+• Unternehmer und Organschaft
+• Lieferungen (Ort der Lieferung, Reihengesch¨
+afte, innergemeinschaftliche Lieferung, Ausfuhr)
+• Sonstige Leistungen (Leistungsaustausch, Schadenersatz etc.)
+• Steuerschuldner, Steuerentstehung und Bemessungsgrundlage
+134
+
+[Page 135]
+• Vorsteuerabzug
+• Compliance: Umsatzsteuer-Voranmeldung, Umsatzsteuererkl¨
+arung etc.
+• Besonderheiten Real Estate, M&A inkl. Gesch¨
+aftsver¨
+außerung im Ganzen
+• Umsatzsteuer und Lohnsteuer
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+-
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung
+• Fallstudie
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Pr¨
+asentation zu einer Fragestellung
+und Diskussion
+• In Arbeitsgruppen ist eine Pr¨
+asentation zu einer vorgegebenen Fragestellung ((z.B. aktuelle Recht-
+sprechung, Fragestellung Mandant, Sachverhalt Betriebspr¨
+ufung) auszuarbeiten, vorzustellen
+und zu diskutieren.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 16 h = Pr¨
+asenzzeit Vorlesung
+• 45 h = Vor- und Nachbereitung Vorlesung
+• 78 h = Bearbeitung Fallstudie
+135
+
+[Page 136]
+• 8 h = Pr¨
+asenzzeit Abschlusspr¨
+asentation
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Pr¨
+asentation und Diskussion (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+Literatur wird zu Beginn der Veranstaltung bekannt gegeben
+136
+
+[Page 137]
+Umwandlungsrecht
+Modultitel
+Umwandlungsrecht
+Modultitel Englisch
+Commutation Law
+Modulnummer
+88-021-WR07-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+B¨
+urgerliches Recht, Zivilprozessrecht und Insolvenzrecht
+Modulverantwortlich
+Prof. Dr. iur. Christian Heinrich
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Studierende des Moduls erlernen einen sachgerechten und kritischen Umgang mit grundlegenden
+Begriffen des Umwandlungsrechts.
+• Ziel ist es, ein Verst¨
+andnis f¨
+ur ¨
+ubergreifende Zusammenh¨
+ange im Umwandlungsrecht zu entwi-
+ckeln.
+• Nach Abschluss des Moduls verf¨
+ugen die Studierenden ¨
+uber fundierte Kenntnisse des Umwand-
+lungsrechts.
+Inhalte und Themen:
+• Die Vorlesung vertieft die Grundlagen und Besonderheiten des Umwandlungsrechts.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Privatrecht I und II
+• Handels- und Gesellschaftsrecht
+137
+
+[Page 138]
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur (90 Minuten)
+• In der Klausur am Ende des Semesters wird anhand von Theoriefragen und Fallaufgaben der
+erlernte Stoff gepr¨
+uft.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 26 h = Pr¨
+asenzzeit Vorlesung
+• 100 h = Vor- und Nachbereitung Vorlesung
+• 24 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen: -
+138
+
+[Page 139]
+Umwandlungssteuerrecht
+Modultitel
+Umwandlungssteuerrecht
+Modultitel Englisch
+Restructuring of Organizations
+Modulnummer
+88-021-TA03-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Betriebswirtschaftliche Steuerlehre
+Modulverantwortlich
+Prof. Dr. Reinald Koch
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Studierende des Kurses entwickeln ein Verst¨
+andnis f¨
+ur die bei ¨
+Anderungen der Rechtsform und der
+Beteiligungsverh¨
+altnisse in Unternehmen anfallenden steuerlichen und außersteuerlichen Frage-
+stellungen.
+• Studierende erweitern ihre F¨
+ahigkeiten, Informationen zu strukturieren, zu bearbeiten und rich-
+tig zu interpretieren. Dabei erlernen sie die Anwendung der einschl¨
+agigen Rechtsquellen, deren
+Kommentierungen als auch den entsprechenden Urteilen und Verwaltungsanweisungen.
+• Nach Abschluss dieser Veranstaltung verf¨
+ugen die Studenten ¨
+uber Kenntnisse der steuerlichen
+Konsequenzen von in der Praxis verbreiteten Umstrukturierungsmaßnahmen und k¨
+onnen diese
+zur Beurteilung auch komplexerer Sachverhalte anwenden.
+Inhalte und Themen:
+• ¨
+Uberblick zum Umwandlungsrecht
+• Verschmelzung von Kapitalgesellschaften auf Personengesellschaften
+• Verschmelzung von Kapitalgesellschaften
+• Spaltung von Kapitalgesellschaften
+• Einbringung in Kapital- und Personengesellschaften
+139
+
+[Page 140]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Jahresabschluss und Unternehmensbesteuerung oder ein vergleichbarer Kurs wird empfohlen
+• Unternehmenssteuerrecht oder ein vergleichbarer Kurs wird empfohlen
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung mit zahlreichen ¨
+Ubungsbeispielen (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur (90 Minuten)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Pr¨
+asenzzeit Vorlesung
+• 56 h = Vor- und Nachbereitung Vorlesung
+• 66 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Abschlussklausur (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen: Literatur wird bekannt gegeben
+140
+
+[Page 141]
+Unternehmensethik
+Modultitel
+Unternehmensethik
+Modultitel Englisch
+Advanced Business Ethics
+Modulnummer
+88-021-WM07-H-1222
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Christliche Sozialethik und Gesellschaftspolitik
+Modulverantwortlich
+Prof. Dr. Andr´
+e Habisch
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Studierende des Moduls erlernen einen sachgerechten und kritischen Umgang mit grundlegenden
+Begriffen der Unternehmensethik. Sie richtet sich speziell an Studierende mit geringen Vorkennt-
+nissen aus dem BA.
+• Sie entwickeln ein Verst¨
+andnis f¨
+ur die ¨
+ubergreifenden Zusammenh¨
+ange verschiedener Dimensio-
+nen verantwortlichen unternehmerischen Handelns im Kontext gesellschaftlicher Entwicklungen.
+• Nach Abschluss des Moduls verf¨
+ugen die Studierenden zudem ¨
+uber Grundkenntnisse von Konzep-
+ten wie Corporate Social Responsibility, Corporate Citizenship, Sustainability etc.
+• Zur Erarbeitung dieser Kompetenzen soll die begleitende ¨
+Ubung wesentlich beitragen.
+Inhalte und Themen:
+• Unternehmensethik als Disziplin angewandter Ethik: Begriffe, Paradigmen, Ansatzpunkte
+• Unternehmen als Akteure und Resultat gesellschaftlicher Modernisierung: sozialwissenschaftliche
+Perspektiven
+• Einzelwirtschaftliches Handeln und Dilemmasituationen in der Marktwirtschaft
+• Unternehmen und unternehmerische Verantwortung im Kontext der Globalisierung
+• Handlungsfelder verantwortlichen Unternehmenshandelns: CSR, Markenmanagement, Qualit¨
+atsmanagement,
+Beruf & Familie, Nachhaltigkeitsmanagement, gesellschaftliches Engagement (Corporate Citizen-
+ship), CSR Kommunikation und Nachhaltigkeitsberichterstattung
+141
+
+[Page 142]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung/¨
+Ubung (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur (90 Minuten)
+• Das Modul wird durch eine Klausur abgeschlossen, die Multiple Choice wie auch Textfragen
+enth¨
+alt. In der begleitenden ¨
+Ubung werden Fallstudien bearbeitet und Kurzpr¨
+asentationen ge-
+halten.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 44 h = Pr¨
+asenzzeit Vorlesung
+• 66 h = Vor- und Nachbereitung Vorlesung (100% der Lehrveranstaltung)
+• 40 h = Pr¨
+ufungsvorbereitung und ggf. Kurzreferate
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+142
+
+[Page 143]
+Bemerkungen:
+• Backhaus-Maul, H; Biedermann, C; N¨
+ahrlich, S. & Polterauer, J. (Eds.) (2010) Corporate Citizen-
+ship in Deutschland. Gesellschaftliches Engagement von Unternehmen. Bilanz und Perspektiven,
+2. Auﬂage, Wiesbaden: VS Verlag f¨
+ur Sozialwissenschaften.
+• Crane, A. & Matten, D. (2010) Business ethics. Third Edition. Oxford: Oxford University Press.
+• Gazdar, K.; Habisch, A., Kirchhoff, K.R. & Vaseghi, S. (Eds.) (2006) Erfolgsfaktor Verantwortung.
+Corporate Social Responsibility professionell managen, Berlin-Heidelberg: Springer.
+• Habisch, A.; Schmidpeter, R. & Neuereiter, M. (Eds.) (2008) Handbuch Corporate Citizenship.
+Corporate Social Responsibility f¨
+ur manager, Berlin-Heidelberg: Springer.
+• Habisch, A; Jonker, J.; Wegner, M. & Schmidpeter, R. (Eds.) (2005) Corporate Social Responsibili-
+ty Across Europe. Discovering National Perspectives of Corporate Citizenship. Berlin-Heilderberg:
+Springer.
+• Habisch, A.; Loza Adaui, C. (2012) Entrepreneurial Spirit and the Role of Gratuitousness for
+Innovation, in D. Mel´
+e & C. Dierksmeier (Eds.) Human Development in Business: Values and
+Humanistic Management in the Encyclical Caritas in Veritate, Hampshire: Palgrave Macmillan,
+pp. 217-236.
+•
+• Habisch, A.; Loza Adaui, C. (2013) Unentgeltlichkeit als Kategorie Sozialen Handelns: Gesell-
+schaftlichen Engagement nach “Caritas in Verita
+• te”, in J. Althammer (Ed.) Caritas in Veritate: Katholische Soziallehre im Zeitalter der Globali-
+sierung, Berlin: Duncker & Humblot, pp
+• . 173-188.
+• Koths, G.; Holl, F. (2012) Verantwortungsvoller Konsum – Ein Probl
+• em asymmetrisch verteilter Information? in A. Schneider & R. Schmidpeter (Eds.) Corporate
+Social Responsibility, Berlin: Springer, pp. 663-679.
+• McLean, B.; Elkind, P. (2004) The smartest guys in the room: The amazing rise and scandalous
+fall of ENRON, New York: Penguin.
+• Mel´
+e, D. (2009) Business ethics in action. Seeking human excellence in organizations. Hampshi-
+re: Palgrave Macmillan.
+• Mel´
+e, D. (2012) Management ethics. Placing ethics at the core of good management. Hampshire:
+Palrave Macmillan.
+143
+
+[Page 144]
+• Painter-Morland, M. & ten Bos, R., (Eds.) (2011) Business ethics and continental philosophy,
+Cambridge: Cambridge University Press.
+• Schneider, A. & Schmidpeter, R. (Eds.) Corporate Social Responsibility, Berlin: Springer.
+• Spence, L.; Habisch, A. & Schmidpeter, R. (2004) Responsibility and Social Capital. The World
+of Small and Medium Sized Enterprises, Chippenham-New York: Palgrave Macmillan.
+• Visser, W & Tolhurst, N (Eds.) (2010) The World Guide to CSR. A Country-by-Country Analysis
+of Corporate Sustainability and Responsibility, Sheeﬁeld: Greenleaf.
+144
+
+[Page 145]
+Wirtschaftliches Pr¨
+ufungswesen
+Modultitel
+Wirtschaftliches Pr¨
+ufungswesen
+Modultitel Englisch
+Internal and external auditing
+Modulnummer
+88-021-AC05-S-VL-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Controlling und Wirtschaftspr¨
+ufung
+Modulverantwortlich
+Prof. Dr. Max G¨
+ottsche
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Diese Veranstaltung gibt den Studierenden einen vertiefenden Einblick in die Konzepte und Prin-
+zipien des wirtschaftlichen Pr¨
+ufungswesens.
+• Studierende des Kurses erlernen einen sachgerechten und kritischen Umgang mit fortgeschrittenen
+Pr¨
+ufungstechniken unter besonderer Ber¨
+ucksichtigung des risikoorientierten Pr¨
+ufungsansatzes.
+• Studierende entwickeln ein Verst¨
+andnis f¨
+ur die ¨
+ubergreifenden Zusammenh¨
+ange der Teildiszipli-
+nen des wirtschaftlichen Pr¨
+ufungswesens (Pr¨
+ufungsgegenstand, Pr¨
+ufungstechnik, Pr¨
+ufungsgrunds¨
+atze
+und der Rechnungslegung).
+• Dar¨
+uber hinaus erhalten die Studierenden einen ¨
+Uberblick ¨
+uber den Stand der empirischen Wirt-
+schaftspr¨
+ufungsforschung (u.a. Pr¨
+ufungshonorare, Unabh¨
+angigkeit, Ethik).
+• Nach Abschluss des Kurses verf¨
+ugen die Studierenden ¨
+uber die Kompetenz, Fragenstellungen aus
+dem Bereich Wirtschaftspr¨
+ufung in fachlicher und ethischer Hinsicht bearbeiten zu k¨
+onnen.
+Inhalte und Themen:
+• Einleitung und Grundlagen der Wirtschaftspr¨
+ufung
+• Corporate Governance
+• Internes Kontrollsystem/Risikofr¨
+uherkennungssystem
+• Analytische Pr¨
+ufungshandlung
+145
+
+[Page 146]
+• Einzelfallpr¨
+ufung
+• Dolose Handlungen
+• Pr¨
+ufungshonorare
+• Unabh¨
+angigkeit
+• Ethik
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundkenntnisse im Bereich Pr¨
+ufungslehre/Wirtschaftspr¨
+ufung
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung und ¨
+Ubung
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur 100% (90 Minuten)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Pr¨
+asenzzeit Vorlesung
+• 28 h = Vor- und Nachbereitung Vorlesung
+• 14 h = Pr¨
+asenzzeit ¨
+Ubung
+• 28 h = Vor- und Nachbereitung ¨
+Ubung
+• 52 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+146
+
+[Page 147]
+Modulnote:
+• Leistungsnachweis oder bestanden/nicht bestanden
+• Klausur am Ende des Semesters
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation: Minor Accounting and Auditing
+Bemerkungen:
+• Keine
+147
+
+[Page 148]
+Workshop Empirical Accounting
+Modultitel
+Workshop Empirical Accounting
+Modultitel Englisch
+Workshop Empirical Accounting
+Modulnummer
+88-021-AC10-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+Sommersemester
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Controlling und Wirtschaftspr¨
+ufung
+Modulverantwortlich
+Prof. Dr. Max G¨
+ottsche
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Studierende erlernen die praktische Anwendung statistischer Methoden f¨
+ur Forschungsfragen im
+Accounting (z.B. Value Relevance) und Auditing (z.B. Audit Pricing).
+• Analyse aktueller Publikationen im Bereich Accounting zur Entwicklung eines kritischen Verst¨
+andnisses
+hinsichtlich geeigneter statistischer Methoden.
+• F¨
+ahigkeit, eigene Forschungsfragen mit dem Programm Python ¨
+uber Regressionsanalysen selbstst¨
+andig
+zu bearbeiten.
+Inhalte und Themen:
+• Einf¨
+uhrung in die Programme VBA
+• Monte-Carlo-Simulation von Regressionen mit VBA
+• OLS- und Panelregressionsanalysen
+• L¨
+osungsans¨
+atze bei Verletzungen von Regressionsannahmen
+• Typische Regressions- und Panelmodelle im Accounting und Auditing
+• Analyse aktueller Forschungsbeitr¨
+age und deren statistischer Methoden
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+148
+
+[Page 149]
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Kapitalmarktorientierte Rechnungslegung
+• Grundkenntnisse in Statistik
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL)
+• ¨
+Ubung (UE)
+• Pr¨
+asentation
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis
+• Zwei Arbeiten zur Pr¨
+ufung von Kenntnissen in VBA und Stata (je 20%)
+• Aufarbeitung und 45-min¨
+utige Pr¨
+asentation eines aktuellen Journal-Beitrags im Bereich Empiri-
+cal Accounting / Auditing (60%)
+• Kombination aus schriftlicher Arbeit und Pr¨
+asentation ist obligatorisch
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• Pr¨
+asenzzeit Vorlesung: 30 h
+• Vor- und Nachbereitung Vorlesung: 30 h
+• Pr¨
+ufungsvorbereitung: 90 h
+• Gesamtarbeitsaufwand: 150 h
+• Entspricht: 5 ECTS-Punkte
+Modulnote:
+149
+
+[Page 150]
+• Modulnote setzt sich aus zwei Arbeiten (je 20%) und der Pr¨
+asentation (60%) zusammen
+Polyvalenz mit anderen Studieng¨
+angen:
+• Keine Angabe
+Bemerkungen: -
+150
+
+[Page 151]
+Aktuelle Wirtschaftsthemen aus Spanien & Lateinamerica
+Modultitel
+Aktuelle Wirtschaftsthemen aus Spanien & Lateinamerica
+Modultitel Englisch
+Gesti´
+on Empresarial en Espa˜
+na y Latinoam´
+erica
+Modulnummer
+82-021-KUG10-H-0818
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Zentrum f¨
+ur Wirtschaftssprachen
+Modulverantwortlich
+Lawrence Diederich
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: In diesem Modul
+• erweitern Studierende den bereits vorhandene Fachvokabelschatz in der Zielsprache
+• erwerben Studierende sprachliche Mittel f¨
+ur Diskussionen und Pr¨
+asentationen auf Niveau B2+/C1
+Inhalte und Themen:
+• Modulinhalt sind tagesaktuelle Wirtschaftsthemen aus Spanien und Lateinamerika
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Wirtschaftsspanisch I & II o.¨
+a., Niveau B2+
+Lehr- und Pr¨
+ufungssprache:
+• Spanisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+151
+
+[Page 152]
+• ¨
+Ubung (3 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Die Abschlussnote ergibt sich aus
+– der Quantit¨
+at und Qualit¨
+at der m¨
+undlichen Mitarbeit
+– einer Klausur mit einem Text zu einem aktuellen Wirtschaftsthema
+– einer Pr¨
+asentation zu einem aktuellen Wirtschaftsthema
+Aufgrund der Kompetenzorientierung des Moduls ist die Kombination von Teilpr¨
+ufungen zwin-
+gend notwendig.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 39 h = Pr¨
+asenzzeit ¨
+Ubung
+• 59 h = Vor- und Nachbereitung ¨
+Ubung
+• 52 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• M¨
+undliche Pr¨
+ufung (50 %)
+• Schriftliche Pr¨
+ufung (50 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen: Teilnahmebeschr¨
+ankung: 15
+152
+
+[Page 153]
+Interkulturelle Kommunikation
+Modultitel
+Interkulturelle Kommunikation
+Modultitel Englisch
+Intercultural Communication
+Modulnummer
+82-021-KUG12-H-0507
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Zentrum f¨
+ur Wirtschaftssprachen
+Modulverantwortlich
+Lawrence Diederich
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Die Studierenden
+• erkennen kulturelle Unterschiede mithilfe relevanter Theorien und Konzepte (culture general)
+• reﬂektieren unterschiedliche kulturelle Werte, Erwartungen und Verhaltensweisen von Amerika-
+nern und Deutschen im Wirtschaftsleben (culture-speciﬁc).
+• erwerben interkulturelle Kompetenz durch Reﬂektion eigener Werte und Verhaltensweisen
+• verbessern ihre Interaktionskompetenz im Austausch mit internationalen Kommilitonen.
+Inhalte und Themen:
+• Kultur
+• Stereotypen und Kulturschock
+• Kultur und Konﬂiktl¨
+osungen
+• Kultur und gender
+• Deutsche und amerikanische Wertestrukturen
+• Deutsch-amerikanische Teams
+• Deutsch-amerikanische Verhandlungen und Besprechungen.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+153
+
+[Page 154]
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Wirtschaftsenglisch I & II o.¨
+a., Niveau B2+
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• ¨
+Ubung (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Die Abschlussnote ergibt sich aus
+– der Quantit¨
+at und Qualit¨
+at der m¨
+undlichen Mitarbeit
+– einer Klausur ¨
+uber die behandelten Themen
+– einem termpaper (10 Seiten) zu einem selbstgew¨
+ahlten und relevanten Thema
+Aufgrund der Kompetenzorientierung des Moduls ist die Kombination von Teilpr¨
+ufungen zwin-
+gend notwendig.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 26 h = Pr¨
+asenzzeit ¨
+Ubung
+• 52 h = Vor- und Nachbereitung ¨
+Ubung
+• 72 h = Pr¨
+ufungsvorbereitung/Paper
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• M¨
+undliche Pr¨
+ufung (40 %)
+• Schriftliche Pr¨
+ufung (30 %)
+154
+
+[Page 155]
+• Termpaper (30 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+• Teilnahmebeschr¨
+ankung: 15
+155
+
+[Page 156]
+La gestion de l’entreprise
+Modultitel
+La gestion de l’entreprise
+Modultitel Englisch
+French for Management
+Modulnummer
+82-021-KUG05-H-0507
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Zentrum f¨
+ur Wirtschaftssprachen
+Modulverantwortlich
+Lawrence Diederich
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: In diesem Modul erwerben Studierende
+• Begriffe des Unternehmensmanagements in der Zielfachsprache
+• Interaktionskompetenzen durch regelm¨
+aßige Gruppenarbeit
+• Reﬂexionskompetenz durch extensives Feedback
+• grundlegende interkulturelle Kompetenzen
+Inhalte und Themen:
+• Das Modul besch¨
+aftigt sich mit unterschiedlichen Managementkonzepten und -techniken und die
+daf¨
+ur notwendigen sprachlichen Mittel. (Niveau C1).
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Wirtschaftsfranz¨
+osisch I & II o.¨
+a., Niveau B2+
+Lehr- und Pr¨
+ufungssprache:
+156
+
+[Page 157]
+• Franz¨
+osisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• ¨
+Ubung (3 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Die Abschlussnote ergibt sich aus
+– der Quantit¨
+at und Qualit¨
+at der m¨
+undlichen Mitarbeit
+– einer Klausur mit einem Text zu einem aktuellen Wirtschaftsthema
+– einer Pr¨
+asentation zu einem aktuellen Wirtschaftsthema
+Aufgrund der Kompetenzorientierung des Moduls ist die Kombination von Teilpr¨
+ufungen zwin-
+gend notwendig.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 39 h = Pr¨
+asenzzeit ¨
+Ubung
+• 59 h = Vor- und Nachbereitung ¨
+Ubung
+• 52 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• M¨
+undliche Pr¨
+ufung (20 %)
+• Klausur (30 %)
+• Pr¨
+asentation (50 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen: Teilnahmebeschr¨
+ankung: 15
+157

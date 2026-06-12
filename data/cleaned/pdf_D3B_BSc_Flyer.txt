@@ -1,0 +1,269 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/D3B_BSc_Flyer.pdf
+TITLE: D3B_BSc_Flyer.pdf
+SOURCE_FILE: D3B_BSc_Flyer.pdf
+------------------------------------------------------------
+
+[Page 1]
+Warum in Ingolstadt studieren?
+Bewerbung/Kontakt
+Stand: Januar 2026
+Ingolstadt ist nach München die zweitgrößte Stadt Oberbay-
+erns und nur ca. 30 Min. von München entfernt. Mit einer top 
+Verkehrsanbindung im Herzen Bayerns bietet Ingolstadt ein 
+umfassendes Angebot an kulturellen Möglichkeiten. 
+Von Jazzkonzerten über zahlreiche studentische Veranstal-
+tungen bis hin zu traditionellen bayerischen Volksfesten ist viel 
+geboten. Zahlreiche Restaurants, Bars, Biergärten und Clubs 
+in der historischen Altstadt laden auf ein, zwei „Helle“ nach 
+den Vorlesungen ein. 
+Die Region Ingolstadt hat eine der niedrigsten Arbeitslosen-
+quoten Deutschlands. Dies ist u.a. auf weltbekannte Großun-
+ternehmen wie Airbus, Audi, Edeka, Media-Saturn oder Hipp 
+zurückzuführen, die in und um Ingolstadt ihren Sitz haben. 
+Bachelorstudiengang
+Digital & Data-Driven 
+Business (D³B)
+D³B an der WFI
+Ausgezeichnete Spitzenfakultät
+Bestplatzierung in Universitätsrankings 
+(CHE, StudyCheck, Trendence ...)
+Exzellentes Betreuungsverhältnis
+persönliche Betreuung für 
+optimalen Studienerfolg
+Innovative & praxisnahe Lehre
+lernen, was wirklich zählt – mit 
+zahlreichen Partnerunternehmen & 
+interaktiven Formaten
+Ideales Sprungbrett in den Beruf
+exklusives Karriereportal, 
+Recruiting-Events & Karriereberatung
+Starke Gemeinschaft 
+aktive Studierendenorganisationen & 
+globales Alumni-Netzwerk
+International vernetzt
+Mehr als 90 Partneruniversitäten 
+weltweit & vielfältige Möglichkeiten 
+für Auslandsaufenthalte
+Noch Fragen? Jetzt einen Beratungstermin vereinbaren!
+Franziska Rast
+Referentin für Studienberatung
+Telefon: +49 841 937-21863
+E-Mail: studienberatung-wfi@ku.de 
+Die Bewerbung für den Studiengang D³B erfolgt über das 
+zentrale Bewerbungsportal der KU unter der Adresse 
+ 
+https://bewerbung.ku.de. 
+Bitte beachten Sie, dass der Studiengang D3B derzeit 
+ 
+zulassungsfrei ist. Das Studium beginnt zum Winterse-
+mester. Die Fristen zur Einschreibung sowie weiterführende 
+Informationen finden Sie unter: 
+ www.ku.de/d3b
+Studium an der KU: www.ku.de/studieninteressenten
+Informationen zur Fakultät: www.ku.de/wfi
+WFI – Ingolstadt School of Management
+Uni.Eichstaett
+Über alle Branchen (Industrie, Dienstleistung, Handel), Un-
+ternehmensgrößen (Klein-, Mittel- und Großunternehmen) 
+und betrieblichen Funktionsbereiche (Marketing, Finanzie-
+rung, Rechnungswesen, Supply Chain Management etc.) 
+hinweg findet aktuell ein rasanter digitaler Transformations-
+prozess statt. Wirtschaft und Gesellschaft sind zunehmend 
+mit vernetzten Informationssystemen, datenanalysierenden 
+Methoden sowie Algorithmen der Künstlichen Intelligenz 
+durchdrungen.
+Der D³B greift diese Entwicklung mit der zukunftsweisen-
+den Verbindung von Data Analytics und Digitalisierung auf. 
+Im Rahmen des Studiums eignen sich Studierende metho-
+dische und problemorientierte Kompetenzen an. So sind 
+Absolvierende in der Lage, sich in digitalen Transformations-
+prozessen im Unternehmen oder Startup erfolgreich einzu-
+bringen. Auch die Gestaltung und Steuerung von einschlägi-
+gen Geschäftsmodellen ist Teil des Portfolios.
+Welche Möglichkeiten ergeben sich nach dem D³B?
+Ziel des Bachelorstudiums ist zum einen der direkte Einstieg 
+in zukunftsweisende Berufsfelder. Zum anderen dient der 
+Studiengang als Vorbereitung auf ein weiterführendes Mas-
+terstudium in den Bereichen BWL, VWL und Wirtschaftsin-
+formatik sowie Management & Data Science, Business Ana-
+lytics oder Digital Entrepreneurship. An der WFI wird u.a. der 
+Masterstudiengang BWL mit Schwerpunkt Business Ana-
+lytics and Operations Research angeboten.
+ 
+Der D³B ist der ideale Ausgangspunkt, um sich für einen 
+Job mit Zukunftspotenzial zu qualifizieren, beispielsweise KI-
+Spezialist, Data Consultant, Data Engineer, Data Scientist, 
+IT-Security-Spezialist, Chief Digital Officer oder Produktma-
+nager Digital.
+Sechs Argumente für die WFI
+
+[Page 2]
+Studieninhalt
+Aufbau und Studienverlauf
+International & Praxisorientiert
+Ein besonderes Anliegen des Studiengangs ist es, die Fragen 
+der Digitalisierung und der Datenerfassung sowie den Um-
+gang mit Big Data im internationalen Kontext zu analysieren, 
+zu diskutieren und zu reflektieren. Internationale Aspekte fin-
+den sich daher in verschiedener Form im Studienprogramm:
+ 
+
+Im Wahlpflichtbereich „Business Language and Ma-
+nagement Skills“ werden Kenntnisse einer Wirtschafts-
+sprache sowie interkulturelle Kompetenzen vermittelt.
+ 
+
+Innerhalb der zweiten Studienphase kann ein Auslands-
+semester absolviert werden. Je nach Angebot können 
+die Studierenden vergleichbare Module einbringen, die 
+an in- und ausländischen Hochschulen (z. 
+B. an einer 
+der Partnerhochschulen) erfolgreich absolviert wurden.
+ 
+
+Das Studienprogramm beinhaltet ein vielfältiges Ange-
+bot englischsprachiger Module. Internationale Gastvor-
+lesungen und Forschungsprojekte ergänzen das Curri-
+culum.
+Digital Project – erste Praxiserfahrungen sammeln
+Im Zuge der digitalen Projektarbeit (Digital Project) bearbeitet 
+ein Team von Studierenden ein aktuelles Forschungsthema 
+oder ein an die Unternehmenspraxis angelehntes oder in Zu-
+sammenarbeit mit der Unternehmenspraxis durchgeführtes 
+Projekt. Das „Digital Project“ dient dazu, das bisher erlangte 
+Wissen im Bereich der Digitalisierung und Datenanalyse in 
+einem konkreten Praxisprojekt anzuwenden.
+Bachelorarbeit – Schlüssel zum Berufseinstieg oder 
+Master
+Die Bachelorarbeit ermöglicht den Studierenden, zum Ab-
+schluss ihres Studiums eine spezifische studiengangsbezo-
+gene Fragestellung tiefgründig zu bearbeiten. Die Fragestel-
+lung kann vorwiegend theoriegeleitet formuliert oder an einer 
+konkreten praktischen Fragestellung angelehnt sein oder so-
+gar unmittelbar in Zusammenarbeit mit der Praxis erfolgen.
+Der Bachelorstudiengang D³B vermittelt relevantes Fach- 
+und Methodenwissen sowie Anwendungswissen, welches 
+im Zuge der Gestaltung, des Betriebs und der Steuerung 
+von digitalen und datengetriebenen Geschäftssystemen not-
+wendig ist. Das Studium verbindet daher die folgenden vier 
+grundlegenden Studienbereiche:
+ 
+
+Informationsverarbeitende Systeme, Programme und 
+Methoden
+ 
+
+Wirtschaftswissenschaften mit Schwerpunkt digitale 
+Wirtschaft
+ 
+
+Quantitative Methoden, Mathematik und Statistik
+ 
+
+Sprach-, Sozial-, Kommunikations- und Handlungs-
+kompetenz (Soft Skills) sowie Ethik
+Die interdisziplinäre Orientierung des Studiengangs verbin-
+det die vier wissenschaftlichen Fachgebiete, die jeweils im 
+gleichen Maß im Fokus des Studiums stehen. 
+Insbesondere durch dieses ausgewogene Verhältnis hebt 
+sich der D³B von alternativen Studiengängen anderer Hoch-
+schulen wie der Betriebswirtschaftslehre, Digitalen Wirt-
+schaft, Wirtschaftsinformatik, Data Science oder der Infor-
+matik ab, die ihren Schwerpunkt in der Regel nur auf einen 
+oder wenige Fachbereiche legen.
+Studienverlauf
+Die Regelstudienzeit beträgt sechs Semester. Insgesamt sind 
+180 ECTS-Punkte zu erwerben, die sich auf einen Pflicht-, 
+Wahlpflicht- und einen Wahlbereich sowie auf ein „Digital Pro-
+ject“ und die Bachelorarbeit verteilen. Die ersten drei Semes-
+ter beinhalten grundlegende Fach- und Methodenmodule, die 
+wesentliche digitale, datenanalytische sowie problem- und an-
+wendungsbezogene Kompetenzen vermitteln. 
+1. Semester
+2. Semester
+3. Semester
+4. Semester
+5. Semester
+6. Semester
+Grundlagen von
+Informations-
+systemen
+Digital Business 
+Strategies, Organi-
+zation, Innovation
+Software
+Engineering
+& Programming
+Studienprofile
+ 
+
+Marketing, Organization, Innovation
+ 
+
+Supply Chain Management & Logistics
+ 
+
+Accounting, Taxation & Controlling
+ 
+
+Finance & Economics
+Digital and 
+Sustainable 
+Business Models
+Einführung 
+Quantitative 
+Methoden
+Software Tools for 
+Simulation & 
+Optimization
+Betriebliches 
+Rechnungswesen
+Business Analytics 
+and Data Mining
+Digital Systems & 
+Operations- 
+management
+Einführung in die
+Volkswirtschafts-
+lehre
+Mikroökonomie
+Investition,
+Finanzierung & 
+Steuern
+Mathematik für 
+Wirtschaftswissen-
+schaftler
+Deskriptive Statistik 
+und Wahrschein-
+lichkeitstheorie
+Induktive und 
+multivariate Statistik 
+Digital Project
+(10 ECTS-Punkte)
+Bachelorarbeit
+(10 ECTS-Punkte)
+Wirtschafts- 
+sprache 1
+Wirtschafts- 
+sprache 2
+Studium.Pro
+Wirtschafts- &
+Unternehmens-
+ethik
+Die erworbenen Kompetenzen aus der ersten Studienphase 
+werden vom 4. bis zum 6. Semester durch die Wahl eines be-
+triebswirtschaftlichen Studienprofils mit fachspezifischem, pra-
+xisnahem Wissen verbunden. So lernen die Studierenden, ihre 
+digitalen und datenanalytischen Kompetenzen im gewählten 
+Fachgebiet der Betriebswirtschaftslehre problemspezifisch ein-
+zusetzen und anzuwenden. Hinzu kommen weiterführende Me-
+thodenkurse im Bereich der Digitalisierung und Datenanalytik.
+Pflicht-
+module
+Gesamt
+180 ECTS-Punkte
+Digital Project
+& Bachelorarbeit
+Wahlpflicht- &
+Studienprofilmodule
+Idealtypischer Studienverlaufsplan

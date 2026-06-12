@@ -1,0 +1,131 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Aisthesis_IntDi_BA.pdf
+TITLE: Studienverlaufsplan_Aisthesis_IntDi_BA.pdf
+SOURCE_FILE: Studienverlaufsplan_Aisthesis_IntDi_BA.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Belegt werden müssen: 
+ ein Hauptfach mit mindestens 60 ECTS-Punkten , 
+ ein Nebenfach mit mindestens 60 ECTS-Punkten , 
+ Module im Profilbereich im Umfang von mindestens 30 ECTS-Punkten , 
+ das Studium.Pro (vormals Studium Generale) mit 10 ECTS-Punkten , 
+ ein Praktikum mit 5 ECTS-Punkten , 
+ die Bachelorarbeit mit 10 ECTS-Punkten , 
+ ein Modul Methodenseminar zur Vorbereitung der Abschlussarbeit mit 5 ECTS-Punkten , 
+ 
+* Im 5. Semester besteht die Möglichkeit eines Auslandssemesters bzw. eines Praktikums von mehreren Monaten. 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+Bachelorarbeit 
+(10 ECTS-Punkte) 
+ 
+Methodenseminar 
+(5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Hauptfach 
+(5 ECTS-Punkte) 
+Hauptfach 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+5 * 
+Nebenfach 
+(5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Nebenfach 
+ (5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Hauptfach 
+(5 ECTS-Punkte) 
+Hauptfach 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+4 
+Transdisziplinäre 
+Studien 
+(5 ECTS-Punkte) 
+Wahlpflichtmodule 
+(5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+ 
+Nebenfach 
+(5 ECTS-Punkte) 
+Hauptfach 
+(5 ECTS-Punkte) 
+Hauptfach 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+3 
+Wahlpflichtmodule 
+ (5 ECTS-Punkte) 
+Wahlpflichtmodule 
+(5 ECTS-Punkte) 
+Praktikum 
+ (5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Hauptfach 
+(5 ECTS-Punkte) 
+Hauptfach 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+2 
+Wahlpflichtmodule 
+ (5 ECTS-Punkte) 
+ 
+ 
+ 
+ 
+Studium Pro 
+(10 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Hauptfach 
+(5 ECTS-Punkte) 
+Hauptfach 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+1 
+Kultur und Medien 
+(5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Nebenfach 
+(5 ECTS-Punkte) 
+Hauptfach 
+(5 ECTS-Punkte) 
+Hauptfach 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte

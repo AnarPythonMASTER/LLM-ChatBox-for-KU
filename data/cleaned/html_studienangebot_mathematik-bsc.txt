@@ -1,0 +1,151 @@
+SOURCE_URL: https://www.ku.de/studienangebot/mathematik-bsc
+TITLE: B.Sc. Mathematik – KU
+SOURCE_FILE: studienangebot_mathematik-bsc.html
+------------------------------------------------------------
+
+Mathematik
+zu den Informationen für Studierende
+Abschluss
+Bachelor of Science
+Semesterbeitrag
+88
+ Euro
+Studienbeginn
+Wintersemester
+Regelstudienzeit
+6
+ Semester
+Studienort
+Eichstätt
+Teilzeitstudium möglich
+Ja
+Der Bachelorstudiengang Mathematik an der KU qualifiziert Sie sowohl für den Berufseinstieg als auch einen anschließenden Masterstudiengang an der KU oder jeder anderen europäischen Universität. Die Inhalte des Studiengangs sind sowohl theoretisch als auch anwendungsbezogen orientiert: Während Sie bei uns eine breite mathematische Ausbildung erhalten, bekommen Sie gleichzeitig einen profunden Einblick in die vielfältigen Anwendungsmöglichkeiten der Mathematik – sei es durch Vorlesungen wie Numerik, Wissenschaftliches Rechnen oder im gewählten Ausrichtungsfach.
+Um Sie perfekt auf den Berufseinstieg vorzubereiten, wird das Bachelor-Studium Mathematik an der KU durch die Wahl einer der folgenden Ausrichtungen (Nebenfächer) komplettiert:
+Wirtschaftsmathematik (Mathematik, Wirtschaftswissenschaften und Informatik),
+Geographie,
+empirische Wissenschaften (Psychologie, Soziologie),
+Philosophie,
+Data Science.
+Die Ausrichtungswahl gestaltet sich dabei sehr flexibel. Durch unsere sehr transparente und leicht zu erfassende Bachelor-Prüfungsordnung ist es unseren Studierenden leicht möglich, Inhalte anderer Ausrichtungen als der gewählten zu belegen. So können etwa Grundmodule der Geographie oder Psychologie in der Ausrichtung Wirtschaftsmathematik belegt werden. Ebenfalls ist es möglich, fachspezifische Informatikmodule wie Geoinformatik, Wirtschaftsinformatik oder computerorientierte Module der Angewandten Mathematik in das Studium einzubeziehen.
+Die flexible Wahl der Studieninhalte bezieht sich dabei nicht nur auf die Ausrichtung, sondern auf das gesamte Studium. So sind die Studierenden etwa nicht gezwungen, bestimmte Anteile ihrer Vorlesungen aus den Bereichen der reinen und angewandten Mathematik zu wählen. Dieses Gesamtkonzept gestattet Ihnen eine attraktive und selbstbestimmte Gestaltung Ihres ganz persönlichen Studiums.
+Das Studium im Detail
+Inhalt
+Kurz gefasst verläuft das Studium für gewöhnlich wie folgt: In den ersten zwei Semestern stehen hauptsächlich Pflichtvorlesungen auf dem Programm, die den Grundstein in Analysis und linearer Algebra legen. Zusätzlich erhalten Sie eine Einführung in Programmiertechniken und statistisches Arbeiten. Darauf aufbauend werden im zweiten Studienjahr Vorlesungen aus einem breit gefächerten Angebot von Wahlpflichtveranstaltungen gewählt. Im dritten Jahr wählen Sie ein Vertiefungsgebiet, in dessen Rahmen Sie dann auch schließlich Ihre Bachelorarbeit schreiben. Parallel zu den mathematischen Vorlesungen besuchen Sie Veranstaltungen aus Ihrem gewählten Ausrichtungsfach.
+Wegen der o.g. flexiblen Gestaltungsmöglichkeiten des Studiums unterscheiden sich die Studienverläufe unserer Studierenden typischerweise erheblich voneinander. Ein möglicher Studienverlauf könnte aber in etwa wie folgt aussehen:
+Aufbau
+1. Semester
+Analysis I, Lineare Algebra I, Einführung in die Programmiertechnik, Einführung in das Statistische Arbeiten
+2. Semester
+Analysis II, Lineare Algebra II und analytische Geometrie
+3. Semester
+Integrationstheorie, Einführung in die Algebra, Einführung in die Stochastik, Numerische Mathematik
+4. Semester
+Wahrscheinlichkeitstheorie, Algebra mit Galoistheorie, lineare Optimierung, wissenschaftliches Rechnen
+5. Semester
+Angewandte Statistik mit R, Funktionentheorie, Ganzzahlige Optimierung/Diskrete Mathematik
+6. Semester
+Differentialgleichungen, Mathematische Software, Funktionentheorie II, Bachelorseminar
+Bachelorarbeit
+Studienverlaufsplan
+Rankings und Bewertungen
+Die Studierenden und Alumni der KU haben sie 2026 zum vierten Mal (nach 2021, 2022 und 2024) zur beliebtesten Universität Deutschlands im Ranking des Online-Portals StudyCheck gekürt. Grundlage für das Ranking waren über 87.000 Bewertungen für mehr als 500 Hochschulen und Universitäten. 97 Prozent jener Studierenden, die am Ranking teilnahmen, empfehlen ein Studium an der KU weiter.
+„Es gibt für eine Universität doch kein besseres Lob, wenn fast 100 Prozent der Studierenden und Alumni sagen: Ein Studium an der KU kann ich nur empfehlen! Darum freut uns diese Auszeichnung sehr, weil sie die hohe Zufriedenheit unserer Studierenden ausdrückt“, so KU-Präsidentin Prof. Dr. Gabriele Gien.
+Mehr Ranking Ergebnisse
+Rankings und Bewertungen
+Die Studierenden und Alumni der KU haben sie 2024 zum dritten Mal (nach 2021 und 2022) zur beliebtesten Universität Deutschlands im Ranking des Online-Portals StudyCheck gekürt. Grundlage für das Ranking waren über 78.000 Bewertungen für mehr als 500 Hochschulen und Universitäten. 97 Prozent jener Studierenden, die am Ranking teilnahmen, empfehlen ein Studium an der KU weiter.
+„Es gibt für eine Universität doch kein besseres Lob, wenn fast 100 Prozent der Studierenden und Alumni sagen: Ein Studium an der KU kann ich nur empfehlen! Darum freut uns diese Auszeichnung sehr, weil sie die hohe Zufriedenheit unserer Studierenden ausdrückt“, so KU-Präsidentin Prof. Dr. Gabriele Gien.
+Mehr Ranking Ergebnisse
+Ausland
+Die KU pflegt ein
+Netzwerk an Partnerschaften
+mit rund 300 Universitäten weltweit. Das
+International Office der KU
+unterstützt bei der Planung und Informiert über die unterschiedlichen Finanzierungsmöglichkeiten.
+Praxis
+Ein Praktikum ist nicht verpflichtend, kann jedoch bei einer privaten oder öffentlichen Einrichtung abgelegt werden, damit Studierende frühzeitig in Kontakt mit möglichen beruflichen Betätigungsfeldern kommen. Das Praktikum kann auch im Ausland absolviert werden; für eine individuelle Beratung und Unterstützung bei der Suche nach einem Praktikumsplatz und Finanzierungsmöglichkeiten stehen die
+Karriereberatung der KU
+und die
+Servicestelle Internationale Praktika
+zur Verfügung.
+Karrieremöglichkeiten und Berufsfelder
+Berufliche Perspektiven
+Der Bachelor Mathematik ermöglicht außer einem Weiterstudium im Master Mathematik oder im Master in dem Anwendungsfach an einer beliebigen Universität reichhaltige Berufschancen zum Beispiel bei Versicherungen, Banken, IT-Dienstleistern und Unternehmensberatungen.  Die Berufschancen sind, insbesondere mit einem zusätzlich abgeschlossenen Master, herausragend.
+Die KU
+Die KU hat zwei Standorte: Eichstätt und Ingolstadt. In Eichstätt sind sieben Fakultäten angesiedelt. In Ingolstadt hat die Wirtschaftswissenschaftliche Fakultät und das MIDS (Institut für Maschinelles Lernen und Data Science) ihren Sitz.
+Dieser Studiengang ist in Eichstätt beheimatet.
+Studienort
+Der Landkreis Eichstätt und die Stadt Ingolstadt bilden die Mitte Bayerns. Die
+zentrale Lage
+steht auch für die gute Erreichbarkeit der KU. Eichstätt besticht durch sein einzigartiges Zusammenspiel aus barocker Architektur, modernen Annehmlichkeiten und die Natur des Altmühltals.
+Campus
+Kurze Wege
+und
+grüne Oasen
+zeichnen den Campus der KU in Eichstätt aus. Nach dem Prinzip einer Campus-Universität sind die modern ausgestatteten Gebäude der KU in Eichstätt direkt an der Altstadt gelegen.
+MehrWert
+Das Studium an der KU vermittelt nicht nur Fachwissen, sondern will seinen Studierenden auch echte Zukunftsperspektiven eröffnen. Wir wollen unsere Studierenden dabei unterstützen, ihren ganz persönlichen Weg in ihre Traumzukunft zu finden! Nicht
+„Was will ich werden?“,
+sondern
+„Wer will ich sein?“
+Beratungsangebote
+Allgemeine Studierendenberatung
+Die Studierendenberatung der KU
+steht allen Studieninteressierten für ihre Fragen offen. Sie unterstützt bei der Suche nach dem richtigen Studiengang und gibt Tipps rund um Bewerbung, Zulassung und Einschreibung.
+Marie-Anne
+ Kohll M.A.
+Leitung Referat IV/2 Studierendenberatung
+Telefon
++49 8421 93-21283
+E-Mail
+studierendenberatung@ku.de
+Gebäude
+Marktplatz 7
+| 
+ 
+ 
+ 
+ Raum: MP7-005
+Fachstudienberatung
+Wenn Sie Detailfragen zu genau diesem Studiengang haben, z. B. zu Studienaufbau und Berufsmöglichkeiten, wenden Sie sich gerne direkt an die Fachstudienberatung.
+Prof. Dr.
+ Johannes
+ Krebs
+Inhaber des Lehrstuhls Mathematik - Statistik
+Telefon
++49 8421 93-21782
+E-Mail
+johannes.krebs@ku.de
+Gebäude
+KG Bau B
+| 
+ 
+ 
+ 
+ Raum: KGB-109
+Einschreibung
+Voraussetzung
+Fachgebundene Hochschulreife
+Technik Zweig oder Allgemeine Hochschulreife
+Einschreibezeitraum WS
+Bitte beachten Sie, dass für Studieninteressierte, die ihre Hochschulzugangsberechtigung im Ausland erworben haben, ggf. andere Fristen gelten. Diese finden Sie auf der englischen Seite.
+10.08.
+ -
+ 02.10.
+Zulassungsbeschränkung
+Nein
+Auswahlverfahren
+Nein
+Dieser Studiengang ist zulassungsfrei, eine Bewerbung ist nicht erforderlich. Die Einschreibung erfolgt über das zentrale Einschreibeportal der KU. Bitte beachten Sie, dass eine Registrierung im Portal jederzeit möglich ist, die Einschreibung selbst allerdings
+nur innerhalb des Einschreibezeitraums
+(siehe graue Infobox am Seitenanfang).
+Sollten Sie weitergehende Fragen zur Einschreibung haben, können Sie sich auf den Seiten des Studierendenbüros informieren.
+Zum Bewerbungs- und Einschreibeportal der KU
+Bewerbung für internationale Studieninteressierte
+Bitte beachten Sie, dass die Studienvoraussetzungen, Fristen und Bewerbungsmodalitäten für internationale Studieninteressierte häufig andere sind. Informationen für internationale Bewerberinnen und Bewerber finden Sie hier:
+Weitere Informationen für internationale Studieninteressierte
+Weitere Informationen
+Flyer zum Studiengang
+Quicklinks
+nach oben
+Homepage des Fachbereichs
+Studentische Fachgruppe

@@ -1,0 +1,574 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_BA_Journalistik.pdf
+TITLE: Studiengangsbeschreibung_BA_Journalistik.pdf
+SOURCE_FILE: Studiengangsbeschreibung_BA_Journalistik.pdf
+------------------------------------------------------------
+
+[Page 1]
+01/2025_06 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den 
+Bachelorstudiengang Journalistik 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+A. Allgemeine Struktur des Studiengangs .................................................................. 2 
+B. Beschreibung des Studiengangs 
+........................................................................... 3 
+1. Der Studiengang in drei Sätzen 
+.......................................................................... 3 
+2. Zielgruppe ......................................................................................................... 3 
+C. Studiengangskonzept ........................................................................................... 4 
+1. Struktur des Studiengangs 
+................................................................................. 4 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+........................................................ 4 
+1.2. 
+Qualifikationsziele ........................................................................................ 4 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten .................................................... 4 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder ........................................................ 5 
+2. Aufbau des Studiengangs 
+.................................................................................. 5 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+...................................................... 5 
+2.2. 
+Pflichtbereich 
+.................................................................................................. 5 
+2.3. 
+Wahlpflichtbereich .......................................................................................... 6 
+2.4. 
+Wahlbereich ................................................................................................... 7 
+2.5. 
+Studium.Pro ................................................................................................... 8 
+2.6. 
+Praxisbezug.................................................................................................... 8 
+2.7. 
+Ausgestaltung der Internationalisierung 
+........................................................... 8 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre ...................................................................................................... 9 
+ 
+ 
+ 
+
+[Page 2]
+01/2025_06 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Name des Studiengangs: 
+ 
+Journalistik 
+ 
+Verantwortliche Fakultät: 
+ 
+Sprach- und Literaturwissenschaftliche 
+Fakultät 
+ 
+Weitere beteiligte Fakultät/en: 
+ 
+Wählen Sie ein Element aus. 
+Wählen Sie ein Element aus. 
+ 
+Akademischer Grad: 
+Bachelor of Arts 
+ 
+Studienform: 
+ 
+☒ Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☐ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+ 
+☒ grundständig 
+☐ konsekutiv 
+☐ weiterbildend 
+ 
+Wissenschaftliche/Praktische 
+Orientierung: 
+(nur bei Masterstudiengängen) 
+ 
+☐ eher anwendungsorientiert 
+☐ eher forschungsorientiert 
+Regelstudienzeit: 
+6 Semester (Vollzeit) 
+ 
+ Semester (Teilzeit) 
+ 
+Studienbeginn: 
+ 
+☐ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-
+Leistungspunkte: 
+180 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+☒ Nein 
+☐ Ja, € pro Semester 
+ 
+
+[Page 3]
+01/2025_06 
+ 
+ 
+ 
+3 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in drei Sätzen 
+Der Bachelorstudiengang Journalistik an der Katholischen Universität Eichstätt-Ingolstadt 
+vermittelt eine praxisnahe und zugleich forschungsorientierte Ausbildung für angehende 
+Journalistinnen und Journalisten. Er zeichnet sich durch die enge Verzahnung von 
+kommunikationswissenschaftlicher 
+Theorie, 
+wissenschaftlicher 
+Methodik 
+und 
+journalistischer Praxis aus. Ziel ist es, reflektierte Generalist*innen auszubilden, die sowohl 
+für den direkten Berufseinstieg als auch für ein weiterführendes Masterstudium qualifiziert 
+sind. 
+ 
+2. Zielgruppe 
+Der Bachelorstudiengang Journalistik an der KU Eichstätt-Ingolstadt richtet sich an 
+Studienanfänger*innen mit Hochschulreife, die eine fundierte, praxisnahe und gleichzeitig 
+wissenschaftlich orientierte Journalistenausbildung anstreben. Angesprochen sind 
+insbesondere Interessierte, die eigenständig und verantwortungsvoll arbeiten wollen, 
+teamfähig sind und Interesse an aktuellen gesellschaftlichen Entwicklungen, digitalem 
+Wandel und internationaler Perspektive mitbringen – belegt durch ein verpflichtendes 
+Auslandssemester für alle Studierenden. Ein redaktionelles Vorpraktikum ist zwar keine 
+formale Voraussetzung mehr, wird jedoch weiterhin empfohlen, um erste Einblicke in den 
+Beruf zu gewinnen. 
+ 
+ 
+
+[Page 4]
+01/2025_06 
+ 
+ 
+ 
+4 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+Voraussetzung für die Aufnahme in diesen Bachelorstudiengang ist der Nachweis der 
+Allgemeinen Hochschulreife oder gleichwertiger Zugangsvoraussetzungen. 
+ 
+1.2. 
+Qualifikationsziele 
+Der 
+Bachelorstudiengang 
+Journalistik 
+verfolgt 
+das 
+Ziel, 
+reflektierte, 
+verantwortungsbewusste und flexibel einsetzbare Journalist*innen auszubilden, die als 
+integrationsfähige Generalist*innen in unterschiedlichen medialen Kontexten tätig sein 
+können. 
+Grundlage 
+hierfür 
+ist 
+eine 
+enge 
+Verzahnung 
+von 
+kommunikationswissenschaftlicher Theorie und Forschung mit praxisorientierter 
+journalistischer Ausbildung. Die Studierenden erwerben umfassende Kompetenzen in 
+journalistischer Fach-, Sach- und Vermittlungsarbeit sowie in sozialer Orientierung, 
+Technik, Organisation und Konzeption. 
+ 
+Ein zentrales Qualifikationsziel ist es, die Studierenden zur eigenständigen, 
+wissenschaftlich fundierten Auseinandersetzung mit journalistischen Fragestellungen zu 
+befähigen. Dies geschieht durch die systematische Einbindung wissenschaftlichen 
+Arbeitens in die Pflichtmodule der Kommunikationswissenschaft und Methodenlehre 
+sowie durch Einblicke in aktuelle Forschungsprojekte an den Lehrstühlen. Der 
+Studiengang bereitet somit nicht nur gezielt auf den Berufseinstieg in journalistischen und 
+mediennahen 
+Tätigkeitsfeldern 
+vor, 
+sondern 
+qualifiziert 
+auch 
+für 
+ein 
+forschungsorientiertes Masterstudium im In- oder Ausland. 
+ 
+Produktionstechnische Aufgaben und crossmediale Projekte fördern die Fähigkeit zur 
+Teamarbeit, zum selbstständigen Handeln und zur kreativen Problemlösung. Der 
+Studiengang reagiert dynamisch auf Veränderungen im Berufsfeld Journalismus, etwa 
+durch die Integration neuer praxisbezogener Module wie „Social Media und Community“, 
+„Data Driven Storytelling“, „Recherche und Verifikation“ sowie „Redaktion und 
+Distribution“, die aktuelle Entwicklungen wie Plattformjournalismus, Desinformation und 
+datenbasierte Berichterstattung aufgreifen. 
+ 
+Ein weiteres Qualifikationsmerkmal ist die internationale Ausrichtung mit einem für alle 
+Studierenden 
+verpflichtenden 
+Auslandssemester. 
+Dies 
+fördert 
+interkulturelle 
+Kompetenzen und erweitert das berufliche wie wissenschaftliche Profil. Insgesamt 
+befähigt der Studiengang seine Absolvent*innen, journalistische Qualität in einem sich 
+wandelnden Medienumfeld zu sichern und weiterzuentwickeln. 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Absolvent*innen des Bachelorstudiengangs Journalistik steht eine Vielzahl an 
+weiterführenden 
+Qualifizierungswegen 
+offen. 
+Besonders 
+naheliegend 
+ist 
+der 
+Masterstudiengang „Journalistik mit Schwerpunkt Innovation, Management und 
+Gesellschaft“ an der KU, der eine vertiefte Auseinandersetzung mit aktuellen 
+
+[Page 5]
+01/2025_06 
+ 
+ 
+ 
+5 
+Herausforderungen und Entwicklungen im Journalismus ermöglicht – etwa in den 
+Bereichen digitale Transformation, Medienmanagement und gesellschaftlicher Wandel. 
+ 
+Darüber hinaus qualifiziert der Bachelorabschluss für weitere forschungsorientierte 
+Masterprogramme im Bereich Kommunikations- und Medienwissenschaft an nationalen 
+wie internationalen Hochschulen. Auch ein interdisziplinärer Studienweg ist möglich, 
+insbesondere wenn im Bachelor ein entsprechendes Nebenfach gewählt wurde. Die 
+fundierte wissenschaftliche Ausbildung im Bachelor legt zudem den Grundstein für eine 
+mögliche Promotion im Anschluss an ein Masterstudium. 
+ 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+Der Bachelorstudiengang Journalistik an der KU Eichstätt-Ingolstadt bereitet die 
+Studierenden breit gefächert auf Tätigkeiten in allen Medienbereichen vor – Print, Online, 
+Hörfunk, Fernsehen und Social Media. Die starke Praxisorientierung durch Module wie 
+„Recherche und Verifikation“, „Data Driven Storytelling“, „Social Media und Community“ 
+sowie durch die Medienwerkstatt und das verpflichtende redaktionelle Praktikum 
+ermöglicht den direkten Einstieg in redaktionelle Tätigkeiten, aber auch in angrenzende 
+Berufsfelder wie PR, Kommunikationsmanagement oder digitale Medienproduktion. 
+Durch das verpflichtende Auslandssemester erwerben die Studierenden zudem 
+internationale und interkulturelle Kompetenzen, die auf dem Arbeitsmarkt zunehmend 
+gefragt sind. Die enge Verbindung zur Praxis sowie die hohe Eigenverantwortung bei der 
+Praktikumssuche führen erfahrungsgemäß zu einer guten Arbeitsmarktfähigkeit der 
+Absolvent*innen. 
+ 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Der Bachelorstudiengang Journalistik an der KU Eichstätt-Ingolstadt ist auf eine 
+Regelstudienzeit von sechs Semestern ausgelegt und umfasst 180 ECTS-Punkte. Das 
+Studienprogramm basiert auf einem Drei-Säulen-Modell, das gleichgewichtig angelegt ist 
+und folgende Bereiche umfasst: 
+• Journalistik/Kommunikationswissenschaft und empirische 
+Kommunikationsforschung (ca. 60–65 ECTS-Punkte) 
+• Journalistische Praxisausbildung (ca. 65 ECTS-Punkte) 
+• Gesellschaftliche Grundkompetenz und Wahlbereich (ca. 50–55 ECTS-Punkte) 
+Besonderer Wert wird auf ethische Orientierung, die Integration aktueller journalistischer 
+Entwicklungen sowie internationale Erfahrungen gelegt – unter anderem durch ein 
+verpflichtendes Auslandssemester im 5. Semester. Die maximale Teilnehmerzahl ist auf 
+50 Studierende pro Jahrgang begrenzt, was eine enge Betreuung gewährleistet. 
+ 
+2.2. 
+Pflichtbereich 
+Der Pflichtbereich im Bachelorstudiengang Journalistik bildet das inhaltliche und 
+strukturelle Rückgrat des Studiums. Er umfasst zentrale Lehrinhalte aus der Journalistik, 
+Kommunikationswissenschaft, empirischen Sozialforschung, gesellschaftlichen 
+
+[Page 6]
+01/2025_06 
+ 
+ 
+ 
+6 
+Grundkompetenz sowie der journalistischen Praxisausbildung. Ziel des Pflichtbereichs 
+ist es, den Studierenden sowohl wissenschaftliche Grundlagen als auch praktische 
+Kompetenzen für den Journalismusberuf zu vermitteln – breit angelegt, multimedial und 
+eng verzahnt mit aktuellen Entwicklungen im Medienbereich. 
+ 
+Ein wesentlicher Bestandteil ist die kommunikationswissenschaftliche Ausbildung, die 
+sich als empirische Sozialwissenschaft versteht. Im Pflichtbereich werden grundlegende 
+Kenntnisse über Medien- und Journalismusentwicklung, Mediensysteme, Medienrecht 
+sowie ethische Fragestellungen der öffentlichen Kommunikation vermittelt. Dazu zählen 
+die Module Grundlagen der Journalistik/Kommunikationswissenschaft, Journalismus 
+und Mediensysteme, Qualität und Ethik der öffentlichen Kommunikation und 
+Medienrecht. Ergänzt wird dieser Bereich durch ein begleitendes E-Learning-Angebot 
+zur wissenschaftlichen Arbeitsweise. 
+ 
+Der methodische Teil des Pflichtbereichs vermittelt grundlegende Kenntnisse der 
+empirischen Sozialforschung. Die Module Empirische Kommunikationsforschung I und II 
+bereiten auf den Umgang mit Daten, Umfragen und Studien vor und befähigen die 
+Studierenden zur Durchführung kleiner empirischer Arbeiten – insbesondere im Rahmen 
+der Bachelorarbeit, die im sechsten Semester angefertigt wird (10 ECTS-Punkte). 
+ 
+Ein zentrales Element des Pflichtbereichs ist auch die journalistische Praxisausbildung 
+im Umfang von rund 65 ECTS-Punkten. Sie beginnt mit den Grundlagenmodulen 
+Themenfindung und Recherche, Schreiben, Audio und Video. Neue Module wie Social 
+Media und Community, Data Driven Storytelling sowie Recherche und Verifikation 
+greifen aktuelle mediale Entwicklungen auf. Die Medienwerkstatt, die nach dem dritten 
+Semester als Blockkurs stattfindet, bringt den journalistischen Alltag unter realistischen 
+Bedingungen in die Lehreinrichtungen der KU. Im späteren Studienverlauf haben die 
+Studierenden die Möglichkeit, im journalistischen Labor innovative Formate zu erproben 
+oder sich in Spezialisierungsmodulen bzw. dem Modul Redaktion und Distribution 
+weiter zu vertiefen. 
+ 
+Darüber hinaus gehört zum Pflichtbereich ein achtwöchiges redaktionelles Praktikum 
+(10 ECTS), das idealerweise nach dem vierten Semester und in Ergänzung zum 
+Auslandsaufenthalt absolviert wird. Das Praktikum wird von einem vorbereitenden 
+Kolloquium begleitet. 
+ 
+Ein Alleinstellungsmerkmal des Studiengangs ist das verpflichtende Auslandssemester 
+im 5. Fachsemester, das integraler Bestandteil des Pflichtbereichs ist. Es stärkt die 
+internationalen und interkulturellen Kompetenzen der Studierenden und fördert ihre 
+Selbstständigkeit – Fähigkeiten, die im modernen Journalismus von hoher Relevanz 
+sind. 
+ 
+2.3. 
+Wahlpflichtbereich 
+Der Wahlpflichtbereich im Bachelorstudiengang Journalistik an der Katholischen 
+Universität 
+Eichstätt-Ingolstadt 
+dient 
+der 
+gezielten 
+Vertiefung 
+kommunikationswissenschaftlicher und gesellschaftswissenschaftlicher Inhalte und 
+ergänzt den Pflichtbereich um individuelle Schwerpunktsetzungen. Er besteht aus zwei 
+
+[Page 7]
+01/2025_06 
+ 
+ 
+ 
+7 
+Teilbereichen: 
+dem 
+Wahlpflichtbereich 
+Kommunikationswissenschaft 
+und 
+dem 
+Wahlpflichtbereich Gesellschaft. 
+ 
+Im Wahlpflichtbereich Kommunikationswissenschaft müssen die Studierenden insgesamt 
+20 ECTS-Punkte erwerben. Mindestens 15 dieser 20 ECTS-Punkte sind im Rahmen des 
+verpflichtenden Auslandssemesters an einer Partnerhochschule zu erbringen. Zur 
+Erfüllung der Studienanforderungen sind mindestens zwei der folgenden drei Module 
+erfolgreich abzuschließen: Aktuelle Medienentwicklungen, Medienrezeptions- und 
+Medienwirkungsforschung 
+sowie 
+Ausgewählte 
+Themen 
+der 
+Kommunikationswissenschaft. Die Prüfungsleistungen in diesen Modulen variieren je 
+nach Lehrveranstaltung und umfassen beispielsweise Hausarbeiten, Referate, Klausuren, 
+Portfolios oder praktische Arbeiten. Der Wahlpflichtbereich ermöglicht den Studierenden 
+eine fachliche Profilbildung und schafft eine Brücke zu forschungsorientierten 
+Masterprogrammen. 
+ 
+Der 
+Wahlpflichtbereich 
+Gesellschaft 
+ergänzt 
+den 
+Bereich 
+„Gesellschaftliche 
+Grundkompetenz“ um eine politikwissenschaftliche Vertiefung. Hier müssen die 
+Studierenden ein Modul im Umfang von 5 ECTS-Punkten absolvieren. Zur Auswahl 
+stehen die Module Einführung in die Internationalen Beziehungen oder Einführung in die 
+Politische Systemlehre und Vergleichende Politikwissenschaft, jeweils abgeschlossen mit 
+einer Klausur. Ziel dieses Bereichs ist es, den Studierenden grundlegendes Verständnis 
+politischer Zusammenhänge zu vermitteln, das für journalistische Berichterstattung über 
+gesellschaftliche Prozesse unerlässlich ist. 
+ 
+Insgesamt bietet der Wahlpflichtbereich den Studierenden die Möglichkeit, ihr Studium 
+gezielt inhaltlich zu ergänzen, internationale Erfahrungen einzubringen und sich auf 
+individuelle Interessen und spätere Berufsfelder vorzubereiten. 
+ 
+2.4. 
+Wahlbereich 
+Im Wahlbereich erwerben die Studierenden mindestens 30 ECTS-Punkte, um sich in 
+einem Ressort oder Fachgebiet zu spezialisieren. Zur Wahl stehen neun 
+Studienschwerpunkte: 
+ 
+a) Journalismus und interkulturelle Kommunikation (Spanisch) 
+b) Fach- und interkulturelle Kommunikation (Französisch) 
+c) Literatur und Kultur 
+d) Lateinamerika-Studien (Spanisch/Portugiesisch) 
+e) Geschichtswissenschaften 
+f) Politik und Gesellschaft 
+g) Betriebswirtschaftslehre 
+h) Umwelt und Nachhaltigkeit 
+i) Data Science 
+ 
+Diese Schwerpunkte bieten vertiefte Sachkompetenz und bereiten auf spezifische 
+journalistische Berufsfelder wie Politik-, Wirtschafts-, Wissenschafts-, Umwelt- oder 
+Kulturjournalismus 
+vor. 
+Für 
+alle 
+Schwerpunkte 
+bestehen 
+verbindliche 
+Modulvereinbarungen mit den jeweils verantwortlichen Fakultäten. 
+
+[Page 8]
+01/2025_06 
+ 
+ 
+ 
+8 
+ 
+2.5. 
+Studium.Pro 
+Es ist ein Studium.Pro-Modul im Umfang von 5 ECTS-Punkten erfolgreich zu absolvieren. 
+ 
+2.6. 
+Praxisbezug 
+Der Bachelorstudiengang Journalistik zeichnet sich durch eine außergewöhnlich hohe 
+Praxisorientierung aus. Bereits ab dem ersten Semester werden journalistische 
+Grundfertigkeiten wie Themenfindung, Recherche und Schreiben systematisch 
+aufgebaut und im Verlauf des Studiums um multimediale Kompetenzen in den Bereichen 
+Audio, Video, Social Media und datengetriebenem Storytelling erweitert. Die 
+Studierenden erwerben ihre praktischen Fähigkeiten in realitätsnahen Projekten, 
+intensiven Blockkursen und praxisnahen Übungen, die von erfahrenen Journalist*innen 
+aus verschiedenen Mediengattungen geleitet werden. Die Medienwerkstatt bildet das 
+Herzstück der Praxisausbildung und simuliert den redaktionellen Alltag unter 
+professionellen Bedingungen. Weitere praxisorientierte Module wie Recherche und 
+Verifikation, Redaktion und Distribution sowie das journalistische Labor ermöglichen es, 
+sowohl klassische als auch innovative journalistische Formate zu erproben. Ergänzt wird 
+die praktische Ausbildung durch ein achtwöchiges redaktionelles Pflichtpraktikum, das 
+selbstständig organisiert wird und einen intensiven Einblick in den Berufsalltag bietet. 
+ 
+2.7. 
+Ausgestaltung der Internationalisierung 
+Die 
+Internationalisierung 
+ist 
+ein 
+zentrales 
+Alleinstellungsmerkmal 
+des 
+Bachelorstudiengangs 
+Journalistik 
+in 
+Eichstätt. 
+Alle 
+Studierenden 
+absolvieren 
+verpflichtend ein Auslandssemester im fünften Fachsemester. Dafür stehen über das 
+Erasmus+-Programm, die Schweiz-Kooperation sowie bilaterale Abkommen mit 
+außereuropäischen Hochschulen insgesamt 51 Plätze an 25 Universitäten in 13 Ländern 
+zur Verfügung. Die Studierenden erwerben dort Leistungen im Umfang von 30 ECTS-
+Punkten, 
+wovon 
+mindestens 
+15 
+ECTS 
+im 
+Bereich 
+Journalistik 
+bzw. 
+Kommunikationswissenschaft erbracht werden müssen. Die restlichen Leistungen 
+können flexibel, je nach Studieninteresse, auch im gewählten Schwerpunktfach belegt 
+werden. Durch diese Struktur erhalten die Studierenden eine internationale Perspektive 
+auf Mediensysteme, journalistische Arbeitsweisen und theoretische Ansätze außerhalb 
+des deutschsprachigen Raums. Die KU bereitet die Studierenden frühzeitig auf den 
+Auslandsaufenthalt vor – mit umfassenden Informationsangeboten, individueller Beratung 
+und Sprachkursen. Eine Verlängerung des Aufenthalts auf ein zweites Semester ist 
+möglich, etwa für ein zusätzliches Auslandspraktikum. Die internationale Komponente 
+des Studiums fördert nicht nur fachliche, sondern auch interkulturelle und persönliche 
+Kompetenzen – zentrale Voraussetzungen für die Arbeit im global vernetzten 
+Journalismus. 
+ 
+
+[Page 9]
+01/2025_06 
+ 
+ 
+ 
+9 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage 
+des Leitbilds für Studium und Lehre 
+ 
+Der Bachelorstudiengang Journalistik an der Katholischen Universität Eichstätt-Ingolstadt 
+(KU) leistet einen substantiellen Beitrag zur Verwirklichung des KU-Leitbilds für Studium 
+und Lehre, das sich im programmatischen Vierklang „diskursiv – vernetzt – engagiert – 
+persönlich“ zusammenfassen lässt. 
+ 
+Diskursiv: 
+Der Studiengang verbindet wissenschaftliche Theoriebildung mit journalistischer Praxis 
+auf hohem Niveau. Studierende setzen sich kritisch mit Fragen des Journalismus, der 
+Medienethik und der öffentlichen Kommunikation auseinander. Lehrveranstaltungen sind 
+dialogisch angelegt und basieren auf einer engen Betreuung durch Lehrende, die in 
+Forschung und Praxis gleichermaßen verankert sind. Die Einbindung aktueller Forschung, 
+insbesondere 
+im 
+Bereich 
+der 
+Kommunikationswissenschaft 
+und 
+empirischen 
+Sozialforschung, fördert eine akademisch reflektierte Berufsvorbereitung. 
+ 
+Vernetzt: 
+Die journalistische Ausbildung ist interdisziplinär angelegt: Über die Wahlbereiche erhalten 
+Studierende vertiefte Einblicke in politische, kulturelle, historische, ökonomische oder 
+datenbezogene Themenfelder. Die enge Kooperation mit anderen Fachbereichen sowie 
+die multimediale Praxis in den Bereichen Print, Audio, Video, Social Media und 
+Datenjournalismus ermöglichen ein umfassendes Verständnis medialer Wirklichkeit. 
+Zudem ist ein verpflichtendes Auslandssemester fester Bestandteil des Curriculums und 
+Ausdruck einer gelebten internationalen Studienkultur. 
+ 
+Engagiert: 
+Der Studiengang reagiert kontinuierlich auf gesellschaftliche Veränderungen und 
+journalistische Herausforderungen. Themen wie Desinformation, digitale Öffentlichkeit, 
+Plattformjournalismus oder Nachhaltigkeit werden im Curriculum aufgegriffen und kritisch 
+diskutiert. Praxisnahe Module wie „Recherche und Verifikation“, „Data Driven Storytelling“ 
+oder das „journalistische Labor“ fördern das reflektierte und verantwortungsbewusste 
+journalistische Handeln. Die Studierenden werden befähigt, aktuelle gesellschaftliche 
+Entwicklungen journalistisch fundiert zu begleiten und mitzugestalten. 
+ 
+Persönlich: 
+Die KU bietet mit der begrenzten Studienplatzzahl von 50 pro Jahrgang exzellente 
+Betreuungsverhältnisse. Die individuelle Förderung in kleinen Seminargruppen, 
+projektorientiertes Arbeiten in der Medienwerkstatt sowie intensive Praxisphasen 
+unterstützen 
+die 
+Persönlichkeitsentwicklung 
+und 
+stärken 
+Selbstständigkeit, 
+Teamfähigkeit und Urteilskraft. Die Studierenden lernen, sich selbst und andere 
+medienkritisch zu hinterfragen und journalistisch verantwortungsvoll zu handeln – 
+Fähigkeiten, die über den Studienkontext hinauswirken. 
+ 
+Insgesamt trägt der Studiengang Journalistik somit maßgeblich zur Umsetzung des KU-
+Leitbilds bei: Er qualifiziert nicht nur fachlich und praktisch, sondern fördert auch eine 
+
+[Page 10]
+01/2025_06 
+ 
+ 
+ 
+10 
+reflektierte, gesellschaftlich engagierte und international anschlussfähige journalistische 
+Persönlichkeit.

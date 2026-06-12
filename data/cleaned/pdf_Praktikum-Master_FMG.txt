@@ -1,0 +1,90 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Praktikum-Master_FMG.pdf
+TITLE: Praktikum-Master_FMG.pdf
+SOURCE_FILE: Praktikum-Master_FMG.pdf
+------------------------------------------------------------
+
+[Page 1]
+Modulbezeichnung
+Praktikum FMG
+Modulbezeichnung in 
+Englisch
+Internship FMG
+Qualifikationsstufe/ 
+Geberstudiengang
+Mastermodul 
+Master Flucht, Migration, Gesellschaft
+Modulnummer
+88-FMG-FMG13-H-0419
+federführende Fakultät
+GGF
+Modulverantwortliche/r
+Prof. Dr. Karin Scherschel
+Leistungspunkte 
+(ECTS-Punkte)
+10
+Kompetenzen
+1. Praktikum:
+Mit dem Praktikum gewinnen Studierende Einblicke in potentielle Berufsfelder im
+Kontext Flucht, Migration und Gesellschaft. Sie lernen Institutionen strukturell wie
+inhaltlich kennen, die im Bereich Flucht, Migration und Gesellschaft tätig sind, z.B.
+Forschungs- und/oder Bildungseinrichtungen, staatliche/kommunale Verwaltung,
+Wohlfahrtsverbände, usw.
+Die Studierenden vertiefen und erweitern ihre im Studium erworbenen theoreti-
+schen Kenntnisse und Fertigkeiten und lernen, diese auf praktische Frage- und
+Problemstellungen anzuwenden. Die Studierenden sind in der Lage, ein späteres
+Berufsfeld zu identifizieren und ihre eigenen Vorstellungen bezüglich einer späteren
+Tätigkeit zu reflektieren.
+2. Praktikumsbegleitendes Seminar:
+Die Studierenden lernen durch den Austausch mit Dozierenden, Kommilitoninnen
+und Kommilitonen neue Arbeitsbereiche kennen. Sie reflektieren ihre praktische
+Erfahrung gemeinsam und diskutieren daraus entstehende Fragestellungen.
+Praktikum FMG
+
+[Page 2]
+Inhalte/Themen
+1. Praktikum:
+Die Studierenden sammeln praktische Berufserfahrungen im forschungsnahen oder 
+anwendungsorientierten Kontext. Die Inhalte des Praktikums richten sich im Einzelfall 
+nach den Anforderungen der jeweiligen Institution, an der das Praktikum abgeleistet 
+wird.
+2. Praktikumsbegleitendes Seminar
+• 
+Dokumentation und Evaluation des Praktikums in Form
+eines Praktikumsberichts
+• 
+Analyse, Reflexion und Nachbereitung des Praktikums
+formale Voraussetzungen für 
+die Teilnahme
+Lehr- und Prüfungssprache
+Deutsch, ggf. Englisch (Begleitseminar – Prüfungssprache) 
+Deutsch, Englisch oder andere Sprachen (Praktikum – Lehrsprache)
+Lehr- und Lernformen/ 
+Lehrveranstaltungstypen
+1. Praktikum
+2. Praxisbegleitendes Seminar (2 SWS)
+Voraussetzungen für die 
+Vergabe von ECTS-Punkten
+• 
+Absolvieren eines Praktikums von mindestens insgesamt sieben Wochen Dauer.
+Das Praktikum ist einmal auf verschiedene Zeiträume und Institutionen aufteilbar.
+• 
+Vorlage einer von der/den Praktikumsstelle(n) ausgestellten Praktikums- 
+bestätigung
+• 
+mit „bestanden“ bewerteter Leistungsnachweis:
+Praktikumsbericht (DIN A4, in der Regel 15-20 Seiten)
+Zeitaufwand/Verteilung der 
+ECTS-Punkte
+Mindestens siebenwöchiges Praktikum: 8 ECTS-Punkte 
+Praktikumsbegleitendes Seminar 1 ECTS-Punkt 
+Praktikumsbericht: 1 ECTS-Punkt
+Modulnote
+bestanden/nicht bestanden
+Polyvalenz mit anderen 
+Studiengängen
+Turnus des Angebots
+Praktikum im WS oder SoSe ableistbar 
+Begleitseminar im WS
+Potenziell beteiligte 
+Fachgebiete
+alle am Master Flucht, Migration, Gesellschaft beteiligten Fachgebiete

@@ -1,0 +1,444 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_MSc_Data_Science.pdf
+TITLE: Wahlpflichtkatalog_MSc_Data_Science.pdf
+SOURCE_FILE: Wahlpflichtkatalog_MSc_Data_Science.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+M.Sc. Data Science 
+ 
+1. nach § 7 der Prüfungsordnung für den Masterstudiengang Data Science in der 
+Fassung vom TT.MM.JJJJ 
+2. Geltungsbereich zum WiSe 2025/2026 
+ 
+3. vom Fakultätsrat der Mathematisch-Geographischen Fakultät beschlossen am 
+_____________ 
+ 
+ 
+Auflistung der Wahlpflichtmodule 
+In der PO verankerte Wahlpflichtbereiche: 
+• Statistics 
+• Mathematics 
+• Ethics and Law 
+• Programming 
+ 
+1. Modulangebot im Wahlpflichtbereich Statistics 
+ 
+Modulbezeichnung 
+Prüfungsform 
+ECTS-Punkte 
+Mathematische 
+Statistik 
+Klausur oder mündliche 
+Prüfung 
+5 
+Data Science Tools 
+Klausur oder mündliche 
+Prüfung 
+5 
+Stochastische 
+Prozesse 
+Klausur oder mündliche 
+Prüfung 
+5 
+Markovketten 
+Klausur oder mündliche 
+Prüfung 
+5 
+Bayesian Data Science 
+Klausur oder mündliche 
+Prüfung 
+5 
+High-dimensional 
+Probability 
+Klausur oder mündliche 
+Prüfung 
+5 
+Statistische 
+Prognoseverfahren 
+Klausur 
+5 
+Finanzmathematik – 
+Diskrete Modelle 
+Klausur oder mündliche 
+Prüfung 
+5 
+Finanzmathematik – 
+zeitstetige Modelle 
+Klausur oder mündliche 
+Prüfung 
+5 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Statistical Modelling 
+and Simulation 
+Klausur oder mündliche 
+Prüfung 
+5 
+Predictice Analytics 
+Klausur oder mündliche 
+Prüfung 
+5 
+ 
+ 
+2. Modulangebot im Wahlpflichtbereich Mathematics 
+ 
+Modulbezeichnung 
+Prüfungsform 
+ECTS-Punkte 
+Approximationstheorie I 
+Klausur oder mündliche 
+Prüfung 
+5 
+Approximationstheorie 
+II 
+Klausur oder mündliche 
+Prüfung 
+5 
+Elemente der 
+Funktionalanalysis 
+Klausur oder mündliche 
+Prüfung 
+5 
+Fourier-Analyse 
+Klausur oder mündliche 
+Prüfung 
+5 
+Geometrische 
+Datenverarbeitung 
+(CAGD) I 
+Klausur oder mündliche 
+Prüfung 
+5 
+Geometrische 
+Datenverarbeitung 
+(CAGD) II 
+Klausur oder mündliche 
+Prüfung 
+5 
+Graphentheorie und 
+Optimierung 
+Klausur oder mündliche 
+Prüfung 
+5 
+Partielle 
+Differentialgleichungen 
+Klausur oder mündliche 
+Prüfung 
+5 
+Signalverarbeitung 
+Klausur oder mündliche 
+Prüfung 
+5 
+Wissenschaftliches 
+Rechnen I 
+Klausur oder mündliche 
+Prüfung 
+5 
+Wissenschaftliches 
+Rechnen II 
+Klausur oder mündliche 
+Prüfung 
+5 
+Optimization Methods 
+in Machine Learning 
+Klausur oder mündliche 
+Prüfung 
+5 
+Optimization in Data 
+Science 
+Klausur oder mündliche 
+Prüfung 
+5 
+Signal and Image 
+Processing 
+Klausur oder mündliche 
+Prüfung 
+5 
+
+[Page 3]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Topics in Data Science 
+II 
+Klausur oder mündliche 
+Prüfung oder Portfolio 
+5 
+Topics in Machine 
+Learning 
+Klausur oder mündliche 
+Prüfung oder Portfolio 
+5 
+Topics in Business 
+Analytics and 
+Operations Research 
+Klausur oder mündliche 
+Prüfung oder Portfolio 
+5 
+Topics in Modeling 
+Klausur oder mündliche 
+Prüfung oder Portfolio 
+5 
+Lie-Algebren 
+Klausur oder mündliche 
+Prüfung 
+5 
+Pseudodifferentialopera
+toren 
+Klausur oder mündliche 
+Prüfung 
+5 
+Topologie 
+Klausur oder mündliche 
+Prüfung 
+5 
+Codierungstheorie 
+Klausur oder mündliche 
+Prüfung 
+5 
+Topics in Data Science 
+Klausur oder mündliche 
+Prüfung 
+5 
+Differentialgleichungen I 
+Klausur oder mündliche 
+Prüfung 
+5 
+Differentialgleichungen 
+II 
+Klausur oder mündliche 
+Prüfung 
+5 
+Einführung in das 
+wissenschaftliche 
+Rechnen 
+Klausur oder mündliche 
+Prüfung 
+5 
+Einführung in die 
+Funktionalanalysis 
+Klausur oder mündliche 
+Prüfung 
+5 
+Einführung in die 
+ganzzahlige und nicht-
+lineare Optimierung 
+Klausur oder mündliche 
+Prüfung 
+5 
+Einführung in die lineare 
+Optimierung 
+Klausur oder mündliche 
+Prüfung 
+5 
+Einführung in die 
+Mathematische 
+Modellierung 
+Klausur oder mündliche 
+Prüfung 
+5 
+Einführung in die 
+numerische 
+Mathematik 
+Klausur oder mündliche 
+Prüfung 
+5 
+
+[Page 4]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Funktionentheorie I 
+Klausur oder mündliche 
+Prüfung 
+5 
+Funktionentheorie II 
+Klausur oder mündliche 
+Prüfung 
+5 
+Grundbegriffe der 
+Algebra 
+Klausur oder mündliche 
+Prüfung 
+5 
+Integrationstheorie 
+Klausur oder mündliche 
+Prüfung 
+5 
+Mathematisches 
+Programmieren 
+Portfolio 
+5 
+Quantenlogik 
+Klausur oder mündliche 
+Prüfung 
+5 
+Wissenschaftliches 
+Rechnen: ausgewählte 
+Themen 
+Klausur oder mündliche 
+Prüfung 
+5 
+Algebra mit Elementen 
+der Galoistheorie 
+Klausur oder mündliche 
+Prüfung 
+5 
+Einführung in die 
+diskrete Mathematik 
+Klausur oder mündliche 
+Prüfung 
+5 
+Elemente der Algebra 
+und Zahlentheorie 
+Klausur oder mündliche 
+Prüfung 
+5 
+ 
+ 
+3. Modulangebot im Wahlpflichtbereich Ethics and Law 
+ 
+Modulbezeichnung 
+Prüfungsform 
+ECTS-Punkte 
+Data, Ethics and Law 
+Portfolio 
+5 
+Algorithmen- und 
+Daten-Ethik 
+Portfolio 
+5 
+ 
+4. Modulangebot im Wahlpflichtbereich Programming 
+ 
+Modulbezeichnung 
+Prüfungsform 
+ECTS-Punkte 
+Advanced 
+Programming 
+Portfolio 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 5]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+5. Wahlbereich: Modulangebot 
+ 
+Modulbezeichnung 
+Prüfungsform 
+ECTS-Punke 
+Deep Learning 
+Klausur oder mündliche 
+Prüfung 
+10 
+Data Analytics 
+Challenge 
+Portfolio 
+5 
+Introduction to Data 
+Assimilation 
+Klausur oder mündliche 
+Prüfung 
+5 
+Models of Weather and 
+Climate 
+Klausur oder mündliche 
+Prüfung 
+5 
+Data Science for the 
+Environmental 
+Sciences 
+Klausur oder mündliche 
+Prüfung 
+5 
+Webscraping & Textual 
+Analysis in Python 
+Paper / Präsentationen / 
+Diskussionsbeteiligung 
+5 
+Digital Finance 
+Hausarbeit mit Referat 
+5 
+Introduction to 
+Reinforcement 
+Learning 
+Projektarbeit 
+5 
+Objektorientierte 
+Programmierung von 
+Heuristiken 
+Projektarbeit 
+5 
+Production and 
+Operations Analytics 
+Klausur 
+5 
+Transportation 
+Logistics 
+Klausur und Fallstudie 
+5 
+Simulation 
+Schriftliche Ausarbeitung 
+und Präsentation einer 
+Projektskizze 
+5 
+Supply Chain Analytics 
+Klausur 
+5 
+Zeitreihenanalyse 
+Klausur 
+5 
+Operations Analytics 
+Klausur 
+5 
+Operations Scheduling 
+Klausur 
+5 
+Seminar Operations 
+Research 
+Portfolio 
+5 
+Stochastische Modelle 
+Klausur 
+5 
+
+[Page 6]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Geoinformatische und 
+statistische Methoden, 
+GM-4 
+unbenotete 
+Übungsaufgaben, von 
+denen mehr als 60% 
+bestanden sein müssen 
+5 
+Topics in Business 
+Analytics and 
+Operations Research 
+Klausur oder mündliche 
+Prüfung 
+5 
+Topics in Data Science 
+II 
+Klausur oder mündliche 
+Prüfung 
+5 
+Topics in Machine 
+Learning 
+Klausur oder mündliche 
+Prüfung 
+5 
+Topics in Modeling 
+Klausur oder mündliche 
+Prüfung 
+5

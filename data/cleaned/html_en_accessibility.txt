@@ -1,0 +1,87 @@
+SOURCE_URL: https://www.ku.de/en/accessibility
+TITLE: Accessibility – KU
+SOURCE_FILE: en_accessibility.html
+------------------------------------------------------------
+
+Accessibility
+The KU is a "University for all". This means that it is very important to us to also make our digital offerings accessible to all interested parties. We therefore endeavor to make our website as accessible as possible and are in a constant process of improvement. Any ideas or suggestions you may have are much appreciated: If you encounter any obstacles or problems on our pages, please report them to the contact persons listed below.
+Declaration on accessibility
+We endeavor to make our website accessible in accordance with the
+Bavarian regulation on electronic administration and barrier-free information technology (BayEGovV)
+.
+This accessibility statement applies to all websites including the subdomains under
+https://www.ku.de
+and the corresponding subpages.
+Status of compatibility with the requirements
+The majority of these websites comply with Section 1 BayEGovV. Any contents that do not comply with this are listed below.
+Non-accessible content:
+Films in sign language for navigating the website and explaining accessibility are currently not available.
+The hierarchy of headings is sometimes not adhered to.
+Some of the documents uploaded to the website are not available in an accessible version.
+In many cases, subtitles or audio descriptions are not yet available for the embedded videos.
+Justification:
+The KU website is very extensive, so unfortunately errors cannot be completely avoided. Due to the workload, the aforementioned non-accessible content has not yet been redesigned. However, we are continuously working on improving the website in this respect. Some of the embedded PDF documents were created before September 23, 2018, and are therefore not up to date in terms of accessibility. We are working on a gradual changeover here. The same applies to the provision of subtitles for the embedded videos. This process is already underway, but could not yet be completed due to the large size of the video archive.
+Preparation of this accessibility statement
+This declaration was prepared on February 7, 2022, as a self-assessment supported by third parties. It was last updated on May 30, 2022.
+Feedback mechanism and contact details
+You are welcome to report any deficiencies in compliance with the accessibility requirements to us. In addition, you can request information from us that does not have to be presented in an accessible way in accordance with the directive.
+In this respect, please contact:
+Communications & Marketing department
+E-mail:
+website(at)ku.de
+Information on data processing
+is provided in our
+Privacy Policy
+. For further information, please refer to the
+Legal notice
+.
+You can also use the following form to send us a message:
+Contact Formular Accessibility
+Enforcement proceedings
+We will endeavor to respond to your request within one week. If a request for the above contact information remains completely or partially unanswered within six weeks, the State Office for Digitization, Broadband and Surveying will, at the user's request, determine whether action is required against the obligated party as part of the monitoring process.
+The enforcement body also provides
+an online application for checking compliance with accessibility requirements
+.
+Contact information of the body responsible for the enforcement procedure:
+State Office for Digitization, Broadband and Surveying
+IT service center of the Free State of Bavaria
+Enforcement and monitoring center for accessible information technology
+St.-Martin-Straße 47
+81541 Munich, Germany
+Phone: +49 89 2129-1111
+Fax: +49 892129-1113
+E-mail:
+bitv(at)bayern.de
+Further support services
+Officer for students with disabilities and chronic illnesses
+Students with disabilities and permanent or temporary chronic illnesses are supported at the KU by the
+Representative for Students with Disabilities, Chronic Illnesses and Impairments
+.
+Nina
+ Savarini
+Officer for Students with Disabilities, Chronic Illnesses and Impairments at the KU
+Phone
++49 8421 93-23125
+E-mail
+studieren-mit-behinderung@ku.de
+Room: MP7-004
+Dr.
+ Anna Fiona
+ Weiß
+Officer for Students with Disabilities, Chronic Illnesses and Impairments at the KU
+Phone
++49 8421 93-21681
+E-mail
+studieren-mit-behinderung@ku.de
+Room: UA-225
+Student Equal Opportunities Office
+The Student Women and Equal Opportunities Officers Pauline Degirmenci and Anna Weiße are contact persons for questions regarding student life with disabilities and chronic illnesses, among other things. Please contact
+konvent-gleichstellungsreferat(at)ku.de
+Support for KU employees
+KU employees with disabilities can contact the
+representative for severely disabled persons
+or the
+employer's representative for matters concerning severely disabled persons
+with questions, concerns and problems relating to accessibility.
+Information in sign language
+We are currently working on videos in sign language with the most important information on the KU and how to navigate the website.

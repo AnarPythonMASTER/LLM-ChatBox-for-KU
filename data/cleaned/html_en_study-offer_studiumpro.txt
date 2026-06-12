@@ -1,0 +1,11 @@
+SOURCE_URL: https://www.ku.de/en/study-offer/studiumpro
+TITLE: Studium.Pro – KU
+SOURCE_FILE: en_study-offer_studiumpro.html
+------------------------------------------------------------
+
+Studium.Pro stands for education with added value at the KU. It offers all students the opportunity to broaden their horizons, attend a wide range of courses no matter in which degree program they are enrolled, and develop their individual potential and personalities.
+What is Studium.Pro?
+The KU stands for a culture of responsibility in science and education. Educational processes at the KU are shaped by open, critical, and reflective exchange between students and lecturers. Interdisciplinary discourse addresses pressing social issues and supports personal development, ensuring that the KU's approach to education does justice to the individual as a whole.
+K'Universale 2025/2026
+Bearing responsibility - shaping society.
+Module offer for 2025/26 winter semester now online!

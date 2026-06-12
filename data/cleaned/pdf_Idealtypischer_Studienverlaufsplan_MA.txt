@@ -1,0 +1,129 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Idealtypischer_Studienverlaufsplan_MA.pdf
+TITLE: Idealtypischer_Studienverlaufsplan_MA.pdf
+SOURCE_FILE: Idealtypischer_Studienverlaufsplan_MA.pdf
+------------------------------------------------------------
+
+[Page 1]
+Idealtypischer Studienverlaufsplan 
+Master Germanistik Flexibles Profil 
+Semester 
+4 
+Masterarbeit 
+(30 ECTS)
+30 
+ECTS-
+Punkte 
+3 
+Hauptfachmodul 
+(5 ECTS)
+Hauptfachmodul 
+(5 ECTS)
+Nebenfachmodul 
+(5 ECTS)
+Nebenfachmodul 
+(5 ECTS)
+Studium 
+Individuale 
+(5 ECTS)
+Studium 
+Individuale 
+(5 ECTS)
+30 
+ECTS-
+Punkte 
+2 
+Hauptfachmodul 
+(5 ECTS)
+Hauptfachmodul 
+(5 ECTS)
+Nebenfachmodul 
+(5 ECTS)
+Nebenfachmodul 
+(5 ECTS)
+Studium 
+Individuale 
+(5 ECTS)
+Studium 
+Individuale 
+(5 ECTS)
+30 
+ECTS-
+Punkte 
+1 
+Hauptfachmodul 
+(5 ECTS)
+Hauptfachmodul 
+(5 ECTS)
+Nebenfachmodul 
+(5 ECTS)
+Studium Pro 
+(5 ECTS)
+Praktikum 
+(5 ECTS)
+Studium 
+Individuale 
+(5 ECTS)
+30 
+ECTS-
+Punkte 
+Master Germanistik Aisthesis. Kultur und Medien 
+Semester 
+4 
+Masterarbeit 
+(30 ECTS)
+30 
+ECTS-
+Punkte 
+3 
+Hauptfachmodul 
+(5 ECTS)
+Hauptfachmodul 
+(5 ECTS)
+Nebenfachmodul 
+(5 ECTS)
+Nebenfachmodul 
+(5 ECTS)
+Aisthesis. 
+Kultur und Medien 
+(5 ECTS)
+Aisthesis. Kultur 
+und Medien 
+(5 ECTS)
+30 
+ECTS-
+Punkte 
+2 
+Hauptfachmodul 
+(5 ECTS)
+Hauptfachmodul 
+(5 ECTS)
+Nebenfachmodul 
+(5 ECTS)
+Nebenfachmodul 
+(5 ECTS)
+Aisthesis. 
+Kultur und Medien 
+(5 ECTS)
+Aisthesis. Kultur 
+und Medien 
+(5 ECTS)
+30 
+ECTS-
+Punkte 
+1 
+Hauptfachmodul 
+(5 ECTS)
+Hauptfachmodul 
+(5 ECTS)
+Nebenfachmodul 
+(5 ECTS)
+Studium Pro 
+(5 ECTS)
+Praktikum 
+(5 ECTS)
+Aisthesis. Kultur 
+und Medien 
+(5 ECTS)
+30 
+ECTS-
+Punkte

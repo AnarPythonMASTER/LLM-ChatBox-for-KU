@@ -1,0 +1,204 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Idealtypischer_Studienverlaufsplan_BA.pdf
+TITLE: Idealtypischer_Studienverlaufsplan_BA.pdf
+SOURCE_FILE: Idealtypischer_Studienverlaufsplan_BA.pdf
+------------------------------------------------------------
+
+[Page 1]
+Idealtypischer Studienverlaufsplan 
+Bachelor Germanistik Flexibles Profil 
+Semester 
+6 
+Wahlpflichtmodul 
+(5 ECTS) 
+Wissenschaftliches 
+Kolloquium zur BA-Arbeit 
+(5 ECTS) 
+BA-Arbeit 
+(10 ECTS) 
+Hauptfach, Nebenfach 
+oder Studium individuale 
+(10 ECTS) 
+30 ECTS-
+Punkte 
+5 
+NdL 
+Textanalyse 
+(5 ECTS) 
+Wahlpflichtmodul 
+(5 ECTS) 
+BA-Arbeit 
+Hauptfach, Nebenfach 
+oder Studium individuale 
+(20 ECTS) 
+30 ECTS-
+Punkte 
+4 
+Wahlpflichtmodul 
+(5 ECTS) 
+Wahlpflichtmodul 
+(5 ECTS) 
+Studium Pro 
+(5 ECTS) 
+Hauptfach, Nebenfach 
+oder Studium individuale 
+(15 ECTS) 
+30 ECTS-
+Punkte 
+3 
+ÄdL 
+Textanalyse 
+(6 ECTS) 
+Wahlpflichtmodul 
+(5 ECTS) 
+Studium Pro 
+(5 ECTS) 
+Hauptfach, Nebenfach 
+oder Studium individuale 
+(15 ECTS) 
+31 ECTS-
+Punkte 
+2 
+ÄdL 
+Grundkurs 
+(5 ECTS) 
+DSpW 
+Grundkurs 2 
+(6 ECTS) 
+Praktikum 
+(5 ECTS) 
+Hauptfach, Nebenfach 
+oder Studium individuale 
+(15 ECTS) 
+31 ECTS-
+Punkte 
+1 
+Ädl und NdL 
+Studienportal 
+Literaturwiss. 
+(5 ECTS) 
+ÄdL 
+Grundkurs 
+DSpW 
+Grundkurs 1 
+(5 ECTS) 
+NdL 
+Grundkurs 
+(5 ECTS) 
+Hauptfach, Nebenfach 
+oder Studium individuale 
+(15 ECTS) 
+30 ECTS-
+Punkte 
+Bachelor Germanistik Aisthesis. Kultur und Medien 
+Semester 
+6 
+Wahlpflichtmodul 
+(5 ECTS) 
+Modul zur BA-Arbeit 
+(5 ECTS) 
+BA-Arbeit 
+(10 ECTS) 
+Hauptfach, 
+Nebenfach oder 
+Studium 
+individuale 
+(5 ECTS) 
+Aisthesis. Kultur 
+und Medien 
+(5 ECTS) 
+30 ECTS-
+Punkte 
+5 
+NdL 
+Textanalyse 
+(5 ECTS) 
+Wahlpflichtmodul 
+(5 ECTS) 
+BA-Arbeit 
+Hauptfach, 
+Nebenfach oder 
+Studium 
+individuale 
+(15 ECTS) 
+Aisthesis. Kultur 
+und Medien 
+(5 ECTS) 
+30 ECTS-
+Punkte 
+4 
+Wahlpflicht-modul 
+(5 ECTS) 
+Wahlpflichtmodul 
+(5 ECTS) 
+Studium Pro 
+(5 ECTS) 
+Hauptfach, 
+Nebenfach oder 
+Studium 
+individuale 
+(10 ECTS) 
+Aisthesis. Kultur 
+und Medien 
+(5 ECTS) 
+30 ECTS-
+Punkte 
+3 
+ÄdL 
+Textanalyse 
+(6 ECTS) 
+Wahlpflichtmodul 
+(5 ECTS) 
+Studium Pro 
+(5 ECTS) 
+Hauptfach, 
+Nebenfach oder 
+Studium 
+individuale 
+(10 ECTS) 
+Aisthesis. Kultur 
+und Medien 
+(5 ECTS) 
+31 ECTS-
+Punkte 
+2 
+ÄdL 
+Grundkurs 
+(5 ECTS) 
+DSpW 
+Grundkurs 2 
+(6 ECTS) 
+Praktikum 
+(5 ECTS) 
+Hauptfach, 
+Nebenfach oder 
+Studium 
+individuale 
+(10 ECTS) 
+Aisthesis. Kultur 
+und Medien 
+(5 ECTS) 
+31 ECTS-
+Punkte 
+1 
+Ädl und NdL 
+Studienportal 
+Literaturwiss. 
+(5 ECTS) 
+ÄdL 
+Grundkurs 
+DSpW 
+Grundkurs 1 
+(5 ECTS) 
+NdL 
+Grundkurs 
+(5 ECTS) 
+Hauptfach, 
+Nebenfach oder 
+Studium 
+individuale 
+(10 ECTS) 
+Aisthesis. Kultur 
+und Medien 
+(5 ECTS) 
+30 ECTS-
+Punkte

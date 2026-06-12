@@ -1,0 +1,84 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Aisthesis_IntDi_MA.pdf
+TITLE: Studienverlaufsplan_Aisthesis_IntDi_MA.pdf
+SOURCE_FILE: Studienverlaufsplan_Aisthesis_IntDi_MA.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Die oder der Studierende muss 
+1. ein Fach im Umfang von mindestens 30 ECTS-Punkten , 
+2. ein weiteres Fach im Umfang von mindestens 25 ECTS-Punkten , 
+3. die Module im Profilbereich im Umfang von mindestens von 25 ECTS-Punkten , 
+4. das Studium.Pro im Umfang von 5 ECTS-Punkten , 
+5. ein Praktikum oder ein weiteres Modul nach §22 Abs. 2 Satz 2 im Umfang von 5 ECTS-Punkten und , 
+6. die Masterarbeit im Umfang von 30 ECTS-Punkten , 
+erfolgreich absolvieren. 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Masterarbeit 
+(30 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+3 
+Fach B 
+(5 ECTS-Punkte) 
+Fach B 
+(5 ECTS-Punkte) 
+Fach B 
+(5 ECTS-Punkte) 
+Fach B 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+2 
+Praktikum 
+(5 ECTS-Punkte) 
+Wahlpflichtmodul 
+(5 ECTS-Punkte) 
+Wahlpflichtmodul 
+(5 ECTS-Punkte) 
+Kultur und Medien 
+im Kontext 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+1 
+Studium.Pro 
+(5 ECTS-Punkte) 
+kultur- und 
+Sozialwiss. 
+Grundlagen 
+(5 ECTS-Punkte) 
+Wahlfpflichtmodul 
+(5 ECTS-Punkte) 
+Fach B 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte

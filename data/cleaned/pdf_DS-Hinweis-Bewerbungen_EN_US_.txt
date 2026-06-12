@@ -1,0 +1,139 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/DS-Hinweis-Bewerbungen_EN_US_.pdf
+TITLE: DS-Hinweis-Bewerbungen_EN_US_.pdf
+SOURCE_FILE: DS-Hinweis-Bewerbungen_EN_US_.pdf
+------------------------------------------------------------
+
+[Page 1]
+Catholic University of Eichstätt-Ingolstadt Foundation 
+Ecclesiastical foundation under public law 
+1 
+ 
+ 
+ 
+ 
+ 
+Information on handling your data and rights in accordance with 
+sections 15, 16 and 23 of the Law on Data Protection in the Catholic 
+Church in Germany (Gesetz über den Kirchlichen Datenschutz, KDG) as 
+part of the application process 
+We hereby inform you about the processing of your personal data by the Catholic University of 
+Eichstätt-Ingolstadt and the rights to which you are entitled under data protection law. 
+ 
+ 
+Body responsible for data processing and data protection officer 
+ 
+Responsible for data processing: 
+Catholic University Eichstätt-Ingolstadt (KU) represented 
+by the President Prof. Dr. Gabriele Gien 
+Ostenstraße 26 
+85072 Eichstätt, 
+Germany 
+Phone: +49 8421 93 0 
+E-mail: info@ku.de 
+You can reach our data protection officer at the above address or at: 
+Mr. Ziar Kabir 
+SCO-CON:SULT GmbH 
+Hauptstraße 27 
+53604 Bad Honnef, Germany 
+E-mail: info@sco-consult.de 
+Phone: +49 2224 98829-0 
+ 
+Further contacts for data protection issues are: 
+ 
+Catholic University of Eichstätt-Ingolstadt Foundation 
+Legal Affairs and Data Protection Department 
+Luitpoldstraße 10 
+85072 Eichstätt, Germany 
+E-mail: stiftung-datenschutz@ku.de 
+Phone: + 49 8421 93-21201 
+ 
+Data categories used and source of data 
+ 
+The categories of personal data processed include, in particular, gender, first name, last name, name 
+affixes, nationality, contact data (such as private address, (mobile) phone number, e-mail address), log 
+data generated during the use of the IT systems, and other data from applicant management (e.g., 
+résumé, data on training, skills and competencies). 
+ 
+You send us your personal data as part of the applicant management process. In addition, we may have 
+received data from third parties (e.g. employment agencies). 
+
+[Page 2]
+Catholic University of Eichstätt-Ingolstadt Foundation 
+Ecclesiastical foundation under public law 
+2 
+ 
+ 
+Purposes and legal basis of data processing 
+ 
+We process your personal data in compliance with the regulations of the Law on Data Protection in the 
+Catholic Church in Germany (Gesetz über den kirchlichen Datenschutz, KDG). 
+ 
+The data processing serves the purpose of carrying out the application procedure. By submitting your 
+application data, you consent to the processing of your personal data in accordance with Section 6 (1) 
+b) KDG in conjunction with Section 53 KDG. 
+ 
+ 
+Data transfer 
+ 
+Within our University, only those persons and offices (e.g. subject departments and staff 
+representatives) receive your personal data that are involved in the application process. 
+ 
+We will only pass on your application data within our University at your express request if you are not 
+considered for a position and another vacant position matches your requirements profile or will be 
+available in the foreseeable future. 
+ 
+ 
+Data subject rights 
+ 
+According to the KDG, you have the following rights: 
+ 
+If your personal data is processed, you have the right to receive information about the data stored 
+about you (Section 17 KDG). 
+ 
+If incorrect personal data is processed, you have a right to rectification (Section 18 KDG). 
+ 
+If the legal requirements are met, you can request the deletion or restriction of processing as well as 
+object to the processing (Sections 19, 20 and 23 KDG). 
+ 
+If you have consented to the data processing or if a contract for data processing exists and the data 
+processing is carried out with the help of automated procedures, you may have a right to data 
+portability (Section 22 KDG). 
+ 
+If you make use of your above-mentioned rights, the responsible person will verify whether legal 
+prerequisites are fulfilled. 
+ 
+ 
+Right of appeal 
+ 
+You have the option of contacting the above-mentioned data protection officer, the Foundation or our 
+data protection supervisory authority with a complaint. 
+ 
+Our data protection supervisor is: Joint data protection supervision of the Bavarian (arch)dioceses, 
+Kapellenstr. 4, 80333 Munich, Germany. 
+
+[Page 3]
+Catholic University of Eichstätt-Ingolstadt Foundation 
+Ecclesiastical foundation under public law 
+3 
+ 
+ 
+Duration of storage of personal data 
+ 
+If you are not considered in the application process, we will delete your personal data six months after 
+the position has been filled or return your documents to you. The retention period is based on the 
+possibility of legal action under Section 15 of the General Equal Treatment Act (Allgemeines 
+Gleichbehandlungsgesetz, AGG) and the associated objection periods. A longer storage of your data is 
+only possible with your explicit consent. 
+ 
+Right of withdrawal of consent 
+If you have consented to processing by the Catholic University of Eichstätt-Ingolstadt by making a 
+corresponding declaration, you can revoke your consent at any time with effect for the future. The 
+legality of the data processing carried out on the basis of the consent up to the revocation is not 
+affected by this. In this case, participation in the application process will end and we will immediately 
+delete your application data or return it to you. 
+ 
+Obligation to provide the data 
+ 
+In order to participate in the application process, you are required to provide your data. We need your 
+data to select applicants or candidates for the vacancy. If you do not provide the required data, your 
+application cannot be considered.

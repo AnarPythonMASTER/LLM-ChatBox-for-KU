@@ -1,0 +1,145 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Mathematik_Flyer.pdf
+TITLE: Mathematik_Flyer.pdf
+SOURCE_FILE: Mathematik_Flyer.pdf
+------------------------------------------------------------
+
+[Page 1]
+Mathematik
+Weitere Informationen zum Fach
+www.ku.de/studienangebot/mathematik-bsc
+www.ku.de/studienangebot/mathematik-msc 
+www.ku.de/mgf/studiengaenge/lehramt/lehramt-mathematik
+Informationen rund ums Studium an der KU
+www.ku.de/studieninteressenten
+Informationen zum Fachbreich 
+www.ku.de/mgf/mathematik
+Auskünfte gibt es zudem bei den Fachstudienberatern 
+Bachelor Mathematik: 
+Prof. Dr. Johannes Krebs, Tel.: +49 / 8421 / 93-21782 
+E-Mail: johannes.krebs@ku.de
+Lehramt Mathematik: 
+Dr. Thilo Kuessner, Tel.: +49 / 8421 / 93-23285
+E-Mail: Thilo.Kuessner@ku.de
+Master Mathematik:
+Prof. Dr. Günther Wirsching, Tel.: +49 / 8421 / 93-21242 
+E-Mail: guenther.wirsching@ku.de
+Einschreibung Bachelorstudiengang und Lehramt
+Der Bachelorstudiengang Mathematik und das Fach Ma-
+thematik im Lehramtsstudium sind zulassungsfrei, eine Be-
+werbung ist nicht erforderlich. Die Einschreibung erfolgt über 
+das zentrale Einschreibeportal der KU. Bitte beachten Sie, 
+dass eine Registrierung im Portal jederzeit möglich ist, die 
+Einschreibung selbst allerdings nur innerhalb des Einschrei-
+bezeitraums von Mitte August bis Ende September. Studien-
+beginn ist jeweils zum Wintersemester.
+Bewerbung Masterstudiengang
+Für die Einschreibung in den Interdisziplinären Masterstudi-
+engang mit dem Haupt- oder Nebenfach Mathematik ist eine 
+Bewerbung bis spätestens Anfang September erforderlich. 
+Im Fall einer erfolgreichen Bewerbung erhalten Sie einen Zu-
+lassungsbescheid. Damit ist dann die Einschreibung in den 
+Studiengang möglich.
+Die Bewerbung für den Studiengang erfolgt über das zentra-
+le Bewerbungsportal der KU. Bitte beachten Sie, dass eine 
+Registrierung im Portal jederzeit möglich ist, die Bewerbung 
+selbst allerdings nur innerhalb der Bewerbungsfrist.
+Eine Bewerbung ist mit einem ersten Hochschulabschluss 
+oder mit den bisherigen Studien- und Prüfungsleistungen 
+möglich. Der erste Hochschulabschluss, z. B. das Bache-
+lorzeugnis kann grundsätzlich bis zum Ende des 1. Fach-
+semesters im Masterstudiengang nachgereicht werden. 
+Das Studium für den Master kann im Wintersemester aufge-
+nommen werden.
+Informationen / Kontakt
+Bewerbung/Einschreibung
+www.ku.de/studienangebot
+Juni 2025
+Folgen Sie uns auf Facebook und Instagram:
+www.facebook.com/uni.eichstaett
+www.instagram.com/uni.eichstaett
+
+[Page 2]
+Mathematik an der KU
+Lehramt und Master
+Bachelor Mathematik
+Beim Bachelor Mathematik handelt es sich um einen dreijäh-
+rigen Bachelor of Science. Die Inhalte des Studiengangs sind 
+sowohl theoretisch als auch anwendungsbezogen. Studie-
+rende bekommen eine breite mathematische Ausbildung und 
+zugleich einen profunden Einblick in die vielfältigen Anwen-
+dungsmöglichkeiten der Mathematik. Besondere Merkmale 
+des Eichstätter Studiengangs sind der flexible Studienaufbau 
+und das breite Spektrum an Nebenfächern. 
+Aufgrund der flexiblen Möglichkeiten ist ein typischer Studien-
+verlauf schwer skizzierbar, aber ungefähr gestaltet er sich so:
+ 
+n 1. und 2. Semester: Grundlegende Vorlesungen in Analysis 
+und Linearer Algebra sowie eine Einführung in Program-
+miertechniken und statistisches Arbeiten. 
+ 
+n 3. und 4. Semester: Individuell wählbare Vorlesungen aus 
+einem breiten Angebot von Wahlpflichtveranstaltungen. 
+Zum Beispiel: Numerik, Integrationstheorie, Differential-
+gleichungen, Wissenschaftliches Rechnen, Lineare Opti-
+mierung etc.
+ 
+n 5. und 6. Semester: Individuell wählbare Veranstaltungen 
+wie Funktionentheorie, Angewandte Statistik oder Diskre-
+te Mathematik. Wahl eines Vertiefungsgebiets, im Rahmen 
+dessen die Bachelorarbeit geschrieben wird. 
+Parallel zu den mathematischen Vorlesungen besuchen Stu-
+dierende Veranstaltungen aus Ihrem gewählten Ausrichtungs-
+fach. Auf diese Weise können Sie Ihr Studium entsprechend 
+Ihrer Interessen und Neigungen gestalten. Folgende Nebenfä-
+cher/Ausrichtungen stehen zur Wahl: 
+ 
+n Wirtschaftsmathematik (Mathematik, Wirtschaftswissen-
+schaften, Informatik)
+ 
+n Data Science,
+ 
+n Geographie, 
+ 
+n empirische Wissenschaften (Psychologie, Soziologie), 
+ 
+n Philosophie. 
+Das Studium der Mathematik ist eine faszinierende Heraus-
+forderung mit exzellenten Berufsaussichten. Wirtschaft und 
+Industrie suchen dringend nach gut ausgebildeten, motivierten 
+Mathematikern. Die Arbeitgeber schätzen insbesondere die 
+Fähigkeit, abstrakt zu denken, die Mathematikerinnen und Ma-
+thematiker auszeichnet. 
+Die KU und der Fachbereich Mathematik sind geprägt durch 
+eine persönliche Atmosphäre, ein exzellentes Betreuungsver-
+hältnis und den unkomplizierten, direkten Kontakt mit den Do-
+zierenden und Mitarbeitern der Universität. Studierende wer-
+den so ideal auf die Herausforderungen der Praxis vorbereitet. 
+Statt überfüllter Seminarräume und einem anonymen Campus 
+warten hier kleine Übungsgruppen und kurze Wege auf Sie. 
+Innerhalb weniger Minuten sind Seminarräume, Bibliothek und 
+Mensa zu erreichen. 
+Die Studiengänge der Mathematik sind staatlich akkreditiert 
+und zeichnen sich insbesondere durch eine große Flexibilität 
+und Anwendungsorientiertheit aus. 
+Lehramt Mathematik Gymnasium
+Das Studium für Lehramt an Gymnasien ist auf neun Se-
+mester ausgelegt. Wenn Sie sich für das Fach Mathematik 
+entscheiden, stehen Ihnen folgende Zweitfächer zur Wahl: 
+Wirtschaft, Psychologie, katholische Religionslehre, Latein, 
+Englisch, Deutsch und Philosophie/Ethik. Wenn Wirtschaft 
+oder Psychologie als Zweitfach gewählt werden, kann mit 
+geringem zusätzlichem Aufwand der Bachelor in Mathematik 
+zusätzlich zum Staatsexamen erworben werden.
+Lehramt für Real-, Grund- oder Mittelschule
+Diese Lehramtstudiengänge sind auf sieben Semester aus-
+gelegt. Verschiedene Fächerkombinationen sind möglich. 
+Nähere Informationen bieten Ihnen der Lehramtplus-Flyer und 
+die Studierendenberatung.
+Master Mathematik
+Im Rahmen des Interdisziplinären Masterstudiengangs kön-
+nen Sie Mathematik studieren. Wenn Sie als Hauptfach Ma-
+thematik mit der Erweiterung Wirtschaftsmathematik oder 
+Anwendungen in physischer Geographie wählen, erhalten 
+Sie in vier Semestern einen Master of Science. Kombinieren 
+Sie Mathematik mit anderen Fächern, wie Sprach- oder Lite-
+raturwissenschaffen, erhalten Sie einen Master of Arts.

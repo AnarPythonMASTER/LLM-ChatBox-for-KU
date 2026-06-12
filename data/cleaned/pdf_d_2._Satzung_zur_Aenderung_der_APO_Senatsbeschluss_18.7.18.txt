@@ -1,0 +1,428 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/d_2._Satzung_zur_Aenderung_der_APO_Senatsbeschluss_18.7.18.pdf
+TITLE: d_2._Satzung_zur_Aenderung_der_APO_Senatsbeschluss_18.7.18.pdf
+SOURCE_FILE: d_2._Satzung_zur_Aenderung_der_APO_Senatsbeschluss_18.7.18.pdf
+------------------------------------------------------------
+
+[Page 1]
+1 
+ 
+Zweite Satzung zur Änderung der Allgemeinen Prüfungsordnung 
+(APO) 
+der Katholischen Universität Eichstätt-Ingolstadt 
+Vom 5. Dezember 2019 
+ 
+Aufgrund des Art. 5 § 3 Satz 1 des Konkordats zwischen dem Heiligen Stuhl und dem Freistaat Bayern 
+vom 29. März 1924 (BayRS 2220-1-K) erlässt die Katholische Universität Eichstätt-Ingolstadt (KU) 
+folgende Änderungssatzung: 
+§ 1 
+ 
+Die Allgemeine Prüfungsordnung (APO) der Katholischen Universität Eichstätt-Ingolstadt vom 
+26. November 2014 (Amtsblatt der Stiftung Katholische Universität Eichstätt-Ingolstadt, Jg. 38, Nr. 
+2/2014, S. 124), geändert durch Satzung vom 19. September 2017(Amtsblatt der Stiftung Katholische 
+Universität Eichstätt-Ingolstadt, Jg. 41, Nr. 2/2017, S. 46) wird wie folgt geändert: 
+1. Das Inhaltsverzeichnis wird wie folgt geändert: 
+a) § 6 wird wie folgt gefasst: 
+„§ 6 Regelstudienzeit, Studiengangsbeschreibung, Studiengangssprecher/in“ 
+b) § 7 wird wie folgt gefasst: 
+„§ 7 Einsicht in Prüfungsunterlagen“ 
+c) In § 8 wird das Worte „Aufsichtführende“ durch das Wort „Modulverantwortliche“ 
+ersetzt. 
+d) § 14 wird wie folgt gefasst: 
+„§ 14 Mutterschutzgesetz, Erziehungsurlaub“ 
+e) In § 20 werden nach dem Wort „Prüfungen“ ein Komma und das Wort „Rücktritt“ 
+angefügt. 
+f) 
+In § 26 werden nach dem Wort „Prüfungsverfahren“ ein Komma und das Wort 
+„Rügepflicht“ angefügt. 
+g) Nach § 29 wird der Abschnitt „VIII. Studium.Pro“ sowie „§ 30 Studium.Pro“ und „§ 
+31 Modularisiertes Studienangebot Studium.Pro“ eingefügt. 
+h) Der bisherige Abschnitt VIII wird zu Abschnitt IX und der bisherige § 30 wird zu § 
+32. 
+2. In § 4 Abs. 3 werden nach dem Wort „sein“ ein Strichpunkt und der Halbsatz „die 
+Zuständigkeit für die Entscheidung über die inhaltliche Vergleichbarkeit kann vom 
+Prüfungsausschuss an den oder die Vorsitzende/n des Prüfungsausschusses übertragen 
+werden” eingefügt. 
+3. § 5 wird wie folgt geändert: 
+a) In Abs. 4 Satz 1 werden nach dem Wort „Fakultätsrat“ die Worte „oder vom 
+Sprachenzentrum“ eingefügt. 
+
+[Page 2]
+2 
+ 
+b) In Abs. 5 Satz 4 werden nach dem Wort „(Wahlmodule) ein Strichpunkt sowie der 
+Halbsatz „die erfolgreiche Absolvierung der Wahlmodule richtet sich nach den 
+Vorgaben in der jeweiligen Modulbeschreibung” eingefügt. 
+c) Abs. 6 wird wie folgt gefasst: 
+„(6) 1Wenn die in einem Modul festgelegten Kompetenzen im Rahmen eines 
+entsprechenden Lehr- oder Studienangebots verbreitert oder vertieft werden 
+können, enthält das Modul den Hinweis „Mehrfachwahl möglich“. 2Ein Modul, für 
+das Mehrfachwahl möglich ist, kann bis zu drei Mal absolviert werden: Beim zweiten 
+Absolvieren wird der Modultitel um den Zusatz „(Verbreiterung/Vertiefung)“, beim 
+dritten Absolvieren um den Zusatz „(Verbreiterung/Vertiefung 2)“ ergänzt. 3Ist das 
+Modul endgültig nicht bestanden, kann die oder der jeweilige Studierende das 
+Modul 
+nicht 
+noch 
+einmal 
+absolvieren. 
+4Bei 
+Pflichtmodulen, 
+die 
+eine 
+Mehrfachwahlmöglichkeit ausweisen, gilt die erste Absolvierung des Moduls als 
+Absolvierung als Pflichtmodul.“ 
+d) Der bisherige Abs. 6 wird zu Abs. 7. 
+4. § 6 wird wie folgt geändert: 
+a) Die Überschrift wird wie folgt gefasst: 
+„Regelstudienzeit, Studiengangsbeschreibung, Studiengangssprecher/in“ 
+b) Abs. 3 wird wie folgt gefasst: 
+„(3)1Die 
+Fakultät, 
+die 
+die 
+Studiengangsbeschreibung 
+des 
+jeweiligen 
+Studiengangs erstellt, bestellt eine Studiengangssprecherin oder einen 
+Studiengangssprecher; 
+die 
+Studiengangssprecherin 
+oder 
+der 
+Studiengangssprecher 
+sind 
+für 
+Änderungen 
+der 
+Studiengangsbeschreibung zuständig. 2Bei Fakultäten übergreifenden 
+Studiengängen 
+bestellt 
+die 
+Hochschulleitung 
+mindestens 
+eine 
+Studiengangssprecherin oder einen Studiengangssprecher, die oder der 
+bei der Erstellung oder Änderung die Zustimmung aller beteiligten 
+Fakultäten einholt. 3Soweit keine Bestellung nach Sätzen 1 oder 2 erfolgt 
+ist, ist der oder die Vorsitzende des Prüfungsausschusses zugleich der 
+Studiengangssprecher oder die Studiengangssprecherin.“ 
+5. § 7 wird wie folgt geändert: 
+a) In der Überschrift wird das Wort „Akteneinsicht“ durch die Worte „Einsicht in 
+Prüfungsunterlagen“ ersetzt. 
+b) In Abs. 2 wird das Wort „Notenbekanntgabe“ durch die Worte „Bekanntgabe des 
+Prüfungsergebnisses“ ersetzt. 
+6. In der Überschrift zu § 8 wird das Wort „Aufsichtsführende“ durch das Wort 
+„Modulverantwortliche“ ersetzt. 
+7. § 9 wird wie folgt geändert: 
+a) In Abs. 1 Satz 1 wird das Wort „bestellt“ durch das Wort „gewählt“ ersetzt. 
+b) Abs. 3 wird wie folgt gefasst: 
+„(3) 1Die Mitglieder des Prüfungsausschusses werden vom zuständigen 
+Fakultätsrat der Fakultät, dem die Studiengangssprecherin oder der 
+Studiengangssprecher angehört, auf die Dauer von vier Jahren gewählt. 
+2Wiederwahl ist möglich. 3Scheidet ein Mitglied aus, ist unverzüglich für 
+dessen verbliebene Amtszeit ein neues Mitglied zu wählen.“ 
+
+[Page 3]
+3 
+ 
+c) In Abs. 5 wird folgender Satz 5 angefügt: 
+„5An den Beratungen und Abstimmungen des Prüfungsausschusses können 
+auf Einladung der oder des Vorsitzenden Gäste teilnehmen, die redeberechtigt, 
+aber nicht antrags- oder stimmberechtigt sind.“ 
+d) Abs. 7 wird gestrichen. 
+8. § 11 wird wie folgt geändert: 
+a) In Abs. 2 wird Satz 2 gestrichen. 
+b) In Abs. 3 Satz 1 werden die Worte „oder die Bachelor- oder Masterarbeit“ 
+gestrichen. 
+c) In Abs. 5 wird vor dem Wort „Nichtbestehen“ das Wort „endgültigen“ eingefügt. 
+d) In Abs. 6 Nr. 1 wird das Wort „vorgegebenem“ durch das Wort „vorgegebenen“ 
+ersetzt. 
+9. § 12 wird wie folgt geändert: 
+a) In Abs. 1 wird folgender Satz 4 angefügt: 
+„4Ist die Betreuerin oder der Betreuer nicht zugleich die Professorin oder der 
+Professor oder die selbstständige Fachvertreterin oder der selbstständige 
+Fachvertreter, dem das Thema fachlich zugeordnet werden kann, muss diese 
+oder dieser den Betreuer oder die Betreuerin bestellen.“ 
+b) In Abs. 6 wird Satz 3 wie folgt gefasst: 
+„3Die oder der Studierende hat eine eigenhändig unterschriebene Versicherung 
+darüber abzugeben, dass sie oder er die Arbeit selbständig und ohne 
+Benutzung anderer als der angegebenen Hilfsmittel angefertigt hat; die 
+Versicherung muss in jeder gebundenen Fassung enthalten sein.“ 
+ 
+c) In Abs. 7 wird folgender Satz 4 angefügt: 
+„4Die Zuständigkeit für die Bestellung kann vom Prüfungsausschuss auf den 
+Vorsitzenden oder die Vorsitzende des Prüfungsausschusses übertragen 
+werden.“ 
+d) In Abs. 11 wird folgender Satz 3 angefügt: 
+„3Bachelor- oder Masterarbeit sind ein Pflichtmodul im jeweiligen Studiengang.” 
+10. In § 13 Abs. 4 wird wie folgt geändert: 
+a) Die Sätze 1 und 2 werden wie folgt gefasst: 
+„1Um einen Vergleich internationaler Notensysteme zu erleichtern, wird für die 
+Gesamtnote eine relative Note nach den Empfehlungen des ECTS-Users-
+Guides in der jeweiligen Fassung gebildet. 2In die Berechnung der relativen 
+Note werden die dem Abschlussjahrgang vorhergehenden zwei Jahrgänge 
+einbezogen; der Abschlussjahrgang wird einbezogen, soweit die Noten 
+vorliegen.” 
+b) In Satz 5 werden die Worte „über 4,0 – 5,0 (5)“ und das davorstehende Komma 
+gestrichen. 
+
+[Page 4]
+4 
+ 
+11. § 14 wird wie folgt gefasst: 
+„§ 14 
+Mutterschutzgesetz, Erziehungsurlaub 
+1Es gelten die Regelungen des Gesetzes zum Schutz von Müttern bei der Arbeit, in der 
+Ausbildung und im Studium (Mutterschutzgesetz – MuSchG) vom 23. Mai 2017 (BGBl. 
+I S. 1228) in der jeweils gültigen Fassung. 2Davon unabhängig ist eine Beurlaubung 
+entsprechend den Fristen des Gesetzes zum Elterngeld und zur Elternzeit 
+(Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 ( BGBl. I S. 
+2748), in der jeweils geltenden Fassung, möglich. 3Eine Ablegung von Prüfungen ist 
+trotz Beurlaubung 
+zulässig. 
+4Wiederholungsprüfungen müssen 
+während 
+der 
+Beurlaubung nicht abgelegt werden. 5Der Antrag auf Beurlaubung ist schriftlich beim 
+Studierendenbüro zu stellen.“ 
+ 
+12. § 15 Abs. 3 wird gestrichen. 
+ 
+13. In § 17 Abs. 6 Satz 1 wird vor dem Worte „Auseinandersetzung“ das Wort „schriftliche“ 
+eingefügt. 
+ 
+14. In § 18 Abs. 3 wird Satz 2 wie folgt gefasst: 
+„2Die Überprüfung kann auch der Prüfungsausschuss bzw. nach Übertragung der 
+Aufgabe durch den Prüfungsausschuss auch der oder die Vorsitzende des 
+Prüfungsausschusses vornehmen.“ 
+ 
+15. § 19 Abs. 3 Satz 3 werden die Worte „bis 4,85“ gestrichen und die Zahl „4,7“ durch die 
+Zahl „5,0“ ersetzt sowie die Worte „über 4,85 bis 5,00 = 5,0“ gestrichen. 
+ 
+16. § 20 wird wie folgt geändert: 
+ 
+a) In der Überschrift wird ein Komma sowie das Wort „Rücktritt“ angefügt. 
+ 
+b) In Abs. 3 werden nach dem Wort „überschreitet“ ein Komma sowie die Worte 
+„insbesondere wenn sie oder er nicht zur Prüfung erscheint oder keine 
+Prüfungsleistung ablegt“ eingefügt. 
+ 
+c) In Abs. 4 wird wie folgt geändert: 
+ 
+aa) Es wird folgender Satz 1 eingefügt: 
+ 
+„1Der Prüfungsausschuss ist zuständig für die Entscheidung, ob ein 
+Rücktritt aus von der oder dem Studierenden nicht zu vertretenden 
+Gründen vorliegt.“ 
+ 
+bb) Die bisherigen Sätze 1 bis 5 werden zu den Sätzen 2 bis 6. 
+ 
+cc) In Satz 4 werden vor dem Wort „ärztlichen“ die Worte „in der Regel“ 
+eingefügt. 
+ 
+17. § 21 wird wie folgt geändert: 
+ 
+a) In Abs. 3 wird folgender Satz 3 angefügt: 
+„3Die Prüfungsform der Wiederholungsprüfung wird grundsätzlich mit 
+Bekanntgabe der Prüfungsergebnisse des ersten Prüfungstermins mitgeteilt.“ 
+b) Es wird folgender Abs. 5 angefügt: 
+
+[Page 5]
+5 
+ 
+„(5) Die Wiederholung soll zum nächstmöglichen Zeitpunkt erfolgen, 
+spätestens zwei Jahre nach Bekanntgabe des Nichtbestehens der Prüfung.“ 
+18. In § 22 Abs. 2 Satz 3 werden die Worte „der Prüfungsausschuss“ durch die Worte „die 
+oder der Modulverantwortliche“ ersetzt. 
+19. § 23 wird wie folgt geändert: 
+a) Abs. 3 wird wie folgt gefasst: 
+„(3) 1Bei einer Anrechnung ist die Note – soweit sie mit der Notenskala in § 19 
+Abs. 2 vergleichbar ist – zu übernehmen und nach Maßgabe der PO in die 
+Berechnung der Gesamtnote einzubeziehen. 2Ist eine Note nicht vergleichbar, 
+soll die Umrechnung mittels eines geeigneten Abbildungsverfahrens erfolgen 
+und anschließend eine Einbeziehung in die Gesamtnotenberechnung erfolgen; 
+wenn eine Umrechnung nicht möglich ist, kann keine Note angerechnet werden. 
+3Wird eine Note übernommen, die nicht der Notenskala entspricht, wird wie folgt 
+gerundet; alle weiteren Stellen werden ohne Rundung gestrichen: 
+von 1,00 bis 1,15 
+= 
+1,0 
+über 1,15 bis 1,50 
+= 
+1,3 
+über 1,50 bis 1,85 
+= 
+1,7 
+über 1,85 bis 2,15 
+= 
+2,0 
+über 2,15 bis 2,50 
+= 
+2,3 
+über 2,50 bis 2,85 
+= 
+2,7 
+über 2,85 bis 3,15 
+= 
+3,0 
+über 3,15 bis 3,50 
+= 
+3,3 
+über 3,50 bis 3,85 
+= 
+3,7 
+über 3,85 bis 4,35 
+= 
+4,0 
+über 4,35 bis 5,00 
+= 
+5,0.“ 
+ 
+b) Abs. 4 wird wie folgt geändert: 
+ 
+aa) In Satz 1 wird nach dem Wort „beantragen“ ein Strichpunkt sowie die Worte 
+ „der Antrag ist über das Prüfungsamt einzureichen“ eingefügt. 
+ 
+bb) Es wird folgender Satz 5 angefügt: 
+ „5Die Anrechnung auf ein Modul, dessen Prüfungsleistung nicht bestanden 
+ wurde und für das keine Wiederholungsmöglichkeiten mehr bestehen, ist 
+ nicht möglich. 
+ 
+c) Es wird folgender Abs. 7 angefügt: 
+„(7) Learning Agreements werden vor Beginn eines Auslandsstudiums 
+abgeschlossen 
+und 
+sind 
+von 
+der 
+oder 
+dem 
+Vorsitzenden 
+des 
+Prüfungsausschusses unterschrieben.“ 
+20. § 24 Abs. 1 und 2 werden wie folgt gefasst: „ 
+(1) Macht die oder der Studierende durch ein in der Regel ärztliches Attest glaubhaft, 
+dass sie oder er wegen länger andauernder oder ständiger Behinderung oder 
+vergleichbarer Beeinträchtigungen nicht in der Lage ist, eine Prüfung in der 
+vorgesehenen Form abzulegen, oder ist die Behinderung offensichtlich, wird dies 
+durch eine gleichwertige Prüfung in einer anderen Form oder durch Hilfestellungen 
+ausgeglichen, beispielsweise durch Verlängerung der Bearbeitungszeit oder durch 
+Zulassen von notwendigen Hilfsmitteln und Assistenzleistungen 
+(2) 1Die Entscheidung über die bedarfsgerechte Gestaltung der Prüfungsbedingungen 
+trifft auf Antrag der oder des Studierenden die oder der Vorsitzende des 
+Prüfungsausschusses. 2Der Antrag muss rechtzeitig, jedoch spätestens mit der 
+
+[Page 6]
+6 
+ 
+Anmeldung zur Prüfung erfolgen und soll die konkret für den Studierenden oder die 
+Studierende geeignete Nachteilsausgleichsform darlegen und begründen. 3Die 
+oder der Vorsitzende kann mit Zustimmung der oder des Studierenden die 
+Beauftragte oder den Beauftragten für Studierende mit Behinderung zur Beratung 
+hinzuziehen. 4Für den Fall, dass aufgrund des ärztlichen Attests nicht begründet 
+über einen adäquaten Nachteilsausgleich entschieden werden kann, ist der oder 
+die Vorsitzende des Prüfungsausschusses berechtigt anzuordnen, dass ein 
+Amtsarzt konsultiert werden muss. 
+5Die Attestkosten trägt die oder der 
+Studierende.“ 
+21. § 25 wird wie folgt geändert: 
+a) In Abs. 2 wird folgender Satz 3 angefügt: 
+„3Das Mitführen mobiler Endgeräte und digitaler Speichermedien wird als 
+Täuschungsversuch gewertet.” 
+b) In Abs. 7 Satz 2 werden vor dem Wort „Äußerung“ die Worte „mündlichen oder 
+schriftlichen“ eingefügt. 
+22. In § 26 werden in der Überschrift ein Komma sowie das Wort „Rügepflicht“ angefügt. 
+23. § 27 wird wie folgt geändert: 
+a) In Abs. 1 Satz 1 Nr. 2 werden nach dem Wort „Noten“ die Worte „oder 
+Bewertungen“ eingefügt. 
+b) In Abs. 1 Satz 1 Nr. 5 werden nach dem Wort „Prüfungsleistung“ die Worte 
+„oder des Eingangstags des Anrechnungsantrags bei einer angerechneten 
+Prüfungsleistung, die als letzte Prüfungsleistung ausgewiesen werden soll“ 
+eingefügt. 
+ 
+c) Es wird folgender Abs. 4 eingefügt: „ 
+(4) 1Hat der oder die Studierende alle für den Studiengang erforderlichen 
+Leistungen erbracht, soll unverzüglich ein Zeugnisantrag gestellt werden. 
+2Wenn nach Ablauf der Frist nach § 11 Abs. 4 Satz 1 kein Zeugnisantrag 
+eingegangen ist, wird von Amts wegen ein Zeugnis ausgefertigt; wenn 
+Auswahlmöglichkeiten hinsichtlich der für die Bachelor- oder Masterprüfung 
+erforderlichen Module bestehen, werden die Module mit den besseren 
+Bewertungen, und wenn es hier weitere Auswahlmöglichkeiten gibt, die 
+zeitlich zuerst absolvierten Module, im Zeugnis verwendet.” 
+d) Der bisherige Abs. 4 wird zu Abs. 5. 
+24. § 28 wird wie folgt geändert: 
+a) In Abs. 2 wird folgender Satz 4 angefügt: 
+„4Der Wechsel vom Teilzeitstudium in das Vollzeitstudium ist jeweils nach 
+Ablauf von zwei Fachsemestern im Teilzeitstudiengang möglich.“ 
+b) In Abs. 3 wird Satz 1 nummeriert und folgender Satz 2 angefügt: 
+„2Bei einem Wechsel vom Teilzeitstudiengang in den Vollzeitstudiengang mit 
+gleicher Studiengangsbezeichnung werden alle Fristen entsprechend halbiert.“ 
+25. In § 29 wird Satz 1 zu Abs. 1 und es wird folgender Abs. 2 angefügt: 
+
+[Page 7]
+7 
+ 
+„(2) Die APO gilt auch für Studien- und Prüfungsleistungen der KU in Lehrangeboten, 
+die über die Virtuelle Hochschule Bayern (vhb) verbreitet werden.“ 
+26. Nach § 29 wird folgender Abschnitt eingefügt: 
+„VIII. STUDIUM.PRO 
+§ 30 
+Studium.Pro 
+(1) Studium.Pro ist ein interdisziplinäres Studienangebot der KU, das die Inhalte eines 
+Studiengangs ergänzt oder weiterführt und den Studierenden den Erwerb von 
+Kompetenzen ermöglicht, die eine Wissenschafts- und Bildungskultur der 
+Verantwortlichkeit widerspiegeln. 
+(2) Studium.Pro gliedert sich in fünf Bereiche: 
+1. Pro Diskurs: 
+1In diesem Bereich steht der interdisziplinäre Diskurs im 
+Mittelpunkt. 2Ein aktuelles, gesellschaftlich relevantes Thema wird aus dem 
+Blickwinkel mehrerer Fachgebiete betrachtet. 
+2. Pro Horizont: 1Dieser Bereich ermöglicht den Studierenden einen Einblick in 
+andere Fächer und Fachkulturen. 2Studierende lernen hier den spezifischen 
+Blickwinkel eines Fachs außerhalb der an ihrem Studiengang beteiligten 
+Fachgebiete kennen. 
+3. Pro Gesellschaft: 1Im Mittelpunkt steht der wechselseitige Transfer zwischen 
+Wissenschaft und gesellschaftlicher Praxis, worauf die Studierenden fachlich 
+und methodisch vorbereitet werden. 2Das Studienangebot dieses Bereichs ist 
+vor allem projektorientiert und verbindet wissenschaftliches Arbeiten mit 
+gesellschaftlichem Engagement. 
+4. Pro Beruf ermöglicht den Studierenden den Erwerb von Qualifikationen, die ihre 
+Arbeitsmarktfähigkeit sicherstellen und ihnen eine gezielte Karriereplanung 
+ermöglichen. 
+5. Pro International bereitet Studierende auf einen Aufenthalt im Ausland oder auf 
+internationale Tätigkeiten vor und unterstützt Studierende, die mit ausländischer 
+Hochschulzugangsberechtigung an der KU studieren. 
+§ 31 
+Modularisiertes Studienangebot Studium.Pro 
+(1) Die Studienangebote in den Bereichen Pro Diskurs, Pro Horizont und Pro 
+Gesellschaft sind in Module untergliedert und die Studierenden können im Rahmen 
+ihres Studiengangs nach Maßgabe der für sie geltenden Prüfungsordnung Module 
+aus diesem Angebot absolvieren. 
+(2) 1Das modularisierte Studienangebot wird spätestens zu Beginn eines Semesters 
+auf der Internetseite der KU bekannt gemacht. 2Module, die bereits verpflichtender 
+Bestandteil des jeweiligen Studiengangs sind, können nicht als Studium.Pro-
+Module absolviert werden. 
+(3) Die jeweilige Modulbeschreibung regelt die Voraussetzungen für die erfolgreiche 
+Absolvierung des Moduls.“ 
+ 
+27. Der bisherige Abschnitt VIII wird zu Abschnitt IX und der bisherige § 30 wird zu § 32. 
+ 
+
+[Page 8]
+8 
+ 
+§ 2 
+Diese Satzung tritt mit Wirkung vom 1. Oktober 2018 in Kraft. 
+ 
+Ausgefertigt aufgrund des Beschlusses des Senats der Katholischen Universität Eichstätt-Ingolstadt 
+vom 18. Juli 2018 sowie der Genehmigung der Präsidentin vom 4. Dezember 2019 und des 
+Einvernehmens des Bayerischen Staatsministeriums für Wissenschaft und Kunst vom 24. Oktober 
+2019; Az.: R.3-5e65(KUE)-10b/94300/08. 
+Eichstätt/Ingolstadt, den 5. Dezember 2019 
+ 
+ 
+Prof. Dr. Gabriele Gien 
+Präsidentin 
+Diese Satzung wurde am 5. Dezember 2019 in der Katholischen Universität Eichstätt-Ingolstadt 
+niedergelegt. Die Niederlegung wurde am gleichen Tag in der Katholischen Universität Eichstätt-
+Ingolstadt bekannt gemacht. Tag der Bekanntmachung ist daher der 5. Dezember 2019

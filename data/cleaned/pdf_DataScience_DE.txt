@@ -1,0 +1,204 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/DataScience_DE.pdf
+TITLE: DataScience_DE.pdf
+SOURCE_FILE: DataScience_DE.pdf
+------------------------------------------------------------
+
+[Page 1]
+Bachelorstudiengang (BSc)
+Data Science
+Weitere Informationen zum Studiengang 
+ku.de/data-science 
+ku.de/ds
+Informationen zum Mathematischen Institut für 
+Maschinelles Lernen und Data Science 
+ku.de/mids
+Informationen rund ums Studium an der KU 
+ku.de/studieninteressenten
+Bei Fragen zu Studienaufbau, Inhalten, Berufsperspektiven 
+und Bewerbung wenden Sie sich gern an:
+Marie-Anne Kohll M.A., Allgemeine Studierendenberatung 
+Tel: +49 8421-9321283 
+studierendenberatung@ku.de
+Dr. Sarah Eberle-Blick, Fachstudienberatung Data Science 
+Tel: +49 841-9321220
+Sarah.Eberle-Blick@ku.de
+Beratung & Information
+Eckdaten
+ku.de/data-science
+Folgen Sie uns auf Facebook und Instagram:
+instagram.com/uni.eichstaett
+Zulassung
+ 
+ Zulassungsfrei, Einschreibezeitraum zum Winter- 
+semester bis Anfang Oktober
+ 
+ Studieninteressierte ohne eine an einer deutschen Bil-
+dungseinrichtung erworbene Hochschulzugangsbe-
+rechtigung reichen ihre Unterlagen bis zum 15.07. ein. 
+Details auf ku.de/bewerbung
+Unterrichtssprache: Englisch
+Die Kommunikation in englischer Sprache ist heutzutage in 
+Wissenschaft und in der industriellen Forschung und Ent-
+wicklung Standard. Vielerorts wird in internationalen Teams 
+sowie länder- und standortübergreifend gearbeitet. Die 
+hierzu notwendige Kompetenz wird im Studiengang Data 
+Science nebenbei, informell und ohne Mehraufwand erwor-
+ben. Vorausgesetzt werden lediglich Englischkenntnisse auf 
+Schulniveau; Prüfungen werden auf Wunsch auf Deutsch 
+angeboten.
+Empfohlene Voraussetzungen
+ 
+
+Freude an der Mathematik und am logischen Denken
+ 
+
+Interesse Programmierkenntnisse zu erwerben
+ 
+
+und daran, das Erlernte in Anwendungsbereichen ein-
+zusetzen
+Fotos: KU, colourbox.de, AdobeStock - Juni 2025
+
+[Page 2]
+Der Studiengang
+Berufsperspektiven
+Data Science an der KU
+Studienverlauf
+1
+Intro. Statistics
+Intro. Programming
+Information Systems
+Linear Algebra I
+Analysis for DS I
+2
+Hands-on ML and DS 
+Algor. & Datastruc. 
+Linear Algebra II
+Analysis for DS II
+3
+Foundations of Data Science
+Adv. Programming
+Intro. Stochastics
+Optimization for DS
+Spezialisierung
+4
+Foundations of Machine Learning
+DS Lab
+Statistical Learning
+Studium Pro
+Spezialisierung
+5
+Praktikum
+Ethics for Algorithms 
+and Data
+Wahlbereich
+Wahlbereich
+Spezialisierung
+6
+Bachelorarbeit
+Bachelor Seminar
+Wahlbereich
+Spezialisierung
+Spezialisierung
+Studienverlauf
+In der heutigen digitalen Welt sind Daten im Überfluss vorhan-
+den; die Herausforderung liegt darin, diese Daten zu analy-
+sieren und zu verwerten. Moderne Methoden des maschinel-
+len Lernens sind in der Lage, automatisch versteckte Muster 
+und Zusammenhänge in großen Datenmengen zu entdecken 
+und nutzbar zu machen, z. 
+B. beim autonomen Fahren, der 
+Spracherkennung und der automatischen Übersetzung.
+Der Studiengang Data Science (DS) 
+ 
+
+behandelt die nötigen Grundlagen aus Mathematik, 
+Statistik und Informatik, 
+ 
+
+vermittelt Praxiswissen über topaktuelle Verfahren zur 
+Datenanalyse und des maschinellen Lernens (ML),
+ 
+
+setzt diese mittels moderner Softwaretechnologien 
+ 
+effizient um,
+ 
+
+ist konsequent auf Englisch gehalten,
+ 
+
+bietet folgende Spezialisierungen:
+ 
+–
+Applied Mathematics and Scientific Computing 
+ 
+–
+Business Analytics and Operations 
+ 
+–
+Digital Transformation of Society 
+ 
+–
+Environmental Sciences 
+ 
+–
+Finance and Economics 
+ 
+–
+Machine Learning and Statistics
+Gut ausgebildete Data Scientists sind in der Arbeitswelt 
+sehr gesucht. Absolventinnen und Absolventen des Stu- 
+diengangs können sowohl methodisch (z. 
+B. als Data Sci-
+entist oder als Software-Ingenieur/in) als auch strategisch 
+(z. 
+B. als Data Strategist) in Bereichen wie
+ 
+
+der Finanzbranche,
+ 
+
+der IT-Industrie,
+ 
+
+der Autoindustrie,
+ 
+
+der Biotechnologieindustrie,
+ 
+
+sowie in Startups und NGOs
+arbeiten. Des Weiteren bereitet der Studiengang auf ein 
+Masterstudium mit der Möglichkeit eines anschließenden 
+akademischen Werdegangs in den Bereichen Informatik, 
+Statistik, Mathematik oder in Anwendungsgebieten vor.
+Ausgezeichnete Spitzenuniversität
+beliebteste Universität Deutschlands 
+(StudyCheck 2021, 2022 und 2024)
+Exzellentes Betreuungsverhältnis
+persönliche Betreuung für 
+optimalen Studienerfolg
+Eigenständiger Studiengang
+von Grund auf neu konzipiert mit speziell 
+für diesen Studiengang entwickelten 
+Lehrveranstaltungen
+Innovative & praxisnahe Lehre
+konsequente Verknüpfung von Theorie 
+und Praxis inkl. Praktikum bei einem der 
+zahlreichen Partnerunternehmen
+Ideales Sprungbrett in den Beruf
+ausgezeichnete Berufsaussichten in 
+zahlreichen Branchen
+Breites Spektrum an Spezialisierungs-
+richtungen
+von Theorie bis Anwendungen – auch eine 
+geisteswissenschaftliche Ausrichtung ist 
+möglich
+Studienort Ingolstadt
+beste Lebensqualität und viele Hochtechno-
+logieunternehmen direkt vor Ort 
+International
+Studium auf Englisch mit der Möglichkeit 
+eines Auslandssemesters an einer der vielen 
+internationalen Partneruniversitäten

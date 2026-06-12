@@ -1,0 +1,614 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/APO_3.Aenderungssatzung_Senatsbeschluss_27.7.22_01.pdf
+TITLE: APO_3.Aenderungssatzung_Senatsbeschluss_27.7.22_01.pdf
+SOURCE_FILE: APO_3.Aenderungssatzung_Senatsbeschluss_27.7.22_01.pdf
+------------------------------------------------------------
+
+[Page 1]
+Dritte Satzung zur Änderung der Allgemeinen Prüfungsordnung 
+(APO) 
+der Katholischen Universität Eichstätt-Ingolstadt 
+ 
+Vom 22. Dezember 2022 
+ 
+ 
+Aufgrund des Art. 5 § 3 Satz 1 des Konkordats zwischen dem Heiligen Stuhl und dem Freistaat Bayern 
+vom 29. März 1924 (BayRS 2220-1-K) erlässt die Katholische Universität Eichstätt-Ingolstadt (KU) 
+folgende Änderungssatzung: 
+§ 1 
+ 
+Die Allgemeine Prüfungsordnung (APO) der Katholischen Universität Eichstätt-Ingolstadt vom 26. 
+November 2014 (Amtsblatt der Stiftung Katholische Universität Eichstätt-Ingolstadt, Jg. 38, Nr. 2/2014, 
+S.124), zuletzt geändert durch Satzung vom 5. Dezember 2019 (Amtsblatt der Stiftung Katholische 
+Universität Eichstätt-Ingolstadt, Jg. 43, Nr. 2/2018, S. 123), wird wie folgt geändert: 
+ 
+ 
+1. Das Inhaltsverzeichnis wird wie folgt geändert: 
+ 
+a) Die Angabe zum bisherigen § 7 wird durch folgende Angabe zu § 7 ersetzt: 
+„§ 7 Elektronische Form, Einsicht in die Prüfungsunterlagen, Fristversäumnis, 
+Aufbewahrung“. 
+ 
+b) Nach der Angabe zu § 18 wird folgende Angabe § 19 eingefügt: 
+ 
+„§ 19 Elektronische Fernprüfung“. 
+ 
+ 
+c) Die Angabe zu dem bisherigen § 19 wird die Angabe zu § 20 
+ 
+d) Die Angabe zum bisherigen § 20 wird die Angabe zu § 21 und nach dem Wort 
+„Prüfungen“ wird das Komma und das Wort „Rücktritt“ gestrichen. 
+ 
+e) Es wird folgende Angabe § 22 eingefügt: 
+ 
+„§ 22 Rücktritt, Fristverlängerung“. 
+ 
+f) 
+Die Angaben zu den bisherigen §§ 21 bis 26 werden die Angaben zu §§ 23 bis 28. 
+ 
+g) Es wird folgende Angabe § 29 eingefügt: 
+ 
+„§ 29 Widerspruchsverfahren“. 
+ 
+h) Die Angaben zu den bisherigen §§ 27 bis 32 werden die Angaben zu §§ 30 bis 35. 
+ 
+2. In § 1 Abs. 1 wird das Wort „universitären“ gestrichen. 
+ 
+ 
+3. Der bisherige § 3 Abs. 1 und Abs. 2 wird wie folgt ersetzt: 
+
+[Page 2]
+2 
+ 
+„(1) Nach Maßgabe der PO wird nach erfolgreichem Absolvieren der Bachelorprüfung der 
+akademische Grad eines „Bachelor of Arts“ (abgekürzt: „B.A.“), eines „Bachelor of Science“ 
+(abgekürzt: „B.Sc.“) oder eines „Bachelor of Education“ (abgekürzt: „B.Ed.“) verliehen. 
+(2) Nach Maßgabe der PO wird nach erfolgreichem Absolvieren der Masterprüfung der 
+akademische Grad eines „Master of Arts“ (abgekürzt: „M.A.“), eines „Master of Science“ 
+(abgekürzt: „M.Sc.“) oder eines „Master of Business Administration“ (abgekürzt: „MBA“) 
+verliehen.“ 
+ 
+4. § 4 Abs. 3 wird wie folgt geändert: 
+ 
+a) Nach den Worten „kann vom Prüfungsausschuss“ wird ein Leerzeichen gestrichen. 
+ 
+b) Die Worte „den oder die Vorsitzende/n“ werden durch die Worte „die Vorsitzende bzw. 
+den Vorsitzenden oder auf ein Mitglied“ ersetzt. 
+ 
+ 
+5. § 5 wird wie folgt geändert: 
+ 
+a) In Abs. 1 Satz 3 wird nach dem Wort „werden“ ein Strichpunkt und der Halbsatz „es sei 
+denn für das Modul ist die Möglichkeit der Mehrfachwahl nach Abs. 6 Satz 2 in der 
+jeweiligen PO eröffnet“ eingefügt. 
+ 
+b) In Abs. 4 wird nach Satz 2 folgender Satz 3 angefügt: 
+„3Näheres zu den Modulbeschreibungen regeln die Modulrichtlinien.“ 
+ 
+c) In Abs. 6 wird nach Satz 4 folgender Satz 5 angefügt: 
+„5Eine Anrechnung ist nur auf die erste Absolvierung des Moduls möglich.“ 
+ 
+ 
+6. In § 6 Abs. 3 Satz 3 werden die Worte „der oder die Vorsitzende“ durch die Worte „die oder der 
+Vorsitzende“ und die Worte „der Studiengangssprecher oder die Studiengangssprecherin“ 
+durch die Worte „die Studiengangssprecherin oder der Studiengangssprecher“ ersetzt. 
+ 
+7. § 7 wird wie folgt geändert: 
+ 
+a) Die bisherige Paragraphenüberschrift wird durch folgende Paragraphenüberschrift 
+ersetzt: 
+„§ 7 
+Elektronische Form, Einsicht in Prüfungsunterlagen, Fristversäumnis, Aufbewahrung“ 
+ 
+b) Es wird folgender Abs. 1 eingefügt: 
+„(1) Soweit Anträge, Entscheidungen oder Prüfungen in elektronischer Form erfolgen 
+können und nichts Näheres dazu geregelt ist, ist dies per E-Mail von einem KU-Account 
+aus oder innerhalb eines webbasierten elektronischen Prozesses, der von der KU zur 
+Verfügung gestellt wird, möglich.“ 
+c) Der bisherige Abs. 1 wird Abs. 2 und wie folgt geändert: 
+ 
+aa) In Satz 2 wird das Wort „schriftlichen“ gestrichen. 
+ 
+bb) Nach Satz 2 wird folgender Satz 3 angefügt: 
+„3Der Antrag auf Akteneinsicht ist binnen eines Monats nach Bekanntgabe des 
+Prüfungsergebnisses zu stellen.“ 
+d) Der bisherige Abs. 2 wird Abs. 3 und Satz 1 sowie die Satznummerierung „2“ wird 
+gestrichen. 
+ 
+
+[Page 3]
+3 
+ 
+e) Es wird folgender Abs. 4 angefügt: 
+„(4) Prüfungsunterlagen werden nach Maßgaben der Aufbewahrungsrichtlinien 
+aufbewahrt.“ 
+ 
+8. § 9 wird wie folgt geändert: 
+ 
+a) In Abs. 1 wird nach Satz 2 folgender Satz 3 angefügt: 
+„3Der Prüfungsausschuss ist zuständig, soweit nichts vorrangig oder abweichend 
+geregelt ist.“ 
+ 
+b) In Abs. 2 Satz 2 werden die Worte „Rechtsverhältnisse der Hochschullehrer und 
+Hochschullehrerinnen“ durch die Worte „Rechtsverhältnisse der Hochschullehrerinnen 
+und Hochschullehrer“ ersetzt. 
+ 
+c) In Abs. 3 Satz 3 wird das Wort „verbliebene“ durch das Wort „verbleibende“ ersetzt. 
+ 
+d) Abs. 4 wird wie folgt geändert: 
+ 
+aa) Nach Satz 2 wird folgender Satz 3 eingefügt: 
+„3Die oder der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.“ 
+bb) Der bisherige Satz 3 wird Satz 4 und nach dem Wort „übertragen“ werden ein 
+Komma und der Halbsatz „wenn eine Übertragungsmöglichkeit in der 
+jeweiligen Regelung eröffnet ist“ angefügt. 
+ 
+e) Abs. 5 wird wie folgt geändert: 
+ 
+aa) In Satz 1 werden nach dem Wort „E-Mail“ die Worte „vom KU-Account“ und ein 
+Komma eingefügt. 
+ 
+bb) Nach Satz 1 wird folgender Satz 2 angefügt: 
+ 
+„2In Ausnahmefällen können Sitzungen ganz oder in Teilen per Videokonferenz 
+durchgeführt werden oder einzelne Teilnehmerinnen oder Teilnehmer mit 
+dieser Technologie zugeschaltet werden, sofern eine Übertragung sicher und 
+datenschutzgerecht erfolgt und sichergestellt ist, dass die Mitwirkung der oder 
+des Zugeschalteten nicht beeinflusst und die Vertraulichkeit gewahrt wird.“ 
+ 
+cc) Die bisherigen Sätze 2 bis 5 werden Sätze 3 bis 6. 
+f) 
+Nach Abs. 6 werden folgender Abs. 7 und Abs. 8 angefügt: 
+„(7) 
+1Die 
+oder 
+der 
+Prüfungsausschussvorsitzende 
+kann 
+unaufschiebbare 
+Entscheidungen, die nicht in einer Sitzung oder im Umlaufverfahren getroffen werden 
+können, anstelle des Prüfungsausschusses treffen; dies gilt nicht für Entscheidungen 
+über Widersprüche. 2Hiervon hat sie bzw. er dem Prüfungsausschuss unverzüglich 
+Kenntnis zu geben. 3Dieser kann die Entscheidung aufheben. 4Bereits entstandene 
+Rechte Dritter bleiben unberührt. 
+(8) Bescheide in Prüfungsangelegenheiten, durch die eine Person in ihren Rechten 
+beeinträchtigt werden kann, sind zu begründen und mit einer Rechtsbehelfsbelehrung 
+zu versehen.“ 
+ 
+ 
+9. § 11 wird wie folgt geändert: 
+a) In Abs. 2 wird die Satznummerierung „1“ gestrichen. 
+b) Abs. 4 wird wie folgt geändert: 
+
+[Page 4]
+4 
+ 
+aa) In Satz 1 wird der Verweis „§ 21 Abs. 1“ durch den Verweis „§ 23 Abs. 1“ ersetzt. 
+bb) In Satz 2 werden nach dem Wort „schriftlichen“ die Worte „oder elektronischen“ 
+eingefügt. 
+c) In Abs. 6 Nr. 1 wird der Verweis „§ 23“ durch den Verweis „§ 25“ ersetzt. 
+ 
+10. § 12 wird wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
+aa) In Satz 4 werden die Worte „den Betreuer oder die Betreuerin“ durch die Worte 
+„die Betreuerin oder den Betreuer“ ersetzt. 
+bb) Nach Satz 4 wird folgender Satz 5 angefügt: 
+„5Im Übrigen bestellt der Prüfungsausschuss die Gutachterin oder den 
+Gutachter; die Zuständigkeit für diese Bestellung kann auf die Vorsitzende bzw. 
+den Vorsitzenden oder auf ein Mitglied des Prüfungsausschusses übertragen 
+werden.“ 
+b) Abs. 4 wird wie folgt geändert: 
+aa) Nach Satz 1 werden folgender Satz 2 und Satz 3 angefügt: 
+„2Soweit die Betreuerin oder der Betreuer bei der Themenstellung für die bei 
+ihr oder ihm geschriebene Arbeit ein anderes Format vorgegeben hat, ist die 
+Arbeit zusätzlich bei der Gutachterin oder dem Gutachter in dieser Form 
+abzugeben; Satz 1 bleibt hiervon unberührt. 3Enthält eine Bachelor- oder 
+Masterarbeit Anlagen, sind diese grundsätzlich schriftlich einzureichen; es sei 
+denn die Gutachterin oder der Gutachter hat eine andere Form der Einreichung 
+genehmigt.“ 
+bb) Die bisherigen Sätze 2 und 3 werden die Sätze 4 und 5. 
+c) Der bisherige Abs. 5 wird durch folgenden Abs. 5 ersetzt: 
+„(5) 1Bei Vorliegen wichtiger Gründe kann die Bearbeitungszeit auf Antrag vom 
+Prüfungsausschuss um höchstens vier Wochen verlängert werden; die Zuständigkeit 
+für die Entscheidung über eine Verlängerung der Bearbeitungszeit kann auf die 
+Vorsitzende bzw. den Vorsitzenden oder auf ein Mitglied des Prüfungsausschusses 
+übertragen werden. 2Der Antrag ist vor Ablauf der Frist zu stellen; davon unberührt 
+bleibt die Möglichkeit der Fristverlängerung bei nicht zu vertretenden Gründen nach § 
+22 Abs. 2.“ 
+d) Es wird folgender Abs. 6 angefügt: 
+„(6) Wird die Arbeit nicht fristgerecht abgegeben, so wird sie mit „nicht ausreichend“ 
+(5,0) bewertet.“ 
+e) Der bisherige Abs. 6 wird Abs. 7 und Satz 3 wird gestrichen; die bisherigen Sätze 4 und 
+5 werden die Sätze 3 und 4. 
+f) 
+Der bisherige Abs. 7 wird Abs. 8 und wie folgt geändert: 
+aa) In Satz 3 wird nach dem Wort „Prüfungsausschuss“ ein Leerzeichen eingefügt. 
+bb) In Satz 4 werden die Worte „den Vorsitzenden oder die Vorsitzende“ durch die 
+Worte „die Vorsitzende bzw. den Vorsitzenden oder auf ein Mitglied“ ersetzt. 
+
+[Page 5]
+5 
+ 
+g) Die bisherigen Abs. 8 bis 11 werden Abs. 9 bis 12. 
+ 
+11. § 14 wird wie folgt geändert: 
+a) In Satz 2 wird vor der Abkürzung „BGBl.“ ein Leerzeichen gestrichen. 
+b) In Satz 5 werden nach dem Wort „schriftlich“ die Worte „oder elektronisch“ eingefügt. 
+ 
+12. § 15 Abs. 2 wird wie folgt geändert: 
+a) Vor den Worten „Das Prüfungsamt“ wird die Satznummerierung „1“ eingefügt und nach 
+dem Wort „Anmeldemodalitäten“ werden die Worte „für Klausuren und mündliche 
+Prüfungen (semesterabschließende Prüfungen)“ eingefügt. 
+b) Es wird folgender Satz 2 angefügt: 
+„2Für alle anderen Prüfungsformen (semesterbegleitende Prüfungen) legt die oder der 
+Prüfende spätestens im ersten Veranstaltungstermin die An- und Abmeldeformalitäten 
+fest.“ 
+ 
+13. In § 16 Abs. 4 Satz 2 wird nach dem Wort „ermöglichen“ ein Strichpunkt und der Satzteil „die 
+Studierenden müssen ihre jeweiligen individuellen Leistungen kenntlich machen“ angefügt. 
+ 
+14. § 17 wird wie folgt geändert: 
+a) Der bisherige Abs. 1 wird durch folgenden Abs. 1 ersetzt: 
+„(1) 1Die Prüfungsform in einem Modul ergibt sich aus den angestrebten Kompetenzen 
+und dem Studiengangskonzept. 2Die jeweils in der PO festgelegte Prüfungsform kann 
+auch in elektronischer Form mittels von der KU dafür zur Verfügung gestellten Diensten 
+durchgeführt werden nach Maßgabe der Regelung in § 19.“ 
+b) Abs. 2 wird wie folgt geändert: 
+aa) Das Wort „im“ wird durch die Worte „bis zum“ ersetzt. 
+bb) Nach dem Wort „verbindlich“ werden die Worte „mittels der Eintragung ins 
+Prüfungsverwaltungssystem“ eingefügt. 
+cc) Die Worte „und den Studierenden mitzuteilen“ werden gestrichen. 
+c) Abs. 4 wird gestrichen. 
+d) Die bisherigen Abs. 5 bis 9 werden zu Abs. 4 bis 8. 
+e) Es wird folgender Abs. 9 und Abs. 10 eingefügt: 
+„(9) 1Ein Portfolio ist eine (elektronische) Arbeitsmappe von aufeinander abgestimmten 
+Arbeiten zu einem festgelegten Thema, die innerhalb eines bestimmten vorgegebenen 
+Zeitraums entstehen und den Reflexionsprozess in Bezug auf das Thema der 
+zugehörigen Lehrveranstaltung sichtbar machen. 2In der Regel umfasst der Textformteil 
+des Portfolios circa 18000 bis 30000 Zeichen ohne Leerzeichen (je nach in der PO 
+
+[Page 6]
+6 
+ 
+angegebenen Umfang der ECTS-Punkte). 
+3Das Portfolio kann keine anderen 
+Prüfungsformen umfassen. 
+(10) 1Take-Home-Prüfungen sind Prüfungen in elektronischer Form, die nicht in 
+Präsenz an der KU stattfinden, sondern in der Regel zu Hause ohne Aufsicht innerhalb 
+eines vorgegebenen Zeitrahmens abgelegt werden. 
+2Es können eingeschränkt 
+Hilfsmittel zugelassen werden. 3Die Prüfungsausgabe und die Prüfungsabgabe erfolgen 
+elektronisch.“ 
+f) 
+Der bisherige Abs. 10 wird Abs. 11 und Nr. 1 wird gestrichen; die Nrn. 2 bis 4 werden 
+Nrn. 1 bis 3. 
+ 
+15. In § 18 Abs. 3 Satz 2 werden die Worte „der oder die Vorsitzende“ durch die Worte „die bzw. 
+der Vorsitzende oder ein Mitglied“ ersetzt. 
+ 
+16. Nach § 18 wird folgender § 19 eingefügt: 
+„§ 19 
+Elektronische Fernprüfung 
+(1) 1Neben Präsenzprüfungen können Prüfungen auch als elektronische Fernprüfungen 
+unter Nutzung von Videokonferenzschaltung durchgeführt werden. 2Elektronische 
+Fernprüfungen sind Prüfungen, die ihrer Natur nach dazu geeignet sind, in 
+elektronischer Form ortsungebunden durchgeführt zu werden. 3Dies gilt sowohl für 
+mündliche und praktische Fernprüfungen als auch für elektronische Fernprüfungen in 
+Form schriftlicher Aufsichtsarbeiten (Fernklausuren). 
+ 
+(2) 1Fernklausuren finden unter Verwendung der aktivierten Kamera- und Mikrofonfunktion 
+der zur Prüfung eingesetzten elektronischen Kommunikationseinrichtung unter Aufsicht 
+(Videoaufsicht) 
+statt. 
+2Fernklausuren 
+können 
+im 
+Rahmen 
+der 
+personellen, 
+organisatorischen und technischen Kapazitäten durchgeführt werden. 
+ 
+(3) 1Mündliche und praktische Fernprüfung werden unter Verwendung von Bild- und 
+Tonübertragung (Videokonferenz) der zur Prüfung eingesetzten elektronischen 
+Kommunikationseinrichtung durchgeführt; Abs. 2 gilt entsprechend. 2Die wesentlichen 
+Inhalte der mündlichen Fernprüfung werden von einer oder einem Prüfenden oder von 
+einer oder einem Beisitzenden protokolliert. 
+ 
+(4) Die Videoaufsicht erfolgt durch Aufsichtspersonal der Hochschule. Eine automatisierte 
+Auswertung von Bild- und Tondaten der Videoaufsicht ist unzulässig 
+ 
+(5) Eine vollständige oder nur teilweise Aufzeichnung der Prüfung oder Speicherung der 
+Bild- oder Tondateien ist bei elektronischen Fernklausuren nicht zulässig. 
+ 
+(6) 1Abweichend von Abs. 4 und 5 kann die Videoaufsicht automatisiert erfolgen, wenn kein 
+ausreichendes Aufsichtspersonal für die Durchführung der Videoaufsicht nach Abs. 4 
+Satz. 1 zur Verfügung steht (Kapazitätsüberlastung) und die Studierenden ihre 
+ausdrückliche Einwilligung erklärt haben. 2Die Studierenden sind vor Erteilung der 
+Einwilligung nach Art. 9 Abs. 2 Buchst. a DSGVO über die Wirkungsweise einer 
+automatisierten Videoaufsicht und die bestehenden Möglichkeiten zur Ablegung einer 
+Präsenzprüfung zu unterrichten. 3Die Kapazitätsüberlastung ist zu dokumentieren. 
+4Personenbezogene Daten, die bei einer automatisierten Videoaufsicht verarbeitet 
+werden, dürfen nicht länger gespeichert werden, als dies zu Kontrollzwecken unbedingt 
+erforderlich ist. 
+ 
+(7) Bei Durchführung einer elektronischen Fernprüfung ist im gleichen Prüfungszeitraum 
+die gleiche Prüfung auch in Präsenzform anzubieten. 
+
+[Page 7]
+7 
+ 
+ 
+(8) 1Für den Fall einer technischen Störung wird die Prüfung zum jeweiligen Stand beendet 
+und eine Bewertung der Prüfungsleistung findet nicht statt. 2Der Prüfungsversuch gilt 
+als nicht vorgenommen. 3Dies gilt nicht, wenn nachgewiesen werden kann, dass die 
+Störung im Verantwortungsbereich der oder des Studierenden liegt. 
+4Bei 
+vorübergehenden Störungen in einer mündlichen Fernprüfung wird die Prüfung nach 
+Behebung der Störung fortgesetzt. 5Kann die Prüfung aufgrund einer andauernden 
+technischen Störung nicht fortgesetzt werden, findet eine Wiederholung zu einem 
+späteren Zeitpunkt statt; Satz 2 und 3 gilt entsprechend. 6Wurde bereits vor 
+Störungseintritt ein wesentlicher Teil der Prüfungsleistung erbracht, kann die mündliche 
+Fernprüfung fernmündlich ohne Einsatz eines Videokonferenzsystems zu Ende geführt 
+werden. 
+ 
+(9) 1Vor Beginn der Prüfung soll der oder dem Studierenden die Möglichkeit gegeben 
+werden, sich über das elektronische Prüfungssystem zu informieren. 
+2Bei 
+elektronischen Fernprüfungen sind für alle Studierenden vergleichbare Bedingungen 
+herzustellen. 3Die eindeutige Identifizierbarkeit der Prüfungsteilnehmenden ist durch die 
+vor Beginn der Prüfung stattfindende Authentifizierung mittels eines gültigen 
+Lichtbildausweises, 
+der 
+nach 
+Aufforderung 
+vorzuzeigen 
+ist, 
+sicherzustellen. 
+3Datenschutzrechtliche Bestimmungen (insbesondere auch Art und Wahl des Servers) 
+müssen eingehalten werden.4Es sind geeignete und ausreichende Maßnahmen gegen 
+Täuschungsversuche zu treffen. 5Der Umgang mit technischen Störungen und die 
+Sicherung und Dokumentation des Prüfungsgeschehens müssen gewährleistet sein.“ 
+ 
+17. Der bisherige § 19 wird § 20 und in Abs. 3 Satz 3 wird vor der Zahl „1,00“ ein Leerzeichen 
+gestrichen. 
+ 
+18. Der bisherige § 20 wird § 21 und wie folgt geändert: 
+a) In der Paragraphenüberschrift wird nach dem Wort „Prüfung“ das Komma und das Wort 
+„Rücktritt“ gestrichen. 
+b) Abs. 4 wird gestrichen. 
+ 
+19. Es wird folgender § 22 eingefügt: 
+„§ 22 
+Rücktritt, Fristverlängerung 
+(1) 1Der Prüfungsausschuss ist zuständig für die Entscheidung, ob ein Rücktritt aus von 
+der oder dem Studierenden nicht zu vertretenden Gründen vorliegt; diese 
+Zuständigkeit kann auf die Vorsitzende bzw. den Vorsitzenden oder auf ein Mitglied 
+des Prüfungsausschusses übertragen werden. 2Bei Prüfungsunfähigkeit, die während 
+der Prüfung eintritt, erfolgt die Geltendmachung bei der oder dem Aufsichtsführenden 
+(mit Vermerk im Prüfungsprotokoll). 
+(2) 1Die oder der Studierende muss Gründe, die das Überschreiten einer Frist 
+rechtfertigen sollen, unverzüglich nach ihrem Auftreten schriftlich oder elektronisch 
+über das Prüfungsamt beim Prüfungsausschuss geltend und glaubhaft machen und 
+eine Fristverlängerung beantragen; die Fristverlängerung kann nur die Tage 
+umfassen für die die Prüfungsunfähigkeit nachgewiesen wurde. 2Bei Krankheit muss 
+die Vorlage eines in der Regel ärztlichen Attests, das im Original einzureichen ist, 
+unverzüglich erfolgen; Attestkosten trägt die oder der Studierende. 
+
+[Page 8]
+8 
+ 
+(3) 1Über die Anerkennung der Gründe sowie die Dauer einer Fristverlängerung 
+entscheidet der Prüfungsausschuss; die Zuständigkeit über diese Entscheidung kann 
+auf die Vorsitzende bzw. den Vorsitzenden oder auf ein Mitglied des 
+Prüfungsausschusses übertragen werden. 2Die oder der Studierende erhält über die 
+Entscheidung nach Satz 1 einen schriftlichen Bescheid.“ 
+ 
+20. Der bisherige § 21 wird § 23 und wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
+aa) Der bisherige Satz 2 wird durch folgenden Satz 2 ersetzt: 
+„2Wird die Frist nach § 11 Abs. 4 Satz 1 überschritten ist die Prüfung zum 
+nächstmöglichen Zeitpunkt abzulegen.“ 
+bb) Es wird folgender Satz 3 angefügt: 
+„3Besteht mit der KU kein Studierendenverhältnis mehr, ist die 
+Wiederholungsprüfung innerhalb von zwei Jahren nach Bekanntgabe des 
+Nichtbestehens der Prüfung abzulegen.“ 
+b) In Abs. 4 Satz 1 werden die Worte „Klausuren und vergleichbare Prüfungsformen“ 
+durch die Worte „semesterabschließende Prüfungen“ ersetzt. 
+c) Abs. 5 wird gestrichen. 
+ 
+21. Der bisherige § 22 wird § 24 und in Abs. 2 Satz 2 werden nach dem Wort „schriftlichen“ die 
+Worte „oder elektronischen“ eingefügt. 
+ 
+22. Der bisherige § 23 wird § 25 und wie folgt geändert: 
+a) In Abs. 2 Satz 2 wird das Wort „Leistungen“ durch die Worte „die erworbenen 
+Kompetenzen“ ersetzt. 
+b) Abs. 3 wird wie folgt geändert: 
+aa) In Satz 1 wird der Verweis „§ 19 Abs. 2“ durch den Verweis „§ 20 Abs. 2“ ersetzt. 
+bb) Der bisherige Satz 2 wird durch folgenden Satz 2 ersetzt: 
+„2Ist eine Note nicht vergleichbar und enthält die studiengangspezifische 
+Prüfungsordnung 
+oder 
+eine 
+Hochschulkooperationsvereinbarung 
+keine 
+Regelung zur Umrechnung in die Notenskala der KU, so erfolgt die 
+Umrechnung mittels eines geeigneten Abbildungsverfahrens und anschließend 
+eine Einbeziehung in die Gesamtnotenberechnung; wenn eine Umrechnung 
+nicht möglich ist, wird die angerechnete Leistung mit der Bewertung 
+„bestanden“ verbucht.“ 
+cc) In Satz 3 wird vor der Zahl „1,00“ ein Leerzeichen gestrichen. 
+c) Abs. 4 wird gestrichen. 
+d) Der bisherige Abs. 5 wird Abs. 4 und wie folgt geändert: 
+
+[Page 9]
+9 
+ 
+aa) In Satz 1 wird nach dem Wort „Studiengangs“ ein Strichpunkt und der Satzteil 
+„die Entscheidung über die Anrechnung kann auf die Vorsitzende bzw. den 
+Vorsitzenden oder auf ein Mitglied des Prüfungsausschusses übertragen 
+werden“ angefügt. 
+bb) In Satz 2 werden nach dem Wort „schriftlichen“ die Worte „oder elektronischen“ 
+eingefügt. 
+e) Der bisherige Abs. 6 wird Abs. 5 und wie folgt geändert: 
+aa) In Satz 1 wird die Satznummerierung „1“ gestrichen; nach den Worten „gezählt 
+wurden, wird“ werden die Worte „unter Gesamtbetrachtung sämtlicher, bislang 
+angerechneter ECTS-Punkte“ ergänzt und nach dem Wort „angehoben“ wird 
+der Klammervermerk „(Höherstufung)“ eingefügt. 
+bb) Satz 2 wird gestrichen. 
+f) 
+Der bisherige Abs. 7 wird Abs. 6 und wie folgt geändert: 
+aa) Vor den Worten „Learning Agreements“ wird die Satznummerierung „1“ 
+eingefügt. 
+bb) Die Worte „von der oder dem Vorsitzenden des Prüfungsausschusses 
+unterschrieben“ werden durch die Worte „vom Prüfungsausschuss zu 
+bestätigen“ ersetzt. 
+cc) Es wird folgender Satz 2 angefügt: 
+„2Die Zuständigkeit für die Bestätigung kann an die Vorsitzende bzw. den 
+Vorsitzenden oder an ein Mitglied des Prüfungsausschusses delegiert werden.“ 
+g) Es wird folgender Abs. 7 angefügt: 
+„(7) Näheres regeln die Anrechnungsrichtlinien der KU.“ 
+ 
+23. Der bisherige § 24 wird § 26 und wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
+aa) Vor dem Wort „Macht“ wird die Satznummerierung „1“eingefügt. 
+bb) Nach den Worten „ärztliches Attest“ werden ein Komma, die Worte „das im 
+Original einzureichen ist“ und ein Komma ergänzt. 
+cc) Nach dem Wort „Assistenzleistungen“ wird ein Punkt eingefügt. 
+b) Abs. 2 wird wie folgt geändert: 
+aa) In Satz 2 werden die Worte „den Studierenden oder die Studierende“ durch die 
+Worte „die Studierende oder den Studierenden“ ersetzt. 
+bb) In Satz 4 werden die Worte „der oder die Vorsitzende“ durch die Worte „die 
+oder der Vorsitzende“ ersetzt. 
+ 
+24. Der bisherige § 25 wird § 27 und wie folgt geändert: 
+
+[Page 10]
+10 
+ 
+a) Abs. 2 wird wie folgt geändert: 
+aa) Satz 1 wird gestrichen und der bisherige Satz 2 wird Satz 1. 
+bb) Es wird folgender Satz 2 eingefügt: 
+„2Eine Täuschung liegt insbesondere auch dann vor, wenn die Verfasserin 
+oder der Verfasser einer Prüfung jemanden beauftragt, die oder der die 
+Prüfung ganz oder teilweise im Namen und Auftrag einer anderen Person 
+schreibt (Ghostwriter); dies gilt auch beim Einsatz einer künstlichen 
+Intelligenz.“ 
+cc) Satz 3 wird gestrichen. 
+b) In Abs. 3 wird wie folgt geändert: 
+aa) Es werden folgende Sätze 1 und 2 eingefügt: 
+„1Als Versuch gilt bei einer Klausur oder in einer mündlichen Prüfung bereits der 
+Besitz nicht zugelassener Hilfsmittel während und nach Ausgabe der 
+Prüfungsunterlagen. 
+2Das 
+Mitführen 
+mobiler 
+Endgeräte 
+und 
+digitaler 
+Speichermedien wird als Täuschungsversuch gewertet.“ 
+bb) Die bisherigen Sätze 1 bis 4 werden die Sätze 3 bis 6. 
+c) Abs. 4 wird gestrichen und der bisherige Abs. 5 wird Abs. 4. 
+d) Abs. 6 wird gestrichen. 
+e) Der bisheriger Abs. 7 wird Abs. 5 und wie folgt geändert: 
+aa) In Satz 2 wird das Wort „oder“ durch ein Komma ersetzt und nach dem Wort 
+„schriftlichen“ werden die Worte „oder elektronischen“ eingefügt. 
+bb) Satz 3 wird gestrichen. 
+f) 
+Es werden folgende Abs. 6 und 7 angefügt: 
+„(6) Eine Studierende oder ein Studierender, die oder der den ordnungsgemäßen 
+Ablauf der Prüfung stört, kann von der oder dem Prüfenden von der Fortsetzung der 
+Prüfung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfung als mit 
+„nicht ausreichend“ (5,0) bewertet. 
+(7) 1In schwerwiegenden oder wiederholten Fällen schließt der Prüfungsausschuss die 
+oder den Studierenden von der Erbringung einzelner oder aller Prüfungsleistungen aus. 
+2Im letzteren Fall wird die oder der Studierende gemäß Art. 49 Abs. 2 Nr. 3 BayHSchG 
+exmatrikuliert und die Bachelor- oder Masterprüfung gilt als endgültig nicht bestanden.“ 
+ 
+25. Der bisherige § 26 wird § 28 und wie folgt geändert: 
+a) In Abs. 1 Satz 1 werden nach dem Wort „schriftlichen“ die Worte „oder elektronischen“ 
+eingefügt. 
+b) In Abs. 2 Satz 2 werden nach dem Wort „schriftlich“ die Worte „oder elektronisch“ 
+eingefügt. 
+ 
+26. Es wird folgender § 29 eingefügt: 
+
+[Page 11]
+11 
+ 
+„§ 29 
+Widerspruchsverfahren 
+(1) 1Gegen ablehnende Entscheidungen und belastende Verwaltungsakte, die nach Maßgabe 
+einer Prüfungsordnung getroffen werden (personenbezogene Prüfungsentscheidungen) 
+kann innerhalb der Rechtsbehelfsfrist schriftlich oder zur Niederschrift über die 
+Rechtsabteilung Widerspruch eingelegt werden. 2Über den Widerspruch entscheidet der 
+zuständige Prüfungsausschuss. 3Soweit sich der Widerspruch gegen die Bewertung einer 
+oder eines Prüfenden richtet, sollen konkrete substantiierte Einwendungen gegen die 
+prüfungsspezifische und fachliche Bewertung vorgetragen werden, die der oder dem 
+Prüfenden zur Stellungnahme vorzulegen sind (Überdenkungsverfahren). 
+(2) Entsprechendes gilt, wenn sich der Widerspruch gegen die Bewertung durch mehrere 
+Prüfende richtet. 
+(3) Das Widerspruchsverfahren darf nicht zur Verschlechterung der Prüfungsnote führen.“ 
+ 
+27. Der bisherige § 27 wird § 30 und wie folgt geändert: 
+a) In Abs. 1 Satz 1 werden nach dem Wort „schriftlichen“ die Worte „oder elektronischen“ 
+eingefügt. 
+b) Der bisherige Abs. 2 wird durch folgenden Abs. 2 ersetzt: 
+„(2) 1Das Diploma Supplement erläutert den Studiengang und seine Inhalte und die mit 
+dem Abschluss erworbene Qualifikation. 2Bestandteil des Diploma Supplement ist das 
+Transcript of Records, das eine Auflistung der Module und der dazugehörigen 
+Prüfungsleistungen beinhaltet. 3Bei Modulen, auf die eine Anrechnung erfolgt ist, ist im 
+Transcript of Records eine Kennzeichnung der Anrechnung vorzunehmen. 4Es können 
+Leistungen, die während des Studiums an der KU erbracht wurden und nicht Teil der 
+Bachelor- und Masterprüfung sind als weitere Eintragung im Diploma Supplement bzw. 
+im Transcript of Records aufgenommen werden. 5Über weitere Eintragungen im 
+Diploma Supplement entscheidet auf schriftlichen oder elektronischen Antrag der oder 
+des Studierenden der Prüfungsausschuss; die Zuständigkeit über die Entscheidung 
+kann auf die Vorsitzende bzw. den Vorsitzenden oder auf ein Mitglied des 
+Prüfungsausschusses übertragen werden. 6Weitere Leistungen sind: 
+1. Zusatzleistungen: Als Zusatzleistungen können Module, die während der 
+Absolvierung des Studiengangs absolviert und nicht in die Bachelor- und 
+Masterprüfung eingebracht wurden, eingetragen werden; in der Regel 
+Module des Wahlpflicht- oder Wahlbereich des Studiengangs oder an einer 
+in- oder ausländischen Hochschule absolvierte Module. 
+2. Ausgewiesenes 
+ehrenamtliches 
+Engagement: 
+Ausweisbar 
+ist 
+das 
+ehrenamtliche Engagement, das im Kontext der KU über die Studiendauer 
+hinweg in einem Umfang von mindestens 90 Stunden unentgeltlich erbracht 
+wurde und nicht durch Urkunden, Arbeitszeugnisse oder Ähnliches bestätigt 
+werden kann.“ 
+c) In Abs. 3 Satz 1 werden nach dem Wort „Masterurkunde“ ein Komma und die Worte 
+„das Zeugnis“ eingefügt. 
+d) In Abs. 4 Satz 1 werden die Worte „der oder die Studierende“ durch die Worte „die oder 
+der Studierende“ ersetzt. 
+ 
+28. Der bisheriger § 28 wird § 31 und in Abs. 3 Satz 1 wird der Verweis „§ 23“ durch den Verweis 
+„§ 25“ ersetzt. 
+
+[Page 12]
+12 
+ 
+ 
+29. Die bisherigen §§ 29 bis 32 werden die §§ 32 bis 35. 
+ 
+ 
+§ 2 
+ 
+Diese Satzung tritt mit Wirkung vom 1. Oktober 2022 in Kraft. 
+ 
+ 
+Ausgefertigt aufgrund des Beschlusses des Senats der Katholischen Universität Eichstätt-Ingolstadt 
+vom 27. Juli 2022 sowie der Genehmigung der Präsidentin vom 20. Dezember 2022 und des 
+Einvernehmens des Bayerischen Staatsministeriums für Wissenschaft und Kunst vom 7. November 
+2022; Az.: R.3-5e65(KUE)-10b/70113. 
+Eichstätt/Ingolstadt, den 22. Dezember 2022 
+ 
+ 
+ 
+Prof. Dr. Gabriele Gien 
+Präsidentin 
+Diese Satzung wurde am 22. Dezember 2022 in der Katholischen Universität Eichstätt-Ingolstadt 
+niedergelegt. Die Niederlegung wurde am gleichen Tag in der Katholischen Universität Eichstätt-
+Ingolstadt bekannt gemacht. Tag der Bekanntmachung ist daher der 22. Dezember 2022.

@@ -1,0 +1,4342 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulkatalog_BA_Transformation-Nachhaltigkeit-Ethik.pdf
+TITLE: Modulkatalog_BA_Transformation-Nachhaltigkeit-Ethik.pdf
+SOURCE_FILE: Modulkatalog_BA_Transformation-Nachhaltigkeit-Ethik.pdf
+------------------------------------------------------------
+
+[Page 1]
+Kompetenzorientierte Modulbeschreibung 
+für den Bachelorstudiengang 
+„Transformation – Nachhaltigkeit – Ethik: 
+mit den Schwerpunkten Transformative Lernprozesse oder Angewandte Theologie“ 
+
+[Page 2]
+Entwurf: Stand: 04.06.2025 
+2 
+ 
+Idealtypischer Studienverlaufsplan (Schwerpunkt Transformative Lernprozesse) 
+ 
+Semes-
+ter 
+ 
+TRANSFORMATIVE LERNPROZESSE 
+Gesamt 
+ECTS 
+ 
+7. Se- 
+mester 
+Sustainability Indicators: 
+Digitalisierung und Monitoring 
+(10 ECTS-Punkte) 
+Bachelorarbeit 
+(10 ECTS-Punkte) 
+ 
+ 
+ 
+Sozial- und Pastorallabore: Erprobungen einer transformati-
+ven Praxis 
+ 
+(10 ECTS-Punkte) 
+Studium.Pro 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS- 
+Punkte 
+ 
+6. Se- 
+mester 
+ 
+Cooperatate Governance 
+(5 ECTS-Punkte) 
+Sustainable Develop-
+ment 
+(5 ECTS-Punkte) 
+Kulturelle Transformation: Kommuni-
+kation und performatives Handeln 
+(10 ECTS-Punkte) 
+Persönlichkeitsentwick-
+lung und Coaching III 
+ 
+(5 ECTS-Punkte) 
+30 
+ECTS- 
+Punkte 
+5. Se- 
+mester 
+ 
+Praxissemester (30 ECTS-Punkte) 
+30 
+ECTS- 
+Punkte 
+ 
+4. Se- 
+mester 
+ 
+ 
+Sustainable Transforma-
+tion: System- und Zielwis-
+sen 
+ 
+(15 ECTS-Punkte) 
+ 
+ 
+ 
+Akteure und Praktiken 
+der Transformation 
+ 
+(15 ECTS-Punkte) 
+ 
+ 
+Transformation Literacy: 
+Kompetenzentwicklung und Didaktik 
+(10 ECTS-Punkte) 
+Studium.Pro 
+ 
+(5 ECTS-Punkte) 
+30 
+ECTS- 
+Punkte 
+ 
+3. Se- 
+mester 
+ 
+Ethische Grundlagen der 
+Transformation (10 ECTS-
+Punkte) 
+Persönlichkeitsent-
+wicklung und Coaching 
+II 
+ 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS- 
+Punkte 
+ 
+2. Se- 
+mester 
+ 
+Transformative Bildung 
+ 
+(5 ECTS-Punkte) 
+ 
+Werte und Narrative 
+ 
+(5 ECTS-Punkte) 
+ 
+Soziale und religiöse Praktiken 
+ 
+(5 ECTS-Punkte) 
+Projektmanagement mit Pro-
+jektentwicklung Service Learn-
+ing 
+ 
+(10 ECTS-Punkte) 
+ 
+ 
+ 
+ 
+Agency 
+ 
+(10 ECTS-Punkte) 
+ 
+Studium.Pro 
+ 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS- 
+Punkte 
+ 
+ 
+1. Se- 
+mester 
+ 
+Wahrnehmen - Deuten - Antizipieren 
+(15 ECTS-Punkte) 
+ 
+Persönlichkeitsentwick-
+lung und Coaching 
+ 
+(5 ECTS-Punkte) 
+ 
+ 
+30 
+ECTS- 
+Punkte 
+
+[Page 3]
+Entwurf: Stand: 04.06.2025 
+3 
+ 
+ 
+Idealtypischer Studienverlaufsplan (Schwerpunkt Angewandte Theologie) 
+ 
+Semes-
+ter 
+ 
+Angewandte Theologie 
+Gesamt 
+ECTS 
+ 
+7. Se- 
+mester 
+Transformative Gemeinde- und Kirchenentwick-
+lung 
+(10 ECTS-Punkte) 
+Bachelorarbeit 
+ 
+(10 ECTS-Punkte) 
+ 
+ 
+Sozial- und Pastorallabore: Erprobungen einer transformativen 
+Praxis 
+ 
+(10 ECTS-Punkte) 
+Studium.Pro 
+ 
+(5 ECTS-Punkte) 
+ 
+30 ECTS- 
+Punkte 
+ 
+6. Se- 
+mester 
+Transformative christliche 
+Narrative und Rituale 
+ 
+(5 ECTS-Punkte) 
+Transformative reli-
+giöse Bildung 
+ 
+(5 ECTS-Punkte) 
+Kulturelle Transformation: Kom-
+munikation und performatives 
+Handeln 
+ 
+(10 ECTS-Punkte) 
+Persönlichkeitsentwick-
+lung und Coaching III 
+ 
+(5 ECTS-Punkte) 
+ 
+30 ECTS- 
+Punkte 
+5. Se- 
+mester 
+Praxissemester (30 ECTS-Punkte) 
+30 ECTS- 
+Punkte 
+4. Se- 
+mester 
+Denken und Glauben 
+ 
+(10 ECTS-Punkte) 
+Feiern und Trauern 
+ 
+(5 ECTS-Punkte) 
+ 
+ 
+ 
+ 
+Transformation Literacy: Kompetenzentwicklung und Didaktik 
+(10 ECTS-Punkte) 
+Studium.Pro 
+ 
+(5 ECTS-Punkte) 
+30 ECTS- 
+Punkte 
+ 
+ 
+3. Se- 
+mester 
+ 
+Erinnern und Erzählen 
+(10 ECTS-Punkte) 
+ 
+Glauben als Han-
+deln 
+ 
+(5 ECTS-Punkte) 
+ 
+ 
+Ethische Grundlagen der 
+Transformation 
+(10 ECTS-Punkte) 
+ 
+Persönlichkeitsentwick-
+lung und Coaching II 
+ 
+(5 ECTS-Punkte) 
+ 
+ 
+30 ECTS- 
+Punkte 
+ 
+2. Se- 
+mester 
+Transformative Bildung 
+ 
+(5 ECTS-Punkte) 
+Werte und Narrative 
+ 
+(5 ECTS-Punkte) 
+Soziale und religiöse Praktiken 
+ 
+(5 ECTS-Punkte) 
+Projektmanagement mit Projekt-
+entwicklung Service Learning 
+ 
+(10 ECTS-Punkte) 
+ 
+ 
+ 
+Agency 
+ 
+(10 ECTS-Punkte) 
+Studium.Pro 
+ 
+(5 ECTS-Punkte) 
+ 
+30 ECTS- 
+Punkte 
+ 
+1. Se- 
+mester 
+Wahrnehmen - Deuten - Antizipieren 
+ 
+(15 ECTS-Punkte) 
+Persönlichkeitsentwick-
+lung und Coaching 
+ 
+(5 ECTS-Punkte) 
+ 
+30 ECTS- 
+Punkte 
+
+[Page 4]
+ 
+Modulbezeichnung 
+Wahrnehmen – Deuten – Antizipieren 
+Modulbezeichnung in Englisch 
+Perceiving – Interpreting – Anticipating 
+Modulnummer 
+[wird vom Prüfungsamt vergeben; bereits vergebene Nummern sind in der 
+Modulbeschreibung zu belassen bzw. anzugeben] 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Katholische Theologie, Ethik, Geographie, Kulturwissenschaften, Data Sci- 
+ence 
+Modulverantwortliche/r 
+Martin Schneider 
+Prüfende im Modul 
+Martin Schneider, Martin Kirschner, Sabine Bieberstein 
+Leistungspunkte (ECTS-Punkte) 15 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+sich transformative Wissenschaftsmethoden anzueignen, 
+• 
+ethnographische Ansätze kennen, mit denen Transformationsorte er-
+kundet werden können, 
+• 
+wissenschaftlich fundiert gesellschaftlichen Wandel zu analysieren und 
+zu verstehen, 
+• 
+transformative Prozesse als moralische Lernprozesse zu deuten, 
+• 
+systemisch zu denken und unter komplexen Bedingungen zu handeln, 
+• 
+zwischen evolutionären und revolutionären Transformationskonzepten 
+zu unterscheiden, 
+• 
+Ereignisse zu „antizipieren“, die nicht in das Schema bisher bekannter 
+Erfahrungswerte passen, 
+• 
+kulturelle Ideenreservoirs, rituelle Arsenale und religiöse Narrative als 
+transformative Kräfte zu verstehen und zu nutzen. 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+sich irritieren und ansprechen zu lassen durch Andere(s), Fremdes und 
+Unbekanntes, 
+• 
+sich auf die Realität einzulassen, 
+• 
+Komplexität und Unsicherheit als „neue Normalität“ zu akzeptieren, 
+• 
+Ambiguitätstoleranz als wertvoll zu betrachten, 
+• 
+Perspektivenwechsel einzuüben, 
+• 
+über den Status-Quo hinauszudenken, 
+• 
+sich transformieren zu lassen, 
+• 
+eigene (religiöse) Überzeugungen zu reflektieren und kritisch zu analy-
+sieren. 
+ 
+Sozialkompetenz - Die Studierenden üben sich darin, 
+• 
+in Resonanz zu stehen, 
+• 
+Beziehungen zu pflegen, 
+• 
+Relationen und Vernetzungen aufzubauen und auszuweiten, 
+• 
+gemeinsame Werte zu entdecken. 
+ 
+Methodenkompetenz – Die Studierenden können 
+• 
+Präsentationen rechnerbasiert erstellen und halten, 
+• 
+Inhalte öffentlichkeitswirksam aufbereiten und abbilden, 
+• 
+für Bildungsprojekte erforderliche Methoden und Instrumente zur Struk-
+turierung und Steuerung anwenden. 
+
+[Page 5]
+Stand: 19.03.2026 
+6 
+ 
+ 
+Inhalte/Themen 
+Wahrnehmen: Aneignung von transformativen Wissenschaftsmethoden; 
+Einführung in ethnographische Methoden; Einführung in transformative 
+Ethik; Erkundung und Aufsuchen von Transformations-Orten 
+ 
+Deuten: „cultural turn“ in Sozialwissenschaften und Theologie; aktuelle ge-
+sellschaftstheoretische Entwürfe und Zeitdiagnosen (u. a. Ökologisierung, 
+Digitalisierung, Globalisierung); biblische Narrative 
+ 
+Antizipieren: Einführung in systemisches Denken; Entwicklung von Visionen 
+eines gelingenden Lebens für Mensch und Mitwelt; Erkundung und Aufsu-
+chen von Transformations-Orten 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Wahrnehmen: Vorlesung (VL) (2x1 SWS) / Seminar (SE) (1x1 SWS; 1x2 
+SWS) 
+ 
+Deuten: Vorlesung (VL) (1x1 SWS; 3x0,5 SWS) 
+Antizipieren: Seminar (SE) (1x0,5; 2x1 SWS) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: Mündliche 
+Prüfung oder Portfolio oder Klausur 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesungen (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 Stun-
+den 
+Seminare (Kontakt/Selbststudium): 6 ECTS-Punkte, entspricht 180 Stunden 
+Vor- und Nachbereitung: 3 ECTS-Punkte, entspricht 90 Stunden 
+Vorbereitung Leistungsnachweis: 3 ECTS-Punkte, entspricht 90 Stunden 
+Summe: 15 ECTS-Punkte, entspricht 450 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studien- 
+gängen/Hinweise zur Zugänglich-
+keit 
+ 
+Turnus des Angebots 
+WiSe 
+Bemerkungen 
+ 
+
+[Page 6]
+Stand: 19.03.2026 
+7 
+ 
+ 
+Modulbezeichnung 
+Agency 
+Modulbezeichnung in Englisch 
+Agency 
+Modulnummer 
+[wird vom Prüfungsamt vergeben; bereits vergebene Nummern sind in der 
+Modulbeschreibung zu belassen bzw. anzugeben] 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Katholische Theologie, Religionspädagogik, Geografie, Kulturwissenschaft, 
+Wirtschaftswissenschaft, Tourismus, Soziale Arbeit 
+Modulverantwortliche/r 
+Simone Birkel 
+Prüfende im Modul 
+Simone Birkel, Sabine Bieberstein, Daniel Zacher, Maria Bartholomäus 
+Leistungspunkte (ECTS-Punkte) 10 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+Erfahrungen in verschiedenen Praktika zu verarbeiten und zu reflektie-
+ren, 
+• 
+Agency-Konzepte kennen und die Bedeutung von Selbstwirksamkeit zu 
+erfahren, 
+• 
+Tools und Methoden des Projektmanagements kennen und sie für die 
+Entwicklung eines eigenständigen Projekts zu nutzen. 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+wertschätzend auf die eigenen Stärken und Kompetenzen zu blicken, 
+• 
+persönliche Überzeugungen und Interessen in die Praxis einfließen zu 
+lassen, 
+• 
+in einer komplexen, von multiplen Krisen gekennzeichneten Lebens-
+wirklichkeit handlungsfähig zu werden. 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+in Gruppen solidarisch und kooperativ auf ein gemeinsames, sinnstif-
+tendes Ziel hin zu arbeiten, 
+• 
+Ideen von anderen als Bereicherung zu erfahren, 
+• 
+Selbstwirksamkeit im Team zu erleben und sich vom gemeinsamen 
+Handeln faszinieren zu lassen. 
+ 
+Methodenkompetenz – Die Studierenden können 
+• 
+vorgegebene Anforderungen an das Projektergebnis verstehen und 
+analysieren, 
+• 
+erste Bausteine von Bildungsprojekten im Bereich einer sozial-ökologi-
+schen Transformation eigenverantwortlich strukturieren und steuern. 
+Inhalte/Themen 
+Inhalte: 
+• 
+Erkennen der Bedeutung von Selbstwirksamkeit und Empowerment in 
+Kirche und Gesellschaft 
+• 
+Einführung ins Projektmanagement 
+• 
+Zweitägiges Bar-Camp mit Entwicklung von möglichen Projekten für 
+den weiteren Studienverlauf 
+ 
+Praktika: Selbstgewählte Praktika 3x30 Stunden in Institutionen mit folgen-
+den Schwerpunkten: 
+• 
+Nachhaltige Bildung 
+• 
+Transformative Praktiken 
+• 
+Innovative Pastoral 
+
+[Page 7]
+Stand: 19.03.2026 
+8 
+ 
+ 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+Kenntnis von Praxiseinrichtungen im Bereich der sozial-ökologischen 
+Transformation; Erfahrungen im Bereich verbandlicher Jugendarbeit 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Einführung und Begleitung Praktika: Seminar (SE) (3x0,5 SWS) 
+Einführung ins Service Learning: Seminar (SE) (1 SWS) 
+Empowerment: Vorlesung (VL) (3x0,5 SWS) 
+Seminar (Bar-Camp) (SE) (2 SWS) 
+Praktika (3x30 Stunden) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+Bestandene Modulprüfung in Form eines Portfolios 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesungen (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stun-
+den 
+Seminare (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 Stunden 
+Praktika: 3 ECTS-Punkte, entspricht 90 Stunden 
+Vor- und Nachbereitung: 1 ECTS-Punkte, entspricht 30 Stunden 
+Vorbereitung Leistungsnachweis: 2 ECTS-Punkte, entspricht 60 Stunden 
+Summe: 10 ECTS-Punkte, entspricht 300 Stunden 
+Modulnote 
+bestanden / nicht bestanden 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+WiSe und SoSe 
+Bemerkungen 
+Das Modul wird über zwei Semester angeboten. 
+
+[Page 8]
+Stand: 19.03.2026 
+9 
+ 
+ 
+Modulbezeichnung 
+Werte und Narrative 
+Modulbezeichnung in Englisch 
+Values and Narratives 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Religionspädagogik, Kulturwissenschaft, Katholische Theologie, Religions- 
+wissenschaft, Ethik 
+Modulverantwortliche/r 
+Martin Schneider 
+Prüfende im Modul 
+Simone Birkel, Martin Schneider, Thomas Metten 
+Leistungspunkte (ECTS-Punkte) 5 ECTS-Punkte 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen 
+• 
+Theorien und Ansätze gesellschaftlicher Narrative kennen und diese in 
+ihr Denken und Handeln zu integrieren, 
+• 
+Theorien und Begründungszusammenhänge für eine wertebasierte 
+Transformation kennen, 
+• 
+den Reichtum und die Vielfalt an Kulturen, normativen Orientierungen, 
+Narrativen und Traditionen, Wert- und Sinnvorstellungen, Wissens- und 
+Glaubensformen kennen, die motivationale Ressourcen für transforma-
+tives Handeln sein können, 
+• 
+das Mensch-Natur-Verhältnis zu reflektieren und sich maßgebliche Be-
+zugsautor:innen für ein relationales Wirklichkeitsverständnis anzueig-
+nen. 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+sich auf Selbsttransformationsprozesse einzulassen, in denen Gewohn-
+heiten und Einstellungen infrage gestellt und Tugenden und Praktiken 
+eingeübt werden, die zu den Herausforderungen und Aufgaben einer 
+sozial-ökologischen Transformation „passen“, 
+• 
+sich aus Wert- und Darstellungsmustern bzw. Narrativen zu befreien, 
+die die Lebensgrundlagen zerstören und nicht zukunftsfähig sind, 
+• 
+unterschiedliche Perspektiven zu berücksichtigen und zwischen diesen 
+kritisch abzuwägen, 
+• 
+eine eigene Position zu entwickeln, zu vertreten und zu artikulieren. 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+in komplexen ökologischen und sozialen Beziehungs- und Wirkungszu-
+sammenhängen verortet zu sein, 
+• 
+dass Abhängigkeiten nicht einschränken, sondern Handlungsspiel-
+räume eröffnen, 
+• 
+neue Visionen und Narrative einer sorgend-wertschätzenden Mensch-
+Mitwelt-Beziehung im gemeinsamen Gestalten zu erleben. 
+ 
+Methodenkompetenz – Die Studierenden können 
+• 
+sich Konzepte und Theorien selbstständig aneignen und in die Diskus-
+sion einbringen, 
+• 
+Werte und normative Orientierungen kritisch reflektieren sowie Begrün-
+dungszusammenhänge eigenständig entwickeln, 
+• 
+Narrative sowie Sinnvorstellungen analytisch erschließen, reflektieren 
+und eigene Transformationserzählungen entwerfen, 
+• 
+mediale Instrumente nutzen, um Narrationen in Anlehnung an religiöse 
+Erzählungen und kulturelle Orientierungen zu entwickeln. 
+
+[Page 9]
+Stand: 19.03.2026 
+10 
+ 
+ 
+Inhalte/Themen 
+Naturkonzepte in den Weltreligionen und in indigenen Kulturen 
+Altorientalische und biblische Schöpfungserzählungen und -vorstellungen: 
+Quellentexte, historische Kontexte, Methoden der Exegese, hermeneutisch 
+reflektierter Umgang mit den Texten 
+Grundlagen der Medienpädagogik und -gestaltung 
+Formale Voraussetzungen für die 
+Teilnahme 
+keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch, ggf. Englisch 
+Lehr- und Lernformen/Lehrveran- 
+staltungstypen 
+Vorlesung (VL): 2 SWS; Seminar (SE): 2 SWS; Übung (UE): 1 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: Mündliche 
+Prüfung oder Klausur oder Portfolio 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesung (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Seminar (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Übung (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Vor- und Nachbereitung: 1 ECTS-Punkt, entspricht 30 Stunden 
+Vorbereitung Leistungsnachweis: 1 ECTS-Punkt, entspricht 30 Stunden 
+Summe: 5 ECTS-Punkte, entspricht 150 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studien- 
+gängen/Hinweise zur Zugänglich-
+keit 
+ 
+Turnus des Angebots 
+SoSe 
+Bemerkungen 
+ 
+
+[Page 10]
+Stand: 19.03.2026 
+11 
+ 
+ 
+Modulbezeichnung 
+Transformative Bildung 
+Modulbezeichnung in Englisch 
+Transformative Education 
+Modulnummer 
+[wird vom Prüfungsamt vergeben; bereits vergebene Nummern sind in der 
+Modulbeschreibung zu belassen bzw. anzugeben] 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+BA Bildungs- und Erziehungswissenschaften 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Professur für Lebenslanges Lernen 
+Modulverantwortliche/r 
+Ulrike Senger 
+Prüfende im Modul 
+Ulrike Senger 
+Leistungspunkte (ECTS-Punkte) 5 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+den bildungspolitischen und pädagogischen Stellenwert transformativer 
+Bildung kennen, 
+• 
+das Konzept transformativen Lernens aus erziehungswissenschaftlicher 
+Perspektive zu begründen und zu diskutieren, 
+• 
+Schlüsselfragen der Gegenwart als pädagogische Herausforderungen 
+(z.B. Armut, strukturelle Gewalt gegen Menschen(gruppen), ökologi-
+sche Gefährdungen) zu identifizieren und Handlungsmöglichkeiten aus 
+einer pädagogischen Perspektive zu entwickeln, 
+• 
+Macht- und Herrschaftsverhältnisse zu identifizieren und zu analysieren 
+und vor diesem Hintergrund pädagogische Fragen der Demokratieent-
+wicklung, Partizipation und Teilhabe, Menschenrechtserziehung und 
+globalen Gerechtigkeit zu entwickeln und zu reflektieren, 
+• 
+didaktische Modelle und Prinzipien der Erwachsenen- und Weiterbil-
+dung kennen, die transferorientiertes, reflexionszentriertes und transfor-
+matives Lernen fördern können. 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+ihre eigene Position zu vertreten und sich im Rahmen von Aushand-
+lungsprozessen kritisch zu reflektieren, 
+• 
+sich mit ihren eigenen Selbstwirksamkeitsüberzeugungen auseinander-
+zusetzen, 
+• 
+ihre Orientierungsmuster bezogen auf ihre individuellen Werte und Hal-
+tungen zu reflektieren, 
+• 
+eigene Stärken und Entwicklungspotenziale zu erkennen, 
+• 
+mit Ambiguitäten umzugehen und eine Ambiguitätstoleranz zu entwi-
+ckeln. 
+• 
+ihre Rolle in partizipativen Lehr-Lernprozessen der Erwachsenen- und 
+Weiterbildung und ihr pädagogisches Handeln darin kontinuierlich zu 
+reflektieren und weiterzuentwickeln. 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+andere oder neue Positionen kennenzulernen und anzuerkennen, 
+• 
+selbstbezogenes Feedback anzunehmen und anderen konstruktives 
+Feedback zu geben, 
+• 
+individuelle und kollektive Handlungsspielräume reflektiert zu gestalten 
+und emanzipatorisch zu erweitern, 
+• 
+intra- und interpersonale Reflexionsprozesse aktiv in Lernprozesse zu 
+integrieren, 
+• 
+den Beziehungsaspekt in transferorientierten, reflexionszentrierten und 
+transformativen Lehr-Lernprozessen bewusst zu gestalten. 
+
+[Page 11]
+Stand: 19.03.2026 
+12 
+ 
+ 
+ 
+ 
+Methodenkompetenz – Die Studierenden können 
+• 
+partizipative Lernmethoden anwenden, um transformative Bildungspro-
+zesse bei sich selbst und anderen emotional und beziehungsbasiert an-
+zuregen, 
+• 
+Aktion und Reflexion in Lernprozessen in Beziehung zueinander set-
+zen, 
+• 
+Konzepte transformativer Bildung auf aktuelle gesellschaftliche Heraus-
+forderungen und Problemstellungen beziehen, 
+• 
+aus einem Repertoire an Methoden der Erwachsenen- und Weiterbil-
+dung begründet auswählen, um transferorientierte, reflexionszentrierte 
+und transformative Lehr-Lernprozesse zu ermöglichen. 
+Inhalte/Themen 
+• 
+Lernen in der (und für die) Weltgesellschaft 
+• 
+Ansätze des transformativen Lernens als Wandel individueller Bedeu-
+tungsperspektiven 
+• 
+Konzepte des transformativen Lernens als kollektiver Bewusstwer-
+dungs- und Emanzipationsprozess 
+• 
+transformative Bildung an der Schnittstelle von politischer Bildung, 
+• 
+Umweltbildung, interkulturellem Lernen, Menschenrechtsbildung, 
+• 
+Friedenserziehung und interreligiöses Lernen 
+• 
+Transformationsbildung als Voraussetzung für eine Bildung zur Teil-
+habe 
+• 
+Reflexion der notwendigen Grundlagen, wie ein fundiertes Verständnis 
+des globalen Verantwortungsbewusstseins geschaffen werden kann 
+• 
+Methodisch-didaktische Ansätze der Erwachsenen- und Weiterbildung 
+zur Planung, Gestaltung und Evaluation transformativer Bildungspro- 
+zesse 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Seminar (SE) (2 SWS) 
+Übung (UE) (1 SWS) 
+oder: Vorlesung (VL) (1 SWS) 
+ 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: Hausarbeit 
+oder Portfolio oder Referat 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+regelmäßige und aktive Teilnahme in der Lehrveranstaltung mit 
+Vorbereitung oder entsprechendes Selbststudium: 1,5 ECTS-Punkte, ent-
+spricht 45 Stunden 
+Nachbereitung und Vertiefung im Selbststudium: 2 ECTS-Punkte, entspricht 
+60 Stunden 
+Vorbereitung und Erbringung des Leistungsnachweises: 1,5 ECTS Punkte, 
+entspricht 45 Stunden 
+Summe: 5 ECTS entspricht 150 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+
+[Page 12]
+Stand: 19.03.2026 
+13 
+ 
+ 
+Turnus des Angebots 
+Sose 
+Bemerkungen 
+ 
+
+[Page 13]
+Stand: 19.03.2026 
+14 
+ 
+ 
+Modulbezeichnung 
+Soziale und religiöse Praktiken 
+Modulbezeichnung in Englisch 
+Social and Religious Practices 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Religionspädagogik, Katholische Theologie, Soziale Arbeit, Sozialethik 
+Modulverantwortliche/r 
+Rowena Roppelt 
+Prüfende im Modul 
+Rowena Roppelt, Simone Birkel, Martin Schneider 
+Leistungspunkte (ECTS-Punkte) 5 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+sich unterschiedliche Ansätze für transformatives Handeln und Forschen 
+anzueignen (z. B. Experimentalismus, Reallabore, Transformationsdes-
+ign, Entrepreneurship, Open-Social-Innovation), 
+• 
+die Bedeutung von kulturellen, rituellen und religiösen Praktiken für 
+transformative Prozesse kennen, 
+• 
+auf wissenschaftlicher Basis transformative Konzepte für christliche Ge-
+meinden und/oder Gemeinwesen einzuordnen. 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+neugierig zu sein, 
+• 
+eigene und fremde Überzeugungen wahrzunehmen und einzuordnen so-
+wie Ambiguitätstoleranz bei unterschiedlichen sozialen und religiösen 
+Praktiken einzuüben, 
+• 
+gewohnte Pfade zu verlassen und sich auf transformative Lernprozesse 
+einzulassen, 
+• 
+über das gemeinsame Handeln Selbstwirksamkeit zu erleben und Reso-
+nanz zu erfahren. 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+eigene Fähigkeiten und eigenes Wissen in Ideen für lokales und gemein-
+schaftliches Handeln münden zu lassen, 
+• 
+miteinander zu kooperieren und co-kreative Lernerfahrungen zu ma-
+chen, Partizipation zu ermöglichen und zu fördern, 
+• 
+soziale Gemeinschaftsbildung zu ritualisieren. 
+ 
+Methodenkompetenz – Die Studierenden können, 
+• 
+Elemente der ko-konstruktiven und transformativen Forschung umset-
+zen, 
+• 
+Transformationsprozesse situativ und ganzheitlich begleiten, 
+• 
+unterschiedliche transformative Gestaltungselemente für die soziale 
+und/oder religiöse Praxis anwenden. 
+Inhalte/Themen 
+Solidarische und nachhaltige Praktiken: Reflexion des Zusammenhangs von 
+individueller Verantwortung und kollektiven solidarischen Praktiken, Erarbei-
+tung eines pragmatischen Konzepts von Solidarität, Einführung in den Com-
+mons-Ansatz von Elinor Ostrom, Rekonstruktion von nachhaltigen Praktiken 
+(Bezug zu den Transformationsorten des 1. Semesters) im Hinblick auf 
+Kennzeichen von Solidarität. 
+Reallabore: Ziel des transdisziplinären Reallabor-Ansatzes verstehen, mit 
+Reallabor-Methoden experimentieren und auf das eigene Projekt transferie-
+ren, Umsetzungspotentiale in Bildungseinrichtungen, Kommunen, NGOs, 
+Unternehmen, staatliche Institutionen, Verbänden etc. 
+
+[Page 14]
+Stand: 19.03.2026 
+15 
+ 
+ 
+ 
+ 
+oder: 
+ 
+Einführung in Ritual und Liturgical Studies: Kontext, Struktur und Funktionen 
+von Ritualen. Rituale als Träger der Kommunikation, als Methode der For-
+mation und Transformation von Bedeutung, Werten und Identität und als 
+Dienst an Suchenden. Aneignung von Wissenschaftsmethoden zu Ritual 
+Studies/Liturgical Theology. 
+Transformative Rituale in der Kirchengeschichte: Frühe Kirche, Spätantike, 
+Mittelalter, Liturgische Bewegung, nach-konziliar, 21. Jahrhundert. Transfor-
+mative Liturgie kennenlernen und reflektieren. 
+Gestaltung von transformativen Ritualen: Aneignung von Werkzeugen und 
+Methoden, um innovative liturgische Rituale in Kirche und Gesellschaft ent- 
+wickeln, feiern und reflektieren zu können. 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Soziale Praktiken: Seminar (SE) (2x2 SWS) 
+oder: 
+Religiöse Praktiken: Vorlesung (VL) (1x2 SWS); Seminar (SE) (1x2 SWS) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: Portfolio oder 
+Referat oder mündliche Prüfung 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesungen / Seminare (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 
+90 Stunden 
+Vor- und Nachbereitung: 1 ECTS-Punkt, entspricht 30 Stunden 
+Vorbereitung Leistungsnachweis: 1 ECTS-Punkt, entspricht 30 Stunden 
+Summe: 5 ECTS-Punkte, entspricht 150 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+SoSe 
+Bemerkungen 
+ 
+
+[Page 15]
+Stand: 19.03.2026 
+16 
+ 
+ 
+Modulbezeichnung 
+Projektmanagement mit Projektentwicklung Service Learning 
+Modulbezeichnung in Englisch 
+Project Management with Project Development Service Learning 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Theologische Fakultät 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Katholische Theologie, Wirtschaftswissenschaften 
+Modulverantwortliche/r 
+Katharina Karl 
+Prüfende im Modul 
+Katharina Karl, Simone Birkel 
+Leistungspunkte (ECTS-Punkte) 10 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+sich Ansätze zu sozialer Verantwortung anzueignen, 
+• 
+soziale Problemstellungen zu erkennen und ethisch zu analysieren 
+(Wahrnehmungs- und Deutekompetenz), 
+• 
+Konzepte und Methoden der Projektplanung und –evaluierung kennen 
+und verstehen, 
+• 
+Projekte wissenschaftlich fundiert zu analysieren und selbst durchzu-
+führen, 
+• 
+Grundlagen der Praxis des Service-Learning. 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+Initiative zu ergreifen, selbstbestimmt zu lernen und sich als selbstwirk-
+sam zu erleben, 
+• 
+eigene Stärken und Schwächen im Projektmanagement zu kennen, 
+• 
+in komplexen Bedingungen selbstverantwortlich zu planen und zu han-
+deln, 
+• 
+eigene und die Interessen anderer abzuwägen, 
+• 
+im Prozess der Projektplanung ethisch verantwortungsvolle Entschei-
+dungen zu treffen. 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+Aufgaben im Teamwork zu bearbeiten, 
+• 
+in der Gruppe Entscheidungen auszuhandeln und dabei respektvoll und 
+zielorientiert zu kommunizieren (Kommunikationskompetenz), 
+• 
+ihre Begabungen in Lern- und Lehrprozessen einzusetzen, 
+• 
+Relationen und Vernetzungen aufzubauen und auszuweiten, 
+• 
+wertbasierte Urteile in sozialen Kontextfeldern zu fällen. 
+ 
+Methodenkompetenz – Die Studierenden können, 
+• 
+Projekte eigenständig entwickeln und auswerten, 
+• 
+mit Mitteln des Design Thinking und anderer Innovationstechniken Lö-
+sungsansätze entwickeln, erproben und evaluieren, 
+• 
+für Bildungsprojekte erforderliche Methoden und Instrumente zur Struk- 
+turierung und Steuerung anwenden. 
+Inhalte/Themen 
+Theorien und Ansätze von Projektmanagement, Service-Learning und sozi- 
+alem Engagement 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch 
+
+[Page 16]
+Stand: 19.03.2026 
+17 
+ 
+ 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Seminar 1 x 3 SWS, 
+Seminar 1 x 2 SWS, 
+Seminar 1 x 1 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+Bestandene Modulprüfung: Projektpräsentation 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Seminare (Kontakt/Selbststudium): 5 ECTS-Punkte, entspricht 150 Stunden 
+ 
+Vor- und Nachbereitung: 3 ECTS-Punkte, entspricht 90 Stunden 
+Vorbereitung Leistungsnachweis: 2 ECTS-Punkt, entspricht 60 Stunden 
+ 
+Summe: 10 ECTS entspricht 300 Stunden 
+Modulnote 
+ 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+SoSe 
+Bemerkungen 
+ 
+
+[Page 17]
+Stand: 19.03.2026 
+18 
+ 
+ 
+Modulbezeichnung 
+Persönlichkeitsentwicklung und Coaching I 
+Modulbezeichnung in Englisch 
+Personal Development and Coaching I 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Psychologie, Pädagogik, Religionspädagogik 
+Modulverantwortliche/r 
+Simone Birkel 
+Prüfende im Modul 
+Simone Birkel, Ines Weber 
+Leistungspunkte (ECTS-Punkte) 5 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+sensibel ihre eigene Person und Persönlichkeit zu reflektieren und acht-
+sam wahrzunehmen, 
+• 
+ihr künftiges Berufsbild und ihre Berufung zu formulieren und reflektiert 
+zu benennen, wie sie diese/s mit Hilfe des Fachstudiums erreichen, 
+• 
+lernbehindernde Faktoren für die eigene Person zu benennen und 
+durch lernfördernde Bedingungen zu ersetzen, 
+• 
+kurz-, mittel- und langfristige Ziele für ihre Persönlichkeitsbildung im 
+Fachstudium zu formulieren. 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+ihre eigenen Kompetenzen, Stärken und Talente zu benennen und zu 
+beschreiben, wie sie diese im Laufe ihres Fachstudiums am fachlichen 
+Inhalt weiter ausbauen, 
+• 
+ihre Schwächen zu erläutern und Wege zu beschreiben, auf welche 
+Weise sie diese im Fachstudium am fachlichen Gegenstand verbessern 
+können, 
+• 
+einen Haltungswechsel vom rezeptiven Lernen hin zur gestaltenden 
+Selbstbildung zu vollziehen sowie persönliche Komfortzonen auszuwei-
+ten, 
+• 
+Ambiguität zu erkennen und zu tolerieren sowie Resilienz zu entwi-
+ckeln. 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+in Auseinandersetzung mit den anderen Studierenden, Verantwortung 
+für ihren Bildungsprozess zu übernehmen, 
+• 
+Feedback anzunehmen und zu geben sowie Ideen von anderen als Be-
+reicherung zu erfahren, 
+• 
+Handlungsspielräume zu gestalten und zu erweitern, 
+• 
+persönlich bedeutsamen Werten, Normen und Einstellungen und damit 
+einhergehenden Zielkonflikten konstruktiv zu begegnen, 
+• 
+Empathie und Diskursfähigkeit zu leben sowie Reflexionsfähigkeiten 
+auszubauen. 
+ 
+Methodenkompetenz – Die Studierenden können 
+• 
+Unterschiede, Gemeinsamkeiten und Anwendungspotenziale verschie-
+dener Interventionsmethoden (z. B. Befragung, Beobachtung, Bera-
+tung, Coaching, Mediation, Moderation, Workshop und Training) erken-
+nen und deren Stärken und Schwächen anhand von Fallbeispielen kri- 
+tisch reflektieren, 
+
+[Page 18]
+Stand: 19.03.2026 
+19 
+ 
+ 
+ 
+• 
+sich Studienmaterialien und ihre Inhalte so aneignen, dass sie dauer-
+haft abrufbar bleiben, 
+• 
+die Methoden des Zeitmanagements für sich und ihren Studienweg an- 
+wenden. 
+Inhalte/Themen 
+Inhalte: 
+• 
+Definition des eigenen Studienziels, Bewusstmachung der eigenen 
+Stärken und Talente, Ableitung des ganz persönlichen Studienweges, 
+selbstverantwortliches, den persönlichen Zielen entsprechendes Studie-
+ren; 
+• 
+lernpsychologische Erkenntnisse und ihre Folgen, effektives und „Ge-
+hirn-gerechtes“ Lernen, Erarbeitung des eigenen Lerntyps, lernför-
+dernde und lernverhindernde Faktoren, Umsetzung von verschiedenen 
+Lerntechniken, Leseregeln zur effektiven Erarbeitung von Fachliteratur, 
+Umgang mit Vorlesungsmitschriften und -skripten und ihre Koordination, 
+Planung und Organisation des Studiums und der Prüfungen, Zeitma-
+nagement, Bewältigung von Prüfungsängsten, Selbstdarstellung in der 
+Prüfung. 
+• 
+Modelle des Selbst- und Zeitmanagements 
+• 
+Kommunikationspsychologie: Fragetechniken, Gesprächsführung, 
+Feedback 
+• 
+Reflexionsmethoden sowie Übungen zur Selbst- und Fremdwahrneh-
+mung, Achtsamkeit und Resilienz 
+• 
+Zielformulierung über SMART-Technik 
+• 
+soziale Normen und Rollen, Ziel- und Rollenkonflikte 
+• 
+Interventionsmethoden (Befragung, Beobachtung, Beratung, Coaching, 
+Mediation, Moderation, Workshop und Training) 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Seminare (SE) (2 x 2 SWS) 
+Einzelreflexionen, Gruppenarbeiten, Plenumsdiskussionen, Übungen zur 
+Persönlichkeitsbildung sowie Strategien zur Angstbewältigung; verschie-
+dene, Arbeits- und Lernmethoden; unterschiedliche Studier- und Zeitma-
+nagementmethoden, Fallbeispiele 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+Beständige und aktive Mitarbeit in den Gruppen und im Plenum, Beteiligung 
+an den Seminaren, Bestandene Modulprüfung in Form eines Portfolios 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Seminare (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 Stunden 
+Vor- und Nachbereitung: 1 ECTS-Punkte, entspricht 30 Stunden 
+Vorbereitung Leistungsnachweis: 1 ECTS-Punkte, entspricht 30 Stunden 
+Summe: 5 ECTS-Punkte, entspricht 150 Stunden 
+Modulnote 
+bestanden / nicht bestanden 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+WiSe und SoSe 
+Bemerkungen 
+Das Modul „Persönlichkeitsentwicklung und Coaching“ wird über zwei Se-
+mester angeboten. 
+Im Modul „Persönlichkeitsentwicklung und Coaching I" wird ein umfassen- 
+des Verständnis für persönliches Wachstum und Selbstreflexion vermittelt, 
+
+[Page 19]
+Stand: 19.03.2026 
+20 
+ 
+ 
+ 
+wobei die Anwesenheit der Studierenden den aktiven Lernprozess fördert 
+und ihnen ermöglicht, Kommunikations- und Coaching-Fähigkeiten zu erler- 
+nen sowie Feedback für persönliches Wachstum auszutauschen. 
+ 
+ 
+Modulbezeichnung 
+Sustainable Transformation: System- und Zielwissen 
+Modulbezeichnung in Englisch 
+Sustainable Transformation: System and Target Knowledge 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Soziologie, Wirtschaftswissenschaften, Ethik, Transformationswissenschaf- 
+ten, Geografie, Biologie 
+Modulverantwortliche/r 
+Martin Schneider 
+Prüfende im Modul 
+Martin Schneider, N.N. 
+Leistungspunkte (ECTS-Punkte) 15 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+komplexe Systeme zu verstehen und systemisch zu denken, 
+• 
+von der Nichtlinearität von Entwicklungsprozessen auszugehen und un-
+erwünschte, unerwartete und unvorhersehbaren Nebenwirkungen und 
+Fehler zu berücksichtigen, 
+• 
+die eigenwillige Dynamik von systemischen Veränderungen kennen 
+(Rückkopplungseffekte, tipping points, system readiness etc.), 
+• 
+die wirkungsvollsten Hebelpunkte (leverage points) für die Veränderung 
+von Systemen zu kennen, 
+• 
+das purpose eines Systems (bzw. den Soll-Zustand) benennen bzw. re-
+konstruieren zu können, Transformationsprozessen eine Richtung zu ge-
+ben (wünschenswerte Zukünfte entwerfen) und das Design der Mittel am 
+Zweck zu orientieren, 
+• 
+den Graben zwischen deklariertem Ziel (declared purpose) und gelebten 
+Ziel (lived purpose) zu bearbeiten, 
+• 
+den Imaginationsraum für neue Normalitäten zu öffnen, nicht mehr 
+glaubwürdige Narrative ad acta zu legen und das Loslassen als Teil der 
+Transformation zu verstehen, 
+• 
+in unterschiedlichen Szenarien zu denken und den Diskurs über tiefer 
+liegende Werte anzuregen, die wünschenswerte Zukünfte ausmachen, 
+ 
+• 
+soziologisch zu denken und soziologische Fragestellungen zu bearbei-
+ten, 
+• 
+mit soziologischen Grundbegriffen und Erklärungsansätzen Transforma-
+tionsprozesse einordnen und verstehen zu können (beispielsweise The-
+orien des sozialen Wandels, der Modernisierung, der Globalisierung oder 
+der sozialen Bewegungen), 
+• 
+Muster des sozialen Wandels zu erkennen, gesellschaftliche Herausfor-
+derungen zu verstehen und mögliche Folgen von Transformationspro-
+zessen abzuschätzen. 
+ 
+• 
+komplexe wirtschaftliche Zusammenhänge zu analysieren und zu verste-
+hen, 
+• 
+wirtschaftliche Theorien, Modelle und Konzepte für das Verständnis von 
+Transformationen des Kapitalismus anzuwenden, 
+
+[Page 20]
+Stand: 19.03.2026 
+21 
+ 
+ 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+die Komplexität der Welt zu erfahren, 
+• 
+Annahmen zu hinterfragen, Vorurteilen zu erkennen sowie Theorien und 
+Argumenten kritisch zu bewerten, 
+• 
+Transformationsprozesse kritisch zu analysieren, 
+• 
+komplexe Sachverhalte zu analysieren, Widersprüche zu identifizieren 
+und fundierte Argumente zu formulieren, 
+• 
+nachhaltige und gerechte Lösungsansätze zu entwickeln, indem sie kre-
+ative Ideen generieren, Szenarien bewerten und Handlungsempfehlun-
+gen ableiten 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+effektiv mit anderen zusammenzuarbeiten, Ideen auszutauschen, unter-
+schiedliche Perspektiven zu integrieren, 
+• 
+die Auswirkungen von Transformationsprozessen auf verschiedene so-
+ziale Gruppen und Individuen sowie auf verschiedene Kulturen und Ge-
+sellschaften zu bedenken, 
+• 
+für Fragen der Nachhaltigkeit, Gerechtigkeit und Solidarität sensibel zu 
+sein, 
+• 
+nachhaltige und gerechte Lösungsansätze zu entwickeln, indem sie kre-
+ative Ideen generieren, Szenarien bewerten und Handlungsempfehlun-
+gen ableiten. 
+ 
+Methodenkompetenz – Die Studierenden können 
+• 
+ökologische, soziale, politische und wirtschaftliche Zusammenhänge 
+analysieren, 
+• 
+Erkenntnisse aus verschiedenen Disziplinen integrieren, um ein umfas-
+senderes Bild von Transformationsprozessen zu erhalten, 
+• 
+Arbeitsergebnisse in mündlicher, visueller und schriftlicher Form kompe- 
+tent zu vermitteln. 
+Inhalte/Themen 
+• 
+Komplexitätstheorien 
+• 
+Einführung in die Soziologie 
+• 
+Transformationen des Kapitalismus (Schumpeter, Konratieff, evolutiäres 
+Wachstum) 
+• 
+Transformative Soziologie 
+• 
+Zukünfte entwerfen (futures studies, Szenario-Techniken, Leitbildent-
+wicklung in Organisationen etc.) 
+• 
+Leitbegriffe für System- und Zielwissen: Anthropozän, Nachhaltigkeit, 
+Resilienz, Solidarität, Freiheit, Gerechtigkeit 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Vorlesung VL (2 x 2 SWS) 
+Seminar (SE) (2 x 2 SWS) 
+Übung (Ü) (2 x 2 SWS) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: mündliche 
+Prüfung oder Portfolio oder Hausarbeit. 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesungen (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 Stun-
+den 
+Seminare (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 Stunden 
+
+[Page 21]
+Stand: 19.03.2026 
+22 
+ 
+ 
+ 
+Übungen (Kontakt/Selbststudium) 3 ECTS-Punkte, entspricht 90 Stunden 
+Vor- und Nachbereitung: 2 ECTS-Punkte, entspricht 60 Stunden 
+Vorbereitung Leistungsnachweis: 4 ECTS-Punkte, entspricht 120 Stunden 
+Summe: 15 ECTS-Punkte, entspricht 450 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studien- 
+gängen/Hinweise zur Zugänglich-
+keit 
+ 
+Turnus des Angebots 
+WiSe und SoSe 
+Bemerkungen 
+Das Modul wird über zwei Semester angeboten. 
+
+[Page 22]
+Stand: 19.03.2026 
+23 
+ 
+ 
+Modulbezeichnung 
+Akteure und Praktiken der Transformation 
+Modulbezeichnung in Englisch Actors and practices of transformation 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten 
+Transformative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Psychologie, Ethik, Transformationswissenschaften, Pädagogik, Kul-
+turwissenschaft, Ethnologie, Sozialwissenschaft, Journalistik, Litera-
+tur-, Musik- und Kunstwissenschaft/-pädagogik 
+Modulverantwortliche/r 
+Martin Schneider 
+Prüfende im Modul 
+Martin Schneider, N.N. 
+Leistungspunkte(ECTS-
+Punkte) 
+15 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+die Rolle von Akteuren wie sozialen Bewegungen, NGOs und poli-
+tischen Gruppen bei der Förderung von nachhaltigen Transforma-
+tionen und nachhaltigen Praktiken zu untersuchen. 
+• 
+aktuelle Ansätze aus den Bereichen Akteursnetzwerke und 
+Mensch-Natur-Technik-Relationen sowie deren Potenziale zur Ge-
+staltung günstiger Voraussetzungen für „Veränderungsanlässe“ 
+kennen, 
+• 
+in Prozessen zu denken, soziale Innovationen in komplexen Ak-
+teursnetzwerken und Umwelten aktiv mit anzustoßen sowie neue 
+Möglichkeitsräume zu erschließen, um tiefgreifende soziale Wand-
+lungsprozesse zu befördern, 
+• 
+aktuelle Ansätze der Praktiken- und Performanztheorie kennen 
+und anzuwenden, 
+• 
+zu erfassen, wie Praktiken aus materiellen und sinnhaften Elemen-
+ten, implizitem Wissen und Vorstellungen konstituiert werden, und 
+hierbei deren soziale und technische Einbettung zu berücksichti-
+gen, 
+• 
+die Bedeutung und Relevanz solidarischer Praktiken für eine 
+Transformation zur Nachhaltigkeit zu verstehen (z. B. Praktiken 
+des Teilens, Reparierens, Ausleihens), 
+• 
+partizipative Ansätze und Praktiken zur Förderung von Nachhaltig-
+keit in Entscheidungsprozesse zu implementieren, 
+• 
+normative und gouvernementale Rahmenbedingungen der Nach-
+haltigkeitstransformation kritisch zu reflektieren und ethisch zu be-
+werten, 
+• 
+wie soziale Normen und soziale Beeinflussung nachhaltiges Ver-
+halten sowohl fördern als auch behindern können, 
+• 
+sich mit psychologischen Hindernisse zu beschäftigen, die Men-
+schen daran hindern, ethisch verantwortlich und nachhaltig zu han-
+deln. 
+ 
+Selbstkompetenz – Die Studierende werden dazu ermutigt, 
+• 
+sich selbst als eingebunden in vielfältige Netzwerke und Umwelten 
+wahrzunehmen und zu verstehen, 
+• 
+die eigenen Routinen und das eigene Alltagshandeln wahrzuneh- 
+men und kritisch zu hinterfragen, 
+
+[Page 23]
+Stand: 19.03.2026 
+24 
+ 
+ 
+ 
+• 
+sich als kompetent und selbstwirksam in der Zusammenarbeit mit 
+anderen Akteuren zu erfahren, 
+• 
+Beharrungstendenzen zu überwinden und aktiv die Transformation 
+zur Nachhaltigkeit mitzugestalten. 
+• 
+ehrlich auf die eigene Willensschwäche zu schauen, 
+• 
+im Handeln Blockaden und Hindernisse zu überwinden. 
+ 
+Sozialkompetenz: Die Studierenden üben sich darin, 
+• 
+die Potenziale, Chancen und Herausforderungen in der Zusam-
+menarbeit mit Akteuren und sozialen Netzwerken unterschiedlicher 
+Gesellschaftsbereiche zu erkennen und wertzuschätzen, 
+• 
+neue Allianzen und Initiativen zu bilden sowie sich aktiv an politi-
+schen Prozessen zu beteiligen und gezielt Einfluss zu nehmen, 
+• 
+Personen und Institutionen für die Nachhaltigkeitstransformation 
+zu gewinnen, sie an Prozessen zu beteiligen, eigene Initiativen zu 
+bilden und wirksam zu gestalten. 
+ 
+Methodenkompetenz – Die Studierenden können, 
+• 
+die empirische Vielfalt unterschiedlicher sozialer Netzwerke sowie 
+unterschiedlicher Organisationsformen beschreiben und analysie-
+ren, 
+• 
+soziale und kulturelle Praktiken, Routinen und Rituale analysieren 
+und beschreiben, 
+• 
+Hindernisse zu überwinden, bestehende Praktiken und Routinen 
+transformieren und in unterschiedlichen Kontexten etablieren. 
+Inhalte/Themen 
+Psychologie der Nachhaltigkeit 
+ 
+Ansätze der Netzwerkanalyse, z.B. aktuelle Konzepte wie Akteur-Netz-
+werk-Theorie 
+ 
+Ansätze der Praktiken- und Performanztheorie 
+ 
+Methoden und Verfahren zur Beschreibung, Analyse und Gestaltung 
+von Akteursnetzwerken und Praktiken 
+ 
+Die Förderung nachhaltigen Verhaltens: Kommunikation, Botschaften, 
+Anreize, Kampagnen 
+Formale Voraussetzungen für 
+die Teilnahme 
+Keine 
+empfohlene Voraussetzungen 
+für die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrver-
+anstaltungstypen 
+Vorlesung VL (2 x 2 SWS) 
+Seminar (SE) (2 x 2 SWS) 
+Übung (ÜE) (2 x 2 SWS) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen 
+für 
+die 
+Vergabe von ECTS-Punkten 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: mündli-
+che Prüfung oder Portfolio oder Projektpräsentation. 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des 
+Moduls 
+Vorlesungen (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 
+Stunden 
+Seminare (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 
+Stunden 
+Übungen (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 
+Stunden 
+
+[Page 24]
+Stand: 19.03.2026 
+25 
+ 
+ 
+ 
+Vor- und Nachbereitung: 2 ECTS-Punkte, entspricht 60 Stunden 
+Vorbereitung Leistungsnachweis: 4ECTS-Punkte, entspricht 120 
+Stunden 
+Summe: 15 ECTS-Punkte, entspricht 450 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studi-
+engängen/Hinweise zur Zu-
+gänglichkeit 
+ 
+Turnus des Angebots 
+WiSe und SoSe 
+Bemerkungen 
+Das Modul wird über zwei Semester angeboten. 
+
+[Page 25]
+Stand: 19.03.2026 
+26 
+ 
+ 
+Modulbezeichnung 
+Ethische Grundlagen der Transformation 
+Modulbezeichnung in Englisch 
+Ethical Fundamentals of Transformation 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation und Sustainability 
+Beteiligte Fachgebiete 
+Transformationswissenschaften, Ethik, Katholische Theologie, Data Science 
+Modulverantwortliche/r 
+Martin Schneider 
+Prüfende im Modul 
+Martin Schneider, N.N. 
+Leistungspunkte (ECTS-Punkte) 10 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+Grundbegriffe der Ethik sicher handzuhaben, 
+• 
+verschiedene Typen ethischer Urteilsbildung zu differenzieren und zu re-
+flektieren, 
+• 
+die Wege zu individual- und strukturenethisch begründeten Stellungnah-
+men eigenständig zu beschreiben und zu beschreiten, 
+• 
+Grundkenntnisse zu den Themen Gerechtigkeit und gutes Leben anzu-
+wenden, 
+• 
+das Proprium christlicher Ethik zu verstehen und im ethischen Diskurs zu 
+verorten, 
+• 
+zu aktuellen gesellschaftlichen und globalen Fragen auf der Basis der 
+Forschungsergebnisse von relevanten Bezugswissenschaften begrün-
+det Stellung zu beziehen, 
+• 
+transformative Prozesse als moralische Lernprozesse zu deuten, 
+• 
+religiöse Narrative als transformative Kräfte zu verstehen und zu nutzen, 
+• 
+ethische Konsequenzen aus der sozial-ökologischen Krise zu ziehen. 
+• 
+technikethische Probleme in der Praxis zu erkennen, Hintergründe auf-
+zuzeigen und verantwortungsvoll Lösungsvorschläge zu entwickeln (mit 
+besonderem Fokus auf Problemen, die sich aus den Bereichen Machine 
+Learning und Data Science ergeben). 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+ihre eigene Position zu vertreten und sich im Rahmen von Aushand-
+lungsprozessen kritisch zu reflektieren, 
+• 
+unterschiedliche Perspektiven zu berücksichtigen und zwischen diesen 
+kritisch abzuwägen, 
+• 
+sich auf Selbsttransformationsprozesse einzulassen, in denen Gewohn-
+heiten, Einstellungen, Überzeugungen infrage gestellt sowie Tugenden 
+und Praktiken eingeübt werden, die zu den Herausforderungen und Auf-
+gaben von sozial-ökologischen und digitalen Transformationen „passen“, 
+• 
+sich aus Wert- und Darstellungsmustern bzw. Narrativen zu befreien, die 
+die Lebensgrundlagen zerstören und nicht zukunftsfähig sind. 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+andere oder neue Positionen kennenzulernen und anzuerkennen, 
+• 
+gemeinsame Werte zu entdecken, 
+• 
+individuelle Verantwortungsübertragungen zu relativieren und die Kraft 
+solidarischen und nachhaltigen Handelns zu entdecken, 
+• 
+in komplexen ökologischen, sozialen und technischen Beziehungs- und 
+Wirkungszusammenhängen verortet zu sein. 
+
+[Page 26]
+Stand: 19.03.2026 
+27 
+ 
+ 
+ 
+Methodenkompetenz – Die Studierenden können 
+• 
+sich Konzepte und Theorien selbstständig aneignen und in die Diskus-
+sion einbringen, 
+• 
+Werte und normative Orientierungen kritisch reflektieren sowie Begrün-
+dungszusammenhänge eigenständig entwickeln, 
+• 
+Narrative sowie Sinnvorstellungen analytisch erschließen, reflektieren 
+und eigene Transformationserzählungen entwerfen. 
+Inhalte/Themen 
+• 
+Grundlegung der Ethik (Fundamentalethik): Werte, Normen, Prinzipien 
+und Grundhaltungen (Tugenden) als Basis ethisch und moralischen Han-
+delns - Unterscheidung zwischen Individual- und Strukturenethik - Ver-
+antwortung als Schlüsselbegriff einer zeitgemäßen Ethik • Gewissens-
+bindung und Gewissenbildung - Frage nach Schuld und Sünde 
+• 
+Menschenwürde, insbesondere am Beginn und Ende des Lebens 
+• 
+Menschenrechte in ihrer Ausdifferenzierung und Anwendung 
+• 
+Ethik der Nachhaltigkeit: Ökologische Erweiterung der Menschenrechte 
+- globale und intergenerationelle Gerechtigkeit - ökologische Gerechtig-
+keit (Tierrechte und Rechte der Natur) - Nachhaltigkeit und Demokratie 
+• 
+Ethik des Lebens 
+• 
+Technikethik inkl. Ethik für das digitale Zeitalter (Ethics for the Digital 
+Age) 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch und Englisch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Vorlesung (VL) (2 x 2 SWS) 
+Seminar (SE) (2 x 1 SWS; 1 x 2 SWS) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens "ausreichend" bewerteter Leistungsnachweis: mündliche 
+Prüfung oder Portfolio oder Hausarbeit 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesungen (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 Stun-
+den 
+Seminare (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 Stunden 
+Vor- und Nachbereitung: 2 ECTS-Punkte, entspricht 60 Stunden 
+Vorbereitung Leistungsnachweis: 2 ECTS-Punkte, entspricht 60 Stunden 
+Summe: 10 ECTS-Punkte, entspricht 300 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studien- 
+gängen/Hinweise zur Zugänglich-
+keit 
+ 
+Turnus des Angebots 
+WiSe 
+Bemerkungen 
+ 
+
+[Page 27]
+Stand: 19.03.2026 
+28 
+ 
+ 
+Modulbezeichnung 
+Erinnern und Erzählen 
+Modulbezeichnung in Englisch 
+Remembering and Recounting 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Katholische Theologie, Kirchengeschichte, Bibelwissenschaft 
+Modulverantwortliche/r 
+Rowena Roppelt 
+Prüfende im Modul 
+Rowena Roppelt, Bernward Schmidt, Andreas Weckwerth 
+Leistungspunkte (ECTS-Punkte) 10 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+die Literaturgeschichte des Ersten/Alten Testaments zu verstehen, 
+• 
+unterschiedliche Texte und Textcorpora des Ersten/Alten Testaments 
+unter der Perspektive ihrer Entstehungssituationen wahrzunehmen und 
+sie als Auseinandersetzung mit Krisensituationen zu begreifen, 
+• 
+die Optionen der Texte reflektiert auf heutige Fragestellungen anzuwen-
+den, 
+• 
+die Entstehung des Neuen Testaments zu verstehen, 
+• 
+unterschiedliche Texte und Textcorpora des Neuen Testaments als Aus-
+einandersetzung mit Krisensituationen zu begreifen 
+• 
+die Optionen der Texte reflektiert auf heutige Fragestellungen anzuwen-
+den, 
+• 
+wichtige Phasen der Kirchengeschichte zu verstehen, 
+• 
+unterschiedliche Perspektiven des Christentums auf moderne Staats-
+und Gesellschaftsformen zu benennen, 
+• 
+entscheidende Krisenphasen und Transformationsprozesse im Laufe 
+der Kirchengeschichte nachzuvollziehen. 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+sich auf biblische Texte einzulassen und in einen Prozess der Auseinan-
+dersetzung mit ihnen zu treten, 
+• 
+unterschiedliche Perspektiven der Texte wahrzunehmen und sich mit 
+ihnen kritisch auseinanderzusetzen, 
+• 
+mit Hilfe der biblischen Texte konstruktive Optionen in heutigen Trans-
+formationsprozessen zu entwickeln, 
+• 
+mit Hilfe der Kirchengeschichte gegenwärtige Herausforderungen des 
+Christentums in Westeuropa zu erklären; unterschiedliche Staats- und 
+Gesellschaftsformen der Moderne auf ihren Umgang mit Religion hin zu 
+analysieren. 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+die verschiedenen biblischen und historischen Positionen kennenzuler-
+nen und anzuerkennen, 
+• 
+im gemeinsamen Diskussionsprozess biblische Texte und kirchenge-
+schichtliche Prozesse deuten zu können, 
+• 
+gemeinsam Handlungsoptionen für heutige Transformationsprozesse zu 
+entwickeln. 
+ 
+Methodenkompetenz – Die Studierenden können 
+• 
+mit biblischen Texten und historischen Quellen methodisch reflektiert 
+umgehen, 
+
+[Page 28]
+Stand: 19.03.2026 
+29 
+ 
+ 
+ 
+• 
+mit Hilfe einer reflektierten Hermeneutik die Kraft der biblischen Texte für 
+heutige Zusammenhänge erschließen, 
+• 
+kirchenhistorische Grundkenntnisse anwenden, um gesellschaftliche 
+Prozesse in Hinblick auf Religion zu deuten. 
+Inhalte/Themen 
+• 
+Literaturgeschichte des Ersten/Alten Testaments 
+• 
+Einführung in die Evangelien und in die paulinische Briefliteratur 
+• 
+die Reich-Gottes-Botschaft Jesu 
+• 
+Anfänge, Organisation und Ausbau der Kirche im mediterranen und eu-
+ropäischen Raum im Altertum 
+• 
+Das Verhältnis von Kirche, Gesellschaft(en) und Staat(en) in der europä-
+ischen Neuzeit 
+• 
+Das Christentum und die Entwicklung säkularer Gesellschaften 
+• 
+Christentum und Totalitarismen im 20. Jahrhundert 
+• 
+Das erneuerte Bild des Zweiten Vatikanischen Konzils von der „Welt“. 
+Formale Voraussetzungen für die 
+Teilnahme 
+ 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch, ggf. Englisch 
+Lehr- und Lernformen/Lehrveran- 
+staltungstypen 
+Vorlesung mit Übung (VL) (4 x 2 SWS) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: mündliche 
+Prüfung oder Klausur 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesungen/Übungen (Kontakt-/Selbststudium): 4 ECTS-Punkte, entspricht 
+120 Stunden 
+Vor- und Nachbereitung: 4 ECTS-Punkte, entspricht 120 Stunden 
+Vorbereitung Leistungsnachweis: 2 ECTS-Punkt, entspricht 60 Stunden 
+Summe: 10 ECTS-Punkte, entspricht 300 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studien- 
+gängen/Hinweise zur Zugänglich-
+keit 
+ 
+Turnus des Angebots 
+WiSe 
+Bemerkungen 
+ 
+
+[Page 29]
+Stand: 19.03.2026 
+30 
+ 
+ 
+Modulbezeichnung 
+Glauben als Handeln 
+Modulbezeichnung in Englisch 
+Faith as Action 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Katholische Theologie, Religionspädagogik, Pastoraltheologie 
+Modulverantwortliche/r 
+Simone Birkel 
+Prüfende im Modul 
+Simone Birkel, Katharina Karl 
+Leistungspunkte (ECTS-Punkte) 5 
+Kompetenzen 
+Fachkompetenz - Die Studierenden lernen, 
+• 
+Grundlagen pastoraler Vollzüge zu erfassen und in innovative pastorale 
+Konzepte einzuordnen, 
+• 
+jugend- und schulpastorale Grundlagen zu erschließen und anzuwen-
+den, 
+• 
+spezifische Themen der religiösen Elementarbildung wahrzunehmen. 
+ 
+Selbstkompetenz - Die Studierenden werden dazu ermutigt, 
+• 
+aus der Vielzahl pastoraler Ansätze Anregungen für ihre eigene Le-
+benswelt zu entdecken, 
+• 
+Erkenntnisse aus der jugend- und schulpastoralen Praxis für die eigene 
+Identitätsentwicklung zu reflektieren, 
+• 
+persönliche Überzeugungen und Voreinstellungen hinsichtlich Trauer-
+prozessen kritisch zu überprüfen. 
+ 
+Sozialkompetenz - Die Studierenden üben sich darin, 
+• 
+pastorale Angebote als Dienstleistung an der Gesellschaft im Sinne ei-
+nes diakonischen Ansatzes zu sehen, 
+• 
+zusammen mit anderen in den Austausch über glaubenspraktische Fra-
+gen zu kommen, 
+• 
+in Krisensituationen wie Trauer und Tod anfanghaft Sprachkompetenz 
+zu entwickeln. 
+ 
+Methodenkompetenz - Die Studierenden können 
+• 
+Methoden der empirischen Pastoralforschung einordnen, 
+• 
+pastorale Räume erfassen und analysieren, 
+• 
+ein zielgruppenspezifisches pastorales Angebot im Bereich der Ele-
+mentarbildung konzipieren. 
+Inhalte/Themen 
+• 
+Verschiedene Theorieansätze der pastoralen Arbeit 
+• 
+Christliche Sozial- und Handlungsformen 
+• 
+Methoden des empirischen Arbeitens in der Pastoraltheologie 
+• 
+Sinus-Milieustudien als Grundlage von Jugend- und Gemeindepastoral 
+• 
+Trauer und Tod in kindlichen Erfahrungsräumen sowie Kennenlernen 
+der Trauerbegleitung von Kindern im Elementarbereich; 
+• 
+Bildungsmaterialien im Kontext von Trauerbegleitung von Kleinkindern 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+Kenntnis von Praxiseinrichtungen im Bereich der sozial-ökologischen Trans- 
+formation; Erfahrungen im Bereich verbandlicher Jugendarbeit 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Vorlesung (VL) (2 x 1 SWS); 
+Seminar (SE) (1 x 2 SWS) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens "ausreichend" bewerteter Leistungsnachweis: mündliche 
+Prüfung oder Klausur oder Hausarbeit 
+
+[Page 30]
+Stand: 19.03.2026 
+31 
+ 
+ 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesung (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Seminar (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Übung (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Vor- und Nachbereitung: 1 ECTS-Punkt, entspricht 30 Stunden 
+Vorbereitung Leistungsnachweis: 1 ECTS-Punkt, entspricht 30 Stunden 
+Summe: 5 ECTS, entspricht 150 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+WiSe 
+Bemerkungen 
+ 
+
+[Page 31]
+Stand: 19.03.2026 
+32 
+ 
+Modulbezeichnung 
+Transformation Literacy: Kompetenzentwicklung und Didaktik 
+Modulbezeichnung in Englisch 
+Transformation Literacy: Competence Development and Didactics 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Katholische Theologie, Religionspädagogik, Transformationswissenschaf- 
+ten 
+Modulverantwortliche/r 
+Simone Birkel 
+Prüfende im Modul 
+Simone Birkel, Florian Kluger, N.N. 
+Leistungspunkte (ECTS-Punkte) 10 
+Kompetenzen 
+Fachkompetenz - Die Studierenden lernen, 
+• 
+Information über Veränderungsprozesse zu verstehen, zu interpretieren 
+und zu nutzen, 
+• 
+Eigenes Handeln und Vorwissen über nachhaltige Zusammenhänge in 
+unterrichtliche Prozesse einzubringen, 
+• 
+Ansätze von Transformation Literacy zu entwickeln, 
+• 
+systemisch zu denken und unter komplexen Bedingungen Zielsetzun-
+gen zu definieren und zu koordinieren, 
+• 
+didaktische Neukonzeptionen zu skizzieren und auszuprobieren. 
+ 
+Selbstkompetenz - Die Studierenden werden dazu ermutigt, 
+• 
+sich auf schulische Experimente im Kontext einer ganzheitlichen Schul-
+konzeption einzulassen, 
+• 
+komplexe Strukturen zu erfassen und für sich selbst zu akzeptieren, 
+• 
+eigenstände Entscheidungen zu treffen und in das Bildungsgeschehen 
+einzubringen, 
+• 
+Denken, Handeln, Strukturen und Systeme zu hinterfragen. 
+ 
+Sozialkompetenz - Die Studierenden üben sich darin, 
+• 
+Beziehungen zu pflegen und Netzwerke aufzubauen und auszuweiten, 
+• 
+gemeinsame Werte und Ziele im Bildungsbereich zu entdecken und 
+verantwortungsvoll Bildungsprozesse anzuregen, 
+• 
+transformativen Wandel als gemeinsame Aufgabe zu begreifen, 
+• 
+in kollaborativen Netzwerken zu arbeiten. 
+ 
+Methodenkompetenz - Die Studierenden können 
+• 
+Beziehungsaspekte in transferorientierten, reflexionszentrierten und 
+transformativen Lehr-Lern-Prozessen bewusst gestalten (Stakeholder-
+und Netzwerkmanagement), 
+• 
+Strategien für Führung in wirkungsvollen Netzwerken entwickeln und 
+umsetzen, 
+• 
+partizipative und ko-kreative Lernmethoden anwenden, um transforma-
+tive Bildungsprozesse bei anderen emotional und beziehungsbasiert 
+anzuregen, 
+• 
+erlebnispädagogische Methoden und Elemente einsetzen, um Men-
+schen in ihrer Identitätsentwicklung und insbesondere in der Ausprä-
+gung sozialer Kompetenzen zu unterstützen, 
+• 
+Bildungsprozesse modellieren, didaktisch reflektieren und dokumentie- 
+ren. 
+
+[Page 32]
+Stand: 19.03.2026 
+33 
+ 
+ 
+Inhalte/Themen 
+Inhalte: 
+• 
+Grundsätze gelingendes Leben für Mitmensch und Mitwelt, z.B. Buen 
+Vivir, Future Skills etc. 
+• 
+Netzwerk- und Stakeholdermanagement und Veränderungsprozesse in 
+didaktischen Lernsettings auf individueller, organisatorischer oder ge-
+sellschaftlicher Ebene 
+• 
+Ausgewählte Prinzipien, z.B. symbolorientiertes, ästhetisches, oder per-
+formatives Lernen 
+• 
+Rahmenpläne (z.B. Lehrpläne) sowie nationale und internationale Ent-
+wicklungspläne mit der Entwicklung von Artikulationsschemata zur di-
+daktischen Planung von Lehr-Lern-Veranstaltungen 
+• 
+Bildungssettings, die Kreativität und Innovationsfähigkeit beinhalten, 
+z.B. Schule im Aufbruch, Marchtaler-Plan-Pädagogik, Montessori-Päda-
+gogik 
+• 
+Analyse von Informationen sowie Einnehmen und Bewertung von ver-
+schiedenen Perspektiven 
+• 
+Führungsstrategien insbesondere in den Zusammenhängen und Wech-
+selwirkungen zwischen verschiedenen Elementen eines Bildungssys-
+tems sowie Vorhersagen und Strategien zu Veränderungen 
+• 
+Konstruktive Konfliktlösungen wie z.B. Mediation, systemisches Kon-
+sensieren u.a. 
+• 
+Erlebnispädagogische Grundlagen und gelingende Kommunikation 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+Kenntnis von Praxiseinrichtungen im Bereich der sozial-ökologischen Trans- 
+formation 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Vorlesung (VL): 1 x 1 SWS 
+Seminar (SE): 2 x 2 SWS 
+Übung (UE): 1 x 1 SWS 
+Praktikum mit praxisbegleitender Veranstaltung 1x2 SWS: 
+Vierwöchiges Praktikum je nach Schwerpunktwahl z.B. RU im Vernetzten 
+Unterricht, Schulen im Aufbruch, Reformpädagogische Schulen, BNE etc. 
+ 
+selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: Mündliche 
+Prüfung oder Portfolio oder Klausur 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesung (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Seminare (Kontakt/Selbststudium): 4 ECTS-Punkte, entspricht 120 Stunden 
+Übung (Kontakt/Selbststudium): 1 ECTS-Punkte, entspricht 30 Stunden 
+Praktikum mit praxisbegleitender Veranstaltung (2 ECTS-Punkte, entspricht 
+60 Stunden) 
+Vor- und Nachbereitung: 1 ECTS-Punkt, entspricht 30 Stunden 
+Vorbereitung Leistungsnachweis: 1 ECTS-Punkt, entspricht 30 Stunden 
+Summe: 10 ECTS, entspricht 300 Stunden 
+Modulnote 
+bestanden / nicht bestanden 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+Polyvalenz auf Veranstaltungsebene: Gebermodul von Vorlesung, Seminar 
+und Übung für das Nehmermodul „Praxis Transformation Literacy“ 
+Turnus des Angebots 
+WS und SoSe 
+Bemerkungen 
+ 
+
+[Page 33]
+Stand: 19.03.2026 
+34 
+ 
+ 
+Modulbezeichnung 
+Denken und Glauben 
+Modulbezeichnung in Englisch 
+Thinking and Believing 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation und Sustainability 
+Beteiligte Fachgebiete 
+Katholische Theologie, Liturgie, Kirchenrecht 
+Modulverantwortliche/r 
+Martin Kirschner 
+Prüfende im Modul 
+Martin Kirschner, Martin Fuß, Rowena Roppelt, Rafael Rieger 
+Leistungspunkte (ECTS-Punkte) 10 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+die religiöse Dimension menschlichen Lebens zu artikulieren und mit 
+christlichen Vorstellungsmodellen zu deuten, 
+• 
+die zentralen inhaltlichen und methodischen Grundlagen der theologi-
+schen Erkenntnisgewinnung sowie das Verhältnis von Glaube und Ver-
+nunft zu reflektieren, 
+• 
+den Zusammenhang zwischen Glaubenspraxis und theologischer Refle-
+xion zu erfassen, 
+• 
+die Inhalte des christlichen Glaubens kontextuell einzuordnen und her-
+meneutisch zu entschlüsseln, 
+• 
+die Vielfalt der spirituellen Suchbewegungen und religiösen Bekennt-
+nisse wahrzunehmen sowie sich respektvoll und argumentativ damit aus-
+einanderzusetzen, 
+• 
+in einem religiös komplexen Umfeld Gottes- und Heilsvorstellungen in 
+den Weltreligionen zu identifizieren, 
+• 
+in verschiedenen Kontexten, Kulturen und Religionen Rituale zu verglei-
+chen und kritisch zu analysieren, 
+• 
+die Bedeutung von symbolisch-sakramentaler Kommunikation zu erfas-
+sen und in Kirche und Gesellschaft umzusetzen, 
+• 
+die grundlegenden Bausteine der rechtlichen Ordnung der Kirche ken-
+nen und deren Rollen innerhalb der transformativen Prozesse der Kirche 
+zu erkennen, 
+• 
+die wesentlichen gesetzlichen Regelungen der Kirchenzugehörigkeit ein-
+zuordnen, 
+• 
+die Migrationsbewegung innerhalb der multiekklesialen Realität der Kir-
+che rechtlich zu bewerten und an ausgewählten Beispielen des Sakra-
+mentenrechts anzuwenden. 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+die Bedeutung des christlichen Glaubens für die persönliche Lebensge-
+staltung zu erfassen, 
+• 
+ihren eigenen Glauben zu artikulieren, kritisch zu analysieren und zu dis-
+kutieren, 
+• 
+auf existenzielle Fragen im Lichte des christlichen Glaubens Antworten 
+zu geben, 
+• 
+Perspektivenwechsel und Ambiguitätstoleranz einzuüben, 
+• 
+in der Begegnung mit Konfessionen und Religionen eine Urteils- und Ge-
+sprächsfähigkeit einzuüben, 
+• 
+im Kontext von religiös geprägten individuellen und kollektiven Identitä-
+ten auf die eigene Urteilsfähigkeit zu vertrauen. 
+
+[Page 34]
+Stand: 19.03.2026 
+35 
+ 
+ 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+sich mit anderen Studierenden auszutauschen und über Glaubenserfah-
+rungen zu sprechen, 
+• 
+den eigenen Glauben in die Erfahrungen einer Glaubensgemeinschaft 
+einzuordnen und sich davon bereichern zu lassen, 
+• 
+die gesellschaftliche Bedeutung des christlichen Glaubens ins Gespräch 
+zu bringen. 
+ 
+Methodenkompetenz – Die Studierenden können, 
+• 
+die wesentlichen Inhalte des christlichen Glaubens anderen vermitteln 
+und hierzu die wichtigsten wissenschaftlichen Hilfsmittel einsetzen, 
+• 
+ihren eigenen Glauben und seine Bedingungen von anderen Erkenntnis-
+wegen unterscheiden, 
+• 
+mit biblischen, liturgischen und lehramtlichen Quellentexten umgehen 
+und sie situationsgemäß einsetzen. 
+Inhalte/Themen 
+• 
+Glauben in der Welt von heute: Wege, Methoden und Grenzen der Rede 
+von Gott - Gott, Glaube und Theologie im Kontext moderner Fragestel-
+lungen - Vielfalt biblischer Gottesrede - Glaubensbekenntnisse und -voll-
+züge in christlichen und nichtchristlichen Kontexten. 
+• 
+Sakramente - Gestalten des Reiches Gottes auf Erden: Realsymbolik 
+und Symbolisch-sakramentale Kommunikation zwischen Gott und 
+Mensch - Sakramentalverständnis in der Kirchengeschichte; Neuan-
+sätze des Sakramentenverständnisses. 
+- Kirchenrecht: Das Recht in der Sendung der Kirche - Kirchenzugehörig-
+keit und Pluralität - Sakramente der Taufe, Firmung und Eucharistie - 
+Grundprinzipien des kirchlichen Eherechts 
+• 
+Christentum und Weltreligionen: Religionen und Formen von Religiosität 
+und interreligiösem Dialog in pluraler Gesellschaft - Rituale in Dialog ken-
+nenlernen und vergleich - Ritualen in verschiedenen Weltreligionen • in- 
+terreligiöse Feiern 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Vorlesung (VL) (2 x 1 SWS) 
+Seminar (SE) (3 x 2 SWS) 
+selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens "ausreichend" bewerteter Leistungsnachweis: mündliche 
+Prüfung oder Klausur oder Portfolio 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesungen (Kontakt/Selbststudium): 1 ECTS-Punkte, entspricht 30 Stun-
+den 
+Seminare (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 Stunden 
+Vor- und Nachbereitung: 3 ECTS-Punkte, entspricht 90 Stunden 
+Vorbereitung Leistungsnachweis: 3 ECTS-Punkte, entspricht 90 Stunden 
+Summe: 10 ECTS-Punkte, entspricht 300 Stunden 
+Modulnote 
+Benotet 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+SoSe 
+Bemerkungen 
+ 
+
+[Page 35]
+Stand: 19.03.2026 
+36 
+ 
+ 
+Modulbezeichnung 
+Feiern und Trauern 
+Modulbezeichnung in Englisch 
+Celebrating and Sorrowing 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation und Sustainability 
+Beteiligte Fachgebiete 
+Liturgie, Ritual Studies 
+Modulverantwortliche/r 
+Rowena Roppelt 
+Prüfende im Modul 
+Rowena Roppelt 
+Leistungspunkte (ECTS-Punkte) 5 
+Kompetenzen 
+Fachkompetenz: Die Studierenden lernen, 
+• 
+Liturgie als Dienst an den Menschen zu verstehen und zu gestalten, 
+• 
+eine Ritualkompetenz zu erwerben, die durch Zeichen und Worte Hilfe 
+bei der Deutung und Bewältigung von Lebensereignissen und Krisen bie-
+ten kann, 
+• 
+die traditionellen Feiern der Kirche zu würdigen, kritisch zu hinterfragen 
+und zu aktualisieren, 
+• 
+liturgische Formen zu antizipieren und umzusetzen, aus denen die Kraft 
+des Glaubens einfach und lebensnah spricht, 
+• 
+rituelle Feierformen zu entwickeln, die auch außerhalb des kirchlichen 
+Binnenraums auf Resonanz stoßen und eine gesellschaftliche Relevanz 
+entfalten können, 
+• 
+Sakramentenpastoral als Transformationsprozess verstehen und gestal-
+ten zu können. 
+ 
+Selbstkompetenz: Die Studierenden werden dazu ermutigt, 
+• 
+neugierig zu sein, 
+• 
+eigene und fremde Überzeugungen wahrzunehmen und einzuordnen so-
+wie Ambiguitätstoleranz bei unterschiedlichen sozialen und religiösen 
+Praktiken einzuüben, 
+• 
+gewohnte Pfade zu verlassen und sich auf transformative Lernprozesse 
+einzulassen, 
+• 
+über das gemeinsame Handeln Selbstwirksamkeit zu erleben und Reso-
+nanz zu erfahren. 
+ 
+Sozialkompetenz: Die Studierenden üben sich darin, 
+• 
+miteinander zu kooperieren und co-kreative Lernerfahrungen zu ma-
+chen, 
+• 
+lokales und gemeinschaftliches Handeln zu ritualisieren, 
+• 
+die eigene Ritualkompetenz als eine Form individueller Sinngebung zu 
+verstehen und zu entwerfen. 
+ 
+Methodenkompetenz: Die Studierenden können 
+• 
+liturgische und rituelle Formen für transformative Prozesse in kirchlichen 
+und gesellschaftlichen Räumen gestalten, 
+• 
+ein Gespür für die Herausforderungen und Chancen der gesellschaftli-
+chen Entfremdung von den liturgischen und sakramentalen Traditionen 
+der Kirche entwickeln. 
+Inhalte/Themen 
+• 
+Gesellschaftliche und religiöse Herausforderungen von Liturgie und Sak-
+ramentenpastoral wahrnehmen; Konsequenzen für das liturgische und 
+rituelle Handeln reflektieren, 
+
+[Page 36]
+Stand: 19.03.2026 
+37 
+ 
+ 
+ 
+• 
+Liturgienahe Feierformen und Sakramentalien kennenlernen, Erkenntnis 
+der integralen Verbindung zwischen ritueller Gestaltung und Sinndeu-
+tung – Feierformen, Anlässe, Anforderungen; Arbeit mit ausgewählten 
+Situationen/Feierformen (Bestattung, Segensfeiern, Jahreszeiten, usw.) 
+• 
+Sakramentenpastoral: Ziele, Zielgruppen, Methoden 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Vorlesung (VL) (2 SWS) 
+Seminar (SE) (2 SWS) 
+selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens "ausreichend" bewerteter Leistungsnachweis: mündliche 
+Prüfung oder Klausur oder Portfolio 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesung (Kontakt-/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Seminar (Kontakt-/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Vor- und Nachbereitung: 1 ECTS-Punkt, entspricht 30 Stunden 
+Vorbereitung Leistungsnachweis: 2 ECTS-Punkte, entspricht 60 Stunden. 
+Summe: 5 ECTS-Punkte, entspricht 150 Stunden 
+Modulnote 
+Benotet 
+Polyvalenz mit anderen Studien- 
+gängen/Hinweise zur Zugänglich-
+keit 
+ 
+Turnus des Angebots 
+SoSe 
+Bemerkungen 
+ 
+
+[Page 37]
+Stand: 19.03.2026 
+38 
+ 
+ 
+Modulbezeichnung 
+Persönlichkeitsentwicklung und Coaching II 
+Modulbezeichnung in Englisch 
+Personal Development and Coaching II 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+Pilotfakultät 
+Beteiligte Fachgebiete 
+Psychologie, Pädagogik, Religionspädagogik 
+Modulverantwortliche/r 
+Martin Schneider 
+Prüfende im Modul 
+Martin Schneider 
+Leistungspunkte (ECTS-Punkte) 5 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+die Anforderungen der aktuellen Lebens- und Arbeitswelt zu 
+erläutern mit einem Ansatz von Persönlichkeitsbildung in 
+Verhältnis zu setzen, 
+• 
+zugrunde liegende Menschenbilder sowie und 
+Bildungsverständnisse zu erläutern und Chancen sowie Grenzen 
+auszuloten, 
+• 
+ihr künftiges Berufsbild und ihre Berufung vor dem Hintergrund 
+des fortschreitenden Kompetenzgewinns im Fachstudium zu 
+überprüfen/abzugleichen und gegebenenfalls neu zu 
+reformulieren, 
+• 
+die im ersten und zweiten Semester gesteckten mittel- und 
+langfristigen Ziele für ihre Persönlichkeitsbildung im Fachstudium 
+zu überprüfen und neu zu gegebenenfalls an den 
+Entwicklungsfortschritt anzupassen. 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+die Erweiterung ihrer eigenen Kompetenzen, Stärken und Talente 
+während des bisherigen Studiums zu benennen und zu 
+beschreiben, wie sie diese im Laufe ihres Fachstudiums am 
+fachlichen Inhalt noch weiter ausbauen, 
+• 
+zu reflektieren, welche Schwächen sie auf welche Weise schon 
+bearbeitet haben und auf welche Weise sie diese im Fachstudium 
+am fachlichen Gegenstand weiter verbessern können, 
+• 
+ihren Haltungswechsel vom rezeptiven Lernen hin zur 
+gestaltenden Selbstbildung zu reflektiven und zu erläutern wie 
+sich dieser auf ihre Persönlichkeitsbildung und die nachhalte 
+Aneignung von Fachwissen sowie Kompetenzbildung ausgewirkt 
+hat, 
+• 
+lernbehindernde Faktoren zu benennen und durch lernfördernde 
+Bedingungen zu ersetzen, 
+• 
+Geduld, Durchhaltevermögen, Beharrlichkeit und Lernwille zu 
+erweitern. 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+in Auseinandersetzung mit den anderen Studierenden, in 
+größerem Ausmaß Verantwortung für ihren Bildungsprozess zu 
+übernehmen, 
+• 
+die eigenen Stärken und Talente sowie und Grenzen genauso 
+wie die der anderen zu erkennen und fruchtbringend in 
+Gruppenprozesse einzubringen, 
+
+[Page 38]
+Stand: 19.03.2026 
+39 
+ 
+• 
+mit einzelnen und in Gruppen zu kooperieren sowie 
+Konfliktlösungsfähigkeit zu erhöhen, zu dialogisieren und zu 
+diskutieren, um aufbauend auf den philosophischen Annahmen 
+der Transaktionsanalyse zu kommunizieren und zu interagieren, 
+• 
+Rollen in Gruppen und Organisationen zu identifizieren, zu 
+analysieren und Probleme zu erkennen, um rollengerecht reden 
+und handeln sowie andere entsprechend anleiten zu können. 
+Methodenkompetenz – Die Studierenden können 
+• 
+Prozesse im Hinblick auf die Entwicklung der Beziehungen 
+analysieren, Probleme erkennen und Lösungen zu entwickeln, 
+um professionell arbeiten zu können, 
+• 
+Sachverhalte und Situationen analysieren sowie einordnen, um 
+strategisch und methodisch gestützt agieren und 
+Wechselwirkungen kontrollieren, 
+Wirkungen und Erfolge von Handlungen und Maßnahmen 
+auswerten und entsprechende Verfahren zu Intervention 
+anwenden. 
+
+[Page 39]
+Stand: 19.03.2026 
+40 
+ 
+ 
+ 
+ 
+Inhalte/Themen 
+Inhalte: 
+• 
+Definition des eigenen Studienziels, Bewusstmachung der eigenen 
+Stärken und Talente, Ableitung des ganz persönlichen Studienweges, 
+selbstverantwortliches, den persönlichen Zielen entsprechendes Studie-
+ren; 
+• 
+lernpsychologische Erkenntnisse und ihre Folgen, effektives und „Ge-
+hirn-gerechtes“ Lernen, Erarbeitung des eigenen Lerntyps, lernför-
+dernde und lernverhindernde Faktoren, Umsetzung von verschiedenen 
+Lerntechniken, Leseregeln zur effektiven Erarbeitung von Fachliteratur, 
+Umgang mit Vorlesungsmitschriften und -skripten und ihre Koordination, 
+Planung und Organisation des Studiums und der Prüfungen, Zeitma-
+nagement, Bewältigung von Prüfungsängsten, Selbstdarstellung in der 
+Prüfung. 
+• 
+Modelle des Selbst- und Zeitmanagements 
+• 
+Kommunikationspsychologie: Fragetechniken, Gesprächsführung, 
+Feedback 
+• 
+Reflexionsmethoden sowie Übungen zur Selbst- und Fremdwahrneh-
+mung, Achtsamkeit und Resilienz 
+• 
+Zielformulierung über SMART-Technik 
+• 
+soziale Normen und Rollen, Ziel- und Rollenkonflikte 
+• 
+Interventionsmethoden (Befragung, Beobachtung, Beratung, Coaching, 
+Mediation, Moderation, Workshop und Training) 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Seminare (SE) 1 x 2 SWS 
+Übung (UE) 1 x 2 SWS 
+Einzelreflexionen, Gruppenarbeiten, Plenumsdiskussionen, Übungen zur 
+Persönlichkeitsbildung sowie Strategien zur Angstbewältigung; verschie-
+dene, Arbeits- und Lernmethoden; unterschiedliche Studier- und Zeitma-
+nagementmethoden, Fallbeispiele 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+Beständige und aktive Mitarbeit in den Gruppen und im Plenum, Beteiligung 
+an den Seminaren, Bestandene Modulprüfung in Form eines Portfolios 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Seminare (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 Stunden 
+Vor- und Nachbereitung: 1 ECTS-Punkt, entspricht 30 Stunden 
+Vorbereitung Leistungsnachweis: 1 ECTS-Punkt, entspricht 30 Stunden 
+Summe: 5 ECTS-Punkte, entspricht 150 Stunden 
+Modulnote 
+bestanden / nicht bestanden 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+WiSe und SoSe 
+Bemerkungen 
+Das Modul „Persönlichkeitsentwicklung und Coaching II“ wird über zwei Se-
+mester angeboten. 
+Im Modul „Persönlichkeitsentwicklung und Coaching II" wird ein umfassen-
+des Verständnis für persönliches Wachstum und Selbstreflexion vermittelt, 
+wobei die Anwesenheit der Studierenden den aktiven Lernprozess fördert 
+
+[Page 40]
+Stand: 19.03.2026 
+41 
+ 
+ 
+ 
+und ihnen ermöglicht, Kommunikations- und Coaching-Fähigkeiten zu erler- 
+nen sowie Feedback für persönliches Wachstum auszutauschen. 
+
+[Page 41]
+Stand: 19.03.2026 
+42 
+ 
+ 
+Modulbezeichnung 
+Praxissemester 
+Modulbezeichnung in Englisch 
+Internship 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Transformationswissenschaften, Nachhaltigkeit, Pastoral, Religionspäda- 
+gogik 
+Modulverantwortliche/r 
+Simone Birkel 
+Prüfende im Modul 
+Simone Birkel, N.N. 
+Leistungspunkte (ECTS-Punkte) 30 
+Kompetenzen 
+Fachkompetenz - Die Studierenden lernen, 
+• 
+die Anforderungen an den Beruf im pastoralen oder gesellschaftlichen 
+Alltag unter Anleitung professionsspezifisch zu reflektieren, 
+• 
+einen Überblick über institutionenspezifische Konzeptionen, Methoden 
+und Medien zu geben und diese unter sachkundiger Anleitung einzuset-
+zen, 
+• 
+Menschen in die Lage zu versetzen, kompetent am kulturellen und ge-
+sellschaftlichen Leben im Hinblick auf Religion bzw. auf eine zukunfts-
+fähige Entwicklung teilzunehmen, 
+• 
+didaktische Prozesse des religiösen / transformativen Lernens in spezi-
+fisch ausgewählten (z.B. schulischen und gemeindlichen) Kontexten zu 
+vertiefen. 
+ 
+Selbstkompetenz - Die Studierenden werden dazu ermutigt, 
+• 
+die eigene Passung an die Anforderungen an einen kirchlichen Beruf im 
+pastoralen Alltag / im Bildungsumfeld von sozial-ökologischer Transfor-
+mation und einer Bildung für nachhaltige Entwicklung unter Anleitung 
+professionsspezifisch zu überprüfen, 
+• 
+organisatorische und strukturgebende Routinen zu entwickeln, die den 
+Anforderungen der jeweiligen Arbeitsumgebung gerecht werden, 
+• 
+die eigene Rolle im jeweiligen beruflichen Kontext im Team bzw. in der 
+praktischen Arbeit in verschiedenen Arbeitsbereichen zu erproben und 
+auszugestalten. 
+ 
+Sozialkompetenz - Die Studierenden üben sich darin, 
+• 
+von erfahrenen Mentor:innen begleitet und unterstützt zu werden, 
+• 
+mit unterschiedlichen Zielgruppen adäquat, professionell und zielorien-
+tiert zu kommunizieren, 
+• 
+ihre Erfahrungen in den Studienbegleitveranstaltungen reflektieren und 
+bei Bedarf professionelle Unterstützung anfordern zu können. 
+ 
+Methodenkompetenz - Die Studierenden können 
+• 
+aus der Beobachtung von Teilnehmer:innen in Bildungssituationen 
+fachdidaktisch bedeutsame Schlüsse für die Unterrichtsplanung und 
+Durchführung ziehen, 
+• 
+unter fachkundiger Begleitung Bildungsveranstaltungen und Fachunter-
+richt selbständig planen und durchführen, 
+• 
+die Veranstaltungen/den Unterricht im Zusammenspiel mit Mentor:in- 
+nen fachdidaktisch reflektieren und daraufhin optimieren, 
+
+[Page 42]
+Stand: 19.03.2026 
+43 
+ 
+ 
+ 
+• 
+die Bedeutung von Bildungsangeboten/Lehreinheiten in der jeweiligen 
+Rolle der Institution sowie den Beitrag zur Entwicklung einer neuen 
+Lernkultur zu erfassen und zu reflektieren. 
+Inhalte/Themen 
+Inhalte: 
+• 
+Strukturen und Handlungsfelder im jeweiligen beruflichen Kontext der 
+Praxisinstitution 
+• 
+Aufgabe, Ziele und Methoden der (religiösen) Bildungsarbeit in unter-
+schiedlichen Altersgruppen 
+• 
+Gehalt und Gestaltung einschlägiger (liturgischer) Feierformen im Jah-
+reskreis 
+• 
+Einsatz von bildungsrelevanten geeigneten Hilfsmitteln sowie die Ent-
+wicklung von Artikulationsschemata zur didaktischen Planung von Lehr-
+Lern-Veranstaltungen 
+• 
+Rahmenpläne (z.B. Lehrpläne) sowie nationale und internationale Ent- 
+wicklungspläne 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+Kenntnis didaktischer Grundlagen und Erfahrung im Unterrichten an Schulen 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Praktikum unter Begleitung von Mentor:innen 
+Studienwochen mit Reflexionsgesprächen, Supervision; Beratung, Work-
+shops 
+selbstgeleitetes Lernen (SGL) 
+Studienwoche (SE) 2 SWS 
+Praxisbegleitende Reflexion und Portfolioarbeit (SE) 2 SWS 
+Unterrichtliche und didaktische Prozesse (Ü) 2 SWS 
+Mentoring Praxis (praktikumsbegleitende Veranstaltung) 2 SWS 
+selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+Bestandene Modulprüfung in Form eines Portfolios 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Praktikum an einer berufsrelevanten Institution: 24 ECTS-Punkte 
+(im Falle Angewandte Theologie: Gemeindepraktikum: 17 ECTS-Punkte 
+Schulpraktikum: 7 ECTS-Punkte) 
+ 
+Studienwochen: 2 ECTS-Punkte 
+Supervision und Beratung: 2 ECTS-Punkte 
+Portfolio: 2 ECTS-Punkte: 
+ 
+In Summe 30 ECTS-Punkte 
+Modulnote 
+bestanden / nicht bestanden 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+WiSe 
+Bemerkungen 
+ 
+
+[Page 43]
+Stand: 19.03.2026 
+44 
+ 
+ 
+Modulbezeichnung 
+Corporate Governance 
+Modulbezeichnung in Englisch 
+Corporate Governance 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Betriebswirtschaftslehre B.Sc 
+institutionelle Verankerung 
+Wirtschaftswissenschaftliche Fakultät Ingolstadt 
+Beteiligte Fachgebiete 
+Unternehmensethik, insb. Corporate Governance 
+Modulverantwortliche/r 
+Kai Sandner 
+Prüfende im Modul 
+Kai Sandner 
+Leistungspunkte (ECTS-Punkte) 5 
+Kompetenzen 
+• 
+Verständnis von Corporate Governance und Kenntnis relevanter Theo-
+rien zur Untersuchung des Themengebiets 
+• 
+Bewusstsein über Bedeutung der unterschiedlichen Sichtweisen des 
+Stakeholder- und des Shareholderansatzes in der Unternehmensfüh-
+rung für die Corporate Governance 
+• 
+Überblick über Normen und Regeln der Corporate Governance 
+• 
+Abgrenzung und Zusammenwirken von Corporate Governance und in-
+terner Unternehmenssteuerung 
+• 
+Kenntnis von Möglichkeiten der Einflussnahme unterschiedlicher Ak-
+teure 
+• 
+Fähigkeit zur Verknüpfung von Inhalten mit Inhalten angrenzender Be-
+reiche wie Unternehmensführung, Controlling und Unternehmensethik 
+• 
+Wissensvermittlung über alternative Systeme der Corporate Governance 
+mit ihren Wirkungen 
+• 
+Ziel: Überblick über das Themengebiet und Fähigkeit, Bezüge zu den 
+angrenzenden Bereichen Unternehmenssteuerung und Unternehmen-
+sethik herzustellen 
+Inhalte/Themen 
+• 
+Grundlagen 
+o 
+Einleitung und Theorien 
+o 
+Regeln und Vorschriften 
+o 
+Stakeholder- und Shareholderorientierung in der Unterneh-
+mensführung 
+• 
+Boards of Directors: Führung und Überwachung von Unternehmen 
+o 
+Boardstrukturen 
+o 
+Vergütung von Boardmitgliedern und Fairness 
+o 
+Performancemaße 
+• 
+Einflussnahme durch Aktionäre 
+o 
+Aktionärsmacht und institutionelle Investoren 
+o 
+CSR und ”Socially Responsible Investment“ 
+o 
+Familienunternehmen 
+• 
+Corporate Governance in ausgewählten Ländern 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+Keine 
+Lehr- und Prüfungssprache 
+Englisch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+• 
+Vorlesung (VL) 
+• 
+Übung (UE) 
+• 
+Beispiele 
+• 
+Kontrollfragen und Diskussionen 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Klausur (90 Minuten) 
+
+[Page 44]
+Stand: 19.03.2026 
+45 
+ 
+ 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+• 
+44 h = Präsenzzeit Vorlesung und Übung 
+• 
+66 h = Vor- und Nachbereitung Vorlesung und Übung 
+• 
+40 h = Prüfungsvorbereitung 
+• 
+150 h = Arbeitsaufwand gesamt 
+Modulnote 
+Klausur (100%) 
+Polyvalenz mit anderen Studien- 
+gängen/Hinweise zur Zugänglich-
+keit 
+Sustainability in Business & Economics B.Sc 82-021-BE03-H-0318 
+Turnus des Angebots 
+SoSe 
+Bemerkungen 
+ 
+
+[Page 45]
+Stand: 19.03.2026 
+46 
+ 
+ 
+Modulbezeichnung 
+Sustainable Development 
+Modulbezeichnung in Englisch 
+Sustainable Development 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Sustainability in Business & Economics B.Sc. 
+institutionelle Verankerung 
+Wirtschaftswissenschaftliche Fakultät Ingolstadt 
+Beteiligte Fachgebiete 
+Economics, esp. Microeconomics 
+Modulverantwortliche/r 
+Alexander M. Danzer 
+Prüfende im Modul 
+Alexander M. Danzer 
+Leistungspunkte (ECTS-Punkte) 5 
+Kompetenzen 
+• 
+Students of the course acquire substantial knowledge about sustainable 
+development and the trade-offs in economic growth. 
+• 
+They are able to apply simple theoretical and empirical analyses to the 
+study of sustainable development and development policies. 
+• 
+Students develop reflected views on fundamental determinants of sus-
+tainable growth, human development and structural imbalances, e.g., the 
+quality and design of institutions or the importance of political leadership. 
+• 
+Students acquire knowledge about the global development agenda (e.g., 
+Sustainable Development Goals) and specific development policies. 
+• 
+Students learn to assume different roles in simulation games to solve 
+simulated real world challenges in smaller groups; they learn to search 
+for suitable data to understand and present their assigned role (e.g., dif-
+ferent agents, such as politicians, households, farmers, CEOs of interna-
+tional companies, NGOs) and express their policy preferences. They are 
+able to analyse, interpret, critically assess, and present the data 
+Inhalte/Themen 
+• 
+Introduction to basic methods and empirical strategies in sustainable de-
+velopment 
+o 
+Correlation vs. Causality 
+o 
+Experiments and Randomized Controlled Trials (RCTs) 
+o 
+Observational data and quasi experiments 
+• 
+Measurement of growth, poverty, inequality and social exclusion 
+• 
+Fundamental determinants of economic development 
+o 
+History and institutions 
+o 
+Good and bad policies, good and bad politicians 
+o 
+Market vs. plan 
+• 
+Human development 
+o 
+The demographic transition, fertility and population ageing 
+o 
+Education, knowledge and skills 
+o 
+Health and quality of life 
+• 
+Structural imbalances 
+o 
+Risk and insurance 
+o 
+The urban-rural division and migration 
+o 
+Climate change 
+• 
+Stakeholders and agents 
+o 
+Individuals 
+o 
+Households 
+o 
+Business 
+o 
+Lobby groups 
+o 
+Government 
+o 
+Supranational institutions 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+
+[Page 46]
+Stand: 19.03.2026 
+47 
+ 
+ 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+Mathematics, Descriptive statistics, Microeconomics, Macroecono 
+Lehr- und Prüfungssprache 
+Englisch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+• 
+Lectures 
+• 
+Tutorials 
+• 
+Simulation Game 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Written exam at the end of the term (60 Minutes) 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+• 
+28 h = Time of attendance lecture 
+• 
+22 h = Preparation and postprocessing lecture 
+• 
+28 h = Time of attendance tutorial 
+• 
+22 h = Preparation and postprocessing tutorial 
+• 
+50 h = Exam preparation 
+• 
+150 h = Total workload 
+Modulnote 
+Final exam (100%) 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+Business Administration B.Sc 
+Turnus des Angebots 
+SoSe 
+Bemerkungen 
+ 
+
+[Page 47]
+Stand: 19.03.2026 
+48 
+ 
+Modulbezeichnung 
+Kulturelle Transformation: Kommunikation und performatives Handeln 
+Modulbezeichnung in Englisch 
+Cultural Transformation: Communication and Performative Action 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Katholische Theologie, Journalistik, Kulturwissenschaft, Sozialwissenschaft, 
+Literatur-, Musik- und Kunstwissenschaft/-pädagogik, Europäische Ethnolo- 
+gie 
+Modulverantwortliche/r 
+Rowena Roppelt 
+Prüfende im Modul 
+Rowena Roppelt, Simone Birkel, N.N. 
+Leistungspunkte (ECTS-Punkte) 10 
+Kompetenzen 
+Fachkompetenz: Die Studierenden lernen, 
+• 
+Nachhaltigkeit als kulturelles Konzept und kulturelle Herausforderung 
+zu begreifen sowie die Pluralität der Kulturen, Selbstverständnisse, 
+Werte und Orientierungen als wesentliche Ressourcen für eine nach-
+haltige Entwicklung zu verstehen, 
+• 
+Konzepte und Dimensionen von Kultur und Religion sowie deren Wei-
+terentwicklung in aktuellen Ansätzen kennen und die Vielfalt der Ver-
+hältnisse zwischen Mensch, Natur und Technik analytisch zu erschlie-
+ßen, 
+• 
+die Relevanz und das Potenzial der Künste und Rituale (Religion, Lite-
+ratur, Musik, Bildende Kunst, etc.) sowie aktuelle Ansätze der künstleri-
+schen Forschung für die kulturelle Nachhaltigkeitstransformation zu ver-
+stehen und zu nutzen, 
+• 
+kulturelle und religiöse Erzählungen und Narrative zu analysieren, zu 
+deuten und eigenständig zu gestalten. 
+ 
+Selbstkompetenz: Die Studierenden werden dazu ermutigt, 
+• 
+sich verstärkt mit den eigenen kulturellen und religiösen Gewohnheiten 
+sowie unhinterfragten Selbstverständnissen auseinanderzusetzen, 
+diese zu reflektieren sowie sich emotional und persönlich auf die kultu-
+relle Selbsttransformation einzulassen, 
+• 
+die eigenen kreativen, ästhetischen und rituellen Gestaltungspotenziale 
+und für die kulturelle Transformation kennen, eigene Handlungsmög-
+lichkeiten zu erproben und aktiv zu nutzen, 
+• 
+sich selbst auch in ihrem persönlichen Umfeld als Change Agents und 
+Multiplikatoren zu begreifen. 
+ 
+Sozialkompetenz: Die Studierenden üben sich darin, 
+• 
+unterschiedliche kulturelle und religiöse Selbst- und Weltverständnisse 
+wahrzunehmen und anzuerkennen, 
+• 
+ein Bewusstsein zu entwickeln für die Heterogenität der Selbst- und 
+Weltverständnisse sowie der damit verbundenen Herausforderungen 
+und sich aktiv auf andere Perspektiven einzulassen, 
+• 
+die Vielfalt der Selbstverständnisse und Perspektiven bei der Gestal-
+tung kultureller Transformationsprozesse gezielt zu berücksichtigen und 
+als Chance zu begreifen, 
+• 
+das Potenzial kultureller und religiöser Angebote zu kennen, unter- 
+schiedliche Menschen und Institutionen anzusprechen und zu beteili-
+gen, um kulturell vielfältige Pfade der Transformation zu eröffnen 
+
+[Page 48]
+Stand: 19.03.2026 
+49 
+ 
+ 
+ 
+ 
+Methodenkompetenz: Die Studierenden können 
+• 
+Methoden zur Beschreibung, Analyse und Deutung von Kulturen und 
+Ritualen anwenden, 
+• 
+hermeneutische und narratologische Ansätze zur Entwicklung eigen-
+ständiger Transformationserzählungen nutzen, 
+• 
+kulturelle, künstlerische, ästhetische, rituelle und religiöse Strategien 
+zur Zukunftsgestaltung und Beteiligung an der Nachhaltigkeitstransfor- 
+mation nutzen. 
+Inhalte/Themen 
+• 
+Einführung in Methoden der Kulturanalyse und der Kulturgestaltung 
+• 
+Mehrdimensionale Nachhaltigkeitsmodelle, die explizit kulturelle Frage-
+stellungen, Herausforderungen und Potenziale berücksichtigen 
+• 
+Relevance and Use of Rituals in Education (Bedeutung und Praxisrele-
+vanz von Ritualen) 
+• 
+Bedeutung von biblischen Narrativen für die kulturelle Nachhaltigkeit 
+• 
+Storytelling & Kommunikation (Öffentlichkeitsarbeit) 
+• 
+Rhetorik und Performanz 
+Formale Voraussetzungen für die 
+Teilnahme 
+ 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch, ggf. Englisch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Seminar (SE) (2 x 2 SWS) 
+Übung (UE) (2 x 2 SWS) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: mündliche 
+Prüfung oder Portfolio oder Projektpräsentation 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Seminare (Kontakt/Selbststudium): 2,5 ECTS-Punkte, entspricht 75 Stun-
+den 
+Übungen (Kontakt/Selbststudium): 2,5 ECTS-Punkte, entspricht 75 Stunden 
+Vor- und Nachbereitung: 2 ECTS-Punkte, entspricht 60 Stunden 
+Vorbereitung Leistungsnachweis: 3 ECTS-Punkte, entspricht 90 Stunden 
+Summe: 10 ECTS-Punkte, entspricht 300 Stunden 
+Modulnote 
+Benotet 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+SoSe 
+Bemerkungen 
+ 
+
+[Page 49]
+Stand: 19.03.2026 
+50 
+ 
+ 
+Modulbezeichnung 
+Sozial- und Pastorallabore: Erprobungen einer transformativen Praxis 
+Modulbezeichnung in Englisch 
+Social and Pastoral Laboratory: Experiments in Transformative Practice 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Katholische Theologie, Sozialwissenschaft, Transformationswissenschaf- 
+ten, Pädagogik, Jugendpastoral 
+Modulverantwortliche/r 
+Simone Birkel 
+Prüfende im Modul 
+Simone Birkel, N. N. 
+Leistungspunkte (ECTS-Punkte) 10 
+Kompetenzen 
+Fachkompetenz - Die Studierenden lernen, 
+• 
+die Bedeutung von Reallaboren für die Gestaltung von experimentellen 
+Prozesse und das wechselseitige Lernen von Wissenschaft und Gesell-
+schaft kennen, 
+• 
+quantitative und qualitative Daten zu sammeln, zu analysieren, zu deu-
+ten und sinnvolle Schlussfolgerungen zu ziehen, 
+• 
+kreative soziale, nachhaltige und/oder pastorale Ideen zu generieren 
+und Konzepte zu entwickeln, 
+• 
+(Jugend-) Kulturelle Events auf der Grundlage sozialer oder pastoraler 
+Innovationen einzuordnen und zu erproben. 
+ 
+Selbstkompetenz - Die Studierenden werden dazu ermutigt, 
+• 
+kreativ zu denken und Risiken einzugehen, 
+• 
+ihr Fachwissen einzubringen, aber auch offen für die Perspektiven und 
+Beiträge anderer zu sein, 
+• 
+sich auf transdisziplinäre Experimente einzulassen, 
+• 
+multiperspektive Sichtweisen auf kulturelle, gesellschaftliche und/oder 
+pastorale Innovationen zu entwickeln, 
+• 
+die durch Reallabore gewonnenen neuen Erfahrungen für die Entwick-
+lung und Vertiefung von Future Skills zu reflektieren. 
+ 
+Sozialkompetenz - Die Studierenden üben sich darin, 
+• 
+mit unterschiedlichen Akteur:innen aus dem zivilen und universitären 
+Bereich zu kooperieren, 
+• 
+die Bedeutung von Feierkultur für das kulturelle und/oder pastorale Feld 
+zu kennenzulernen, 
+• 
+Vielfalt als sozialen und pastoralen Reichtum zu erleben, 
+ 
+Methodenkompetenz - Die Studierenden können 
+• 
+Projekte im kulturellen und/oder pastoralen Bereich planen und durch-
+führen, 
+• 
+forschendes Lernen und Service Learning praktisch anwenden, 
+• 
+Projekte im kulturellen und/oder pastoralen Bereich ästhetisch anspre-
+chend und adressat:innengerecht zu präsentieren. 
+Inhalte/Themen 
+• 
+Einführung in Ansätze transformativer Forschung und in Futures Stu-
+dies 
+• 
+Vorstellung von Reallaboren für die soziale und/oder pastorale Praxis 
+• 
+Verknüpfung von kulturellen und pastoralen Inhalten in der Eventgestal-
+tung 
+• 
+Methoden der Gesprächsführung in unterschiedlichen Kontexten 
+
+[Page 50]
+Stand: 19.03.2026 
+51 
+ 
+ 
+ 
+• 
+Projektplanung und zielgruppenspezifische Präsentation 
+• 
+Anwendung von Methoden empirischer Sozialforschung 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+Kenntnis von Praxiseinrichtungen im Bereich der sozial-ökologischen Trans- 
+formation; Erfahrungen im Bereich verbandlicher Jugendarbeit 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Vorlesung (VL) (2 x 1 SWS) 
+Seminar (SE) (1 x 2 SWS) 
+Seminar (SE) (2 x 1 SWS) 
+Übung (UE) (2 x 1 SWS) 
+selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+Bestandene Modulprüfung in Form einer mündlichen Prüfung 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesungen (Kontakt/Selbststudium): 2 ECTS-Punkte, entspricht 60 Stun-
+den 
+Seminare (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 Stunden 
+Übung (Kontakt/Selbststudium): 2 ECTS-Punkte, entspricht 60 Stunden 
+Vor- und Nachbereitung: 1 ECTS-Punkt, entspricht 30 Stunden 
+Vorbereitung Leistungsnachweis: 2 ECTS-Punkte, entspricht 60 Stunden 
+Summe: 10 ECTS-Punkte, entspricht 300 Stunden 
+Modulnote 
+bestanden / nicht bestanden 
+Polyvalenz mit anderen Studien- 
+gängen/Hinweise zur Zugänglich-
+keit 
+ 
+Turnus des Angebots 
+WiSe und SoSe 
+Bemerkungen 
+Das Modul wird über zwei Semester angeboten. 
+
+[Page 51]
+Stand: 19.03.2026 
+52 
+ 
+ 
+Modulbezeichnung 
+Transformative christliche Narrative und Rituale 
+Modulbezeichnung in Englisch 
+Transformative Christian Narratives and Rituals 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Katholische Theologie, Bibelwissenschaft, Liturgie 
+Modulverantwortliche/r 
+Rowena Roppelt 
+Prüfende im Modul 
+Rowena Roppelt 
+Leistungspunkte (ECTS-Punkte) 5 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+biblische Texte mit ihrem transformativen Potential zu verstehen, 
+• 
+begründete theologische Optionen aus den Texten zu entwickeln, 
+• 
+die Optionen der Texte reflektiert auf heutige Fragestellungen anzuwen-
+den, 
+• 
+Stimmen außerhalb des festgelegten liturgischen Kanons wahrnehmen 
+und anerkennen zu können, 
+• 
+das transformierende Potential der Liturgie wahrzunehmen, 
+• 
+potentialen Machtmissbrauch in der Liturgie zu erkennen. 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+in Auseinandersetzung mit biblischen Texten und liturgischen Feiern ei-
+gene Denkmuster und Haltungen zu überprüfen, 
+• 
+auf der Basis biblischer Texte und liturgischer Feiern eine eigenständige 
+und authentische Haltung in gegenwärtigen Transformationsprozesse zu 
+entwickeln, 
+• 
+sich von biblischen Texten und liturgischen Feiern inspirieren zu lassen. 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+miteinander hoffnungsvolle Zukunftsoptionen zu entwickeln, 
+• 
+Liturgie als Ort der Gemeindebildung zu erfahren und mitzugestalten. 
+ 
+Methodenkompetenz – Die Studierenden können 
+• 
+das Potential biblischer Texte in ihren Entstehungszusammenhängen 
+auf heutige Situationen übertragen, 
+• 
+Zukunftsszenarien für Gemeinde und Kirche entwickeln, 
+• 
+Konzepte entwickeln, um neue Perspektive in die Feier der Liturgie ein-
+bringen und transformierende Liturgie gestalten zu können. 
+Inhalte/Themen 
+• 
+ausgewählte biblische Textbereiche wie prophetische Texte oder die Of-
+fenbarung des Johannes 
+• 
+ausgewählte biblische Themen wie Modelle von Gemeinde und Kirche 
+im Neuen Testament 
+• 
+Postkoloniale Liturgie: ausgewählte Themen wie Feministische Liturgie, 
+Liturgie mit Menschen mit Beeinträchtigung, Jugendliturgie, Außer-Euro-
+päische Liturgie 
+• 
+Liturgie und Gerechtigkeit: ausgewählte Themen wie Liturgie und die 
+Umgang mit der Mitwelt, mit Macht und Politik, liturgische Inkulturation 
+Formale Voraussetzungen für die 
+Teilnahme 
+ 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+
+[Page 52]
+Stand: 19.03.2026 
+53 
+ 
+ 
+Lehr- und Prüfungssprache 
+Deutsch, ggf. Englisch 
+Lehr- und Lernformen/Lehrveran- 
+staltungstypen 
+Liturgie: Seminar (SE) (2 SWS) | selbstgeleitetes Lernen (SGL) 
+Bibel: Seminar (SE) (2 SWS) | selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens "ausreichend" bewerteter Leistungsnachweis: mündliche 
+Prüfung oder Klausur 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesungen (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Seminare (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Vor- und Nachbereitung: 1 ECTS-Punkt, entspricht 30 Stunden 
+Vorbereitung Leistungsnachweis: 2 ECTS-Punkt, entspricht 60 Stunden 
+Summe: 5 ECTS Punkte, entspricht 150 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+SoSe 
+Bemerkungen 
+ 
+
+[Page 53]
+Stand: 19.03.2026 
+54 
+ 
+ 
+Modulbezeichnung 
+Transformative religiöse Bildung 
+Modulbezeichnung in Englisch 
+Transformative Religious Education 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Katholische Theologie, Religionspädagogik, Transformationswissenschaf- 
+ten 
+Modulverantwortliche/r 
+Simone Birkel 
+Prüfende im Modul 
+Simone Birkel 
+Leistungspunkte (ECTS-Punkte) 5 
+Kompetenzen 
+Fachkompetenz - Die Studierenden lernen, 
+• 
+Grundlagen religiös-transformativer Bildung anhand von ganzheitlich 
+orientierten reformpädagogischen Ansätzen und dem Konzept Bildung 
+für nachhaltige Entwicklung kennen, 
+• 
+Menschen in die Lage zu versetzen, kompetent am kulturellen und ge-
+sellschaftlichen Leben im Hinblick auf Religion teilzunehmen, 
+• 
+didaktische Prozesse des religiösen Lernens in spezifisch ausgewähl-
+ten schulischen Kontexten zu vertiefen. 
+ 
+Selbstkompetenz - Die Studierenden werden dazu ermutigt, 
+• 
+traditionelle Lehr-Lern-Konzepte im schulischen Religionsunterricht zu 
+hinterfragen, 
+• 
+eigene Ansätze zu einer zeitgemäßen religiösen Bildung im Kontext der 
+Zeichen der Zeit zu entwickeln und auszuprobieren, 
+• 
+ihre eigene Lehrer:innenpersönlichkeit auf der Grundlage der Reflexion 
+von Rollenvorbildern zu entwickeln. 
+ 
+Sozialkompetenz - Die Studierenden üben sich darin, 
+• 
+von erfahrenen Mentor:innen begleitet und unterstützt zu werden, 
+• 
+Team-Feedback zu geben und zu erhalten, 
+• 
+Sharing-Konzepte und gemeinsame Formen der Unterstützung zu ent-
+wickeln. 
+ 
+Methodenkompetenz - Die Studierenden können 
+• 
+Solidarität, Partizipativität und Gemeinwohl als Perspektiven in religiöse 
+Unterrichtskontexte einbeziehen, 
+• 
+unterschiedliche Formen des unterrichtlichen Gestaltens anwenden, 
+• 
+ansprechend und zielführend Unterricht medial aufbereiten. 
+Inhalte/Themen 
+Inhalte: 
+• 
+Organisations- und Sozialformen von Religionsunterricht in einer plura-
+len Gesellschaft 
+• 
+Ganzheitlich orientierte Formen des Unterrichtens im Kontext einer exis-
+tenziellen Orientierung der Lernenden durch Bezugnahme auf religiöse 
+Erfahrungen und religiöses Leben. Transformative Methoden für einen 
+Religionsunterricht, der an einer dreifachen Verantwortung ausgerichtet 
+ist: Verantwortung für sich selbst, Verantwortung für Mitmensch und Mit-
+welt und Verantwortung für unseren Planeten. 
+• 
+Exemplarische Diskurse, die Schöpfungsverantwortung und eine Neuge- 
+staltung hin zu einer zukunftsfähigen Welt als zentrale Anliegen haben. 
+
+[Page 54]
+Stand: 19.03.2026 
+55 
+ 
+ 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+Kenntnis didaktischer Grundlagen und Erfahrung im Unterrichten an Schulen 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Vorlesung (VL) (1 SWS) 
+ 
+Semesterbegleitendes Schulpraktikum mit Begleitveranstaltungen und 
+Übungen 
+Praktikumsbegleitende Veranstaltung SE 1 x 2 SWS und UE 1 x 2 SWS 
+ 
+selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+Bestandene Modulprüfung in Form eines Portfolios 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesung (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Praktikumsbegleitende Veranstaltung Seminar (Kontakt/Selbststudium): 1 
+ECTS-Punkt, entspricht 30 Stunden 
+Praktikumsbegleitende Veranstaltung Übung (Kontakt/Selbststudium): 1 
+ECTS-Punkt, entspricht 30 Stunden 
+Vor- und Nachbereitung: 1 ECTS-Punkt, entspricht 30 Stunden 
+Vorbereitung Leistungsnachweis: 1 ECTS-Punkt, entspricht 30 Stunden 
+Summe: 5 ECTS-Punkte, entspricht 150 Stunden 
+Modulnote 
+bestanden / nicht bestanden 
+Polyvalenz mit anderen Studien- 
+gängen/Hinweise zur Zugänglich-
+keit 
+ 
+Turnus des Angebots 
+SoSe 
+Bemerkungen 
+ 
+
+[Page 55]
+Stand: 19.03.2026 
+56 
+ 
+ 
+Modulbezeichnung 
+Sustainability Indicators: Digitalisierung und Monitoring 
+Modulbezeichnung in Englisch 
+Sustainability Indicators: Digitalization and monitoring 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Wirtschaftswissenschaft, Sozialwissenschaft, Transformationswissenschaf- 
+ten, Nachhaltigkeit 
+Modulverantwortliche/r 
+Harald Pechlaner 
+Prüfende im Modul 
+Harald Pechlaner, N.N. 
+Leistungspunkte (ECTS-Punkte) 10 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+verschiedene digitale Technologien und Tools kennen, die zur Umset-
+zung von Nachhaltigkeitszielen relevant sind, 
+• 
+Zusammenhänge zwischen Digitalisierung und Nachhaltigkeit zu erken-
+nen sowie die Rolle von Monitoring in diesem Kontext umzusetzen, 
+• 
+zukünftige Ereignisse über schwache Signale erkennen zu können (An-
+tizipationsfähigkeit) 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+Probleme zu lösen und Ansätze kritisch zu hinterfragen, 
+• 
+komplexe Zusammenhänge zu verstehen 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+bei der Entwicklung nachhaltiger Lösungen im Team zusammenzuarbei-
+ten, 
+• 
+sich in die Perspektiven anderer hineinzuversetzen und interkulturelle 
+Kompetenzen zu erwerben. 
+ 
+Methodenkompetenz – Die Studierenden können 
+• 
+digitale Technologien und Tools für das Monitoring von Nachhaltig-
+keitsindikatoren einsetzen, 
+• 
+Nachhaltigkeitsprobleme mit Hilfe digitaler Lösungen bewältigen, 
+• 
+qualitative und quantitative Methoden anwenden (v.a. Fähigkeiten in der 
+Datenerfassung, -analyse und -interpretation sowie im Umgang mit visu-
+ellen Dashboards und Berichterstattungstools), 
+• 
+Kompetenzen der Vorausschau (Foresight) sowie Szenariotechniken 
+einsetzen, 
+• 
+Methoden des Design-Thinking anwenden. 
+Inhalte/Themen 
+Die Digitalisierung nimmt seit vielen Jahren Einfluss auf die verschiedensten 
+Bereiche unseres Lebens, einschließlich des Umwelt- und Nachhaltigkeits-
+managements. Durch den Einsatz digitaler Technologien kann bspw. ein ef-
+fektives Monitoring von Nachhaltigkeitsindikatoren umgesetzt oder Umwelt-
+auswirkungen in Echtzeit verfolgt werden. Sensoren, Datenanalyse und vi-
+suelle Dashboards ermöglichen es Unternehmen und Organisationen, Nach-
+haltigkeitsziele zu überwachen oder Trends zu identifizieren. Die digitale Er-
+fassung und Analyse von Umweltdaten ist auch für die Entscheidungsfindung 
+zentral, indem sie Einblicke in Ressourceneffizienz, Energieverbrauch, Emis-
+sionen und andere wichtige Parameter ermöglicht. Die Kombination aus Di-
+gitalisierung und Monitoring ist wichtig, um Nachhaltigkeit effektiver zu ma- 
+nagen und eine datenbasierte Grundlage für Verbesserungen zu schaffen. 
+
+[Page 56]
+Stand: 19.03.2026 
+57 
+ 
+ 
+ 
+Das Modul „Digitalisierung und Monitoring“ behandelt die Integration digitaler 
+Technologien zur Förderung der nachhaltigen Transformation, um ein breites 
+Verständnis für die Anwendung von Digitalisierung, Tools und Nachhaltigkeit 
+in den verschiedenen Bereichen (z.B. Wirtschaft) zu entwickeln und die er-
+forderlichen Werkzeuge und Ansätze kennenzulernen: 
+1) Digitale Technologien als Werkzeug zur Förderung der Nachhaltig-
+keit (z.B. künstlicher Intelligenz und Blockchain-Technologie) 
+2) Kennenlernen von Nachhaltigkeitsinnovationen und Technologien 
+(z.B. erneuerbare Energietechnologien, intelligente Städte und digi-
+tale Innovationen) 
+3) Datenerhebung und -auswertung (z.B. Big Data) 
+4) Monitoring und Berichtserstattung von Nachhaltigkeit und Transfor-
+mation (Veränderungen über verschiedene Zeitabläufe und Defini-
+tion von Schnittstellen zwischen Nachhaltigkeit und (Soll-) Transfor-
+mation) 
+5) Evidenz-basierte Entscheidungsprozesse 
+Formale Voraussetzungen für die 
+Teilnahme 
+Teilnahme am Modul „Corporate Governance“ 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+keine 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran- 
+staltungstypen 
+Seminar (SE) (3 x 2 SWS) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Hausarbeit mit Präsentation oder Portfolio 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Seminar (Kontakt/Selbststudium): 4 ECTS-Punkte, entspricht 120 Stunden 
+Vor- und Nachbereitung: 3 ECTS-Punkt, entspricht 90 Stunden 
+Vorbereitung Leistungsnachweis: 3 ECTS-Punkt, entspricht 90 Stunden 
+Summe: 10 ECTS-Punkte, entspricht 300 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+WiSe 
+Bemerkungen 
+ 
+
+[Page 57]
+Stand: 19.03.2026 
+58 
+ 
+Modulbezeichnung 
+Bachelorarbeit 
+Modulbezeichnung in Englisch 
+Bachelor Thesis 
+Modulnummer 
+[wird vom Prüfungsamt vergeben; bereits vergebene Nummern sind in der 
+Modulbeschreibung zu belassen bzw. anzugeben] 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Ange-wandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Religionspädagogik, Pastoraltheologie, Liturgie, Moraltheologie / Sozial- 
+ethik, Biblische Theologie, Katholische Theologie 
+Modulverantwortliche/r 
+Martin Schneider 
+Prüfende im Modul 
+Martin Schneider, N.N. 
+Leistungspunkte (ECTS-Punkte) 10 
+Kompetenzen 
+Fachkompetenz - Die Studierenden lernen, 
+• 
+ein fachliches Thema aus Theorie und Praxis mit den Methoden wis-
+senschaftlichen Arbeitens selbständig zu entwickeln und darzustellen, 
+• 
+sicher mit den jeweiligen Theorien, Modellen und Fachbegriffen umzu-
+gehen. 
+Selbstkompetenz - Die Studierenden werden dazu ermutigt, 
+• 
+selbständig Probleme zu bearbeiten und Theorie und Praxis aufeinan-
+der zu beziehen, 
+• 
+ihr Fachwissen einzubringen, aber auch offen für zunächst schwer zu-
+gängliche Perspektiven und Beiträge zu sein. 
+ 
+Methodenkompetenz - Die Studierenden können 
+• 
+theoretische Ansätze korrekt, klar und reflektiert darstellen und mit der 
+sozialen oder pastoralen Praxis verknüpfen, 
+• 
+theoretisch gestützte Problemlösungsentwürfe für die Praxis zu entwi-
+ckeln. 
+Inhalte/Themen 
+ 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+Kenntnis von Praxiseinrichtungen im Bereich der sozial-ökologischen Trans- 
+formation; Erfahrungen im Bereich verbandlicher Jugendarbeit 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran- 
+staltungstypen 
+Seminar (SE): 1 SWS (Bachelorarbeit-Werkstatt) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens „ausreichend“ bewertete Bachelorarbeit 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo- 
+duls 
+Seminar (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Selbststudium: 9 ECTS-Punkte, entspricht 270 Stunden 
+Summe: 10 ECTS-Punkte, entspricht 300 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+WiSe und SoSe 
+Bemerkungen 
+ 
+
+[Page 58]
+Stand: 19.03.2026 
+59 
+ 
+ 
+Modulbezeichnung 
+Transformative Gemeinde- und Kirchenentwicklung 
+Modulbezeichnung in Englisch 
+Transformative Assembly and Church Development 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation und Sustainability 
+Beteiligte Fachgebiete 
+Katholische Theologie 
+Modulverantwortliche/r 
+Bernward Schmidt 
+Prüfende im Modul 
+Rafael Rieger, Katharina Karl, Bernward Schmidt, N. N. 
+Leistungspunkte (ECTS-Punkte) 10 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+Grundlagen der Kirchenentwicklung und der kirchlichen Strukturen ken-
+nen, um unterschiedliche Strukturmodelle vor dem Hintergrund spätmo-
+derner mobiler Gesellschaften einschätzen zu können, 
+• 
+die Entfaltung des Glaubens und die Transformation von kirchlichen 
+Strukturen im Laufe der Kirchengeschichte zu rekonstruieren, 
+• 
+historische Alternativkonzepte von Kirchenleitung einzuordnen und zu 
+bewerten, 
+• 
+kirchen-, sozial-, wirtschafts- und kulturgeschichtliche Strömungen zuei-
+nander in Beziehung zu setzen und für Schule und Gemeinde praktisch 
+zu erschließen, 
+• 
+die rechtlichen Grundlagen der kirchlichen Verfassung und Struktur zu 
+verstehen, 
+• 
+die Rolle der Pfarrei in der katholischen Kirchenstruktur zu beschreiben, 
+• 
+alternative und neue Leitungsformen der Pfarrei kennen und deren recht-
+liche und praktische Umsetzbarkeit zu bewerten, 
+• 
+aktuelle Möglichkeiten und Grenzen des Kirchenrechts in Bezug auf Ge-
+meinde- und Kirchenentwicklung einzuschätzen und zu nutzen, 
+ 
+• 
+transformative pastorale Konzepte und Leitungsmodelle kennen, 
+• 
+Entwicklungen in der Konzeption und theologischen Begründung der So-
+zialpastoral nachzuzeichnen, 
+• 
+Entwicklungen in der Gemeindestruktur wahrzunehmen, kritisch zu re-
+flektieren und in ihrer Relevanz für pastorales und diakonisches Tun ein-
+zuschätzen, 
+• 
+Seelsorgeansätze sozialraumorientiert und zielgruppenspezifisch auszu-
+wählen und anzuwenden, 
+• 
+genderspezifische Fragestellungen in der Seelsorge differenziert zu for-
+mulieren, 
+• 
+Gesprächstechniken, -formen und -strategien in unterschiedlichen Kon-
+texten methodisch anzuwenden und zu reflektieren. 
+ 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+ekklesiologische Konzepte aus der Geschichte auf ihre Tragfähigkeit für 
+die Gegenwart zu befragen, 
+• 
+die Vielfalt von Christlichkeit und Kirchlichkeit differenziert wahrzuneh-
+men, 
+• 
+gesellschaftliche und pastorale Veränderungen als Chance zu begreifen, 
+um bestehende Routinen und Strukturen zu überprüfen und zu transfor-
+mieren. 
+
+[Page 59]
+Stand: 19.03.2026 
+60 
+ 
+ 
+ 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+Kommunikations- und Handlungskompetenzen sowie Organisations-und 
+Strukturkompetenzen zu erwerben, um co-kreativ Lösungsansätze für 
+Fragen der Pastoral zu entwickeln. 
+ 
+Methodenkompetenz – Die Studierenden können 
+• 
+historische Entwicklungen erfassen und verstehen sowie historisch-her-
+meneutische Reflexionen anstellen, 
+• 
+können Quellen mit Hilfe historisch-kritischer Methodik analysieren und 
+kontextualisieren, 
+• 
+Kriterien für gelungene Gemeinde- und Kirchenentwicklung erarbeiten. 
+Inhalte/Themen 
+• 
+Kirchengeschichte: Einführung in historische Aspekte der Entwicklung 
+kirchlicher Ämter und Strukturen in der Neuzeit | Grundzüge der Ekklesi-
+ologie vom 15. bis ins 20. Jahrhundert | Schlaglichter: Einblick in die Epo-
+chen der Kirchengeschichte - Einführung in historische Aspekte von Ge-
+meinde - Institutionengeschichte (Entstehung von kirchlichen Strukturen, 
+Synodale Strukturen etc.) 
+• 
+Kirchenrecht: Leitungs-, Verkündigungs- und Heiligungsdienst | Laien 
+und Kleriker | Kirchenamt und Leitungsvollmacht | Pfarrei als konstituti-
+ves Element der Kirchenverfassung 
+• 
+Grundvollzüge der Pastoral: Verkündigung, Liturgie, Diakonie, Koinonia 
+| Sozialpastoral - Vermittlung von Kenntnissen über wichtige Strukturen 
+und Orte des gemeindepastoralen Handelns | Aufzeigen diverser Struk-
+turmodelle 
+• 
+Grundlagen des personenzentrierten Konzepts der Gesprächsführung 
+und der Beziehungstheorie 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Vorlesung (VL) (2 x 2 SWS) 
+Seminar (SE) (1 x 2 SWS) 
+Übung (Ü) (1 x 2 SWS) 
+selbstgeleitetes Lernen (SGL) 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+mit mindestens "ausreichend" bewerteter Leistungsnachweis: mündliche 
+Prüfung oder Klausur oder Portfolio 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Vorlesungen (Kontakt/Selbststudium): 2 ECTS-Punkte, entspricht 60 Stun-
+den 
+Seminar (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Übung (Kontakt/Selbststudium): 1 ECTS-Punkt, entspricht 30 Stunden 
+Vor- und Nachbereitung: 3 ECTS-Punkte, entspricht 90 Stunden 
+Vorbereitung Leistungsnachweis: 3 ECTS-Punkte, entspricht 90 Stunden 
+Summe: 10 ECTS-Punkte, entspricht 300 Stunden 
+Modulnote 
+benotet 
+Polyvalenz mit anderen Studien-
+gängen/Hinweise zur Zugänglich- 
+keit 
+ 
+Turnus des Angebots 
+WiSe 
+Bemerkungen 
+ 
+
+[Page 60]
+Stand: 19.03.2026 
+61 
+ 
+ 
+Modulbezeichnung 
+Persönlichkeitsentwicklung und Coaching III 
+Modulbezeichnung in Englisch 
+Personal Development and Coaching III 
+Modulnummer 
+ 
+Niveau 
+Bachelormodul 
+Geberstudiengang 
+Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor- 
+mative Lernprozesse oder Angewandte Theologie 
+institutionelle Verankerung 
+School of Transformation and Sustainability 
+Beteiligte Fachgebiete 
+Psychologie, Pädagogik, Religionspädagogik 
+Modulverantwortliche/r 
+Martin Schneider 
+Prüfende im Modul 
+Martin Schneider 
+Leistungspunkte (ECTS-Punkte) 5 
+Kompetenzen 
+Fachkompetenz – Die Studierenden lernen, 
+• 
+den systemischen Ansatz auf Organisationen und Gruppen zu 
+übertragen und daraus Handlungskompetenz abzuleiten, 
+• 
+ein Konzept für Persönlichkeitsbildung für das künftige Arbeitsfeld 
+zu entwickeln und zu beurteilen, 
+• 
+das eigene Persönlichkeitsprofil zu finalisieren sowie Stärken und 
+persönliche und fachliche Qualifikationen zu erläutern, 
+• 
+das eigene Berufsziel bzw. Arbeitsfeld oder das Profil eines 
+Folgestudium zu reflektieren und mit dem persönlichen 
+Lebensentwurf abgleichen. 
+Selbstkompetenz – Die Studierenden werden dazu ermutigt, 
+• 
+der eigenen Persönlichkeit und ihren Werten entsprechende 
+Kriterien für das kommende Berufungs- und Arbeitsfeld zu 
+entwickeln und konkrete Felder zu eruieren, 
+• 
+Entscheidungen hinsichtlich der künftigen Ausrichtung des 
+Berufs- und Arbeitsfeldes zu treffen und darauf 
+Berufseinstiegsstrategien abzuleiten. 
+Sozialkompetenz – Die Studierenden üben sich darin, 
+• 
+Bewerbungssituationen zu simulieren und die Perspektive einer 
+möglichen Arbeitgeberin, eines möglichen Arbeitgebers zu 
+übernehmen, 
+• 
+persönlichkeitsbildende Lernsituationen zu erkennen und zu 
+reflektieren sowie auf künftige Arbeits- und Lebenswelten hin 
+anwenden. 
+Methodenkompetenz – Die Studierenden können 
+• 
+Stärken und Talente sowie das breite Kompetenzprofil anderer 
+Studierender spiegeln und anfänglich in die Rolle der Begleiterin, 
+des Beleiters bzw. der Beraterin, des Beraters zu schlüpfen, 
+• 
+ein ganzheitliches, die lerntheoretischen und neurobiologischen 
+Erkenntnisse miteinbeziehendes, kompetenzorientiertes Konzept 
+von Persönlichkeitsbildung reflektieren, 
+• 
+das eigene sowie fremde Persönlichkeitsbildungsverständnisse 
+rekonstruieren und aufgrund eigener Urteilsbildung eventuell neu 
+konstruieren, 
+die Rollen der verschiedenen Akteurinnen und Akteuren in 
+Bildungsprozessen zu erläutern und entsprechende 
+Handlungsoptionen abzuleiten. 
+
+[Page 61]
+Stand: 19.03.2026 
+62 
+ 
+ 
+ 
+ 
+Inhalte/Themen 
+Inhalte: 
+• 
+Definition des eigenen Studienziels, Bewusstmachung der eigenen 
+Stärken und Talente, Ableitung des ganz persönlichen Studienweges, 
+selbstverantwortliches, den persönlichen Zielen entsprechendes Studie-
+ren; 
+• 
+lernpsychologische Erkenntnisse und ihre Folgen, effektives und „Ge-
+hirn-gerechtes“ Lernen, Erarbeitung des eigenen Lerntyps, lernför-
+dernde und lernverhindernde Faktoren, Umsetzung von verschiedenen 
+Lerntechniken, Leseregeln zur effektiven Erarbeitung von Fachliteratur, 
+Umgang mit Vorlesungsmitschriften und -skripten und ihre Koordination, 
+Planung und Organisation des Studiums und der Prüfungen, Zeitma-
+nagement, Bewältigung von Prüfungsängsten, Selbstdarstellung in der 
+Prüfung. 
+• 
+Modelle des Selbst- und Zeitmanagements 
+• 
+Kommunikationspsychologie: Fragetechniken, Gesprächsführung, 
+Feedback 
+• 
+Reflexionsmethoden sowie Übungen zur Selbst- und Fremdwahrneh-
+mung, Achtsamkeit und Resilienz 
+• 
+Zielformulierung über SMART-Technik 
+• 
+soziale Normen und Rollen, Ziel- und Rollenkonflikte 
+• 
+Interventionsmethoden (Befragung, Beobachtung, Beratung, Coaching, 
+Mediation, Moderation, Workshop und Training) 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+empfohlene Voraussetzungen für 
+die Teilnahme: 
+ 
+Lehr- und Prüfungssprache 
+Deutsch 
+Lehr- und Lernformen/Lehrveran-
+staltungstypen 
+Seminare (SE) 1 x 2 SWS 
+Übung (UE) 1 x 2SWS 
+Selbstgeleitetes Lernen (SGL) 
+ 
+Einzelreflexionen, Gruppenarbeiten, Plenumsdiskussionen, Übungen zur 
+Persönlichkeitsbildung sowie Strategien zur Angstbewältigung; verschie-
+dene, Arbeits- und Lernmethoden; unterschiedliche Studier- und Zeitma- 
+nagementmethoden, Fallbeispiele 
+Voraussetzungen für die Vergabe 
+von ECTS-Punkten 
+Beständige und aktive Mitarbeit in den Gruppen und im Plenum, Beteiligung 
+an den Seminaren, Bestandene Modulprüfung in Form eines Portfolios 
+Zeitaufwand/Berechnung 
+der 
+ECTS-Punkte innerhalb des Mo-
+duls 
+Seminare (Kontakt/Selbststudium): 3 ECTS-Punkte, entspricht 90 Stunden 
+Vor- und Nachbereitung: 1 ECTS-Punkt, entspricht 30 Stunden 
+Vorbereitung Leistungsnachweis: 1 ECTS-Punkt, entspricht 30 Stunden 
+Summe: 5 ECTS-Punkte, entspricht 150 Stunden 
+Modulnote 
+bestanden / nicht bestanden 
+Polyvalenz mit anderen Studien- 
+gängen/Hinweise zur Zugänglich-
+keit 
+ 
+Turnus des Angebots 
+WiSe und SoSe 
+Bemerkungen 
+Das Modul „Persönlichkeitsentwicklung und Coaching III“ wird über zwei Se- 
+mester angeboten. 
+
+[Page 62]
+Stand: 19.03.2026 
+63 
+ 
+ 
+ 
+Im Modul „Persönlichkeitsentwicklung und Coaching III" wird ein umfassen-
+des Verständnis für persönliches Wachstum und Selbstreflexion vermittelt, 
+wobei die Anwesenheit der Studierenden den aktiven Lernprozess fördert 
+und ihnen ermöglicht, Kommunikations- und Coaching-Fähigkeiten zu erler- 
+nen sowie Feedback für persönliches Wachstum auszutauschen.

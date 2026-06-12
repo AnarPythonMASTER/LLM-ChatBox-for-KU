@@ -1,0 +1,44 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Notenerfassung.pdf
+TITLE: Notenerfassung.pdf
+SOURCE_FILE: Notenerfassung.pdf
+------------------------------------------------------------
+
+[Page 1]
+Michael Niedermeier 
+ 
+Notenerfassung im KU.Campus 
+ 
+Bei der Notenerfassung wird zwischen semesterbegleitenden Prüfungen und den 
+Semesterabschlussprüfungen unterschieden. Hierbei erscheint bei semesterbegleitenden 
+Prüfungen eine zusätzliche Spalte mit der Bezeichnung „Datum der Prüfung“. Dabei muss der 
+Prüfer nun das Datum, wann der Studierende seine semesterbegleitende Prüfung abgegeben 
+hat, im hinterlegten Kalender eintragen. 
+Bei den semesterbegleitenden Prüfungen und den Semesterabschlussprüfungen kommen 
+zusätzlich zwei Spalten hinzu. Einmal „Bemerkung“ und einmal „Keine Teilnahme“. 
+In Feld Bemerkung haben Sie die Möglichkeit Informationen zu hinterlegen die evtl. für das 
+Prüfungsamt von Belang sind, z.B. Unterschleif. 
+Ebenfalls erscheint beim Eintrag „nicht bestanden“ ein neues Kästchen in der Spalte mit der 
+Bezeichnung „Keine Teilnahme“. Da es technisch nicht möglich ist das Feld leer anzuzeigen 
+erscheint in dem Kästchen ein Strich. Beim Klicken auf das Kästchen wird dieses in einen 
+Haken geändert. 
+ 
+ 
+ 
+ 
+ 
+ 
+Abbildung 1 Beispiel semesterbegleitende Prüfung 
+
+[Page 2]
+Michael Niedermeier 
+ 
+Im nächsten Schritt „weiter zu Auswertung“ haben wir den Bereich Druck und Abschluss 
+zusammengefasst. Sie finden rechts unten den Button „Abschluss und Druck“. 
+ 
+Abbildung 2 Abschluss und Druck 
+Dies bietet den Vorteil, dass der Aufruf der PDF Notenliste für das Prüfungsamt nicht vergessen 
+werden kann. Auch die PDF Datei ist nun im Corporate Design der KU gehalten. Alle Spalten 
+erscheinen ebenfalls in der PDF Datei. 
+
+[Page 3]
+Michael Niedermeier

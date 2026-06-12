@@ -1,0 +1,39 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_BA_Transformation_-_Nachhaltigkeit_Ethik.pdf
+TITLE: Wahlpflichtkatalog_BA_Transformation_-_Nachhaltigkeit_Ethik.pdf
+SOURCE_FILE: Wahlpflichtkatalog_BA_Transformation_-_Nachhaltigkeit_Ethik.pdf
+------------------------------------------------------------
+
+[Page 1]
+Wahlpflichtmodule 
+ 
+Schwerpunkt Transformative Lernprozesse 
+ 
+1. Sustainable Transformation: System- und Zielwissen: 15 ECTS-Punkte, 
+Modulprüfung: mündliche Prüfung oder Klausur oder Portfolio oder 
+Projektpräsentation oder Hausarbeit 
+2. Akteure und Praktiken der Transformation: 15 ECTS-Punkte, Modulprüfung: 
+mündliche Prüfung oder Klausur oder Portfolio oder Projektpräsentation oder 
+Hausarbeit 
+3. Corporate Governance: 5 ECTS-Punkte, Modulprüfung: Klausur (90 Minuten) 
+4. Sustainable Development: 5 ECTS-Punkte, Modulprüfung: Final exam (100%) 
+5. Sustainability Indicators: Digitalisierung und Monitoring: 10 ECTS-Punkte, 
+Modulprüfung: Hausarbeit mit Präsentation oder Portfolio 
+ 
+ 
+Schwerpunkt Angewandte Theologie 
+ 
+1. Erinnern und Erzählen: 10 ECTS-Punkte, Modulprüfung: mündliche Prüfung oder 
+Klausur 
+2. Glauben als Handeln: 5 ECTS-Punkte, Modulprüfung: mündliche Prüfung oder 
+Klausur oder Portfolio oder Projektpräsentation oder Hausarbeit 
+3. Denken und Glauben: 10 ECTS-Punkte, Modulprüfung: mündliche Prüfung oder 
+Klausur oder Portfolio oder Projektpräsentation 
+4. Feiern und Trauern: 5 ECTS-Punkte, Modulprüfung: mündliche Prüfung oder Klausur 
+oder Portfolio oder Projektpräsentation 
+5. Transformative christliche Narrative und Rituale: 5 ECTS-Punkte, Modulprüfung: 
+mündliche Prüfung oder Klausur 
+6. Transformative religiöse Bildung: 5 ECTS-Punkte, Modulprüfung: Bestandene 
+Modulprüfung in Form eines Portfolios 
+7. Transformative Gemeinde- und Kirchenentwicklung: 10 ECTS-Punkte, 
+Modulprüfung: mündliche Prüfung oder Klausur oder Portfolio 
+oderProjektpräsentation

@@ -1,0 +1,122 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BA_Bildungs-und_Erzw_Teilzeit.pdf
+TITLE: Studienverlaufsplan_BA_Bildungs-und_Erzw_Teilzeit.pdf
+SOURCE_FILE: Studienverlaufsplan_BA_Bildungs-und_Erzw_Teilzeit.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+ 
+Idealtypischer Studienplan Teilzeit 
+ECTS-Punkte 
+12 
+Bachelorarbeit 
+12 ECTS-Punkte 
+Begleitendes Seminar zur Bachelorarbeit 
+8 ECTS-Punkte 
+20 
+11 
+Wahlpflicht: Lernforschungsprojekt im jeweiligen Schwerpunkt 
+10 ECTS-Punkte 
+ 
+Wahlpflicht b: Projektentwicklung und -management in den jeweiligen 
+Schwerpunkten 
+5 ECTS-Punkte 
+15 
+10 
+ 
+Wahlpflicht: Praxisbezogene Vertiefung in den gewählten Schwerpunkten 
+10 ECTS-Punkte 
+10 
+9 
+ 
+Wahlpflicht: Einführung in den Schwerpunkt (Bildungspolitik und 
+Bildungsphilosophie od. Sozial- und Gesundheitspädagogik od. 
+Erwachsenen- und Weiterbildung) 
+10 ECTS-Punkte 
+ 
+Wahlpflicht a: Projektentwicklung und -management in den jeweiligen 
+Schwerpunkten 
+5 ECTS-Punkte 
+15 
+8 
+Psychologie II 
+5 ECTS-Punkte 
+ 
+Pädagogische Diagnostik, Förderung und 
+Evaluation 
+5 ECTS-Punkte 
+Bildungssoziologie II 
+5 ECTS-Punkte 
+15 ECTS 
+
+[Page 2]
+7 
+Psychologie I 
+5 ECTS-Punkte 
+Bildungssoziologie I 
+5 ECTS-Punkte 
+ 
+Pädagogische Kinder-, Jugend- und 
+Familienforschung 
+5 ECTS-Punkte 
+15 ECTS 
+6 
+Wahlpflicht: Studium Pro (Pro Horizont) 
+5 ECTS-Punkte 
+Bildung und Migration 
+5 ECTS-Punkte 
+ 
+Bildungs- und Erziehungsverhältnisse in der 
+Schule 
+5 ECTS-Punkte 
+15 ECTS 
+5 
+Praktikum II (4 Wo) einschl. begleitendes Seminar 
+10 ECTS-Punkte 
+ 
+Empirische Bildungsforschung 
+Quantitative Methoden 
+5 ECTS-Punkte 
+15 ECTS 
+4 
+Empirische Bildungsforschung: Qualitativ-hermeneutische Methoden 
+5 ECTS-Punkte 
+ 
+Praktikum I (4 Wo) einschl. begleitendes Seminar 
+10 ECTS-Punkte 
+15 ECTS 
+3 
+ 
+Geschichte und Theorien von Bildung und 
+Erziehung 
+5 ECTS-Punkte 
+Grundlagen der Persönlichkeitsbildung 
+5 ECTS-Punkte 
+ 
+Erwachsenenpädagogische Handlungskompetenz 
+II 
+5 ECTS-Punkte 
+15 ECTS 
+
+[Page 3]
+2 
+Bildungsphilosophie und Politische Theorie 
+5 ECTS-Punkte 
+ 
+Erwachsenenpädagogische Handlungskompetenz 
+I 
+5 ECTS-Punkte 
+ 
+Lehren und Lernen mit Digitalen Medien 
+5 ECTS-Punkte 
+15 ECTS 
+1 
+Einführung in das pädagogische Handeln 
+5 ECTS-Punkte 
+ 
+ 
+Einführung in die digitale Bildung 
+5 ECTS-Punkte 
+Einführung in die Berufs- und Kompetenzfelder 
+5 ECTS-Punkte 
+15 ECTS

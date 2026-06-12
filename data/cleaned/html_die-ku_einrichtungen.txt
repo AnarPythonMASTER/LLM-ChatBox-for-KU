@@ -1,0 +1,28 @@
+SOURCE_URL: https://www.ku.de/die-ku/einrichtungen
+TITLE: Einrichtungen – KU
+SOURCE_FILE: die-ku_einrichtungen.html
+------------------------------------------------------------
+
+Einrichtungen
+An der Katholischen Universität Eichstätt-Ingolstadt gibt es
+sechs Zentrale Einrichtungen
+, die Dienstleistungen für die gesamte Universität übernehmen und damit zu den guten Arbeitsbedingungen an der KU für Studierende und Forschende beitragen. Hinzu kommen die Einrichtungen der
+Zentralverwaltung
+sowie die
+universitären Gremien
+und
+Beauftragte
+.
+Bibliothek
+Rechenzentrum
+Universitätsarchiv
+Sprachenzentrum
+Sportzentrum
+Zentrum für Lehrerinnen- und Lehrerbildung
+Sonstige Einrichtungen
+Neben den oben genannten Zentralen Einrichtungen gibt es noch weitere Einrichtungen an der KU:
+Forschende Institutionen
+Zentrum für Forschungsförderung
+Hochschulambulanz
+Wissenschaftliche Weiterbildung
+Jura-Museum Eichstätt

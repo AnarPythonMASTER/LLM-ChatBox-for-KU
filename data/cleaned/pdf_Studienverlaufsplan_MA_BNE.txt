@@ -1,0 +1,45 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_MA_BNE.pdf
+TITLE: Studienverlaufsplan_MA_BNE.pdf
+SOURCE_FILE: Studienverlaufsplan_MA_BNE.pdf
+------------------------------------------------------------
+
+[Page 1]
+Idealtypischer Studienverlauf 
+4. 
+Semester 
+Masterarbeit und Abschlusskolloquium 
+3. 
+Semester 
+Wirtschaftsgeographie: 
+Nachhaltige 
+Regionalentwicklung 
+und –planung 
+Wahlpflichtmodul 
+Wahlpflichtmodul 
+Studium.Pro 
+Wahlpflichtmodul 
+BNE- 
+Berufspraktikum 
+2. 
+Semester 
+BNE-Großes Geländeseminar 
+Theologisch-ethische 
+Aspekte einer Bildung für 
+Nachhaltigkeit 
+Wahlpflichtmodul 
+Projektseminar BNE 
+1. 
+Semester 
+Nachhaltige 
+Entwicklung - 
+aus der Perspektive 
+versch. Fächer 
+Nachhaltige 
+Umwelt- 
+entwicklung 
+Wahlpflichtmodul 
+Globale Entwicklungs- 
+probleme 
+Grundlagen der Bildung für 
+nachhaltige Entwicklung 
+Stand: Mai 2025

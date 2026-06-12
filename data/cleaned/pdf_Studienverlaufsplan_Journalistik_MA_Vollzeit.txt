@@ -1,0 +1,94 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Journalistik_MA_Vollzeit.pdf
+TITLE: Studienverlaufsplan_Journalistik_MA_Vollzeit.pdf
+SOURCE_FILE: Studienverlaufsplan_Journalistik_MA_Vollzeit.pdf
+------------------------------------------------------------
+
+[Page 1]
+Masterstudiengang Journalistik mit Schwerpunkt Innovation und Management
+Semester 
+ Module 
+1 
+Eingangs- 
+phase 
+30/12-14 
+Wahlpflichtbereich (insgesamt 10 cp) 
+Kommunikationswissenschaft Politik und Soziologie 
+ Wirtschaft 
+Journalistik/Kommunikations- und 
+Medienwissenschaft
+5 cp 
+2 
+30/12 
+3 
+30/12 
+4 
+30 
+2 SWS Vorlesung
+Qualität und Qualitätsforschung
+2 SWS Seminar 
+5 cp 
+Aussagenproduktion und 
+Berichterstattungsformate 
+2 SWS Seminar 
+2 SWS Übung 
+5 cp 
+Corporate Social Responsibility, 
+Verantwortung und Kommunikation 
+2 SWS Seminar 
+5 cp 
+Organisations- 
+und 
+Formatentwicklung
+2 SWS Seminar 
+2 SWS Übung
+10 cp 
+Mitarbeiterführung 
+2 SWS Seminar 
+5 cp 
+Empirische 
+Medienforschung II 
+2 SWS Seminar
+5 cp 
+Medienwirtschaft, Medien-
+management, Innovation
+2 SWS Seminar 
+5 cp 
+Entwicklung innovativer 
+Formate
+4 SWS Seminar
+10 cp 
+Strategisches Management
+2 SWS Übung
+5 cp 
+Medien- und Arbeitsrecht
+2 SWS Seminar
+5 cp 
+Organisation von Redaktionen und Medien
+4 SWS Seminar
+10 cp 
+Masterarbeit
+1 SWS Seminar
+30 cp 
+Politik und Soziologie
+Aufbaumodul Politische
+Theorie und Philosophie
+Fortgeschrittene
+Soziologische Theorie
+Fortgeschrittene Prozess-
+orientierte Soziologie
+je 5 cp
+Vergleichende
+Politikwissenschaft
+5 cp/10 cp
+Empirische 
+Medienforschung I 
+2 SWS Seminar
+5 cp 
+BWL I 
+4 SWS Vorlesung/Übung
+5 cp 
+Microökonomie I 
+4 SWS Vorlesung/Übung
+5 cp 
+Studium Pro 
+5 cp

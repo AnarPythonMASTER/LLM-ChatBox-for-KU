@@ -1,0 +1,45 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_TSG_Geographie_Humangeographie.pdf
+TITLE: Wahlpflichtkatalog_TSG_Geographie_Humangeographie.pdf
+SOURCE_FILE: Wahlpflichtkatalog_TSG_Geographie_Humangeographie.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Teilstudiengang 
+Humangeographie im flexiblen Profil 
+ 
+1. nach § 4 Abs. 2 der Fachprüfungsordnung Geographie in der Fassung vom 
+TT.MM.JJJJ 
+2. Geltungsbereich zum WiSe 2024/25 
+ 
+3. vom Fakultätsrat der Fakultät Mathematisch-Geographischen Fakultät beschlossen 
+am 04.07.2023 
+ 
+ 
+Auflistung der Wahlpflichtmodule 
+Modulangebot im Wahlpflichtbereich Geographie 
+ 
+a) Gesellschaft und Umwelt, V4-H: 5 ECTS-Punkte; Modulprüfung: siehe BA Geographie; 
+b) Humangeographie 3, V1-H: 5 ECTS-Punkte; Modulprüfung: siehe BA Geographie; 
+c) Humangeographie 4, V5-H: 5 ECTS-Punkte; Modulprüfung: Hausarbeit mit Präsentation; 
+d) Wissenschaftstheorie und Methodologie, W5-H: 5 ECTS-Punkte; Modulprüfung: siehe BA 
+Geographie; 
+e) Methoden der Geographie 3: Empirische Methoden und kleines Projekt: 5 ECTS-Punkte, 
+Modulprüfung: siehe BA Geographie; 
+f) 
+Spezielle Methoden und große Projektarbeit in der Human- und Wirtschaftsgeographie, S1-
+H: 10 ECTS-Punkte; Modulprüfung: siehe BA Geographie, Anwesenheitspflicht im 
+Geländeseminar; 
+g) Großes Geländeseminar: 10 ECTS-Punkte, Modulprüfung: siehe BA Geographie, 
+(unbenotet); 
+h) Geographische Entwicklungsforschung (Entwicklungsprobleme), W4-H, 5 ECTS- Punkte; 
+Modulprüfung: siehe BA Geographie, (benotet); 
+i) 
+Auswertung und große Projektarbeit in der Human- und Wirtschaftsgeographie, S4-H: 
+5 ECTS-Punkte; Modulprüfung: siehe BA Geographie; 
+j) 
+Grundlagen der Raumordnung, Landes- und Regionalplanung, W3-H: 5 ECTS- Punkte; 
+Modulprüfung: siehe BA Geographie (unbenotet); 
+k) Mediengeographie und Techniken der Filmerstellung, W2-H: 5 ECTS-Punkte; 
+Modulprüfung: siehe BA Geographie (benotet).

@@ -1,0 +1,98 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Geographie_Humangeographie_Flex.pdf
+TITLE: Studienverlaufsplan_Geographie_Humangeographie_Flex.pdf
+SOURCE_FILE: Studienverlaufsplan_Geographie_Humangeographie_Flex.pdf
+------------------------------------------------------------
+
+[Page 1]
+1. Semester
+2. Semester
+3. Semester
+4. Semester
+5. Semester
+6. Semester
+Einführung 
+in die Geographie
+5 CP
+Humangeographie 1
+5 CP
+Humangeographie 2
+5 CP
+Regionale 
+Entwicklung
+5 CP
+Gesellschaft 
+und Umwelt
+5 CP
+Humangeographie 3
+5 CP
+Humangeographie 4
+5 CP
+Empirische Methoden 
+und kleines Projekt
+5 CP
+Spezielle Methoden und große Projektarbeit
+10 CP
+Großes Geländeseminar
+10 CP
+Geographische 
+Entwicklungs-
+forschung
+5 CP
+Wahlpflichtmodul
+Pflichtmodul
+Idealtypischer Studienverlaufsplan im Teilstudiengang 
+Humangeographie im flexiblen Profil (Vollzeit)
+BA-Arbeit
+10 CP
+Wissenschaftliches 
+Kolloquium zur 
+Bachelorarbeit
+5 CP
+Fach 2
+5 CP
+Fach 2
+5 CP
+Fach 2
+5 CP
+Fach 2
+5 CP
+Fach 2
+5 CP
+Fach 2
+5 CP
+Praktikum
+5 CP
+Fach 2
+5 CP
+Fach 2
+5 CP
+Studium
+Individuale
+5 CP
+Fach 2
+5 CP
+Fach 2
+5 CP
+Fach 2
+5 CP
+Fach 2
+5 CP
+Studium
+Individuale
+5 CP
+Studium
+Pro
+5 CP
+Studium
+Pro
+5 CP
+Studium
+Individuale
+5 CP
+Studium
+Individuale
+5 CP
+Studium
+Individuale
+5 CP
+03/2024

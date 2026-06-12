@@ -1,0 +1,624 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_BA_BWL.pdf
+TITLE: Studiengangsbeschreibung_BA_BWL.pdf
+SOURCE_FILE: Studiengangsbeschreibung_BA_BWL.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status v2/2024-10 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den 
+Bachelorstudiengang Betriebswirtschaftslehre 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+A. Allgemeine Struktur des Studiengangs .................................................................. 2 
+B. Beschreibung des Studiengangs 
+........................................................................... 3 
+1. Der Studiengang in drei Sätzen 
+.......................................................................... 3 
+2. Zielgruppe ......................................................................................................... 3 
+C. Studiengangskonzept ........................................................................................... 3 
+1. Struktur des Studiengangs 
+................................................................................. 3 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+........................................................ 3 
+1.2. 
+Qualifikationsziele ........................................................................................ 3 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten .................................................... 4 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder ........................................................ 4 
+2. Aufbau des Studiengangs 
+.................................................................................. 5 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+...................................................... 5 
+2.2. 
+Pflichtbereich 
+.................................................................................................. 5 
+2.3. 
+Wahlpflichtbereich .......................................................................................... 5 
+2.4. 
+Wahlbereich ................................................................................................... 6 
+2.5. 
+Studium.Pro ................................................................................................... 6 
+2.6. 
+Praxisbezug.................................................................................................... 6 
+2.7. 
+Ausgestaltung der Internationalisierung 
+........................................................... 7 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre ...................................................................................................... 7 
+Idealtypischer Studienverlaufsplan ............................................................................... 8 
+Idealtypischer Studienverlaufsplan im Doppelprogramm 
+............................................... 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 2]
+Status v2/2024-10 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Name des Studiengangs: 
+ 
+Betriebswirtschaftslehre 
+ 
+ 
+Verantwortliche Fakultät: 
+ 
+Wirtschaftswissenschaftliche Fakultät 
+ 
+Weitere beteiligte Fakultät/en: 
+ 
+Mathematisch-Geographische Fakultät 
+ 
+Akademischer Grad: 
+Bachelor of Science 
+ 
+Studienform: 
+ 
+☒ Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☐ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+ 
+☒ grundständig 
+☐ konsekutiv 
+☐ weiterbildend 
+ 
+Regelstudienzeit: 
+6 Semester (Vollzeit) 
+ 
+ 
+Studienbeginn: 
+ 
+☐ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-
+Leistungspunkte: 
+180 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+☒ Nein 
+☐ Ja, € pro Semester 
+ 
+ 
+ 
+ 
+ 
+
+[Page 3]
+Status v2/2024-10 
+ 
+ 
+ 
+3 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in drei Sätzen 
+Ziel des Studiengangs ist es, den Studierenden fundierte Grundkenntnisse des Faches zu 
+vermitteln und diese zu qualifizieren, Führungs- und Fachaufgaben im nationalen und 
+internationalen Umfeld verantwortungsbewusst, sozial- und fachkompetent zu erfüllen. 
+Durch Schwerpunkte, die auf das Berufsfeld der Absolventinnen und Absolventen 
+ausgerichtet sind und interdisziplinäre Bezüge beinhalten, erlangen die Studierenden 
+einschlägige Fach- und Methodenkenntnisse in den Studienbereichen, welche dem 
+beruflichen Selbstbild entsprechen. 
+ 
+ 
+2. Zielgruppe 
+Engagierte Interessentinnen und Interessenten mit allgemeiner bzw. fachgebundener 
+Hochschulreife, die sich für wirtschaftliche und interdisziplinäre Fragestellungen 
+interessieren. 
+ 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+Voraussetzung für die Aufnahme des Bachelorstudiums Betriebswirtschaftslehre ist eine 
+allgemeine oder fachgebundene Hochschulreife. Derselbe oder ein inhaltlich 
+vergleichbarer Studiengang darf nicht endgültig nicht bestanden sein. 
+ 
+Wenn die jährlich erlassene Zulassungszahlensatzung der KU eine Beschränkung der 
+Anzahl der Studienplätze für diesen Studiengang vorsieht, erfolgt die Vergabe nach 
+Maßgabe der „Satzung über die Durchführung eines Auswahlverfahrens bei der 
+Studienplatzvergabe 
+für 
+den 
+Bachelorstudiengang 
+Betriebswirtschaftslehre 
+der 
+Katholischen Universität Eichstätt-Ingolstadt“. 
+ 
+1.2. 
+Qualifikationsziele 
+Absolventinnen und Absolventen 
+- 
+verfügen über grundlegende Kenntnisse in den verschiedenen Teilbereichen der 
+Betriebswirtschaftslehre, der Volkswirtschaftslehre und des Rechts, 
+- 
+verfügen über einen umfassenden Überblick über grundlegende Zusammenhänge im 
+Bereich Internationalisierung, Führung und Organisation von Unternehmen, 
+- 
+verfügen über ein breites Spektrum an Methoden zur Bearbeitung komplexer 
+wirtschaftswissenschaftlicher Probleme, 
+
+[Page 4]
+Status v2/2024-10 
+ 
+ 
+ 
+4 
+- 
+sind in die Lage, eine Forschungsfrage strukturiert zu bearbeiten, unterschiedliche 
+wissenschaftliche Perspektiven miteinander zu verknüpfen und Handlungs-
+implikationen abzuleiten, 
+- 
+sind in die Lage, ethische Probleme auf gesellschaftlicher und unternehmerischer 
+Ebene zu erkennen, adäquat zu analysieren, Problemlösungen zu entwickeln und 
+diese eigenständig auf neue Sachverhalte zu übertragen, 
+- 
+können komplexe Fragestellungen und Lösungsansätze anschaulich und empfänger-
+orientiert formulieren und Botschaften anderer richtig interpretieren, 
+- 
+haben die Fähigkeiten erworben, im Team zu arbeiten, sich zu koordinieren und 
+Kompromisse zu erarbeiten sowie die Leitung eines Teams zu übernehmen, 
+- 
+besitzen Fremdsprachenkompetenz Englisch; sie erwerben umfassendes wirt-
+schaftliche Fachvokabular und können die Sprache im gesellschaftlichen und 
+beruflichen Leben wirksam und flexibel gebrauchen und sich klar, strukturiert und 
+ausführlich zu komplexen Sachverhalten äußern (mindestens B2+-Niveau), 
+- 
+verfügen über Kenntnisse von Präsentationstechniken sowie Selbst- und Zeit-
+managementkompetenzen, 
+- 
+können selbständig Ziele für Lern- und Arbeitsprozesse definieren, reflektieren und 
+bewerten und Lern- und Arbeitsprozesse eigenständig und nachhaltig gestalten, 
+- 
+besitzen die Fähigkeit, Fach-und Führungsfunktionen in nationalen und internationalen 
+Unternehmen 
+und 
+Organisationen 
+verantwortungsbewusst, 
+sozial- 
+und 
+fachkompetent zu erfüllen. 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Absolventinnen und Absolventen werden im Verlauf ihres Studiums zu einem 
+weiterführenden Masterstudium befähigt, beispielsweise für die Masterstudiengänge 
+„Betriebswirtschaftslehre“, „Taxation“ oder „Business and Psychology“ der WFI. 
+ 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+Aufgrund der breitangelegten betriebswirtschaftlichen Ausbildung stehen Absolventinnen 
+und Absolventen eine Vielzahl möglicher Berufsfelder offen: 
+ 
+alle Studienschwerpunkte: 
+- 
+Fach- und Führungspositionen in nationalen und internationalen Unternehmen und 
+Organisationen, 
+- 
+Masterstudium und weitere akademische Laufbahn im In- oder Ausland. 
+Schwerpunkt Marketing, Management and Logistics: 
+- 
+Tätigkeiten in der (internationalen) Strategieberatung, 
+- 
+Tätigkeiten in der strategischen Planung und Unternehmensentwicklung, 
+- 
+Tätigkeiten im Marketing-, Produkt- und Dienstleistungsmanagement. 
+
+[Page 5]
+Status v2/2024-10 
+ 
+ 
+ 
+5 
+- 
+Expertinnen/Experten in einem der Funktionsbereiche Logistik, Produktion und 
+Einkauf oder im wachsenden Markt für operative und/oder strategische Logistik-
+beratung, 
+- 
+Tätigkeiten im Informationsmanagement. 
+Schwerpunkt Financial Management: 
+- 
+Tätigkeiten in der Wirtschaftsprüfung, Steuerberatung, im Controlling-Bereich und in 
+Banken bzw. Kapitalanlagegesellschaften, 
+- 
+Tätigkeiten in Finanzabteilungen von Unternehmen und Unternehmensberatungen. 
+Schwerpunkt International Business and Economics: 
+- 
+Tätigkeiten in Strategieabteilungen oder im General Management von Unternehmen, 
+Tätigkeiten in öffentlichen Einrichtungen, Ministerien oder internationalen Organisa-
+tionen.Schwerpunkt Wirtschaft und Psychologie: 
+- Tätigkeiten in der Personalarbeit oder Mitarbeiter/-innenführung, 
+- Querschnittsaufgaben in Wirtschaft und Beruf. 
+ 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Die Regelstudienzeit des Bachelors of Science „Betriebswirtschaftslehre“ beträgt sechs 
+Semester, wobei die Möglichkeit besteht, ein Semester an einer Partnerhochschule im 
+Ausland zu verbringen. 
+ 
+Insgesamt sind 180 ECTS-Punkte zu erwerben, die sich auf einen Pflichtbereich, einen 
+Wahlpflichtbereich und einen Wahlbereich sowie die Bachelor-Thesis verteilen. Details 
+sind in der Prüfungsordnung festgelegt. Zudem sind der Aufbau des Studiums und der 
+Aufbau des Wahlpflichtbereichs im beigefügten Studienplan ersichtlich. 
+ 
+2.2. 
+Pflichtbereich 
+Im Pflichtbereich sind von den Studierenden Module aus den Bereichen Betriebs-
+wirtschaftslehre, Volkswirtschaftslehre, Recht, Quantitative Methoden und Corporate 
+Governance zu erbringen. Die Module des Pflichtbereichs sind in der Anlage der 
+Prüfungsordnung spezifiziert. Das Seminar zum wissenschaftlichen Arbeiten legt die 
+Grundlagen zur Erstellung von Seminar- und Abschlussarbeiten. 
+ 
+2.3. 
+Wahlpflichtbereich 
+Im Wahlpflichtbereich müssen die Studierenden Module aus den folgenden Bereichen 
+absolvieren: 
+- 
+Wirtschaftssprache und Soft Skills 
+- 
+Studienschwerpunkt 
+- 
+Studium.Pro. 
+Die genaue Verteilung ist der Prüfungsordnung zu entnehmen. 
+ 
+
+[Page 6]
+Status v2/2024-10 
+ 
+ 
+ 
+6 
+Es werden derzeit folgende Schwerpunkte angeboten: 
+- 
+Marketing, Management and Logistics 
+- 
+Financial Management 
+- 
+International Business and Economics 
+ 
+Der Wahlpflichtbereich umfasst alle Module aus den Fachgebieten des jeweiligen 
+Studienschwerpunkts, die im Wahlpflichtkatalog festgelegt sind. Für die Studienschwer-
+punkte können Pflichtmodule festgelegt werden (vgl. Anlage Studienplan). 
+ 
+ 
+2.4. 
+Wahlbereich 
+Der Wahlbereich dient zur Gewinnung von über den Schwerpunkt hinausgehenden 
+Kompetenzen. Im Wahlbereich werden Module im Umfang von 20 ECTS-Punkten aus 
+dem gesamten Lehrprogramm der Bachelorstudiengänge an der WFI bzw. an der 
+Partneruniversität eingebracht. Der oder die Studierende kann zusätzlich aus einer 
+definierten Liste an Modulen anderer Bachelorstudiengänge der WWF wählen. 
+ 
+ 
+2.5. 
+Studium.Pro 
+Integriert im Wahlpflichtbereich 
+ 
+2.6. 
+Praxisbezug 
+Die Konzeption des Studiengangs eröffnet ausreichend Freiräume, um Praktika in den 
+vorlesungsfreien Zeiten zu integrieren. Insbesondere werden Modulprüfungen (mit Aus-
+nahme der innovativen Prüfungsformen) in zwei Zeiträumen je Semester angeboten, um 
+eine flexible Planung von Praktika zu ermöglichen. 
+ 
+Eine praxisnahe Ausbildung wird zudem durch die regelmäßige Einbeziehung von 
+Lehrbeauftragten und Gastrednerinnen und -rednern aus der Praxis gewährleistet. Dabei 
+sind die Gastvorträge sowohl in Lehrveranstaltungen als auch als separate Termine im 
+Semesterkalender eingebettet. Darüber hinaus bietet sich für die Studierenden in regel-
+mäßigen Abständen die Möglichkeit, an Projekten und Workshops teilzunehmen, die 
+gemeinsam mit Unternehmen angeboten werden und in denen häufig berufsnahe 
+Aufgabenstellungen behandelt werden. 
+ 
+Auch ist es möglich, die Bachelorarbeit in Zusammenarbeit mit einem Praxispartner zu 
+schreiben. 
+ 
+Zudem kann der Studiengang als Studium mit vertiefter Praxis studiert werden. Hierzu 
+kooperiert die Fakultät mit ausgewählten Praxispartnern, etwa zur konkreten 
+Ausgestaltung der Praxisphasen. Dabei bleibt der idealtypische Studienverlaufsplan 
+unverändert. Die Praxisphasen finden während der vorlesungsfreien Zeit statt. 
+Falls vom Praxispartner gewünscht kann vereinbart werden, dass die 
+Lehrveranstaltungen an vier Tagen die Woche sowie einzelnen Blockterminen 
+stattfinden. Details sind in den jeweiligen Kooperationsvereinbarungen festgelegt. 
+
+[Page 7]
+Status v2/2024-10 
+ 
+ 
+ 
+7 
+2.7. 
+Ausgestaltung der Internationalisierung 
+Es besteht die Möglichkeit, einen Teil des Studiums im Ausland zu absolvieren. Die 
+Studierenden profitieren dabei von der hohen Anzahl an Partneruniversitäten der 
+Universität und der Fakultät. Für Incoming-Studierende besteht ein breites 
+englischsprachiges Studienangebot. Weitere internationale Elemente sind: 
+• Verwendung von – vornehmlich englischsprachiger – Fachliteratur, 
+• Vermittlung von Fremdsprachen- und interkultureller Kompetenz, 
+• internationale Gastprofessorinnen und –professoren 
+ 
+Es besteht die Möglichkeit das Studium im Rahmen eines Doppelstudiengangs nach 
+Vereinbarungen mit den Partnerhochschulen zu studieren. Dabei verbringen die 
+Studierenden die ersten drei Studiensemestern an der Partnerhochschule und im 
+Anschluss mindestens drei Studiensemester an der WFI. Details bezüglich der zu 
+belegenden Module sind in den jeweiligen Kooperationsvereinbarungen festgelegt. 
+ 
+ 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage 
+des Leitbilds für Studium und Lehre 
+ 
+• Der Studiengang verbindet einen hohen wissenschaftlichen Anspruch mit 
+konsequenter Praxisorientierung (in allen Schwerpunkten). 
+• Die Studienschwerpunkte sind interdisziplinär ausgerichtet und setzen sich aus 
+verschiedenen Fachgebieten zusammen. 
+• Unterstützung der Persönlichkeitsentwicklung durch ein Angebot an Corporate 
+Governance Kursen und von Studium.Pro im Curriculum. 
+ 
+
+[Page 8]
+Status v2/2024-10 
+ 
+ 
+ 
+8 
+Anlage: 
+Idealtypischer Studienverlaufsplan 
+ 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+Arbeitsrecht 
+(5 ECTS-
+Punkte) 
+Grundlagen des 
+Controllings 
+(5 ECTS-Punkte) 
+Operations 
+Analytics 
+(5 ECTS-Punkte) 
+Begleitseminar BA 
+(5 ECTS-Punkte) 
+Bachelorarbeit (10 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+5 
+Company 
+Taxation in the 
+EU 
+ (5 ECTS-
+Punkte) 
+Konzern-
+rechnungslegung 
+(5 ECTS-Punkte) 
+Öffentliche 
+Finanzen und 
+Nachhaltige 
+Wirtschaftspolitik 
+(5 ECTS-Punkte) 
+Performance 
+Measurement 
+(5 ECTS-Punkte) 
+Wirtschafts- und 
+Unternehmensethik 
+(5 ECTS-Punkte) 
+Business Fiction 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+4 
+Corporate 
+Governance 
+ (5 ECTS-
+Punkte) 
+Makroökonomie 
+(5 ECTS-Punkte) 
+Corporate 
+Finance 
+(5 ECTS-Punkte) 
+Digital Systems 
+ (5 ECTS-Punkte) 
+Wissenschaftliches 
+Arbeiten 
+(5 ECTS-Punkte) 
+Wirtschafts-
+sprache/ Soft 
+Skills 
+ (5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+3 
+Sustainable 
+Operations 
+Management 
+(5 ECTS-
+Punkte) 
+Investition, 
+Finanzierung und 
+Kapitalmarkt 
+(5 ECTS-Punkte) 
+Digital and 
+Sustainable 
+Business Modells 
+(5 ECTS-Punkte) 
+Statistik II 
+ (5 ECTS-Punkte) 
+Wirtschaftsrecht 
+(5 ECTS-Punkte) 
+Studium.Pro: 
+Ringvorlesung 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+2 
+Management 
+& HR (5 
+ECTS-Punkte) 
+Marketing & 
+Management 
+(5 ECTS-Punkte) 
+Mikroökonomie 
+ (5 ECTS-Punkte) 
+Statistik I (5 ECTS-Punkte) 
+Unternehmenssteuern 
+(5 ECTS-Punkte) 
+Wirtschafts-
+sprache/ Soft 
+Skills 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+1 
+Business Essentials: (Entdecke) 
+Die Welt der BWL (10 ECTS 
+Punkte) 
+Einführung in die 
+Volkswirtschafts-
+lehre (5 ECTS-
+Punkte) 
+Mathematik für 
+Wirtschaftswissenschaftler 
+(5 ECTS-Punkte) 
+Betriebliches 
+Rechnungswesen (5 
+ECTS-Punkte) 
+Wirtschafts-
+sprache/ Soft 
+Skills 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+Hinweis: Gelb markierte Module stellen Schwerpunkt-Module dar. 
+ 
+
+[Page 9]
+Status v2/2024-10 
+ 
+ 
+ 
+9 
+Idealtypischer Studienverlaufsplan im Doppelprogramm 
+ 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+Elective 
+(5 ECTS-Punkte) 
+Elective 
+(5 ECTS-Punkte) 
+Business 
+Language and 
+Soft Skills 
+(5 ECTS-Punkte) 
+Scientific Coaching for the 
+Bachelor Thesis 
+(5 ECTS-Punkte) 
+Bachelor Thesis (10 ECTS-Punkte) 
+30 ECTS-
+Points 
+5 
+Mandatory 
+Elective 
+ (5 ECTS-Punkte) 
+Mandatory 
+Elective 
+(5 ECTS-Punkte) 
+Mandatory 
+Elective 
+(5 ECTS-Punkte) 
+Digital and Sustainable 
+Business Models 
+(5 ECTS-Punkte) 
+Mandatory Elective 
+(5 ECTS-Punkte) 
+Business 
+Language and 
+Soft Skills 
+(5 ECTS-Punkte) 
+30 ECTS-
+Points 
+4 
+Corporate 
+Governance 
+ (5 ECTS-Punkte) 
+Mandatory 
+Elective 
+(5 ECTS-Punkte) 
+Corporate 
+Finance 
+(5 ECTS-Punkte) 
+Digital Systems 
+ (5 ECTS-Punkte) 
+Academic and 
+Scientific Skills 
+(5 ECTS-Punkte) 
+Studium.Pro 
+ (5 ECTS-
+Punkte) 
+30 ECTS-
+Points 
+3 
+Courses at UT Capitole (TSM) 
+90 ECTS- 
+Points 
+2 
+1 
+Hinweis: Gelb markierte Module stellen Schwerpunkt-Module dar.

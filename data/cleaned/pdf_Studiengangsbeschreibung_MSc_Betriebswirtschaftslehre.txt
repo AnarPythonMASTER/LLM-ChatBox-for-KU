@@ -1,0 +1,497 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_MSc_Betriebswirtschaftslehre.pdf
+TITLE: Studiengangsbeschreibung_MSc_Betriebswirtschaftslehre.pdf
+SOURCE_FILE: Studiengangsbeschreibung_MSc_Betriebswirtschaftslehre.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status 12/2025_02 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den 
+M.Sc. Betriebswirtschaftslehre 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+A. Allgemeine Struktur des Studiengangs .................................................................. 2 
+B. Beschreibung des Studiengangs 
+........................................................................... 4 
+1. 
+Der Studiengang in drei Sätzen ......................................................................... 4 
+2. 
+Zielgruppe ........................................................................................................ 4 
+C. Studiengangskonzept ........................................................................................... 5 
+1. 
+Struktur des Studiengangs 
+................................................................................ 5 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen ...................................................... 5 
+1.2. 
+Qualifikationsziele 
+....................................................................................... 5 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+................................................... 6 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+....................................................... 6 
+2. 
+Aufbau des Studiengangs ................................................................................. 7 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs .................................................... 7 
+2.2. 
+Pflichtbereich ................................................................................................ 8 
+2.3. 
+Wahlpflichtbereich ......................................................................................... 8 
+2.4. 
+Wahlbereich .................................................................................................. 8 
+2.5. 
+Studium.Pro 
+.................................................................................................. 9 
+2.6. 
+Praxisbezug .................................................................................................. 9 
+2.7. 
+Ausgestaltung der Internationalisierung 
+.......................................................... 9 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre .................................................................................................... 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 2]
+Status 12/2025_02 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Der Name des Studiengangs lautet 
+ 
+M. Sc. Betriebswirtschaftslehre 
+ 
+Verantwortliche Fakultät: 
+ 
+Wirtschaftswissenschaftliche Fakultät 
+ 
+Beteiligte Fakultät/en: 
+ 
+Mathematisch-Geographische Fakultät 
+Geschichts- und Gesellschaftswissenschaftliche Fakultät 
+Philosophisch-Pädagogische Fakultät 
+ 
+ 
+Der Studiengang führt zur Verleihung des akademischen Grades: 
+ 
+Master of Science; 
+Bei den Doppelabschlussprogrammen in den internationalen Studienschwerpunkten 
+zusätzlich: 
+Schwerpunkt Internationale Betriebswirtschaftslehre: Master of Science (TBS); PGDM 
+(Rajagiri Business School); 
+Schwerpunkt Digital Customer Experience & Service Design: Diplôme de l’Université 
+(TSM) 
+ 
+ 
+ 
+Studienform: 
+☒ Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☐ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+☐ grundständig 
+☒ konsekutiv 
+☐ weiterbildend 
+ 
+(gilt nur für Masterstudiengänge): 
+
+[Page 3]
+Status 12/2025_02 
+ 
+ 
+ 
+3 
+☐ anwendungsorientiert 
+☒ forschungsorientiert 
+ 
+Regelstudienzeit: 
+4 Semester (Vollzeit) 
+ 
+ Semester (Teilzeit) 
+ 
+ 
+Studienbeginn: 
+☐ Sommersemester 
+☐ Wintersemester 
+☒ Jedes Semester; Schwerpunkte Internationale Betriebswirtschaftslehre und 
+Digital Customer Experience & Service Design: zum Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-Leistungspunkte: 
+120 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+ 
+☒ Nein 
+☐ Ja 
+ 
+ 
+ 
+ 
+
+[Page 4]
+Status 12/2025_02 
+ 
+ 
+ 
+4 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in drei Sätzen 
+Ziel des Studiengangs ist es, den Studierenden, aufbauend auf den fundierten 
+Grundkenntnissen des Faches, ein vertieftes Wissen der Betriebswirtschaftslehre in 
+ausgewählten Schwerpunkten zu vermitteln. Mit Blick auf die Beschäftigungsfähigkeit 
+der Absolventinnen und Absolventen kommt der Flexibilität und Wahlmöglichkeit große 
+Bedeutung zu. Auch das wissenschaftliche Fundament, die wirtschafts- und unter-
+nehmensethische sowie die internationale Ausrichtung ergeben sich hieraus. 
+ 
+2. Zielgruppe 
+Der Masterstudiengang Betriebswirtschaftslehre an der WFI richtet sich an 
+leistungsfähige und engagierte Studierende sowie Absolventinnen und Absolventen, 
+welche einen ersten Hochschulabschluss in einem wirtschaftswissenschaftlich 
+ausgerichteten Studiengang und das Eignungsverfahren absolviert haben. 
+Zielgruppe des Studienganges sind Absolventinnen und Absolventen eines Bachelor-
+Studiums, die ihre bisherigen Fach- und Methodenkenntnisse vertiefen und ergänzen 
+möchten, aus den Fachrichtungen Betriebswirtschaftslehre, Volkswirtschaftslehre, 
+Wirtschaftspädagogik, 
+Wirtschaftsmathematik, 
+Wirtschaftsinformatik, 
+Wirtschafts-
+ingenieurwesen sowie vergleichbarer Studiengänge, welche die erforderlichen 
+wirtschaftswissenschaftlichen Grundkenntnisse erwarten lassen. 
+ 
+ 
+
+[Page 5]
+Status 12/2025_02 
+ 
+ 
+ 
+5 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+Die Qualifikation für diesen Studiengang wird nachgewiesen durch einen ersten 
+berufsqualifizierenden Hochschulabschluss in einem wirtschaftswissenschaftlich ausge-
+richteten Studiengang und die Absolvierung eines Eignungsverfahrens. Für den 
+Schwerpunkt „Internationale BWL“ zusätzlich Nachweis über GMAT oder GRE, 
+erforderlich. 
+ 
+Wenn die jährlich durch die Universität festgelegten Zulassungszahlen eine Beschränkung 
+der Anzahl der Studienplätze für diesen Studiengang oder für einzelne Studien-
+schwerpunkte vorsieht, erfolgt die Vergabe nach Maßgabe der „Satzung über die 
+Durchführung eines Auswahlverfahrens bei der Studienplatzvergabe für den Master-
+studiengang Betriebswirtschaftslehre der Katholischen Universität Eichstätt-Ingolstadt“. 
+Darüber hinaus sind für die Studienschwerpunkte Entrepreneurship & Innovation, Inter-
+nationale BWL und Digital Customer Experience & Service Design Sprachnachweise in 
+Deutsch (A2-Niveau) und Englisch (B2-Niveau) zu erbringen und bis spätestens Ende des 
+ersten Studienjahres nachzuweisen. Für das Doppelabschlussprogramm mit der 
+Toulouse 
+Business 
+School 
+im 
+Studienschwerpunkt 
+„Internationale 
+Betriebswirtschaftslehre“ und mit der Universität Toulouse im Studienschwerpunkt 
+„Digital Customer Experience & Service Design“ sind zusätzlich Französischkenntnisse 
+auf Niveau A2 (Europäischer Referenzrahmen) zu erbringen und bis spätestens Ende des 
+ersten Studienjahres nachzuweisen. Für die übrigen Studienschwerpunkte gelten die 
+Regelungen in § 3 Abs. 2 Satz 1 Nr. 4 der Immatrikulations-, Rückmelde- und 
+Exmatrikulationssatzung der Katholischen Universität Eichstätt-Ingolstadt. 
+ 
+ 
+1.2. 
+Qualifikationsziele 
+Die Studierenden … 
+− werden befähigt, Führungs- und Fachaufgaben im nationalen und internationalen 
+Umfeld verantwortungsbewusst, sozial- und fachkompetent zu erfüllen, 
+− lernen, eine Forschungsfrage strukturiert zu bearbeiten, unterschiedliche wissen-
+schaftliche Perspektiven miteinander zu verknüpfen und daraus Handlungs-
+implikationen abzuleiten 
+− lernen, wissenschaftliche Stringenz mit praxisorientiertem Denken zu verbinden, 
+− lernen, ethische und gesellschaftliche Implikationen unternehmerischer Ent-
+scheidungen zu reflektieren, 
+− erwerben wichtige Soft Skills im kommunikativen Bereich, 
+− erwerben Fremdsprachen- und interkulturelle Kompetenz, 
+− erweitern ihre Kenntnisse von Präsentationstechniken, Teamwork sowie Selbst- 
+und Zeitmanagement, 
+− lernen interdisziplinär zu denken und zu handeln. 
+ 
+Schwerpunktspezifische Kompetenzen: 
+
+[Page 6]
+Status 12/2025_02 
+ 
+ 
+ 
+6 
+− MARKT: Die Studierenden entwickeln ein tiefes Verständnis der Prinzipien und 
+Instrumente, die es ermöglichen, ein Unternehmen oder eine Firma durch einen 
+stark ausgeprägten Kundenbezug erfolgreich zu leiten. Dies beinhaltet das 
+Beherrschen der relevanten Konzepte für markt- und kundenorientiertes Manage-
+ment sowie die Entwicklung der Methodenkompetenz im Bereich Erhebung von 
+relevanten Kundendaten und der Entwicklung und Implementierung von 
+geeigneten marktorientierten Strategien, die den Unternehmenswert steigern. 
+− FACT: Die Studierenden erwerben fundierte Fach- und Methodenkenntnisse in 
+den Bereichen Finance, Accounting, Controlling, Taxation und Wirtschaftsrecht. 
+− BA & OR: Die Studierenden erwerben die Fähigkeit, komplexe betriebswirtschaft-
+liche Problemstellungen mittels quantitativer und informationsverarbeitender 
+Methoden zu analysieren und Prozesse entsprechend zu planen und optimieren. 
+Sie können sich generalistisch mit quantitativen Fragestellungen der BWL 
+beschäftigen oder sich gezielt einem Fachgebiet der BWL (Methodische 
+Grundlagen, Finanzierung und Kapitalmärkte, Quantitative Methoden, Informatik 
+und Informationsmanagement, Marketing oder Supply Chain Manage-
+ment/Produktion/Logistik) zuwenden. 
+− ENTRE: Die Studierenden erwerben spezifische Fähigkeiten zur Gründung eines 
+Unternehmens. Studierende lernen, die Rolle von Unternehmen und ganz 
+allgemein von unternehmerischen Innovationen für die Durchsetzung ethischer 
+Leitvorstellungen zu verstehen und zu reflektieren. 
+− Internationale BWL: Die Studierenden entwickeln ein Verständnis für andere 
+Kulturkreise sowie interkultureller Sachverhalte und Zusammenhänge. 
+− Digital Customer Experience & Service Design (DICE): Die Studierenden 
+entwickeln ein tiefes Verständnis der Prinzipien und Instrumente des techno-
+logieorientierten Marketing-, Innovations- und Dienstleistungsmanagements, die 
+es ermöglichen, ein Unternehmen oder eine Firma durch einen stark ausgeprägten 
+Kundenbezug erfolgreich zu leiten. Dies beinhaltet das Beherrschen der relevanten 
+Konzepte für markt- und kundenorientiertes Management, die Entwicklung und 
+Gestaltung neuer, häufig technologiegetriebener Dienstleistungen sowie die 
+Entwicklung der Methodenkompetenz im Bereich Erhebung von relevanten 
+Kundendaten und der Entwicklung und Implementierung von geeigneten 
+Strategien, die den Unternehmenswert steigern. Darüber hinaus erwerben die 
+Studierenden durch das englischsprachige Studium in Deutschland und 
+Frankreich und die gemischte Gruppe aus deutschen und französischen 
+Studierenden interkulturelle Kompetenzen sowie Fremdsprachenkenntnisse, 
+welche sich vom Kompetenzerwerb im Rahmen eines gewöhnlichen 
+Auslandssemester deutlich unterscheiden. 
+ 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Absolventinnen und Absolventen werden im Verlauf ihres Studiums zur Promotion 
+befähigt. 
+ 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+alle Studienschwerpunkte: 
+
+[Page 7]
+Status 12/2025_02 
+ 
+ 
+ 
+7 
+− Fach- und Führungspositionen in Unternehmen und Organisationen 
+− Promotionsstudium 
+Schwerpunkt MARKT: 
+− Fach- und Führungspositionen im Zusammenhang mit einer marktorientierten 
+Unternehmensführung im nationalen und internationalen Kontext. 
+Schwerpunkt FACT: 
+− Arbeit in international tätigen Banken und anderen Finanzdienstleistern, 
+Unternehmensberatungen sowie Steuerberatungs- und Wirtschaftsprüfungs-
+gesellschaften 
+Schwerpunkt BA & OR: 
+− gehobene 
+Fach- 
+oder 
+Führungslaufbahn 
+bei 
+Industrie-, 
+Handel- 
+und 
+Dienstleistungsunternehmen oder bei gehobenen Managementberatungen 
+Schwerpunkt ENTRE: 
+− Start-up Gründung/Selbstständigkeit/Eintritt in eine Führungsposition im Unter-
+nehmen 
+− “Change Agents“ innerhalb bestehender Unternehmen („Intrapreneurship“) 
+Schwerpunkt Internationale BWL: 
+− Fach- und Führungspositionen in internationalen Unternehmen bzw. in 
+Unternehmen im Ausland 
+ Schwerpunkt Digital Customer Experience & Service Design (DICE) 
+− Fach- und Führungspositionen im nationalen wie internationalen, besonders dem 
+deutsch-französischen Kontext in Zusammenhang mit einer marktorientierten 
+Unternehmensführung, innerhalb des Marketing und Innovationsmanagements in 
+Industrie- 
+Handel- 
+und 
+Dienstleistungsunternehmen 
+sowie 
+Managementberatungen. 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Die Regelstudienzeit des Masterprogramms beträgt vier Semester. Das Studium kann in 
+den Schwerpunkten mit Doppelabschluss im Wintersemester und in allen übrigen 
+Schwerpunkten sowohl im Sommersemester als auch im Wintersemester begonnen 
+werden. In jedem Schwerpunkt gibt es Pflichtmodule im Umfang von 30 ECTS-Punkten, 
+die im Laufe des Studiums belegt werden müssen, um ein umfangreiches Wissen in 
+verschiedenen Fachbereichen zu erlangen. Durch die Auswahlmöglichkeiten aus 
+zahlreichen Wahlpflichtfächern und Wahlfächern ist eine Fokussierung auf ein oder 
+mehrere Spezialgebiete möglich. 
+ 
+Die Grundstruktur der Schwerpunkte MARKT, FACT und ENTRE besteht aus den 
+folgenden vier Bereichen: 
+Pflichtbereich: 
+30 ECTS-Punkte 
+Wahlpflichtbereich: 35 ECTS-Punkte 
+
+[Page 8]
+Status 12/2025_02 
+ 
+ 
+ 
+8 
+Wahlbereich: 
+25 ECTS-Punkte 
+Masterarbeit: 
+30 ECTS-Punkte. 
+ 
+Für den Schwerpunkt BA & OR: 
+Pflichtbereich: 
+25 ECTS-Punkte 
+Wahlpflichtbereich: 40 ECTS-Punkte 
+Wahlbereich: 
+25 ECTS-Punkte 
+Masterarbeit: 
+30 ECTS-Punkte. 
+ 
+Es werden folgende Studienschwerpunkte angeboten: 
+ 
+− Marktorientierte Unternehmensführung (MARKT), 
+− Finance, Accounting, Controlling, Taxation und Wirtschaftsrecht (FACT), 
+− Business Analytics and Operations Research (BA & OR), 
+− Entrepreneurship und Innovation (ENTRE), 
+− Internationale Betriebswirtschaftslehre (IBWL) 
+− Digital Customer Experience & Service Design (DICE). 
+ 
+In den Schwerpunkten Internationale BWL und Digital Customer Experience & Service 
+Design wird ein spezielles Studienprogramm mit ausgewählten internationalen Partner-
+hochschulen absolviert. Im Unterschied zum regulären Masterprogramm sind anstelle 
+von 35 ECTS-Punkten im Wahlpflichtbereich nur 30 ECTS-Punkte zu absolvieren. 
+ 
+2.2. 
+Pflichtbereich 
+Im Pflichtbereich muss die oder der Studierende in der Regel 30 ECTS-Punkte erwerben. 
+Der Pflichtbereich umfasst in allen Studienschwerpunkten neben den Pflichtmodulen der 
+Fachgebiete des jeweiligen Studienschwerpunkts ein Pflichtmodul „Ethik“. 
+ 
+2.3. 
+Wahlpflichtbereich 
+Im Wahlpflichtbereich müssen Studierende, die an einem der Doppelabschlussprogram-
+me eingeschrieben sind, 30 ECTS-Punkte und alle übrigen Studierenden im 
+Masterstudiengang Betriebswirtschaftslehre 35 ECTS-Punkte erwerben. Der Wahlpflicht-
+bereich umfasst alle Module aus den Fachgebieten des jeweiligen Studienschwerpunkts, 
+die im Wahlpflichtkatalog festgelegt sind. Im Schwerpunkt „Business Analytics and 
+Operations Research“ muss zusätzlich ein Modul im Umfang von 5 ECTS-Punkten aus 
+dem Wahlpflichtbereich Business Languages, Communication and Teamwork erworben 
+werden. 
+2.4. 
+Wahlbereich 
+Im Wahlbereich muss die oder der Studierende 25 bis 30 ECTS-Punkte erwerben. Der 
+Wahlbereich umfasst alle Module, die in einem der Studienschwerpunkte angeboten 
+werden sowie weitere in der Studiengangbeschreibung festgelegte Module. Auf Antrag 
+der oder des Studierenden können fallweise weitere Module für den Wahlbereich zuge-
+lassen werden, wenn diese in sinnvollem Zusammenhang mit dem gewählten 
+Studienschwerpunkt stehen; über entsprechende Anträge entscheidet der Prüfungs-
+ausschuss. 
+
+[Page 9]
+Status 12/2025_02 
+ 
+ 
+ 
+9 
+ 
+2.5. 
+Studium.Pro 
+ 
+Der verpflichtende Besuch eines Moduls (5 ECTS-Punkte) aus dem gesamten 
+Lehrangebot von Studium.Pro ist in der Prüfungsordnung verankert. Die Studierenden 
+können dabei aus den Bereichen „Pro Diskurs“, „Pro Horizont“ oder „Pro Gesellschaft“ 
+wählen. 
+ 
+2.6. 
+Praxisbezug 
+Die Doppelabschlussprogramme mit der Toulouse Business School (tbs) (eine der beiden 
+Optionen im Schwerpunkt Internationale BWL) und mit der Universität Toulouse 
+(Toulouse School of Management) (Schwerpunkt Digital Customer Experience & Service 
+Design) beinhalten ein Pflichtpraktikum. 
+ 
+Die Konzeption des Studiengangs eröffnet ausreichend Freiräume, um Praktika in den 
+vorlesungsfreien Zeiten zu integrieren. Insbesondere werden Modulprüfungen (mit 
+Ausnahme der innovativen Prüfungsformen) in zwei Zeiträumen je Semester angeboten, 
+um eine flexible Planung von Praktika zu ermöglichen. 
+ 
+Eine praxisnahe Ausbildung wird zudem durch die regelmäßige Einbeziehung von 
+Lehrbeauftragten und Gastrednern aus der Praxis gewährleistet. Dabei sind die 
+Gastvorträge sowohl in Lehrveranstaltungen als auch als separate Termine im 
+Semesterkalender eingebettet. Darüber hinaus bietet sich für die Studierenden in 
+regelmäßigen Abständen die Möglichkeit, an Projekten und Workshops teilzunehmen, die 
+gemeinsam mit Unternehmen angeboten werden und in denen häufig berufsnahe 
+Aufgabenstellungen behandelt werden. 
+ 
+Auch ist es möglich, die Masterarbeit in Zusammenarbeit mit einem Praxispartner zu 
+schreiben. 
+ 
+ 
+2.7. 
+Ausgestaltung der Internationalisierung 
+Die Studiengangschwerpunkte Internationale BWL sowie Digital Customer Experience & 
+Service Design werden ausschließlich im Rahmen von Vereinbarungen mit den 
+Partnerhochschulen angeboten. Dabei verbringen die Studierenden des Studien-
+schwerpunkts Internationale BWL nach den ersten beiden Studiensemestern an der WFI 
+im Anschluss mindestens ein Studienjahr an der jeweiligen Partnerhochschule. Beim 
+vollintegrierten Studiengangsschwerpunkt Digital Customer Experience & Service Design 
+studieren deutsche und französische Studierende im ersten und zweiten Semester an 
+der WFI und wechseln anschließend gemeinsam für das dritte Semester die Universität 
+Toulouse (Toulouse School of Management). 
+Details bezüglich der zu belegenden Module sind in den jeweiligen Kooperations-
+vereinbarungen festgelegt. 
+
+[Page 10]
+Status 12/2025_02 
+ 
+ 
+ 
+10 
+Auch in den übrigen Studiengangschwerpunkten besteht die Möglichkeit, einen Teil des 
+Studiums im Ausland zu absolvieren. Die Studierenden profitieren dabei von der hohen 
+Anzahl an Partneruniversitäten der Universität und der Fakultät. Für Incoming-
+Studierende besteht ein breites englischsprachiges Studienangebot. 
+Weitere internationale Elemente sind: 
+− Verwendung von – vornehmlich englischsprachiger – Fachliteratur 
+− Vermittlung von Fremdsprachen- und interkultureller Kompetenz 
+− Internationale Gastprofessorinnen und -professoren, z.B. internationale AUDI-
+Gastprofessur 
+− Im Rahmen der WFI Summer School werden für Studierende englischsprachige 
+Veranstaltungen zu verschiedenen Studienschwerpunkten von in- und aus-
+ländischen Dozentinnen und Dozenten angeboten. 
+ 
+ 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage 
+des Leitbilds für Studium und Lehre 
+ 
+− Der Studiengang verbindet einen hohen wissenschaftlichen Anspruch mit 
+konsequenter Praxisorientierung (in allen Schwerpunkten). 
+− Die Studienschwerpunkte sind interdisziplinär ausgerichtet und setzen sich aus 
+verschiedenen Fachgebieten zusammen. 
+− Unterstützung der Persönlichkeitsentwicklung in einer starken Gewichtung der 
+Wirtschafts- und Unternehmensethik im Curriculum

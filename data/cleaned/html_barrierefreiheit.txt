@@ -1,0 +1,99 @@
+SOURCE_URL: https://www.ku.de/barrierefreiheit
+TITLE: Barrierefreiheit – KU
+SOURCE_FILE: barrierefreiheit.html
+------------------------------------------------------------
+
+Barrierefreiheit
+Die KU ist eine „Hochschule für Alle“. Uns ist es ein großes Anliegen, auch unsere digitalen Angebote allen Interessierten zugänglich zu machen. Wir sind daher bestrebt, unsere Webseite möglichst barrierefrei zu gestalten und befinden uns hier in einem stetigen Prozess der Verbesserung. Über Ihre Unterstützung dabei freuen wir uns: Wenn Sie auf unseren Seiten auf Hindernisse und Probleme stoßen, melden Sie dies gerne an die unten genannten Ansprechpartner.
+Erklärung zur Barrierefreiheit
+Wir sind bestrebt, unsere Website im Einklang mit der
+Bayerischen Verordnung über die elektronische Verwaltung und die barrierefreie Informationstechnik (BayEGovV)
+barrierefrei zugänglich zu machen.
+Diese Erklärung zur Barrierefreiheit bezieht sich auf alle Webseiten einschließlich der Subdomains unter
+https://www.ku.de
+und die entsprechenden Unterseiten.
+Stand der Vereinbarkeit mit den Anforderungen
+Diese Webseiten stimmen zum größten Teil mit § 1 BayEGovV überein. Die nicht damit übereinstimmenden Inhalte finden Sie im folgenden aufgelistet.
+Nicht barrierefrei zugängliche Inhalte:
+Filme in Gebärdensprache zur Navigation auf der Webseite und zur Erklärung zur Barrierefreiheit stehen aktuell nicht zur Verfügung.
+Die Überschriftenhierarchie wird teilweise nicht eingehalten.
+Ein Teil der eingebundenen Dokumente liegt nicht in einer barrierefreien Fassung vor.
+Zu den eingebundenen Videos stehen derzeit in vielen Fällen noch keine Untertitel bzw. Audiodeskriptionen zur Verfügung.
+Begründung:
+Der Webauftritt der KU ist sehr umfangreich, daher lassen sich Fehler leider nicht komplett vermeiden. Aufgrund der Arbeitsauslastung konnten die genannten nicht barrierefreien Inhalte bis dato noch nicht umgestaltet werden. Wir sind aber kontinuierlich dabei, den Webauftritt dahingehend zu verbessern. Eingebundene pdf-Dokumente wurden teils vor dem 23. September 2018 erstellt und sind daher nicht auf dem aktuellen Stand der Barrierefreiheit. Hier arbeiten wir an der sukzessiven Umstellung. Gleiches gilt für die Bereitstellung von Untertiteln für die eingebetteten Videos. Dieser Prozess ist bereits im Gang, konnte aber aufgrund des großen Umfangs des Videoarchivs noch nicht vollendet werden.
+Erstellung dieser Erklärung zur Barrierefreiheit
+Diese Erklärung wurde am 7. Februar 2022 erstellt als Selbstbewertung unterstützt durch Dritte. Sie wurde zuletzt am 30. Mai 2022 aktualisiert.
+Feedback-Mechanismus und Kontaktangaben
+Etwaige Mängel bei der Einhaltung der Anforderungen an die Barrierefreiheit können Sie uns gerne rückmelden. Zudem können Sie Informationen, die nicht qua Richtlinie barrierefrei dargestellt werden müssen, bei uns barrierefrei anfordern.
+Bitte wenden Sie sich diesbezüglich an:
+Stabsabteilung Kommunikation & Marketing
+E-Mail:
+website(at)ku.de
+Informationen zur Datenverarbeitung
+stellen wir Ihnen in unserer
+Datenschutzerklärung
+bereit. Weitere Kontaktmöglichkeiten finden Sie im
+Impressum
+.
+Sie können auch folgendes Formular für Ihre Nachricht an uns nutzen:
+Kontaktformular Barrierefreiheit
+Durchsetzungsverfahren
+Wir bemühen uns darum, auf Ihre Anfrage innerhalb von einer Woche zu reagieren. Bleibt eine Anfrage über die oben genannte Kontaktmöglichkeit innerhalb von sechs Wochen ganz oder teilweise unbeantwortet, prüft das Landesamt für Digitalisierung, Breitband und Vermessung auf Antrag des Nutzers, ob im Rahmen der Überwachung gegenüber dem Verpflichteten Maßnahmen erforderlich sind.
+Die Durchsetzungsstelle stellt dafür auch
+einen Online-Antrag auf Prüfung der Einhaltung der Anforderungen an die Barrierefreiheit
+bereit.
+Kontaktinformation der für das Durchsetzungsverfahren zuständigen Einrichtung:
+Landesamt für Digitalisierung, Breitband und Vermessung
+IT-Dienstleistungszentrum des Freistaats Bayern
+Durchsetzungs- und Überwachungsstelle für barrierefreie Informationstechnik
+St.-Martin-Straße 47
+81541 München
+Telefon: +49 89 2129-1111
+Telefax: +49 89 2129-1113
+E-Mail:
+bitv(at)bayern.de
+Weitere Unterstützungsangebote
+Beauftragte für Studierende mit Behinderungen und chronischen Krankheiten
+Studierende mit Behinderungen und dauerhaften oder vorübergehenden chronischen Erkrankungen werden an der KU unterstützt durch die
+Beauftragte für Studierende mit Behinderung, chronischen Krankheiten und Beeinträchtigungen
+.
+Nina
+ Savarini
+Beauftragte für Studierende mit Behinderung, chronischen Krankheiten und Beeinträchtigungen an der KU
+Telefon
++49 8421 93-23125
+E-Mail
+studieren-mit-behinderung@ku.de
+Gebäude
+Marktplatz 7
+| 
+ 
+ 
+ 
+ Raum: MP7-004
+Dr.
+ Anna Fiona
+ Weiß
+Beauftragte für Studierende mit Behinderung, chronischen Krankheiten und Beeinträchtigungen an der KU
+Telefon
++49 8421 93-21681
+E-Mail
+studieren-mit-behinderung@ku.de
+Gebäude
+Universitätsallee/Zentralbibliothek
+| 
+ 
+ 
+ 
+ Raum: UA-225
+Studentisches Gleichstellungsreferat
+Die studentischen Frauen- und Gleichstellungsbeauftragten Pauline Degirmenci und Anna Weiße sind Ansprechpartnerinnen unter anderem bei Fragen zum studentischen Leben mit Behinderung und chronischer Erkrankung. Wenden Sie sich an
+konvent-gleichstellungsreferat(at)ku.de
+Unterstützung für Beschäftigte der KU
+Beschäftigte der KU mit Behinderung können sich mit Fragen, Anliegen und Problemen rund um das Thema Barrierefreiheit an die
+Vertrauensperson für Schwerbehinderte
+oder die
+Beauftragte des Arbeitgebers in Angelegenheiten schwerbehinderter Menschen
+wenden.
+Informationen in Gebärdensprache
+Derzeit arbeiten wir an Videos in Gebärdensprache mit den wichtigsten Informationen zur KU sowie zur Navigation auf der Webseite.

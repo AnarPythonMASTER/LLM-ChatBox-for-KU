@@ -1,0 +1,201 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Zulassungssatzung_BSc_Psychologie_1.Aenderung_Senat_12.02.25_01.pdf
+TITLE: Zulassungssatzung_BSc_Psychologie_1.Aenderung_Senat_12.02.25_01.pdf
+SOURCE_FILE: Zulassungssatzung_BSc_Psychologie_1.Aenderung_Senat_12.02.25_01.pdf
+------------------------------------------------------------
+
+[Page 1]
+Nichtamtliche konsolidierte Lesefassung 
+Bitte beachten Sie die Regelungen zum In-Kraft-Treten in der jeweiligen Änderungssatzung. 
+ 
+ 
+ 
+ 
+Satzung zur Durchführung des Zulassungsverfahrens bei der 
+Studienplatzvergabe im Bachelorstudiengang Psychologie 
+ 
+Vom 31.03.2015 
+ 
+ 
+geändert durch Satzung vom 16. Juli 2025 
+ 
+ 
+Aufgrund des Art. 5 § 3 Satz 1 des Konkordats zwischen dem Heiligen Stuhl und dem Freistaat Bayern 
+(BayRS 2220-1-K) erlässt die Katholische Universität Eichstätt-Ingolstadt (KU) folgende Satzung: 
+ 
+ 
+§ 1 
+Geltungsbereich 
+(1) Im Bachelorstudiengang Psychologie der KU wird, sofern dieser zulassungsbeschränkt ist, die 
+Zulassung an der KU sowohl der Studienanfängerinnen und Studienanfänger als auch der 
+Bewerberinnen und Bewerber für ein höheres Fachsemester durch ein Zulassungsverfahren nach 
+Maßgabe dieser Satzung geregelt. 
+(2) 
+1Für das Zulassungsverfahren wird die durch die KU für das jeweilige Studienjahr festgelegte 
+Zulassungszahl zugrunde gelegt. 2Wenn die Zahl der Studienbewerberinnen und -bewerber die 
+Zahl der zu vergebenden Studienplätze übersteigt, wird das Zulassungsverfahren nach den 
+Bestimmungen dieser Satzung durchgeführt. 
+(3) Soweit nachfolgend nichts anderes bestimmt ist, erfolgt das Zulassungsverfahren in Anlehnung an 
+das Gesetz über die Hochschulzulassung in Bayern (Bayerisches Hochschulzulassungsgesetz - 
+BayHZG) vom 9. Mai 2007 (GVBl S. 320), in der jeweils gültigen Fassung sowie die Verordnung 
+über 
+die 
+Hochschulzulassung 
+an 
+den 
+staatlichen 
+Hochschulen 
+in 
+Bayern 
+(Hochschulzulassungsverordnung - HZV) vom 10. Februar 2020 (GVBl S. 87), in der jeweils 
+gültigen Fassung. 
+ 
+§ 2 
+Zulassungsantrag 
+ 
+(1) Der Zulassungsantrag muss für das Wintersemester bis zum 15. Juli und für das Sommersemester 
+bis zum 15. Januar bei der KU eingegangen sein (Ausschlussfristen). 
+ 
+(2) 
+1Die KU bestimmt die Form des Zulassungsantrages und entsprechender Ergänzungsanträge. 2Sie 
+legt auch Art und Form der Unterlagen fest, die den Anträgen mindestens beizufügen sind. 3Sie ist 
+nicht verpflichtet, den Sachverhalt von Amts wegen zu ermitteln. 
+ 
+(3) 
+1Personen, die sich um einen Studienplatz bewerben, können im Zulassungsantrag nur einen 
+Studiengang nennen. 2Ein Hilfsantrag ist nicht möglich. 
+ 
+ 
+§ 3 
+Quoten, Vergabeverfahren 
+ 
+(1) 
+1Von den festgesetzten Zulassungszahlen werden bevorzugt Studienplätze vergeben an: 
+ 
+ 
+1. 2 v. H. für Fälle außergewöhnlicher Härte, 
+
+[Page 2]
+2 
+ 
+ 
+2. 4 v. H. für Bewerberinnen und Bewerber, die bereits ein Studium in einem anderen Studiengang 
+abgeschlossen haben (Zweitstudium), 
+3. 5 v.H. für die Zulassung von ausländischen Staatsangehörigen und Staatenlosen, soweit sie 
+Deutschen nicht gleichgestellt sind, 
+ 
+4. 4 v. H. für Bewerberinnen und Bewerber, die in einem noch nicht abgeschlossenen Studiengang 
+die Qualifikation für das gewählte Studium erworben haben 
+ 
+5. 5 v. H. für qualifizierte Berufstätige gem. Art. 88 Abs. 5 und 6 Bayerisches 
+Hochschulinnovationsgesetz, die über keine sonstige Studiengangsberechtigung verfügen. 
+ 
+2Eine außergewöhnliche Härte im Sinne des Satz 1 Nr. 1 liegt insbesondere vor, wenn soziale oder 
+familiäre Gründe in der Person des Bewerbers oder der Bewerberin die sofortige Aufnahme des 
+Studiums zwingend erfordern. 3Für jede Quote in Satz 1 muss jedoch wenigstens ein Studienplatz 
+zur Verfügung gestellt werden, wenn in der entsprechenden Quote mindestens eine Bewerbung zu 
+berücksichtigen ist. 4Der Anteil der nach Abs. 1 Satz 1 Nrn. 2 und 4 zu vergebenden Studienplätze 
+darf nicht größer sein als der Anteil der im Rahmen dieser Quote zu berücksichtigenden 
+Bewerbungen an der Gesamtzahl der Bewerbungen. 
+ 
+(2) 
+1Die übrigen Studienplätze werden nach Maßgabe einer Rangliste vergeben. 2Dafür wird eine 
+Gesamtnote ermittelt, die sich aus der durchschnittlichen Note der Hochschulzugangs-
+berechtigung, dem Studieneignungstest nach Abs. 3 und sonstigen Leistungen nach Abs. 5 ergibt. 
+ 
+ 
+3Bei der Berechnung der Quoten wird gerundet. 
+ 
+(3) 1Der Prozentrang im Psychologiespezifischen Bachelor-Studieneignungstest der DGPs „BaPsy-
+DGPs“ der Deutschen Gesellschaft für Psychologie wird anhand folgender Formel in eine Note 
+umgerechnet: 
+ 
+((100-PROZENTRANG)*0.05)+1. 
+ 
+2Liegt kein Ergebnis des BaPsy-DGPs vor, wird die Note 6 angesetzt. 
+ 
+(4) Die Gewichtung der Gesamtnote erfolgt in folgendem Verhältnis: durchschnittliche Note der 
+Hochschulzugangsberechtigung: 85 Prozent, Note des Studieneignungstests BaPsy-DGPs: 15 
+Prozent. 
+ 
+(5) 1Für den Nachweis mindestens einer der folgenden Leistungen wird die errechnete Gesamtnote 
+um 0,25 Notenstufen verbessert: 
+ 
+1. freiwilliges soziales Jahr, freiwilliges ökologisches Jahr oder ein sonstiger Freiwilligendienst 
+von 
+mindestens 
+einem 
+Jahr, 
+der 
+nach 
+dem 
+Gesetz 
+zur 
+Förderung 
+von 
+Jugendfreiwilligendienst anerkannt ist, oder Bundesfreiwilligendienst von mindestens einem 
+Jahr nach dem Bundesfreiwilligendienstgesetz oder 
+2. zusammenhängende Beschäftigung von mindestens einem Jahr bei einer kirchlichen, 
+caritativen oder sozialen Einrichtung. 
+ 
+ 
+ 
+2Der Nachweis über die Tätigkeit gemäß Satz 1 ist dem Antrag beizufügen. 
+ 
+(6) Staatsangehörige anderer Mitgliedsstaaten der Europäischen Union, sowie sonstige ausländische 
+Staatsangehörige oder Staatenlose, die eine deutsche Hochschulzugangsberechtigung besitzen, 
+werden nach den für Deutsche geltenden Bestimmungen am Vergabeverfahren beteiligt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+§ 4 
+
+[Page 3]
+3 
+ 
+Zulassungsbescheid 
+ 
+(1) Die KU benachrichtigt die Personen, die sich um einen Studienplatz beworben haben, von ihrer 
+Entscheidung über die Anträge. 
+ 
+(2) 
+1Im Zulassungsbescheid wird die Einschreibefrist festgesetzt. 2Immatrikulieren sich Bewerberinnen 
+und Bewerber nicht innerhalb dieser Frist, wird der Zulassungsbescheid unwirksam. 3Lehnt die KU 
+die Einschreibung einer Bewerberin oder eines Bewerbers ab, weil die übrigen Voraussetzungen 
+für die Aufnahme als Studierende oder Studierender nicht vorliegen, wird der Zulassungsbescheid 
+ebenfalls unwirksam. 
+ 
+(3) Bewerberinnen und Bewerber, die nicht zugelassen werden können, wird ein Ablehnungsbescheid 
+erteilt, der mit einer Rechtsbehelfsbelehrung zu versehen ist. 
+ 
+ 
+§ 5 
+Nachrückverfahren, Losverfahren 
+ 
+(1) 1Nach Abschluss des Hauptverfahrens werden nicht in Anspruch genommene Studienplätze im 
+Rahmen von bis zu drei Nachrückverfahren vergeben. 2Für das Nachrückverfahren gilt § 3 
+entsprechend. 
+ 
+(2) 1Sind nach Abschluss der Nachrückverfahren noch Studienplätze vorhanden, werden die verfügbar 
+gebliebenen Studienplätze durch Losentscheid vergeben. 2Darüber hinaus können diese an 
+Bewerberinnen und Bewerber vergeben werden, die ihre Zulassung verspätet oder nicht 
+formgerecht beantragt haben. 
+ 
+(3) Das Vergabeverfahren ist stets beendet, wenn seit Vorlesungsbeginn vier Wochen verstrichen sind. 
+ 
+ 
+§ 6 
+Höhere Fachsemester 
+ 
+ 
+Die Zulassung in höhere Fachsemester erfolgt entsprechend den Maßgaben des § 33 HZV. 
+ 
+ 
+§ 7 
+Inkrafttreten 
+ 
+Diese Satzung tritt am 1. Juni 2015 in Kraft.

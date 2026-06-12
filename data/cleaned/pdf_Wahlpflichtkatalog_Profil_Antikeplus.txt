@@ -1,0 +1,248 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_Profil_Antikeplus.pdf
+TITLE: Wahlpflichtkatalog_Profil_Antikeplus.pdf
+SOURCE_FILE: Wahlpflichtkatalog_Profil_Antikeplus.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anlage 2 zur Studiengangsbeschreibung 
+ 
+Wahlpflichtkatalog im BA-Profil 
+Antikeplus 
+1. nach § 24 S. 3 der Prüfungsordnung für den Interdisziplinären Bachelorstudiengang 
+der Katholischen Universität Eichstätt-Ingolstadt in der Fassung vom 24.04.2024 
+2. Geltungsbereich zum Wintersemester 2024/2025 
+ 
+3. vom Fakultätsrat der Sprach- und Literaturwissenschaftlichen Fakultät 
+beschlossen am …. 
+Es ist explizit möglich, den Wahlpflichtbereich für eine Spezialisierung in einer der drei 
+altertumswissenschaftlichen Fächer zu nutzen. Studierende können bis zu 60 ECTS-Punkte 
+in einem der Fächer absolvieren und damit die Voraussetzung für einen fachspezifischen 
+Masterstudiengang in Klassischer Archäologie, Alter Geschichte oder Klassischer Philologie 
+erreichen. 
+ 
+Auflistung der Wahlpflichtmodule 
+ 
+1. Modulangebot im Bereich Medien 
+- 
+Grundlagen der Journalistik/Kommunikationswissenschaft (5 ECTS-Punkte), 
+90minütige Klausur oder Hausarbeit mit Referat - WiSe 
+- 
+Journalismus und Mediensysteme (5 ECTS-Punkte), Hausarbeit mit Referat 
+(Verhältnis 3:1) oder Klausur (90minütig) oder Portfolio - SoSe 
+- 
+Medienrezeptions- und Medienwirkungsforschung (5 ECTS-Punkte), 90minütige 
+Klausur oder Hausarbeit mit Referat (Verhältnis 3:1) - SoSe 
+- 
+Qualität und Ethik der öffentlichen Kommunikation (5 ECTS-Punkte), Hausarbeit 
+mit Referat (Verhältnis 3:1) oder Projektskizze oder Portfolio - SoSe 
+ 
+2. Modulangebot im Bereich Pädagogik / Didaktik 
+- 
+Geschichte und Theorien von Bildung und Erziehung (5 ECTS-Punkte), 
+Referat oder Klausur oder Hausarbeit mit Präsentation - WiSe 
+- 
+Grundlagen der Persönlichkeitsbildung (5 ECTS-Punkte), Portfolio oder Referat 
+oder mündliche Prüfung - WiSe 
+- 
+Bildungsphilosophie und Politische Theorie (5 ECTS-Punkte), Portfolio oder 
+Referat oder Hausarbeit mit Präsentation - SoSe 
+ 
+ 
+3. Modulangebot im Bereich Fremdsprachen 
+- 
+Spanisch 1 (Moderne Fremdsprache 1) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Italienisch 1 (Moderne Fremdsprache 1) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Französisch 1 (Moderne Fremdsprache 1) (5 ECTS-Punkte), Klausur – Wise 
+- 
+Arabisch 1 (Moderne Fremdsprache 1) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Chinesisch 1 (Moderne Fremdsprache 1) 
+ (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Polnisch 1 (Moderne Fremdsprache 1) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Portugiesisch 1 (Moderne Fremdsprache 1) (5 ECTS-Punkte), Klausur - WiSe 
+- 
+Russisch 1 (Moderne Fremdsprache 1) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Tschechisch 1 (Moderne Fremdsprache 1) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Türkisch 1 (Moderne Fremdsprache 1) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Japanisch 1 (Moderne Fremdsprache 1) (5 ECTS-Punkte), Klausur – WiSe 
+
+[Page 2]
+Anlage 2 zur Studiengangsbeschreibung 
+ 
+ 
+- 
+Spanisch 2 (Moderne Fremdsprache 2) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Italienisch 2 (Moderne Fremdsprache 2) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Französisch 2 (Moderne Fremdsprache 2) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Arabisch 2 (Moderne Fremdsprache 2) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Chinesisch 2 (Moderne Fremdsprache 2) 
+ (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Polnisch 2 (Moderne Fremdsprache 2) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Portugiesisch 2 (Moderne Fremdsprache 2) (5 ECTS-Punkte), Klausur - SoSe 
+- 
+Russisch 2 (Moderne Fremdsprache 2) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Tschechisch 2 (Moderne Fremdsprache 2) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Türkisch 2 (Moderne Fremdsprache 2) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Japanisch 2 (Moderne Fremdsprache 2) (5 ECTS-Punkte), Klausur – SoSe 
+ 
+- 
+Spanisch 3 (Moderne Fremdsprache 3) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Italienisch 3 (Moderne Fremdsprache 3) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Französisch 3 (Moderne Fremdsprache 3) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Arabisch 3 (Moderne Fremdsprache 3) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Polnisch 3 (Moderne Fremdsprache 3) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Portugiesisch 3 (Moderne Fremdsprache 3) (5 ECTS-Punkte), Klausur - WiSe 
+- 
+Russisch 3 (Moderne Fremdsprache 3) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Türkisch 3 (Moderne Fremdsprache 3) (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Japanisch 3 (Moderne Fremdsprache 3) (5 ECTS-Punkte), Klausur – WiSe 
+ 
+- 
+Spanisch 4 (Moderne Fremdsprache 4) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Italienisch 4 (Moderne Fremdsprache 4) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Französisch 4 (Moderne Fremdsprache 4) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Arabisch 4 (Moderne Fremdsprache 4) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Polnisch 4 (Moderne Fremdsprache 4) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Portugiesisch 4 (Moderne Fremdsprache 4) (5 ECTS-Punkte), Klausur - SoSe 
+- 
+Russisch 4 (Moderne Fremdsprache 4) (5 ECTS-Punkte), Klausur – SoSe 
+- 
+Türkisch 4 (Moderne Fremdsprache 4) (5 ECTS-Punkte), Klausur – SoSe 
+ 
+- 
+Latein Vorbereitungskurs 1 (Grundkenntnisse) (5 ECTS-Punkte), Klausur - WiSe 
+- 
+Lateinische Sprache - Basiskurs (Latinum) (10 ECTS-Punkte), Klausur - SoSe 
+- 
+Graecum I (5 ECTS-Punkte), Portoflio (unbenotet) - WiSe 
+- 
+Graecum II (5 ECTS-Punkte), Portoflio (unbenotet) - SoSe 
+ 
+4. Modulangebot im Bereich Wirtschaft 
+- 
+Grundlagen der Allgemeinen Betriebswirtschaftslehre I (5 ECTS-Punkte), 
+Klausur – WiSe 
+- 
+Grundlagen der Allgemeinen Betriebswirtschaftslehre II (5 ECTS-Punkte), 
+Klausur – SoSe 
+- 
+Betriebliches Rechnungswesen (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Volkswirtschaftslehre I: Mikroökonomie (5 ECTS-Punkte), Klausur – WiSe 
+- 
+Volkswirtschaftslehre II: Makroökonomie (5 ECTS-Punkte), Klausur – SoSe 
+ 
+5. Modulangebot im Bereich Digital Humanities 
+- 
+More data, more insights? Moderne Data-Science-Methoden aus 
+transdisziplinärer Perspektive (5 ECTS-Punkte), Klausur oder Portfolio – WiSe 
+- 
+More data, more insights? Ein vertiefter Einblick in moderne Data-Science- 
+Methoden aus transdisziplinärer Perspektive (5 ECTS-Punkte), Klausur oder 
+Portfolio – WiSe 
+
+[Page 3]
+Anlage 2 zur Studiengangsbeschreibung 
+ 
+- 
+Statistik für Linguistik (5 ECTS-Punkte), Hausarbeit oder mediale Präsentation (R-
+basiertes Skript) – SoSe 
+- 
+Einführung in die Programmierung (5 ECTS-Punkte), Portfolio – WiSe, SoSe 
+- 
+Grundlagen von Informationssystemen (5 ECTS-Punkte), Klausur oder mündliche 
+Prüfung - WiSe, SoSe 
+ 
+6. Modulangebot im Bereich Alte Kirchengeschichte 
+- 
+Anfänge, Organisation und Ausbau der Kirche im mediterranen und 
+europäischen Raum im Altertum, Mittelalter und in der Neuzeit (5 ECTS-
+Punkte), mündliche Prüfung - WiSe 
+- 
+Ergänzende Fragestellungen im Fach Alte Kirchengeschichte (5 ECTS-
+Punkte), schriftliche Hausarbeit oder Portfolio - WiSe, SoSe 
+- 
+Zusatzmodul Vertiefung Alte Kirchengeschichte und Patrologie (5 ECTS-
+Punkte), Klausur oder mündliche Prüfung oder schriftliche Arbeit - WiSe, 
+SoSe 
+ 
+7. Modulangebot im Bereich Germanistik 
+- 
+ÄdL und NdL Studienportal Literaturwissenschaft (5 ECTS-Punkte), Klausur - 
+WiSe 
+ 
+8. Modulangebot im Bereich Gräzistik 
+- 
+Griechische Sprache: Grundkurs I (7 ECTS-Punkte), Klausur – WiSe, SoSe 
+- 
+Griechische Sprache: Grundkurs II (10 ECTS-Punkte), Klausur – WiSe, SoSe 
+- 
+Griechische Sprache: Aufbaukurs (5 ECTS-Punkte), Klausur – WiSe, SoSe 
+- 
+Griechische Literatur und Literaturwissenschaft II (5 ECTS-Punkte), Klausur - WiSe 
+ 
+9. Modulangebot im Bereich Geographie 
+- 
+Einführung in die Geographie (5 ECTS-Punkte), Klausur - WiSe 
+- 
+Humangeographie 1 (5 ECTS-Punkte), Klausur - WiSe 
+- 
+Humangeographie 2 (5 ECTS-Punkte), Klausur - SoSe 
+- 
+Physische Geographie 1: Hydro- und Klimageographie (5 ECTS-Punkte), Klausur 
+- WiSe 
+- 
+Physische Geographie 2: Geomorphologie (5 ECTS-Punkte), Klausur - SoSe 
+- 
+Regionale Entwicklung: Europäische und globale Strukturen (5 ECTS-
+Punkte), Klausur - WiSe 
+- 
+Techniken der Geographie 1: Kartenkunde und Kartographie (5 ECTS-Punkte), 
+Klausur - WiSe 
+- 
+Techniken der Geographie 3: Fernerkundung (5 ECTS-Punkte), Klausur – 
+WiSe (nur belegbar, wenn Physische Geographie 1 und 2 absolviert worden 
+sind) 
+ 
+10. 
+Modulangebot im Bereich Politikwissenschaften 
+- 
+Einführung: Das Politische als Bildungsaufgabe und Bildungsgegenstand (5 
+ECTS-Punkte), Klausur - WiSe 
+- 
+Einführung in die Politische Theorie und Philosophie (5 ECTS-Punkte), Klausur 
+- SoSe 
+- 
+Einführung in die Politische Systemlehre und die Vergleichende 
+Politikwissenschaft (5 ECTS-Punkte), Klausur - WiSe 
+- 
+Einführung in die Internationalen Beziehungen (5 ECTS-Punkte), Klausur - 
+SoSe

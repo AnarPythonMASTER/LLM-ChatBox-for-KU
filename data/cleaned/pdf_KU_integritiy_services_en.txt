@@ -1,0 +1,31 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/KU_integritiy_services_en.pdf
+TITLE: KU_integritiy_services_en.pdf
+SOURCE_FILE: KU_integritiy_services_en.pdf
+------------------------------------------------------------
+
+[Page 1]
+How does the pme Familienservice help you?
+ 
+Why do we now have an external ombudsman?
+Companies and public authorities are obligated to establish an
+anonymous whistleblower system. If you have observed
+misconduct or have been affected by it yourself, you can now
+report it anonymously, securely, and free of charge. Simply contact
+the external experts at pme Familienservice.
+You can contact the confidential office about these topics:
+Discrimination
+Violence
+Bullying
+Sexual harassment
+Is your personal concern not listed?
+Please feel free to call us or send an email to: 
+kuei-vertrauenstelle@familienservice.de, we will find a solution!
+You can report incidents. This can also be done completely anonymously!
+The external experts of pme Familienservice provide advice.
+They are available 24/7 during emotionally stressful events. 
+If needed, the pme Family Service can help you with the incident to work
+through the issues with the parties involved and to enter into dialogue
+together. 
+Abuse
+Would you like to report misconduct anonymously?
+Call now, free of charge and securely: 0800 801007099

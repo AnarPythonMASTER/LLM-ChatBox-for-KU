@@ -1,0 +1,29 @@
+SOURCE_URL: https://www.ku.de/en/legal-notice
+TITLE: Legal notice – KU
+SOURCE_FILE: en_legal-notice.html
+------------------------------------------------------------
+
+Postal address
+Katholische Universität
+Eichstätt-Ingolstadt
+85071 Eichstätt
+Germany
+Visiting address
+Katholische Universität
+Eichstätt-Ingolstadt
+Ostenstr. 26
+85072 Eichstätt
+Tel.: +49 8421 93-0
+E-mail:
+info(at)ku.de
+Responsibility for the Katholische Universität Eichstätt-Ingolstadt (KU) website, official KU Facebook page, and Facebook pages of faculties, chairs, and central facilities:
+Overall responsibility:
+The president of the KU
+Responsibility for sub-sections:
+Administration, committees, officers: The president
+Institutes, facilities: Directors
+Faculties: Deans
+Subjects: The president (for ECTS), head of subject
+Chairs/professorships: The responsible professors
+Groups: The responsible chairpersons
+Editing of general information pages: Department of Communication and Marketing

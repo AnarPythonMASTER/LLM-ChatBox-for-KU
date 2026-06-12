@@ -1,0 +1,2908 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulhandbuch_Journalistik_BA.pdf
+TITLE: Modulhandbuch_Journalistik_BA.pdf
+SOURCE_FILE: Modulhandbuch_Journalistik_BA.pdf
+------------------------------------------------------------
+
+[Page 1]
+BA JOURNALISTIK
+Wegweiser für das Studium in Eichstätt
+
+[Page 2]
+2
+Impressum
+Studiengang Journalistik
+Katholische Universität Eichstätt-Ingolstadt
+85071 Eichstätt
+Telefon: 08421 / 93-21564
+Email: journalistik@ku.de
+www.ku.de/slf/journalistik 
+Redaktion: Dr. Renate Hackel-de Latour
+Stand: Oktober 2024
+
+[Page 3]
+3
+Liebe Studierende,
+befragt nach seinen Studienerfahrungen, berichtete ein Absolvent:
+„When I came to Harvard, I was confused. 
+When I left Harvard, I was confused too. 
+But on a much higher level.“
+Auch Sie werden bei ihrem Studium in Eichstätt möglicherweise mitunter 
+etwas 
+„confused“ 
+sein. 
+Diese 
+Handreichung 
+soll 
+Ihnen 
+ein 
+wenig 
+Orientierung bieten. Sie soll ein Leitfaden sein, der Sie bei den ersten Fragen 
+und durch die ersten Unsicherheiten ihres Studiums begleitet. Wir wollen Sie 
+unterstützen, die Konfusion über Organisatorisches schnell hinter sich zu lassen. 
+Viel Freude und viel Erfolg bei Ihrem Journalistik-Studium in Eichstätt!
+Herzlich willkommen 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+und herzlich willkommen im BA-Studiengang Journalistik!
+Herzlich willkommen!
+3
+
+[Page 4]
+4
+?
+?
+?
+Inhalt
+Der Ausgangspunkt: Die Bologna-Deklaration | 6
+Herzlich willkommen | 3
+Die Konsequenzen: Der Bologna-Prozess | 6
+Die Studienstruktur: Studieren in Modulen | 6
+Die Studienstruktur: Studium mit Individualität | 7
+Das Modulhandbuch | 7
+Die Studienstruktur: Studieren mit ECTS-Punkten | 8
+Die Studienstruktur: Studieren durch Akkumulation | 9
+Bologna
+Module
+Punkte
+ECTS
+Bachelor
+Master
+
+[Page 5]
+5
+Modulhandbuch | 28
+Noch Fragen? | 60
+Die Studienstruktur: Zweistuﬁ
+ g mit Bachelor und Master | 9
+Die Studienstruktur: Studieren mit Plan | 10
+Das Auslandssemester | 12
+Die Bachelorarbeit | 13
+Der Studienplan | 15
+Die Säulen des BA Journalistik | 13
+Module im Schwerpunkt | 18
+Prüfungsordnung | 54
+
+[Page 6]
+6
+I. 
+Der Ausgangspunkt: Die Bologna-Deklaration
+Die „Bologna-Deklaration“ (19. Juni 1999) gilt als die wohl bedeutendste Hoch-
+schulreform der vergangenen Jahre. Doch was bedeutet der „Bologna-Prozess“ 
+konkret für uns? Ziel dieser von 29 europäischen Ländern unterzeichneten Ver-
+einbarung war die Schaffung eines gemeinsamen europäischen Hochschulraums. 
+ 
+Mit der Bologna-Deklaration ﬁ
+ xierten die europäischen Bildungsminister ihre feste 
+Absicht, in allen EU-Ländern
+• ein zweistuﬁ
+ ges System (Bachelor & Master) leicht verständlicher und ver-
+gleichbarer Abschlüsse zu schaffen,
+• dabei ein Leistungspunktesystem nach dem ECTS-Modell einzuführen,
+• die Mobilität für Studierende und Lehrende durch Beseitigung von Mobili-
+tätshemmnissen zu fördern,
+• die europäische Zusammenarbeit im Bereich der Qualitätssicherung
+• und die europäische Dimension in der Hochschulausbildung zu fördern.
+II. 
+Die Konsequenzen: Der Bologna-Prozess
+Die durch die Bologna-Deklaration ausgelösten Veränderungen – bekannt ge-
+worden als „Bologna-Prozess“ – betreffen die Hochschulen umfassend. Ein 
+wesentliches Element des geplanten gemeinsamen europäischen Hochschul-
+raums ist daher die Einführung eines gestuften Studiensystems aus Bachelor und 
+Master mit europaweit vergleichbaren Abschlüssen. In Deutschland haben die Ziele 
+der Bologna-Deklaration damit zu einer umfassenden Studienstrukturreform ge-
+führt, die in ihren Auswirkungen alle deutschen Universitäten betreffen. Auch der 
+BA-Studiengang Journalistik ist ein direktes Ergebnis aus den Reformen, die durch 
+die Bologna-Deklaration eingeleitet wurden. 
+III. 
+Die Studienstruktur: Studieren in Modulen
+Auch die Modularisierung nach angloamerikanischem Vorbild, also die Strukturie-
+rung von Studiengängen in Fächer mit Modulen, ist vor dem Hintergrund der zu-
+nehmenden Internationalisierung zu sehen. Insofern benennt der Stifterverband für 
+die Deutsche Wissenschaft als Ziele der Modularisierung (2000):
+„Der Studienaufbau soll international kompatibel sein, er soll ﬂ
+ exibel sein, um Mobi-
+lität zu gewährleisten, und er soll durch studienbegleitende Leistungskontrollen ein 
+zügiges Studium ermöglichen.“ 
+
+[Page 7]
+7
+Aber was sind Fächer und Module eigentlich genau? Der Begriff Modul bezeich-
+net eine Gruppe von Lehrveranstaltungen, die sich einem bestimmten themati-
+schen oder inhaltlichen Schwerpunkt widmen. Ein Fach ist hingegen eine inhaltlich 
+abgeschlossene Lehr- und Lerneinheit, die sich (in der Regel) wiederum aus ver-
+schiedenen Modulen mit den ihnen zugeordneten Lehrveranstaltungen zusammen-
+setzt.
+Vom Modul zum modularen System. Jedes Modul vermittelt im Gesamtauf-
+bau des Studiums also spezielle Inhalte und Fertigkeiten. Diese sind sowohl 
+qualitativ (also in ihren Inhalten) und quantitativ (also mit den dafür erwerbbaren 
+ECTS-Punkten) genau deﬁ
+ niert und werden entsprechend der erbrachten Leistun-
+gen mit Noten bewertet (Prüfung, Seminararbeit, Klausur, praktische journalistische 
+Arbeiten).
+IV
+. 
+Die Studienstruktur: Studium mit Individualität
+Einzelne Lehrveranstaltungen können teilweise durch andere ersetzt werden 
+(„Wahlpﬂ
+ ichtveranstaltungen“), so dass sich im modularen System verschiede-
+ne Kombinationen ergeben. Ein modulares Studiensystem erlaubt in begrenztem 
+Rahmen die individuelle Zusammenstellung von Lehrveranstaltungen und -inhal-
+ten. Das Studium bietet eine breit angelegte Grundausbildung für das gesamte 
+Berufsfeld des Journalisten sowie der benachbarten Kommunikationsberufe. Sie 
+werden ausgebildet für Printmedien, Hörfunk, Fernsehen, Onlinemedien und Agen-
+turen sowie Öffentlichkeitsarbeit. Im Zentrum steht der tagesaktuelle Journalismus. 
+Deshalb ist es auch wichtig, neben der praktischen Ausbildung in den Studios der 
+Universität, bereits während des Studiums praktische Erfahrungen im angestrebten 
+Berufsbereich zu sammeln.
+Neben den kommunikationswissenschaftlichen und journalistisch-praktischen 
+Fachkenntnissen sollen die Studierenden Fähigkeiten zum Lösen von Prob-
+lemen, interdisziplinäres Denken, soziale Kompetenzen und Fähigkeiten zum 
+Arbeiten im Team entwickeln.
+V
+. 
+Das Modulhandbuch
+Um eine hohe Transparenz und Übersichtlichkeit der jeweiligen Module zu ge-
+währleisten, sind die Module im so genannten Modulhandbuch Journalistik genau 
+beschrieben. Dort wird jeweils aufgeführt, welchen Inhalt und welches Qualiﬁ
+ kati-
+onsziel das Modul hat, welche Voraussetzungen und Anforderungen das Modul 
+stellt, welche Lehrveranstaltungen dem Modul zugerechnet werden und welche 
+Leistungspunkte wie erworben und angerechnet werden können.
+
+[Page 8]
+8
+Insofern ist für Sie das Modulhandbuch für den BA-Studiengang Journalistik eine 
+wichtige Informationsquelle, wenn es darum geht, Inhalte, Qualiﬁ
+ kationen und An-
+forderungen der einzelnen Lehrveranstaltungen besser einzuschätzen. Und es wird 
+Ihnen dabei helfen, einen besseren Überblick über den Aufbau Ihres Studiums zu 
+bekommen. Sie ﬁ
+ nden das Modulhandbuch ab Seite 28. 
+VI. 
+Die Studienstruktur: Studieren mit ECTS-Punkten
+Leistungspunkte, Credit Points oder auch ECTS-Punkte stehen als Synonyme für 
+den Leistungs- und Zeitaufwand, den Sie durch den Besuch sowie die Vor- und 
+Nachbereitung von Lehrveranstaltungen erbringen. Das bedeutet: Leistungspunk-
+te, Credit Points und ECTS-Punkte sind die „Währung“, mit der Sie Ihren geleisteten 
+Arbeitsaufwand vergütet bekommen. Im Studium sammeln Sie Qualiﬁ
+ ka 
+tionen und 
+Wissen – und damit sammeln Sie gleichzeitig Credit Points (natürlich nur, sofern Sie 
+die besuchte Lehrveranstaltung auch erfolgreich abschließen).
+Punkte = Arbeitsaufwand. Insgesamt ist das Bachelor-Studium so ausgerichtet, 
+dass Sie bei einem Arbeitsvolumen von etwa 40 Stunden pro Woche und rund 
+45 Arbeitswochen im Jahr das Bachelor-Studium in der Regelstudienzeit von 
+sechs Semestern abschließen können. Grob gerechnet entspricht ein Leistungs-
+punkt rund 30 Stunden Arbeit, wobei die-
+se Berechnung die reine Anwesenheit in den 
+Lehrveranstaltungen bereits mitberücksichtigt. 
+Neben dem Besuch der Lehrveranstaltungen 
+fällt unter Ihren „studentischen Arbeitsaufwand“ 
+auch die Zeit, die Sie zur Vor- und Nachbereitung der Veranstaltungen, zur Vorbe-
+reitung von Prüfungen und zum Selbststudium benötigen. Insofern wird der Studi-
+enumfang nicht mehr nur an der Zahl der absolvierten Semesterwochenstunden 
+bewertet, sondern am Ausmaß des tatsächlichen studentischen Arbeitsaufwandes.
+Pro Jahr sollten von Ihnen etwa 60 ECTS-Punkte erworben werden, das entspricht 
+einer Arbeitsbelastung von 1800 Stunden. Oder anders ausgedrückt: Es erwartet 
+Sie ein Vollzeitstudium mit etwa sechs Wochen Urlaub pro Jahr. Für einen Bachelor-
+Abschluss sind übrigens 180 ECTS Punkte, für einen Master-Abschluss 120 ECTS-
+Punkte vorgesehen.
+ECTS = European Credit Transfer System. Übrigens bedeutet ECTS „European 
+Credit Transfer System“. Es wurde 1989 eigentlich für das Austauschprogramm 
+ERASMUS eingeführt, um die Anerkennung und Übertragung von Studienleistun-
+gen zu erleichtern, die während eines Auslandsaufenthaltes erbracht wurden. Das 
+ECTS ist bislang das einzige System, das mit Erfolg getestet wurde und in ganz 
+Europa verwendet wird. Insofern ist es verständlich, dass dem ECTS auch bei der 
+Struktur der Bachelor-Studiengänge eine tragende Bedeutung zukommt.
+1 ECTS-Punkt 
+= 30 Stunden Arbeit
+
+[Page 9]
+9
+V
+. 
+Die Studienstruktur: Studieren durch Akkumulation
+Die Modularisierung führt zu einer anderen Studienstruktur als die klassische 
+Fächerorientierung, die vor allem für Diplom- und Magister-Studiengänge üblich 
+ist. Ein fächerorientiertes Studium besteht in der Regel aus wenigen Fächern, die 
+viele Lehrveranstaltungen umfassen. Die Lehrveranstaltungen werden über ei-
+nen Zeitraum von mehreren Semestern absolviert und die Lernerfolge pro Fach 
+werden erst am Studienende im Rahmen von Fach- und Abschlussprüfungen 
+bewertet.
+Studienbegleitende Prüfungen. Ein modularisiertes Studiensystem ist hingegen 
+– wie oben beschrieben – aus verschiedenen Modulen aufgebaut, denen jeweils 
+Lehrveranstaltungen zugeordnet werden. Der Leistungsnachweis ﬁ
+ ndet dabei 
+in den so genannten Modulprüfungen studienbegleitend statt, d. h. die Prüfungs-
+leistungen für die Module werden direkt nach Abschluss der zum Modul gehö-
+renden Lehrveranstaltungen erbracht. Damit schließen alle Module innerhalb eines 
+Semesters bzw. am Ende des jeweiligen Semesters mit einer studienbegleitenden 
+Prüfungsleistung ab. So entsteht eine kompakte Studienstruktur, das Studium 
+kann schneller absolviert, Regelstudienzeiten können besser eingehalten wer-
+den, Erfolgskontrollen sind zeitnah möglich. Am Ende des Studiums wartet daher 
+kein „großer Abschlussprüfungsmarathon“ auf die Studierenden. Die Studenten 
+können sich damit ganz auf die Anfertigung der abschließenden Bachelor-Arbeit 
+konzentrieren.
+VII. 
+Die Studienstruktur: Zweistuﬁ
+ g mit Bachelor und Master
+In Deutschland sind die Studienabläufe und Studienabschlüsse umgestellt wor-
+den: Anstelle des bisherigen einstuﬁ
+ gen Diplom- oder Magister-Studiums gibt 
+es nun ein zweistuﬁ
+ ges System. Die erste Stufe des Studiums endet mit dem 
+
+[Page 10]
+10
+berufsbefähigenden Abschluss Bachelor, die zweite mit dem weiterqualiﬁ
+ zieren-
+den Abschluss Master. Das zweistuﬁ
+ ge System bietet folgenden entscheidenden 
+Vorteil: Der Bachelor befähigt bereits nach sechs Semestern zum Berufseinstieg 
+und verkürzt damit die Ausbildungsdauer. Studienziel ist der Erwerb grundlegender 
+Kenntnisse und Fähigkeiten für einen schnelleren Berufseinstieg.
+Der auf den Bachelor aufbauende Master dient dagegen der Vertiefung der akade-
+mischen Ausbildung, indem er den Bachelor-Abschluss erweitert. Damit führt das 
+Master-Studium nach einer Regelstudienzeit von vier Semestern zu einem zweiten 
+Hochschulabschluss, der je nach Ausrichtung des Master-Studienganges entwe-
+der forschungs- oder anwendungsorientiert angelegt ist. In Eichstätt wird der Mas-
+ter Journalistik mit Schwerpunkt Innovation und Management angeboten.
+VIII. 
+Die Studienstruktur: Studieren mit Plan
+Der Bachelor-Studiengang Journalistik ruht auf mehreren Säulen:
+In der Kommunikationswissenschaft beschäftigen sich die Studierenden mit der 
+Medien- und Journalismusentwicklung, mit der Funktionsweise und den rechtlichen 
+und politischen Rahmenbedingungen des Mediensystems sowie medienethischen 
+Fragen. Darüber hinaus werden das journalistische Berufs- und Selbstverständnis, 
+die Arbeit in verschiedenen Ressorts, Medienwirkungen und Mediennutzungsge-
+wohnheiten des Publikums und verschiedener Zielgruppen analysiert.
+Da der Umgang mit empirischem Datenmaterial, mit Erhebungen, Rankings und 
+Umfragen zum Alltagsgeschäft eines Journalisten gehört, bilden auch die Metho-
+den und Verfahren der empirischen Kommunikationsforschung einen wichtigen 
+Bestandteil der theoretischen Ausbildung. Mit dieser Grundlage verfassen die Stu-
+dierenden am Ende ihres Studiums, im sechsten Semester, eine Bachelor-Arbeit zu 
+einem medienrelevanten Thema. 
+Die Eichstätter Journalistik bietet eine umfangreiche und multimediale journalisti-
+sche Praxisausbildung. Alle Übungen und Projekte zusammengezählt, entspricht 
+der Praxisanteil des Studiums insgesamt einem Jahr der Ausbildung. Gelernt 
+und geübt wird in den Fernseh- und Hörfunkstudios sowie der Lehrredaktion. 
+Unterstützt von erfahrenen Journalisten produzieren sie eigene Zeitungen und Zeit-
+schriften, Onlineangebote, Hörfunk-und Fernsehmagazine. 
+• 
+Kommunikationswissenschaft und empirische Sozialforschung
+• 
+Journalistische Praxisausbildung
+• 
+Gesellschaftliche Grundkompetenz
+• 
+Schwerpunkt
+
+[Page 11]
+11
+Teamfähigkeit und Organisationsgeschick sind dabei ebenso gefragt wie Kreativität 
+und journalistische Kompetenz. Das gilt auch für die Medienwerkstatt I und II: Wäh-
+rend der Semesterferien, vor und nach dem dritten Fachsemester, arbeiten die Stu-
+dierenden mit Lehrbeauftragten aus der Praxis und erproben in den Einrichtungen 
+der Universität den redaktionellen Alltag von Print-, Hörfunk-, Fernseh- und Online-
+journalisten. Darüber hinaus sollen die Studierenden Erfahrungen in Redaktionen 
+sammeln. In den Semesterferien ist darum ausreichend Zeit, um ein achtwöchiges 
+Praktikum zu absolvieren. Am Ende des Studiums kann gezeigt werden, was man 
+in der Praxisausbildung gelernt hat: Die Studierenden recherchieren und schreiben 
+eine Reportage, drehen einen Film oder produzieren einen Hörfunkbeitrag. 
+Die dritte Säule des Studiums ist die Gesellschaftliche Grundkompetenz, denn 
+eine umfangreiche Allgemeinbildung ist für Journalisten unverzichtbar. Deswegen 
+werden im Bachelor Journalistik grundlegende Kenntnisse aus Gesellschaft und 
+Politik vermittelt. Dazu gehört neben der Einführung in die Politikwissenschaft ein 
+Überblick über das soziale System der Bundesrepublik sowie ein Modul aus dem 
+Angebot von Studium PRO. Des weiteren besuchen die Studierenden wahlweise 
+Module aus den Bereichen Politische Theorie und Internationale Politik. 
+Für die Studierenden bedeutet die Modularisierung auch eine bessere Möglichkei-
+ten, individuelle Schwerpunkte zu setzen. Die von der journalistischen Praxis immer 
+wieder geforderte Sachkompetenz wird über eine Schwerpunktauswahl möglich 
+gemacht. Einen der folgenden Studienschwerpunkte muss jeder Studierende wäh-
+len:
+Es bestehen Modulvereinbarungen mit den entsprechenden Fakultäten.
+DIE SCHWERPUNKTE:
+A. Journalismus und interkulturelle Kommunikation (Spanisch)
+B. Fach- und interkulturelle Kommunikation (Französisch)
+C. Literatur und Kultur
+D. Lateinamerika-Studien
+E. Geschichtswissenschaften
+F. Politik und Gesellschaft
+G. Betriebswirtschaftslehre
+E. Umwelt und Nachhaltigkeit
+F. Data Science
+
+[Page 12]
+12
+Das Auslandssemester
+Im Bachelorstudiengang Journalistik ist das fünfte Semester als Auslandssemes-
+ter fest eingeplant. Die Studierenden werden an Partnerhochschulen im Ausland 
+Veranstaltungen im Umfang von 30 ECTS-Punkten für das Bachelorstudium in 
+Eichstätt absolvieren. Dabei müssen 10 ECTS-Punkte im Bereich der Medien- und 
+Kommunikationswissenschaft erbracht werden. Die weiteren 20 ECTS-Punkte 
+können ebenfalls aus diesem Bereich und/oder für das Schwerpunktfach abgeleis-
+tet werden. Diese Aufteilung ist sinnvoll, denn sie eröffnet den Studierenden eine 
+internationale Perspektive auf beide Themenbereiche des Studiums und gibt ihnen 
+die Möglichkeit, die Arbeit der von ihnen studierten Disziplinen nicht nur beschränkt 
+auf die in Deutschland favorisierten Ansätze wahrzunehmen. Darüber hinaus dient 
+ein Auslandsaufenthalt natürlich neben dem Themen- und Sprachstudium der Per-
+sönlichkeitsbildung und der Selbstständigkeit – Aspekte, die gerade für angehende 
+Journalisten wichtig sind. 
+Die Richtlinien der KU lassen eine Verlängerung des Auslandsaufhaltes auf ein Jahr 
+zu. Trotz der längeren Aufenthaltszeit müssen auch für diesen Auslandsaufenthalt 
+nur 30 ECTS-Punkte nachgewiesen werden – eine Möglichkeit, wegen etwaiger 
+Sprachschwierigkeiten im ersten Auslands 
+semester nicht erbrachte Leistungen 
+im zweiten nachzuholen. Dadurch ergibt sich auch eine gerade für Journalistik-
+Studierende interessante Perspektive: Werden im ersten Auslandssemester alle 
+erforderlichen 30 ECTS-Punkte erbracht, könnte das zweite komplett für ein Aus-
+landspraktikum genutzt werden. 
+
+[Page 13]
+13
+Die Bachelorarbeit
+Mit der Bachelorarbeit kann nach dem vierten Semester begonnen werden. Die 
+Studierenden sollen nachweisen, dass sie wissenschaftliche Fertigkeiten und Ar-
+beitstechniken auf ein Forschungsthema anwenden können. Sie sollen hierzu die 
+methodisch-analytischen Instrumente zusammentragen, analysieren und interpre-
+tieren können sowie ausgeprägte Fertigkeiten der Dokumentation und Präsentation 
+beherrschen. 
+Das Thema der bis zu 40seitigen Bachelorarbeit muss aus dem Bereich der Kom-
+munikationswissenschaft gewählt werden. Die Bearbeitungszeit beträgt nach der 
+Ausgabe des Themas sechs Monate. Für eine mit mindestens ausreichend bewer-
+tete Bachelorarbeit werden zehn Leistungspunkte in Form von Prüfungsleistungen 
+erlangt. 
+IX. 
+Die Säulen des BA Journalistik
+Kommunikations-
+wissenschaft 
+und empirische 
+Sozialforschung 
+60 ECTS-Punkte 
+Gesellschaftliche 
+Grundkompetenz 
+20 ECTS-Punkte
+frei wählbar aus KW 
+und emp. Sozialfor. 
+u/o Schwerpunkt 
+10 ECTS-Punkte
+Schwerpunkt 
+30 ECTS-Punkte 
+Journalistische 
+Praxisausbildung 
+60 ECTS-Punkte
+13
+
+[Page 14]
+14
+Studienplan
+
+
+
+
+
+*NLLTMHJ@SHNMR
+VHRRDMRBG@ES
+@KSDQM@SHU
+$"32/TMJSD
+,DSGNCDM
+CDQ*6
+$"32/TMJSD
+)NTQM@KHRSHRBGD
+/Q@WHR
+$"32/TMJSD
+2BGVDQOTMJS
+@KSDQM@SHU
+$"32/TMJSD
+&QTMCK@FDMCDQ*6
+)NTQM@KHRLTR
+,DCHDMRXRSDLD
+,DCHDMQDBGS
+0T@KHSĔS$SGHJ
+CDQŅEE*NLL
+:ÁKOHDXV
+ JSTDKKD,DCHDM
+DMSVHBJKTMF
+,DCHDMQDYDOSHNMR
+VHQJTMFRENQRBGTMF
+ TRFDVĔGKSD
+3GDLDMCDQ*6
+2ODYH@KHRHDQTMFHL
+)NTQM@KHRLTR
+!@BGDKNQ@QADHS
+,DSGNCDM(
+,DSGNCDM((
+)NTQM@KHRSHRBGDR
+ QADHSDM(
+)NTQM@KHRSHRBGDR
+ QADHSDM((
+'ŅQ
+ETMJ
+6DQJ
+RS@SS((
+%DQM
+RDGDM
+5HCDN
+#HFH
+S@KD
+,D
+CHDM
+#HFHS@KDR/QNIDJS
+
+&DRDKKRBG@ES
+&QTMCJNLODSDMY
+$"32/TMJSD
+$HMEŘGQTMF
+/NKHSHJVHRR
+2NYH@KRSQTJSTQ
+CDQ!1#
+2STCHTL/QN
+:ÁKOHDXV
+/NKHSHRBGD
+2XRSDLKDGQD
+
+)NTQM@KHRLTRTMC
+HMSDQJTKSTQ*NLL
+
+%@BGTMCHMSDQJTK
+STQDKKD*NLL
+
++HSDQ@STQ*TKSTQ
+
++@SDHM@LDQHJ@RSTC
+
+&DRBGHBGSD
+
+/NKHSHJ&DRDKKRBG
+
+!DSQHDARVHQSRBG@ES
+
+4LVDKSTMC
+-@BGG@KSHFJDHS
+
+#@S@2BHDMBD
+$XVODQGVVHPHVWHU.:XQGPLWRGHURKQH6FKZHUSXQNW
+)NTQM@KHRSHRBGDR
+/EKHBGSOQ@JSHJTL
+(MSDQM@SHNM@KD
+!DYHDGTMFDM
+°
+-DTMLŅFKHBGD
+2BGVDQOTMJSD
+6DQJ
+RS@SS(
+
+
+[Page 15]
+15
+IX. 
+Der Studienplan
+1. Semester
+Modul: Grundlagen der Journalistik/Kommunikationswissenschaft
+Vorlesung und Seminar 
+Modul: Journalistisches Arbeiten I
+Übung 1: Journalistisches Schreiben
+Übung 2: Nachrichtenschreiben für alle Medien 
+Übung 3: Texten für Social Media
+Seminar: Recherche 
+2. Semester
+Modul: Journalistisches Arbeiten II
+Übung: Darstellungsformen
+Modul: Hörfunk
+Übung 1: Darstellungsformen im Hörfunk
+Übung 2: Kommunikationstraining 
+Modul: Journalismus und Mediensysteme
+Vorlesung und Seminar
+vorlesungsfreie Zeit des 2. Semesters
+Modul: Medienwerkstatt I: Print
+Blockseminare und Übungen
+zwischen dem 1. und 6. Semester
+Modul: Einführung: Das Politische als Bildungsaufgabe und Bildungsgegenstand
+Vorlesung und Übung
+Modul: Sozialstruktur der Bundesrepublik Deutschland
+Vorlesung und Übung
+Modul: Einführung in die Politische Systemlehre 
+und Vergleichende Politikwissenschaft 
+Vorlesung und Übung
+
+[Page 16]
+16
+Modul: Einführung in die Internationalen Beziehungen: 
+Vorlesung und Übung
+Studium Pro 
+Ein Modul ist während des Studiums zu wählen. Jedes Semester gibt es ein 
+Studium Pro-Angebot.
+ 
+zwischen dem 2. und 6. Semester
+Modul: Medienrecht: Grundlagen des Medienrechts der Bundesrepublik 
+Deutschland
+Vorlesung und Übung
+außerdem zwei der folgenden Module:
+Modul: Aktuelle Medienentwicklung
+Seminar und Übung 
+Modul: Medienrezeptions- und Medienwirkungsforschung
+Vorlesung und Übung
+Modul: Spezialisierung im Journalismus (5.-6. Semester)
+Seminar und Übung
+Modul: Ausgewählte Themen der Kommunikationswissenschaft (5.-6. Semester)
+Seminar
+3. Semester
+Modul: Fernsehen/Videojournalismus
+Übung 
+Modul: Digitale Medien
+Übung 1: Visuelle Kommunikation - Fotojournalismus
+Übung 2: Onlinejournalismus 
+vorles
+
+[Page 17]
+17
+vorlesungsfreie Zeit des 3. Semesters
+Modul: Medienwerkstatt II: Digitale Medien
+Blockseminare und Übungen
+zwischen dem 3. und 6. Semester
+Modul: Qualität und Ethik der öffentlichen Kommunikation
+Seminar und Seminar
+Modul: Empirische Kommunikationsforschung I: 
+Grundlagen der empirischen Sozialforschung
+Seminar
+Modul: Empirische Kommunikationsforschung II: Anwendungsprojekt
+Seminar
+4. Semester
+Modul: Digitales Projekt
+Übung
+ab dem 4. Semester
+Modul: Journalistisches Pﬂ
+ ichtpraktikum
+Seminar
+5. Semester 
+Auslandsaufenthalt
+Freie Modulwahl in der Journalistik/Kommunikationswissenschaft und optional
+Modulbesuch orientiert am jeweiligen Schwerpunkt
+6. Semester
+Modul: Bachelorarbeit
+Seminar
+
+[Page 18]
+18
+zwischen dem 1. und 6. Semester 
+Module im Schwerpunkt (insgesamt 30 ECTS-Punkte)
+Schwerpunkte des BA-Journalistik orientiert an der Prüfungsordnung:
+Im Wahlpﬂ
+ ichtbereich Schwerpunkt muss jede oder jeder Studierende 30 
+ECTS-Punkte im Rahmen eines zu wählenden Schwerpunktes erwerben. 
+Weitere 10 ECTS-Punkte können zusätzlich frei gewählt werden. Es werden in 
+der Regel folgende Schwerpunkte angeboten:
+Im Schwerpunkt „Journalismus und interkulturelle Kommunikation (Spanisch)“ 
+muss die oder der Studierende im sprachpraktischen Bereich 15 ECTS-Punkte in Modulen 
+der Sprache Spanisch erwerben: 
+1. Sprachneueinsteiger oder -innen müssen Kenntnisse auf dem Niveau B1+/B2 des 
+Gemeinsamen Europäischen Referenzrahmens erwerben, oder
+2. Studierende, die bereits Spanischkenntnisse vorweisen, müssen diese in Modulen bis 
+zum Niveau B2 des Gemeinsamen Europäischen Referenzrahmens erweitern sowie 
+Module zur Sprachpraxis und Landeskunde bis zum Erreichen der 15 ECTS-Punkte 
+absolvieren.
+Folgende Module können gewählt werden:
+a) Intensivkurs Spanisch 1: 5 ECTS-Punkte, Modulprüfung: siehe Modulkatalog 
+Sprachenzentrum,
+b) Intensivkurs Spanisch 2. 5 ECTS-Punkte, Modulprüfung: siehe Modulkatalog 
+Sprachenzentrum,
+c) Intensivkurs Spanisch 3: 5 ECTS-Punkte, Modulprüfung: siehe Modulkatalog 
+Sprachenzentrum,
+d) Landeskunde/Kulturwissenschaft I (Spanisch): 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+Modulprüfung: siehe FPO Romanistik,
+e) Landeskunde/Kulturwissenschaft II (Spanisch): 5 ECTS-Punkte, siehe FPO 
+Romanistik,
+f) Spanisch 1 (Moderne Fremdsprache 1): 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+ 1. Journalismus und interkulturelle Kommunikation (Spanisch)
+ 2. Fach- und interkulturelle Kommunikation (Französisch)
+ 3. Literatur und Kultur
+ 4. Lateinamerika-Studien
+ 5. Geschichtswissenschaften
+ 6. Politik und Gesellschaft
+ 7. Betriebswirtschaftslehre
+ 8. Umwelt und Nachhaltigkeit
+ 9. Data Science
+„
+“
+
+[Page 19]
+19
+g) Spanisch 2 (Moderne Fremdsprache 2): 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+h) Spanisch 3 (Moderne Fremdsprache 3): 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+i) Spanisch 4 (Moderne Fremdsprache 4): 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+j) Grammatik und Wortschatz I (Spanisch): 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+Modulprüfung: siehe FPO Romanistik (unbenotet), 
+k) Grammatik und Wortschatz II (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Romanistik,
+l) Sprachmittlung I und Aussprache (Spanisch): Anwesenheitspﬂ
+ icht, 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Romanistik,
+m) Sprachmittlung II (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe FPO Romanistik,
+n) Textproduktion und Stilistik I (Spanisch): 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+Modulprüfung: siehe FPO Romanistik,
+o) Textproduktion und Stilistik II (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Romanistik.
+1. Weitere Module im Umfang von 15 ECTS-Punkten sind in diesem Schwerpunkt aus 
+ 
+folgenden Modulen erfolgreich zu absolvieren. Eines der folgenden Module:
+a) Periodismo online: La Prensa: 5 ECTS-Punkte, Modulprüfung: siehe FPO Romanistik,
+b) Periodismo online: Medios audiovisuales: 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Romanistik,
+2. Kommunikation im interkulturellen Kontext: Competencia comunicativa en contextos 
+interculturales: 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, Modulprüfung: siehe FPO 
+Romanistik,
+3. Geschäftskommunikation und Öffentlichkeitsarbeit Español de la empresa: negocios 
+y communicación externa: 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, Modulprüfung: siehe 
+FPO Romanistik,
+4. Oberstufenmodul Spanisch: 5 ECTS-Punkte, Modulprüfung: siehe FPO Romanistik.
+
+[Page 20]
+20
+Im Schwerpunkt „Fach- und interkulturelle Kommunikation (Französisch)“ muss 
+die oder der Studierende im sprachpraktischen Bereich 20 ECTS-Punkte in Modulen der 
+Sprache Französisch erwerben:
+1. Sprachneueinsteiger oder -innen müssen Kenntnisse auf dem Niveau B1+/B2 des 
+Gemeinsamen Europäischen Referenzrahmens erwerben, oder
+2. Studierende, die bereits Französischkenntnisse vorweisen, müssen diese in 
+Sprachmodulen bis zum Niveau B2 des Gemeinsamen Europäischen Referenzrahmens 
+erweitern sowie Module zur Sprachpraxis und Landeskunde bis zum Erreichen der 20 
+ECTS-Punkte absolvieren.
+ 
+Folgende Module können gewählt werden:
+a) Landeskunde/Kulturwissenschaft I (Französisch), Anwesenheitspﬂ
+ icht, 5 ECTS-
+Punkte, Modulprüfung: siehe FPO Romanistik,
+b) Landeskunde/Kulturwissenschaft II (Französisch), 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Romanistik,
+c) Französisch 1 (Moderne Fremdsprache 1), 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+d) Französisch 2 (Moderne Fremdsprache 2), 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+e) Französisch 3 (Moderne Fremdsprache 3), 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+f) Französisch 4 (Moderne Fremdsprache 4), 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+g) Grammatik und Wortschatz I (Französisch), 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+Modulprüfung: siehe FPO Romanistik (unbenotet),
+h) Grammatik und Wortschatz II (Französisch), 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Romanistik,
+i) Sprachmittlung 
+I 
+und 
+Aussprache 
+(Französisch), 
+5 
+ECTS-Punkte, 
+Anwesenheitspﬂ
+ icht, 
+Modulprüfung: siehe FPO Romanistik,
+j) Sprachmittlung II (Französisch), 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Romanistik,
+k) Textproduktion und Stilistik I (Französisch), 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+Modulprüfung: siehe FPO Romanistik,
+l) Textproduktion und Stilistik II (Französisch), 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Romanistik,
+m) Geschäftskommunikation und Öffentlichkeitsarbeit: Français de l‘entreprise: 
+la communication dans l‘entreprise, 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+Modulprüfung: siehe FPO Romanistik,
+Eines der folgenden Module ist in diesem Schwerpunkt erfolgreich zu absolvieren:
+1. Kommunikation im interkulturellen Kontext: Compétence communicative en contexte 
+interculturel: 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, Modulprüfung: siehe FPO 
+Romanistik, oder
+2. Culture, société et médias dans la France contemporaine: 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Romanistik.
+
+[Page 21]
+21
+In diesem Schwerpunkt ist ein weiteres frei wählbares Modul, das mit dem Schwerpunkt 
+vereinbar ist, im Umfang von 5 ECTS-Punkten erfolgreich zu absolvieren, dabei stehen 
+folgende Module zur Verfügung:
+a) Einführung in die romanische Literaturwissenschaft (Französisch), 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Romanistik (unbenotet),
+b) Basismodul I: Französischsprachige Literatur des 19.-21. Jahrhunderts, 5 ECTS-
+Punkte, Voraussetzung: erfolgreiche Teilnahme am Modul „Einführung in die 
+romanische Literaturwissenschaft“, Modulprüfung: siehe FPO Romanistik
+c) Vertiefungsmodul II: Französischsprachige Literatur vom Mittelalter bis 1800, 5 
+ECTS-Punkte, Modulprüfung: siehe FPO Romanistik,
+d) weitere Module, die mit dem Schwerpunkt vereinbar sind.
+Im Schwerpunkt „Literatur und Kultur“ muss die oder der Studierende folgende Module 
+erfolgreich absolvieren:
+1. Ein Modul im Umfang von 5 ECTS-Punkten aus dem Bereich „Einführung in die 
+Literaturwissenschaft“, dabei stehen folgende Module zur Verfügung:
+a) Introduction to Literary und Cultural Studies: 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Anglistik,
+b) ÄdL und NdL Studienportal Literaturwissenschaft: 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Germanistik (unbenotet),
+c) NdL Grundkurs: 5 ECTS-Punkte, Modulprüfung: siehe FPO Germanistik (unbenotet),
+d) ÄdL Grundkurs: 5 ECTS-Punkte, Modulprüfung: siehe FPO Germanistik (unbenotet)
+e) Einführung in die Romanische Literaturwissenschaft (Französisch): 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Romanistik (unbenotet),
+f) Einführung in die Romanische Literaturwissenschaft (Italienisch): 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Romanistik (unbenotet),
+g) Einführung in die Romanische Literaturwissenschaft (Spanisch/Lateinamerika): 5 
+ECTS-Punkte, Modulprüfung: siehe FPO Romanistik (unbenotet)
+2. Module im Umfang bis zu 15 ECTS-Punkten aus dem Bereich „Aufbaumodule“ oder 
+„Vertiefungsmodule“ in der Literaturwissenschaft, dabei stehen folgende Module zur 
+Verfügung:
+a) Literary and Cultural History I: English Literary Studies: 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Anglistik,
+b) Literary and Cultural History I: American Studies: 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Anglistik,
+c) Literature and Media (Bachelormodul): 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Anglistik,
+d) NdL Literaturtheorie und Kulturwissenschaft: 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Germanistik,
+e) NdL Literaturgeschichte 1: 5 ECTS-Punkte, Modulprüfung: siehe FPO Germanistik,
+f) NdL Literaturhistorische Analysen: 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Germanistik
+g) NdL Literatur und Neue Medien: 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Germanistik,
+h) NdL Literaturgeschichte 2: 5 ECTS-Punkte, Modulprüfung: siehe FPO Germanistik,
+
+[Page 22]
+22
+i) Basismodul I: Französischsprachige Literatur des 19.-21. Jahrhunderts: 5 ECTS-
+Punkte, Voraussetzung: erfolgreiche Teilnahme am Modul „Einführung in die 
+Romanische Literaturwissenschaft“, Modulprüfung: siehe FPO Romanistik,
+j) Vertiefungsmodul I: Analyse von Text, Film und anderen Medien (Französisch): 5 
+ECTS-Punkte, Modulprüfung: siehe FPO Romanistik,
+k) Vertiefungsmodul II: Französischsprachige Literatur vom Mittelalter bis 1800: 5 
+ECTS-Punkte, Modulprüfung: siehe FPO Romanistik,
+l) Basismodul I: Italienischsprachige Literatur des 19.-21. Jahrhunderts: 5 ECTS-
+Punkte, Voraussetzung: erfolgreiche Teilnahme am Modul „Einführung in die 
+Romanische Literaturwissenschaft“, Modulprüfung: siehe FPO Romanistik,
+m) Vertiefungsmodul I: Analyse von Text, Film und anderen Medien (Italienisch): 5 
+ECTS-Punkte, Modulprüfung: siehe FPO Romanistik
+n) Vertiefungsmodul II: Italienischsprachige Literatur vom Mittelalter bis 1800: 5 ECTS-
+Punkte, Modulprüfung: siehe FPO Romanistik,
+o) Basismodul I: Spanischsprachige Literatur des 19.-21. Jahrhunderts: 5 ECTS-
+Punkte, Voraussetzung: erfolgreiche Teilnahme am Modul „Einführung in die 
+Romanische Literaturwissenschaft“, Modulprüfung: siehe FPO Romanistik,
+p) Vertiefungsmodul I: Analyse von Text, Film und anderen Medien (Spanisch/
+Lateinamerika): 5 ECTS-Punkte, Modulprüfung: siehe FPO Romanistik,
+q) Vertiefungsmodul II: Spanischsprachige Literatur vom Mittelalter bis 1800: 5 ECTS-
+Punkte, Modulprüfung: siehe FPO Romanistik.
+3. Weitere Module im Umfang von bis zu 15 ECTS-Punkten aus folgender Auswahl:
+a) Grundlagen Europäischer Kulturgeschichte: 5 ECTS-Punkte, Modulprüfung: siehe 
+PO BA Europastudien,
+b) Selbst- und Fremdwahrnehmung der europäischen Literaturen und Kulturen: 5 
+ECTS-Punkte, Modulprüfung: siehe PO BA Europastudien,
+c) Spiel- und Theaterdidaktik (Modul mit Praxisbezug): 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Germanistik,
+d) Körper, Sprache und Stimme: 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Germanistik,
+e) Formen und Methoden der Theaterpädagogik/des darstellenden Spiels: 5 ECTS-
+Punkte, Modulprüfung: siehe FPO Germanistik,
+f) Historische, kultur- und sozialwissenschaftliche Grundlagen des Theaters/des 
+Performativen: 5 ECTS-Punkte, Modulprüfung: siehe FPO Germanistik,
+g) Fachpraxis (Modul mit Praxisbezug): Dramaturgie und Inszenierungspraxis: 10 
+ECTS-Punkte, Modulprüfung: siehe FPO Germanistik,
+h) weitere Module, die mit dem Schwerpunkt vereinbar sind.
+Im Schwerpunkt „Lateinamerika-Studien“ muss die oder der Studierende im 
+sprachpraktischen Bereich 15 ECTS-Punkte in Modulen der Sprache Spanisch oder 
+Portugiesisch erwerben:
+1. Sprachneueinsteiger oder -innen müssen Kenntnisse in Spanisch auf dem Niveau 
+B1+/B2 in Portugiesisch auf dem Niveau B1+/B2 des Gemeinsamen Europäischen 
+Referenzrahmens erreichen, oder
+
+[Page 23]
+23
+2. Studierende, die in der zu wählenden Sprache bereits Kenntnisse vorweisen, müssen 
+diese bis zum Niveau B2 beziehungsweise B1+/B2 des Gemeinsamen Europäischen 
+Referenzrahmens erweitern sowie Module zur Sprachpraxis oder Landeskunde (Politik 
+Lateinamerikas, Geographie Lateinamerikas, Geschichte Lateinamerikas) bis zum 
+Erreichen der 15 ECTS-Punkte absolvieren.
+Folgende Module können gewählt werden:
+a) Landeskunde/Kulturwissenschaft I (Spanisch): 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+Modulprüfung: siehe FPO Romanistik,
+b) Landeskunde/Kulturwissenschaft II (Spanisch): 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Romanistik,
+c) Portugiesisch 1 (Moderne Fremdsprache 1): 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum, 
+d) Portugiesisch 2 (Moderne Fremdsprache 2): 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+e) Portugiesisch 3 (Moderne Fremdsprache 3): 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+f) Portugiesisch 4 (Moderne Fremdsprache 4): 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+g) Spanisch 1 (Moderne Fremdsprache 1): 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+h) Spanisch 2 (Moderne Fremdsprache 2): 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+i) Spanisch 3 (Moderne Fremdsprache 3): 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+j) Spanisch 4 (Moderne Fremdsprache 4): 5 ECTS-Punkte, Modulprüfung: siehe 
+Modulkatalog Sprachenzentrum,
+k) Grammatik und Wortschatz I (Spanisch): 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+Modulprüfung: siehe FPO Romanistik,
+l) Grammatik und Wortschatz II (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Romanistik,
+m) Sprachmittlung I und Aussprache (Spanisch): 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+Modulprüfung: siehe FPO Romanistik,
+n) Sprachmittlung II (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe FPO Romanistik,
+o) Textproduktion und Stilistik I (Spanisch): 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Romanistik,
+p) Textproduktion und Stilistik II (Spanisch): 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+Modulprüfung: siehe FPO Romanistik,
+q) Geschäftskommunikation und Öffentlichkeitsarbeit: Español de la empresa: negocios 
+y communicación externa: 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, Modulprüfung: 
+siehe FPO Romanistik.
+In diesem Schwerpunkt sind weiterhin Module, die mit dem Schwerpunkt vereinbar sind, 
+aus den Bereichen Geschichte, Politik, Geographie, Wirtschaft oder Literatur Lateiname-
+rikas im Umfang von 15 ECTS-Punkten aus folgender Auswahl erfolgreich zu absolvieren:
+
+[Page 24]
+24
+a) Grundlagen der Geographie Lateinamerikas (Geographie I): 5 ECTS-Punkte, 
+Modulprüfung: siehe PO BA Lateinamerikastudien,
+b) Methoden- und Projektseminar: Mensch-Umwelt-Beziehungen in Lateinamerika 
+(Geographie III): 5 ECTS-Punkte, Modulprüfung: siehe Wahlpﬂ
+ ichtkatalog PO 
+Lateinamerikastudien,
+c) Einführung in die Geographien Lateinamerikas: Soziale und wirtschaftliche 
+Realitäten wahrnehmen und schaffen: 5 ECTS-Punkte, Modulprüfung: siehe PO 
+Lateinamerikastudien,
+d) Geschichte Lateinamerikas I: historisches Orientierungswissen: 5 ECTS-Punkte, 
+Modulprüfung: siehe PO Lateinamerikastudien,
+e) Geschichte Lateinamerikas V: Identitäskonstruktion und Erinnerung: 5 ECTS-
+Punkte, Modulprüfung: siehe PO Lateinamerikastudien,
+f) Geschichte 
+Lateinamerikas: 
+Kultur 
+und 
+Globalisierung: 
+5 
+ECTS-Punkte, 
+Modulprüfung: siehe PO Lateinamerikastudien,
+g) Basismodul I: Spanischsprachige Literatur des 19.-21. Jahrhunderts: 5 ECTS-
+Punkte, Modulprüfung: siehe FPO Romanistik,
+h) Vertiefungsmodul I: Analyse von Text, Film und anderen Medien (Spanisch/Latein- 
+amerika): 5 ECTS-Punkte, Modulprüfung: siehe FPO Romanistik,
+i) Vertiefungsmodul II: Spanischsprachige Literatur vom Mittelalter bis 1800: 5 ECTS-
+Punkte, Modulprüfung siehe FPO Romanistik,
+j) Aufbaumodul II: Spanische/Lateinamerikanische Literatur- oder Filmgeschichte: 5 
+ECTS-Punkte, Modulprüfung: siehe FPO Romanistik (unbenotet),
+k) Erweiterungsmodul I: Literaturen der Romania: Gattungen, Epochen, Fragestellungen 
+(Spanisch/Lateinamerika): 5 ECTS-Punkte, Modulprüfung: siehe FPO Romanistik,
+l) Grundlagen der Politikwissenschaft/Politik: Lateinamerika (Politik I): 5 ECTS-Punkte, 
+Modulprüfung: siehe PO Lateinamerikastudien, 
+m) Regierungssysteme und politischer Prozess in Lateinamerika seit 1950 (Politik II): 5 
+ECTS-Punkte, Modulprüfung: siehe PO Lateinamerikastudien,
+n) Aktuelle politische und sozioökonomische Krisen und Herausforderungen 
+in Lateinamerika (Politik IV): 5 ECTS-Punkte, Modulprüfung: siehe PO BA 
+Lateinamerikastudien.
+Im Schwerpunkt „Geschichtswissenschaften“ muss die oder der Studierende folgende 
+Module erfolgreich absolvieren:
+1. a) Einführung in die Prinzipien und Methoden der Geschichtswissenschaft: 5 ECTS- 
+ 
+Punkte, Modulprüfung: siehe FPO Geschichte, oder
+b) Geschichtskultur in Vergangenheit und Gegenwart: 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Geschichte, oder
+c) Fragestellungen – Kontroversen - Historiographie: 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Geschichte,
+2. Praxismodul in der Neueren und Neuesten Geschichte: Film, Theater, Literatur und 
+neue Medien: 5 ECTS-Punkte, Modulprüfung: siehe FPO Geschichte,
+3. Praxismodul in der Neueren und Neuesten Geschichte: Erinnerungsorte, Jubiläen, 
+Museen und Gedenkstätten: 5 ECTS-Punkte, Modulprüfung: siehe FPO Geschichte.
+Die oder der Studierende kann die Teildisziplin Neuere und Neueste Geschichte oder die 
+Teildisziplin Wirtschafts- und Sozialgeschichte wählen.
+
+[Page 25]
+25
+In der Teildisziplin „Neuere und Neueste Geschichte“ muss der Studierende folgende 
+Module absolvieren:
+1. Einführung in die Neuere und Neueste Geschichte: 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Geschichte ,
+2. Konkretisierungen zu Themen und Fragestellungen der Neueren und Neuesten 
+Geschichte: 5 ECTS-Punkte, Anwesenheit im Proseminar, Modulprüfung: siehe FPO 
+Geschichte ,
+3. Vertiefung Neuere und Neueste Geschichte: 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Geschichte.
+In der Teildisziplin „Wirtschafts- und Sozialgeschichte“ muss der Studierende folgende 
+Module absolvieren:
+1. Einführung in die Wirtschafts- und Sozialgeschichte: 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Geschichte,
+2. Konkretisierungen 
+zu 
+Themen 
+und 
+Fragestellungen 
+der 
+Wirtschafts- 
+und 
+Sozialgeschichte: 5 ECTS-Punkte, Anwesenheit im Proseminar, Modulprüfung: siehe 
+FPO Geschichte,
+3. Vertiefung Wirtschafts- und Sozialgeschichte: 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Geschichte. 
+Im Schwerpunkt „Politik und Gesellschaft“ muss die oder der Studierende folgende 
+Module absolvieren:
+1. Das gemäß § 6 Abs. 3 Nr. 1 und 2 der Prüfungsordnung noch nicht absolvierte Modul 
+muss absolviert werden, entweder
+a) Einführung in die Internationalen Beziehungen: 5 ECTS-Punkte; Modulprüfung: 
+siehe FPO Politikwissenschaft, oder, wenn dieses Modul bereits nach § 6 Abs. 3 
+ 
+Nr. 1 absolviert wurde,
+b) Einführung in die Politische Systemlehre und die Vergleichende Politikwissenschaft: 
+5 ECTS-Punkte; Modulprüfung: siehe FPO Politikwissenschaft.
+2. Das politische System der Bundesrepublik Deutschland: 5 ECTS-Punkte, Modulprüfung: 
+siehe FPO Politikwissenschaft,
+3. Einführung in die Soziologie: 5 ECTS-Punkte, Modulprüfung: siehe FPO Soziologie,
+4. Grundzüge soziologischer Theorien: 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Soziologie,
+5. Ein Modul aus dem Bereich Politik und Gesellschaft im Umfang von 10 ECTS-Punkten 
+aus folgendem Angebot:
+a) Akteure und Systeme der Internationalen Politik: 10 ECTS-Punkte, Modulprüfung: 
+siehe FPO Politikwissenschaft,
+b) Europäische Politische Ideen: 10 ECTS-Punkte, Modulprüfung: siehe FPO 
+Politikwissenschaft,
+c) Europäische Integration (Europa in der Weltpolitik): 10 ECTS-Punkte, Modulprüfung: 
+siehe FPO Politikwissenschaft,
+d) Politische Soziologie und Kultursoziologie: 10 ECTS-Punkte, Modulprüfung: siehe 
+FPO Soziologie,
+e) Schwerpunkte soziologischer Theorien: 10 ECTS-Punkte, Modulprüfung: siehe FPO 
+Soziologie.
+
+[Page 26]
+26
+Im Schwerpunkt „Betriebswirtschaftslehre“ muss die oder der Studierende folgende 
+Module absolvieren:
+1. BWL I: Grundlagen der Allgemeinen Betriebswirtschaftslehre I: 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Wirtschaftswissenschaften,
+2. BWL II: Grundlagen der Allgemeinen Betriebswirtschaftslehre II: 5 ECTS-Punkte, 
+Modulprüfung: siehe FPO Wirtschaftswissenschaften,
+3. Betriebliches 
+Rechnungswesen: 
+5 
+ECTS-Punkte, 
+Modulprüfung: 
+siehe 
+FPO 
+Wirtschaftswissenschaften
+4. VWL 
+I: 
+Mikroökonomie: 
+5 
+ECTS-Punkte, 
+Modulprüfung: 
+siehe 
+FPO 
+Wirtschaftswissenschaften,
+5. VWL 
+II: 
+Makroökonomie: 
+5 
+ECTS-Punkte, 
+Modulprüfung: 
+siehe 
+FPO 
+Wirtschaftswissenschaften,
+6. ein Modul im Umfang von 5 ECTS- Punkten aus folgendem Angebot:
+a) Investition, Finanzierung und Kapitalmarkt: 5 ECTS-Punkte, Modulprüfung: siehe PO 
+Betriebswirtschaftslehre,
+b) Grundlagen des Marketingmanagements: 5 ECTS-Punkte, Modulprüfung: siehe PO 
+Betriebswirtschaftslehre,
+c) weitere Module, die mit dem Schwerpunkt vereinbar sind.
+Im Schwerpunkt „Umwelt und Nachhaltigkeit“ muss die oder der Studierende folgende 
+Module absolvieren:
+1. Physische Geographie 1: Hydro- und Klimageographie: 5 ECTS-Punkte, Modulprüfung: 
+siehe PO BA Geographie,
+2. Physische Geographie 2: Geomorphologie: 5 ECTS-Punkte, Modulprüfung: siehe PO 
+BA Geographie.
+20 ECTS-Punkte müssen durch die erfolgreiche Absolvierung von folgenden möglichen 
+Module erworben werden:
+1. Techniken der Geographie 2: Geoinformatik: 5 ECTS-Punkte, Modulprüfung: siehe PO 
+BA Geographie,
+2. Physische Geographie 3: Landschaftsökologie: 5 ECTS-Punkte, Modulprüfung: siehe 
+Wahlpﬂ
+ ichtkatalog BA Geographie,
+3. Schnee- und Gletscherkunde: 5 ECTS-Punkte, Anwesenheit in der Vorlesung oder 
+Seminar, Modulprüfung: siehe Wahlpﬂ
+ ichtkatalog BA Geographie,
+4. Naturgefahren: 5 ECTS-Punkte, Modulprüfung: siehe Wahlpﬂ
+ ichtkatalog BA Geographie,
+5. Bodengeographie: 5 ECTS-Punkte, Anwesenheit im Seminar mit Geländeteil, 
+Modulprüfung: siehe PO BA Geographie,
+6. Mensch-Umwelt-Konﬂ
+ ikte: 5 ECTS-Punkte, Modulprüfung: siehe Wahlpﬂ
+ ichtkatalog BA 
+Geographie,
+7. Fallbeispiele der Angewandten Physischen Geographie: 5 ECTS-Punkte, Modulprüfung: 
+siehe Wahlpﬂ
+ ichtkatalog BA Geographie,
+8. Den Klimawandel verstehen lernen: Naturwissenschaftliche Grundlagen: 5 ECTS-
+Punkte, Modulprüfung: siehe Wahlpﬂ
+ ichtkatalog BA Geographie,
+9. Weitere physisch-geographischen Module können mit Zustimmung der Dozierenden 
+gewählt werden.
+
+[Page 27]
+27
+Im Schwerpunkt „Data Science“ muss die oder der Studierende folgende Module 
+absolvieren:
+1. Einführung in das statistische Arbeiten: 5 ECTS-Punkte, Modulprüfung: siehe PO BA 
+Data Science,
+2. Einführung in die Programmiertechnik: 5 ECTS-Punkte, Modulprüfung: siehe PO BA 
+Mathematik,
+3. Hands-on Machine Learning und Data Science: 10 ECTS-Punkte, Modulprüfung: siehe 
+PO BA Data Science,
+4. a) Mathematik für Wirtschaftswissenschaftler: 5 ECTS-Punkte, Modulprüfung: siehe 
+ 
+ PO BA Betriebswirtschaftslehre oder, 
+b) Lineare Algebra I (GS/MS/GY): 10 ECTS-Punkte, Modulprüfung: siehe FPO 
+Mathematik.
+5. In diesem Schwerpunkt ist ein weiteres frei wählbares Modul, das mit dem Schwerpnkt 
+vereinbar ist, im Umfang von 5 ECTS-Punkten erfolgreich zu absolvieren, dabei stehen 
+folgende Module zur Verfügung:.
+a) Algorithmen und Datenstrukturen: 5 ECTS-Punkte, Modulprüfung: siehe PO BA 
+Data Science oder
+b) Grundlagen von Informationssystemen: 5 ECTS-Punkte, Modulprüfung: siehe PO 
+BA Digital and Data Driven Business.
+Im Wahlbereich muss die oder der Studierende weitere 10 ECTS-Punkte aus dem 
+Wahlpﬂ
+ ichtbereich „Kommunikationswissenschaft“ oder dem gewählten Schwerpunkt oder 
+auf die beiden Bereiche verteilt erwerben.
+
+[Page 28]
+28
+Modulhandbuch
+Modulhandbuch
+
+[Page 29]
+29
+Grundlagen der Journalistik/
+Kommunikationswissenschaft
+Modulnummer
+82-303-JOU101-H-0911 
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Klaus Meier
+Kompetenzen
+Die Studierenden erhalten einen Überblick über
+• 
+die Journalistik/Kommunikationswissenschaft
+• 
+Gegenstand, Forschungsfelder und Erkenntnisse des Faches
+• 
+Journalistik- und Journalismusforschung.
+Methoden kommunikationswissenschaftlichen Arbeitens:
+• 
+Bibliotheks- und Datenbankrecherche
+• 
+Zitiertechnik
+• 
+Techniken des wissenschaftlichen Schreibens.
+Inhalte/Themen
+Behandlung des Gegenstands und der Forschungsfelder der Journalistik/
+Kommunikationswissenschaft. Die Vorlesung zu diesem Thema (2 SWS) wird 
+ergänzt durch ein Seminar (2 SWS).
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+(1) Vorlesung (2 SWS)
+(2) Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Präsenz/ Selbststudium in der Vorlesung und im Seminar
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: 90minütige Klausur oder Hausarbeit mit Referat
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Präsenz/Selbststudium in der Vorlesung und im Seminar: 2 ECTS-P
+.
+• 
+Nachbereitung der Vorlesung und des Seminars: 1,5 ECTS-Punkte
+• 
+Prüfungsvorbereitung: 1,5 ECTS-Punkte
+Modulnote
+Klausur oder Hausarbeit mit Referat: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Polyvalenz auf Modulebene
+BA Politik und Gesellschaft
+BA/MA Deutsch-Franz. integrierter Studiengang Politikwissenschaft
+BA Europastudien: Sprache, Literatur, Kultur
+BA Aisthesis. Kultur und Medien
+BA Internationale Soziologie
+BA Data Science
+Interdisziplinärer BA AntikePLUS
+Turnus des Angebots
+Jedes Wintersemester
+
+[Page 30]
+30
+Journalismus und Mediensysteme
+Modulnummer
+82-303-JOU102-H-0911
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Klaus Meier
+Kompetenzen
+Die Studierenden erwerben
+• 
+ein Verständnis der Zusammenhänge von Gesellschafts- und 
+Mediensystem: journalistisches Selbstverständnis, Pressefreiheit im 
+Vergleich und in einzelnen Ländern (Vorlesung/Seminar)
+• 
+einen Überblick über den Wandel des Journalismus durch die 
+Digitalisierung: crossmediale Redaktionen, digitale Medien, Social 
+Media und politische Öffentlichkeit (Vorlesung/Seminar)
+• 
+einen Überblick über die Geschichte der Medien und des Journalismus 
+(Seminar)
+• 
+einen Überblick über die Entwicklung der Printmedien, der 
+elektronischen Medien Hörfunk und Fernsehen sowie der Online-
+Medien in Deutschland (Seminar).
+Inhalte/Themen
+Entwicklung von Journalismus und Mediensystemen.
+Voraussetzungen
+Modul Grundlagen der Journalistik/Kommunikationswissenschaft
+Lehr- und Lernformen
+(1) Vorlesung (1 SWS)
+(2) Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Präsenz/Selbststudium in der Vorlesung und im Seminar
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: Hausarbeit mit Referat (Verhältnis 3:1) oder Klausur 
+(90minütig) oder Projektskizze
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Präsenz/Selbststudium in der Vorlesung und im Seminar: 2 ECTS-P
+.
+• 
+Vorbereitung und Durchführung Hausarbeit mit Referat oder Klausur 
+oder Projektskizze: 3 ECTS-Punkte
+Modulnote
+Hausarbeit mit Referat oder Klausur oder Projektskizze: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Polyvalenz auf Modulebene
+BA Politik und Gesellschaft
+BA Aisthesis. Kultur und Medien
+BA/MA Deutsch-Franz. integrierter Studiengang Politikwissenschaft
+BA Europastudien: Sprache, Literatur, Kultur
+BA Internationale Soziologie
+BA Data Science
+Interdisziplinärer BA AntikePLUS
+Turnus des Angebots
+Jedes Sommersemester
+
+[Page 31]
+31
+Medienrecht: Grundlagen des Medien- 
+rechts der Bundesrepublik Deutschland
+Modulnummer
+82-303-JOU103-H-0417
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Klaus Meier
+Kompetenzen
+Die Studierenden erwerben Kenntnisse über
+• 
+Gesetzestexte für die journalistische Arbeit
+• 
+besondere Rechte und Pﬂ
+ ichten der Journalisten
+• 
+die Regelungen zur Meinungs-, Informations- und Pressefreiheit
+• 
+die Regelungen des allgemeinen Persönlichkeitsrechts (auch: Recht 
+am eigenen Bild, Sphärentheorie).
+Inhalte/Themen
+Die Grundlagen des Medienrechts der Bundesrepublik Deutschland: Grund-
+gesetz, Strafgesetz, Persönlichkeitsrecht, spezielle Rechte und Pﬂ
+ ichten von 
+Journalisten.
+Voraussetzungen
+Modul Grundlagen der Journalistik/Kommunikationswissenschaft
+Lehr- und Lernformen
+(1) Vorlesung (2 SWS)
+(2) Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Präsenz/Selbststudium in der Vorlesung und in der Übung
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: 90minütige Klausur 
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Präsenz/Selbststudium in der Vorlesung und in der Übung: 2,5 ECTS-
+Punkte
+• 
+Vorbereitung und Durchführung der Klausur: 2,5 ECTS-Punkte
+Modulnote
+Klausur: 100 % 
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Polyvalenz auf Modulebene
+BA Politik und Gesellschaft
+BA/MA Deutsch-Franz. integrierter Studiengang Politikwissenschaft
+Interdisziplinärer BA AntikePLUS
+Polyvalenz auf Veranstaltungsebene:
+Gebermodul der Veranstaltungen für das Modul Politik und Medien 
+(82-500-POL12-H-1022)
+Turnus des Angebots
+Jedes Sommersemester
+
+[Page 32]
+32
+Qualität und Ethik der öffentlichen 
+Kommunikation
+Modulnummer
+82-303-JOU104-H-0911
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Friederike Herrmann
+Kompetenzen
+Die Studierenden erwerben Wissen sowie Diskurs- und 
+Anwendungsfähigkeit zu
+• 
+medienethischen Fragen bezüglich verschiedener Recherchetechniken, 
+Darstellungsformen, inhaltlicher Aufbereitung
+• 
+Zusammenhängen und Abhängigkeiten von Journalismus und PR in 
+der Mediengesellschaft
+• 
+Konzepten journalistischer Qualität und Qualitätsforschung.
+Inhalte/Themen
+Ethik und Qualität der öffentlichen Kommunikation. Behandlung ethischer 
+Grundfragen des Journalismus.
+Voraussetzungen
+Modul Grundlagen der Journalistik/Kommunikationswissenschaft
+Modul Journalismus und Mediensysteme
+Lehr- und Lernformen
+(1) Seminar (1 SWS)
+(2) Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Regelmäßige und aktive Teilnahme in den Seminaren 
+(Anwesenheitspﬂ
+ icht)
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: Hausarbeit mit Referat (Verhältnis 3:1) oder 
+Projektskizze oder Portfolio
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Regelmäßige und aktive Teilnahme an den beiden Seminaren: 
+2,5 ECTS-Punkte
+• 
+Vorbereitung und Durchführung Hausarbeit mit Referat oder 
+Projektskizze oder Portfolio alternativ in einem der beiden Seminaren: 
+2,5 ECTS-Punkte
+Modulnote
+Hausarbeit mit Referat (Verhältnis 3:1) oder Projektskizze oder Portfolio: 
+ 
+ 
+ 
+ 
+ 
+100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Polyvalenz auf Modulebene
+BA Politik und Gesellschaft
+BA/MA Deutsch-Franz. integrierter Studiengang Politikwissenschaft
+BA Internationale Soziologie
+Interdisziplinärer BA AntikePLUS
+Turnus des Angebots
+Jedes Wintersemester
+
+[Page 33]
+33
+Aktuelle Medienentwicklung
+Modulnummer
+82-303-JOU105-H-0911
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Friederike Herrmann
+Kompetenzen
+Die Studierenden erwerben Kenntnisse über
+• 
+aktuelle Trends in Medien und Journalismus
+• 
+theoretisches Medienfachwissen angewendet auf einen bestimmten 
+Problembereich
+• 
+journalismuspraktische Fähigkeiten und Teamfähigkeit im Projekt.
+Inhalte/Themen
+Behandelt werden sollen ein oder mehrere thematisch zusammenhängende 
+aktuelle Trends der Medienentwicklung mit journalistischem Bezug. Das Se-
+minar zum Thema soll jeweils begleitet werden von einer berufspraktischen 
+Übung, in der anhand eines oder mehrerer Projekte das theoretische Wissen 
+umgesetzt, geübt bzw. am Beispiel durch eigene Erfahrung vertieft wird.
+Voraussetzungen
+Modul Grundlagen der Journalistik/Kommunikationswissenschaft
+Lehr- und Lernformen
+(1) Seminar (1 SWS)
+(2) Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Präsenz oder Selbststudium Seminar und Übung
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: Projektskizze oder Portfolio oder praktische 
+Leistungen
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Präsenz/Selbststudium in Seminar und Übung: 2 ECTS-Punkte
+• 
+Vorbereitung und Durchführung Projektskizze oder Portfolio oder 
+praktische Leistungen: 3 ECTS-Punkte
+Modulnote
+Projektskizze oder Portfolio oder praktische Leistungen: 100 %
+Status des Moduls
+Wahlpﬂ
+ ichtmodul BA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Turnus des Angebots
+Jedes Sommersemester
+
+[Page 34]
+34
+Modulnummer
+82-303-JOU106-H-0918
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Friederike Herrmann
+Kompetenzen
+Die Studierenden erwerben Kenntnisse über
+• 
+die wichtigsten Ansätze aus dem Bereich Publikumsforschung
+• 
+die wichtigsten Theorien aus dem Bereich Medienwirkungsforschung
+• 
+Studien zur Mediennutzung.
+Inhalte/Themen
+Behandelt werden die grundlegenden Theorien und Studien der Publikums- 
+und Wirkungsforschung in der Kommunikationswissenschaft. Ein Schwer-
+punkt liegt auf der Forschung zu journalismusspeziﬁ
+ schen Themen.
+Voraussetzungen
+Modul Grundlagen der Journalistik/Kommunikationswissenschaft
+Lehr- und Lernformen
+(1) Vorlesung (1 SWS)
+(2) Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Präsenz/Selbststudium in der Vorlesung und Übung
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: 90minütige Klausur oder Hausarbeit mit Referat
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Präsenz/Selbststudium in der Vorlesung und Übung: 2,5 ECTS-Punkte
+• 
+Vorbereitung und Durchführung der Klausur oder Hausarbeit mit 
+Referat: 2,5 ECTS-Punkte
+Modulnote
+Klausur oder Hausarbeit mit Referat (Verhältnis 3:1): 100 %
+Status des Moduls
+Wahlpﬂ
+ ichtmodul BA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Polyvalenz auf Modulebene
+BA Politik und Gesellschaft
+BA/MA Deutsch-Franz. integrierter Studiengang Politikwissenschaft
+BA Europastudien: Sprache, Literatur, Kultur
+BA Aisthesis. Kultur und Medien
+BA Internationale Soziologie
+Interdisziplinärer BA AntikePLUS
+Pollyvalenz auf Veranstaltungsebene
+Gebermodul der Veranstaltungen für das Modul Politik und Medien
+(82-500-POL12-H-1022)
+Turnus des Angebots
+Jedes Sommersemester
+Medienrezeptions- und 
+Medienwirkungsforschung
+
+[Page 35]
+35
+Modulnummer
+82-303-JOU107-H-0911
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Friederike Herrmann
+Kompetenzen
+Die Studierenden erwerben Kenntnisse über
+• 
+die speziﬁ
+ schen Bedürfnisse und das kommunikative Verhalten 
+bestimmter Zielgruppen
+• 
+die Grundlagen der Medienproduktion
+• 
+ressortspeziﬁ
+ sche Themenﬁ
+ ndungs- und Arbeitsprozesse
+• 
+das Arbeiten an einem Projekt.
+Inhalte/Themen
+Betrachtet werden sollen die themen- und zielgruppenspeziﬁ
+ sche Produktion 
+journalistischer Inhalte für bestimmte Ressort- oder Fachmedientypen. Die 
+Übung bietet den Studierenden die Möglichkeit, medienpraktisches Wissen 
+zu vertiefen. Die praktische Übung kann in einer Form einer journalistischen 
+Praxisarbeit abgeleistet werden. Sie dient den Studierenden dazu, ihre jour-
+nalismuspraktischen Kenntnisse am Ende des Studiums in einem nach ihren 
+Interessen frei wählbaren Medium (Zeitung, Zeitschrift, Hörfunk, TV
+, Online) 
+sowie in frei wählbaren Darstellungsformen (Bericht, Reportage, Feature, Prä-
+sentation, Kommentar etc.) unter Beweis zu stellen.
+Voraussetzungen
+Module Medienwerkstatt I und II
+Lehr- und Lernformen
+(1) Seminar (2 SWS)
+(2) Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Präsenz/Selbststudium in Seminar und Übung
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: Portfolio (enthält im Rahmen der Veranstaltungen 
+Seminar und Übung zu erbringende Anteile im Verhältnis Seminar 
+(50 %) und Übung (50 %) oder praktische Leistungen
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Präsenz/Selbststudium in Seminar und Übung: 2 ECTS-Punkte
+• 
+Vorbereitung und Durchführung Portfolio oder praktische Leistungen: 
+3 ECTS-Punkte
+Modulnote
+Portfolio oder praktische Leistungen: 100 %
+Status des Moduls
+Wahlpﬂ
+ ichtmodul BA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Turnus des Angebots
+Sommersemester (4.-6. Semester)
+Spezialisierung im Journalismus
+
+[Page 36]
+36
+Ausgewählte Themen der 
+Kommunikationswissenschaft
+Modulnummer
+82-303-JOU118-H-0911
+ECTS
+5
+Modulverantwortlicher
+Klaus Meier
+Kompetenzen
+Die Studierenden erwerben Kenntnisse über spezielle Themen der 
+Kommunikationswissenschaft.
+Inhalte/Themen
+Ausgewählte kommunikationswissenschaftliche Gebiete
+Voraussetzungen
+Modul Grundlagen der Journalistik/Kommunikationswissenschaft
+Modul Journalismus und Mediensysteme
+Lehr- und Lernformen
+Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Präsenz/Selbststudium im Seminar
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: Klausur oder Hausarbeit mit Referat oder Portfolio
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Präsenz/Selbststudium im Seminar: 2 ECTS-Punkte
+• 
+Vorbereitung und Durchführung Klausur (90minütig) oder Hausarbeit 
+mit Referat (Verhältnis 3:1) oder Portfolio: 3 ECTS-Punkte
+Modulnote
+Klausur oder Hausarbeit mit Referat oder Portfolio: 100 %
+Status des Moduls
+Wahlpﬂ
+ ichtmodul BA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Turnus des Angebots
+Turnus des Angebots wechselt 4.-6. Semester
+x
+KOMMUNIKATIONSWISSENSCHAFT
+
+[Page 37]
+37
+36
+Empirische Kommunikationsforschung I: 
+Grundlagen der empirischen 
+Sozialforschung
+Modulnummer
+82-303-JOU108-H-0911
+ECTS
+5
+x
+METHODEN DER KW
+Modulverantwortlicher
+Karin Boczek
+Kompetenzen
+Die Studierenden sollen
+• 
+die Grundlagen und die Entwicklung der empirischen Sozialforschung 
+kennen lernen
+• 
+die Grundlagen der Statistik beherrschen
+• 
+die grundsätzlichen Methoden der empirischen Forschung in der 
+Kommunikations- und Medienwissenschaft und ihre Prinzipien (wie 
+etwa Befragung, Inhaltsanalyse, Beobachtung und Experiment) 
+kennen.
+Inhalte/Themen
+Behandelt werden die grundlegenden Methoden der empirischen Sozialfor-
+schung, wie sie in der Kommunikations- und Medienforschung bzw. in den 
+angrenzenden Disziplinen Verwendung ﬁ
+ nden: wie etwa Befragung, Inhalts-
+analyse, Beobachtung und Experiment.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Seminar (4 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Präsenz/Selbststudium im Seminar
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: 90minütige Klausur oder Portfolio
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Präsenz/Selbststudium im Seminar: 2 ECTS-Punkte
+• 
+Vorbereitung und Durchführung der Klausur oder Portfolio: 3 ECTS-
+Punkte
+Modulnote
+Klausur oder Portfolio: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+BA Data Science
+Turnus des Angebots
+Jedes Wintersemester
+
+[Page 38]
+38
+Empirische Kommunikationsforschung II: 
+Anwendungsprojekt
+Modulnummer
+82-303-JOU109-H-0918
+ECTS
+5
+x
+METHODEN DER KW
+Modulverantwortlicher
+Karin Boczek
+Kompetenzen
+Die Studierenden sollen
+• 
+mit Prinzipien und Problemen der Anlage, Durchführung und 
+Interpretation kommunikationswissenschaftlicher Studien vertraut sein 
+• 
+ihre Methodenkenntnisse erweitern, vertiefen und sie in einer 
+forschungspraktischen Übung im Team oder individuell anwenden 
+können
+• 
+die Charakteristika wissenschaftlichen Arbeitens beherrschen.
+Inhalte/Themen
+Behandelt werden die grundlegenden Methoden der quantitativen und qua-
+litativen kommunikationswissenschaftlichen Forschung: z.B. Inhaltsanalyse 
+und Befragung. Das Seminar soll der Begleitung oder Vorbereitung der For-
+schung der Studierenden für die Bachelorarbeit dienen. Es sollen forschungs-
+methodische Fragen und Probleme erörtert werden und damit die Brücke 
+zwischen theoretischer Beschäftigung und praktischer Anwendungen ge-
+schlagen werden.
+Voraussetzungen
+Modul Empirische Kommunikationsforschung I
+Lehr- und Lernformen
+Seminar (4 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Präsenz/Selbststudium im Seminar
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: Projektskizze oder Portfolio oder praktische 
+Leistungen
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Präsenz/Selbststudium im Seminar: 2 ECTS-Punkte
+• 
+Vorbereitung und Durchführung Projektskizze oder Portfolio oder 
+praktische Leistungen: 3 ECTS-Punkte
+Modulnote
+Projektskizze oder Portfolio oder praktische Leistungen: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+BA Data Science
+Turnus des Angebots
+Jedes Sommersemester
+
+[Page 39]
+39
+Bachelorarbeit
+Modulnummer
+82-303-JOU119-H-0911
+ECTS
+10
+x
+BACHELORARBEIT
+Modulverantwortlicher
+ Klaus Meier
+Kompetenzen
+Die Studierenden sollen nachweisen, dass sie wissenschaftliche Fertigkeiten 
+und Arbeitstechniken auf ein Forschungsthema anwenden und die metho-
+disch-analytischen Instrumente zusammentragen, analysieren und interpre-
+tieren können sowie ausgeprägte Fertigkeiten der Dokumentation und Prä-
+sentation beherrschen.
+Inhalte/Themen
+Das Modul dient zur Anfertigung der eigenständigen, problemorientierten Ab-
+schlussarbeit des Studiengangs. Das Thema der ca. 40seitigen Bachelorar-
+beit (ohne Anhang) muss aus dem Bereich der Kommunikationswissenschaft 
+gewählt werden.
+Voraussetzungen
+Nach dem 4. Semester
+Lehr- und Lernformen
+Präsenz/ Selbststudium Seminar (1 SWS)
+Leistungsnachweis: Schriftliche Arbeit
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Erfolgreiche, mindestens mit „ausreichend“ bewertete Bachelorarbeit
+Verteilung der ECTS-
+Punkte im Modul
+• 
+Vorbereitung und Durchführung der schriftlichen Arbeit: 
+10 ECTS-Punkte
+Modulnote
+Note der Bachelorarbeit: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Turnus des Angebots
+Siehe Prüfungsordnung §8
+
+[Page 40]
+40
+Modulverantwortlicher
+Annika Sehl
+Kompetenzen
+Die Studierenden erwerben Fertigkeiten in folgenden Bereichen
+• 
+Grundlagen journalistischer Textproduktion (Textaufbau, Stil, Trennung 
+von Meinung und Nachricht, Darstellungsform: Reportage, Meldung 
+und Bericht schreiben)
+• 
+Grundlagen und Methoden journalistischer Recherche (Vor- und 
+Hauptrecherche, Recherchetechniken, Online- und Archivrecherche, 
+investigative Recherche, spezielle Recherche-Umfelder)
+• 
+Texten und Produzieren für Social Media.
+Inhalte/Themen
+Gelehrt werden die handwerklichen und technischen Grundlagen journalisti-
+scher Textproduktion und Recherche.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+(1) Seminar (2 SWS)
+(2) Übung 1 (3 SWS)
+(3) Übung 2 (2 SWS)
+(4) Übung 3 (1 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Regelmäßige und aktive Teilnahme an Seminar, Übung 1, Übung 2 und 
+Übung 3 (Anwesenheitspﬂ
+ icht)
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter Leistungs-
+nachweis: Portfolio enthält im Rahmen der Veranstaltungen Seminar 
+und Übungen zu erbringende Anteile in folgender Gewichtung: 
+ 
+• 
+Praktische Leistungen im Seminar zu 30 %, 
+• 
+Studienleistungen aus Übung 1 zu 30 %, 
+• 
+Studienleistungen aus Übung 2 zu 20 %,
+• 
+Studienleistungen aus Übung 3 zu 20 %;
+es gilt das gewichtete arithmetische Mittel als Modulnote
+Verteilung der ECTS-
+Punkte im Modul
+10 ECTS-Punkte
+• 
+Qualiﬁ
+ zierte Teilnahme an Seminar, Übung 1, Übung 2 und Übung 3: 4 
+ECTS-Punkte
+• 
+Vorbereitung und Durchführung Portfolio: 6 ECTS-Punkte
+Modulnote
+Portfolio: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvanz mit anderen 
+Studiengängen
+Turnus des Angebots
+Jedes Wintersemester
+Journalistisches Arbeiten I
+Modulnummer
+82-303-JOU110-H-0911
+ECTS
+10
+x
+JOURNALISTISCHE PRAXIS 
+ 
+ 
+ 
+
+[Page 41]
+41
+Journalistisches Arbeiten II
+Modulnummer
+82-303-JOU111-H-0911
+ECTS
+5
+x
+JOURNALISTISCHE PRAXIS
+Modulverantwortlicher
+Annika Sehl
+Kompetenzen
+Die Studierenden sollen
+• 
+die verschiedenen Darstellungsformen im Journalismus kennen lernen 
+und üben.
+Inhalte/Themen
+Gelehrt werden die Darstellungsformen Feature und Kommentar.
+Voraussetzungen
+Modul Journalistisches Arbeiten I
+Lehr- und Lernformen
+Übung (4 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Regelmäßige und aktive Teilnahme in der Übung (Anwesenheitspﬂ
+ icht)
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: Praktische Leistungen oder Portfolio
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Regelmäßige und aktive Teilnahme in der Übung: 1,5 ECTS-Punkte
+• 
+Vorbereitung und Durchführung Praktische Leistungen oder Portfolio: 
+3,5 ECTS-Punkte
+Modulnote
+Praktische Leistungen oder Portfolio: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvanz mit anderen 
+Studiengängen
+Turnus des Angebots
+Jedes Sommersemester
+
+[Page 42]
+42
+Hörfunk
+Modulnummer
+82-303-JOU112-H-0911
+ECTS
+5
+x
+JOURNALISTISCHE PRAXIS
+Modulverantwortlicher
+Friederike Herrmann
+Kompetenzen
+Die Studierenden erwerben
+• 
+Technische Kompetenzen: Sie lernen den Umgang mit der Technik des 
+Hörfunkstudios sowie den nonlinearen Audioschnitt
+• 
+Fachkompetenz: Sie üben die Produktion von Umfragen, gebauten 
+Beiträgen und Reportagen 
+• 
+Kommunikationskompetenz: Sprech- und Kommunikationstraining.
+Inhalte/Themen
+Gelehrt werden journalistische Darstellungsformen im Hörfunk und anderen 
+Audioformaten sowie die Produktion von Beiträgen und Sendungen.
+Voraussetzungen
+Lehr- und Lernformen
+(1) Übung 1 (4 SWS)
+(2) Übung 2 (1 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Regelmäßige und aktive Teilnahme in der Übung 1 und Übung 2 
+(Anwesenheitspﬂ
+ icht)
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: Praktische Leistungen Übung 1
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Regelmäßige und aktive Teilnahme in den Übungen: 2 ECTS-Punkte
+• 
+Vorbereitung und Durchführung Praktische Leistungen: 3 ECTS-P
+.
+Modulnote
+Übung 1: Praktische Leistungen: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvanz mit anderen 
+Studiengängen
+Turnus des Angebots
+Jedes Sommersemester
+
+[Page 43]
+43
+Fernsehen/Videojournalismus
+Modulnummer
+82-303-JOU113-H-0911
+ECTS
+5
+x
+JOURNALISTISCHE PRAXIS
+Modulverantwortlicher
+Karin Boczek
+Kompetenzen
+Die Studierenden erwerben
+• 
+Technische Kompetenzen: Sie erlernen sowohl den Umgang mit 
+professionellem Video-Equipment als auch Mobile Reporting mit dem 
+Smartphone sowie Grundlagen des nonlinearen Videoschnitts und 
+Datenmanagements
+• 
+Fachkompetenz: Sie lernen die Prinzipien visuellen Erzählens 
+(Storytelling, Wirkung von Bild, Ton, Text und Schnitt)
+• 
+Organisatorische Kompetenzen: Sie lernen Tools für die Planung von 
+Videoproduktionen kennen (Mindmap, Exposé, Filmplan, Storyboard).
+• 
+Soziale Kompetenzen: Teamarbeit im Kamerateam.
+Inhalte/Themen
+Alle Phasen der Videoproduktion – von der Themenplanung bis hin zur Pro-
+duktion einer TV-Magazinsendung – werden praktisch geübt.
+Voraussetzungen
+Lehr- und Lernformen
+Übung (4 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Regelmäßige und aktive Teilnahme in der Übung (Anwesenheitspﬂ
+ icht)
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: Praktische Leistungen
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Regelmäßige und aktive Teilnahme in der Übung: 2 ECTS-Punkte
+• 
+Vorbereitung und Durchführung Praktische Leistungen: ein 
+Abschlussﬁ
+ lm: 3 ECTS-Punkte
+Modulnote
+Praktische Leistungen: ein Abschlussﬁ
+ lm: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvanz mit anderen 
+Studiengängen
+Turnus des Angebots
+Jedes Wintersemester
+
+[Page 44]
+44
+Digitale Medien
+Modulnummer
+82-303-JOU114-H-1211
+ECTS
+5
+x
+JOURNALISTISCHE PRAXIS
+Modulverantwortlicher
+Karin Boczek
+Kompetenzen
+Die Studierenden 
+• 
+kennen die Gemeinsamkeiten und Unterschiede des Online-
+Journalismus und des traditionellen Journalismus
+• 
+speziﬁ
+ sche Darstellungsformen des Online-Journalismus
+• 
+können mit einem Content-Management-System umgehen
+• 
+erhalten einen Überblick über die Formen der visuellen Kommunikation
+• 
+lernen fotograﬁ
+ sche Gestaltungsmittel und Darstellungsformen im 
+Fotojournalismus zu beherrschen.
+Inhalte/Themen
+Das Modul bietet in einer Übung eine Einführung in die Prinzipien des Online-
+Journalismus, vermittelt Arbeitstechniken, Gemeinsamkeiten und Unterschie-
+de zu anderen Medien und behandelt in der anderen Übung Funktionen und 
+Formen der visuellen Kommunikation, deren Darstellungsformen praktisch 
+erarbeitet werden.
+Voraussetzungen
+Module Journalistisches Arbeiten I und II
+Lehr- und Lernformen
+(1) Übung 1 (2 SWS)
+(2) Übung 2 (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Präsenz/Selbststudium in den beiden Übungen
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: Portfolio enthält im Rahmen der Veranstaltungen 
+Übung 1 und Übung 2 zu erbringende Anteile im Verhältnis 50:50
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Präsenz/Selbststudium in den beiden Übungen: 2 ECTS-Punkte
+• 
+Vorbereitung und Durchführung Portfolio: 3 ECTS-Punkte
+Modulnote
+Portfolio: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvanz mit anderen 
+Studiengängen
+Turnus des Angebots
+Jedes Wintersemester
+44
+
+[Page 45]
+45
+Digitales Projekt
+Modulnummer
+82-303-JOU115-H-0423
+ECTS
+10
+x
+JOURNALISTISCHE PRAXIS
+Modulverantwortlicher
+Karin Boczek
+Kompetenzen
+Die Studierenden erwerben
+• 
+Handlungskompetenz: Vertiefen der Praxisfähigkeiten in einem Projekt
+• 
+Crossmediale Kompetenz: Aufbereiten eines Themas für 
+unterschiedliche Plattformen unter Ausnutzung der medienspeziﬁ
+ schen 
+Möglichkeiten
+• 
+Sachkompetenz: Intensive Recherche zu einem Thema und dessen 
+plattformgerechter Präsentation
+• 
+Fachkompetenz: Grundlagen des Digitalen Journaliismus einschließlich 
+ökonomischer und rechtlicher Rahmenbedingungen
+• 
+Soziale Kompetenz: Zusammenarbeit in einer Redaktion, in Teams und 
+Arbeitsgruppen sowie die Übernahme von Verantwortung für einzelne 
+Bereiche.
+Inhalte/Themen
+Produktion des Digitalen Projekts „Einsteins“, bestehend aus einem Video- 
+und einem Audioformat, einem Online-Auftritt und Social Media Kanälen.
+Voraussetzungen
+Modul Hörfunk 
+Modul Digitale Medien
+Modul Fernsehen/Videojournalismus 
+Lehr- und Lernformen
+Übung (8 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Regelmäßige u. aktive Teilnahme in der Übung (Anwesenheitspﬂ
+ icht)
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter Leistungs-
+nachweis: Praktische Leistungen, die den Anforderungen des Projekts 
+und der unterschiedlichen aber auch gemeinsam wahrzunehmenden 
+Aufgaben entsprechen u. a. Exposés, Beiträge, Teamarbeit
+Verteilung der ECTS-
+Punkte im Modul
+10 ECTS-Punkte
+• 
+Regelmäßige und aktive Teilnahme in der Übung: 3 ECTS-Punkte
+• 
+Vorbereitung und Durchführung Praktische Leistungen u. a. Exposés, 
+Beiträge, Teamarbeit, die Produktion (Produktions-, Team- und 
+Arbeitsgruppenarbeit) eines Digitalen Projekts: 7 ECTS-Punkte
+Modulnote
+Praktische Leistungen: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvanz mit anderen 
+Studiengängen
+Turnus des Angebots
+Jedes Sommersemester
+
+[Page 46]
+46
+Redaktionelles Pﬂ
+ ichtpraktikum 
+Modulnummer
+82-303-JOU116-H-0911
+ECTS
+10
+x
+JOURNALISTISCHE PRAXIS
+Modulverantwortlicher
+Karin Boczek
+Kompetenzen
+• 
+Ausbildung von Schlüssel- und Vermittlungskompetenzen
+• 
+Anschauung von berufspraktischer Tätigkeit sowie eine 
+berufsfeldbezogene Zusatzqualiﬁ
+ kation z. B. bei Printmedien, in 
+Onlineredaktionen, Hörfunk, Fernsehen oder Nachrichtenagenturen.
+Inhalte/Themen
+Das Praktikum, das sowohl im Inland wie im Ausland abgeleistet werden 
+kann, ermöglicht eine Verbindung von Studium und Berufsleben. Es soll sich 
+über mindestens acht Wochen erstrecken, den Studierenden eine Anschau-
+ung von berufspraktischer Tätigkeit sowie eine berufsfeldbezogene Zusatz-
+qualiﬁ
+ kation z. B. bei Printmedien, in Onlineredaktionen, Hörfunk, Fernsehen 
+oder Nachrichtenagenturen vermitteln. Die oder der Studierende setzt sich 
+in eigener Verantwortung mit geeigneten privaten oder öffentlichen Einrich-
+tungen in Verbindung, an denen das Praktikum abgeleistet werden kann. Es 
+muss bis zum Ende des 6. Fachsemesters nachgewiesen werden.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Seminar (1 SWS)
+Praktikum
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Praktikum (8 Wochen) mit Nachweis
+• 
+Teilnahme am Seminar Reﬂ
+ exionsvorgaben
+Verteilung der ECTS-
+Punkte im Modul
+10 ECTS-Punkte
+• 
+Achtwöchiges redaktionelles Praktikum: 9 ECTS-Punkte
+• 
+Seminar und Praktikumsbericht: 1 ECTS-Punkt
+Modulnote
+Praktikumsbericht: bestanden/nicht bestanden
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvanz mit anderen 
+Studiengängen
+Turnus des Angebots
+Selbstständige Suche und Kontaktaufnahme durch den oder die Studierende
+
+[Page 47]
+47
+Medienwerkstatt I (Print) und 
+Medienwerkstatt II (Digitale Medien)
+Modulnummer
+82-303-JOU117-H-0423
+ECTS
+10
+x
+JOURNALISTISCHE PRAXIS
+Modulverantwortlicher
+Friederike Herrmann
+Kompetenzen
+Die Studierenden sollen
+• 
+die redaktionelle Arbeit in Zeitungs- und Zeitschriftenredaktionen 
+kennen lernen
+• 
+Recherchieren und Schreiben für die journalistischen 
+Darstellungsformen Nachricht, Bericht, Reportage und Kommentar 
+üben
+• 
+die redaktionelle Arbeit in Audio- und Videoredaktionen kennen lernen
+• 
+Recherchieren und Produktion von Beiträgen für Hörfunk und 
+Fernsehen üben
+• 
+die journalistischen Darstellungsformen Hörfunk- und TV 
+Magazinbeitrag üben 
+• 
+Interview- und Moderationstechniken lernen
+• 
+Teamarbeit in gemeinsamen redaktionellen Arbeitsprozessen üben.
+Inhalte/Themen
+Die Medienwerkstatt I (Print) und II (Digitale Medien) dienen der themenspe-
+ziﬁ
+ schen journalismuspraktischen Ausbildung. In verschiedenen geblockten 
+Übungen mit Lehrbeauftragten aus der journalistischen Praxis wird in der 
+Lehrredaktion des Studiengangs Journalistik redaktionelle Arbeit simuliert. In 
+der Medienwerkstatt I werden Nachrichten-Story, Reportage und Kommentar 
+geschrieben, die Recherche für verschiedene journalistische Darstellungsfor-
+men vertieft und veröffentlichungsreife Artikel erstellt. 
+In der Medienwerkstatt II werden Darstellungsformen in Hörfunk, Podcast, 
+Fernsehen und Social Media, Storytelling, Mobile Reporting und Moderation 
+vor der Kamera gelehrt und geübt. 
+Voraussetzungen
+Module Journalistisches Arbeiten I und II für Medienwerkstatt I
+Modul Hörfunk, Modul Digitale Medien und Modul Fernsehen/ 
+Videojournalismus für Medienwerkstatt II
+Lehr- und Lernformen
+Blockseminare und Übungen
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Regelmäßige und aktive Teilnahme in Blockseminaren und Übungen 
+(Anwesenheitspﬂ
+ icht)
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: Portfolio enthält im Rahmen der Veranstaltungen 
+zu erbringende Anteile als praktische Leistungen im Verhältnis 
+Medienwerkstatt I 50 % und Medienwerkstatt II 50 %
+
+[Page 48]
+48
+Medienwerkstatt I (Print) und 
+Medienwerkstatt II (Digitale Medien)
+Modulnummer
+82-303-JOU117-H-0423
+ECTS
+10
+x
+JOURNALISTISCHE PRAXIS
+Verteilung der ECTS-
+Punkte im Modul
+10 ECTS-Punkte
+• 
+Medienwerkstatt I (Print): Regelmäßige und aktive Teilnahme: 2 ECTS-
+Punkte
+• 
+Medienwerkstatt II (Digitale Medien): Regelmäßige und aktive 
+Teilnahme: 2 ECTS-Punkte
+• 
+Portfolio Medienwerkstatt I und II: 6 ECTS-Punkte
+Modulnote
+Portfolio: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul BA Journalistik
+Polyvanz mit anderen 
+Studiengängen
+Turnus des Angebots
+Jährlich
+
+[Page 49]
+49
+Einführung: Das Politische als Bildungsaufgabe 
+und Bildungsgegenstand
+ECTS
+5
+Modulverantwortlicher
+Rico Behrens/Klaus Stüwe
+Kompetenzen
+Grundkenntnisse über
+• 
+Geschichte und Systematik der Politikwissenschaft
+• 
+Zentralbegriffe der Politikwissenschaft
+• 
+Methoden politikwissenschaftlicher Forschung.
+Fähigkeit zum wissenschaftlichen Arbeiten.
+Inhalte/Themen
+Politikwissenschaft
+• 
+Teilfächer, Geschichte und Schulen der Politikwissenschaft
+• 
+Methoden der empirischen Politikforschung
+Aspekte des Politikbegriffes
+• 
+Weiter und enger Politikbegriff
+• 
+Dimension der Politik
+• 
+Grundtypen politischen Denkens
+Politische Grundbegriffe
+• 
+Staat, Macht, Herrschaft
+• 
+Legalität, Legitimität
+• 
+Gemeinwohl
+• 
+Repräsentation, Partizipation
+Methoden politikwissenschaftlichen Arbeitens
+• 
+Recherchieren
+• 
+Zitiertechnik
+• 
+Techniken des wissenschaftlichen Schreibens
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+(1) Vorlesung (2 SWS)
+(2) Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Regelmäßige Teilnahme bzw. Selbststudium 
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerter 
+Leistungsnachweis: 90minütige Klausur
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Präsenz/Selbststudium in der Vorlesung und in der Übung: 2 ECTS-P
+. 
+• 
+Nachbereitung der Vorlesung und der Übung: 1,5 ECTS-Punkte
+• 
+Prüfungsvorbereitung: 1,5 ECTS-Punkte
+Modulnote
+Klausur: 100 %
+Polyvalenz mit anderen 
+Studiengängen
+BA Deutsch-Franz. integrierter Studiengang Politikwissenschaft
+BA Journalistik (Pﬂ
+ ichtmodul)
+Turnus des Angebots
+Jedes Wintersemester
+x
+GESELLSCHAFTLICHE GRUNDKOMPETENZ
+
+[Page 50]
+50
+Einführung in die politische Systemlehre 
+und die Vergleichende Politikwissenschaft
+ECTS
+5
+x
+GESELLSCHAFTLICHE GRUNDKOMPETENZ
+Modulverantwortlicher
+Klaus Stüwe
+Kompetenzen
+Erwerb von Grundkenntnissen über fachspeziﬁ
+ sche Methoden, 
+zentrale Fragestellungen und Begriffe der Politischen Systemlehre.
+Fähigkeit zum Vergleich von politischen Systemen unter Berücksichtigung 
+der Methoden der Vergleichenden Politikwissenschaft.
+Fähigkeit zur mündlichen und schriftlichen Darstellung, zur Analyse sowie zur 
+kritischen Reﬂ
+ exion einzelner Aspekte politischer Systeme im Rahmen einer 
+Gruppenarbeit. Förderung des nachhaltigen systemischen Denkens und der 
+multiperspektivischen Diskussionsfähigkeit.
+Inhalte/Themen
+Frage- und Problemstellungen des politikwissenschaftlichen Teilfachs
+Politische Systemlehre und Vergleichende Politikwissenschaft: 
+Theoretische und methodische Einführung, politikwissenschaftliche Grundbe-
+griffe, Regimetypen, Elemente des demokratischen Verfassungsstaats, nicht-
+demokratische Systeme, Strukturen demokratischer Verfassungsstaaten im 
+Vergleich, politische Prozesse (z. B. Wahlen und Wahlverhalten, Parteien).
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+(1) Vorlesung (2 SWS)
+(2) Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Klausur und Referat
+• 
+Die Klausur muss mit mindestens „ausreichend“ bewertet sein.
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte 
+• 
+Kontakt-/ Selbststudium: 2 ECTS-Punkte
+• 
+Referat: 1 ECTS-Punkt
+• 
+Klausur auf Basis der eigenständigen akademischen Vertiefung des 
+vermittelten Wissens: 2 ECTS-Punkte
+Modulnote
+Klausur: 100 %
+Polyvalenz mit anderen 
+Studiengängen
+BA Deutsch-Franz. integrierter Studiengang Politikwissenschaft
+Interdisziplinärer Bachelor-/Masterstudiengang/ Lehramt:
+FPO Politikwissenschaft
+FPO Sozialkunde
+BA Journalistik (Wahlpﬂ
+ ichtmodul)
+Turnus des Angebots
+Jedes Wintersemester
+
+[Page 51]
+51
+Einführung in die Internationalen Beziehungen
+ECTS
+5
+x
+GESELLSCHAFTLICHE GRUNDKOMPETENZ
+Modulverantwortlicher
+Klaus Brummer
+Kompetenzen
+Problemorientierte Kenntnis grundlegenden Wissens in Bezug auf die politik-
+wissenschaftliche Teildisziplin Internationale Politik. Dies beinhaltet die Vor-
+stellung von theoretischen Zugängen zur internationalen Politik sowie einiger 
+wichtiger Gegenstandsbereiche und Problemfelder derselben.
+Schulung und Fähigkeit zur theoriegeleiteten Analyse internationaler politi-
+scher Konstellationen und zur politikwissenschaftlilchen Diskussion bzw. Ar-
+gumentation.
+Inhalte/Themen
+• 
+Überblick über die Entwicklung relevanter Theorien und Akteure der 
+internationalen Politik.
+• 
+Vorstellung der Geschichte und Gegenwart wichtiger internationaler 
+Organisationen wie der Europäischen Union und Vereinten Nationen.
+• 
+Verweis auf aktuelle Herausforderungen der Friedenssicherung und 
+der Entwicklungspolitik.
+• 
+Erörterung zentraler Fragen der internationalen Umweltpolitik und des 
+internationalen Rechts.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+(1) Vorlesung (2 SWS)
+(2) Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Klausur 
+• 
+Die Klausur muss mit mindestens „ausreichend“ bewertet sein.
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte 
+• 
+Kontakt-/Selbststudium: 2 ECTS-Punkte
+• 
+Referat: 1 ECTS-Punkt
+• 
+Klausur, auf Basis der eigenständigen akademischen Vertiefung des 
+vermittelten Wissens: 2 ECTS-Punkte
+Modulnote
+Klausur: 100 %
+Polyvalenz mit anderen 
+Studiengängen
+BA Deutsch-Franz. integrierter Studiengang Politikwissenschaft
+BA Journalistik (Wahlpﬂ
+ ichtmodul)
+Interdisziplinärer Bachelor-/Masterstudiengang/ Lehramt:
+FPO Politikwissenschaft
+FPO Sozialkunde
+Turnus des Angebots
+Jedes Sommersemster
+
+[Page 52]
+52
+Sozialstruktur der Bundesrepublik Deutschland
+ECTS
+5
+x
+GESELLSCHAFTLICHE GRUNDKOMPETENZ
+Modulverantwortlicher
+Stefanie Eiﬂ
+ er
+Kompetenzen
+• 
+Grundlegende Kenntnisse der Themen, Konzepte und Methoden der 
+Sozialstrukturanalyse
+• 
+Fähigkeiten zur Beschreibung der Sozialstruktur
+• 
+Grundlegendes Wissen über die Sozialstruktur der Bundesrepublik 
+Deutschland
+Inhalte/Themen
+Das Modul vermittelt einen einführenden Überblick über Themen, Konzep-
+te und Methoden der Sozialstrukturanalyse. Die Vorlesung widmet sich den 
+Grundbegriffen und Modellen der Sozialstrukturanalyse, der Bevölkerungs-
+soziologie, dem Begriff und den Dimensionen sozialer Ungleichheit und den 
+Ursachen und Strukturen sozialer Ungleichheit. Während die Vorlesung einen 
+allgemeineren Überblick vermittelt, ist es Aufgabe der Übungen, die Inhalte 
+der Vorlesung auf ausgewählte, aktuelle Problemstellungen der Sozialstruk-
+turanalyse zu übertragen.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+(1) Vorlesung (2 SWS)
+(2) Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter 
+Leistungsnachweis: 90-120 minütige Klausur oder mündliche Prüfung 
+(20 min.) oder schriftliche Hausarbeit (Umfang: ca. 3.000 Wörter)
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte 
+Vorlesung
+• 
+Kontakt-/Selbststudium: 1 ECTS-Punkt
+• 
+Vor- und Nachbereitung: 1 ECTS-Punkt
+• 
+Vorbereitung Leistungsnachweis: 1 ECTS-Punkt
+Übung
+• 
+Kontakt-/Selbststudium: 1 ECTS-Punkt
+• 
+Vorbereitung eines Referats:1 ECTS-Punkt
+Modulnote
+Klausur oder mündliche Prüfung oder Hausarbeit: 100 %
+Polyvalenz mit anderen 
+Studiengängen
+BA Politik und Gesellschaft
+Internationaler BA Soziologie
+BA Deutsch-Franz. integrierter Studiengang Politikwissenschaft
+BA Journalistik (Pﬂ
+ ichtmodul)
+Lehramt Sozialkunde
+Turnus des Angebots
+Jedes Sommersemester
+
+[Page 53]
+53
+Studium Pro 
+ECTS
+5
+x
+GESELLSCHAFTLICHE GRUNDKOMPETENZ
+Modulverantwortlicher
+Je nach Modul verschieden
+Kompetenzen
+• 
+Studium.Pro ist das interdisziplinär angelegte Programm zum 
+proﬁ
+ lorientierten Studium an der KU. „Pro“ steht dabei für Proﬁ
+ l, 
+Profession und eine auch gesellschaftlich engagierte Wissenschaft.
+• 
+Studium.Pro bietet Studierenden die Möglichkeit, ihren Bildungs- und 
+Qualiﬁ
+ zierungsweg begleitend zum bzw. im Fachstudium bereichernd 
+zu gestalten.
+Inhalte/Themen
+• 
+Dies geschieht durch die interdisziplinäre Auseinandersetzung 
+mit aktuellen Problemstellungen, durch die qualiﬁ
+ zierte 
+Auseinandersetzung mit fachübergreifenden Themen oder durch die 
+projektbezogene Bearbeitung von aktuellen gesellschaftlichen Themen 
+und Herausforderungen. 
+• 
+Jedes Semester ﬁ
+ ndet man im Studiengang BA Journalistik dazu die 
+Module, die man optional besuchen kann. Während des Studiums 
+muss ein Modul aus dem Kanon des Angebots im Umfang von 5 
+ECTS-Punkten gewählt werden.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Voraussetzungen für 
+ECTS-Punkte
+• 
+Erfolgreicher, mindestens mit „ausreichend“ bewerter 
+Leistungsnachweis: 
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte 
+Modulnote
+Leistungsnachweis: 100 %
+Polyvalenz mit anderen 
+Studiengängen
+Turnus des Angebots
+Jedes Semester
+
+[Page 54]
+54
+Prüfungsordnung für den Bachelorstudiengang Journalistik 
+an der Katholischen Universität Eichstätt-Ingolstadt
+Vom 22. Juli 2021 
+geändert durch Satzung vom 23. Juli 2021
+geändert durch Satzung vom 15. September 2022
+geändert durch Satzung vom 20. März 2024 
+geändert durch Satzung vom 20.April 2024 
+Aufgrund des Art. 5 § 3 Satz 1 des Konkordats zwischen dem Heiligen Stuhl und dem 
+Freistaat Bayern vom 29. März 1924 (BayRS 2220-1-WFK) erlässt die Katholische 
+Universität Eichstätt-Ingolstadt (KU) folgende Prüfungsordnung:
+Inhalt:
+§1 
+Geltungsbereich 
+55
+§2 
+Akademischer Grad 
+55
+§3 
+Qualiﬁ
+ kationsvoraussetzungen 
+55
+§4 
+Regelstudienzeit, Studienbeginn, Auslandsstudium 
+55
+§5 
+Bestehen der Bachlorprüfung 
+55
+§6 
+Pﬂ
+ ichtbereich, Wahlpﬂ
+ ichtbereich 
+56
+§7 
+Schwerpunkte, Wahlbereich 
+58
+§8 
+Bachelorarbeit 
+58
+§9 
+In-Kraft-Treten, Übergangsregelung 
+60
+
+[Page 55]
+55
+§1 Geltungsbereich
+1Diese 
+Prüfungsordnung 
+regelt 
+die 
+Prüfungsanforderungen 
+für 
+den 
+Bachelorstudiengang Journalistik. 2Ergänzend gilt die Allgemeine Prüfungsordnung 
+(APO) der Katholischen Universität Eichstätt-Ingolstadt vom 26. November 2014 in 
+der jeweils gültigen Fassung.
+§2 Akademischer Grad
+Nach erfolgreichem Abschluss des Studiums wird der akademischen Grad eines 
+“Bachelor of Arts” (abgekürzt: „B.A.”) verliehen.
+§3 Qualiﬁ
+ kationsvoraussetzungen
+Voraussetzung für die Aufnahme in diesen Bachelorstudiengang ist neben 
+dem 
+Nachweis 
+der 
+Allgemeinen 
+Hochschulreife 
+oder 
+gleichwertiger 
+Zugangsvoraussetzungen.
+§4 Regelstudienzeit, Studienbeginn, Auslandsstudium
+(1) 
+Die Regelstudienzeit des Bachelorstudiums beträgt sechs Semester. 
+(2) 
+Das Studium kann im Wintersemester aufgenommen werden.
+(3) Im Rahmen der internationalen Ausrichtung des Studiengangs muss jede 
+oder jeder Studierende ein Semester im Ausland verbringen; in der Regel 
+ist dies das fünfte Semester. 2Die Auslandsphase ist Teil des regulären 
+Studiums, es bedarf keiner Beurlaubung. 3Für dessen Durchführung und 
+Finanzierung haben die Studierenden selbst Sorge zu tragen. 
+§5 Bestehen der Bachelorprüfung
+Die Bachelorprüfung ist bestanden, wenn 
+1. sämtliche Module bis zum Ende des achten Fachsemesters mindestens 
+mit der Note „ausreichend“ (4,0) oder mit „bestanden“ bewertet sind 
+und 
+2. die oder der Studierende insgesamt 180 ECTS-Punkte erworben hat.
+
+[Page 56]
+56
+§6 Pﬂ
+ ichtbereich, Wahlpﬂ
+ ichtbereiche
+(1) 
+Folgende Pﬂ
+ ichtmodule im Umfang von 105 ECTS-Punkten sind erfolgreich 
+zu absolvieren: 
+1. Grundlagen der Journalistik/Kommunikationswissenschaft: 5 ECTS-
+Punkte, Modulprüfung: Klausur oder Hausarbeit mit Referat,
+2. Journalismus und Mediensysteme: 5 ECTS-Punkte, Modulprüfung: 
+Hausarbeit mit Referat oder Klausur oder Portfolio,
+3. Qualität und Ethik der öffentlichen Kommunikation: 5 ECTS-Punkte, 
+ 
+ 
+Anwesenheitspﬂ
+ icht, Modulprüfung: Hausarbeit mit Referat oder Pro-
+jektskizze oder Portfolio,
+4. Medienrecht: Grundlagen des Medienrechts der Bundesrepublik 
+Deutschland: 5 ECTS-Punkte, Modulprüfung: Klausur,
+5. Empirische Kommunikationsforschung I: Grundlagen der empirischen 
+Sozialforschung: 5 ECTS-Punkte, Modulprüfung: Klausur oder Portfo-
+lio,
+6. Empirische Kommunikationsforschung II: Anwendungsprojekt: 5 ECTS-
+Punkte, Zulassungsvoraussetzung: erfolgreiche Absolvierung des Mo-
+duls Empirische Kommunikationsforschung I, Modulprüfung: Projekt-
+skizze oder Portfolio oder praktische Leistungen, 
+7. Journalistisches Arbeiten I: 10 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+ 
+Modulprüfung: Portfolio, 
+8. Journalistisches Arbeiten II: 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+ 
+ 
+ 
+ 
+Modulprüfung: Praktische Leistungen oder Portfolio, 
+9. Digitale Medien: 5 ECTS-Punkte, Modulprüfung: Portfolio, 
+10. Hörfunk: 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, Modulprüfung: Prakti-
+sche Leistungen, 
+11. Fernsehen/Videojournalismus: 5 ECTS-Punkte, Anwesenheitspﬂ
+ icht, 
+Modulprüfung: Praktische Leistungen, 
+12. Digitales Projekt: 10 ECTS-Punkte, Zulassungsvoraussetzung: erfolg-
+reiche Absolvierung der Module Digitale Medien, Hörfunk, Fernsehen/
+Videojournalismus, Anwesenheitspﬂ
+ icht, Modulprüfung: Praktische 
+Leistungen, 
+13. Medienwerkstatt I (Print) und II (Digitale Medien): 10 ECTS-Punkte, Zu-
+lassungsvoraussetzung für Medienwerkstatt I: erfolgreiche Absolvie-
+rung der Module Journalistisches Arbeiten I, Journalistisches Arbeiten II; 
+Zulassungsvoraussetzung für Medienwertkstatt II: Hörfunk, Fernsehen/
+Videojournalismus, Anwesenheitspﬂ
+ icht, Modulprüfung: Portfolio, 
+14. Redaktionelles Pﬂ
+ ichtpraktikum: 10 ECTS-Punkte, Modulprüfung: Prak-
+tikumsbericht (unbenotet),
+
+[Page 57]
+57
+15. Sozialstruktur der BRD: 5 ECTS-Punkte, Modulprüfung: Klausur oder 
+mündliche Prüfung (20 Minuten) oder Hausarbeit (2.700-3.300 Wörter; 
+Bearbeitungszeit: 6 Wochen nach Themenvereinbarung),
+16. Einführung: Das Politische als Bildungsaufgabe und Bildungsgegen-
+stand: 5 ECTS-Punkte, Modulprüfung: Klausur (90 Minuten), 
+17. ein Bachelormodul aus dem Studienangebot Studium.Pro im Umfang 
+von 5 ECTS-Punkten.
+(2) 
+1Im Wahlpﬂ
+ ichtbereich Kommunikationswissenschaft muss jede oder jeder 
+Studierende 20 ECTS-Punkte erwerben. 210 ECTS-Punkte aus dem Wahl-
+pﬂ
+ ichtbereich Kommunikationswissenschaft müssen im Auslandsstudium 
+erworben werden. 310 ECTS-Punkte müssen durch die erfolgreiche Absol-
+vierung von mindestens zwei der folgenden Module erworben werden: 
+1. Aktuelle Medienentwicklung: 5 ECTS-Punkte, Modulprüfung: Projekt-
+skizze oder Portfolio oder praktische Leistungen,
+2. Spezialisierung im Journalismus: 5 ECTS-Punkte, Zulassungsvoraus-
+setzung: erfolgreiche Absolvierung der Module Medienwerkstatt I und 
+II, Modulprüfung: Portfolio oder praktische Leistungen, 
+3. Medienrezeptions- und Medienwirkungsforschung: 5 ECTS-Punkte, 
+Modulprüfung: Klausur oder Hausarbeit mit Referat,
+4. Ausgewählte Themen der Kommunikationswissenschaft: 5 ECTS-
+Punkte, Modulprüfung: Hausarbeit mit Referat oder Klausur oder Port-
+folio.
+(3) 
+1Im Wahlpﬂ
+ ichtbereich Gesellschaft muss jede oder jeder Studierende 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 ECTS-Punkte erwerben. 2Sie oder er muss eines der beiden folgenden 
+Module erfolgreich absolvieren: 
+1. Einführung in die Internationalen Beziehungen: 5 ECTS-Punkte; Modul-
+prüfung: Klausur,
+2. Einführung in die Politische Systemlehre und die Vergleichende Politik-
+wissenschaft: 5 ECTS-Punkte; Modulprüfung: Klausur.
+(4) 
+1Soweit bei den einzelnen Modulen nicht anders angegeben gilt für 
+die Prüfungsform Hausarbeit eine Bearbeitungszeit von 8 Wochen ab 
+ 
+Vereinbarung des Theamas mit der Dozentin bzw. dem Dozenten, der 
+Umfang beträgt 12 bis 15 Seiten. 2Die Dauer eines Referats beträgt 25 bis 
+45 Minuten. 3Wenn eine Modulprüfung aus der Prüfungsform Hausarbeit 
+mit Referat besteht, setzt sich die Modulnote zu 25% aus der Referatsnote 
+und zu 75% aus der Hausarbeitsnote zusammen. 4Der Umfang eines 
+Praktikumsberichts beträgt 5 bis 10 Seiten, eines Portfolio 3 bis 20 Seiten, 
+einer Prokjektskizze 8 bis 12 Seiten.
+
+[Page 58]
+58
+§7 Schwerpunkte, Wahlbereich
+(1) 
+1Jede oder jeder Studierende muss im Rahmen eines zu wählenden 
+Schwerpunktes 30 ECTS-Punkte erwerben. 2Es werden in der Regel 
+folgende Schwerpunkte angeboten:
+1. Journalismus und interkulturelle Kommunikation (Spanisch),
+2. Fach- und interkulturelle Kommunikation (Französisch),
+3. Literatur und Kultur,
+4. Lateinamerika-Studien,
+5. Geschichtswissenschaften,
+6. Politik und Gesellschaft,
+7. Betriebswirtschaftslehre,
+8. Umwelt und Nachhaltigkeit, 
+9. Data Sciene.
+3Die in den Schwerpunkten zu belegenden Module sind der Anlage zur 
+Studiengangsbeschreibung: Modulkatalog für die Schwerpunkte im Studiengang 
+Journalistik (B.A.) zu entnehmen.. 4 Der gewählte Schwerpunkt wird im Zeugnis 
+ausgewiesen.
+(2) 
+1Im Wahlbereich muss jede oder jeder Studierende weitere 10 ECTS-
+Punkte aus dem Wahlpﬂ
+ ichtbereich Kommunikationswissenschaft oder 
+dem Fachbereich des gewählten Schwerpunkts oder auf die beiden 
+Bereiche verteilt erwerben. 2Die gewählten Module müssen mit dem Zweck 
+der Prüfung und der Struktur des Studiengangs vereinbar sein.
+§8 Bachelorarbeit
+1Das 
+Thema 
+der 
+Bachelorarbeit 
+ist 
+aus 
+dem 
+Bereich 
+der 
+Kommunikationswissenschaft 
+zu entnehmen. 2In Ausnahmefällen kann der Gegenstand der Bachelorarbeit 
+anderen, an der KU vertretenen Fächern entnommen werden, die in sinnvollem 
+Zusammenhang 
+mit 
+kommunikationswissenschaftlichen 
+Themen 
+stehen; 
+über die Zulässigkeit entscheidet der Prüfungsausschuss auf Antrag der oder 
+des Studierenden. ³Der Umfang sollte 40 DIN A4-Seiten (ohne Anhang) nicht 
+überschreiten. 4Die Bearbeitungszeit beträgt sechs Monate nach Themenausgabe; 
+die Termine der Themenausgabe werden vom Prüfungsausschuss festgelegt und 
+bekanntgemacht.
+
+[Page 59]
+59
+§9 In-Kraft-Treten, Übergangsregelung
+(1) 
+Diese Prüfungsordnung tritt am 1. Oktober 2018 in Kraft. 
+(2) 
+1Die Prüfungsordnung für den Bachelorstudiengang Journalistik an der 
+Katholischen Universität Eichstätt-Ingolstadt vom 30. Juli 2008 in der 
+zuletzt gültigen Fassung tritt außer Kraft. 2Sie gilt fort für alle Studierenden, 
+die ihr Studium im Bachelorstudiengang Journalistik vor dem 1. Oktober 
+2018 aufgenommen haben.
+Bitte beachten Sie die Regelungen zum In-Kraft-Treten in der jeweiligen für Sie 
+geltenden Änderungssatzung.
+
+[Page 60]
+60
+Fragen zur Uni?
+www.ku.de
+Fragen zum Studium allgemein?
+www.ku.de/studieninteressenten/studienberatung/
+Fragen zum Bachelor-Studiengang?
+www.ku.de/studienangebot/journalistik-ba
+Immer noch Fragen?
+Fachstudienberatung
+Dr. Renate Hackel-de Latour
+Ostenstraße 25, 85072 Eichstätt
+08421/93-21554
+renate.hackel@ku.de?
+Noch Fragen

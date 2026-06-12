@@ -1,0 +1,61 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulplan_AKM_Soziologie.pdf
+TITLE: Modulplan_AKM_Soziologie.pdf
+SOURCE_FILE: Modulplan_AKM_Soziologie.pdf
+------------------------------------------------------------
+
+[Page 1]
+6
+Praktikum
+Wissenschaftliches
+Kolloquium
+BA-Arbeit
+2. Hauptfach
+2. Hauptfach
+30 CP
+5
+Soziologie Wahlpflicht 
+Soziologie Wahlpflicht 
+2. Hauptfach
+2. Hauptfach
+2. Hauptfach
+30 CP
+4
+Soziologie Wahlpflicht 
+Profilbereich AKM
+2. Hauptfach
+2. Hauptfach
+2. Hauptfach
+30 CP
+3
+Medien- und Kultursoziologie 
+Profilbereich AKM
+Profilbereich AKM
+2. Hauptfach
+2. Hauptfach
+30 CP
+2
+Grundzüge 
+soziologischer Theorien
+Qualitative Methoden der empirischen 
+Sozialforschung
+Profilbereich AKM
+2. Hauptfach
+Studium.Pro
+30 CP
+1
+Einführung in die 
+Soziologie
+Soziologie Wahlpflicht 
+Profilbereich AKM
+Profilbereich AKM
+2. Hauptfach
+Studium.Pro
+30 CP
+Interdisziplinärer BA der KU [Profil Aisthesis.Kultur- und Medienwissenschaft] mit Fach Soziologie
+Pflichtmodule (30 CP)
+2. Hauptfach
+Bachelorarbeit, Kolloquium (15 CP)
+Studium.Pro (10 CP)
+weitere Soziologiemodule (30 CP)
+Profilbereich AKM (30 CP)
+Praktikum (5 CP)

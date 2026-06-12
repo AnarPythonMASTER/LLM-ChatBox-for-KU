@@ -1,0 +1,5944 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulkatalog_MA_Business_and_Psychology.pdf
+TITLE: Modulkatalog_MA_Business_and_Psychology.pdf
+SOURCE_FILE: Modulkatalog_MA_Business_and_Psychology.pdf
+------------------------------------------------------------
+
+[Page 1]
+Modulkatalog Business and Psychology
+9. Februar 2026
+Inhaltsverzeichnis
+Pﬂichtmodule
+3
+Business and Psychology: Gemeinsames Seminar mit Tandemprojekten (Studium.Pro: Pro
+Diskurs) (Prof. Dr. Robin Ruhnau) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+Consumer Psychology and Decision Making (Prof. Dr. Shashi Matta) . . . . . . . . . . . . .
+5
+Grundlagen der psychologischen Diagnostik (Prof. Dr. Katrin Rentzsch) . . . . . . . . . . .
+9
+Interdisziplin¨
+ares Forschungsseminar (Prof. Dr. Elisabeth Kals) . . . . . . . . . . . . . . . .
+11
+Masterarbeit
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+Psychology of Organizational Behavior (Prof. Dr. Elisabeth Kals) . . . . . . . . . . . . . . .
+15
+Strategic Human Resources Management (Prof. Dr. Max Ringlstetter) . . . . . . . . . . . .
+18
+Wahlpﬂichtmodule
+21
+Aktuelle Trends der psychologischen Diagnostik in Arbeit und Gesellschaft (Prof. Dr. Katrin
+Rentzsch) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+21
+Business & Psychology: From Theory to Practice . . . . . . . . . . . . . . . . . . . . . . . .
+23
+Interkulturelles Management
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26
+Digital Health: A Psychological Perspective . . . . . . . . . . . . . . . . . . . . . . . . . . .
+29
+Economics of Sustainable Consumption: Theory and Experimental Evidence (Prof. Dr.
+Alexander M. Danzer)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+32
+Fallstudien im Internationalen Management (Prof. Dr. Katja Gelbrich) . . . . . . . . . . . .
+35
+Food Technology Acceptance: A Psychological Perspective (Prof. Dr. Victoria-Sophie Osburg) 38
+Forschungsmethoden in der Psychologie (Prof. Dr. Marco Steinhauser)
+. . . . . . . . . . .
+41
+Human-Technology Interaction: Potential and Application (Jun.-Prof. Dr. Christina Pfeuffer) 43
+Market Psychology and Strategic Marketing Communication (Prof. Dr. Victoria-Sophie Os-
+burg)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+47
+Innovation and Creativity in Individuals, Teams, and Organizations (Prof. Dr. Shashi Matta) 50
+People Analytics: Data Science for Human Resources Management (Prof. Dr. Sven Laumer) 55
+Personalentwicklung in der Freiwilligen- und Erwerbsarbeit (Prof. Dr. Elisabeth Kals) . . .
+57
+Projektkurs Marketing mit New-Age-Technologien (Prof. Dr. Robin-Christopher Ruhnau)
+.
+60
+1
+
+[Page 2]
+Psychological Approaches to Behavior Change for Social Good (Prof. Dr. Victoria-Sophie
+Osburg) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+63
+Psychologie der F¨
+uhrung und Motivierung (Prof. Dr. Elisabeth Kals) . . . . . . . . . . . . .
+66
+Psychologische Perspektiven zum Einsatz von KI: Individuelle, organisatorische und ge-
+sellschaftliche Auswirkungen
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+69
+Psychologie der Verantwortung, Gerechtigkeit und Werte (Prof. Dr. Elisabeth Kals) . . . . .
+72
+Quasi-experimental Policy Evaluation (Prof. Dr. Alexander Danzer)
+. . . . . . . . . . . . .
+75
+Seminar Internationales Management (Prof. Dr. Katja Gelbrich) . . . . . . . . . . . . . . .
+78
+Service Management (Prof. Dr. Jens Hogreve) . . . . . . . . . . . . . . . . . . . . . . . . .
+81
+Sustainability and Business Strategy (Prof. Dr. Maria Waldinger) . . . . . . . . . . . . . . .
+84
+The Psychology of Sustainable Luxury Consumption (Prof. Dr. Victoria-Sophie Osburg) . .
+87
+Wahlmodule
+90
+Arbeitsrecht (Prof. Dr. Christian Heinrich) . . . . . . . . . . . . . . . . . . . . . . . . . . .
+90
+Behavioral Finance (Prof. Dr. David Streich) . . . . . . . . . . . . . . . . . . . . . . . . . .
+93
+Data Collection Methods in the Social and Behavioral Sciences (Prof. Dr. Klaus Moser)
+. .
+96
+Economic Growth and the Environment
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+98
+Fortgeschrittene Verfahren der Datenerhebung (Prof. Dr. Stefanie Eiﬂer)
+. . . . . . . . . . 101
+From Idea to Commercialization: Start-Up School (Prof. Dr. Shashi Matta) . . . . . . . . . 104
+Genderforschung (Prof. Dr. Kathrin Schlemmer) . . . . . . . . . . . . . . . . . . . . . . . . 108
+Grundlagen der Allgemeinen Betriebswirtschaftslehre I (Prof. Dr. Anton Burger) . . . . . . 111
+Innovation Immersion in Retail (Prof. Dr. Shashi Matta)
+. . . . . . . . . . . . . . . . . . . 114
+Konsumentenverhalten und Marktforschung (Prof. Dr. Joachim B¨
+uschken) . . . . . . . . . 118
+Leadership and Communication in Global Business (Prof. Dr. Katrin Winkler) . . . . . . . . 121
+Projektstudium ”Management und F¨
+uhrung“ (Prof. Dr. Max Ringlstetter) . . . . . . . . . . 123
+Projekt im Dienstleistungs- und Innovationsmanagement (Prof. Dr. Jens Hogreve) . . . . . 125
+Return on Service Management (Prof. Dr. Jens Hogreve) . . . . . . . . . . . . . . . . . . . 129
+Social Innovation II: Pro-Bono-Case . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+Systeme der Unternehmenssteuerung (Prof. Dr. Kai Sandner)
+. . . . . . . . . . . . . . . . 136
+The Science of Happiness: A Multi-Disciplinary and Multi-Cultural Approach to Happiness
+and Well-being (Prof. Dr. Shashi Matta) . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+Unternehmensethik (Prof. Dr. Kai Sandner)
+. . . . . . . . . . . . . . . . . . . . . . . . . . 144
+2
+
+[Page 3]
+Business and Psychology: Gemeinsames Seminar mit Tandemprojekten
+(Studium.Pro: Pro Diskurs) (Prof. Dr. Robin Ruhnau)
+Modultitel
+Business and Psychology: Gemeinsames Seminar mit Tan-
+demprojekten (Studium.Pro: Pro Diskurs) (Prof. Dr. Robin
+Ruhnau)
+Modultitel Englisch
+Business and Psychology: Joint Seminar with Tandem Projects
+(Studium.Pro: Pro.Diskurs) (Prof. Dr. Robin Ruhnau)
+Modulnummer
+88-021-BAP01-H-0520
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Dienstleistungsmanagement; ABWL, Organisati-
+on und Personal; Innovation and Creativity; Psychologische
+Diagnostik und Interventionspsychologie mit Schulpsycholo-
+gischem Schwerpunkt; Sozial- und Organisationspsychologie;
+VWL, insb. Makro¨
+okonomik
+Modulverantwortlich
+Prof. Dr. Robin Ruhnau
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Die Studierenden haben einen ¨
+Uberblick ¨
+uber die Schnittstellen von Wirtschaft und Psychologie.
+• Sie kennen die unterschiedlichen disziplin¨
+aren Zug¨
+ange und Ans¨
+atze von Wirtschaft und Psycho-
+logie, um praxisrelevante Fragestellungen zu bearbeiten.
+• Sie haben vertiefte Kenntnisse ¨
+uber einige ausgew¨
+ahlte Fragestellungen und ihre Bearbeitung an
+der Schnittstelle von Wirtschaft und Psychologie und k¨
+onnen diese mit Blick auf eine humane
+Wertorientierung reﬂektieren.
+Inhalte und Themen:
+• Zug¨
+ange und Ans¨
+atze von Wirtschaft und Psychologie
+3
+
+[Page 4]
+• Praxisbezogene Fragestellungen an der Schnittstelle von Wirtschaft und Psychologie
+• Bearbeitung ausgew¨
+ahlter Fragestellungen in interdisziplin¨
+aren studentischen Tandems und Klein-
+gruppen aus verschiedener disziplin¨
+arer Sicht
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Unterricht in Kleingruppen (UK)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Hausarbeit
+• Studierende weisen nach, dass sie wirtschaftliche Probleme aus der Praxis auf interdisziplin¨
+are
+Weise analysieren und verstehen k¨
+onnen.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 39 h = Pr¨
+asenzzeit
+• 111 h = Vor- und Nachbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Hausarbeit (6-7 Seiten pro Studierende/r, incl. Erstellung eines Posters) (100 %)
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen: -
+4
+
+[Page 5]
+Consumer Psychology and Decision Making (Prof. Dr. Shashi Matta)
+Modultitel
+Consumer Psychology and Decision Making (Prof. Dr. Shashi
+Matta)
+Modultitel Englisch
+Consumer Psychology and Decision Making (Prof. Dr. Shashi
+Matta)
+Modulnummer
+88-021-BAP02-H-0520
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Innovation and Creativity
+Modulverantwortlich
+Prof. Dr. Shashi Matta
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+Die Hauptziele dieses Kurses sind:
+• Kritische Auseinandersetzung mit den grundlegenden Konzepten des Verbraucherverhaltens und
+der Verbraucherpsychologie.
+• Sie lernen fortgeschrittene Konzepte dar¨
+uber, wie Marktstimuli die Aufmerksamkeit und Wahr-
+nehmung der Verbraucher beeinﬂussen.
+• Er¨
+orterung von kognitiven Prozessen mit geringem und hohem Aufwand und Verst¨
+andnis daf¨
+ur,
+wie sie die Einstellung der Verbraucher beeinﬂussen k¨
+onnen.
+• Sie lernen die sequentiellen und nicht sequentiellen Schritte im Entscheidungsprozess eines Ver-
+brauchers kennen.
+• Sie verstehen die pers¨
+onlichen, sozialen und situationsbedingten Faktoren, die die Entscheidungs-
+ﬁndung der Verbraucher und die Prozesse nach der Entscheidungsﬁndung beeinﬂussen.
+• Untersuchung der h¨
+auﬁgsten Heuristiken und Voreingenommenheiten, die die Entscheidungsﬁn-
+dung der Verbraucher beeinﬂussen.
+• Sie verstehen, wie Organisationen, politische Entscheidungstr¨
+ager und Verbraucher vom Verst¨
+andnis
+der psychologischen Grundlagen des Verbraucherverhaltens proﬁtieren k¨
+onnen
+5
+
+[Page 6]
+Neben Kenntnissen in Verbraucherverhalten und Verbraucherpsychologie erwerben die Studierenden
+auch Soft Skills wie Teamarbeit und Kommunikation. Da die Vorlesungen und ¨
+Ubungen in englischer
+Sprache gehalten werden, haben die Studierenden auch die M¨
+oglichkeit, ihre Englischkenntnisse in
+einem professionellen Umfeld zu verbessern.
+Inhalte und Themen:
+Die Verbraucherpsychologie ist eine angewandte Sozialwissenschaft. Sie befasst sich im Kern mit der
+Frage, warum sich Verbraucher auf dem Markt so verhalten, wie sie es tun. Sie hat sich zu einem sehr
+m¨
+achtigen Bereich entwickelt, der nicht nur Managern dabei hilft, ihr Marketing so zu gestalten, dass
+es die Verbraucher anspricht, sondern auch eine Quelle umfassenden Wissens ist, das den Verbrauchern
+helfen kann, sich selbst zu helfen und die ¨
+offentliche Politik zu informieren.
+Teil I: Einf¨
+uhrung in die Verbraucherpsychologie
+• Verbraucherpsychologie und ihre Urspr¨
+unge
+• Grundlegende Rahmenwerke und Theorien der Verbraucherpsychologie
+Teil II: Theorien und Rahmen der Entscheidungsﬁndung von Verbrauchern
+• Sequentielle und nicht-sequentielle Entscheidungsﬁndung
+• Anstrengende und nicht-anstrengende Entscheidungsﬁndung
+Teil III: Verbrauchereinstellungen und Verbraucherverhalten
+• Einstellungsbildung und ¨
+Uberzeugung
+• Die Verbindung zwischen Einstellung und Verhalten
+Teil IV: Pers¨
+onliche, soziale und situative Faktoren, die das Verbraucherverhalten beeinﬂussen
+• Individuelle Unterschiede und Kontext (Situation): Vergleich und Gegen¨
+uberstellung
+• Sozialer Einﬂuss, soziale Normen und gemeinsame/kollektive Entscheidungsﬁndung
+Teil V: Heuristiken und Vorurteile, die das Verbraucherverhalten beeinﬂussen
+• Am h¨
+auﬁgsten beobachtete Heuristiken und Vorurteile, die das Verbraucherverhalten beeinﬂussen
+• Die Kunst und Wissenschaft des Nudging die Verbraucher zur Nachhaltigkeit zu bewegen
+Teil VI: Der Einﬂuss der Verbraucherpsychologie
+• Auswirkungen der Verbraucherpsychologie auf Organisationen, Politik und Verbraucher
+• Beispiele f¨
+ur verbraucherpsychologisch gepr¨
+agte Entscheidungen in Organisationen und in der
+¨
+offentlichen Politik
+6
+
+[Page 7]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung
+• Tutorium
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Abschlusspr¨
+ufung
+• Die Abschlusspr¨
+ufung bezieht sich auf den gesamten in den Vorlesungen und Tutorien behandelten
+Stoff. Es handelt sich um eine 90-min¨
+utige Klausur im Seminar.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 30 h = Pr¨
+asenzzeit Vorlesung
+• 30 h = Pr¨
+asenzzeit Tutorium
+• 24 h = Vor- und Nachbereitung Vorlesung
+• 24 h = Vor- und Nachbereitung Tutorium
+• 42 h = Hausaufgaben, Projekt- und Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Abschlussklausur (100 %)
+7
+
+[Page 8]
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+Bemerkungen: Literatur:
+• Zu den Pﬂichtlekt¨
+uren f¨
+ur diesen Kurs geh¨
+oren Forschungsartikel zum Verbraucherverhalten, die
+im detaillierten Lehrplan zugewiesen werden.
+8
+
+[Page 9]
+Grundlagen der psychologischen Diagnostik (Prof. Dr. Katrin Rentzsch)
+Modultitel
+Grundlagen der psychologischen Diagnostik (Prof. Dr. Katrin
+Rentzsch)
+Modultitel Englisch
+Introduction to Psychological Assessment(Test Theory and
+Test Construction) (Prof. Dr. Katrin Rentzsch)
+Modulnummer
+88-021-MY02-H-0723
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Philosophisch- P¨
+adagogische Fakult¨
+at
+Beteiligte Fachgebiete
+Psychologische Diagnostik und Intervention
+Modulverantwortlich
+Dr. Christof Zoelch
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Die Studierenden haben einen ¨
+Uberblick ¨
+uber diagnostische Methoden in der Arbeits-, Organisations-
+und Personalpsychologie
+• Sie haben vertiefte Kenntnisse zur psychologisch-diagnostischer Datenquellen (Selbst- und Fremd-
+auskunftsverfahren, Verhaltensbeobachtung, Interviews, Leistungstests u.a.).
+• Sie sind in der Lage, den Aufbau und die Struktur diagnostischer Verfahren nachzuvollziehen und
+anhand testtheoretischer Grundlagen und G¨
+utekriterien zu beurteilen.
+• Sie kennen grundlegende Gebiete und Vorgehensweisen der arbeits-, organisations- und personal-
+psychologischen Diagnostik.
+Inhalte und Themen:
+• ¨
+Uberblick ¨
+uber diagnostische Verfahren
+• Klassische Testtheorie und Testg¨
+utekriterien
+• Grundlagen der Testkonstruktion
+• Anwendungsfelder der arbeits- und personalpsychologischen Diagnostik
+9
+
+[Page 10]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung mit ¨
+Ubung
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausurleistung mit geschlossenen
+und offenen Fragen oder m¨
+undliche Pr¨
+ufung
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 36 h = Pr¨
+asenzzeit
+• 24 h = Vor- und Nachbereitung sowie ¨
+Uben
+• 90 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• 60-min¨
+utige Klausur oder 15-min¨
+utige m¨
+undliche Pr¨
+ufung
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen: -
+10
+
+[Page 11]
+Interdisziplin¨
+ares Forschungsseminar (Prof. Dr. Elisabeth Kals)
+Modultitel
+Interdisziplin¨
+ares Forschungsseminar (Prof. Dr. Elisabeth
+Kals)
+Modultitel Englisch
+Empirical Research in Business and Psychology (Prof. Dr. Eli-
+sabeth Kals)
+Modulnummer
+88-021-BAP03-H-0520
+Niveau
+Mastermodul
+Turnus des Angebots
+Winter/Sommer (¨
+uber zwei Semester)
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Psychologische Diagnostik und Interventionspsychologie mit
+Schulpsychologischem Schwerpunkt
+Modulverantwortlich
+Prof. Dr. Elisabeth Kals
+Leistungspunkte ECTS-Punkte
+10 ECTS-Punkte
+Kompetenzen:
+• Die Studierenden k¨
+onnen Theorien und Methoden der verschiedenen wirtschaftswissenschaftli-
+chen und psychologischen Fachdisziplinen auf eine aktuelle Fragestellung anwenden.
+• Sie sind in der Lage, Ergebnisse von Forschungsarbeiten zu kommunizieren und auch aus inter-
+disziplin¨
+arer Sicht kritisch zu diskutieren.
+Inhalte und Themen:
+• Methodische, theoretische und empirische Inhalte, die f¨
+ur die Bearbeitung der Masterarbeit im
+jeweiligen Fachgebiet unter Einbezug einer interdisziplin¨
+aren Perspektive notwendig sind.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+11
+
+[Page 12]
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vortrag
+• Diskussion/Gruppenarbeit
+• Lekt¨
+ure
+• Pr¨
+asentationen
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio.
+• Bestanden/Nicht bestanden
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 72 h = Pr¨
+asenzzeit
+• 228 h = Vor- und Nachbereitung
+• 300 h = Arbeitsaufwand gesamt
+Modulnote:
+• Hausarbeit (18-22 Seiten) mit Pr¨
+asentation (20-35 Minuten) (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Psychologie M.Sc.
+Bemerkungen: -
+12
+
+[Page 13]
+Masterarbeit
+Modultitel
+Masterarbeit
+Modultitel Englisch
+Master thesis
+Modulnummer
+-
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe & SoSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Die zust¨
+andige Fachvertreterin oder der zust¨
+andige Fachver-
+treter kann jede oder jeder Pr¨
+ufungsberechtigte gem¨
+aß § 8
+Abs. 1 APO sein, die oder der mindestens eine Lehrveranstal-
+tung im Pﬂicht-, Wahlpﬂicht- oder Wahlbereich anbietet
+Modulverantwortlich
+Vorsitzender des Pr¨
+ufungsausschusses ”Business and Psycho-
+logy“
+Leistungspunkte ECTS-Punkte
+30 ECTS-Punkte
+Kompetenzen:
+• Ziel der Erstellung der Masterarbeit ist, dass sich die Studierenden am Ende ihres Masterstudiums
+in selbstst¨
+andiger Arbeit einen betriebswirtschaftlichen Forschungsinhalt erschließen.
+• Sie sollen in die Lage versetzt werden, eine Forschungsfrage strukturiert zu bearbeiten, unter-
+schiedliche wissenschaftliche Perspektiven miteinander zu verkn¨
+upfen und daraus Handlungsim-
+plikationen abzuleiten.
+Inhalte und Themen:
+• Selbstst¨
+andige Bearbeitung eines Themas mit wirtschaftswissenschaftlichem Bezug
+• Formulierung einer Forschungsfrage Einﬂussfaktoren auf die Gesundheit am Arbeitsplatz
+• Recherche und Erarbeitung des Forschungsstandes
+• Bearbeitung der in der Forschungsfrage formulierten Problemstellung
+• Formulierung eines wissenschaftlich begr¨
+undeten Urteils
+13
+
+[Page 14]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Grundvoraussetzung ist die Beendigung des 2. Fachsemesters
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Eigenst¨
+andiges wissenschaftliches Arbeiten
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Innerhalb von sechs Monaten hat der Studierende selbstst¨
+andig ein wissenschaftliches Thema zu
+bearbeiten und 70 Seiten (+/- 10 %) zu verschriftlichen. Die Arbeit wird von dem Fachvertreter,
+der das Thema festgelegt hat, bewertet.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 300 h = Recherche
+• 600 h = Erstellung der Arbeit
+• 900 h = Arbeitsaufwand gesamt
+Modulnote:
+• Schriftliche Arbeit (100 %)
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen: -
+14
+
+[Page 15]
+Psychology of Organizational Behavior (Prof. Dr. Elisabeth Kals)
+Modultitel
+Psychology of Organizational Behavior (Prof. Dr. Elisabeth
+Kals)
+Modultitel Englisch
+Psychology of Organizational Behavior (Prof. Dr. Elisabeth
+Kals)
+Modulnummer
+88-021-BAP04-H-0520
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Philosophisch- P¨
+adagogische Fakult¨
+at
+Beteiligte Fachgebiete
+Sozial- und Organisationspsychologie
+Modulverantwortlich
+Prof. Dr. Elisabeth Kals
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Die Studierenden sind mit den Grenzen der (Zweck)Rationalit¨
+at des Menschen vertraut und
+k¨
+onnen Gemeinsamkeiten sowie Unterschiede des psychologischen und des ¨
+okonomischen Men-
+schenbildes kritisch reﬂektieren.
+• Sie haben einen ¨
+Uberblick ¨
+uber organisationspsychologische Themen und Fragestellungen.
+• Sie kennen sozialpsychologische Theorien und Ergebnisse zu ausgew¨
+ahlten Themen, wie soziale
+Kognitionen, Heuristiken, Emotionstheorien, Gruppenprozesse und Urteilsbildung.
+• Sie kennen die Vielfalt sozialpsychologischer Methoden an Forschungsbeispielen.
+• Sie sind in der Lage, sozialpsychologisches Wissen auf den organisationalen Kontext anzuwenden
+sowie organisationspsychologische Strategien und Methoden kritisch zu reﬂektieren.
+• Sie k¨
+onnen soziale und wirtschaftliche Prozesse in verschiedenen Anwendungskontexten analysie-
+ren sowie L¨
+osungsvorschl¨
+age f¨
+ur wirtschaftspsychologische Probleme entwickeln und evaluieren.
+• Sie k¨
+onnen die Inhalte/Themen in Bezug zu Arbeitszufriedenheit, F¨
+uhrungskompetenzen und
+anderen Gestaltungsmaßnahmen setzen.
+Inhalte und Themen:
+15
+
+[Page 16]
+• Grenzen der (Zweck)Rationalit¨
+at des Menschen
+• Grundlagen, Theorien und Konzepte der Organisationspsychologie
+• Grundlagen, Theorien und Konzepte der Sozialpsychologie und Anwendung auf den Kontext von
+Organisationen
+• Sozialpsychologische Methoden sowie organisationspsychologische Strategien und Methoden
+• Sozial- und wirtschaftspsychologische Probleme in Organisationen
+• Strategien zur L¨
+osung sozial- und wirtschaftspsychologische Probleme in Organisationen
+• Evaluation der Probleml¨
+osungen in Organisationen
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vortrag
+• Diskussion/Gruppenarbeit
+• Lekt¨
+ure
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausurleistung (multiple-choice)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 36 h = Pr¨
+asenzzeit
+• 24 h = Vor- und Nachbereitung
+16
+
+[Page 17]
+• 90 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• 60-min¨
+utige Abschlussklausur (100 %)
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen:
+Literatur:
+• Greenberg, J., & Baron, R. A. (2008). Behavior in organizations. New Jersey: Pearson Education.
+• Jonas, K., Stroebe, W. & Hewstone, M. R. C. (2014) (Hrsg.). Sozialpsychologie. Berlin: Springer.
+• Kals, E. (1999). Der Mensch nur ein zweckrationaler Entscheider? Zeitschrift f¨
+ur Politische Psy-
+chologie, 7(3), 267-293.
+• Kals, E. & Gallenm¨
+uller-Roschmann, J. (2017). Arbeits- und Organisationspsychologie kompakt.
+Weinheim: Beltz
+• McKenna, E. (2000). Business psychology and organisational behaviour: A student’s handbook
+(3. ed.). Hove: Psychology Press.
+• Chmiel, N. (2008). An introduction to work and organizational psychology: a European perspec-
+tive. Malden: Blackwell.
+17
+
+[Page 18]
+Strategic Human Resources Management (Prof. Dr. Max Ringlstetter)
+Modultitel
+Strategic Human Resources Management (Prof. Dr. Max
+Ringlstetter)
+Modultitel Englisch
+Strategic Human Resources Management (Prof. Dr. Max
+Ringlstetter)
+Modulnummer
+88-021-BAP05-H-0520
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Betriebswirtschafslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Organisation und Personal
+Modulverantwortlich
+Prof. Dr. Max Ringlstetter
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+Die Studierenden sind nach Abschluss des Moduls in der Lage:
+• Funktionen und Trends im HRM zu reﬂektieren.
+• die Wechselwirkungen zwischen strategischer Unternehmensf¨
+uhrung und Personalmanagement
+zu analysieren und die Auswirkungen verschiedener Maßnahmen aus beiden Perspektiven ein-
+zusch¨
+atzen.
+• die Bedeutung einer Personalabteilung f¨
+ur die gesamte Organisation zu erkennen.
+• nicht nur Aufgaben des HRM und kontextuelle Herausforderungen zu analysieren, sondern auch
+kontextspeziﬁsche Maßnahmen zu entwickeln und diese kritisch zu reﬂektieren.
+• komplexe Informationen auf das Wesentliche zu reduzieren und Empfehlungen f¨
+ur das Manage-
+ment in Form einer Zusammenfassung zu erarbeiten und zusammenzufassen.
+Inhalte und Themen:
+Der Kurs besteht aus f¨
+unf Einheiten:
+• Die ”Einf¨
+uhrung“ gibt Einblicke in Grundlagen wie Strategie und HRM. Dar¨
+uber hinaus wird ein
+Ansatz f¨
+ur strategisches Personalmanagement vorgestellt.
+18
+
+[Page 19]
+• In ”Funktionen des HRM“ werden sowohl die Leistungsmessung als auch die (Re-) Strukturierung
+von Funktionen des HRM gelehrt.
+• Warum Mitarbeiter als strategische Ressourcen gesehen werden k¨
+onnen und wie sich die Perso-
+nalstrategie an der Unternehmensstrategie ausrichtet, ist Teil der Einheit ”Strategieorientierung
+im Personalmanagement“.
+• In ”Professionelles strategisches HRM“ wird die Professionalisierung von HRM fokussiert, indem
+Themen wie die Entwicklung von Fachwissen, konzeptionelle Modelle f¨
+ur HRM, organisatorische
+Institutionalisierung und Controlling diskutiert werden.
+• Der letzte Abschnitt befasst sich mit ”Rahmenbedingungen und Trends f¨
+ur strategisches Personal-
+management“. Hier werden Einblicke gegeben, wie Globalisierung, Demograﬁe, Gesellschaft und
+Technologie das HRM beeinﬂussen.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Virtuelle Vorlesung
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Hausarbeit (bestehend aus vier Fall-
+studienl¨
+osungen, welche im Laufe des Semesters eingereicht werden)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 36 h = Pr¨
+asenzzeit
+• 72 h = Vor- und Nachbereitung
+19
+
+[Page 20]
+• 42 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Hausarbeit (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+Bemerkungen: Anmeldung verl¨
+auft ¨
+uber die VHB: https://kurse.vhb.org/VHBPORTAL/Catalog
+20
+
+[Page 21]
+Aktuelle Trends der psychologischen Diagnostik in Arbeit und Gesell-
+schaft (Prof. Dr. Katrin Rentzsch)
+Modultitel
+Aktuelle Trends der psychologischen Diagnostik in Arbeit und
+Gesellschaft (Prof. Dr. Katrin Rentzsch)
+Modultitel Englisch
+Current Trends in Psychological Assessment (Prof. Dr. Katrin
+Rentzsch)
+Modulnummer
+88-021-BO01-H-0620
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre B.Sc.
+Institutionelle Verankerung
+Philiosopisch-P¨
+adagogische Fakult¨
+at
+Beteiligte Fachgebiete
+Psychologische Diagnostik und Intervention
+Modulverantwortlich
+Prof. Dr. Katrin Rentzsch
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Die Studierenden kennen neueste Methoden, Anwendungen und Trends der psychologischen Dia-
+gnostik in Arbeit und Gesellschaft.
+• Die Studierenden k¨
+onnen Forschungsarbeiten zur psychologischen Diagnostik in aktuelle Theori-
+en und Modelle einordnen und deren Befunde kritisch reﬂektieren sowie aktuellen Trends aus der
+Praxis gegen¨
+uberstellen und Implikationen f¨
+ur die Anwendung ableiten.
+Inhalte und Themen:
+• Exemplarische Themen:
+• K¨
+unstliche Intelligenz und Maschinelles Lernen in der psychologischen Diagnostik – Top oder
+Flop?
+• Videobasierte Verhaltensbeobachtung,
+• Big Data und Data Mining im Arbeitskontext,
+• Werden Pers¨
+onlichkeitstests in der Personalauswahl durch automatisierte Personality Recognition
+bald ¨
+uberﬂ¨
+ussig?
+21
+
+[Page 22]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Erfolgreiche Teilnahme an Grundlagen der psychologischen Diagnostik
+Lehr- und Pr¨
+ufungssprache:
+• Englisch, Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vortrag
+• Diskussion wissenschaftlicher Texte, Moderation
+• Arbeit in Kleingruppen
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: M¨
+undliche Pr¨
+ufung oder Referat
+oder Portfolio
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 36 h = Pr¨
+asenzzeit
+• 42 h = Vor- und Nachbereitung
+• 72 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• M¨
+undliche Pr¨
+ufung oder Referat oder Portfolio
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen: Teilnehmerbeschr¨
+ankung 20
+22
+
+[Page 23]
+Business & Psychology: From Theory to Practice
+Modultitel
+Business & Psychology: From Theory to Practice
+Modultitel Englisch
+Business & Psychology: From Theory to Practice
+Modulnummer
+[wird vom Pr¨
+ufungsamt vergeben; bereits vergebene Num-
+mern sind in der Modulbeschreibung zu belassen bzw. anzu-
+geben]
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Marktpsychologie
+Modulverantwortlich
+Prof. Dr. Victoria-Sophie Osburg
+Leistungspunkte ECTS-Punkte
+5
+Kompetenzen:
+Nach Abschluss dieses Kurses werden die Studierenden in der Lage sein, zentrale betriebswirt-
+schaftliche und psychologische Konzepte zu beschreiben und anzuwenden, die f¨
+ur organisatio-
+nale Kontexte relevant sind. Sie werden organisationale Herausforderungen aus betriebswirt-
+schaftlicher und psychologischer Perspektive identiﬁzieren und untersuchen k¨
+onnen und diese
+Erkenntnisse zusammenf¨
+uhren, um ein koh¨
+arentes Verst¨
+andnis der Problemstellungen in rea-
+len Unternehmensf¨
+allen zu entwickeln. Dar¨
+uber hinaus werden die Studierenden in der Lage
+sein, einschl¨
+agige Theorien und Rahmenwerke auszuw¨
+ahlen und anzuwenden, um umsetzbare
+L¨
+osungen und Strategien f¨
+ur reale organisationale Fragestellungen zu entwickeln. Sie werden
+praxisnahe Empfehlungen entwerfen und ihre Ergebnisse wirkungsvoll gegen¨
+uber Unternehmens-
+vertreter*innen kommunizieren k¨
+onnen. In der gemeinschaftlichen Projektarbeit werden die Stu-
+dierenden zentrale Soft Skills wie Teamarbeit, Kommunikation, Probleml¨
+osung sowie die profes-
+sionelle Pr¨
+asentation ihrer Analysen und Empfehlungen gegen¨
+uber Unternehmensvertreter*innen
+demonstrieren. Da alle Sitzungen in englischer Sprache durchgef¨
+uhrt werden, werden die Studie-
+renden zudem ihre professionellen Kommunikations- und Pr¨
+asentati- onskompetenzen auf Eng-
+lisch weiter ausbauen.
+Inhalte und Themen:
+Business & Psychology Challenge ist ein interdisziplin¨
+arer Kurs, der be-
+triebswirtschaftliche Prinzipien mit psychologischen Erkenntnissen verbindet, um reale Herausforde-
+rungen von Organisationen zu adressieren. Der Kurs erm¨
+oglicht es den Studierenden, die Br¨
+ucke zwi-
+23
+
+[Page 24]
+schen Theorie und Praxis zu schlagen, indem sie reale Unternehmensf¨
+alle analysieren und fundierte
+L¨
+o- sungsvorschl¨
+age entwickeln. In jedem Semester wird ein speziﬁsches Thema im Mittelpunkt stehen.
+Partnerunternehmen stellen konkrete F¨
+alle und Fragestellungen zur Verf¨
+ugung, sodass die Studieren-
+den theoretische Konzepte gezielt auf praxisnahe, reale Kontexte anwenden k¨
+onnen. Die Studierenden
+arbeiten in Gruppen zusammen, um die im Fall dargestellten Herausforderungen zu identiﬁzieren,
+zu beschreiben und mithilfe betriebswirtschaftlicher und psychologischer Theorien und Konzepte um-
+setzbare L¨
+osungen zu entwickeln, die sie anschließend gegen¨
+uber den Unternehmensvertreter*innen
+pr¨
+asentieren.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Nicht zutreffend
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Nicht zutreffend
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 30 h = Teilnahme an den Seminarsitzungen
+• 30 h = Selbststudium vor und nach den Seminarsitzungen
+• 45 h = Projektarbeit
+• 45 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+24
+
+[Page 25]
+• Portfolio (Pr¨
+asentation der Fallstudie und der L¨
+osungen) – Oder schriftliche Pr¨
+ufung (Multiple
+Choice und offene Fragen) - Oder m¨
+undliche Pr¨
+ufung (15 Minuten) 100%
+Polyvalenz mit anderen Studieng¨
+angen:
+• Nicht zutreffend
+Bemerkungen:
+• Teilnehmerzahl begrenzt: 25
+• Partnerunternehmen werden zu Beginn des Semesters bekanntgegeben
+• Ein wichtiger Bestandteil dieses Kurses ist ein gemeinsames Gruppenprojekt, das die aktive Teil-
+nahme und gleichwertige Beitr¨
+age aller Gruppenmitglieder erfordert. Ihr Engagement bei der
+Gruppenarbeit ist entscheidend f¨
+ur den erfolgreichen Abschluss der Aufgaben und Bewertungen.
+Regelm¨
+aßige Anwesenheit und die Teilnahme an den Seminaraktivit¨
+aten werden daher dringend
+empfohlen.
+25
+
+[Page 26]
+Interkulturelles Management
+Modultitel
+Interkulturelles Management
+Modultitel Englisch
+Cross-cultural Management
+Modulnummer
+88-021-IM02-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Master Betriebswirtschaftslehre
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+BWL, insb. Internationales Management
+Modulverantwortlich
+Prof. Dr. Katja Gelbrich
+Leistungspunkte ECTS-Punkte
+5
+Kompetenzen:
+• Im Rahmen der Veranstaltung setzen sich die Studierenden mit den Herausforderungen auseinan-
+der, die eine kultur¨
+ubergreifende Unternehmenst¨
+atigkeit mit sich bringt. Daf¨
+ur lernen sie zun¨
+achst
+eine Reihe von Fallstricken kennen, mit denen international t¨
+atige Manager konfrontiert werden.
+Im Rahmen der Veranstaltung erwerben sie die F¨
+ahigkeit, solche Fallstricke zu umgehen und mit
+der kulturellen Vielfalt einzelner Akteure (Kunden, Manager und Mitarbeitern) umzugehen.
+• Daf¨
+ur
+– werden die Studierenden f¨
+ur die Notwendigkeit sensibilisiert, die Landeskultur als wichtiges
+Merkmal von Wirtschaftssubjekten zu betrachten.
+– entwickeln die Studierenden eine Vorstellung von Begriff und Funktion von “Kultur” und
+lernen zwei einschl¨
+agige Messkonzepte kennen.
+– lernen die Studierenden, wie Manager die speziﬁschen Marketing- und Managementauf-
+gaben bew¨
+altigen k¨
+onnen, um Produkte und Dienstleistungen in unterschiedlichen Kul-
+turr¨
+aumen erfolgreich zu vermarkten.
+• Am Ende des Kurses verstehen die Studierenden, was kulturspeziﬁsches Management ist und wie
+man es in der internationalen Unternehmenspraxis erfolgreich konzipieren und implementieren
+kann. Dazu z¨
+ahlen die erfolgreiche Gestaltung des interkulturellen Kundenbeziehungsmanage-
+ments, die formalen und informellen Organisationsstrukturen multinationaler Unternehmen so-
+wie das interkulturelle Personalmanagement.
+26
+
+[Page 27]
+• Im Rahmen der zugeh¨
+origen ¨
+Ubung wenden die Studierenden das erlernte Vorlesungswissen auf
+einen praxisnahen Fall an. Hierf¨
+ur l¨
+osen sie eigenst¨
+andig und im Team eine Fallstudie aus dem
+Bereich des interkulturellen Managements und pr¨
+asentieren ihre Ergebnisse. Dabei lernen die
+Studierenden, ¨
+uber das in der Vorlesung erlernte Wissen zu reﬂektieren, es zu bewerten und das
+Wissen auszuw¨
+ahlen, welches f¨
+ur die L¨
+osung der Fallstudie wichtig ist. Sie lernen, konkrete, an-
+wendbare Empfehlungen f¨
+ur international t¨
+atige Manager zu geben. Die Arbeit im Team tr¨
+agt
+zu einer Verbesserung der Team- und Konﬂiktl¨
+osungsf¨
+ahigkeit bei. Weiterhin lernen die Studie-
+renden, ihre L¨
+osung gegen¨
+uber alternativen Ans¨
+atzen zu reﬂektieren. Schließlich trainieren und
+verbessern sie ihre Pr¨
+asentationsf¨
+ahigkeiten.
+Inhalte und Themen:
+• Vom internationalen zum interkulturellen Management
+• Deﬁnition und Funktion von Landeskultur
+• Messung von Landeskultur
+• Interkulturelles Kundenbeziehungsmanagement
+• Unternehmens- und Landeskultur
+• Formale Organisationsstrukturen und Landeskultur
+• Informelle Systeme und Landeskultur
+• Interkulturelle Verhandlungen
+• Interkulturelle F¨
+uhrung und Motivation
+• Multikulturelle Teams
+• Interkulturelle Konﬂiktl¨
+osung
+• Auslandsentsendung
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Bachelor-Abschluss in Wirtschaftswissenschaften, Psychologie oder einem verwandten Gebiet
+Lehr- und Pr¨
+ufungssprache:
+27
+
+[Page 28]
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL) (2 SWS)
+• ¨
+Ubung (UE) (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• mit mindestens “ausreichend” bewerteter Leistungsnachweis: Portfolio
+• Unter Anwendung der in Vorlesung erlernten Inhalte erarbeiten die Studierenden in Teams die
+L¨
+osung einer Fallstudie, welche sie in schriftlicher Form ausarbeiten und als Team pr¨
+asentieren.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 21 h = Pr¨
+asenzzeit Vorlesung
+• 21 h = Pr¨
+asenzzeit ¨
+Ubung
+• 108 h = Eigenstudium
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Leistungsnachweis
+Polyvalenz mit anderen Studieng¨
+angen:
+• Masterstudiengang Business and Psychology
+• Masterstudiengang Taxation
+• Masterstudiengang Internationale Beziehungen (MIB)
+Bemerkungen: Informationen zur Literatur werden in der Veranstaltung bekannt gegeben. Teilneh-
+merbeschr¨
+ankung: 45
+28
+
+[Page 29]
+Digital Health: A Psychological Perspective
+Modultitel
+Digital Health: A Psychological Perspective
+Modultitel Englisch
+Digital Health: A Psychological Perspective
+Modulnummer
+88-021-BAP12-H-0725
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Marktpsychologie
+Modulverantwortlich
+Prof. Dr. Victoria-Sophie Osburg
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Nach Abschluss dieses Kurses werden die Studierenden in der Lage sein, psychologische Theorien
+und Konzepte anzuwenden, um die Akzeptanz und die Auswirkungen digitaler Gesundheitstech-
+nologien in verschiedenen Verbrauchergruppen kritisch zu analysieren. Sie werden ein differen-
+ziertes Verst¨
+andnis daf¨
+ur entwickeln, wie verschiedene digitale Gesundheitsl¨
+osungen das individu-
+elle Verhalten beeinﬂussen, insbesondere bei Personen, die medizinischen Ratschl¨
+agen gegen¨
+uber
+skeptisch sind. Dar¨
+uber hinaus werden sie in der Lage sein, kleine angewandte Projekte zu ent-
+werfen und umzusetzen, die diese Herausforderungen angehen
+• Dar¨
+uber hinaus werden die Studierenden in der Lage sein, wirksame Strategien zu entwickeln,
+um die Akzeptanz und das Engagement f¨
+ur digitale Gesundheitsl¨
+osungen zu erh¨
+ohen, insbeson-
+dere bei skeptischen Personen, und dabei sowohl betriebswirtschaftliche als auch psychologische
+Gesichtspunkte zu ber¨
+ucksichtigen.
+Inhalte und Themen:
+• Dieser Kurs erkundet das vielf¨
+altige Angebot der digitalen Gesundheitsanwendungen und unter-
+sucht kritisch ihre Auswirkungen, ihre Neuartigkeit und ihre Relevanz f¨
+ur das heutige Gesund-
+heitswesen. Wir werden uns mit wichtigen psychologischen Theorien auseinandersetzen, um das
+Verst¨
+andnis daf¨
+ur zu vertiefen, wie Individuen auf digitale Gesundheitsl¨
+osungen in verschiedenen
+Kontexten reagieren.
+• Besonderes Augenmerk wird auf Ph¨
+anomene der illusorischen ¨
+Uberlegenheit und deren Einﬂuss
+auf die Akzeptanz und Wirksamkeit von digitalen Gesundheitsmaßnahmen gelegt. Dabei werden
+29
+
+[Page 30]
+wir verschiedene Ph¨
+anomene der illusorischen ¨
+Uberlegenheit untersuchen und ihre Bedeutung
+bewerten.
+• W¨
+ahrend des Kurses werden die Studierenden in kleinen Gruppen zusammenarbeiten, um einen
+speziﬁschen Fall aus dem Bereich der digitalen Gesundheit zu analysieren, ein kleines, angewand-
+tes Projekt zu entwerfen und durchzuf¨
+uhren, um die psychologischen Faktoren zu untersuchen,
+die dessen Akzeptanz beeinﬂussen, und ¨
+uber ihre Ergebnisse zu berichten.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Theoretische Wissensvermittlung
+• Gruppendiskussionen
+• Interaktive Workshops
+• Fallstudiendiskussionen
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio oder Klausur oder m¨
+undliche
+Pr¨
+ufung
+• Die Art der Pr¨
+ufung wird zu Beginn der Lehrveranstaltung bekannt gegeben.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 42 h = Teilnahme an den Seminarsitzungen
+• 48 h = Gruppenarbeit in der Themen- und Projektphase
+30
+
+[Page 31]
+• 30 h = Selbststudium vor und nach den Seminarsitzungen
+• 30 h = Erstellen der Hausarbeit
+• 150 h = Arbeitsaufwand insgesamt
+Modulnote:
+• Portfolio (Digital Health und Akzeptanzstrategie Pr¨
+asentationen, schriftliche Ausarbeitung zur
+Strategie)– - 100
+• Oder schriftliche Pr¨
+ufung (multiple choice und offene Fragen) – 100%
+• Oder m¨
+undliche Pr¨
+ufung (15 min) – 100%
+Polyvalenz mit anderen Studieng¨
+angen:
+• Keine
+Bemerkungen:
+• Die Kursunterlagen, einschließlich der grundlegenden Literatur, werden online verf¨
+ugbar sein.
+Ein wichtiger Bestandteil dieses Kurses ist ein gemeinsames Gruppenprojekt, das die aktive Teil-
+nahme und gleichwertige Beitr¨
+age aller Gruppenmitglieder erfordert. Ihr Engagement bei der
+Gruppenarbeit ist entscheidend f¨
+ur den erfolgreichen Abschluss der Aufgaben und Bewertungen.
+Regelm¨
+aßige Anwesenheit und die Teilnahme an den Seminaraktivit¨
+aten werden daher dringend
+empfohlen.
+31
+
+[Page 32]
+Economics of Sustainable Consumption: Theory and Experimental Evi-
+dence (Prof. Dr. Alexander M. Danzer)
+Modultitel
+Economics of Sustainable Consumption: Theory and Experi-
+mental Evidence (Prof. Dr. Alexander M. Danzer)
+Modultitel Englisch
+Economics of Consumption: Theory and Experimental Evi-
+dence (Prof. Dr. Alexander M. Danzer)
+Modulnummer
+88-021-WM02-H-0719
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+VWL, insb. Mikro¨
+okonomik
+Modulverantwortlich
+Prof. Dr. Alexander M. Danzer
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Die Studierenden des Kurses vertiefen ihr Wissen und Verst¨
+andnis ¨
+uber fortgeschrittene mikro¨
+okonomische
+Theorien des nachhaltigen Konsums.
+• Die Studierenden entwickeln detaillierte und reﬂektierte Ansichten ¨
+uber m¨
+ogliche Verzerrungen
+bei Konsumentscheidungen und in der Verbraucherforschung.
+• Sie sind in der Lage, die Herausforderung der wissenschaftlichen ¨
+Uberpr¨
+ufung von Verbrau-
+chertheorien unter Ber¨
+ucksichtigung wissenschaftlicher ¨
+Uberlegungen zu verstehen.
+• Die Studierenden erwerben Kenntnisse ¨
+uber experimentelle Studien und integrieren das vorhan-
+dene und neue Wissen, um unter Anleitung ein Konsumexperiment durchzuf¨
+uhren.
+Inhalte und Themen:
+• Experimentelle Ans¨
+atze
+– Experimente als Goldstandard
+– Labor- vs. Feldexperimente
+– Verfahren
+32
+
+[Page 33]
+• Fortgeschrittene Konsumtheorien
+– Intertemporaler Konsum: Zeitdiskontierung
+– Entscheidungen unter Unsicherheit: Nudging, kognitive Belastung
+– ¨
+Uberm¨
+aßiger Konsum
+– Ethisches Verbraucherverhalten
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundlagen der Mikro¨
+okonomie und Statistik
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Hausarbeit.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 45 h = Pr¨
+asenzzeit Seminar
+• 45 h = Vor- und Nachbereitung Seminar
+• 60 h = Hausarbeit
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Hausarbeit (50
+33
+
+[Page 34]
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+• Zertigikatisstudiengang Sustainability
+Bemerkungen:
+Literatur:
+• Glenn W. Harrison and John A. List: Field Experiments, Journal of Economic literature
+• Stefano DellaVigna: Psychology and Economics: Evidence from the Field, Journal of Economic
+literature
+• Sally Sadoff, Anya Savikhin Samek, Charles Sprenger: Dynamic Inconsistency in Food Choice:
+Experimental Evidence from a Food Desert, Forthcoming in Review of Economic Studies
+34
+
+[Page 35]
+Fallstudien im Internationalen Management (Prof. Dr. Katja Gelbrich)
+Modultitel
+Fallstudien im Internationalen Management (Prof. Dr. Katja
+Gelbrich)
+Modultitel Englisch
+Case Studies in International Management (Prof. Dr. Katja
+Gelbrich)
+Modulnummer
+88-021-IM09-H-1216
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Internationales Management
+Modulverantwortlich
+Prof. Dr. Katja Gelbrich
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Den Studierenden soll vermittelt werden, auf welche Herausforderungen sich Unter-
+nehmen einstellen m¨
+ussen, wenn sie auf internationalen M¨
+arkten t¨
+atig werden. Der Kurs befasst sich
+insbesondere mit einem breiten Spektrum von Fragestellungen des Internationalen Managements, wie
+z.B.:
+• Entwicklung internationaler Marktbearbeitungsstrategien und der Anpassung von Produkten,
+Preisen, Vertriebskan¨
+alen und Kommunikation an weltweite Zielm¨
+arkte
+• Bewertung des Umfelds f¨
+ur die Gesch¨
+aftst¨
+atigkeit auf ausl¨
+andischen M¨
+arkten (d.h. Analyse des
+wirtschaftlichen, ﬁnanziellen, rechtlichen, politischen und kulturellen Umfelds)
+• Entwicklung einer angemessenen Organisationsstruktur f¨
+ur multinationale Konzerne
+• Auswahl von geeigneten Managementstrategien und F¨
+uhrungsstilen, die internationales Wachs-
+tum erm¨
+oglichen und f¨
+ordern
+• Weitere Fragen im Zusammenhang mit der internationalen Gesch¨
+aftst¨
+atigkeit
+Nach erfolgreicher Beendigung des Moduls k¨
+onnen die Studierenden verstehen, inwieweit sich nationale
+von internationalen Managementstrategien unterscheiden. Sie lernen, wie Unternehmen erfolgreich
+auf ausl¨
+andischen M¨
+arkten agieren k¨
+onnen. Ein Hauptziel dieses Kurses ist, erworbenes Wissen ¨
+uber
+Marketing und Management aus vorherigen Vorlesungen im internationalen Kontext anwenden zu
+k¨
+onnen.
+35
+
+[Page 36]
+Die Teilnehmer erwerben die F¨
+ahigkeiten, ¨
+uber die geeigneten analytischen Methoden f¨
+ur ein bestimmtes
+Management-Problem zu entscheiden, diese Methoden in angemessener Weise anzuwenden und die
+Ergebnisse logisch zu interpretieren, um das Management-Problem zu l¨
+osen.
+Die Bearbeitung der Fallstudie(n) in Gruppen tr¨
+agt zu einer Verbesserung der Team- und Konﬂiktl¨
+osungsf¨
+ahigkeit
+bei. Außerdem trainieren und verbessern die Teilnehmer ihre Pr¨
+asentationsf¨
+ahigkeiten. Zwar beraten
+die Kursleiter die Teilnehmer und geben Feedback, jedoch wird weitgehend ein selbst¨
+andiges Arbeiten
+an der/den Fallstudie/n und Erarbeiten der L¨
+osung verlangt.
+Inhalte und Themen: Der Kursinhalt ist abh¨
+angig von der/den jeweiligen Fallstudie(n) und kann
+einen oder mehrere der folgenden Schwerpunkte enthalten:
+• Internationale Marketingstrategien
+• Markteintrittsentscheidungen und internationales Wachstum
+• Organisationsstrukturen eines multinationalen Unternehmens
+• Digitalisierung im Rahmen der internationalen Gesch¨
+aftst¨
+atigkeit
+• Internationales Personalmanagement
+Die Teilnehmer l¨
+osen eine oder mehrere Fallstudie(n). Die Anzahl der zu bearbeitenden Fallstudien
+ergibt sich aus dem Umfang der jeweiligen Aufgabenstellung. Bei der L¨
+osung der Fallstudie(n) sollen
+die Studierenden vorhandene Informationen strukturieren und externe Daten (z.B. Wirtschaftsdaten
+der Weltbank) sammeln, um die Problemstellung umfassend einsch¨
+atzen zu k¨
+onnen. Die gesammel-
+ten Daten sollen dann mit Hilfe verschiedenster Analysemethoden ausgewertet werden. Hierbei sollen
+statistische Analysemethoden (z.B. Regressions- und Clusteranalyse mit SPSS) und Instrumente der
+strategischen Planung (z.B. SWOT- und PEST-Analyse) Anwendung ﬁnden. Auf Grundlage der gewon-
+nenen Erkenntnisse sollen geeignete Strategien zur L¨
+osung der Fallstudie(n) erarbeitet werden.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Vorherige Teilnahme am Kurs ”Empirische Managementforschung“
+• Kenntnisse im Bereich Marketing und Management
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+36
+
+[Page 37]
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Projekt (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Die Studierenden erarbeiten in Teams die L¨
+osung einer Fallstudie, welche sie in schriftlicher Form
+ausarbeiten und als Team pr¨
+asentieren.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 42 h = Anwesenheit w¨
+ahrend der Einf¨
+uhrung, Besprechungen, Pr¨
+asentationen
+• 108 h = Selbst¨
+andige Vorbereitung der Fallstudie(n)
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfolio (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+Bemerkungen:
+• Teilnahmebeschr¨
+ankung: 30
+• Weitere Informationen ¨
+uber die Fallstudie(n) und Literaturempfehlungen werden in der Einf¨
+uhrung
+gegeben.
+37
+
+[Page 38]
+Food Technology Acceptance: A Psychological Perspective (Prof. Dr.
+Victoria-Sophie Osburg)
+Modultitel
+Food Technology Acceptance: A Psychological Perspective
+(Prof. Dr. Victoria-Sophie Osburg)
+Modultitel Englisch
+Food Technology Acceptance: A Psychological Perspective
+Modulnummer
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Marktpsychologie
+Modulverantwortlich
+Prof. Dr. Victoria-Sophie Osburg
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Nach Abschluss dieses Kurses werden die Studierenden die wichtigsten Konzepte im Zusammen-
+hang mit der Akzeptanz von (neuartigen) Lebens-mitteltechnologien und den psychologischen
+Faktoren, die die Akzeptanz dieser Technologien durch die VerbraucherInnen beeinﬂussen, verste-
+hen und anwenden k¨
+onnen.
+• Die Studierenden werden die St¨
+arken und Schw¨
+achen verschiedener neu-artiger Lebensmitteltech-
+nologien sowie deren ethische Implikationen aus Verbrauchersicht vergleichen und schließlich das
+Potenzial dieser Techno-logien bewerten.
+• Die Studierenden werden ein eigenes Projekt zur Akzeptanz einer ausge-w¨
+ahlten Lebensmittel-
+technologie durchf¨
+uhren. Sie werden außerdem eine umfassende Strategie zur Verbesserung der
+Verbraucherakzeptanz dieser Lebensmitteltechnologie entwickeln.
+Inhalte und Themen:
+• In diesem Kurs werden die psychologischen Faktoren untersucht, die die Akzeptanz von (neuar-
+tigen) Lebensmitteltechnologien beeinﬂussen. Die Veranstaltung kombiniert theoretisches Wissen
+mit praktischen Anwen-dungen, Fallstudien und Projekterfahrung
+• Wir werden verschiedene psychologische Faktoren analysieren, die die Akzeptanz von Lebens-
+mitteltechnologien beeinﬂussen (z. B. kognitive Prozesse, Emotionen, soziokulturelle Einﬂ¨
+usse).
+38
+
+[Page 39]
+Dar¨
+uber hinaus werden wir diskutieren, wie sich diese Faktoren bei verschiedenen Lebensmittel-
+technologien unterscheiden.
+• Die Studierenden werden in kleinen Gruppen arbeiten und sich auf eine Lebensmitteltechnologie
+ihrer Wahl konzentrieren. Nachdem sie die Tech-nologie gr¨
+undlich analysiert haben, f¨
+uhren sie
+ein kleines Projekt durch und berichten dies, um die psychologischen Faktoren zu untersuchen, die
+die Akzeptanz dieser Technologie beeinﬂussen. Den Abschluss des Kur-ses bildet eine ”Food Tech-
+nology Challenge“, bei der die Studierenden ihr Wissen in einem szenariobasierten / praktischen
+Fallbeispiel anwenden k¨
+onnen.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Theoretische Sessions
+• Gruppendiskussionen
+• Interaktive Workshops
+• Group Challenge
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio oder schriftliche Abschluss-
+pr¨
+ufung oder m¨
+undliche Abschlusspr¨
+ufung.
+• Die Pr¨
+ufungsform wird zu Veranstaltungsbeginn bekannt gegeben.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 56 h = Pr¨
+asenzzeit Seminar
+39
+
+[Page 40]
+• 45 h = Aufgaben in der Themen- und Projektphase
+• 30 h = Vor- und Nachbereitung
+• 19 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfolio (Pr¨
+asentation des Projektes und Ausarbeitung einer Akzeptanz-strategie) – 100 %
+• Oder schriftliche Abschlusspr¨
+ufung (multiple choice und offene Fragen) – 100%
+• Oder m¨
+undliche Abschlusspr¨
+ufung (15 min) – 100%
+Polyvalenz mit anderen Studieng¨
+angen:
+• Keine
+Bemerkungen:
+• Die Kursunterlagen, einschließlich der wesentlichen Lekt¨
+ure, werden online verf¨
+ugbar sein.
+• Ein wichtiger Bestandteil dieses Kurses ist ein gemeinsames Gruppenpro-jekt, das die aktive Teil-
+nahme und den Beitrag aller Gruppenmitglieder erfordert. Das Engagement aller Gruppenmitglie-
+der ist entscheidend f¨
+ur einen erfolgreichen Abschluss. Regelm¨
+aßige Anwesenheit und Beteiligung
+an den Unterrichtsaktivit¨
+aten sind daher erforderlich.
+40
+
+[Page 41]
+Forschungsmethoden in der Psychologie (Prof. Dr. Marco Steinhauser)
+Modultitel
+Forschungsmethoden in der Psychologie (Prof. Dr. Marco
+Steinhauser)
+Modultitel Englisch
+Research Methods in Psychology (Prof. Dr. Marco Steinhau-
+ser)
+Modulnummer
+88-021-MY03-H-0620
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Philosophisch- P¨
+adagogische Fakult¨
+at
+Beteiligte Fachgebiete
+Allgemeine Psychologie
+Modulverantwortlich
+Prof. Dr. Marco Steinhauser
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Die Studierenden k¨
+onnen f¨
+ur konkrete Fragestellungen Versuchspl¨
+ane erstellen und geeignete ver-
+tiefte statistische Verfahren ausw¨
+ahlen.
+• Sie kennen und verstehen g¨
+angige statistische Verfahren basierend auf dem Allgemeinen Linearen
+Modell.
+• Sie kennen die Grenzen klassischer Nullhypothesen Signiﬁkanztests und verf¨
+ugen ¨
+uber Grundwis-
+sen in Bayesschen Analysemethoden.
+Inhalte und Themen:
+• Verschiedene Versuchspl¨
+ane werden anhand von Beispielstudien dargestellt und hinsichtlich ihrer
+Anwendbarkeit diskutiert.
+• Basierend auf multipler linearer Regression wird das Allgemeine Lineare Modell eingef¨
+uhrt.
+• Verfahren wie Varianzanalysen und Kovarianzanalysen werden im Rahmen des Allgemeinen Li-
+nearen Modells beschrieben.
+• Logik und Grenzen klassischer Nullhypothesen-Signiﬁkanztests werden diskutiert und Bayessches
+Testen wird als Alternativmethode beschrieben.
+41
+
+[Page 42]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch (aktuell)
+• Englisch (geplant)
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vortrag
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausurleistung (multiple-choice)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 24 h = Pr¨
+asenzzeit
+• 36 h = Vor- und Nachbereitung
+• 90 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• 60-min¨
+utige Abschlussklausur (100 %)
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen:
+Literatur:
+• Baguley, T. (2012). Serious stats: A guide to advanced statistics for the behavioral sciences.
+Basingstoke, UK: Palgrave Macmillan.
+42
+
+[Page 43]
+Human-Technology Interaction: Potential and Application (Jun.-Prof.
+Dr. Christina Pfeuffer)
+Modultitel
+Human-Technology Interaction: Potential and Application
+(Jun.-Prof. Dr. Christina Pfeuffer)
+Modultitel Englisch
+Human-Technology Interaction: Potential and Application
+(Jun.-Prof. Dr. Christina Pfeuffer)
+Modulnummer
+88-021-BAP07-H-0820
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Philosophisch- P¨
+adagogische Fakult¨
+at
+Beteiligte Fachgebiete
+Human-Technology Interaction (Psychologie)
+Modulverantwortlich
+Jun.-Prof. Dr. Christina Pfeuffer
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen: Wissen:
+• Die Studierenden erwerben vertieftes Wissen ¨
+uber (ausgew¨
+ahlte Themen der) Mensch-Technik
+Interaktion und deren Anwendungspotential in verschiedenen Anwendungsszenarien
+• Sie kennen aktuelle Forschung, Diskussionen und Kontroversen in (ausgew¨
+ahlten Themen) der
+Mensch-Technik Interaktion
+Methodische und wissenschaftliche Kompetenzen:
+• Sie k¨
+onnen die gew¨
+ohnlich im Bereich der Mensch-Technik Interaktion verwendeten Methoden
+sowie speziﬁsche, exemplarische, aktuelle Forschungsergebnisse im Bereich Mensch-Technik Inter-
+aktion reﬂektieren und kritisch diskutieren
+• Sie k¨
+onnen die Relevanz von Forschungsergebnissen im Kontext wissenschaftlicher Theorien sowie
+Anwendungsszenarien beurteilen und theoretische sowie praktische Schlussfolgerungen ableiten
+Transfer und Anwendung:
+• Sie k¨
+onnen auf Basis der diskutierten Forschungsbefunde im Bereich Mensch-Technik Interaktion
+einen eigenen Anwendungsfall und ein “Produkt” ableiten, entwickeln und pr¨
+asentieren
+• Sie k¨
+onnen ihr Wissen anwenden, um Studien zu planen, die Interventionen/Produkte der Mensch-
+Technik Interaktion kritisch evaluieren
+43
+
+[Page 44]
+Allgemeine beruﬂiche Kompetenzen:
+• Soziale und kooperative Kompetenzen (gemeinsame Projektarbeit in der Gruppe)
+• Pr¨
+asentations- und Wissenschaftskommunikationskompetenzen (interaktive didaktische Pr¨
+asentationen,
+“Produkt”-Pr¨
+asentationen, Forschungsposterpr¨
+asentationen)
+• Kompetenzen im Bereich Planung und Projektmanagement
+Inhalte und Themen:
+• Relevante Grundlagen im Bereich Mensch-Technik Interaktion und ihre Anwendung
+• Wissenschaftliche Beurteilung von Produkten/Interventionen, die auf Forschungsergebnissen aus
+dem Bereich Mensch-Technik In-teraktion aufbauen
+• Entwicklung, Pr¨
+asentation und kritische Beurteilung eines selbst-gew¨
+ahlten Anwendungsbeispiels
+Das Seminar startet mit einer Betrachtung ausgew¨
+ahlter Forschungser-gebnisse im Bereich Mensch-
+Technik Interaktion aus einer psychologischen Perspektive und ¨
+uberbr¨
+uckt die L¨
+ucke zwischen Forschung
+im Be-reich Psychologie und deren Anwendung in wirtschaftlichen Kontexten in der Projektphase. In der
+ersten Seminarstunde werden die Studierenden selbst einige Fokusthemen ausw¨
+ahlen, die studentische
+Gruppen in interaktiver Weise in der folgenden Themenphase des Seminars pr¨
+asentieren werden. Nach-
+dem wir uns mit den Fokusthemen vertraut gemacht haben, werden wir zur Projektphase ¨
+ubergehen.
+Hierbei werden die Studierenden einen eigenen Anwendungsfall identiﬁzieren und ein ”Produkt“ aus
+dem Bereich Mensch-Technik Interaktion entwickeln, um das von ihnen identiﬁzierte Problem zu l¨
+osen
+(Produkt Sub-Phase). Sie werden dann den Entwicklungsprozess und ihr ”Produkt“ vorstellen. Im Fol-
+genden werden die Studierenden kritisch reﬂektieren, wie die versprochenen Vorteile ihres Produkts mit
+den wissenschaftlichen Methoden der Mensch-Technik Interaktion kritisch evaluiert werden k¨
+onnen und
+ihre Schlussfolgerungen auf einer simulierten Konferenz-Postersession pr¨
+asentieren (Wissenschaftliche
+Evaluation Sub-Phase). Die studentischen Gruppen werden außerhalb der Seminarstunden unabh¨
+angig
+an ihren Anwendungsf¨
+allen, ”Produkten“ und Vorschl¨
+agen zur wissenschaftlich-fundierten Evaluation
+arbeiten.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+44
+
+[Page 45]
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar 3 SWS
+• Arbeit in Kleingruppen (Themenphase): Interaktive Pr¨
+asentationen und Diskussionen einiger von
+den Studierenden gew¨
+ahlter Fokusthemen
+• Arbeit in Kleingruppen (Projektphase)
+– Produkt Sub-Phase
+* ¨
+Ubertragung des erworbenen Wissens auf einen selbstgew¨
+ahlten Anwendungsfall – Ent-
+wurf eines “Produkts”
+* Pr¨
+asentation der ”Produkt“-Entwicklung und des Ergebnisses
+– Wissenschaftliche Evaluation Sub-Phase:
+* Planung wissenschaftlicher M¨
+oglichkeiten der “Produkt”-Evaluation
+* Posterpr¨
+asentation auf einer simulierten Konferenz im Mensch-Technik Interaktions-
+Bereich
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio oder schriftliche Abschluss-
+pr¨
+ufung oder m¨
+undliche Abschlusspr¨
+ufung
+• Die Pr¨
+ufungsform wird vor Veranstaltungsbeginn bekannt gegeben.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 36 h = Pr¨
+asenzzeit
+• 24 h = Vor- und Nachbereitung der Seminarstunden
+• 50 h = Aufgaben in der Themen- und Projektphase
+• 40 h = Erarbeitung der Pr¨
+ufungsleistung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfolio (Dokumentation der pr¨
+asentierten Ergebnisse der Projektphase inklusive eines 5-seitigen
+Papers zur geplanten wissenschaftlichen Evaluation) – 100%
+45
+
+[Page 46]
+• Oder schriftliche Abschlusspr¨
+ufung (multiple choice und offene Fragen) – 100%
+• Oder m¨
+undliche Abschlusspr¨
+ufung (15 min) – 100%
+Polyvalenz mit anderen Studieng¨
+angen: Psychologie M.Sc.
+Bemerkungen:
+• Teilnehmerbeschr¨
+ankung 15
+• In der ersten Seminarstunde werden die Studierenden selbst einige Fokusthemen aus einer ¨
+Ubersicht
+relevanter Themen im Bereich Mensch-Technik Interaktion w¨
+ahlen. Die ausgew¨
+ahlten Themen
+werden in der Themenphase pr¨
+asentiert und diskutiert. Die Literatur wird vorrangig aus wis-
+senschaftlichen Artikeln im Bereich Mensch-Technik Interaktion bestehen. Die genaue Literatur
+und weitere Materialien h¨
+angen von den gew¨
+ahlten Fokusthemen ab und werden im Verlauf des
+Seminars ¨
+uber elearnKU verf¨
+ugbar gemacht.
+46
+
+[Page 47]
+Market Psychology and Strategic Marketing Communication (Prof. Dr.
+Victoria-Sophie Osburg)
+Modultitel
+Market Psychology and Strategic Marketing Communication
+(Prof. Dr. Victoria-Sophie Osburg)
+Modultitel Englisch
+Market Psychology and Strategic Marketing Communication
+Modulnummer
+88-021-BAP13-H-0725
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Marktpsychologie
+Modulverantwortlich
+Prof. Dr. Victoria-Sophie Osburg
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Nach Abschluss dieses Kurses haben die Studierenden ein solides Verst¨
+andnis von Marktpsycho-
+logie und strategischer Marketingkommunikation entwickelt. Sie werden in der Lage sein, die
+wichtigsten Theorien in diesen Bereichen zu identiﬁzieren und kritisch anzuwenden.
+• Die Studierenden erlernen strategische Marketingkommunikation unter besonderer Ber¨
+ucksichtigung
+der Marketingethik zu bewerten und bestehende Strategien aus verschiedenen kulturellen Per-
+spektiven zu beurteilen.
+• Dar¨
+uber hinaus werden die Studierenden eigene Marketing-Kommunikationskampagnen entwer-
+fen und kritisch reﬂektieren, wobei sie sich auf die im Kurs behandelten Konzepte st¨
+utzen. Die
+Tutorien bieten praktische M¨
+oglichkeiten zur Anwendung der Kursinhalte und zur Entwicklung
+eines kritischen, reﬂektierten Ansatzes f¨
+ur die Marketingkommunikation, der den Studierenden
+wertvolle Managementf¨
+ahigkeiten vermittelt.
+Inhalte und Themen:
+• Dieser Kurs bietet eine umfassende Einf¨
+uhrung in die Marktpsychologie und die strategische Mar-
+ketingkommunikation. Wir erforschen die Entwicklung der Marketingkommunikation - Vergan-
+genheit, Gegenwart und Zukunft - und untersuchen die wichtigsten psychologischen Theorien, die
+sowohl der Marktpsychologie als auch der Marketingkommunikation zugrunde liegen.
+47
+
+[Page 48]
+• Der Kurs befasst sich dann mit der Rolle von Marken, effektivem Kampagnenmanagement und der
+Bedeutung von Werbung neben anderen wesentlichen Elementen des Marketing-Mix. Besonderes
+Augenmerk wird auf Branchenpraktiken und ethische ¨
+Uberlegungen in einem globalen Kontext
+gelegt.
+• W¨
+ahrend des gesamten Kurses werden die Studendierenden an Falldiskussionen und projektba-
+siertem Lernen teilnehmen, was ihnen reichlich Gelegenheit bietet, das neu erworbene Wissen
+durch gemeinschaftliche Gruppenaufgaben anzuwenden. Dieser praxisnahe Ansatz stellt sicher,
+dass die Studierenden die Theorie mit der Praxis verbinden k¨
+onnen.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Nicht zutreffend
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Nicht zutreffend
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Nicht zutreffend
+• Nicht zutreffend
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten mit mindestens ”ausreichend“ bewerteter
+Leistungsnachweis: Portfolio oder Klausur oder m¨
+undliche Pr¨
+ufung
+• Die Art der Pr¨
+ufung wird zu Beginn der Lehrveranstaltung bekannt gegeben.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 22 h = Teilnahme an den Vorlesungen
+• 22 h = Teilnahme an den ¨
+Ubungen
+• 50 h = Selbststudium vor und nach den Sitzungen
+48
+
+[Page 49]
+• 56 h = Erstellen der Hausarbeit
+• 150 h = Arbeitsaufwand insgesamt
+Modulnote:
+• Portfolio (Pr¨
+asentation des Projekts und des Papers zur zugeteilten Akzeptanzstrategie) - 100
+• Oder schriftliche Abschlusspr¨
+ufung (multiple choice und offene Fragen) – 100%
+• Oder m¨
+undliche Pr¨
+ufung (15 min) – 100%
+Polyvalenz mit anderen Studieng¨
+angen:
+• Nicht zutreffend
+Bemerkungen:
+• Die Kursunterlagen, einschließlich der grundlegenden Literatur, werden online verf¨
+ugbar sein.
+Ein wichtiger Bestandteil dieses Kurses ist ein gemeinsames Gruppenprojekt, das die aktive Teil-
+nahme und gleichwertige Beitr¨
+age aller Gruppenmitglieder erfordert. Ihr Engagement bei der
+Gruppenarbeit ist entscheidend f¨
+ur den erfolgreichen Abschluss der Aufgaben und Bewertungen.
+Regelm¨
+aßige Anwesenheit und die Teilnahme an den Seminaraktivit¨
+aten werden daher dringend
+empfohlen.
+49
+
+[Page 50]
+Innovation and Creativity in Individuals, Teams, and Organizations
+(Prof. Dr. Shashi Matta)
+Modultitel
+Innovation and Creativity in Individuals, Teams, and Organi-
+zations (Prof. Dr. Shashi Matta)
+Modultitel Englisch
+Innovation and Creativity in Individuals, Teams, and Organi-
+zations (Prof. Dr. Shashi Matta)
+Modulnummer
+88-021-MC01-H-0620
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Innovation and Creativity
+Modulverantwortlich
+Prof. Dr. Shashi Matta
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+Innovation und Kreativit¨
+at sind die treibende Kr¨
+afte f¨
+ur den Erfolg einer Organisation. Unterneh-
+men, die insbesondere in der letzten Dekade deutliche shareholder-value Zuw¨
+achse verbuchen konnten,
+schafften dies durch eine Kultur, die auf Kreativit¨
+at und Innovation basiert. Durch das erfolgreiche Ma-
+nagement von Innovation und Kreativit¨
+at kann ein nachhaltiger Wettbewerbsvorteil erreicht werden.
+Dieser Kurs befasst sich mit der grundlegenden Frage, wie man Innovation und Kreativit¨
+at in Organi-
+sationen erfolgreich managen und f¨
+ordern kann.
+Als ¨
+ubergeordnete Ziele dieses Kurses sollen Studenten:
+• Die Bedeutung von Innovation in Organisationen verstehen und die Verbindung zu Kreativit¨
+at
+herstellen
+• Die zahlreichen Treiber, Quellen und Innovationstypen erkennen und erlernen
+• Die Rolle der Strategie, der Organisationsstruktur und der Innovationsteams begreifen
+• die Rolle der Digitalisierung im Innovationsprozess zu verstehen
+• Digitale Gesch¨
+aftsmodelle und digitales Unternehmertum identiﬁzieren und innovieren
+• Rahmenbedingungen f¨
+ur das strategische Innovationsmanagement in Organisationen entwickeln
+50
+
+[Page 51]
+• Die Herausforderungen und Barrieren von Innovation erkennen und L¨
+osungen ﬁnden
+• Ein Verst¨
+andnis f¨
+ur Kreativit¨
+at aufbauen (durch Recherche und Frameworks bzgl. Kreativit¨
+at)
+• Pers¨
+onliche- und Managementinstrumente erlenen, die sowohl die individuelle als auch die Team-
+kreativit¨
+at verbessern
+• Die Rolle von Kreativit¨
+at f¨
+ur Innovation und Probleml¨
+osung untersuchen
+• Kreativit¨
+at und Design-Thinking auf ein reales Business-Szenario anwenden
+• Die theoretischen Grundlagen beigebracht bekommen und ein Werkzeugkasten an Management-
+instrumenten erhalten, durch welche Innovation und Kreativit¨
+at gef¨
+ordert, gemanagt und erhal-
+ten werden kann.
+Neben fachlichen Kompetenzen im Bereich Kreativit¨
+at und Innovation erwerben Studenten auch Soft-
+Skills wie beispielsweise Teamf¨
+ahigkeit, Kommunikation sowie die F¨
+ahigkeit, Pr¨
+asentationen in einem
+professionellen Rahmen zu halten. Zudem verbessern Studenten ihre analytischen F¨
+ahigkeiten indem
+w¨
+ahrend des Kurses ver¨
+offentlichte und reale Fallstudien mit Praxisbezug intensiv analysiert und dis-
+kutiert werden. Sie lernen, wie Branchenpraktiken bez¨
+uglich Innovation und Kreativit¨
+at analysiert,
+diskutiert und kritisch hinterfragt werden k¨
+onnen. Da sowohl die Vorlesungen als auch die ¨
+Ubungen
+auf Englisch gehalten werden, erhalten Studenten die M¨
+oglichkeit, ihre Englischkenntnisse in einem
+professionellen Rahmen zu verbessern.
+Inhalte und Themen:
+Teil I: Einf¨
+uhrung in Innovation und Kreativit¨
+at
+• Was ist Innovation? Was ist Kreativit¨
+at?
+• Wie h¨
+angen sie in einem individuellen und organisatorischen Kontext zusammen?
+Teil II: Treiber und Innovationsquellen
+• Organisatorische Faktoren, die Innovation erm¨
+oglichen und f¨
+ordern
+• Wie h¨
+angen Strategie und Innovation zusammen?
+Teil III: Innovationsmanagement in Organisationen
+• Entwicklung eines Innovationsrahmens f¨
+ur Organisationen
+• Hindernisse und Herausforderungen f¨
+ur die Innovation
+Teil IV: Kreativit¨
+at und Probleml¨
+osung
+• Frameworks f¨
+ur Kreativit¨
+at
+• Wie kann die Kreativit¨
+at von Einzelpersonen und Teams gef¨
+ordert werden?
+51
+
+[Page 52]
+Teil V: Kreativit¨
+at und Design Thinking
+• Deﬁnition und Rahmen f¨
+ur Design Thinking
+• Design Thinking anwenden, um gesch¨
+aftliche Probleme zu l¨
+osen
+Teil VI: Innovative und kreative Organisationen
+• Denkweise von Innovatoren und Sch¨
+opfern
+• Typologie der Innovatoren und Sch¨
+opfer
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung
+• ¨
+Ubung (beinhaltet ver¨
+offentlichte sowie reale Fallstudien und ¨
+Ubungen)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Teambasiertes Innovationsprojekt sowie Pr¨
+asentation (50 %)
+– Die Studierenden m¨
+ussen Teams (5-6 Studenten) f¨
+ur das Innovationsprojekt und die dazu-
+geh¨
+orige Pr¨
+asentation bilden. Jedes Team muss als ”Beraterteam“ an einem Innovationspro-
+jekt arbeiten, welches w¨
+ahrend der ersten ¨
+Ubungsstunde bekanntgegeben wird. Dabei wird
+es sich um ein ”live“ Projekt handeln, das von einem namenhaften Unternehmen angebo-
+ten wird. Die studentischen Teams werden 12-Wochen, also ein Semester lang, f¨
+ur dieses
+”angewandte“ Projekt arbeiten, indem Sie s¨
+amtliche Inhalte/Themen darauf anwenden. Die
+studentischen Teams werden in der letzten ¨
+Ubungsstunde ihre Abschlusspr¨
+asentation vor
+Unternehmensf¨
+uhrern halten.
+52
+
+[Page 53]
+• Klausur (50 %)
+– Die Klausur basiert auf allen besprochenen Inhalten im Rahmen der Vorlesung und der
+¨
+Ubung. Die L¨
+ange der Klausur betr¨
+agt 50 Minuten, zus¨
+atzlich gibt es eine Vorbereitungszeit
+von 70 Minuten die direkt vor der Klausur stattﬁndet.
+• Es gibt zwei Pr¨
+ufungselemente: eine Team-Leistung und eine individuelle Leistung. Daf¨
+ur gibt es
+einen wichtigen Grund – die Innovation in Organisationen wird nicht von einer einzelnen Per-
+son durchgef¨
+uhrt. In jeder Organisation ist Innovation eine gemeinsame Aufgabe, die von Teams
+geplant und ausgef¨
+uhrt wird. Es gibt unterschiedliche Dynamiken bei der Erzielung von Innova-
+tion in Teams und der Art und Weise, wie ein Team kreativ arbeiten kann, obwohl die einzelnen
+Mitglieder des Teams unterschiedliche kreative F¨
+ahigkeiten und Begabungen besitzen. Dies zu
+lernen und in der Lage zu sein, dies in einem ”realen”Projekt umzusetzen, ist ein wichtiger und
+unverzichtbarer Bestandteil dieses Moduls. Dar¨
+uber hinaus ben¨
+otigen Studierende f¨
+ur die erfolg-
+reiche Entwicklung und Durchf¨
+uhrung von Innovationsprojekten individuelle Kompetenzen und
+F¨
+ahigkeiten sowie die Kenntnis von Theorien und Rahmenbedingungen, die ebenfalls in diesem
+Modul vermittelt werden. Daher bestehen die Beurteilung in diesem Modul aus zwei Elementen
+- einer Teamleistung und einer individuellen Leistung. Der Titel dieses Moduls macht deutlich,
+dass Innovation und Kreativit¨
+at auf der Ebene des Einzelnen, des Teams und der Organisation
+behandelt werden.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 30 h = Pr¨
+asenzzeit Vorlesung
+• 30 h = Pr¨
+asenzzeit ¨
+Ubung
+• 30 h = Vor- und Nachbereitung Vorlesung
+• 30 h = Vor- und Nachbereitung ¨
+Ubung
+• 30 h = Fallstudie, Projekt und Klausurvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Es gibt zwei benotete Leistungen in diesem Kurs – ein teambasiertes Innovationsprojekt sowie
+eine zugeh¨
+orige Pr¨
+asentation in Zusammenarbeit mit einem Industriepartner (50 %) und einer
+Klausur (50 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+53
+
+[Page 54]
+• Business & Psychology M.Sc.
+• Taxation M.Sc.
+Bemerkungen:
+• Die Pﬂichtlekt¨
+ure f¨
+ur diesen Kurs beinhaltet diverse Artikel/Fallstudien, die von Harvard Business
+Publishing ver¨
+offentlicht wurden.
+• Literatur:
+– Collaborating with Creative Peers (2015). Kimberly D Elsbach, Brooke Brown-Saracino and
+Francis J. Flynn. Harvard Business School Publishing.
+– Design Thinking (HBR Bestseller) (2008). Tim Brown. Harvard Business School Publishing.
+– Find Innovation Where You Least Expect It (2015). Tony McCaffrey and Jim Pearson. Har-
+vard Business School Publishing
+– How Will You Measure Your Life? (HBR Bestseller) (2010). Clayton M. Christensen. Harvard
+Business School Publishing
+– Managing Your Innovation Portfolio (2012). Bansi Nagji and Geoff Tuff. Harvard Business
+School Publishing
+– The Surprising Power of Questions (2018). Alison Wood Brooks and Leslie K. John. Harvard
+Business School Publishing.
+– You Need an Innovation Strategy (2015). Gary P. Pisano. Harvard Business School Publis-
+hing.
+• Simulations
+– The Food Truck Challenge. Harvard Business School.
+– Breaking News. Harvard Business School.
+54
+
+[Page 55]
+People Analytics: Data Science for Human Resources Management (Prof.
+Dr. Sven Laumer)
+Modultitel
+People Analytics: Data Science for Human Resources Manage-
+ment (Prof. Dr. Sven Laumer)
+Modultitel Englisch
+People Analytics: Data Science for Human Resources Manage-
+ment (Prof. Dr. Sven Laumer)
+Modulnummer
+VHB
+Niveau
+Mastermodul
+Turnus des Angebots
+Wintersemester
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Uni Erlangen-N¨
+urnberg (FAU)
+Beteiligte Fachgebiete
+Personalwesen
+Modulverantwortlich
+Prof. Dr. Sven Laumer
+Leistungspunkte ECTS-Punkte
+6 ECTS-Punkte
+Kompetenzen:
+Inhalte und Themen:
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch und Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+Modulnote:
+55
+
+[Page 56]
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen: Dies ist ein Kurs der VHB, zur Anmeldung bitte ¨
+uber folgenden Link: https://www.vhb.org/
+56
+
+[Page 57]
+Personalentwicklung in der Freiwilligen- und Erwerbsarbeit (Prof. Dr.
+Elisabeth Kals)
+Modultitel
+Personalentwicklung in der Freiwilligen- und Erwerbsarbeit
+(Prof. Dr. Elisabeth Kals)
+Modultitel Englisch
+Personal development in voluntary and paid work (Prof. Dr.
+Elisabeth Kals)
+Modulnummer
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Philosophisch- P¨
+adagogische Fakult¨
+at
+Beteiligte Fachgebiete
+Sozial- und Organisationspsychologie
+Modulverantwortlich
+Prof. Dr. Elisabeth Kals
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Die Studierenden vertiefen ihr Wissen zur Personalentwicklung in der Freiwilligen- und Erwerbs-
+arbeit.
+• Die Studierenden kennen Gemeinsamkeiten und Unterschiede von Personalentwicklungsmaßnah-
+men in der Freiwilligen- und Erwerbsarbeit.
+• Die Studierenden lernen Techniken der psychologischen Gespr¨
+achsf¨
+uhrung kennen und wenden
+diese praktisch an.
+• Die Studierenden haben ein Bewusstsein ¨
+uber Ausmaß, Bedeutung und Formen freiwilligen En-
+gagements in Arbeitswelt und Gesellschaft sowie ¨
+uber die pluralistischen motivationalen Grund-
+lagen menschlichen Handelns, insbesondere f¨
+ur freiwillige Engagements.
+• Die Studierenden k¨
+onnen anhand sozial- und organisationspsychologischer Theorien Problemstel-
+lungen in der Freiwilligen- und Erwerbsarbeit analysieren und auf Basis der erworbenen Kennt-
+nisse konkrete L¨
+osungsvorschl¨
+age entwickeln.
+• Die Studierenden diskutieren aktuelle Schwierigkeiten, Probleme und Trends in der Freiwilligen-
+und Erwerbsarbeit, analysieren deren Relevanz und entwickeln unter Einbezug ihres erworbenen
+Wissens eine konkrete Personalentwicklungsmaßnahme f¨
+ur den Umgang damit.
+57
+
+[Page 58]
+Inhalte und Themen:
+• Personalentwicklung
+• Freiwilliges Engagement in Freiwilligenarbeit (Ehrenamt) und Erwerbsarbeit (OCB)
+• Psychologische Gespr¨
+achsf¨
+uhrung
+• Praktische Anwendung der erworbenen Kenntnisse auf aktuelle Schwierigkeiten, Probleme und
+Trends in Freiwilligen- und Erwerbsarbeit
+• Entwicklung einer konkreten Maßnahme zur Personalentwicklung in der Freiwilligen- oder Er-
+werbsarbeit unter Einzug praktischer Erfahrungen
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vortrag
+• Interaktive Anwendung dieser Kenntnisse auf den organisationalen Kontext
+• Diskussion
+• Pr¨
+asentation im Podium
+• Einzel- und Gruppenarbeiten
+• Aktive Teilnahme an praktischen ¨
+Ubungen
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Hausarbeit (12-15 Seiten) mit Pr¨
+asentation
+oder Klausur (multiple choice und offene Fragen) oder Portfolio (Ausarbeitung von ¨
+Ubungsaufgaben;
+Dokumentation einer didaktischen Aufarbeitung; Dokumentation verschiedener Stadien eines
+Projekts).
+58
+
+[Page 59]
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 32 h = Pr¨
+asenzzeit Seminar
+• 38 h = Vor- und Nachbereitung Seminar
+• 80 h = Vorbereitung der m¨
+undlichen und schriftlichen Pr¨
+ufungsleistung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Hausarbeit (12-15 Seiten) mit Pr¨
+asentation oder Klausur (multiple choice und offene Fragen)
+oder Portfolio (Ausarbeitung von ¨
+Ubungsaufgaben; Dokumentation einer didaktischen Aufarbei-
+tung; Dokumentation verschiedener Stadien eines Projekts).
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen:
+• Teilnahmebeschr¨
+ankung 20
+59
+
+[Page 60]
+Projektkurs Marketing mit New-Age-Technologien (Prof. Dr. Robin-Christopher
+Ruhnau)
+Modultitel
+Projektkurs Marketing mit New-Age-Technologien (Prof. Dr.
+Robin-Christopher Ruhnau)
+Modultitel Englisch
+Project Course: Marketing with New-Age Technologies
+Modulnummer
+88-021-MS36-H-0724
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, insb. Digitales Marketing
+Modulverantwortlich
+Prof. Dr. Robin-Christopher Ruhnau
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen: Die Veranstaltung gibt den Studierenden einen praxisnahen Einblick, wie hochmo-
+derne Technologien im Marketing eingesetzt werden k¨
+onnen. Der konkrete thematische Fokus (z. B. die
+haupts¨
+achlich betrachteten Technologien) wechselt jedes Semester.
+• Im Rahmen der Veranstaltung. . .
+• setzen sich die Studierenden intensiv mit ausgew¨
+ahlten hochmodernen Technologien auseinander.
+• lernen die Studierenden praxisnah, wie man ausgew¨
+ahlte hochmodernen Technologien im gesam-
+ten Marketing Mix verwenden kann.
+• lernen die Studierenden praxisrelevante Forschungsfragen im Zusammenhang mit der Anwen-
+dung von ausgew¨
+ahlten hochmodernen Technologien im Marketing kennen und beantworten die-
+se mithilfe eigener Forschung.
+• verbessern die Studierenden ihre F¨
+ahigkeiten in der Durchf¨
+uhrung pra-xisrelevanter empirischer
+Forschung.
+• st¨
+arken die Studierenden ihre F¨
+ahigkeiten in Pr¨
+asentation und Kommunikation.
+Inhalte und Themen:
+Je nach Schwerpunktsetzung im jeweiligen Semester werden im Rahmen des Kurses Einsatzm¨
+oglichkeiten
+60
+
+[Page 61]
+einer oder mehrerer der folgenden digitalen Technologien im Marketing thematisiert und entsprechende
+Projekte erarbeitet:
+• Augmented, Virtual, Mixed/Extended Reality
+• Metaverse und verwandte Konzepte
+• Allgemeine und generative k¨
+unstliche Intelligenz
+• Robotik
+• Blockchain und Non-Fungible Tokens (NFTs)
+• Internet of Things
+• Robotik, Chatbots, und Drohnen
+Je nach Schwerpunkt k¨
+onnen die Projekte in Zusammenarbeit mit Praxispartnern durchgef¨
+uhrt werden.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundkenntnisse in Management und Marketing
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Gruppen- und Einzelarbeit unter der Koordination der Dozenten
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Das Portfolio besteht aus mehreren Bausteinen. Hauptteil des Portfolios wird ein praxisrelevan-
+tes Forschungsprojekt zur Anwendung der zentralen Technologie im Marketing sein. Dieses For-
+schungsprojekt erarbeiten die Studierenden w¨
+ahrend des Semesters eigenst¨
+andig in Grup-pen,
+pr¨
+asentieren es und fassen es in einem Abschlussbericht zusammen. Erg¨
+anzt wird dieser Hauptteil
+des Portfolios durch kleinere Teilleistungen (z.B. Pr¨
+asentation von Zwischenergebnissen, Inverted
+Classroom), die einzeln oder in Gruppen erarbeitet werden.
+61
+
+[Page 62]
+Die thematischen Details zu allen Portfolioleistungen werden jeweils zu Be-ginn der Veranstaltung kom-
+muniziert.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 50h = Pr¨
+asenzzeit
+• 50h = Vor- und Nachbereitung, Desk Research
+• 50h = Erarbeiten der Projektpr¨
+asentation und des Abschlussberichts
+• 150h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfolio (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+Bemerkungen:
+• Teilnehmerbeschr¨
+ankung 20
+62
+
+[Page 63]
+Psychological Approaches to Behavior Change for Social Good (Prof.
+Dr. Victoria-Sophie Osburg)
+Modultitel
+Psychological Approaches to Behavior Change for Social Good
+(Prof. Dr. Victoria-Sophie Osburg)
+Modultitel Englisch
+Psychological Approaches to Behavior Change for Social Good
+Modulnummer
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Marktpsychologie
+Modulverantwortlich
+Prof. Dr. Victoria-Sophie Osburg
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Nach Abschluss dieses Kurses sind die Studierenden in der Lage, verschiedene psychologische
+Prinzipien und Theorien anzuwenden, um Verhaltens¨
+anderungen zum Wohle der Gesellschaft
+zu f¨
+ordern. Sie werden verschiedene psychologische Instrumente und Techniken analysieren und
+vergleichen und die effektivsten f¨
+ur Kampagnen zur Verhaltens¨
+anderung ausw¨
+ahlen k¨
+onnen.
+• Die Studierenden werden außerdem bestehende Kampagnen zur Verhaltens¨
+anderung kritisch be-
+werten und ihre St¨
+arken, Schw¨
+achen und verbesserungsw¨
+urdigen Bereiche identiﬁzieren k¨
+onnen.
+• Dar¨
+uber hinaus werde die Studierenden ihre eigene umfassende Kampagne zur Verhaltens¨
+anderung
+auf der Grundlage der im Kurs besprochenen theoretischen Grundlagen erstellen und berichten.
+Sie werden kritisch ¨
+uber ihre Arbeit reﬂektieren und Implikationen f¨
+ur zuk¨
+unftige Verbesserungen
+herleiten.
+Inhalte und Themen:
+• Der Kurs kombiniert theoretisches Wissen mit praktischen Anwendungen, Fallstudien und prak-
+tischer Erfahrung bei der Entwicklung und Umsetzung von Kampagnen zur Verhaltens¨
+anderung
+f¨
+ur soziale Zwecke. Wir werden die grundlegenden Prinzipien f¨
+ur die Entwicklung einer erfolg-
+reichen Kampagne zur Verhaltens¨
+anderung besprechen und uns dabei auf psychologische Instru-
+mente und Techniken sowie auf die strukturellen und planerischen Aspekte solcher Kampagnen
+konzentrieren.
+63
+
+[Page 64]
+• Dar¨
+uber hinaus werden wir eine Vielzahl bestehender Kampagnen untersuchen und sie kritisch
+diskutieren, indem wir die zugrunde liegenden psychologischen Mechanismen ber¨
+ucksichtigen.
+• Vor allem aber werden die Studierenden kleine Gruppen bilden, um eine Kampagne zur Verhal-
+tens¨
+anderung f¨
+ur soziale Zwecke zu entwickeln und schließlich durchzuf¨
+uhren. Dieses Projekt
+wird von einer gr¨
+undlichen Auseinandersetzung mit geeigneten psychologischen Instrumenten
+und Techniken geleitet.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Theoretische Input-Sitzungen
+• Diskussionen ¨
+uber Fallstudien
+• Gruppenprojekte
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio oder schriftliche Abschluss-
+pr¨
+ufung oder m¨
+undliche Abschlusspr¨
+ufung.
+• Die Pr¨
+ufungsform wird zu Veranstaltungsbeginn bekannt gegeben.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 56 h = Pr¨
+asenzzeit Seminar
+• 30 h = Vor- und Nachbereitung
+• 34 h = Projektarbeit
+64
+
+[Page 65]
+• 30 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfolio (Pr¨
+asentation der Kampagne und Ausarbeitung der Kampagnenevaluation und -entwicklung)
+– 100 %
+• Oder schriftliche Abschlusspr¨
+ufung (multiple choice und offene Fragen) – 100 %
+• Oder m¨
+undliche Abschlusspr¨
+ufung (15 min) – 100 %
+Polyvalenz mit anderen Studieng¨
+angen:
+• Keine
+Bemerkungen:
+• Die Kursunterlagen, einschließlich der wesentlichen Lekt¨
+ure, werden online verf¨
+ugbar sein.
+• WEin wichtiger Bestandteil dieses Kurses ist ein gemeinsames Gruppenprojekt, das die aktive Teil-
+nahme und den Beitrag aller Gruppenmitglieder erfordert. Das Engagement aller Gruppenmitglie-
+der ist entscheidend f¨
+ur einen erfolgreichen Abschluss. Regelm¨
+aßige Anwesenheit und Beteiligung
+an den Unterrichtsaktivit¨
+aten sind daher erw¨
+unscht.
+65
+
+[Page 66]
+Psychologie der F¨
+uhrung und Motivierung (Prof. Dr. Elisabeth Kals)
+Modultitel
+Psychologie der F¨
+uhrung und Motivierung (Prof. Dr. Elisabeth
+Kals)
+Modultitel Englisch
+Leadership and Motivational Psychology (Prof. Dr. Elisabeth
+Kals)
+Modulnummer
+88-021-HP02-H-0620
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Philosophisch- P¨
+adagogische Fakult¨
+at
+Beteiligte Fachgebiete
+Sozial- und Organisationspsychologie
+Modulverantwortlich
+Prof. Dr. Elisabeth Kals
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Die Studierenden kennen zentrale Ans¨
+atze und Methoden der F¨
+uhrungs- und Motivationspsycho-
+logie. Sie verf¨
+ugen ¨
+uber wissenschaftlich begr¨
+undetes, vertieftes und handlungsrelevantes Wissen
+zum Themenbereich F¨
+uhrung, F¨
+uhrungsinstrumente, Motivation und Personaltraining.
+• Sie erschließen systematisch wissenschaftliche Literatur, vertiefen ihr Verst¨
+andnis von F¨
+uhrung
+und erhalten differenzierten Einblick in die Schl¨
+usselkomponenten der Motivierung.
+• Sie k¨
+onnen Konzepte der F¨
+uhrung und Motivierung beschreiben und Handlungsempfehlungen zur
+Analyse, Intervention und Evaluation formulieren.
+• Sie beurteilen Praxis- und Forschungsbeitr¨
+age und entwickeln ihren eigenen Standpunkt.
+• Sie untersuchen praktische Fragestellungen auf der Grundlage wissenschaftlicher Theorien. Sie
+entwickeln ihre F¨
+ahigkeit, Elemente eines F¨
+uhrungstrainings zu konzipieren, durchzuf¨
+uhren und
+zu dokumentieren. Sie pr¨
+asentieren und verteidigen ihre Arbeitsergebnisse im Seminar.
+• Sie nehmen St¨
+arken und Schw¨
+achen ihres eigenen Verhaltens bewusster wahr, bewerten Hand-
+lungsalternativen und diskutieren kritisch verschiedene Interventionen.
+Inhalte und Themen:
+• Konzepte der F¨
+uhrungs- und Motivationspsychologie
+66
+
+[Page 67]
+• F¨
+uhrungsinstrumente und Motivationsstrategien
+• Trainingselemente
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Einf¨
+uhrung in das Thema
+• Pr¨
+asentation der Studienergebnisse durch die Studierenden und Feedback
+• Aktive Teilnahme an ¨
+Ubungsbeispielen (Trainingselemente, Diagnosen, Rollenspiele)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Die Pr¨
+ufungsleistung umfasst eine Vortragsleistung (50-min¨
+utige Pr¨
+asentation) mit einer schrift-
+lichen Dokumentation.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 31,5 h = Pr¨
+asenzzeit
+• 31,5 h = Vor- und Nachbereitung
+• 87 h = Pr¨
+asentation mit schriftlicher Dokumentation
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+67
+
+[Page 68]
+• Vortrag (50-min¨
+utige Pr¨
+asentation) und schriftliche Dokumentation (100 %)
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen:
+• Teilnehmerbeschr¨
+ankung 15
+• Literatur:
+– Becker, F. (2019). Mitarbeiter wirksam motivieren. Berlin: Springer.
+– Felfe, J. & van Dick, R. (2016). Handbuch Mitarbeiterf¨
+uhrung. Wirtschaftspsychologisches
+Praxiswissen f¨
+ur Fach- und F¨
+uhrungskr¨
+afte. Berlin: Springer.
+– H¨
+afner, A., Pinneker, L. & Hartmann-Pinneker, J. (2019). Gesunde F¨
+uhrung. Gesundheit,
+Motivation und Leistung f¨
+ordern. Berlin: Springer.
+– H¨
+aring, K. & Litzcke, S. (2017). F¨
+uhrungskompetenzen lernen. Stuttgart: Sch¨
+affer-Poeschel.
+– Kauffeld, S. (2016). Nachhaltige Personalentwicklung und Weiterbildung. Betriebliche Se-
+minare und Trainings entwickeln, Erfolge messen, Transfer sichern. Berlin: Springer.
+– Erg¨
+anzende Literatur zur individuellen Fragestellung wird in der Veranstaltung bekannt
+gegeben.
+68
+
+[Page 69]
+Psychologische Perspektiven zum Einsatz von KI: Individuelle, organi-
+satorische und gesellschaftliche Auswirkungen
+Modultitel
+Psychologische Perspektiven zum Einsatz von KI: Individuelle,
+organisatorische und gesellschaftliche Auswirkungen
+Modultitel Englisch
+Psychological Perspectives on AI use: Individual, Organizatio-
+nal, and Societal Implications
+Modulnummer
+[wird vom Pr¨
+ufungsamt vergeben; bereits vergebene Num-
+mern sind in der Modulbeschreibung zu belassen bzw. anzu-
+geben]
+Niveau
+Mastermodul
+Turnus des Angebots
+Sommersemester
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Beteiligte Fachgebiete mit jeweiliger Fakult¨
+atszugeh¨
+origkeit
+Modulverantwortlich
+Prof. Dr. Victoria-Sophie Osburg
+Leistungspunkte ECTS-Punkte
+5
+Kompetenzen:
+• Nach Abschluss dieses Kurses verf¨
+ugen die Studierenden ¨
+uber ein solides Verst¨
+andnis psychologi-
+scher Theorien und Konzepte, die erkl¨
+aren, wie sich der Einsatz von KI in verschiedenen Kontexten
+auf die menschliche Kognition, Emotion und das Verhalten auswirkt. Auf dieser Grundlage sind
+sie in der Lage, die Auswirkungen von KI auf Einzelpersonen, Organisatio-nen und die Gesell-
+schaft kritisch zu bewerten, wobei sie besonderes Au-genmerk auf Wohlbeﬁnden, Fairness und
+ethische Herausforderungen legen.
+• In Gruppenarbeiten analysieren die Studierenden psychologische und ethische Faktoren, die den
+Einsatz von KI hemmen oder beg¨
+unstigen, und entwickeln L¨
+osungen f¨
+ur organisatorische Kontex-
+te, die das Wohlbeﬁnden f¨
+ordern.
+Inhalte und Themen:
+• Dieses Seminar untersucht die Auswirkungen der zunehmenden Pr¨
+asenz von k¨
+unstlicher Intelli-
+genz im Alltag und in organisatorischen Kontexten aus einer psychologischen Perspektive. Auf der
+69
+
+[Page 70]
+Grundlage von Erkennt-nissen aus der kognitiver, Sozial- und Organisationspsychologie unter-
+sucht das Seminar, wie sich der Einsatz von KI auf das Denken, F¨
+uhlen und Verhalten des Men-
+schen auswirkt.
+• Der Kurs befasst sich weiterhin mit ethischen ¨
+Uberlegungen und den Aus-wirkungen von KI auf
+das Wohlbeﬁnden auf individueller, organisatorischer und gesellschaftlicher Ebene. Dar¨
+uber hin-
+aus bewerten die Studierenden kritisch sowohl die Chancen als auch die Risiken, die KI in ver-
+schiedenen Bereichen mit sich bringt. Diese Themen werden anhand von Diskussio-nen ¨
+uber ak-
+tuelle Forschungsergebnisse und Fallanalysen untersucht. In einem Gruppenprojekt wenden die
+Studierenden das Gelernte an und ver-binden dabei theoretische Erkenntnisse mit praktischen
+Beispielen.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Nicht zutreffend
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Nicht zutreffend
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Die Art der Pr¨
+ufungsleistung wird zu Beginn des Kurses bekannt gegeben.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 30 h = Teilnahme am Seminar
+• 30 h = Selbststudium vor und nach den Sitzungen
+• 90 = Erstellung der Pr¨
+ufungsleistung
+70
+
+[Page 71]
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfolio 100%
+Polyvalenz mit anderen Studieng¨
+angen:
+• Nicht zutreffend
+Bemerkungen:
+• Teilnehmerzahl begrenzt: 25
+• Kursunterlagen einschließlich grundlegender Literatur werden online verf¨
+ugbar sein
+• Ein wichtiger Bestandteil dieses Kurses ist ein gemeinsames Gruppenpro-jekt, das die aktive Teil-
+nahme und gleichwertige Beitr¨
+age aller Gruppen-mitglieder erfordert. Ihr Engagement bei der
+Gruppenarbeit ist entschei-dend f¨
+ur den erfolgreichen Abschluss der Aufgaben und Bewertungen.
+Regelm¨
+aßige Anwesenheit und die Teilnahme an den Seminaraktivit¨
+aten werden daher dringend
+empfohlen.
+71
+
+[Page 72]
+Psychologie der Verantwortung, Gerechtigkeit und Werte (Prof. Dr. Eli-
+sabeth Kals)
+Modultitel
+Psychologie der Verantwortung, Gerechtigkeit und Werte
+(Prof. Dr. Elisabeth Kals)
+Modultitel Englisch
+Psychology of Responsibility, Justice, and Values (Prof. Dr. Eli-
+sabeth Kals)
+Modulnummer
+88-021-MC03-H-0620
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Philosophisch- P¨
+adagogische Fakult¨
+at
+Beteiligte Fachgebiete
+Sozial- und Organisationspsychologie
+Modulverantwortlich
+Prof. Dr. Elisabeth Kals
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Die Studierenden haben vertiefte Kenntnisse ¨
+uber verantwortungs- und gerechtigkeitsbezogene
+Handlungsmodelle.
+• Sie kennen die Bedeutung kognitiver und emotionaler Motivgrundlagen menschlichen Handelns
+und k¨
+onnen diese reﬂektieren.
+• Die Studierenden verf¨
+ugen ¨
+uber einen systematischen und reﬂektierten ¨
+Uberblick ¨
+uber die empi-
+rische Gerechtigkeits-, Verantwortungs- und Vertrauensforschung.
+• Die Studierenden haben vertiefte Kenntnisse ¨
+uber verantwortliches und gerechtigkeitsorientiertes
+Urteilen und Handeln in der Gesellschaft und in Organisationen.
+• Die Studierenden haben vertiefte Kenntnisse von Modellen und Forschung zu Organisationskultur,
+-klima und -werten, sowie deren Wirkung und Gestaltungsm¨
+oglichkeiten im organisationalen
+Kontext.
+• Sie haben einen vertieften Einblick ¨
+uber die organisationale Gerechtigkeit und gerechtes Handeln
+in Organisationen sowie ¨
+uber die ¨
+okologische Gerechtigkeit und nachhaltiges Handeln.
+Inhalte und Themen:
+72
+
+[Page 73]
+• Psychologische Handlungsmodelle
+• Kognitionen und Emotionen als Grundlage menschliches Handelns
+• Empirische Gerechtigkeits-, Verantwortungs- und Vertrauensforschung
+• Organisationale Gerechtigkeit und gerechtes Handeln in Organisationen
+• ¨
+Okologische Gerechtigkeit und nachhaltiges Handeln
+• Organisationskultur-, -klima und -werte
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vortrag
+• Interaktive Anwendung dieser Kenntnisse auf den organisationalen Kontext
+• Diskussion
+• Pr¨
+asentation im Podium
+• Einzel- und Gruppenarbeiten
+• Aktive Teilnahme an praktischen ¨
+Ubungen
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Hausarbeit (12-15 Seiten) mit Pr¨
+asentation
+oder Klausur (multiple choice und offene Fragen) oder Portfolio (Ausarbeitung von ¨
+Ubungsaufgaben;
+Dokumentation einer didaktischen Aufarbeitung; Dokumentation verschiedener Stadien eines
+Projekts).
+73
+
+[Page 74]
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 32 h = Pr¨
+asenzzeit
+• 28 h = Vor- und Nachbereitung
+• 90 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Hausarbeit (12-15 Seiten) mit Pr¨
+asentation oder Klausur (multiple choice und offene Fragen)
+oder Portfolio (Ausarbeitung von ¨
+Ubungsaufgaben; Dokumentation einer didaktischen Aufarbei-
+tung; Dokumentation verschiedener Stadien eines Projekts).
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen:
+• Teilnehmerbeschr¨
+ankung 15
+• Literatur:
+– Bierhoff, H. W. & Auhagen, A. E. (Eds.). (2001). Responsibility - the many faces of a social
+phenomenon. London/New York: Routledge.
+– Gollwitzer, M., Lotz, S., Schl¨
+osser, T. & Streicher, B. (Hrsg.). (2013). Soziale Gerechtigkeit:
+was unsere Gesellschaft aus den Erkenntnissen der Gerechtigkeitspsychologie lernen kann.
+G¨
+ottingen: Hogrefe.
+– Kals, E. & Jiranek, P. (2012). Organizational justice. In E. Kals & J. Maes (Eds.), Justice
+and conﬂicts. Theoretical and empirical contributions (pp. 219-235). Berlin: Springer.
+– Kals, E. & Maes, J. (Eds.). (2012). Justice and conﬂicts. Theoretical and empirical contri-
+butions. Berlin: Springer.
+– M¨
+uller, M. M., K¨
+archer, J. & Kals, E. (2011). Organisationale Gerechtigkeit: Vorstellung
+eines deutschsprachigen Instruments zur Messung der Gerechtigkeit auf organisationaler
+Ebene. Wirtschaftspsychologie, 13(4), 21-33.
+74
+
+[Page 75]
+Quasi-experimental Policy Evaluation (Prof. Dr. Alexander Danzer)
+Modultitel
+Quasi-experimental Policy Evaluation (Prof. Dr. Alexander
+Danzer)
+Modultitel Englisch
+Quasi-experimental Policy Evaluation (Prof. Dr. Alexander
+Danzer)
+Modulnummer
+88-021-FI17-H-0408
+Niveau
+Mastermodul, Promotionsmodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+PhD
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+VWL, insb. Mikro¨
+okonomik
+Modulverantwortlich
+Prof. Dr. Alexander Danzer
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Die Studierenden des Kurses erwerben detaillierte Kenntnisse ¨
+uber die ¨
+Okonomie und ¨
+Okonometrie
+der Politikevaluation.
+• Sie sind in der Lage, quantitative Techniken anzuwenden und die Ergebnisse einer ver¨
+offentlichten
+empirischen Arbeit zu reproduzieren, die tats¨
+achliche politische Interventionen in bestimmten
+Wirtschaftsbereichen evaluiert.
+• Die Studierenden haben die F¨
+ahigkeit entwickelt, ¨
+okonomische Modelle und quantitative Techni-
+ken anzuwenden, um tats¨
+achliche politische Maßnahmen zu bewerten.
+Inhalte und Themen:
+• Einleitung: Forschungsmethoden zur Identiﬁzierung kausaler Effekte in der ¨
+Okonomie der Politi-
+kevaluation
+• Randomisierte Experimente
+• Quasi-Experimente
+– Diff-in-Diff
+– Regressions-Diskontinuit¨
+ats-Design
+75
+
+[Page 76]
+– Regressions-Kink-Design
+• Matching
+• Synthetische Kontrollgruppen
+• Zweistuﬁge Sch¨
+atzung
+– Instrumentelle Variablen
+– Heckman-Auswahlmodell
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Mathematik, Statistik
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesungen
+• Gruppendiskussionen
+• Praktischer Arbeitseinsatz (Neueinsch¨
+atzung)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Leistungsnachweis mit mindestens ”ausreichend” bewertet: Hausarbeit
+• Die Bewertung erfolgt anhand einer Hausarbeit, die eine einfache Neueinsch¨
+atzung unter Ver-
+wendung einer der vorgestellten ¨
+okonometrischen Techniken enth¨
+alt. Die Studierenden m¨
+ussen
+die Gliederung und den ¨
+okonometrischen Ansatz ihrer Hausarbeit in einer kurzen Pr¨
+asentation
+im Unterricht vorstellen.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+76
+
+[Page 77]
+• 25 h = Pr¨
+asenzzeit
+• 25 h = Vor- und Nachbereitung
+• 100 h = Hausarbeit
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Hausarbeit (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+Bemerkungen:
+• Literatur:
+– Angrist, Joshua D. and J¨
+orn-Steffen Pischke (2008). Mostly Harmless Econometrics.
+– Robert J. LaLonde (1986). Evaluating the Econometric Evaluations of Training Programs
+with Experimental Data. The American Economic Review, Vol. 76, No. 4 (Sept.), pp. 604-
+620.
+– Krueger, Alan B. (1999). Experimental Estimates of Education Production Functions. The
+Quarterly Journal of Economics, Vol. 114, No. 2 (May), pp. 497-532.
+– Meyer, Bruce D. (1995). Natural and Quasi-experiments in Economics. Journal of Business
+and Economic Statistics, Vol. 13, No. 2 (April), pp. 151-161.
+– Angrist, Joshua D. and Victor Lavy (1999). Using Maimonides’ Rule to Estimate the Effect
+of Class Size on Scholastic Achievement. The Quarterly Journal of Economics, Vol. 114, No.
+2 (May), pp. 533-575.
+– Blundell, Richard, Costas Meghir, Monica Costa Dias and John Van Reenen (2004). Evalua-
+ting the Employment Impact of a Mandatory Job Search Program. Journal of the European
+Economic Association, Vol. 2, No. 4 (June), pp. 569-606.
+– Imbens, Guido W. and Joshua D. Angrist (1994). Identiﬁcation and Estimation of Local
+Average Treatment Effects. Econometrica, Vol. 62, No. 2 (March), pp. 467-475.
+77
+
+[Page 78]
+Seminar Internationales Management (Prof. Dr. Katja Gelbrich)
+Modultitel
+Seminar Internationales Management (Prof. Dr. Katja Gel-
+brich)
+Modultitel Englisch
+Seminar International Management (Prof. Dr. Katja Gelbrich)
+Modulnummer
+88-021-IM05-S-SE
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Internationales Management
+Modulverantwortlich
+Prof. Dr. Katja Gelbrich
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Im Rahmen des Seminars entwickeln die Studierenden die F¨
+ahigkeit, eine vorgege-
+bene Zielstellung wissenschaftlich, problembezogen und eigenst¨
+andig zu bearbeiten. Sie erlangen einen
+umfassenden ¨
+Uberblick ¨
+uber die Anfertigung von wissenschaftlichen Arbeiten sowie eine fundierte Vor-
+bereitung auf ihre Masterarbeit. Dar¨
+uber hinaus werden die Teilnehmer in die Lage versetzt, in den
+abschließenden Pr¨
+asentationen ihre Pr¨
+asentations-, Artikulations- und Diskussionsf¨
+ahigkeiten zu trai-
+nieren und zu verbessern. Nach Abschluss des Kurses verf¨
+ugen sie somit ¨
+uber die fachliche und soziale
+Kompetenz, Pr¨
+asentationssituationen in der Unternehmens- und Wissenschaftspraxis souver¨
+an zu l¨
+osen.
+Inhalte und Themen: Im Rahmen der Veranstaltung schreiben die Seminarteilnehmenden in Zwei-
+ergruppen selbst¨
+andig eine Seminararbeit mit einem Umfang von 10 Seiten. Hierf¨
+ur ist die wissen-
+schaftliche Literatur zu einem speziﬁschen, forschungsrelevanten Thema aufzubereiten, zu analysieren
+und zu diskutieren. Abschließend pr¨
+asentieren und verteidigen die Seminarteilnehmenden ihre Arbeits-
+ergebnisse. Die Themenvergabe erfolgt nach Absprache mit der Betreuerin am Lehrstuhl. Die Teilneh-
+menden erhalten nach der Benotung der Seminararbeit und Pr¨
+asentation ein detailliertes Feedback von
+ihremBetreuerin.
+Untersucht werden Fragestellungen zum Verhalten von F¨
+urhrungskr¨
+aften und Mitarbeitenden in inter-
+nationalen Unternehmen bzw. Konsumenten in internationalen Kontexten. Eine besondere Rolle k¨
+onnen
+dabei folgende Aspekte spielen: Wertehaltungen, kulturelle Hintergr¨
+unde, Einstellungen, Image, Lebens-
+stil u.a.
+Beispielhafte Themen:
+• Konﬂiktstile von Mitarbeitenden im interkulturellen Vergleich
+78
+
+[Page 79]
+• Einstellungen gegen¨
+uber ausl¨
+andischen Marken
+• Akzeptanz von digitalen Agenten im internationalen Vergleich
+• F¨
+uhrungsstile im International Business
+Das konkrete Thema wird vor Beginn der Veranstaltung ver¨
+offentlicht.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Bachelor-Abschluss in Wirtschaftswissenschaften, Psychologie oder in einem verwandten Gebiet.
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• F¨
+ur die Bearbeitung der Thematik ist von jedem Studierenden eine Seminararbeit anzufertigen,
+welche nach inhaltlichen und formellen Kriterien begutachtet wird. Zudem m¨
+ussen die Ergebnis-
+se der Arbeit in einem kurzen Vortrag pr¨
+asentiert werden (15 Minuten). Kriterien hierf¨
+ur sind
+Inhalt, Vortragsstil und Rhetorik.
+• Die Kombination verschiedener Bewertungsmethoden ist eine wichtige Voraussetzung, um gezielt
+Kernkompetenzen zu schulen. Innovative Pr¨
+ufungsleistungen erm¨
+oglichen es den Studierenden,
+ihre Vortragsf¨
+ahigkeiten ¨
+uber ein ganzes Semester zu schulen. ¨
+Uberdies tr¨
+agt die Kombination
+verschiedener Bewertungsmethoden dazu bei, die Pr¨
+ufungszeitr¨
+aume zu entzerren und so die
+wahre Leistung der Studierenden ¨
+uber einen l¨
+angeren Zeitraum einzufangen. Dies erm¨
+oglicht
+eine objektive und realistische Bewertung, die dem wahren Leistungsverm¨
+ogen der Studierenden
+entspricht und robust ist gegen negative wie positive Ausreißer.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+79
+
+[Page 80]
+• 42 h = Pr¨
+asenzzeit Kick-off-Meeting, Konsultationen, Pr¨
+asentation, Feedback
+• 108 h = Erstellen der Seminararbeit
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfolio (100 %)
+• Seminararbeit (67 %)
+• Pr¨
+asentation (33 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Taxation M.Sc.
+• Business and Psychology M.Sc.
+Bemerkungen:
+• Teilnehmerbeschr¨
+ankung: 16
+• Informationen zur Literatur werden in der Veranstaltung bekannt gegeben.
+80
+
+[Page 81]
+Service Management (Prof. Dr. Jens Hogreve)
+Modultitel
+Service Management (Prof. Dr. Jens Hogreve)
+Modultitel Englisch
+Service Management (Prof. Dr. Jens Hogreve)
+Modulnummer
+88-021-MS13-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Dienstleistungsmanagement
+Modulverantwortlich
+Prof. Dr. Jens Hogreve
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Die Veranstaltung gibt einen vertiefenden Einblick in die Konzepte und Prinzipien des Manage-
+ment und Marketing von Dienstleistungen.
+• Die Studierenden verf¨
+ugen nach Abschluss des Kurses ¨
+uber ein breites Wissen im Hinblick auf die
+verschiedenen Instrumente zur Untersuchung von Fragestellungen und Herausforderungen aus
+dem Dienstleistungskontext.
+• In Gruppenarbeiten wenden die Studierenden die in der Vorlesung behandelten Konzepte auf
+Fallstudien an und erleben somit einen direkten Wissenstransfer.
+• Zus¨
+atzlich erwerben die Studierenden im Rahmen der Gruppenarbeit Kenntnisse ¨
+uber quantita-
+tive und qualitative Forschungsmethoden mit deren Hilfe sie schließlich aktuelle Fragestellungen
+im Bereich Dienstleistungsmanagement und -marketing selbst beantworten.
+• Im Rahmen der Pr¨
+asentation im Kurs vertiefen und erweitern die Studierenden ihre Pr¨
+asentations-
+und Kommunikationsf¨
+ahigkeiten. Die Arbeit in Gruppen f¨
+ordert zus¨
+atzlich die Teamf¨
+ahigkeit der
+Studierenden.
+Inhalte und Themen:
+• Im Kurs erhalten die Studierenden Einblicke in die neuen Perspektiven des Dienstleistungsmarke-
+ting sowie in die Gestaltung des Kundenerlebnisses.
+81
+
+[Page 82]
+• Zus¨
+atzlich lernen die Studierenden Methoden f¨
+ur ein erfolgreiches Kundenbeziehungsmanage-
+ment sowie Instrumente zur Schaffung von Kundenloyalit¨
+at kennen.
+• Auch die Gestaltung eines effektiven Beschwerdemanagements sowie Dienstleistungsprozesses geh¨
+oren
+zu den Inhalten/Themen.
+• Zus¨
+atzlich werden die Besonderheiten eines dienstleistungsorientierten Human Ressource Ma-
+nagements behandelt sowie ein Einblick in das Management von industriellen Dienstleistungen
+gegeben.
+• Abschließend erhalten die Studierenden noch einen Ausblick auf aktuelle Innovationen im Bereich
+des Service Management.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung: Vermittlung der theoretischen Grundlagen des Service Managements
+• ¨
+Ubung: Vertiefung der Vorlesungsinhalte anhand von Fallstudien und Praxisbeispielen, die im
+Rahmen von Gruppenarbeiten und anschließender Pr¨
+asentation behandelt werden.
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+– Abschlussklausur (60 Minuten): Die Studierenden m¨
+ussen mehrere offene Fragen zu den
+Inhalten/Themen in einer Abschlussklausur schriftlich beantworten.
+– Gruppenarbeit: Die Studierenden werden in Gruppen aufgeteilt und entwickeln auf Grund-
+lage eines vorgegebenen Themengebietes eigene Forschungsfragen. Jede Gruppe f¨
+uhrt eine
+eigens entwickelte qualitative oder quantitative empirische Studie selbstst¨
+andig durch, um
+ihre Forschungsfrage beantworten zu k¨
+onnen. Die Ergebnisse werden in einem Abschlussbe-
+richt eingereicht.
+82
+
+[Page 83]
+– Pr¨
+asentationsdauer 30 Minuten.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 45 h = Pr¨
+asenzzeit
+• 55 h = Vor- und Nachbereitung
+• 50 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Gruppenarbeit/Pr¨
+asentation (60 %)
+• Abschlussklausur (40 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+Bemerkungen: -
+83
+
+[Page 84]
+Sustainability and Business Strategy (Prof. Dr. Maria Waldinger)
+Modultitel
+Sustainability and Business Strategy (Prof. Dr. Maria Waldin-
+ger)
+Modultitel Englisch
+Sustainability and Business Strategy (Prof. Dr. Maria Waldin-
+ger)
+Modulnummer
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Economics, esp. Sustainable Economic Policy (VWL, insb.
+Nachhaltige Wirtschaftspolitik)
+Modulverantwortlich
+Prof. Dr. Maria Waldinger
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Students develop a nuanced understanding of sustainability, critically evaluating its challenges
+and opportunities in business strategy.
+• They apply theoretical concepts from sustainability economics, public policy, and behavioral eco-
+nomics to anticipate and navigate sustainability-related business challenges and opportunities.
+• Students analyze the impact of economic policies promoting sustain-ability on corporate strategy
+and operations.
+• They assess how changes in market forces, such as consumer demand, inﬂuence private busines-
+ses.
+• Students gain expertise in identifying behavioral and structural barriers to sustainable transfor-
+mation within ﬁrms, enabling them to anticipate and address these challenges effectively.
+• They evaluate and critique theoretical and empirical models of sustainable economies.
+Inhalte und Themen: This course examines the intersection of behavioral economics, sustainability,
+and business strategy. Students will develop a comprehensive understanding of the economic princip-
+les underlying sustainable development and explore their implications for corporate decision-making.
+84
+
+[Page 85]
+Through the analysis of scientiﬁc literature, policy evaluations, and case studies from the corporate
+sector, students will critically assess the role of sustainability in business strategy.
+• 1. The Economics of Sustainability
+• 2. Sustainability and Economic Growth
+• 3. Sustainable Economic Policies and Their Impact on Companies
+– a. EU Green Deal, Carbon Border Adjustment Mechanism, CO2 tax
+• 4. Market Incentives for Sustainable Production
+– a. Efﬁciency increases (improved resource allocation, im-proved environmental risk and
+innovation)
+– b. Employee behaviour and loyalty
+– c. Consumer demand for sustainable production
+• 5. Behavioral Barriers to Sustainable Business Practices
+• 6. Models of a Sustainable Economy a. Circular Economy b. Bioeconomy
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• None
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• None
+Lehr- und Pr¨
+ufungssprache:
+• English
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Lecture (2 SWS)
+• Tutorial (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Performance record assessed with at least ßufﬁcient”: exam (90 minutes)
+85
+
+[Page 86]
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 24 h = Time of attendance lecture
+• 20 h = Time of attendance tutorial
+• 54 h = Preparation and post-processing lecture and tutorial
+• 52 h = Exam preparation
+• 150 h = Total workload
+Modulnote:
+• Exam (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business Administration M.Sc.
+• Doctoral studies
+• Zusatzzertiﬁkat SSustainability”
+Bemerkungen: -
+86
+
+[Page 87]
+The Psychology of Sustainable Luxury Consumption (Prof. Dr. Victoria-
+Sophie Osburg)
+Modultitel
+The Psychology of Sustainable Luxury Consumption (Prof. Dr.
+Victoria-Sophie Osburg)
+Modultitel Englisch
+The Psychology of Sustainable Luxury Consumption
+Modulnummer
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Business & Psychology M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Marktpsychologie
+Modulverantwortlich
+Prof. Dr. Victoria-Sophie Osburg
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Nach Abschluss dieses Kurses sind die Studierenden in der Lage, die Vereinbarkeit von Nachhaltig-
+keit und Luxus in verschiedenen Bereichen aus psychologischer Sicht zu analysieren. Sie werden
+Forschungsergebnisse zusammenf¨
+uhren, um ein umfassendes Verst¨
+andnis f¨
+ur die Koexistenz von
+Nachhaltigkeit und Luxus in verschiedenen Bereich zu erlangen.
+• Die Studierenden werden psychologische Theorien und Prinzipien ausw¨
+ahlen und anwenden, um
+effektive Werbestrategien f¨
+ur nachhaltige Luxusprodukte oder -dienstleistungen zu entwickeln. Sie
+werden Kampagnen entwerfen, die sowohl die Nachhaltigkeits- als auch die Luxusaspekte eines
+Produkts oder einer Dienstleistung erfolgreich kommunizieren.
+Inhalte und Themen:
+• Dieser Kurs verbindet theoretisches Wissen mit praktischen Anwendungen, Fallstudien und ¨
+Ubungen,
+die sich auf das Verst¨
+andnis und die F¨
+orderung eines nachhaltigen Luxuskonsums konzentrieren.
+Wir werden die grundlegenden Prinzipien von Nachhaltigkeit und Luxus diskutieren und dabei
+die psychologischen Konstrukte und Mechanismen fokussieren, die die Wahrnehmung und das
+Verhalten der VerbraucherInnen in diesem einzigartigen Kontext beeinﬂussen.
+• Dar¨
+uber hinaus werden wir verschiedene bestehende Initiativen f¨
+ur nachhaltigen Luxus in unter-
+schiedlichen Branchen untersuchen und kritisch reﬂektieren, um die zugrunde liegenden psycho-
+logischen Mechanismen besser zu verstehen.
+87
+
+[Page 88]
+• Die Studierenden werden in kleinen Gruppen arbeiten und ein Projekt ¨
+uber die Vereinbarkeit
+von Nachhaltigkeit und Luxus in einem bestimmten Bereich durchf¨
+uhren. Dieses Projekt wird
+von einer gr¨
+undlichen Betrachtung der relevanten psychologischen Theorien, Instrumente und
+Techniken geleitet. Dar¨
+uber hinaus werden die Studierenden eine Kampagne f¨
+ur ein nachhalti-
+ges Luxusprodukt oder eine nachhaltige Luxusdienstleistung entwickeln und dabei das im Kurs
+erworbene Wissen anwenden.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Theoretische Sessions
+• Gruppendiskussionen und Pr¨
+asentationen
+• Interaktive Workshops
+• Diskussionen ¨
+uber Fallstudien
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio oder schriftliche Abschluss-
+pr¨
+ufung oder m¨
+undliche Abschlusspr¨
+ufung.
+• Die Pr¨
+ufungsform wird zu Veranstaltungsbeginn bekannt gegeben.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Pr¨
+asenzzeit Seminar
+• 32 h = Vor- und Nachbereitung
+88
+
+[Page 89]
+• 45 h = Projektarbeit
+• 45 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfolio (Pr¨
+asentation der Kampagne und Ausarbeitung der Kampagnenevaluation und -entwicklung)
+– 100 %
+• Oder schriftliche Abschlusspr¨
+ufung (multiple choice und offene Fragen) – 100 %
+• Oder m¨
+undliche Abschlusspr¨
+ufung (15 min) – 100 %
+Polyvalenz mit anderen Studieng¨
+angen:
+• Keine
+Bemerkungen:
+• Die Kursunterlagen, einschließlich der wesentlichen Lekt¨
+ure, werden online verf¨
+ugbar sein.
+• WEin wichtiger Bestandteil dieses Kurses ist ein gemeinsames Gruppenprojekt, das die aktive Teil-
+nahme und den Beitrag aller Gruppenmitglieder erfordert. Das Engagement aller Gruppenmitglie-
+der ist entscheidend f¨
+ur einen erfolgreichen Abschluss. Regelm¨
+aßige Anwesenheit und Beteiligung
+an den Unterrichtsaktivit¨
+aten sind daher erw¨
+unscht.
+89
+
+[Page 90]
+Arbeitsrecht (Prof. Dr. Christian Heinrich)
+Modultitel
+Arbeitsrecht (Prof. Dr. Christian Heinrich)
+Modultitel Englisch
+Labour Law (Prof. Dr. Christian Heinrich)
+Modulnummer
+82-021-AP02-H-0507
+Niveau
+Bachelormodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre B.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+B¨
+urgerliches Recht, Zivilprozessrecht und Insolvenzrecht
+Modulverantwortlich
+Prof. Dr. Christian Heinrich
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Nach Abschluss des Moduls verf¨
+ugen die Studierenden ¨
+uber umfassende Kenntnisse, die f¨
+ur die
+Erbringung von Dienstleistungen durch Arbeitnehmer im Verh¨
+altnis zum Arbeitgeber relevant
+sind. Sie entwickeln die F¨
+ahigkeiten eines sachgerechten Umgangs mit den Gesetzestexten des
+Arbeitsrechts. Dabei werden ¨
+ubergeordnete Rechtsprinzipien ebenso verdeutlicht wie Handlungs-
+spielr¨
+aume angesichts unklarer normativer Vorgaben.
+• Sie sind in der Lage, unter Anwendung der entsprechenden Gesetzestexte und Rechtsprechung
+konkrete Rechtsprobleme des allt¨
+aglichen Arbeitslebens zu analysieren, Rechtsfolgen abzuleiten
+und L¨
+osungen darzustellen. Einen Schwerpunkt bildet dabei das K¨
+undigungsrecht.
+• Zudem sind die Studierenden f¨
+ur die Interessenkonﬂikte im Arbeitsverh¨
+altnis sensibilisiert.
+Inhalte und Themen:
+• Funktion und Grundlagen des Arbeitsrechts
+• Der Begriff des Arbeitnehmers (mit Bez¨
+ugen zum Sozialversicherungs- und Steuerrecht)
+• Einordnung von Formen des Fremdpersonaleinsatzes
+• Der Arbeitsvertrag (Zustandekommen von Arbeitsvertr¨
+agen, Rechte und Pﬂichten der Vertrags-
+parteien, Wirkung von Leistungsst¨
+orungen, Haftung und Beendigung von Arbeitsverh¨
+altnissen)
+• Grundlagen des kollektiven Arbeitsrechts (Tarifvertr¨
+age und Betriebsvereinbarungen)
+90
+
+[Page 91]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundkenntnisse im Privatrecht (Privatrecht I und II)
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung
+• ¨
+Ubung
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausurleistung am Ende des Se-
+mesters
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 30 h = Pr¨
+asenzzeit Vorlesung
+• 30 h = Pr¨
+asenzzeit ¨
+Ubung
+• 30 h = Nachbereitung Vorlesung
+• 30 h = Vorbereitung ¨
+Ubung
+• 30 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Abschlussklausur (90 Min.) (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+91
+
+[Page 92]
+• Betriebswirtschaftslehre M.Sc.
+• Business & Psychology M.Sc.
+Bemerkungen:
+Literatur:
+• Arbeitsgesetze, Beck-Texte im dtv, 92. Auﬂage 2018 (obligatorisch)
+• D¨
+utz/Th¨
+using, Arbeitsrecht, 22. Auﬂage 2017
+• Junker, Grundkurs Arbeitsrecht, 17. Auﬂage 2018
+• L¨
+owisch/Caspers/Klumpp, Arbeitsrecht, 11. Auﬂage 2017
+• Preis, Arbeitsrecht, 5. Auﬂage 2017
+92
+
+[Page 93]
+Behavioral Finance (Prof. Dr. David Streich)
+Modultitel
+Behavioral Finance (Prof. Dr. David Streich)
+Modultitel Englisch
+Behavioral Finance (Prof. Dr. David Streich)
+Modulnummer
+88-021-WM03-H-0120
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre B.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Juniorprofessor Digital Finance
+Modulverantwortlich
+Prof. Dr. David Streich
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen:
+• Behavioral ﬁnance uses insights from psychology to understand how human behavior inﬂuences
+the decisions of individual and professional investors, markets, and managers. Some decisions
+are simple, day-to-day choices, such as how hard we are going to study for the next test, or
+what brand of soda we are going to buy, but others signiﬁcantly impact our ﬁnancial well-being,
+such as whether we should buy a particular stock, or how we should allocate our money among
+various investment funds. The purpose of this lecture is to present what we have learned about
+ﬁnancial decision-making from behavioral ﬁnance research.
+• Students will refresh the foundations of modern ﬁnance: expected utility theory, asset pricing
+(CAPM), the efﬁcient market hypothesis, and agency relationships.
+• Students will become aware of the inability of these standard tools to account for various para-
+doxes and anomalies, leading to the genesis of behavioral ﬁnance as reﬂected in prospect theory.
+Students will be provided the theoretical foundation of this concept.
+• Students will learn the psychological foundations of Behavioral Finance: cognitive limitations
+and heuristics, overconﬁdence, and emotion.
+• Armed with this psychological background, students will learn how psychology impacts ﬁnancial
+decision making at the level of the individual. For instance, the lecture will investigate the extent
+to which the faulty use of heuristics leads to sub optimal ﬁnancial decision-making.
+• Students will become aware of the behavioral foundations of some central stock-market puzzles.
+For instance, in 1987 the Dow Jones fell by almost one quarter without any apparent reason. In
+93
+
+[Page 94]
+this context, the global ﬁnancial crisis will also be discussed.
+Inhalte und Themen:
+• Foundations of Neoclassical Finance
+– Expected Utility Theory
+– Asset Pricing, Market Efﬁciency, and Agency Relationships
+• Theoretical Foundations of Behavioral Finance
+– Prospect Theory
+– Framing, and Mental Accounting
+• Psychological Foundations of Behavioral Finance
+– Heuristics and Biases
+– Overconﬁdence
+• Investor Behavior
+– Implications of Heuristics and Biases for Financial Decision-Making
+– Implications of Overconﬁdence for Financial Decision-Making
+– Individual Investors and the Force of Emotion
+• Market Outcomes
+– Behavioral Explanations for Anomalies
+– Do Behavioral Factors Explain Stock Market Puzzles?
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• None
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• None
+Lehr- und Pr¨
+ufungssprache:
+• English
+94
+
+[Page 95]
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Lecture
+• Tutorial
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Gained competences are tested in a written exam (90 minutes)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Time of attendance lecture
+• 28 h = Time of attendance tutorial
+• 32 h = Preparation and postprocessing lecture
+• 32 h = Preparation and postprocessing tutorial
+• 30 h = Exam preparation
+• 150 h = Total workload
+Modulnote:
+• Written Exam 100%
+Polyvalenz mit anderen Studieng¨
+angen:
+• Betriebswirtschaftslehre International B.Sc.
+• Betriebswirtschaftslehre M.Sc.
+• Digital and Data-Driven Business B.Sc.
+Bemerkungen:
+• Ackert, Lucy F. and Richard Deaves (2010). Behavioral Finance Psychology, Decision-Making,
+and Markets. Cengage Learning.
+95
+
+[Page 96]
+Data Collection Methods in the Social and Behavioral Sciences (Prof.
+Dr. Klaus Moser)
+Modultitel
+Data Collection Methods in the Social and Behavioral Sciences
+(Prof. Dr. Klaus Moser)
+Modultitel Englisch
+Data Collection Methods in the Social and Behavioral Sciences
+(Prof. Dr. Klaus Moser)
+Modulnummer
+VHB
+Niveau
+Mastermodul
+Turnus des Angebots
+Sommersemester
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Uni Erlangen-N¨
+urnberg (FAU)
+Beteiligte Fachgebiete
+Personalwesen
+Modulverantwortlich
+Prof. Dr. Klaus Moser
+Leistungspunkte ECTS-Punkte
+6 ECTS-Punkte
+Kompetenzen:
+Inhalte und Themen:
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+Modulnote:
+96
+
+[Page 97]
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen: Dies ist ein Kurs der VHB, zur Anmeldung bitte ¨
+uber folgenden Link: https://www.vhb.org/
+97
+
+[Page 98]
+Economic Growth and the Environment
+Modultitel
+Economic Growth and the Environment
+Modultitel Englisch
+Economic Growth and the Environment
+Modulnummer
+[wird vom Pr¨
+ufungsamt vergeben]
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+M.Sc. Business Administration
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt (WFI)
+Beteiligte Fachgebiete
+VWL, insb. Nachhaltige Wirtschaftspolitik
+Modulverantwortlich
+Prof. Dr. Maria Waldinger
+Leistungspunkte ECTS-Punkte
+5 ECTS
+Kompetenzen: Nach erfolgreichem Abschluss dieses Kurses:
+• verstehen und wenden die Studierenden makro¨
+okonomische Modelle des Wirtschaftswachstums
+(insbesondere das Solow-Modell) einschließlich Varianten zu Umwelt und Klimawandel an.
+• beherrschen die Studierenden die dynamischen Optimierungstechniken, die grundlegend f¨
+ur die
+L¨
+osung und Analyse struktureller makro¨
+okonomischer Wachstumsmodelle sind.
+• sind die Studierenden in der Lage, Wachstumsmodelle formal, verbal und graphisch darzustellen,
+zu erkl¨
+aren und zu analysieren.
+• k¨
+onnen die Studierenden klima- und umweltpolitische Maßnahmen in makro¨
+okonomischen Wachs-
+tumsmodellen kritisch bewerten.
+• nutzen die Studierenden die im Kurs vermittelten Techniken und Modelle, um ihr Verst¨
+andnis der
+Makro¨
+okonomie zu vertiefen und in ihrem weiteren Studium anzuwenden.
+Inhalte und Themen:
+• Einf¨
+uhrung in Konzepte der Wachstums- und Umwelt¨
+okonomik unter Verwendung makro¨
+okonomischer
+Modellierung.
+• Diskretes Solow-Modell und politische Implikationen f¨
+ur wirtschaftspolitische Entscheidungen.
+• Einf¨
+uhrung in Modelle endogenen Wachstums, Growth Accounting und empirische Fakten des
+Wachstums.
+98
+
+[Page 99]
+• Empirische Fakten ¨
+uber Wachstum und Klimawandel als Grundlage ¨
+okonomischer Modelle.
+• Erweiterung des Solow-Modells zur Analyse von Umwelt- und Klimawandelthemen:
+– Einf¨
+uhrung knapper, begrenzter Ressourcen und Analyse der Implikationen f¨
+ur Wachstumspo-
+litik
+– Integration von Klimaaspekten zur Analyse von Klimawandel, Wachstum und politischen
+Implikationen
+• Literatur zu Innovation und Umwelt/Klimawandel.
+• ¨
+Ubung: Herleitung von Modellen, Analyse politischer Implikationen, Datensammlung und -analyse,
+Lekt¨
+ure und Zusammenfassung ausgew¨
+ahlter empirischer Studien.
+Formale Voraussetzungen f¨
+ur die Teilnahme: Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Grundlegende wirtschaftswissenschaftliche Konzepte
+• Einf¨
+uhrung in Makro- oder Mikro¨
+okonomie
+• Grundlegende mathematische Konzepte f¨
+ur Wirtschaftswissenschaftler (z. B. Ableitungen von
+Funktionen mit zwei Variablen)
+Lehr- und Pr¨
+ufungssprache: Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL) (2 SWS)
+• ¨
+Ubung (UE) (2 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 30 h = Pr¨
+asenzzeit Vorlesung
+• 30 h = Pr¨
+asenzzeit ¨
+Ubung
+• 50 h = Vor- und Nachbereitung von Vorlesung und ¨
+Ubung
+99
+
+[Page 100]
+• 40 h = Pr¨
+ufungsvorbereitung
+• 150 h = Gesamtarbeitsaufwand
+Modulnote: Klausur
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business Administration, M.Sc., alle Vertiefungen (Wahlfach)
+• Business & Psychology, M.Sc. (Wahlfach)
+• Taxation, M.Sc. (Wahlfach)
+• Zusatzstudium Nachhaltige Entwicklung
+Bemerkungen: —
+100
+
+[Page 101]
+Fortgeschrittene Verfahren der Datenerhebung (Prof. Dr. Stefanie Eif-
+ler)
+Modultitel
+Fortgeschrittene Verfahren der Datenerhebung (Prof. Dr. Ste-
+fanie Eiﬂer)
+Modultitel Englisch
+Advanced Methods of Data Collection (Prof. Dr. Stefanie Eif-
+ler)
+Modulnummer
+88-149-SOZ108-H-0914
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Soziologie M.Sc.
+Institutionelle Verankerung
+Geschichts- und Gesellschaftswissenschaftliche Fakult¨
+at
+Beteiligte Fachgebiete
+Lehrstuhl f¨
+ur Soziologie und empirische Sozialforschung
+Modulverantwortlich
+Prof. Dr. Stefanie Eiﬂer
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+Die Hauptziele dieses Kurses sind:
+• Vertiefte Kenntnisse ¨
+uber spezielle Verfahren der Datenerhebung und deren Anwendung.
+• F¨
+ahigkeit, die methodischen Herausforderungen, die mit speziellen Verfahren der Datenerhebung
+verbunden sind, zu beurteilen.
+Inhalte und Themen:
+• Das Modul kn¨
+upft an Methodenkenntnisse an, die im Rahmen von Bachelor-Studieng¨
+angen er-
+worben wurden. Es zielt darauf ab, spezielle Techniken der Datenerhebung, die in der Umfra-
+geforschung angewendet werden (z. B. Faktorielle Surveys, Randomized Response Techniken),
+zu erarbeiten. Anhand vorhandener Studien sollen die typischen Anwendungsfelder dieser spe-
+ziellen Techniken der Datenerhebung aufgezeigt werden. Im Mittelpunkt stehen dabei besondere
+methodische Herausforderungen, die mit diesen Anwendungen verbunden sind.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+101
+
+[Page 102]
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch, ggf. Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (2SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• mindestens mit ”ausreichend”bewerteter Leistungsnachweis: m¨
+undliche Pr¨
+ufung (Dauer: 20 min.),
+Klausur (90 – 120 min.) oder schriftliche Hausarbeit (ca. 3.000 W¨
+orter)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• Der Workload des Moduls betr¨
+agt 150 Stunden; ein ECTS-Punkt entspricht 30 Stunden.
+• Kontakt-/Selbststudium (1 ECTS-Punkt)
+• Vor- und Nachbereitung (2 ECTS-Punkte)
+• Vorbereitung eines Referats (1 ECTS-Punkt)
+• Vorbereitung Leistungsnachweis (1 ECTS-Punkt)
+• Summe = 5 ECTS-Punkte
+Modulnote:
+• M¨
+undliche Pr¨
+ufung oder Klausur oder schriftliche Hausarbeit (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Gebermodul f¨
+ur den Masterstudiengang Politikwissenschaft der KU
+• Nehmermodul des Seminars von dem Modul Fortgeschrittene Verfahren der Datenerhebung (10
+CP)
+• Business & Psychology M.Sc.
+102
+
+[Page 103]
+Bemerkungen:
+• Keine
+103
+
+[Page 104]
+From Idea to Commercialization: Start-Up School (Prof. Dr. Shashi Mat-
+ta)
+Modultitel
+From Idea to Commercialization: Start-Up School (Prof. Dr.
+Shashi Matta)
+Modultitel Englisch
+From Idea to Commercialization: Start-Up School (Prof. Dr.
+Shashi Matta)
+Modulnummer
+88-021-MS27-H-0719
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Innovation and Creativity
+Modulverantwortlich
+Prof. Dr. Shashi Matta
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Innovationsteams in großen oder mittleren Unternehmen und Unternehmer, die ein Start-up-
+Unternehmen gr¨
+unden, stehen vor einer Reihe gemeinsamer Herausforderungen und Herausfor-
+derungen, die f¨
+ur ihre jeweilige Situation einzigartig sind. Dieser Kurs zielt darauf ab, eine ein-
+fache Vorlage f¨
+ur Studierende bereitzustellen, die sich Innovationsteams in großen oder mittleren
+Unternehmen anschließen m¨
+ochten sowie f¨
+ur diejenigen, die ihr eigenes Unternehmen gr¨
+unden
+m¨
+ochten. Die Studierenden lernen dabei den gesamten unternehmerischen Prozess kennen, indem
+sie ”live“ an einem Projekt mit einem Startup arbeiten oder eine eigene Idee f¨
+ur ein neues Unter-
+nehmen entwickeln. Nach erfolgreichem Abschluss des Moduls sind sie in der Lage, eine Ideen f¨
+ur
+eine Unternehmensneugr¨
+undung zu entwickeln, eine passende Finanzierungsm¨
+oglichkeit f¨
+ur ihre
+Gesch¨
+aftsidee zu identiﬁzieren und diese auf den Markt zu bringen.
+• Die Mischung aus starker Theorie und Rahmenbedingungen mit anwendungsorientiertem, auf
+Erfahrungen beruhendem Lernen gew¨
+ahrleistet ein tiefgreifendes Lernen des Entwurfs, der f¨
+ur
+diesen Kurs entwickelt wurde.
+• Neben den technischen F¨
+ahigkeiten f¨
+ur Innovatoren und Unternehmern erwerben die Studieren-
+den auch soziale Kompetenzen wie Teamarbeit, Kommunikation, kritisches Feedback zu erhalten
+und umzusetzen sowie den Umgang mit F¨
+uhrungskr¨
+aften, Investoren und VCs. Dar¨
+uber hin-
+aus erweitern die Studierenden ihre analytischen F¨
+ahigkeiten durch strenge Diskussionen ¨
+uber
+104
+
+[Page 105]
+ver¨
+offentlichte und reale Fallstudien im Unterricht. Sie lernen Gesch¨
+aftsmodelle und Innovationen
+zu analysieren, zu diskutieren und kritisch zu hinterfragen. Da die Vorlesung und die ¨
+Ubungen
+auf Englisch gehalten werden, haben die Studierenden dar¨
+uber hinaus die M¨
+oglichkeit ihre Eng-
+lischkenntnisse in einem professionellen Umfeld zu verbessern.
+Inhalte und Themen: Teil I: Ideenﬁndung, Iteration und Gesch¨
+aftsmodelle f¨
+ur Innovatoren und
+Unternehmer
+• Generierung von Gesch¨
+aftsideen in Innovationsteams und in Startups
+• Anwendung von Design Thinking auf Gesch¨
+aftsideen
+Teil II: Schaffung einer Kultur f¨
+ur Innovationsteams und Startups
+• F¨
+uhrungsmodelle und Teambildung
+• Probleml¨
+osungstechniken f¨
+ur Innovationsteams und Startups
+Teil III: Prototyping und Finanzierungsmechanismen
+• Was ist Prototyping? Prototypentest, Prototyp bis zum Endprodukt
+• Finanzierung von Innovationen in großen Organisationen und Hindernisse und Herausforderun-
+gen f¨
+ur die Innovation
+Teil IV: Grunds¨
+atze f¨
+ur die Ausf¨
+uhrung in Innovationsteams und Startups
+• Die Lean Startup- und Agile-Methoden
+• Scrum
+Teil V: Vermarktung
+• Markteinf¨
+uhrungsstrategien
+• Einf¨
+uhrungsplan und Implementierung
+Teil VI: Innovation und Startup-Skalierbarkeit
+• So skalieren Sie eine Innovation oder ein Startup-Unternehmen
+• Konkurrieren, scheitern und Plan B
+Teil VII: Herausforderungen und Lernen, Ausstiegsstrategien
+• Herausforderungen und Lernen f¨
+ur große Unternehmen
+• Speziﬁsche Herausforderungen und Lernm¨
+oglichkeiten f¨
+ur Startups, Exit-Strategien
+105
+
+[Page 106]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (VL)
+• ¨
+Ubung (UE)
+• Teamprojekt
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 70 h = Pr¨
+asenzzeit Vorlesung und ¨
+Ubung
+• 35 h = Vor- und Nachbereitung Vorlesung und ¨
+Ubung
+• 45 h = Projektarbeit
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfolio (100%)
+Die Studierenden m¨
+ussen Teams f¨
+ur das Teamprojekt bilden und ein Portfolio einreichen, das eine
+Pr¨
+asentation und einen schriftlichen Bericht beinhaltet. Jedes Team ist verpﬂichtet, als Team von
+Startup-Mitgr¨
+undern an einer eigenen Idee oder als Beraterteam f¨
+ur ein bereits bestehendes Startup
+zu arbeiten. Studierendenteams werden an diesem Projekt arbeiten, indem sie alles, was sie in dem
+106
+
+[Page 107]
+Module gelernt haben, auf dieses Projekt anwenden. Die Studierendenteams halten ihre Abschluss-
+pr¨
+asentationen vor ihrer Partnerorganisation und dem Kurs und reichen einen schriftlichen Bericht
+ein. Diese beiden Bestandteile des Portfolios bilden jeweils 50 % der Endnote f¨
+ur das Portfolio.
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen:
+Die Pﬂichtlekt¨
+ure f¨
+ur diesen Kurs beinhaltet diverse Artikel in Fachzeitschriften,
+ausgew¨
+ahlte Buchkapitel, Referenzartikel, Simulationen und Fallstudien, die von Harvard Business
+Publishing ver¨
+offentlicht wurden, und werden im detaillierten Syllabus angegeben werden.
+107
+
+[Page 108]
+Genderforschung (Prof. Dr. Kathrin Schlemmer)
+Modultitel
+Genderforschung (Prof. Dr. Kathrin Schlemmer)
+Modultitel Englisch
+Gender studies (Prof. Dr. Kathrin Schlemmer)
+Modulnummer
+82-052-15-H-0612
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe und SoSe
+Geberstudiengang
+Studium.Pro
+Institutionelle Verankerung
+Philosophisch-P¨
+adagogische Fakult¨
+at
+Beteiligte Fachgebiete
+Professur f¨
+ur Musikwissenschaft
+Modulverantwortlich
+Prof. Dr. Kathrin Schlemmer
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Aktuelle Entwicklungstendenzen der Geschlechterforschung kennen und analysieren Kenntnisse
+¨
+uber Geschlechterkonstruktionen und deren Bedeutung bekommen sowie die Einﬂ¨
+usse des Ge-
+schlechts in verschiedenen sozialen und kulturellen Kontexten erkennen F¨
+ahigkeit geschlechter-
+speziﬁsches Verhalten im Alltag zu beobachten und zu beschreiben F¨
+ahigkeit zur kritischen Re-
+ﬂexion von Geschlechterkonstruktionen und Geschlechterverh¨
+altnissen sowie Reﬂexion ¨
+uber die
+eigenen Standpunkte entwickeln.
+Inhalte und Themen:
+• Theoretische Grundlagen der Geschlechterforschung: Gegenwartstheorien zu Geschlecht/Gender.
+Begriffe und Fragestellungen Grundlagen zu Geschlechterverh¨
+altnissen in Deutschland aus kultu-
+reller und sozialer Perspektive:
+• Konzepte von K¨
+orper: K¨
+orpervorstellungen und deren Deutungen in Abh¨
+angigkeit von kulturellen
+und sozialen Kontexten. Genderrelevante Gesundheitsthemen: Di¨
+aten, Anti-Ageing, Konsumge-
+wohnheiten etc. / Geschlechterkonstruktionen in gesellschaftlichen Bereichen wie: Gruppe, Fami-
+lie, Verwandtschaft u. a.
+• Gender und Arbeit: Geschlechterspeziﬁsche R¨
+aume und Formen wirtschaftlichen Handelns: Ar-
+beitsteilung, Lebensstile, Geschmacksbildung als Formen der sozialen Praxis
+• Genderforschung und Migration: die Bedeutung von Geschlecht in interkulturellen Begegnun-
+gen. Konstruktionen von Geschlecht im Rahmen von Mobilit¨
+at und Migration. Charakteristische
+Gender-Problemlagen von unterschiedlichen MigrantInnengruppen
+108
+
+[Page 109]
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (2SWS)
+• Projektarbeit (PA) (Arbeiten in Lerngruppen, enth¨
+alt Elemente selbstgeleiteter Gruppenarbeit)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Qualiﬁzierte Teilnahme an der Lehrveranstaltung, umfasst das regelm¨
+aßige Erbringen von veranstaltungs-
+und stoffspeziﬁschen Studienarbeiten (z.B. regelm¨
+aßige ¨
+Ubungsaufgaben, Exzerpte, Referate, Pro-
+tokolle oder weitere)
+• Mindestens mit ¨
+ausreichend”bestandener Leistungsnachweis: Referat und schriftliche Hausarbeit
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• Regelm¨
+aßige, aktive Teilnahme an der Lehrveranstaltung, Vor- und Nachbereitung: 1 ECTS-
+Punkte
+• Referat: 1 ECTS-Punkte
+• Schriftliche Hausarbeit: 3 ECTS-Punkte
+• Summe = 5 ECTS-Punkte
+Modulnote:
+• Referat und schriftliche Hausarbeit (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+109
+
+[Page 110]
+• Bachelorstudiengang P¨
+adagogik
+• offen f¨
+ur Studierende aller Studieng¨
+ange der Katholischen Universit¨
+at Eichst¨
+att-Ingolstadt
+• ¨
+Uberfachliche Qualiﬁkationen
+Bemerkungen:
+• Keine
+110
+
+[Page 111]
+Grundlagen der Allgemeinen Betriebswirtschaftslehre I (Prof. Dr. An-
+ton Burger)
+Modultitel
+Grundlagen der Allgemeinen Betriebswirtschaftslehre I (Prof.
+Dr. Anton Burger)
+Modultitel Englisch
+Business Administration I (Prof. Dr. Anton Burger)
+Modulnummer
+82-500-BWL01-H-0917
+Niveau
+Bachelormodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Betriebswirtschaftslehre B.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Unternehmensrechnung
+Modulverantwortlich
+Prof. Dr. Anton Burger
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Die Studierenden sollen in die betriebswirtschaftliche Denkweise eingef¨
+uhrt (z.B. allgemeines Ra-
+tionalprinzip der BWL, Ziel- und Zweckrationalit¨
+at, homo eoconomicus etc.) und mit grundle-
+genden betriebswirtschaftlichen Begriffen und Modellen (z.B. Beschreibungs-, Erkl¨
+arungs- und
+Gestaltungsmodellen) vertraut werden.
+• Dar¨
+uber hinaus sollen die Studierenden ihre Analysekompetenz st¨
+arken (z.B. durch die ¨
+okonomische
+Interpretation der Erfolgs-, Finanz- und Verm¨
+ogenslage, durch Kennzahlenanalysen, durch die
+Analyse von Stakeholderbeziehungen, durch strategische Portfolioanalysen, durch die Einf¨
+uhrung
+in Entscheidungsmodelle etc.).
+Inhalte und Themen:
+• Gegenstand und Methoden der BWL
+• Shareholder- und Stakeholder-Ansatz
+• Corporate Governance
+• Unternehmensziele
+• Planung und Entscheidung
+111
+
+[Page 112]
+• Organisation
+• F¨
+uhrung
+• Informationswirtschaft und Controlling
+• Konstitutive F¨
+uhrungsentscheidungen
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur am Ende des Semesters
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 60 h = Pr¨
+asenzzeit
+• 70 h = Vor- und Nachbereitung
+• 20 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Abschlussklausur (100 %)
+112
+
+[Page 113]
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+• Lehramt
+Bemerkungen:
+Literatur:
+• W¨
+ohe, G.: Einf¨
+uhrung in die Allgemeine Betriebswirtschaftslehre, aktuelle Auﬂage, M¨
+unchen (+
+Arbeitsbuch).
+• Thommen, J.-P./Achleitner, A.-K.: Allgemeine Betriebswirtschaftslehre, aktuelle Auﬂage, Wiesba-
+den.
+113
+
+[Page 114]
+Innovation Immersion in Retail (Prof. Dr. Shashi Matta)
+Modultitel
+Innovation Immersion in Retail (Prof. Dr. Shashi Matta)
+Modultitel Englisch
+Innovation Immersion in Retail (Prof. Dr. Shashi Matta)
+Modulnummer
+88-021-MC01-H-0620
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Innovation and Creativity
+Modulverantwortlich
+Prof. Dr. Shashi Matta
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen: Innovationen haben die Einzelhandelsbranche in vielerlei Hinsicht ver¨
+andert. Von
+Einzelhandelsformaten ¨
+uber die Art und Anzahl der verf¨
+ugbaren Kan¨
+ale, Omnichannel-Strategien und
+Zahlungsmethoden bis hin zum gesamten Kundenerlebnis im Einzelhandel hat sich alles ver¨
+andert und
+die Innovationen gehen in rasantem Tempo weiter. Dieser Masterkurs zielt darauf ab, den Studieren-
+den das Wissen, das tiefe Verst¨
+andnis und die F¨
+ahigkeiten zum kritischen Denken zu vermitteln, die
+erforderlich sind, um die Innovationen im Einzelhandel der heutigen Zeit zu analysieren.
+Dieser einzigartige Kurs ﬁndet in Zusammenarbeit mit der Bologna Business School der Universit¨
+at
+Bologna statt, die derzeit auf Platz 2 der Business Schools in Italien rangiert. Der Kurs bezieht das
+”Retail Observatory on Virtual Reality and Artiﬁcial IntelligenceSZentrum an der Universit¨
+at Bologna
+(in Zusammenarbeit mit dem Retail Institute, Italien) und die Teilnehmenden aus den Unternehmen
+aktiv mit ein. Zu den Zielen des Kurses geh¨
+oren.
+• Ein tiefes Verst¨
+andnis daf¨
+ur, warum Innovation in Einzelhandelsunternehmen wichtig ist und
+warum sie f¨
+ur die Aufrechterhaltung eines Wettbewerbsvorteils in der Einzelhandelsbranche ent-
+scheidend ist.
+• Das Analysieren bahnbrechender Innovationen in der Einzelhandelsbranche.
+• Das Erlernen, wie Innovationen in Einzelhandelsunternehmen entwickelt, umgesetzt und verwal-
+tet werden.
+• Das Identiﬁzieren und Kennenlernen verschiedener Treiber, Quellen und Arten von Innovationen
+im Einzelhandel.
+• Das Analysieren der Rolle von Open Innovation und der Zusammenarbeit mit Start-ups in Ein-
+zelhandelsunternehmen.
+114
+
+[Page 115]
+• Die kritische Untersuchung des Gesch¨
+aftsmodelles eines Unternehmens, sowie dessen Anpassung
+an neue Innovationen im Einzelhandel.
+• Die Anwendung von Methoden der empirischen Forschung, um die Effektivit¨
+at und die Auswir-
+kungen von Innovationen im Einzelhandel zu analysieren und zu messen
+Neben den technischen F¨
+ahigkeiten im Bereich der Einzelhandelsinnovation erwerben die Studieren-
+den auch Soft Skills wie Teamarbeit, Kommunikation und professionelles Networking mit Start-ups
+und F¨
+uhrungskr¨
+aften von Einzelhandelsunternehmen. Sie werden die M¨
+oglichkeit haben, aktiv mit
+Studierenden der Universit¨
+at Bologna zu interagieren und sich mit ihnen auszutauschen. Dar¨
+uber
+hinaus verbessern die Studierenden ihre analytischen F¨
+ahigkeiten durch intensive Diskussionen ¨
+uber
+ver¨
+offentlichte und reale Fallstudien im Unterricht. Sie werden lernen, wie man die Praktiken der
+Branche im Bereich der Einzelhandelsinnovation analysiert, diskutiert und kritisch hinterfragt. Da
+die Vorlesungen und Tutorien auf Englisch gehalten werden, haben die Studierenden die M¨
+oglichkeit,
+ihre Englischkenntnisse in einem professionellen Umfeld zu verbessern.
+Inhalte und Themen: Teil I: Einf¨
+uhrung in die Innovation im Einzelhandel
+• Wie generieren Einzelhandelsunternehmen Innovationen?
+• Wie k¨
+onnen Einzelhandelsunternehmen Innovationen steuern und nutzen, um ihre Wettbewerbsf¨
+ahigkeit
+zu steigern?
+Teil II: Triebkr¨
+afte und Quellen der Innovation im Einzelhandel
+• Organisatorische Faktoren, die Innovationen im Einzelhandel erm¨
+oglichen und f¨
+ordern
+• Wie h¨
+angen Strategien und Innovationen im Einzelhandel zusammen?
+Teil III: Innovationsmanagement im Einzelhandelsunternehmen
+• Entwicklung und Management von Innovationsstrategien in Einzelhandelsunternehmen
+• H¨
+urden und Herausforderungen f¨
+ur Innovationen im Einzelhandel
+Teil IV: Zuk¨
+unftige Trends und Disruptionen in Bezug auf Innovationen im Einzelhandel
+• Denkweise und Typologie von Innovatoren im Einzelhandel
+• Innovationsprojekte aus der Praxis von f¨
+uhrenden Einzelhandelsunternehmen
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+115
+
+[Page 116]
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung
+• Seminar
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Seminararbeit
+• Das Thema der Seminararbeit steht im Zusammenhang mit den Themen, die die Studierenden im
+Rahmen von Innovationen im Einzelhandel gelernt haben. Die Studierenden werden in kleinen
+Teams (2-3 Studierende pro Team) arbeiten, um ihre Hausarbeit zu erstellen, wobei jeder Studie-
+rende einen individuellen Beitrag und einen Teambeitrag leistet. Die formalen Anforderungen f¨
+ur
+die Hausarbeit werden zu Beginn des Kurses bekannt gegeben.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 25 h = Pr¨
+asenzzeit Vorlesung Ingolstadt
+• 25 h = Pr¨
+asenzzeit Vorlesung Bologna
+• 56 h = Vor- und Nachbereitung Vorlesung
+• 44 h = Fallstudie, Projekt und Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Seminararbeit individueller Beitrag (50%)
+• Seminararbeit Teambeitrag (50%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business and Psychology M.Sc.
+116
+
+[Page 117]
+• Taxation M.Sc.
+Bemerkungen:
+• Der Kurs ﬁndet in Zusammenarbeit mit der Bologna Business School (BBS) der Universit¨
+at Bolo-
+gna statt, die ¨
+uber ein Fachzentrum ”Retail Observatory on Virtual Reality and Artiﬁcial Intelli-
+gence”(in Zusammenarbeit mit dem Retail Institute, Italien) verf¨
+ugt.
+• Der Kurs wird maximal 15 Studierende von der WFI und maximal 15 Studierende von der BBS
+aufnehmen.
+• Der Kurs wird in einem geblockten Kursformat in zwei Teilen durchgef¨
+uhrt - Teil 1 in Ingolstadt,
+im Mai, von Donnerstagnachmittag bis Sonntagmittag einer Sommersemesterwoche im Mai, und
+Teil 2 im Juni, von Donnerstagnachmittag bis Sonntagmittag einer Sommersemesterwoche im
+Juni
+• Die Vorlesungen in Ingolstadt werden von Prof. Dr. Shashi Matta geleitet und beinhalten G¨
+aste
+von Media Markt Saturn und Start-ups aus der Handelsbranche vom Retail Hub. Die Vorlesungen
+in Bologna werden von Prof. Dr. Shashi Matta und dem Leiter des Retail Observatory on Virtual
+Reality and Artiﬁcial Intelligence und Marketing-Professor Gabriele Pizzi gemeinsam gehalten.
+An den Sitzungen in Bologna werden auch die am Retail Observatory beteiligten Unternehmen
+teilnehmen.
+• Das International Ofﬁce (IO) der beiden Fakult¨
+aten hat zugestimmt, dass die teilnehmenden
+Studierenden selbst f¨
+ur ihre Reise, Unterkunft und Versicherung verantwortlich sind.
+• Die Lekt¨
+ure f¨
+ur diesen Kurs umfasst ausgew¨
+ahlte Artikel aus hochrangigen Fachzeitschriften wie
+dem Journal of Marketing, dem Journal of Retailing und dem Journal of Product Innovation
+Management sowie aus praxisorientierten Publikationen wie der Harvard Business Review. Alle
+Lekt¨
+uren werden in dem detaillierten Lehrplan zu Beginn des Semesters aufgef¨
+uhrt.
+117
+
+[Page 118]
+Konsumentenverhalten und Marktforschung (Prof. Dr. Joachim B¨
+uschken)
+Modultitel
+Konsumentenverhalten und Marktforschung (Prof. Dr. Joa-
+chim B¨
+uschken)
+Modultitel Englisch
+Consumer Behavior and Market Research (Prof. Dr. Joachim
+B¨
+uschken)
+Modulnummer
+82-021-MD02-H-0507
+Niveau
+Bachelormodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre B.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Absatzwirtschaft und Marketing
+Modulverantwortlich
+Prof. Dr. Joachim B¨
+uschken
+Leistungspunkte ECTS-Punkte
+5 ECTS-Puntke
+Kompetenzen:
+• Studierende haben nach Abschluss des Kurses die grundlegenden Methoden der Marktforschung
+erlernt. Die erlernte Methodenkompetenz erstreckt sich von der Datenerhebung bis zur Daten-
+analyse.
+• Die Teilnehmer des Kurses lernen kaufverhaltenstheoretische Konstrukte zu entwickeln und Ver-
+haltensaspekte von Kunden zu modellieren und zu messen.
+• Kenntnisse ¨
+uber die wesentlichen multivariaten Analyseverfahren erm¨
+oglichen den Studierenden
+Datens¨
+atze selbstst¨
+andig auszuwerten und die Ergebnisse zu interpretieren.
+• Durch die Durchf¨
+uhrung eines eigenen Marktforschungsprojekts w¨
+ahrend des Kurses lernen die
+Teilnehmer die vermittelten theoretischen Inhalte in der Praxis anzuwenden.
+Inhalte und Themen: In dieser Veranstaltung werden grundlegende Konzepte zur Informationsge-
+winnung und -analyse im Marketing sowie grundlegende Datenanalysemethoden der Marktforschung
+vorgestellt:
+• 1.Grundlagen der Marktforschung
+• 2.Modellierung von Entscheidungen: Discrete Choice-Analyse
+• 3.Evaluation nach dem Kauf: Kundenzufriedenheit
+118
+
+[Page 119]
+• 4.Messung latenter Konstrukte im Konsumentenverhalten
+• 5.Bed¨
+urfnisse und Motive von Kaufentscheidungen
+• 6.Segmentierung
+• 7.Informationssuche und -verarbeitung
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Teilnahme an der Veranstaltung ”Grundlagen des Marketingmanagements“
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Interaktive Vorlesung mit Diskussion
+• Durchf¨
+uhrung eines empirischen Marktforschungsprojekts
+• ¨
+Ubungen zur praktischen Anwendung des theoretischen Wissens und Unterst¨
+utzung bei Durchf¨
+uhrung
+der Marktforschungsprojekte
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Die Pr¨
+ufungsform ist ein Portfolio bestehend aus Teamprojekt und darauf basierender, individu-
+eller Hausarbeit.
+• Das Teamprojekt wird als schriftliche Projektdokumentation von einer Gruppe von Teilnehmern
+des Moduls (3-4 Studierende) eingereicht, allen Teilnehmern in geeigneter Weise pr¨
+asentiert und
+anschließend gemeinsam diskutiert. Das Teamprojekt dokumentiert die Entwicklung und Um-
+setzung eines konkreten Marktforschungsprojekts. Es zeigt, dass die Teilnehmer die erworbenen
+Kenntnisse und F¨
+ahigkeiten im Rahmen eines exemplarischen Falls des Konsumentenverhaltens
+umsetzen k¨
+onnen.
+119
+
+[Page 120]
+• Das Essay ist eine schriftliche Hausarbeit mit einem Umfang von ca. 6-8 Seiten. Sein Thema
+baut auf dem jeweiligen Teamprojekt auf, indem es eine das Teamprojekt in sinnvoller Weise
+erg¨
+anzende, konzeptionelle Fragestellung behandelt. Die Teilnehmer erarbeiten hierzu einen ge-
+eigneten, individuellen Vorschlag. Das Essay dokumentiert die F¨
+ahigkeit, eine aus dem Team-
+projekt hervorgehende, konzeptionelle Fragestellung aus dem Kontext der im Kurs behandelten
+theoretischen Grundlagen der Neuproduktentwicklung koh¨
+arent darzulegen.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 21 h = Pr¨
+asenzzeit Vorlesung
+• 38 h = Eigenstudium Vorlesung
+• 21 h = Pr¨
+asenzzeit ¨
+Ubung
+• 50 h = Teamprojekt
+• 20 h = Hausarbeit
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Teamprojekt (70%)
+• Essay (30%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Betriebswirtschaftslehre International B.Sc.
+• Digital and Data-Driven Business B.Sc.
+Bemerkungen: Wird zu Beginn des Semesters bekannt gegeben.
+120
+
+[Page 121]
+Leadership and Communication in Global Business (Prof. Dr. Katrin
+Winkler)
+Modultitel
+Leadership and Communication in Global Business (Prof. Dr.
+Katrin Winkler)
+Modultitel Englisch
+Leadership and Communication in Global Business (Prof. Dr.
+Katrin Winkler)
+Modulnummer
+VHB
+Niveau
+Mastermodul
+Turnus des Angebots
+Wintersemester
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+FH Kempten
+Beteiligte Fachgebiete
+Personalwesen
+Modulverantwortlich
+Prof. Dr. Katrin Winkler
+Leistungspunkte ECTS-Punkte
+3 ECTS-Punkte
+Kompetenzen:
+Inhalte und Themen:
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+Modulnote:
+121
+
+[Page 122]
+Polyvalenz mit anderen Studieng¨
+angen: -
+Bemerkungen: Dies ist ein Kurs der VHB, zur Anmeldung bitte ¨
+uber folgenden Link: https://www.vhb.org/
+122
+
+[Page 123]
+Projektstudium ”Management und F¨
+uhrung“ (Prof. Dr. Max Ringlstet-
+ter)
+Modultitel
+Projektstudium ”Management und F¨
+uhrung“ (Prof. Dr. Max
+Ringlstetter)
+Modultitel Englisch
+Project-based course “Management and Leadership”(Prof. Dr.
+Max Ringlstetter)
+Modulnummer
+88-021-WLM09-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL, Organisation und Personal
+Modulverantwortlich
+Prof. Dr. Max Ringlstetter
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Studenten transferieren theoretisches Wissen auf praktische Probleme.
+• Studenten erhalten Einblick in den Ablauf betrieblicher Entscheidungen und Prozesse und bewer-
+ten diese.
+• Studenten schaffen neue L¨
+osungen f¨
+ur komplexe Entscheidungsprobleme.
+Inhalte und Themen:
+• Da das Seminar aus der L¨
+osung eines realen betrieblichen Problems besteht, ¨
+andern sich die Inhal-
+te nicht nur jedes Mal, sondern werden zudem zeitnah vor dem Beginn festgelegt. Seminare der
+Vergangenheit umfassten Themenstellungen aus den Bereichen Humanressourcenmanagement,
+Management des Produktportfolios, Reorganisation usw.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+123
+
+[Page 124]
+• Kenntnisse in Unternehmensf¨
+uhrung, Organisationstheorie und Change-Management.
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Eigenst¨
+andige Gruppenarbeit unter Koordination der Betreuer
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Die Teilnehmer erarbeiten sich in Gruppen die themenrelevanten Theoriegrundlagen, welche Sie
+vor dem Kurs pr¨
+asentieren und diskutieren. Das praxisbezogene Entscheidungsproblem wird zu-
+dem auch eigenst¨
+andig in Gruppen erarbeitet und die L¨
+osung vor dem Kurs und externen Ver-
+tretern diskutiert. Die Zwischenpr¨
+asentation dient dabei der Absicherung der Studierenden hin-
+sichtlich des gew¨
+ahlten L¨
+osungsansatzes und bildet die Grundlage der Abschlusspr¨
+asentation. Der
+Management Summary stellt die schriftliche Zusammenfassung der wichtigsten Vorgehensweisen
+und zentralen Ergebnisse da und dient der Er¨
+orterung der pr¨
+asentierten Unterlagen.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 30 h = Pr¨
+asenzzeit Vorlesung
+• 80 h = Vor- und Nachbereitung Vorlesung
+• 40 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Portfoliopr¨
+ufung (Zwischen- und Abschlusspr¨
+asentation/dokumentierender Management Sum-
+mary (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+Bemerkungen:
+• Teilnehmerbeschr¨
+ankung 15
+124
+
+[Page 125]
+Projekt im Dienstleistungs- und Innovationsmanagement (Prof. Dr. Jens
+Hogreve)
+Modultitel
+Projekt im Dienstleistungs- und Innovationsmanagement
+(Prof. Dr. Jens Hogreve)
+Modultitel Englisch
+Project in Service and Innovation Management (Prof. Dr. Jens
+Hogreve)
+Modulnummer
+88-021-MS12.06-H-0520
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Dienstleistungsmanagement
+Modulverantwortlich
+Prof. Dr. Jens Hogreve
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+Diese Veranstaltung gibt den Studierenden einen vertiefenden Einblick in die Konzepte und Prinzipien
+des Managements und Marketing von Dienstleistungen und Innovationen. Dar¨
+uber hinaus erlernen die
+Studierenden praxisbezogene Marktforschung.
+• Die Studierenden erlernen, konzeptionelle und forschungspraktische T¨
+atigkeiten anhand eines f¨
+ur
+die Praxis und Forschung relevanten Problems zu verkn¨
+upfen.
+• Im Rahmen der Durchf¨
+uhrung einer empirischen Forschungsstudie vertiefen die Studierenden ihre
+Kenntnisse bez¨
+uglich der Entwicklung und operativen Durchf¨
+uhrung eines Untersuchungsdesigns.
+• Ein Schwerpunkt liegt hierbei auf realen Marktforschungsprojekten, die in Kooperation mit Part-
+nerunternehmen durchgef¨
+uhrt werden.
+• Zur Erarbeitung dieser Kompetenzen ist die gemeinschaftliche Entscheidungsﬁndung im Team
+und team¨
+ubergreifend eine wesentliche Voraussetzung.
+Inhalte und Themen:
+• Bedingt durch die wechselnden Problemstellungen, Oberthemen und Praxispartner ver¨
+andert sich
+der Inhalte/Themen semesterweise. Das Seminar besteht aber immer aus Impulsvortr¨
+agen zu
+125
+
+[Page 126]
+Marktforschungsmethoden und einer empirischen Praxisphase. Das im betreffenden Semester an-
+stehende Oberthema f¨
+ur das Forschungsseminar wird rechtzeitig vor der Anmeldung ¨
+uber die
+Lehrstuhlhomepage kommuniziert. In der Vergangenheit wurde bspw. die Positionierung eines
+Big-Data Service Providers, die Bereitstellung und Gestaltung von ¨
+offentlichen Dienstleistungen
+oder die Erfolgsmessung einer Versicherung als Beratungsprojekt durchgef¨
+uhrt.
+• Aufgrund von semesterweise wechselnden Projektpartnern und Themenstellungen kann das Pra-
+xisprojekt von Studierenden mehrmals besucht und im Studium angerechnet werden.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Impulsvortr¨
+age zur Einf¨
+uhrung in die Marktforschung
+• Empirisches Praxisprojekt in Gruppenarbeit (Entwicklung der Forschungsfrage, Aufstellung des
+empirischen Erhebungsdesigns, Datenerhebung und -auswertung)
+• Diskussion der (Teil-)Projektergebnisse
+• Pr¨
+asentation der (Teil-)Projektergebnisse
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Abschlussbericht
+– Wir erwarten von den Studierenden, das Vorgehen sowie die wesentlichen Ergebnisse des
+Gesamtprojektes in einer im Kurs besprochenen Form abzufassen. Der Abschlussbericht wird
+dem Praxispartner zur Verf¨
+ugung gestellt.
+• Teilprojekt- und Abschlusspr¨
+asentation
+126
+
+[Page 127]
+– Wir erwarten von den Studierenden, im Rahmen regul¨
+ar stattﬁndender Teilprojektpr¨
+asentationen
+den aktuellen Arbeitsstand ihrer jeweiligen Teilprojekte vorzustellen und in einer Gruppen-
+diskussion kritisch hinterfragen zu lassen. Wesentlich sind in diesem Zusammenhang insbe-
+sondere die Qualit¨
+at und Vollst¨
+andigkeit der erarbeiteten Dokumente sowie das Niveau der
+dargebotenen Pr¨
+asentation.
+– Wir erwarten von den Studierenden, das Vorgehen sowie die wesentlichen Ergebnisse ihres
+jeweiligen Teilprojektes in einer kommentierten Teilprojektpr¨
+asentation abzufassen. Dieser
+Teilprojektbericht dient als Input f¨
+ur alle anderen Teilprojektgruppen und f¨
+ur die kommen-
+tierte Abschlusspr¨
+asentation.
+– Wir erwarten von den Studierenden, im Rahmen einer ﬁnalen Abschlusspr¨
+asentation die
+Ergebnisse ihrer Arbeit einem relevanten Personenkreis vorzustellen und gegen¨
+uber diesem
+zu verteidigen. Wesentlich sind in diesem Zusammenhang insbesondere die Qualit¨
+at und
+Vollst¨
+andigkeit der erarbeiteten Dokumente sowie das Niveau der dargebotenen Pr¨
+asentation.
+• Mitarbeit in der Gruppe
+– Wir erwarten von den Studierenden, sich dauerhaft und engagiert in die konzeptionelle
+Entwicklung, inhaltliche Ausgestaltung und Durchf¨
+uhrung der jeweiligen Teilprojekte ein-
+zubringen. Neben der Qualit¨
+at der geleisteten Arbeit wird dabei besonders Wert auf eine
+kollegiale Zusammenarbeit und eine gleichm¨
+aßige Verteilung der Arbeitslast gelegt.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 45h = Pr¨
+asenzzeit Vorlesung
+• 20h = Desk Research
+• 35h = Vor- und Nachbereitung der Interviews
+• 20h = Durchf¨
+uhrung der Interviews
+• 30h = Verfassen des Abschlussberichts / Projektpr¨
+asentation
+• 150h = Arbeitsaufwand gesamt
+Modulnote:
+• Abschlussbericht (50 %)
+• Teilprojekt- und Abschlusspr¨
+asentationen (30 %)
+• Mitarbeit in der Gruppe (20 %)
+127
+
+[Page 128]
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+Bemerkungen:
+• Teilnehmerbeschr¨
+ankung 20
+128
+
+[Page 129]
+Return on Service Management (Prof. Dr. Jens Hogreve)
+Modultitel
+Return on Service Management (Prof. Dr. Jens Hogreve)
+Modultitel Englisch
+Return on Service Management (Prof. Dr. Jens Hogreve)
+Modulnummer
+88-021-MS20-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+ABWL und Dienstleistungsmanagement
+Modulverantwortlich
+Prof. Dr. Jens Hogreve
+Leistungspunkte ECTS-Punkte
+10 ECTS-Punkte
+Kompetenzen:
+Der Kurs ”Return on Service Management“ erm¨
+oglicht die eigenst¨
+andige Organisation und Durchf¨
+uhrung
+einer Sitzung (sog. ”Sitzungsmoderation“) und eines Gruppenprojekts des Service Managements.
+Lernziele des Kurses sind die Folgenden:
+• Mithilfe dieses Kurses werden Studierende nach dem Absolvieren in der Lage sein die Performance
+verschiedener Instrumente im Dienstleistungsbereich zu beherrschen und zu evaluieren.
+• Die Methodenkompetenzen der Studierenden werden hierbei insbesondere durch die intensive und
+eigenst¨
+andige Nutzung statistischer Verfahren in SPSS gest¨
+arkt.
+• In diesem Zusammenhang sollen die Studierenden lernen, wie mit Hilfe statistischer Verfahren,
+managementrelevante Aussagen getroffen werden k¨
+onnen.
+• Zuletzt werden interpersonale F¨
+ahigkeiten durch intensive Diskussion der Vorlesungsinhalte trai-
+niert. Durch das Gruppenprojekt wird die Teamf¨
+ahigkeit und das Zeitmanagement der Studieren-
+den gest¨
+arkt.
+Inhalte und Themen:
+• Der Kurs “Return on Service Management” behandelt die langfristigen Auswirkungen der Imple-
+mentierungen von bekannten Instrumenten des Servicemanagements auf die ﬁnanzielle Perfor-
+mance eines Unternehmens. Beispiele f¨
+ur solche bekannten Instrumente sind zum Beispiel Kun-
+denzufriedenheitsmanagement oder die Schaffung eines Dienstleistungsklimas. Im Kurs wird ein
+129
+
+[Page 130]
+strategisches Verst¨
+andnis f¨
+ur die Notwendigkeit und Anwendung analytischer Verfahren zur Be-
+stimmung des ”Returns“ von Managemententscheidungen entwickelt. Auf interaktive Art und
+Weise vermittelt der Kurs Einblicke, ob und inwiefern Managementaktivit¨
+aten in Dienstleistungs-
+ﬁrmen die Ertr¨
+age und ﬁnanzielle Situation von Unternehmen verbessern. Im Rahmen des Kurses
+werden sowohl Managementkonzepte als auch Methoden erlernt. Der Kurs richtet sich an Studie-
+rende aller Masterprogramme der WWF.
+• Die Grundlage des Kurses bilden Artikel aus ausgew¨
+ahlten internationalen Zeitschriften. Beson-
+derheit ist hier, dass ein inhaltlicher Aspekt stets aus einer Management- als auch aus einer
+theoretischen Perspektive beleuchtet wird. Dies schl¨
+agt sich auch in der Auswahl der Artikel wi-
+der. Es wird erwartet, dass sich die Studierenden intensiv auf die einzelnen Artikel vorbereiten
+und in der Lage sind die Inhalte kritisch zu diskutieren. Die Auswahl der Artikel wird im Syllabus
+zum jeweiligen Semester und auf der Homepage des Lehrstuhls bekannt gegeben. Zudem werden
+die Kursteilnehmer im Rahmen eines empirischen Projektteils die erlernten Methoden praktisch
+anwenden.
+• Durch eine Einf¨
+uhrung in die Grundlagen der Mediations- oder Moderationsanalyse (d.h., fortge-
+schrittene Anwendungen) werden den Studierenden Instrumente an die Hand gegeben, die sie zur
+Bearbeitung der Fallstudie nutzen sollen. Dar¨
+uber hinaus wird erwartet, dass die Studierenden
+bei der Bearbeitung der Fallstudie kreativ und eigenst¨
+andig arbeiten und ihre Methodenkenntnis-
+se durch Selbststudium erg¨
+anzen.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Empirische Managementforschung
+• Fortgeschrittene Kenntnisse in IBM SPSS Statistics
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Innovative Veranstaltung
+• Vorlesung und ¨
+Ubung
+130
+
+[Page 131]
+• Gruppenarbeit
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Portfolio
+• Interne Gruppenbewertung (10% der Gesamtnote)
+– Die aktive Teilnahme an der Diskussion innerhalb der Gruppe sowie der Beitrag jedes Studie-
+renden f¨
+ur die Gesamtleistung ist f¨
+ur die Erarbeitung des Lehrstoffes wesentlich und daher
+eines der Bewertungskriterien. Studierende werden eine interne Gruppenbewertung vorneh-
+men, indem sie den Beitrag eines jeden Gruppenmitglieds in unterschiedlichen Kriterien auf
+einem Bewertungsbogen evaluieren.
+• Pr¨
+asentation (”Sitzungsmoderation“) (40 % der Gesamtnote)
+– Der Kurs ”Return on Service Management“ erm¨
+oglicht die eigenst¨
+andige Organisation und
+Durchf¨
+uhrung einer Sitzung (sog. ”Sitzungsmoderation“) zu aktuellen Frage- und Problem-
+stellungen im Service Management. Die Studierenden erarbeiten selbstst¨
+andig alle Inhalte ei-
+ner interaktiven Sitzung. Zur Orientierung werden Literatur und Fallstudien zur Verf¨
+ugung
+gestellt.
+• Fallstudienbearbeitung (50 % der Gesamtnote)
+– Die Abschlussarbeit ist fallstudienbezogen. Es wird erwartet, dass die Studierenden eine
+Fallstudie analysieren, indem sie alle im Kurs erlernten statistischen Werkzeuge und Rah-
+menbedingungen anwenden.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 42 h = Pr¨
+asenzzeit Vorlesung und ¨
+Ubung
+• 108 h = Vor- und Nachbereitung Vorlesung und ¨
+Ubung
+• 150 h = Gruppenprojekt
+• 300 h = Arbeitsaufwand gesamt
+Modulnote:
+• Interne Gruppenbewertung (10 %)
+• Pr¨
+asentation (”Sitzungsmoderation“) (40 %)
+131
+
+[Page 132]
+• Fallstudienbearbeitung (50 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+Bemerkungen:
+• Teilnehmerbeschr¨
+ankung 25
+132
+
+[Page 133]
+Social Innovation II: Pro-Bono-Case
+Modultitel
+Social Innovation II: Pro-Bono-Case
+Modultitel Englisch
+Social Innovation II: Pro-Bono-Case
+Modulnummer
+88-021-ETH264-H-0408
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Christliche Sozialethik und Gesellschaftspolitik
+Modulverantwortlich
+Prof. Dr. Andr´
+e Habisch
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Studierende des Kurses erhalten eine Einf¨
+uhrung in wesentliche Konzepte des Entrepreneurship.
+• Teamwork, Pr¨
+asentationsf¨
+ahigkeit, Kooperationsf¨
+ahigkeit mit externen F¨
+uhrungskr¨
+aften und Grup-
+pen.
+• ¨
+Uberblick ¨
+uber Dimensionen (regionaler) Nachhaltigkeit und -politik.
+• Verst¨
+andnis des speziﬁschen Beitrags von Unternehmern und Beratern f¨
+ur die Verwirklichung von
+Nachhaltigkeitszielen in einer Region (inklusive der eigenen Rolle darin).
+• Verschiedene Dimensionen von nachhaltiger regionaler Entwicklung werden reﬂektiert (pers¨
+onliche
+und organisatorische Aspekte, ESG, Sozialkapital), in ihren wechselseitigen Bez¨
+ugen wahrgenom-
+men und in vorgeschlagene Strategien integriert.
+Inhalte und Themen:
+• Kl¨
+arung ethischer Grundbegriffe: UN-Nachhaltigkeitsziele, Verantwortung, Kooperation im Netz-
+werk.
+• Diskussion gesellschaftlicher Rahmenbedingungen nachhaltigen Wirtschaftens in der Region.
+• Internet-Recherche und Pr¨
+asentationen
+• Lekt¨
+ure wissenschaftlicher Fachliteratur
+133
+
+[Page 134]
+• Zusammenarbeit mit Projektverantwortlichen und Sozialtr¨
+agern in Ingolstadt (Transfer)
+• Social Media Kommunikation
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Besuch einer wirtschafts- und unternehmensethischen Veranstaltung im Studienverlauf (BA oder
+MA).
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch und Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Seminar (4 SWS)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis ”Teambasiertes Gruppenprojekt”
+• Das L¨
+osungskonzept (Gruppenleistung) wird zun¨
+achst als Entwurf vorgestellt/ diskutiert und
+dann schrittweise erarbeitet. Dazu stehen die Gruppen in st¨
+andigem Kontakt mit der Kursleitung
+sowie mit Praxisexperten.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Pr¨
+asenzzeit Veranstaltungen
+• 12 h = Pr¨
+asenzzeit Gruppenbesprechungen
+• 40 h = Vorbereitung Gruppenpr¨
+asentation
+• 40 h = Literaturstudium
+• 30 h = Verfassen des Handouts f¨
+ur Praxispartner
+• 150 h = Arbeitsaufwand gesamt
+134
+
+[Page 135]
+Modulnote:
+• Teambasiertes Gruppenprojekt (100%)
+Polyvalenz mit anderen Studieng¨
+angen: Consulting Badge
+Bemerkungen:
+• Teilnahmebeschr¨
+ankung: 25
+• Christensen, Clayton (2019), The Prosperity Paradox. How Innovation Can Lift Nations Out of
+Poverty, Harper Business.
+• Crane, A. & Matten D. (2016), Business ethics: managing corporate citizenship and sustainability
+in the age of globalization, Oxford University Press.
+• Thomas Fritz (Hg.) (2023), Perspektive Unternehmensberatung. Fallstudien, Branchen¨
+uberblick
+und Erfahrungsberichte zum Einstieg ins Consulting, e-fellows.net.
+• Habisch, A., & Loza Adaui, C. R. (2012). Entrepreneurial Spirit and the Role of Gratuitous-
+ness for Innovation. In D. Mel´
+e & C. Dierksmeier (Eds.), Human Development in Business (pp.
+217–236). Hampshire: Palgrave Macmillan.
+• Mel´
+e, Domenec (2019), Business Ethics in Action. Palgrave.
+135
+
+[Page 136]
+Systeme der Unternehmenssteuerung (Prof. Dr. Kai Sandner)
+Modultitel
+Systeme der Unternehmenssteuerung (Prof. Dr. Kai Sandner)
+Modultitel Englisch
+Management Control Systems (Prof. Dr. Kai Sandner)
+Modulnummer
+88-021-CO03-H-0818
+Niveau
+Mastermodul
+Turnus des Angebots
+WiSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Unternehmensethik, insb. Corporate Governance
+Modulverantwortlich
+Prof. Dr. Kai Sandner
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Erarbeitung eines umfassenden ¨
+Uberblicks ¨
+uber die M¨
+oglichkeiten der Verhaltenssteuerung in
+verschiedenen Unternehmen.
+• Bewusstsein f¨
+ur die Individualit¨
+at der Menschen und ihrer Bedeutung im Hinblick auf die Ausge-
+staltung von F¨
+uhrungs- und Steuerungssystemen.
+• Ein Schwerpunkt liegt auf dem Erlernen von M¨
+oglichkeiten, Nachhaltigkeit in der Unternehmens-
+steuerung zu verankern.
+• F¨
+ahigkeit, das vermittelte Instrumentarium auf Fallbeispiele anzuwenden.
+• Es werden ferner die Probleml¨
+osungs- und Pr¨
+asentationstechniken der Teilnehmer geschult.
+• Nach Abschluss des Moduls sind Studenten dazu in der Lage, Systeme zu planen und zu imple-
+mentieren, welche alle Mitarbeiter im Unternehmen auf die gesetzten Ziele und Strategien hin
+ausrichten.
+Inhalte und Themen:
+• Die Veranstaltung befasst sich mit der Verhaltenssteuerung in Unternehmen.
+• Ausgehend von Strategie und Zielen werden verschiedene Instrumente diskutiert, mit denen die
+Mitarbeiter auf unterschiedlichen Hierarchieebenen so beeinﬂusst werden k¨
+onnen, dass die ge-
+setzten Unternehmensziele bestm¨
+oglich erreicht werden.
+136
+
+[Page 137]
+• Ein Schwerpunkt liegt auf der Unterschiedlichkeit von Menschen und der Nachhaltigkeit in der
+Unternehmensf¨
+uhrung – welche Auswirkungen haben beide Aspekte in der Unternehmenssteue-
+rung?
+• Unterschieden werden konkret Instrumente, die an den erzielten Ergebnissen ansetzen, solche, die
+an den Handlungen selbst ansetzen, und solche, welche die Unternehmenskultur betreffen.
+• Die Veranstaltung arbeitet heraus, welche speziﬁschen Vor- und Nachteile mit den jeweiligen
+Instrumenten verbunden sind und leitet daraus ganzheitliche Empfehlungen f¨
+ur die Gestaltung
+von ”Management Control Systems¨
+ab.
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung
+• Beispiele und Fallstudien (auch in Form von kurzen Videos)
+• Diskussionen
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausurleistung
+• In einer Klausur (90 Min.) wird in Form von offenen Fragen Wissen zu den vermittelten Inhalten
+gepr¨
+uft. Aufgrund des stark beispielhaften und fallstudienbezogenen Charakters der Veranstal-
+tung und insbesondere der ¨
+Ubung werden entsprechende Schwerpunkte in den Aufgabenstellun-
+gen gesetzt.
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+137
+
+[Page 138]
+• 44 h = Pr¨
+asenzzeit Vorlesung und ¨
+Ubung
+• 54 h = Vor- und Nachbereitung Vorlesung und ¨
+Ubung
+• 52 h = Pr¨
+ufungsvorbereitung
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Abschlussklausur (100 %)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business & Psychology M.Sc.
+Bemerkungen:
+• Die Vorlesung orientiert sich stark an:
+– Merchant, K. A. and Van der Stede, W. A., Management Control Systems, FT Prentice Hall,
+2012 (third edition). [MS]
+• Weiterf¨
+uhrende Literatur:
+– Anthony R. N. and Govindarajan V., Management Control Systems, McGraw Hill, 2007
+(twelfth edition). [AG]
+– Davila, T., Epstein, M. J. and Shelton, R. D., Making Innovation Work, Pearson Education,
+Inc. publishing as FT press, 2013. [DES]
+– Homburg, C., Sch¨
+afer, H. and Schneider, J., Sales Excellence, Gabler Publishing, Wiesbaden,
+2006 (fourth edition). [HSS]
+– Kaplan, S. K. and Norton, N. P., The Balanced Scorecard – Translating Strategy into Action,
+Boston, 1996. [KN]
+– Rothaermel, F. T., Strategic Management, McGraw-Hill Irwin, 2013. [R]
+138
+
+[Page 139]
+The Science of Happiness: A Multi-Disciplinary and Multi-Cultural Ap-
+proach to Happiness and Well-being (Prof. Dr. Shashi Matta)
+Modultitel
+The Science of Happiness: A Multi-Disciplinary and Multi-
+Cultural Approach to Happiness and Well-being (Prof. Dr. Sha-
+shi Matta)
+Modultitel Englisch
+The Science of Happiness: A Multi-Disciplinary and Multi-
+Cultural Approach to Happiness and Well-being (Prof. Dr. Sha-
+shi Matta)
+Modulnummer
+88-021-WM07-H-0121
+Niveau
+Master
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre M.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Innovation and Creativity
+Modulverantwortlich
+Prof. Dr. Shashi Matta
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen: Dieser Kurs ¨
+uber die Wissenschaft des Gl¨
+ucks richtet sich an Studierende im Master-
+studium, die einen tiefen Einblick in einen multidisziplin¨
+aren (Psychologie, Wirtschaft, Soziologie) und
+einen multikulturellen (Philosophie, Theologie) Ansatz f¨
+ur Gl¨
+uck und Wohlbeﬁnden erhalten m¨
+ochten.
+Die Hauptziele des Kurses sind:
+• Kritische Untersuchung fortgeschrittener Theorien ¨
+uber Gl¨
+uck und Wohlbeﬁnden durch die Be-
+trachtung aktueller Forschung und Lehre aus verschiedenen Bereichen.
+• Identiﬁzierung und Untersuchung von Faktoren, die das Gl¨
+uck und Wohlbeﬁnden in verschiede-
+nen Bereichen (Berufs-/Arbeitsleben, pers¨
+onliches und soziales Leben, Konsumbereich) beeinﬂus-
+sen.
+• Zusammenf¨
+uhrung von Theorien aus verschiedenen Disziplinen ¨
+uber die Hintergr¨
+unde von Gl¨
+uck
+und Wohlbeﬁnden.
+• Identiﬁzierung und Erkl¨
+arung von verschiedenen Dimensionen von Gl¨
+uck und subjektiven Wohl-
+beﬁnden und wie sie zusammenh¨
+angen.
+139
+
+[Page 140]
+• Erlernen von Theorien und Rahmenwerke zu Gl¨
+uck und Wohlbeﬁnden aus verschiedenen kul-
+tur¨
+ubergreifenden, philosophischen und theologischen Denkweisen.
+• Lernen ¨
+uber umsetzbare Interventionen f¨
+ur das Gl¨
+uck und Wohlergehen des Einzelnen im pers¨
+onlichen
+und beruﬂichen Leben.
+• F¨
+orderung einer vertieften Wertsch¨
+atzung von kritischem Denken, emotionaler Intelligenz und
+Kreativit¨
+at als F¨
+ahigkeiten, die f¨
+ur pers¨
+onliches und beruﬂiches Gl¨
+uck und Wohlbeﬁnden erfor-
+derlich sind.
+Die Studierenden werden mit mehreren internationalen Gastprofessoren aus verschiedenen Bereichen in
+Kontakt kommen, die zu Themen Gl¨
+uck und Wohlbeﬁnden forschen und lehren. Der Kurs richtet sich an
+Studierende aus verschiedenen Programmen und wird daher die intellektuelle und funktionale Vielfalt
+einbeziehen und f¨
+ordern. Neben Kenntnissen ¨
+uber fortgeschrittene Themen im Bereich Gl¨
+uck und Wohl-
+beﬁnden werden die Studierenden auch Soft Skills wie Teamarbeit und Kommunikation erwerben. Da
+die Vorlesungen und Tutorien auf Englisch gehalten werden und die Studierenden ihr Pr¨
+ufungsleistung
+auf Englisch einreichen m¨
+ussen, werden die Studierenden die M¨
+oglichkeit haben, ihre Sprachkenntnisse
+in einem beruﬂichen Umfeld zu verbessern.
+Inhalte und Themen:
+• Teil I: Einf¨
+uhrung zu Gl¨
+uck und subjektives Wohlbeﬁnden
+– Das Konstrukt des Gl¨
+ucks: Deﬁnitionen aus mehreren Disziplinen
+– Komponenten, die subjektives Wohlbeﬁnden umfassen
+• Teil II: Gl¨
+uck und Wohlbeﬁnden: Perspektiven aus der Psychologie
+– Forschung ¨
+uber Gl¨
+uck und Wohlbeﬁnden aus der Sicht der Kognitions- und Sozialpsycholo-
+gie
+– Gl¨
+uck und die Psychologie von Achtsamkeit, Dankbarkeit, Prosozialit¨
+at und Zielen
+• Teil III: Fr¨
+ohlichkeit und Wohlbeﬁnden: Perspektiven aus Wirtschaft und Soziologie
+– Was beeinﬂusst (und motiviert) das Gl¨
+uck als Arbeitnehmer und als Verbraucher?
+– Die Beziehung zwischen Gl¨
+uck und Einkommen / Reichtum
+• Teil IV: Kulturelle Ann¨
+aherungen an das Gl¨
+uck: Perspektiven aus Philosophie und Theologie
+– Eine historische Perspektive ¨
+uber das Streben nach Gl¨
+uck weltweit
+– ¨
+Ubereinstimmende und abweichende Ansichten ¨
+uber Gl¨
+uck und Wohlergehen im Ost und
+West
+• Teil V: Messen von Gl¨
+uck
+140
+
+[Page 141]
+– Mehrere Ans¨
+atze zur Messung des Gl¨
+ucks
+– UPenn Verzeichnis des authentischen Gl¨
+ucks, Messung des subjektiven Wohlbeﬁndens, Index
+des Bruttonationalgl¨
+ucks
+• Teil VI: Gelebtes Gl¨
+uck
+– Gestaltung von Interventionen f¨
+ur Gl¨
+uck und Wohlbeﬁnden im pers¨
+onlichen und beruﬂichen
+Umfeld
+– Kultivierung von kritischem Denken, emotionale Intelligenz und Kreativit¨
+at zum Gl¨
+ucklich
+sein
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Englisch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (virtuell via Zoom)
+• Tutorium (virtuell via Zoom)
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten:
+• Mit mindestens ”ausreichend“ bewerteter Leistungsnachweis: Klausur
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Anwesenheit: Vorlesungen
+• 28 h = Anwesenheit: Tutorien
+• 28 h = Vor- und Nachbereitung der Vorlesungen
+• 28 h = Vor- und Nachbereitung der Tutorien
+141
+
+[Page 142]
+• 38 h = Vorbereitung des Portfolios
+• 150 h = Arbeitspensum insgesamt
+Modulnote:
+• Klausur (100%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Studium.Pro
+Bemerkungen: Speziﬁsche Leseauftr¨
+age (aus ausgew¨
+ahlten Buchkapiteln und Artikeln aus hoch-
+rangigen Zeitschriften) zur Vorbereitung auf die einzelnen Kurse werden vor Kursbeginn im Lehrplan
+bekannt gegeben. Im Folgenden ﬁnden Sie eine Liste ausgew¨
+ahlter Leseauftr¨
+age f¨
+ur diesen Kurs.
+• Ausgew¨
+ahlte Kapitel aus folgenden B¨
+uchern:
+• Lyubomirsky, S. (2007). The How of Happiness: A Scientiﬁc Approach to Getting the Life you
+Want. Penguin Press.
+• Raghunathan, R. (2016). If You’re So Smart, Why Aren’t You Happy? Portfolio Press.
+• Thaler, R. H., & Sunstein, C. (2009). Nudge: Improving Decisions About Health, Wealth, and
+Happiness. New York: Penguin Books. Zeitschriftenartikel (alphabetisch nach Autoren geordnet):
+• Bhattacharjee, A. & Cassie Mogilner, C. (2014). Happiness from Ordinary and Extraordinary
+Experiences. Journal of Consumer Research, 41(1), 1-17.
+• Boyce, Christopher J., Brown, Gordon D. A., & Moore, Simon C. (2010). Money and Happiness:
+Rank of Income, Not Income, Affects Life Satisfaction. Psychological Science, 21(4), 471-474.
+• Brown, K. W., & Ryan, R. M. (2003). The Beneﬁts of Being Present: Mindfulness and its Role in
+Psychological Well-being. Journal of Personality and Social Psychology, 84, 822-848.
+• Chancellor, J., Margolis, S. M., Jacobs Bao, K., & Lyubomirsky, S. (2018). Everyday Prosociality
+in the Workplace: The Beneﬁts of Giving, Getting, and Glimpsing. Emotion, 18, 507-517.
+• Dunn, E. W., Aknin, L. B., & Norton, M. I. (2008). Spending Money on Others Promotes Happi-
+ness. Science, 319, 1687-1688.
+• Emmons, R. A., & McCullough, M. E. (2003). Counting Blessings versus Burdens: An Experimen-
+tal Investigation of Gratitude and Subjective Well-being in Daily Life. Journal of Personality &
+Social Psychology, 88, 377-389
+142
+
+[Page 143]
+• Helliwell, J. F., & Aknin, L. B. (2018). Expanding the Social Science of Happiness. Nature Human
+Behavior, 2, 248–252.
+• Huppert, F. (2010). Happiness Breeds Prosperity. Nature, 464, 1275-1276.
+• Kosaka, K. (2007). A Sociology for Happiness: Beyond Western versus Non-Western Perspectives.
+Sociological Bulletin, 56(3), 369-382.
+• Lyubomirsky, S. (2011). Psychology: Holding on to Happiness. Nature, 471, 302-303.
+• McMahon, D. M. (2008). The Pursuit of Happiness in History. In M. Eid & R. J. Larsen (Eds.),
+The Science of Subjective Well-being (pp. 80-93). New York: Guilford Press.
+• Mogilner, C. (2010). The Pursuit of Happiness: Time, Money and Social Connection. Psychologi-
+cal Science, 21(9), 1348-1354
+• Myers, D. G. (2000). The Funds, Fiends, and Faith of Happy People. American Psychologist, 55,
+56-67.
+• Oishi, S., Kesebir, S., & Diener, E. (20111). Income Inequality and Happiness. Psychological
+Science, 22(9), 1095-1100.
+• Reichhardt, T. (2006). A Measure of Happiness. Nature, 444, 418-419.
+• Rothbard, N. P., & Wilk, S. L. (2011). ”Waking up on the Right or Wrong Side of the Bed: Start-
+of-Workday Mood, Work Events, Employee Affect, and Performance,” Academy of Management
+Journal, 54(5), 959-980.
+• Stone, A. A. (2006). Would you be happier if you were richer? A Focusing Illusion. Science, 312,
+1908-1910.
+• Tamir, M., Schwartz, S. H., Oishi, S., & Kim, M. Y. (2017). The Secret of Happiness: Feeling Good
+or Feeling Right? Journal of Experimental Psychology: General, 146 (10), 1448-1459.
+• Urry, H. L., Nitschke, J. B., Dolski, I., Jackson, D. C., Dalton, K. M., Mueller, C. J. et al. (2004).
+Making a Life Worth Living: Neural Correlates of Well-being. Psychological Science, 15, 367-372.
+• Whillans, A. V., Dunn, E. W., Smeets, P., Bekkers, R., & Norton, M. I. (2017). Buying Time
+Promotes Happiness. Proceedings from the National Academy of Sciences, 114. 8523-8527.
+143
+
+[Page 144]
+Unternehmensethik (Prof. Dr. Kai Sandner)
+Modultitel
+Unternehmensethik (Prof. Dr. Kai Sandner)
+Modultitel Englisch
+Business Ethics (Prof. Dr. Kai Sandner)
+Modulnummer
+88-021
+Niveau
+Mastermodul
+Turnus des Angebots
+SoSe
+Geberstudiengang
+Betriebswirtschaftslehre B.Sc.
+Institutionelle Verankerung
+Wirtschaftswissenschaftliche Fakult¨
+at Ingolstadt
+Beteiligte Fachgebiete
+Unternehmensethik, insb. Corporate Governance
+Modulverantwortlich
+Prof. Dr. Kai Sandner
+Leistungspunkte ECTS-Punkte
+5 ECTS-Punkte
+Kompetenzen:
+• Vertiefung des Verst¨
+andnisses der ethischen Dimension in der Betriebswirtschaftslehre sowie der
+Grundlagen der Wissenschaftstheorie
+• Kritische Reﬂektion von und Auseinandersetzung mit Normen und Werten in betriebswirtschaft-
+lichen Fragestellungen und Inhalten
+• ¨
+Uberblick ¨
+uber und Bewertung von verbreiteten Ans¨
+atzen der Unternehmensethik
+• Anwendung der analytischen Unternehmensethik auf ausgew¨
+ahlte Funktionen und Bereiche in
+Unternehmen
+Inhalte und Themen:
+• Stellung der Unternehmensethik zur Betriebswirtschaftslehre – eine Teildisziplin von Ethik und
+Betriebswirtschaftslehre?
+– Allgemeine Grundlagen unternehmensethischer Analyse
+– Wissenschaftsverst¨
+andnis in der Betriebswirtschaftslehre
+– Analyse des Verh¨
+altnisses zwischen Ethik und Betriebswirtschaftslehre
+– Notwendigkeit der expliziten Einbeziehung unternehmensethischer Fragestellungen und Kon-
+zepte in die Betriebswirtschaftslehre
+• Grundlagen der Unternehmensethik
+144
+
+[Page 145]
+– Empirische Erkenntnisse zur Verankerung von Normen und Werthaltungen
+– Philosophische Konzepte zur Begr¨
+undung von Normen und Werten
+• ¨
+Uberblick ¨
+uber wichtige unternehmensethische Ans¨
+atze
+• Konzept der analytischen Unternehmensethik und ausgew¨
+ahlte Anwendungsfelder in Unterneh-
+men
+– Untersuchungszwecke und -felder der analytischen Unternehmensethik
+– Ethische Analyse der Corporate Governance
+– Ethische Analyse im F¨
+uhrungssystem von Unternehmungen
+– Ethische Fragestellungen im betrieblichen Leistungssystem
+Formale Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Empfohlene Voraussetzungen f¨
+ur die Teilnahme:
+• Keine
+Lehr- und Pr¨
+ufungssprache:
+• Deutsch
+Lehr- und Lernformen/ Lehrveranstaltungstypen:
+• Vorlesung (2 SWS)
+• Kontrollfragen und Diskussionen
+Voraussetzungen f¨
+ur die Vergabe von ECTS-Punkten: Mit mindestens ”ausreichend“ bewer-
+teter Leistungsnachweis: Klausur (90 Minuten)
+Zeitaufwand/ Berechnung der ECTS-Punkte innerhalb des Moduls:
+• 28 h = Pr¨
+asenzzeit Vorlesung
+• 72 h = Vor- und Nachbereitung Vorlesung inkl. Literaturrecherche
+• 50 h = Pr¨
+ufungsvorbereitung
+145
+
+[Page 146]
+• 150 h = Arbeitsaufwand gesamt
+Modulnote:
+• Klausur (100%)
+Polyvalenz mit anderen Studieng¨
+angen:
+• Business and Psychology M.Sc.
+Bemerkungen: -
+146

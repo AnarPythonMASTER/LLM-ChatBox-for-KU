@@ -1,0 +1,84 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Praktikumsbescheinigung_Erwachsenenbildung.pdf
+TITLE: Praktikumsbescheinigung_Erwachsenenbildung.pdf
+SOURCE_FILE: Praktikumsbescheinigung_Erwachsenenbildung.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Prüfungsamt 
+Bitte mit dem PC ausfüllen 
+ 
+ 
+ 
+ 
+ 
+ 
+Praktikumsbescheinigung 
+für die „Postgradualen Studien in Erwachsenenbildung“ 
+an der Katholischen Universität Eichstätt – Ingolstadt 
+ 
+Bitte füllen Sie dieses Formular nur aus, wenn eine Anmeldung auf dem entsprechenden Praxismo-
+dul in Ihren Postgradualen Studien in Erwachsenenbildung besteht und Sie den Praktikumszeit-
+raum und die Einrichtung ausgewiesen haben möchten. 
+ 
+Die Bescheinigung muss unbedingt vor Beantragung des Zeugnisses oder vor Beantragung der 
+Teilnahmeurkunde im Prüfungsamt vorliegen. Sollte das Formular nach Erstellung der Abschluss-
+dokumente im Prüfungsamt eingehen, ist eine Berücksichtigung nicht mehr möglich. 
+ 
+ 
+Angaben des/der Studierenden: 
+ 
+ 
+ 
+Matrikelnummer: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Familienname: 
+ 
+ 
+Vorname(n): 
+ 
+ 
+ 
+ 
+E-Mail Adresse: (für Rückfragen, wichtig!) 
+ 
+ 
+ 
+ 
+ 
+ 
+Studiengang: 
+ 
+ 
+ 
+ 
+ 
+ 
+Praktikumszeitraum: 
+ 
+ 
+ 
+ 
+ 
+ 
+Praktikumsfirma /-einrichtung: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ort, Datum: 
+ 
+ 
+Unterschrift des Dozierenden:

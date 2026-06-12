@@ -1,0 +1,26 @@
+SOURCE_URL: https://www.ku.de/studium/anerkennung-und-anrechnung/kriterien-fuer-anerkennung-und-anrechnung
+TITLE: Kriterien für Anerkennung und Anrechnung – KU
+SOURCE_FILE: studium_anerkennung-und-anrechnung_kriterien-fuer-anerkennung-und-anrechnung.html
+------------------------------------------------------------
+
+Zweck von Anerkennung und Anrechnung
+Der Zweck von Anerkennung und Anrechnung ist, bereits erworbene Kompetenzen aus in der Regel einem anderen Studiengang oder aus außerhochschulischen Bereichen in den aktuellen oder aufzunehmenden Studiengang einzubringen. Dies dient der individuellen Studienverlaufsplanung und kann dazu beitragen, die Studiendauer zu verkürzen und Doppelungen zu vermeiden. Learning Agreements haben das Ziel, bereits vor Antritt eines Auslandsstudiums eine verbindliche Zusage für die Anrechnung von Modulen zu erhalten.
+Kompetenzorientierung
+Kompetenzen in Form von Lernergebnissen sind die zu prüfende Grundlage für die Anerkennung erbrachter hochschulischer Leistungen sowie für die Anrechnung außerhochschulisch angeeigneter Kompetenzen. Sowohl bei der Anerkennung als auch bei der Anrechnung werden die mitgebrachten Lernergebnisse mit den zu erzielenden Lernergebnissen verglichen. Nach dem Prinzip des wesentlichen Unterschieds wird bei der Anerkennung in erster Linie geprüft, ob die mitgebrachten Lernergebnisse im Vergleich zu den zu erzielenden Lernergebnissen wesentliche Unterschiede aufweisen. Bei der Anrechnungsprüfung hingegen wird geprüft, ob diese einander entsprechen, konkret, ob sie gleichwertig oder äquivalent sind.
+An einer Hochschule erworbene Kompetenzen werden anerkannt, wenn kein wesentlicher Unterschied besteht.
+Die wichtigsten Informationen für Fragen zu Anerkennung und Anrechnung in einem Studiengang finden sich in den Modulbeschreibungen im Feld "Kompetenzen". Die Modulbeschreibungen für die Studiengänge der KU können in
+KU.Campus
+eingesehen werden.
+Wesentlicher Unterschied
+Der wesentliche Unterschied ist seit Inkrafttreten der Lissabon-Konvention das zentrale Prüfprinzip bei der Anerkennung hochschulischer Leistungen. Als wesentlich kann ein Unterschied dann eingeordnet werden, wenn sein Vorliegen den Anerkennungszweck, also das erfolgreiche Weiterstudieren oder das Erreichen der weiteren Qualifikationsziele des oder der Anerkennungssuchenden, gefährden würde. Das heißt, ein wesentlicher Unterschied liegt vor, wenn im jeweiligen Studiengang die Kompetenzen des Moduls, in dem die Leistung erbracht wurde (
+Quellmodul
+), von den zu erwerbenden Kompetenzen des KU Moduls, auf das angerechnet werden soll (
+Zielmodul
+), in einem Maße abweichen, dass bei einer Anrechnung der Studienerfolg gefährdet ist.
+Gleichwertigkeit
+Das zentrale Prüfprinzip bei der Anrechnung außerhochschulisch erworbener Kompetenzen ist die Gleichwertigkeit von Lernergebnissen oder Kompetenzen. Diese liegt vor, wenn eine gewisse Übereinstimmung der Inhalte und ein vergleichbares Niveau bestehen. Der Begriff der Gleichwertigkeit unterstreicht, dass Kompetenzen aus unterschiedlichen Bildungsbereichen nicht identisch sind und dennoch den gleichen Wert haben können. Die Anrechnung verlangt keine Gleichartigkeit.
+Untergeordnetes Kriterium: ECTS-Punkte
+Bei der Entscheidung, ob eine Leistung anzuerkennen ist, spielt der Workload bzw. Arbeitsumfang, der in der Zeiteinheit ECTS-Punkte bemessen wird, eine untergeordnete Rolle. Entscheidend für eine Anrechnung von Kompetenzen ist, was Sie können; weniger relevant ist, wie lange Sie gebraucht haben, die Kompetenz zu erwerben. Mit Bezug auf Leistungsnachweise spielt das akademische Niveau der Nachweise im Zusammenhang mit der qualitativen Beschreibung der damit nachgewiesenen Kompetenzen eine wichtigere Rolle als die Frage, wie das Lehrangebot, dass Sie zwecks Kompetenzerwerb möglicherweise wahrgenommen haben, zeitlich zugeschnitten war.
+Im Falle der Anrechnung oder Anerkennung werden die ECTS-Punkte des
+Zielmoduls
+gutgeschrieben.

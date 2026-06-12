@@ -1,0 +1,191 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_MA_BWL_DE_SoSe_2022.pdf
+TITLE: Wahlpflichtkatalog_MA_BWL_DE_SoSe_2022.pdf
+SOURCE_FILE: Wahlpflichtkatalog_MA_BWL_DE_SoSe_2022.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+*gekennzeichnete Module finden auf Englisch statt. Änderungen vorbehalten (siehe Modulkatalog) 
+Wahlpflichtkatalog im Studiengang 
+(Betriebswirtschaftslehre M.Sc.) 
+ 
+1. nach § 9 der Prüfungsordnung Masterstudiengang Betriebswirtschaftslehre in der 
+Fassung vom 20.05.2021 
+2. Geltungsbereich zum SoSe 2022 
+ 
+3. vom Fakultätsrat der Fakultät Wirtschaftswissenschaften beschlossen am 
+07.07.2021. 
+ 
+ 
+Auflistung der Studienschwerpunkte 
+In der PO verankerte Studienschwerpunkte: 
+ 
+1. Marktorientierte Unternehmensführung (MARKT), 
+2. Finance, Accounting, Controlling, Taxation und Wirtschaftsrecht (FACT), 
+3. Business Analytics and Operations Research, 
+4. Entrepreneurship und Innovation, 
+5. Internationale Betriebswirtschaftslehre, 
+6. Digital Customer Experience & Service Design 
+ 
+1. Modulangebot im Wahlpflichtbereich Marktorientierte Unternehmensführung 
+Pflichtkurse 
+Analytisches Customer Management (5 ECTS), Klausur 
+Customer Relationship Management (5 ECTS), Klausur 
+Empirische Managementforschung (5 ECTS), Klausur 
+Service Management (5 ECTS), Portfolio 
+Strategisches Management (5 ECTS), Portfolio 
+ 
+Wahlpflichtkurse 
+Advanced Consulting Case (5 ECTS) (nicht im SoSe 2022) 
+Advanced Topics in Consumer Psychology for a Better World (10 ECTS), Portfolio 
+Advanced Topics in Marketing (5 ECTS), Portfolio 
+Benchmarking & Positioning in Strategic Management (advanced) (5 ECTS), Portfolio 
+Business Model & Strategy* (5 ECTS), Portfolio 
+Change Management* (nicht im SoSe 2022) 
+Cross-cultural Management* (5 ECTS), Portfolio 
+Europäisches und internationales Handels- und Wirtschaftsrecht (10 ETCS), Portfolio 
+Fallstudien im Internationalen Management* (5 ECTS), Portfolio 
+Innovation and Creativity in Individuals, Teams and Organizations* (5 ECTS), Portfolio 
+Innovation und Produktentwicklung im Tourismus: Gegenwärtige Theorie und Praxis 
+am Beispiel von Sharing Economy, China Outbound Tourismus, Boutique Hotels und 
+Experience Design* (5 ECTS), Portfolio 
+Intercultural Communication* (5 ECTS), Portfolio 
+Internationale Rechnungslegung, Prüfung und Unternehmensbewertung (5 ECTS), 
+Klausur 
+Management und Strategien von Automobil-Unternehmen (5 ECTS), Portfolio 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+*gekennzeichnete Module finden auf Englisch statt. Änderungen vorbehalten (siehe Modulkatalog) 
+Modellierung und Analyse von Retail Operations* (5 ECTS), Portfolio 
+Objektorientierte Programmierung von Heuristiken * (5 ECTS), Projekt 
+Operation Scheduling (5 ECTS), Klausur 
+Projekt im Dienstleistungs- und Innovationsmanagement (5 ECTS), Portfolio 
+Retail Management* (5 ECTS), Portfolio 
+Return on Service Design and Customer Experience* (10 ECTS), Portfolio 
+Seminar im Dienstleistungsmanagement (5 ECTS), Portfolio 
+Seminar International Management (5 ECTS), Portfolio 
+Seminar zum Supply Chain Management (5 ECTS), Hausarbeit und Präsentation 
+Stochastische Modelle (5 ECTS), Klausur 
+Supply Chain Planspiel* (5 ECTS), Präsentation 
+Theorien und Strategien des Destinationsmanagements und -marketings * (5 ECTS), 
+Portfolio 
+Transportlogistik * (5 ECTS), Portfolio (nicht im SoSe 2022) 
+Zeitreihenanalyse (5 ECTS), Klausur oder mündliche Prüfung 
+ 
+2. Modulangebot im Wahlpflichtbereich Finance, Accounting, Controlling, Taxation und 
+Wirtschaftsrecht 
+Pflichtkurse 
+Bilanzrecht (5 ECTS), Klausur 
+Empirical Finance (kann durch Unternehmenssteuerrecht ersetzt werden) (5 ECTS), Portfolio 
+Kapitalmarktorientierte Rechnungslegung (5 ECTS), Klausur 
+Kostenmanagement (5 ECTS), Portfolio 
+Risikomanagement (kann durch Internationales Steuerrecht ersetzt werden) (5 ECTS), Klausur 
+Internationales Steuerrecht (kann durch Risikomanagement ersetzt werden) (5 ECTS), Klausur 
+Unternehmenssteuerrecht (kann durch Empirical Finance ersetzt werden) (5 ECTS), Klausur 
+ 
+Wahlpflichtkurse 
+Abgabenordnung (5 ECTS), Klausur 
+Bilanzsteuerrecht (5 ECTS), Klausur 
+Empirical Finance* (5 ECTS) , Portfolio 
+Europäisches und internationales Handels- und Wirtschaftsrecht (10 ECTS), Portfolio 
+Europäisches Wirtschaftsrecht (5 ECTS), Klausur 
+Forschungsprojekt Finance and Banking* (10 ECTS), Portfolio 
+Insolvenzrecht (5 ECTS), Klausur 
+Internationale Rechnungslegung, Pr¨ufung und Unternehmensbewertung (5 ECTS), Klausur 
+Kapitalmarktorientierte Rechnungslegung (5 ECTS), Klausur 
+Koordinationsorientiertes Controlling (5 ECTS), Klausur (nicht im SoSe 2022) 
+Kostenmanagement (5 ECTS), Klausur 
+MA-Seminar ”Aktuelle Fragen der Unternehmensbesteuerung“ (5 ECTS) , Portfolio 
+Multinationale Unternehmen und ihre Besteuerung (5 ECTS), Klausur 
+Restrukturierung, Sanierung und Insolvenz (5 ECTS) , Portfolio 
+Risikomanagement (5 ECTS), Klausur 
+Seminar Accounting & Controlling (5 ECTS) , Portfolio 
+Seminar: Rechnungslegung und Wirtschaftsprüfung (5 ECTS), Portfolio 
+Seminar Finance and Banking B (5 ECTS) , Portfolio 
+Steuerfunktion 4.0 – Kernelemente einer Digitalisierungsstrategie (5 ECTS) , Präsentation 
+Strukturgestaltung im Konzern (5 ECTS) , Präsentation(en) 
+Tax Policy (5 ECTS), Klausur 
+Umsatzsteuerrecht (5 ECTS) , Präsentation und Diskussion 
+Umwandlungsrecht (5 ECTS), Klausur 
+Umwandlungssteuerrecht (5 ECTS), Klausur 
+
+[Page 3]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+*gekennzeichnete Module finden auf Englisch statt. Änderungen vorbehalten (siehe Modulkatalog) 
+Wirtschaftliches Prüfungswesen (5 ECTS), Klausur 
+Zeitreihenanalyse (5 ECTS), Klausur oder mündliche Prüfung 
+ 
+3. Modulangebot im Wahlpflichtbereich Business Analytics and Operations Research 
+Pflichtkurse 
+Decision Science (5 ECTS), Klausur 
+Operations Research (5 ECTS), Klausur 
+Statistische Prognoseverfahren (5 ECTS), Klausur 
+Service Analytics (5 ECTS), Klausur 
+Stochastische Modelle (5 ECTS), Klausur 
+ 
+Wahlpflichtkurse 
+Algorithmen und Datenstrukturen (5 ECTS) Klausur oder mündliche Prüfung 
+Data Analytics Challenge (5 ECTS) Portfolio 
+Digital Business Models and Technologies (5 ECTS) Klausur, Dokumentation und Präsentation 
+Empirical Finance (5 ECTS) Portfolio 
+Forschungs-Projektstudium (5 ECTS), Portfolio 
+Forschungsprojekt Finance and Banking (10 ECTS), Portfolio 
+Modeling and Optimization with OPL (nicht im SoSe 2022) 
+Modellierung und Analyse von Retail Operations (5 ECTS) Portfolio 
+Objektorientierte Programmierung von Heuristiken (5 ECTS) Projektarbeit 
+Operation Scheduling (5 ECTS) Klausur 
+Projektmodule Wirtschaftsinformatik (5 ECTS), Portfolio 
+Risikomanagement (5 ECTS) Klausur 
+Seminar Operations Research (5 ECTS) Portfolio 
+Seminar Supply Chain Management (5 ECTS) Hausarbeit und Präsentation 
+Service Operations (5 ECTS) Klausur (nicht im SoSe 2022) 
+Supply Chain Business Game (5 ECTS) Klausur 
+Transportlogistik (5 ECTS) Klausur (nicht im SoSe 2022) 
+Zeitreihenanalyse (5 ECTS) Klausur 
+ 
+4. Modulangebot im Wahlpflichtbereich Entrepreneurship und Innovation 
+Pflichtkurse 
+Entrepreneurial Networks and Start-up Management (5 ECTS), Portfolio 
+From Idea to Commercialization: Start-up School (5 ECTS), Portfolio 
+Innovation and Creativity in Individuals,Teams, and Organizations (5 ECTS), Portfolio und 
+Klausur 
+Service Management (5 ECTS), Portfolio und Klausur 
+Social Innovation I (5 ECTS), Portfolio 
+The Past, Present, and Future of Entrepreneurship and Innovation (5 ECTS), Portfolio 
+ 
+Wahlpflichtkurse 
+Advanced Consulting Case (5 ECTS) (nicht im SoSe 2022) 
+Behavioral Finance (5 ECTS) Klausur 
+Change Management (5 ECTS) Klausur (nicht im SoSe 2022) 
+Digital Business Models and Technologies (5 ECTS) Klausur, Dokumentation und Präsentation 
+Forschungsprojektstudium in der Christlichen Sozialethik und Gesellschaftspolitik (5 ECTS) 
+Hausarbeit und Projektzusammenfassung 
+Innovation und Produktentwicklung im Tourismus (5 ECTS) Portfolio 
+Intercultural Communication (5 ECTS) Portfolio 
+Modelle unternehmerischer Verantwortung (5 ECTS) Portfolio 
+
+[Page 4]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+*gekennzeichnete Module finden auf Englisch statt. Änderungen vorbehalten (siehe Modulkatalog) 
+Return on Service Design and Customer Experience (10 ECTS) Portfolio 
+Stochastische Modelle (5 ECTS) Klausur 
+ 
+5. Modulangebot im Wahlpflichtbereich Internationale Betriebswirtschaftslehre 
+Wahlpflichtmodule können aus allen Masterschwerpunkten gewählt werden. Die genauen Module 
+der hier aufgeführten Fachgebiete der Schwerpunkte können den obigen Auflistungen entnommen 
+werden. 
+ 
+6. Modulangebot im Wahlpflichtbereich Digital Customer Experience & Service Design 
+ 
+Wahlpflichtmodule können aus allen Masterschwerpunkten gewählt werden. Die genauen Module 
+der hier aufgeführten Fachgebiete der Schwerpunkte können den obigen Auflistungen entnommen 
+werden. 
+ 
+ 
+ 
+Wahlbereich: Modulangebot

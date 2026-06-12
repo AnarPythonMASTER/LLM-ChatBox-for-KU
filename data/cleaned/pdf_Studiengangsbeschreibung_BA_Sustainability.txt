@@ -1,0 +1,1309 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_BA_Sustainability.pdf
+TITLE: Studiengangsbeschreibung_BA_Sustainability.pdf
+SOURCE_FILE: Studiengangsbeschreibung_BA_Sustainability.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status V2/2025_12 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den Bachelorstudiengang 
+Sustainability in Business & Economics 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+A. Allgemeine Struktur des Studiengangs .................................................................. 2 
+B. Beschreibung des Studiengangs 
+........................................................................... 3 
+1. Der Studiengang in drei Sätzen 
+.......................................................................... 3 
+2. Zielgruppe ......................................................................................................... 3 
+C. Studiengangskonzept ........................................................................................... 4 
+1. Struktur des Studiengangs 
+................................................................................. 4 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+........................................................ 4 
+1.2. 
+Qualifikationsziele ........................................................................................ 4 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten .................................................... 6 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder ........................................................ 6 
+2. Aufbau des Studiengangs 
+.................................................................................. 7 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+...................................................... 7 
+2.2. 
+Pflichtbereich 
+................................................................................................ 10 
+2.3. 
+Wahlpflichtbereich ........................................................................................ 11 
+2.4. 
+Wahlbereich ................................................................................................. 11 
+2.5. 
+Studium.Pro ................................................................................................. 11 
+2.6. 
+Praxisbezug.................................................................................................. 12 
+2.7. 
+Ausgestaltung der Internationalisierung 
+......................................................... 12 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre .................................................................................................... 13 
+Anlage: Idealtypischer Studienverlaufsplan 
+................................................................. 15 
+Anlage: Polyvalente und studiengangsspezifische Module an der WFI 
+........................ 16 
+Anlage: Übersicht über die Vertiefungsrichtungen ...................................................... 18 
+Vertiefungsrichtung Reporting, Taxes, and Sustainability 
+............................................ 18 
+Vertiefungsrichtung Economics and Finance for a Sustainable Economy 
+.................... 19 
+Vertiefungsrichtung Customer Experience, Digital Systems, and Operations for a 
+Sustainable World 
+...................................................................................................... 19 
+Vertiefungsrichtung Spaces and Politics for Sustainable Futures ................................ 20 
+Vertiefungsrichtung Transformative Skills for Sustainable Futures ............................... 21 
+ 
+
+[Page 2]
+Status V2/2025_12 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Name des Studiengangs: 
+ 
+Sustainability in Business & Economics 
+ 
+Verantwortliche Fakultät: 
+ 
+Wirtschaftswissenschaftliche Fakultät 
+ 
+Weitere beteiligte Fakultät/en: 
+ 
+Mathematisch-Geographische Fakultät 
+School of Transformation and Sustainabi-
+lity 
+ 
+Akademischer Grad: 
+Bachelor of Science 
+ 
+Studienform: 
+ 
+☒ Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☐ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+ 
+☒ grundständig 
+☐ konsekutiv 
+☐ weiterbildend 
+ 
+Wissenschaftliche/Praktische Orientie-
+rung: 
+(nur bei Masterstudiengängen) 
+ 
+☐ eher anwendungsorientiert 
+☐ eher forschungsorientiert 
+Regelstudienzeit: 
+6 Semester (Vollzeit) 
+ 
+ Semester (Teilzeit) 
+ 
+Studienbeginn: 
+ 
+☐ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-Leis-
+tungspunkte: 
+180 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+☒ Nein 
+☐ Ja, € pro Semester 
+ 
+
+[Page 3]
+Status V2/2025_12 
+ 
+ 
+ 
+3 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in drei Sätzen 
+Der Studiengang „Sustainability in Business & Economics“ bietet eine exzellente sozial- 
+und wirtschaftswissenschaftliche Ausbildung im Hinblick auf die Erfordernisse einer nach-
+haltigen Wirtschaftsweise, um globale gesamtgesellschaftliche Herausforderungen wie 
+steigenden Ressourcenverbrauch, Klimawandel, wachsende Einkommensungleichheit, 
+demographischen Wandel, Globalisierung sowie neue Formen der Arbeitsorganisation 
+aus Sicht von Unternehmen, Politik und verschiedenen Interessensgruppen gestalten zu 
+können. 
+Der Studiengang analysiert und diskutiert die mit derartigen Zukunftsfragen verknüpften 
+Handlungsoptionen verschiedener gesellschaftlicher Akteure, indem Denkansätze, Er-
+kenntnisse und Methoden aus verschiedenen Disziplinen (insbesondere Betriebs- und 
+Volkswirtschaftslehre, zudem Ethik, Politikwissenschaft, Wirtschafts- und Sozialgeogra-
+phie) mit internationaler Studienerfahrung kombiniert werden. 
+Basierend auf einer breiten Ausbildung analytisch-methodischer und sprachlich-kommu-
+nikativer Kompetenzen werden die Studierenden in die Lage versetzt, Zusammenhänge 
+wirtschaftlicher Nachhaltigkeit evidenzbasiert zu analysieren und verantwortungsvolle 
+Handlungsoptionen für verschiedene Akteure zu entwickeln; sie erwerben damit hervor-
+ragende Voraussetzungen für den Berufseinstieg in Unternehmen, Ministerien, Verbän-
+den, Umweltorganisationen und internationalen Organisationen sowie für eine vertiefte 
+wissenschaftliche Auseinandersetzung in einschlägigen weiterführenden Studiengängen. 
+ 
+ 
+2. Zielgruppe 
+Der Bachelorstudiengang richtet sich an Personen mit allgemeiner oder fachgebundener 
+Hochschulreife, die Interesse an einem breiten wirtschafts- und sozialwissenschaftlichen 
+Studium mit thematischem Schwerpunkt auf den Handlungsfeldern wirtschaftlicher 
+Nachhaltigkeit von Unternehmen (inkl. Start-ups), Staat, Verbänden und anderen gesell-
+schaftlichen Gruppen haben. Studieninteressierte wollen moderne fachliche Wirtschafts-
+kompetenzen mit Nachhaltigkeitsfokus sowie fundierte analytisch-methodische und 
+sprachlich-kommunikative Kompetenzen erwerben. Dies beinhaltet insbesondere auch 
+praxisrelevante Projektarbeit in Kleingruppen und die Entwicklung von sozialen Innovati-
+onen im Nachhaltigkeitsbereich. 
+Im deutschsprachigen Raum existiert inzwischen ein umfangreiches Angebot an Master-
+studiengängen im Themenfeld Nachhaltigkeit. Auf Bachelorebene ist das Angebot noch 
+überschaubar. Der vorliegende, wirtschafts- und sozialwissenschaftlich ausgerichtete 
+Studiengang unterscheidet sich dabei deutlich von holistischen Nachhaltigkeitsstudien-
+gängen, welche die Elemente des Dreisäulen-Modells Ökologie, Ökonomie und Soziales 
+gleichberechtigt betrachten, sowie von Studiengängen des Nachhaltigen Managements, 
+welche sich vorwiegend auf die unternehmerische Perspektive beziehen. Naturwissen-
+schaftliche Aspekte der Nachhaltigkeit werden im Studiengang ergänzend behandelt, 
+stehen jedoch nicht im Mittelpunkt der Betrachtung. 
+ 
+
+[Page 4]
+Status V2/2025_12 
+ 
+ 
+ 
+4 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+Die Studierenden müssen ein Zulassungsverfahren durchlaufen und eine Hochschulzu-
+gangsberechtigung aufweisen. Darüber hinaus sind Sprachnachweise in Deutsch gemäß 
+Immatrikulationssatzung nachzuweisen, Englischkenntnisse werden auf dem Niveau B2 
+empfohlen. Die Bewerbungs- und Einschreibefristen sind der Website der KU zu entneh-
+men. 
+ 
+ 
+1.2. 
+Qualifikationsziele 
+Absolventinnen und Absolventen des Studiengangs verfügen über ein breites und inte-
+griertes Wissen über die Grundlagen der wirtschaftlichen Nachhaltigkeit aus wirtschafts- 
+und sozialwissenschaftlicher Sicht. Für zukünftige Tätigkeiten in Unternehmen, Verwal-
+tung, Verbänden oder Interessensvertretungen verfügen sie über grundlegendes Wissen 
+über die zentralen Fachgebiete der Betriebs- und Volkswirtschaftslehre und über wirt-
+schafts- und unternehmensethische Fragestellungen. Sie haben sich darüber hinaus mit 
+Nachhaltigkeit aus einer interdisziplinären Perspektive auseinandergesetzt (insb. Ethik, je 
+nach Schwerpunktsetzung auch Geographie und Politikwissenschaft). So können sie 
+Herausforderungen der wirtschaftlichen Nachhaltigkeit für verschiedene Akteure erken-
+nen, einordnen und bewerten. Auf dieser Basis können sie in verschiedenen Konstellati-
+onen situationsbezogen reflektieren, in welche Prozesse und in welcher Form Nachhal-
+tigkeitsaspekte in Unternehmen und Wirtschaft eingebracht werden sollen. Sie sind im-
+stande, geeignete Problemlösungen, nachhaltige Handlungsstrategien und soziale Inno-
+vationen selbstständig zu erarbeiten. Dabei erkennen und bewerten sie Trade-offs (bei-
+spielsweise zwischen Nachhaltigkeitszielen und anderen Zielen) und können verschie-
+dene Ziele kritisch gegeneinander abwägen. Sie sind imstande, Erkenntnisse eigenstän-
+dig auf neue Sachverhalte zu übertragen. 
+ 
+Absolventinnen und Absolventen sind in der Lage, ethische Herausforderungen auf ge-
+sellschaftlicher und unternehmerischer Ebene zu erkennen, aus der Perspektive verschie-
+dener Akteure adäquat zu analysieren, und mithilfe geeigneter Werkzeuge und Methoden 
+Problemlösungen zu entwickeln. Sie können komplexe Fragestellungen und Lösungsan-
+sätze anschaulich und empfängerorientiert formulieren und Botschaften anderer Akteure 
+interpretieren, wobei sie insbesondere über das Vokabular und das Wissen verfügen, um 
+an der Schnittstelle zwischen Unternehmen, Staat und weiteren gesellschaftlichen Akt-
+euren zu vermitteln. 
+ 
+Absolventinnen und Absolventen verfügen über ein breites Verständnis grundlegender 
+analytischer und empirischer Methodik zur evidenzbasierten Bearbeitung komplexer wirt-
+schaftswissenschaftlicher Problemstellungen mit Nachhaltigkeitsbezug, insbesondere im 
+Hinblick auf die quantitative und qualitative Analyse von Daten und die Bewertung von 
+unternehmerischen und politischen Maßnahmen. So können Absolventinnen und Absol-
+venten z.B. Nachhaltigkeits-Scores, Nachhaltigkeitszertifikate oder Wirksamkeitsstudien 
+
+[Page 5]
+Status V2/2025_12 
+ 
+ 
+ 
+5 
+nachvollziehen, bewerten und kritisch hinterfragen. Sie können ihre Einschätzung im Dis-
+kurs mit Fachvertreterinnen und -vertretern sowie Fachfremden mit theoretisch und me-
+thodisch fundierter Argumentation begründen. Sie sind in der Lage, sich in neue quanti-
+tative und qualitative Methoden selbstständig einzuarbeiten. 
+ 
+Den globalen gesellschaftlichen und wirtschaftlichen Herausforderungen entsprechend 
+verfügen Absolventinnen und Absolventen über internationale Sprach- und Studienkom-
+petenz. Durch zwei verpflichtende Wirtschaftssprachmodule sowie ideale Bedingungen 
+für ein Auslandsstudium werden Absolventinnen und Absolventen auf eine berufliche Tä-
+tigkeit mit internationalem Bezug oder ein internationales Masterstudium vorbereitet. Sie 
+erwerben umfassendes wirtschaftliches Fachvokabular und können die Fremdsprache im 
+gesellschaftlichen und beruflichen Leben wirksam und flexibel gebrauchen und sich klar, 
+strukturiert und ausführlich zu komplexen Sachverhalten äußern (mindestens B2+-Ni-
+veau). Sie können erlernte Präsentations- und Kommunikationstechniken zielgerichtet an-
+wenden und verfügen über die erforderlichen Selbst- und Zeitmanagementkompetenzen. 
+ 
+Absolventinnen und Absolventen verfügen durch das projektorientierte Studium über 
+wichtige Soft Skills sowie methodische Kompetenzen, um das Thema Nachhaltigkeit in 
+komplexe betriebliche und gesellschaftliche Prozesse einbringen zu können. Sie werden 
+auf eine erfolgreiche Berufstätigkeit, auch im internationalen Kontext, vorbereitet. Absol-
+ventinnen und Absolventen können selbständig Ziele für Lern- und Arbeitsprozesse defi-
+nieren, reflektieren und bewerten sowie diese Prozesse eigenständig und nachhaltig ge-
+stalten. Sie sind in die Lage, eine Forschungsfrage zu entwickeln, strukturiert zu bearbei-
+ten und unter Ableitung von Handlungsimplikationen zu präsentieren. Insbesondere ver-
+fügen sie über die Kompetenzen, relevante Informationen in Projektarbeiten zum Thema 
+wirtschaftliche Nachhaltigkeit zu sammeln, zu bewerten und zu interpretieren sowie ei-
+genständig praxisrelevante Lösungsansätze zu entwickeln. Sie verfügen außerdem über 
+die Reflexionsfähigkeit und Kompetenz, selbst energie- und ressourcenschonend zu ar-
+beiten. 
+ 
+Absolventinnen und Absolventen haben selbstständig auch längerfristige, anwendungs-
+orientierte Projekte durchgeführt und können im Team zur Lösung komplexer Aufgaben 
+beitragen. Sie haben die Fähigkeiten erworben, gemeinsam nachhaltige Handlungsstra-
+tegien und soziale Innovation zu erarbeiten, sich zu koordinieren und Kompromisse aus-
+zuhandeln sowie die Leitung eines Teams oder Prozesses zu übernehmen. Sie verfügen 
+über Soft Skills wie Kreativität, die Fähigkeit zur zielorientierten Arbeit im Team und soziale 
+Kompetenzen. 
+ 
+Absolventinnen und Absolventen haben einen Überblick über Ziele und Standards ver-
+schiedener Berufsfelder im Bereich wirtschaftlicher Nachhaltigkeit. Sie können erkennen, 
+in welchen Feldern Handlungsbedarf in Bezug auf Nachhaltigkeitsaspekte besteht. Sie 
+reflektieren ihr berufliches Handeln kritisch in Bezug auf gesellschaftliche Erwartungen 
+und Folgen. Im Laufe des Studiums haben Studierende verschiedene potentielle Arbeit-
+geber (z.B. Unternehmen, Verwaltung, Verbände) und Arbeitsweisen im Rahmen ver-
+schiedener Module kennengelernt. Mit Abschluss des Studiengangs werden Studierende 
+befähigt, qualifizierte Erwerbstätigkeit in Unternehmen (z.B. im CSR Management oder 
+Auditing), im öffentlichen Sektor (z.B. in Ministerien oder Verwaltungen) sowie im Not-for-
+
+[Page 6]
+Status V2/2025_12 
+ 
+ 
+ 
+6 
+profit-Sektor (z.B. Verbände, soziale Unternehmen oder NGOs) aufzunehmen oder sich 
+in einem passenden Masterstudiengang weiter zu qualifizieren. 
+ 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Absolventinnen und Absolventen des Studiengangs verfügen über akademische Weiter-
+bildungsmöglichkeiten in folgenden Masterstudiengängen der KU Eichstätt-Ingolstadt: 
+Betriebswirtschaftslehre, Taxation, Business and Psychology, Bildung für nachhaltige 
+Entwicklung. Darüber hinaus ist das Studium anschlussfähig konzipiert, so dass Absol-
+ventinnen und Absolventen die typischen Zugangsvoraussetzungen und Grundlagen-
+kenntnisse für Masterstudiengänge in BWL, Management, Volkswirtschaftslehre bzw. 
+Nachhaltigkeit an den meisten deutschen und internationalen Hochschulen erfüllen. 
+ 
+ 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+Nachhaltiges Wirtschaften ist eine allgegenwärtige und in Zukunft weiter wachsende ge-
+sellschaftliche Herausforderung, so dass es eine Vielzahl relevanter Berufsfelder gibt, z.B. 
+in den Bereichen Umweltwirtschaft, Energieversorgung, Ressourcennutzung, nachhaltige 
+Investments, Mobilität, Infrastruktur und Konsum. Die Arbeitsmarktsituation ist bereits 
+sehr gut und wird sich in Zukunft voraussichtlich weiter verbessern. Zumeist geht es dabei 
+jedoch weniger um die Entwicklung eines neuen „Nachhaltigkeitsberufsbildes“ als viel-
+mehr um die nachhaltige Ausrichtung bestehender und nachgefragter Arbeitsmarktkom-
+petenzen. 
+Größere Unternehmen sehen sich wachsenden Erfordernissen im Nachhaltigkeitsma-
+nagement, CSR und in der Nachhaltigkeitsberichterstattung gegenüber. Aus diesem 
+Grund werden entsprechende Stellen in Unternehmen geschaffen, welche multi- und in-
+terdisziplinäres Wissen voraussetzen, das sowohl ökonomische, betriebswirtschaftliche 
+und ethische als auch methodische Kenntnisse umfasst. Neben klassischen Wirtschafts-
+sektoren, für welche Nachhaltigkeit schon heute von zentraler Bedeutung ist (Verkehr, 
+Energie), werden Nachhaltigkeitsstrategien auch in vielen weiteren Branchen zunehmend 
+relevant (Banken, Finanzen, produzierendes Gewerbe). 
+Auch staatliche Aktivitäten zur Gestaltung und Regulierung von Nachhaltigkeitskonzepten 
+der Wirtschaft nehmen einen immer größeren Stellenwert ein. Im Bereich Politiksteuerung 
+sowie in der Stadt- und Regionalplanung sind Nachhaltigkeitskonzepte ebenfalls weit ver-
+breitet. Im nicht-staatlichen, nicht-gewinnorientierten Sektor (NGOs, Verbände) und im 
+kirchlichen Sektor ist Nachhaltigkeit ein zukunftsweisendes Handlungskonzept. Hier wer-
+den beispielsweise Produktions- und Konsumstandards sowie Zertifikate entwickelt und 
+geprüft. Auch auf diese Aufgabenfelder und Herausforderungen der Praxis bereitet der 
+Bachelorstudiengang durch seine interdisziplinäre Ausrichtung und methodische Projek-
+torientierung gezielt vor. 
+Absolventinnen und Absolventen steht eine große Auswahl an Stellenprofilen zur Aus-
+wahl, beispielsweise als CSR-ManagerInnen, Nachhaltigkeits-ManagerInnen, Communi-
+cations-ManagerInnen, ProjektmanagerInnen Nachhaltigkeit, ReferentInnen oder Wis-
+senschaftliche MitarbeiterInnen Nachhaltigkeit. Weitere relevante Stellenprofile finden sich 
+im Nachhaltigkeits-Consulting oder im Bereich Business Development. 
+
+[Page 7]
+Status V2/2025_12 
+ 
+ 
+ 
+7 
+Im Vorfeld der Studiengangentwicklung wurde eine Arbeitsmarktanalyse mithilfe von In-
+terviews zahlreicher Vertreterinnen und Vertreter aus Unternehmen, Behörden und Ver-
+bänden geführt. Die Arbeitsmarktchancen mit dem vorliegenden Abschlussprofil werden 
+langfristig sehr positiv gesehen. Als zentrale Anforderungen im Berufsfeld wurden ge-
+nannt: Analytische und methodische Kompetenzen, Projektmanagementerfahrung, wirt-
+schaftswissenschaftliche Grundlagen, ethische Reflexionskompetenz. 
+ 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Ausrichtung und Perspektive 
+Der vorliegende Studiengang ist auf die wirtschafts- und sozialwissenschaftlichen As-
+pekte des Themas Nachhaltigkeit ausgerichtet. Er verbindet dabei zwei moderne Ansätze 
+des Nachhaltigkeitsdiskurses: Zunächst die neoklassische Perspektive, die auf der An-
+nahme rationaler Entscheidungen der Akteure und der Existenz von Gleichgewichten ba-
+siert. In dieser Denkwelt schließen sich nachhaltige Entwicklung und Wirtschaftswachs-
+tum nicht aus. Ökologische und gesellschaftliche Schäden aus Produktions- und Kon-
+sumprozessen werden als Externalitäten verstanden, die durch staatliche und institutio-
+nelle Regulierung, Innovation sowie Umverteilung korrigiert werden können und müssen. 
+Hinzu kommt, soziale Ungleichheiten mithilfe klassischer sozialpolitischer Instrumente 
+auszugleichen. Das Hauptziel dieser Denkrichtung besteht darin, Emissionen drastisch 
+zu reduzieren, Ressourcen zu schonen und einen gesellschaftlichen Ausgleich zwischen 
+verschiedenen Interessengruppen zu erzielen. Darüber hinaus betont der Studiengang 
+eine verhaltenswissenschaftliche Perspektive, welche die Rationalität der Akteure als ein-
+geschränkt versteht. Aus diesem Blickwinkel sind Schäden an Umwelt und Gesellschaft 
+das Ergebnis von Entscheidungsfehlern, welche durch Anreizsysteme, Informationsbe-
+reitstellung und Signale korrigiert werden können. Das Hauptziel dieser Denkrichtung be-
+steht darin, Veränderungen im Konsumverhalten oder in myopischen (d.h. kurzsichtigen) 
+Unternehmensentscheidungen sowie Politikversagen zu erreichen. 
+Damit unterscheidet sich das im vorgeschlagenen Studiengang verwendete Nachhaltig-
+keitskonzept von den Annahmen der ökologischen Ökonomie, wonach Wachstum weit-
+gehend abzulehnen ist. Das Ziel dieser Strömung ist ein radikaler Umbau der marktwirt-
+schaftlichen Wirtschaftsordnung. Während alternative Konzepte der ökologischen Öko-
+nomie im Studium vorgestellt und diskutiert werden, nehmen die meisten Module eine 
+neoklassische und/oder verhaltensökonomische Perspektive ein. 
+ 
+Damit stellt der Studiengang das Wirtschaftsleben in den Mittelpunkt und fokussiert auf 
+Interdependenzen zwischen Wirtschaft, Gesellschaft und Politik (siehe Schaubild 1). Ent-
+sprechend stehen auch die jeweiligen Akteure dieser drei Domänen im Zentrum der Be-
+trachtung: Unternehmen, regulierende Institutionen (Staat, Legislative, Exekutive) und ge-
+sellschaftliche Institutionen (Verbände, Vereine, NGOs). 
+ 
+ 
+ 
+
+[Page 8]
+Status V2/2025_12 
+ 
+ 
+ 
+8 
+Schaubild 1: Thematischer Fokus des Bachelorstudiengangs 
+ 
+ 
+Folgende Übersicht soll die Struktur des Studiengangs nach Betrachtungsperspektive 
+und Zielebene verdeutlichen (in der Matrix eingetragen sind beispielhafte Pflichtmodule 
+des Studiengangs): 
+ 
+ 
+ 
+Zielebene 
+ 
+ 
+Produktion 
+Konsum 
+Perspektive 
+Rationale Entscheidun-
+gen (Neoklassisch) 
+• Innerbetriebliche Prozesse 
+(z.B. Investition, Finanzie-
+rung und Steuern) 
+• Staatliche Regulierung (z.B. 
+Öff. Finanzen und nachhal-
+tige Wirtschaftspolitik, Um-
+weltökonomik & Umweltpo-
+litik) 
+• Preise und Signale 
+(z.B. Mikroökonomie) 
+Begrenzt rationale & 
+beschränkt steuerbare 
+Entscheidungen 
+(Verhaltensökonomisch) 
+• Soziale Innovationen (z.B. 
+Innovating for Sustainability) 
+• Unternehmertum (z.B. 
+Sustainable Entrepreneu-
+rship) 
+• Normen 
+• Verhalten, Verzerrun-
+gen (z.B. Sustainable 
+Development) 
+ 
+ 
+ 
+Wirtschaft
+Politik
+Gesellschaft
+
+[Page 9]
+Status V2/2025_12 
+ 
+ 
+ 
+9 
+Studienverlauf 
+Studierende absolvieren in den ersten vier Semestern Pflichtveranstaltungen im Umfang 
+von 110 ECTS-Punkten. Im Rahmen der Pflichtveranstaltungen erwerben die Studieren-
+den Kenntnisse in den Kompetenzfeldern Business, Economics, Ethics & Society, Analy-
+tical Skills, und Soft Skills. Im zweiten Studienabschnitt wählen die Studierenden zwei 
+Vertiefungen mit je 20 ECTS-Punkten. Im freien Wahlbereich sind weitere 10 ECTS-
+Punkte zu absolvieren. Abschließend ist eine Bachelorarbeit zu verfassen (10 ECTS-
+Punkte). 
+ 
+Studieninhalte 
+Die Studierenden sollen Kompetenzen entwickeln, welche eine erfolgreiche Berufstätig-
+keit vor dem Hintergrund der sich derzeit und in näherer Zukunft ergebenden großen 
+globalen Trends ermöglichen (Klimawandel, Ressourcenknappheit, Globalisierung, de-
+mographische Entwicklung). Dabei sollen im vorliegenden Studiengang neue Perspekti-
+ven eröffnet werden und fachlich bereits etablierte Kompetenzen unter Gesichtspunkten 
+der Nachhaltigkeit deutlich weiterentwickelt und modernisiert werden. Die Studierenden 
+werden in folgenden fünf Kompetenzfeldern ausgebildet: Business, Economics, Ethics & 
+Society, Analytical Skills, und Soft Skills. 
+ 
+Ein zentraler Bestandteil des Studiengangs ist das Kennenlernen des Themenbereichs 
+wirtschaftliche Nachhaltigkeit sowie deren Akteure und Perspektiven aus verschiedenen 
+Disziplinen. So soll beispielsweise die Ringvorlesung Nachhaltige Wirtschaft die Breite des 
+Themas Nachhaltigkeit für Unternehmen, Wirtschaft und Gesellschaft beleuchten. In die-
+ser Veranstaltung werden auch naturwissenschaftliche Aspekte von Nachhaltigkeit be-
+leuchtet, welche ergänzend in den Studiengang einfließen. Daneben sind Einführung in 
+die Wirtschafts- und Unternehmensethik, Corporate Governance sowie Umweltökonomik 
+& Umweltpolitik Pflichtmodule. Ein weiteres Modul zu 5 ECTS-Punkten, welches verschie-
+dene Auswahlmöglichkeiten mit Nachhaltigkeitsbezug bietet (Studium.Pro), ergänzt die 
+Grundlagenausbildung im Bereich Ethics & Society. Die Kompetenzfelder Business und 
+Economics bieten eine solide Grundlagenausbildung aus betriebs- und volkswirtschaftli-
+cher Perspektive. In diesen zentralen Bereichen werden betriebliche Prozesse und nach-
+haltige Optimierungsmöglichkeiten, sowie die Möglichkeiten und Regeln staatlicher Re-
+gulierung vermittelt. Bezüglich der Produktion von Gütern und Dienstleistungen werden 
+Kosten, Standards und Strategien beleuchtet, bezüglich des Konsums werden Präferen-
+zen, Entscheidungen und Entscheidungsverzerrungen analysiert. Im Kompetenzfeld Ana-
+lytical Skills werden die Studierenden in mathematischen und modernen statistischen Me-
+thoden ausgebildet, mit einem besonderen Augenmerk darauf, Wirkungszusammen-
+hänge zu erkennen, zu interpretieren und zu illustrieren. Kommunikative und wissen-
+schaftliche Kompetenzen werden im Bereich Soft Skills vermittelt: Neben zwei ver-
+pflichtenden Wirtschaftssprachenmodulen werden die Studierenden im Modul Wissen-
+schaftliche Schlüsselqualifikationen optimal auf ein studentisches Forschungsprojekt und 
+die Abschlussarbeit vorbereitet. 
+ 
+Zur Umsetzung des projektorientierten Studiums ist ein Forschungsprojektseminar zum 
+Thema Nachhaltigkeit (10 ECTS-Punkte) vorgesehen, in dem die Studierenden sich in 
+kleinen Teams eigenverantwortlich mit einer praktischen Fragestellung auseinanderset-
+zen. Während der Projektphase kooperieren studentische Kleingruppen v.a. mit externen 
+
+[Page 10]
+Status V2/2025_12 
+ 
+ 
+ 
+10 
+Partnern (Unternehmen, Verwaltung, Verbände), um reale Nachhaltigkeitsherausforde-
+rungen wissenschaftsgeleitet zu durchdringen und zu bearbeiten (ggf. in Kooperation mit 
+dem KU Sustainability Research Lab und/oder dem Bachelorstudiengang D3B). Die Er-
+gebnisse der studentischen Arbeiten werden am Ende (hochschul-)öffentlich präsentiert. 
+ 
+In allen Pflichtmodulen werden Nachhaltigkeitsbezüge aufgezeigt. Aufgrund der polyva-
+lenten Nutzung zahlreicher Module ist eine Umbenennung mancher Module jedoch nicht 
+möglich. 
+ 
+Interdisziplinarität 
+Die Interdisziplinarität des Studiengangs ergibt sich aus der Kombination von betriebs-
+wirtschaftlichen (d.h. unternehmensorientierten) und volkswirtschaftlichen (d.h. wohl-
+fahrtsorientierten) Inhalten, sowie der Verbindung einer neoklassischen mit der verhal-
+tenswissenschaftlichen Perspektive. Letztere beinhaltet auch Methoden und Ansätze 
+der psychologischen Forschung. Neben der multidisziplinären Betrachtung wirtschaftli-
+cher Nachhaltigkeit kommt es in mehreren Modulen zum expliziten Dialog der Diszipli-
+nen (z.B. Ringvorlesung Nachhaltige Wirtschaft, Ethikmodule, Sustainable Development, 
+Forschungsprojekt Nachhaltigkeit). Die interdisziplinäre Ausrichtung des Studiengangs 
+soll mittelfristig weiter in Richtung einer sozial- und geisteswissenschaftlichen Betrach-
+tung ausgebaut werden. 
+ 
+Art der Lehre 
+Im Studiengang wird Augenmerk auf vielfältige und innovative Lehrformate gelegte: Ne-
+ben klassischen Vorlesungs- und Übungsformaten bieten eine Reihe von Modulen auch 
+Kleingruppenarbeit, interaktive Präsentationen, Rollenspiele oder Simulationsspiele. Das 
+Herzstück des projektorientierten Studiums ist das Forschungsprojekt Nachhaltigkeit, in 
+welchem Kleingruppen von Studierenden gemeinsam eine gesellschaftsrelevante For-
+schungsfrage erarbeiten, operationalisieren und überprüfen, sowie deren Lösung vor den 
+gesellschaftlich relevanten Akteuren präsentieren. 
+ 
+ 
+2.2. 
+Pflichtbereich 
+Der Pflichtbereich beinhaltet Module aus folgenden Kompetenzfeldern: 
+- 
+Business: Betriebliches Rechnungswesen; Digital and Sustainable Business Mod-
+els; Sustainable Entrepreneurship; Investition, Finanzierung und Steuern; Innovat-
+ing for Sustainability: Frameworks and Practices from Global and Local Organiza-
+tions 
+- 
+Economics: Einführung in die VWL: Staat, Wirtschaft und Gesellschaft; Mikroöko-
+nomie; Makroökonomie; Öffentliche Finanzen und Nachhaltige Wirtschaftspolitik; 
+Sustainable Development; The Economics of Climate Change and Sustainability: 
+Insights for Policy and Business 
+- 
+Ethics & Society: Ringvorlesung Nachhaltige Wirtschaft; Einführung in die Wirt-
+schafts- und Unternehmensethik; Umweltökonomik & Umweltpolitik; Corporate 
+Governance; Studium.Pro (Wahlpflichtbereich) 
+- 
+Analytical skills: Mathematik für Wirtschaftswissenschaftler; Deskriptive Statistik 
+und Wahrscheinlichkeitstheorie; Induktive und multivariate Statistik 
+
+[Page 11]
+Status V2/2025_12 
+ 
+ 
+ 
+11 
+- 
+Soft skills: Wirtschaftssprache I; Wirtschaftssprache II; Wissenschaftliche Schlüs-
+selqualifikationen 
+- 
+Forschungsprojekt Nachhaltigkeit (10 ECTS Punkte). 
+ 
+2.3. 
+Wahlpflichtbereich 
+Vertiefungsrichtungen (Wahlpflichtbereich): 
+Im zweiten Studienabschnitt müssen zwei Vertiefungen zu je 20 ECTS-Punkten gewählt 
+werden. Im Verlauf des dritten Semesters wird eine Informationsveranstaltung zur Wahl 
+der Vertiefungsrichtungen angeboten. Details zu den Vertiefungsrichtungen finden sich in 
+der Anlage. 
+ 
+Vertiefungen aus dem wirtschaftswissenschaftlichen Bereich 
+- 
+Reporting, Taxes, and Sustainability 
+- 
+Economics and Finance for a Sustainable Economy 
+- 
+Customer Experience, Digital Systems, and Operations for a Sustainable World 
+ 
+Weitere Vertiefungen: 
+- 
+Spaces & Politics for Sustainable Futures 
+- 
+ Transformative Skills for Sustainable Futures 
+- 
+International Immersion 
+Die Vertiefung „International Immersion“ kann nur an einer ausländischen Universität im 
+Rahmen eines Auslandsaufenthalts und/oder einer internationalen Summer School (inkl. 
+der internationalen WFI Summer School) absolviert werden (siehe 2.7). 
+ 
+ 
+2.4. 
+Wahlbereich 
+10 ECTS-Punkte sind aus dem gesamten Bachelorangebot der wirtschaftswissenschaft-
+lichen Fakultät und/oder dem Studienangebot der Vertiefungen zu wählen. Auf Antrag 
+können weitere Module für den Wahlbereich zugelassen werden, wenn diese in sinnvol-
+lem Zusammenhang mit dem Studienfach stehen. Dieser freie Wahlbereich ermöglicht 
+eine individuelle Ergänzung des Studiums. 
+ 
+Module, die im Rahmen eines Auslandsstudiums erworben werden, können in der Ver-
+tiefung „International Immersion“ und/oder in allen anderen Bereichen des Studiums im 
+Rahmen des etablierten Anerkennungsprozesses eingebracht werden. 
+ 
+ 
+2.5. 
+Studium.Pro 
+Es ist ein frei wählbares Modul aus dem Katalog von Studium.Pro im Umfang von 5 
+ECTS-Punkten vorgesehen. Der Katalog umfasst zahlreiche Module mit explizitem Nach-
+haltigkeitsbezug. 
+ 
+
+[Page 12]
+Status V2/2025_12 
+ 
+ 
+ 
+12 
+2.6. 
+Praxisbezug 
+Praxisbezug wird u.a. durch die Bearbeitung einer selbstgewählten Fragestellung in Klein-
+gruppen im Rahmen des studentischen Forschungsprojekts Nachhaltigkeit im 4. Semes-
+ter hergestellt. In dieses Projektseminar werden Praxispartner, insb. aus Unternehmen 
+und dem öffentlichen Sektor, eingebunden. In andere Lehrveranstaltungen (z.B. Ringvor-
+lesung Nachhaltige Wirtschaft) werden Gastvorträge von Praktikern integriert. 
+Der Studiengang eröffnet zudem ausreichend Freiräume, um Praktika in den vorlesungs-
+freien Zeiten zu absolvieren. Dazu werden insbesondere Modulprüfungen (mit Ausnahme 
+der innovativen Prüfungsformen) in zwei Zeiträumen je Semester angeboten, um eine fle-
+xible Planung von Praktika zu ermöglichen. Durch einen angedachten Studiengangsbeirat 
+sollen Praxispartner in die Studiengangsgestaltung und -verbesserung einbezogen wer-
+den. 
+ 
+2.7. 
+Ausgestaltung der Internationalisierung 
+Die Studierenden werden darin bestärkt und unterstützt, ein Semester im Ausland zu 
+studieren. Das Studienprogramm ist derart gestaltet, dass das fünfte Semester explizit 
+dafür reserviert ist: Dabei profitieren die Studierenden von der großen Anzahl an Part-
+neruniversitäten. Einige Partneruniversitäten der WFI verfügen bereits über einen Nach-
+haltigkeitsschwerpunkt und/oder internationalen Austausch auf Ebene der Studierenden 
+(und teils Dozierenden) zum Thema Nachhaltigkeit (z.B. i-week on sustainability der Uni-
+versity of Antwerp; Aufnahme des Nachhaltigkeitskonzepts in alle Kursprogramme der 
+Toulouse Business School, Nachhaltigkeitskursprogramm an der ESSCA; Studiengang 
+„Management of Sustainability and Tourism“ an der Universität Trento). Die im Ausland 
+erworbenen Studienleistungen werden in der Vertiefung „International Immersion“ verein-
+facht anerkannt. Daneben ist eine Anerkennung als Wahl-, Wahlpflicht- und Pflichtmodu-
+len basierend auf Teilstudienverträgen ebenfalls möglich. Die Studierenden sollen vor An-
+tritt des Auslandsaufenthalts ein ‘Learning Agreement‘ abschließen. 
+Durch die WFI Summer School (im Sommersemester) soll zudem sichergestellt werden, 
+dass auch Studierende, die im Ausland nur 10 ECTS-Punkte erreicht haben, die Vertie-
+fung „International Immersion“ erfolgreich abschließen können. Die nötigen Sprachkennt-
+nisse erlangen die Studierenden in zwei verpflichtenden Wirtschaftssprachmodulen. Im 
+Wahlpflicht- und Wahlbereich wird zudem eine hohe Zahl an englischsprachigen Veran-
+staltungen angeboten. In diesen Veranstaltungen ergeben sich zudem Kontakte zu aus-
+ländischen Incoming-Studierenden. 
+ 
+
+[Page 13]
+Status V2/2025_12 
+ 
+ 
+ 
+13 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage 
+des Leitbilds für Studium und Lehre 
+ 
+Das Fakultätsleitbild einer „am Menschen orientierten Wirtschaft“ und der aktuelle Fakul-
+tätsentwicklungsplan mit der ausdrücklichen Fokussierung auf Nachhaltigkeit, auf öko-
+nomische Zukunftsfragen und auf digitale und datengetriebene Wirtschaft führen in kon-
+sequenter Weiterführung zu einem eigenständigen Bachelor-Studiengang zur wirtschaft-
+lichen Nachhaltigkeit und gesellschaftlichen Verantwortung, der über einzelne, weiter an-
+gebotene Module in Bachelor- und Master-Studiengängen – zum Teil auch in Koopera-
+tion mit anderen Fakultäten – hinausgeht. Spielten schon bisher die Katholische Sozial-
+lehre, Fragen des Umgangs mit der Schöpfung, der Wirtschafts- und Unternehmensethik, 
+des nachhaltigen Wirtschaftens u. ä. eine zentrale Rolle, so wird in Zukunft auch schon 
+im Bereich der Bachelor-(Aus-)Bildung ein volles Studienangebot bereitgehalten, das die 
+grundsätzliche Ausrichtung und das besondere Profil der KU im Allgemeinen und der WFI 
+im Besonderen betont, bedeutend ausbaut und schärft. In Bezug auf die Außenwirkung 
+wird die Fakultät mehr denn je als Ort der Lehre und Forschung zu einem verantworteten 
+Wirtschaften erscheinen. 
+ 
+Das Leitbild für Studium und Lehre der KU Eichstätt-Ingolstadt zielt auf ein Angebot von 
+Studiengängen, die ein eindeutiges Qualifikationsprofil aufweisen und sich anhand der 
+vier Kriterien „diskursiv“, „vernetzt“, „engagiert“ und „persönlich“ charakterisieren lassen. 
+Der Bachelorstudiengang „Sustainability in Business & Economics“ der KU Eichstätt-In-
+golstadt erfüllt dieses Leitbild vollumfänglich und trägt damit unmittelbar zur weiteren Pro-
+filbildung der Universität bei. 
+ 
+Diskursiv: 
+• Der Studiengang verbindet einen hohen wissenschaftlichen Anspruch mit konse-
+quenter Praxisorientierung. Dies wird in allen studierbaren Vertiefungsrichtungen 
+ermöglicht. Durch einen angedachten Studiengangsbeirat werden Praxispartner 
+in die Studiengangsgestaltung und -verbesserung einbezogen. 
+• Der Studiengang ist dem Dialog der Disziplinen im Themenbereich „wirtschaftliche 
+Nachhaltigkeit“ verpflichtet und vermittelt gegenseitige Einflüsse und Abhängig-
+keitsverhältnisse der Fächer. Durch aktivierende Module (Forschungsprojekt 
+Nachhaltigkeit, Sustainable Development) und interdisziplinäre Wahlmöglichkeiten 
+wird den Studierenden ein hohes Maß an akademischer Freiheit eingeräumt. 
+• Die Vielfalt an didaktischen Konzepten im Studium (Vorlesungsmodule, Übungen, 
+Seminare, Forschungsprojekt mit Gruppenarbeit, Simulationsspiele etc.) ermögli-
+chen einen intensiven Diskurs zwischen Studierenden und Dozierenden, Wissen-
+schaft und Praxis. 
+• Das Studienprogramm bietet eine aktivierende, interaktive Studienkultur mit her-
+vorragendem Betreuungsverhältnis. Studierende werden ermutigt, Lehrinhalte zu 
+reflektieren, zu verifizieren und kritisch zu hinterfragen. 
+ 
+ 
+ 
+
+[Page 14]
+Status V2/2025_12 
+ 
+ 
+ 
+14 
+Vernetzt: 
+• Der Studiengang zeichnet sich durch eine interdisziplinäre Verknüpfung verschie-
+dener Fachperspektiven (u.a. Betriebswirtschaftslehre, Volkswirtschaftslehre, Un-
+ternehmens- und Wirtschaftsethik) und Kompetenzen (u.a. quantitative und quali-
+tative Methoden, analytisches Denken und Problemlösungsfähigkeit) aus. Unter-
+stützt werden die Studierenden durch eine hervorragende wissenschaftliche und 
+praxisorientierte Infrastruktur. 
+• Im Vordergrund steht die Verknüpfung wirtschaftlicher Aspekte von Nachhaltigkeit 
+im Spannungsfeld zwischen Privatwirtschaft und staatlicher Rahmensetzung. An-
+hand der interdisziplinären Ausbildung erlangen die Studierenden ein grundlegen-
+des Verständnis verschiedener Akteure, Perspektiven und Problemlösungsansät-
+zen für ein nachhaltiges Wirtschaftssystem. 
+• Darüber hinaus wird durch die verpflichtende Wirtschaftssprache (2 Module) und 
+die modulare Möglichkeit, ein Auslandssemester zu absolvieren, die internationale 
+Vernetzung gefördert; die Studierenden werden befähigt, sich in einem internatio-
+nalen Umfeld zu behaupten. 
+ 
+Engagiert: 
+• Die Pflichtkurse Einführung in die Wirtschafts- und Unternehmensethik, Corporate 
+Governance und Studium.Pro ermöglichen den Studierenden, die unternehmeri-
+schen und wirtschaftspolitischen Modelle und Methoden im Hinblick auf ihre 
+Nachhaltigkeit und ethische Aspekte kritisch zu reflektieren. Die Studierenden sol-
+len befähigt werden, begründete und belastbare Abwägungen zwischen ökono-
+misch-gesellschaftlichen Vorteilen / Nutzen und Kosten zu treffen. 
+• Mit dem verpflichtenden Studienmodul Forschungsprojekt Nachhaltigkeit enga-
+gieren sich die Studierenden intensiv für reale und gegenwärtige Herausforderun-
+gen von regionalen Unternehmen, Verbänden, Verwaltungsbehörden oder NGOs. 
+• Ziel des Programms ist es, die Studierenden zu verantwortlichen Fach- und Füh-
+rungskräften in der Privatwirtschaft, in Verbänden oder im öffentlichen Dienst aus-
+zubilden. 
+ 
+Persönlich: 
+• Der Studiengang fördert die Persönlichkeitsentwicklung der Studierenden durch 
+die verpflichtenden Module in den Bereichen Wirtschaftssprachen, Wirtschafts- 
+und Unternehmensethik sowie den Angeboten des Programms Studium.Pro. 
+• Kleine Veranstaltungsgrößen befördern durch persönliche Kontakte zu Dozieren-
+den und Studierenden soziale und kommunikative Kompetenzen. 
+• Insbesondere im Forschungsprojekt Nachhaltigkeit, in Sustainable Development, 
+sowie beim Verfassen der Bachelorarbeit wird den Studierenden eine intensive 
+Betreuung sowie Freiraum für eigenverantwortliche, kreative Entwicklung geboten. 
+Die Studierenden können hierdurch ihre individuellen Fähigkeiten zur Geltung brin-
+gen und sich persönlich entfalten und weiterentwickeln. 
+• Die persönliche Weiterentwicklung zu einer verantwortlich denkenden und han-
+delnden Fach- und Führungskraft, die sich auch bei kontroversen Diskussionen 
+und Herausforderungen bewährt, stellt ein wichtiges Ausbildungsziel des Studien-
+gangs dar. 
+
+[Page 15]
+Status V2/2025_12 
+ 
+ 
+ 
+15 
+Anlage: Idealtypischer Studienverlaufsplan 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+Vertiefung II 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+ Vertiefung II 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+Vertiefung II 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+Vertiefung II 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+Bachelorarbeit 
+(10 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+5 
+Vertiefung I 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+Vertiefung I (Wahl-
+pflicht) 
+(5 ECTS-Punkte) 
+Vertiefung I 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+Vertiefung I 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+Wahl 
+(5 ECTS-Punkte) 
+Wahl 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+4 
+Sustainable 
+Development 
+(5 ECTS-Punkte) 
+Corporate 
+Governance 
+(5 ECTS-Punkte) 
+The Economics of 
+Climate Change and 
+Sustainability 
+(5 ECTS-Punkte) 
+WP 
+Studium.Pro* 
+(5 ECTS-Punkte) 
+ 
+WP 
+Forschungsprojekt 
+Nachhaltigkeit 
+(10 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+3 
+Öffentliche 
+Finanzen und nach-
+haltige 
+Wirtschaftspolitik 
+(5 ECTS-Punkte) 
+Einführung in die 
+Wirtschafts- und 
+Unternehmens-
+ethik 
+ (5 ECTS-Punkte) 
+Investition, 
+Finanzierung und 
+Steuern 
+(5 ECTS-Punkte) 
+Umweltökonomik & 
+Umweltpolitik 
+(5 ECTS-Punkte) 
+Induktive und 
+multivariate 
+Statistik 
+(5 ECTS-Punkte) 
+Wissenschaftliche Schlüs-
+selqualifikation 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+2 
+Mikroökonomie 
+(5 ECTS-Punkte) 
+Makroökonomie 
+(5 ECTS-Punkte) 
+Sustainable 
+Entre- 
+preneurship 
+(5 ECTS-Punkte) 
+Innovating for Sus-
+tainability: Frame-
+works and Practices 
+from Global and Local 
+Organizations 
+(5 ECTS-Punkte) 
+Deskriptive Statistik 
+und Wahrscheinlich-
+keitstheorie 
+(5 ECTS-Punkte) 
+Wirtschaftssprache II 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+1 
+Einführung in die 
+VWL: Staat, 
+Wirtschaft und 
+Gesellschaft 
+(5 ECTS-Punkte) 
+ Ringvorlesung 
+Nachhaltige 
+Wirtschaft 
+ (5 ECTS-Punkte) 
+Digital and Sustain-
+able Business 
+Models 
+(5 ECTS-Punkte) 
+Betriebliches 
+Rechnungswesen 
+(5 ECTS-Punkte) 
+Mathematik für 
+Wirtschaftswissen-
+schaftler 
+(5 ECTS-Punkte) 
+Wirtschaftssprache I 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+Kompe-
+tenzen 
+Economics 
+Ethics & Society 
+Business 
+ 
+Analytical Skills 
+Soft Skills 
+ 
+* aus dem Studium.Pro Katalog der KU
+
+[Page 16]
+Status V2/2025_12 
+ 
+ 
+ 
+16 
+Anlage: Polyvalente und studiengangsspezifische Module an der 
+WFI 
+ 
+Die folgende Tabelle zeigt alle Pflicht- und Wahlpflichtmodule, die auch in anderen Stu-
+diengängen der WFI im Pflicht- oder Wahlpflichtbereich eingebracht werden können, 
+wobei die mit einem „P“ markierten Module Pflichtmodule im Bachelor „Betriebswirt-
+schaftslehre“ bzw. „D3B“ sind. Die meisten dieser polyvalenten betriebs- und volkswirt-
+schaftlichen Grundlagenmodule sind derart gestaltet, dass sie auch explizite Nachhaltig-
+keitsbezüge aufweisen: 
+ 
+Ethik & Gesellschaft 
+BWL 
+D3B 
+Pflicht 
+Althammer 
+Einführung in die Wirtschafts- und Unterneh-
+mensethik 
+P 
+ 
+Pflicht 
+Sandner 
+Corporate Governance 
+WP 
+WP 
+Pflicht 
+ 
+Studium.Pro 
+ 
+P 
+Business 
+ 
+ 
+Pflicht 
+Göttsche 
+Betriebliches Rechnungswesen 
+P 
+P 
+Pflicht 
+Koch 
+Investition, Finanzierung und Steuern 
+ 
+P 
+Pflicht 
+Hogreve 
+Digital and Sustainable Business Models 
+ 
+P 
+Economics 
+ 
+ 
+Pflicht 
+Waldinger 
+Einführung in die VWL: Staat, Wirtschaft und 
+Gesellschaft 
+P 
+P 
+Pflicht 
+Danzer 
+Mikroökonomie 
+P 
+P 
+Pflicht 
+Langenmayr 
+Öffentliche Finanzen und Nachhaltige Wirt-
+schaftspolitik 
+P 
+ 
+Pflicht 
+Weber 
+Makroökonomie 
+P 
+ 
+Analytische Kompetenzen 
+ 
+ 
+Pflicht 
+Grothmann 
+Mathematik für Wirtschaftswissenschaftler 
+P 
+P 
+Pflicht 
+Küsters 
+Deskriptive Statistik und Wahrscheinlichkeits-
+theorie 
+P 
+P 
+Pflicht 
+Küsters 
+Induktive und multivariate Statistik 
+P 
+P 
+Soft skills 
+ 
+ 
+Pflicht 
+Diederich 
+Wirtschaftssprache I 
+P 
+P 
+Pflicht 
+Diederich 
+Wirtschaftssprache II 
+P 
+P 
+ 
+Die folgenden (Wahl-)Pflichtmodule sind studiengangspezifisch: 
+ 
+Ethik & Gesellschaft 
+Pflicht 
+Langenmayr Ringvorlesung Nachhaltige Wirtschaft 
+Pflicht 
+Weber 
+Umweltökonomik & Umweltpolitik 
+Business 
+Pflicht 
+Matta 
+Innovating for Sustainability: Frameworks and Practices 
+from Global and Local Organizations 
+Pflicht 
+Pechlaner 
+Sustainable Entrepreneurship 
+Economics 
+
+[Page 17]
+Status V2/2025_12 
+ 
+ 
+ 
+17 
+Pflicht 
+Danzer 
+Sustainable Development 
+Pflicht 
+Waldinger 
+The Economics of Climate Change and Sustainability: In-
+sights for Policy and Business 
+Soft Skills 
+Pflicht 
+Langenmayr Wissenschaftliche Schlüsselqualifikationen 
+Innovatives Modul 
+Pflicht 
+Danzer 
+Forschungsprojekt Nachhaltigkeit 
+ 
+ 
+ 
+ 
+
+[Page 18]
+Status V2/2025_12 
+ 
+ 
+ 
+18 
+Anlage: Übersicht über die Vertiefungsrichtungen 
+ 
+ 
+ 
+Vertiefungsrichtung Reporting, Taxes, and Sustainability 
+............................................ 18 
+Vertiefungsrichtung Economics and Finance for a Sustainable Economy 
+.................... 19 
+Vertiefungsrichtung Customer Experience, Digital Systems, and Operations for a 
+Sustainable World 
+...................................................................................................... 19 
+Vertiefungsrichtung Spaces and Politics for Sustainable Futures ................................ 20 
+Vertiefungsrichtung Transformative Skills for Sustainable Futures ............................... 21 
+ 
+ 
+Vertiefungsrichtung 
+Reporting, Taxes, and Sustainability 
+ 
+Kurzbeschreibung 
+Zielgruppe: Die Berichterstattung eines Unternehmens über ökonomische, ökologische 
+und gesellschaftliche Aspekte (Nachhaltigkeitsberichterstattung) gewinnt als Bestandteil 
+der Publizität über den Unternehmenserfolg und die Unternehmensentwicklung zuneh-
+mend an Bedeutung. Auch im Rahmen der Steuerpolitik rücken Fragen der Nachhaltigkeit 
+immer mehr in den Vordergrund. Hier geht es beispielsweise um die Frage, wie durch die 
+Besteuerung Umweltschutz gefördert werden kann, aber auch wie ein fairer Wettbewerb 
+zwischen verschiedenen Unternehmen durch die Besteuerung gewährleistet werden 
+kann. Diese Vertiefung richtet sich an Studierende, die sich für diese Schnittstelle zwi-
+schen der Erfolgsermittlung der Berichterstattung und der Besteuerung von Unterneh-
+men sowie der Nachhaltigkeit interessieren. 
+Lernziele: Studierende erwerben in diesem Schwerpunkt vertiefte Kenntnisse über die 
+Erfolgsermittlung, die Bilanzierung und die Besteuerung von Unternehmen. Studierende 
+lernen ferner, welche Rolle Nachhaltigkeitsfragen bei der Erfolgsermittlung, den Unter-
+nehmensberichten sowie der Besteuerung von Unternehmen spielen und lernen, welche 
+Konsequenzen für das unternehmerische Handeln hiermit verbunden sind. 
+Berufliche Betätigungsfelder: Neben allgemeinen Tätigkeiten im Rechnungswesen, im 
+Controlling sowie in der Wirtschaftsprüfung oder Steuerberatung qualifizieren sich Stu-
+dierende insbesondere für berufliche Tätigkeiten in der Nachhaltigkeitsberatung und 
+Nachhaltigkeitsberichterstattung. Weitere potenzielle Tätigkeitsfelder bieten sich in Insti-
+tutionen und politischen Einrichtungen (z.B. OECD, UN, BDI, Ministerien). 
+ 
+
+[Page 19]
+Status V2/2025_12 
+ 
+ 
+ 
+19 
+ 
+Vertiefungsrichtung 
+Economics and Finance for a Sustainable Economy 
+ 
+Kurzbeschreibung 
+Zielgruppe: Wie können Finanzmärkte, politische Institutionen, Wirtschafts- und Geldpo-
+litik zu einer neuen, nachhaltigen Wirtschaftsordnung beitragen? Was bedeutet es, in 
+„nachhaltige“ oder „grüne“ Finanzanlagen zu investieren? (Wie) Müssen Märkte reguliert 
+werden, um nachhaltiger zu werden? Ist es möglich, dass Entwicklungsländer wirtschaft-
+lich aufholen, ohne im gleichen Maß zu Klimawandel und Umweltschäden beizutragen, 
+wie es bei den heutigen Industriestaaten historisch der Fall war? Und welche Rolle spielt 
+Bildung für eine nachhaltige wirtschaftliche Entwicklung? Mit diesen und verwandten Fra-
+gen beschäftigen sich Studierende in der Vertiefung Economics and Finance for a 
+Sustainable Economy. 
+Lernziele: In dieser Vertiefung werden Studierende befähigt, zu analysieren und zu beur-
+teilen, inwiefern wirtschafts- und geldpolitische Rahmenbedingungen sowie Kapital-
+märkte die Wirtschaft beeinflussen und zu einer nachhaltigen wirtschaftlichen Entwicklung 
+beitragen können. Durch das Studium der Vertiefung werden Studierende in die Lage 
+versetzt, neue Sachverhalte zu analysieren, eigenständige Datenanalysen durchzuführen 
+und die vielfältigen Interaktionen zwischen Finanzmärkten, Volkswirtschaft und Nachhal-
+tigkeitszielen sinnvoll zu bewerten. 
+Berufliche Betätigungsfelder: Studierende der Vertiefungsrichtung werden auf eine zu-
+künftige Karriere an der Schnittstelle zwischen Finanzmärkten, Wirtschaftspolitik und 
+Nachhaltigkeit vorbereitet. Die möglichen Berufsfelder sind divers und reichen von einer 
+Tätigkeit als Analyst im Bereich Sustainable Finance, über die Strategieabteilung von 
+NGOs oder strategischen Tätigkeiten in der Entwicklungszusammenarbeit bis hin zur Ar-
+beit in Ministerien bzw. anderen Behörden. Die Vertiefung ermöglicht zudem die Auf-
+nahme eines einschlägigen Masterstudiums. 
+ 
+ 
+Vertiefungsrichtung 
+Customer Experience, Digital Systems, and Operations for a Sus-
+tainable World 
+ 
+Kurzbeschreibung 
+Zielgruppe: Im Zuge der Entwicklung und Anwendung von (digitalisierten) Dienstleistungs-
+angeboten sowie in den Funktionsbereichen Produktion, Logistik und Supply Chain Ma-
+nagement global agierender Unternehmen werden zunehmend Fragen nach einer res-
+sourcenschonenden und sozial-verantwortungsvollen Unternehmensentwicklung laut. 
+Ziel der Vertiefung Customer Experience, Digital Systems, and Operations for a 
+Sustainable World ist es, Studierende im Hinblick auf diese Fragen zu sensibilisieren so-
+wie Möglichkeiten zu ihrer Lösung zu erörtern. 
+
+[Page 20]
+Status V2/2025_12 
+ 
+ 
+ 
+20 
+Die interdisziplinäre Ausrichtung des Schwerpunkts ermöglicht es, derartige Nachhaltig-
+keitsprojekte zielgerichtet zu bearbeiten und erfolgreich umzusetzen. Beispielsweise er-
+fordert die Entwicklung und der Betrieb nachhaltiger Mobilitätskonzepte eine an den Er-
+wartungen der Kundenbedürfnisse gestaltete Dienstleistung, eine softwaretechnische Im-
+plementierung der digitalen Prozesse sowie eine ressourcenschonende Gewährleistung 
+der physischen Logistik. Der Schwerpunkt richtet sich daher vor allem an Studierende 
+mit einem ausgeprägten Interesse an einer nachhaltigen, ressourcenschonenden und so-
+zial-verantwortungsvollen Gestaltung digitalisierter Dienstleistungssysteme, moderner 
+Mobilitäts- und Logistikkonzepte sowie globalisierter Produktions- und Versorgungssys-
+teme. 
+Lernziele: 
+• Verständnis über die Bedeutung von (digitalisierten) Dienstleistungen sowie von 
+Produktion, Logistik und Supply Chain Management im Rahmen einer nachhalti-
+gen, ressourcenschonenden und sozial-verantwortungsvollen Unternehmensent-
+wicklung. 
+• Verständnis und Modellierung von Prozessen im Bereich Produktion, Logistik und 
+Supply Chain Management sowie die Möglichkeiten der nachhaltigen Gestaltung. 
+• Verständnis und Modellierung digitaler Systeme und deren softwareseitige Umset-
+zung. 
+• Verständnis über die Gestaltung digitaler Dienstleistungen und die Steigerung der 
+Akzeptanz durch ein zielgerichtetes Kundenerlebnis. 
+• Bewertung der Nachhaltigkeit der verschiedenen Konzepte. 
+Berufliche Betätigungsfelder: Die Interdisziplinarität eröffnet ein breites Spektrum an be-
+ruflichen Tätigkeitsfeldern. Im öffentlichen Sektor bieten sich sowohl in den Bereichen 
+Mobilität, Dienstleistung, Digitalisierung als auch im Bereich der Öffentlichkeitsarbeit und 
+Marketing die Möglichkeiten, an der Entwicklung, Umsetzung und Vermarktung dieser 
+Angebote mitzuwirken. Entsprechende Möglichkeiten bieten sich auch bei NGOs, wo der 
+Anwendungsbereich sich neben der Mobilität auf weitere Bereiche ausweitet. In der In-
+dustrie und im Dienstleistungssektor bietet der Schwerpunkt die Chance, als Marketing-
+manager oder -managerin, als Logistiker oder Logistikerin, als Supply Chain Manager 
+bzw. Managerin oder an der Schnittstelle zur IT tätig zu werden. Die vermittelten Inhalte 
+und Kompetenzen im Schwerpunkt eröffnen den Absolventinnen und Absolventen des 
+Schwerpunkts beste Voraussetzungen, um ihr Wissen – je nach Neigung und Interesse 
+– in ganz unterschiedlichen Master-Studienprogrammen zu ergänzen und zu vertiefen. 
+ 
+ 
+Vertiefungsrichtung 
+Spaces and Politics for Sustainable Futures 
+ 
+Kurzbeschreibung 
+Zielgruppe: Die Vertiefungsrichtung richtet sich an Studierende, die ein Interesse an der 
+Beschreibung, Analyse und Erklärung von wirtschaftlichen Tätigkeiten in Verbindung mit 
+
+[Page 21]
+Status V2/2025_12 
+ 
+ 
+ 
+21 
+den hierfür relevanten sozio-institutionellen Kontexten sowie den Implikationen für die na-
+türliche Umwelt auf unterschiedlichen Maßstabsebenen haben. Sie wird von Vertretern 
+der der Wirtschafts- bzw. Humangeographie sowie den Politikwissenschaften getragen 
+und ist entsprechend interdisziplinär angelegt. 
+Lernziele: Zentrales Anliegen der Vertiefungsrichtung ist, ein kontextabhängiges, vernetz-
+tes Verständnis für regionale Entwicklungspfade und die Mobilität von Gütern, Personen, 
+Informationen und Kapital zu vermitteln und so unsere Kompetenz zu schärfen, der zu-
+nehmenden Komplexität wirtschaftlicher Strukturen und gesellschaftlicher Herausforde-
+rungen in einer uneven world angemessen zu begegnen. Dabei wird eine ganze Reihe 
+von Denkstilen vorgestellt, die in ihrer Heterogenität in einem durchaus produktiven Ver-
+hältnis zueinander stehen. Innerhalb dieser Denkstile werden spezifische Theorien, Mo-
+delle und Methoden behandelt, die sich u.a. mit folgenden Fragen auseinandersetzen: 
+Wie ist zu erklären, dass sowohl in unserer Welt insgesamt als auch innerhalb der aller-
+meisten Länder nach wie vor so ausgeprägte Einkommens- und Wohlstandsunterschiede 
+existieren – trotz umfangreicher Transfermaßnahmen? Welche Möglichkeiten gibt es, 
+diese Ungerechtigkeiten der global integrierten Wirtschaft zu reduzieren und ein höheres 
+Maß an ökologischer Nachhaltigkeit zu erreichen? 
+Berufliche Betätigungsfelder: Angesichts der interdisziplinären Orientierung dürfte sich die 
+Bandbreite möglicher beruflicher Betätigungsfelder für Absolvent*innen dieser Vertie-
+fungsrichtung über den privatwirtschaftlichen Bereich hinaus vergrößern, mit Beschäfti-
+gungsmöglichkeiten etwa auch bei Einrichtungen der öffentlichen Hand (z.B. Planungs-
+verbände) oder anderen nationalen und internationalen Regierungs- (Ministerien u.ä.) und 
+Nichtregierungsorganisationen. 
+ 
+ 
+Vertiefungsrichtung 
+Transformative Skills for Sustainable Futures 
+ 
+Kurzbeschreibung 
+Zielgruppe: Die Vertiefungsrichtung „Transformative Skills for Sustainable Futures“ im 
+Studiengang Sustainability in Business and Economics richtet sich an Studierende, die 
+sich mit den Dimensionen sozial-ökologischer Transformationen auseinandersetzen und 
+Kompetenzen für eine zukunftsfähige Gesellschaft entwickeln möchten. Angesprochen 
+werden besonders jene, die kritische Reflexion, selbstorganisiertes Problemlösen und 
+eine interdisziplinäre Perspektive schätzen, um ökologische, gesellschaftliche und öko-
+nomische Entwicklungen mit menschlichen Werten und Zukunftsvisionen zu verknüpfen. 
+Sie wird von der School of Transformation and Sustainability getragen und ist interdiszip-
+linär angelegt. 
+Lernziele: Welche transformativen Fähigkeiten brauchen wir für eine nachhaltige Entwick-
+lung? Wie können Lernräume zur kritischen Reflexion von nicht-nachhaltigen Wahrneh-
+mungs-, Denk- und Handlungs-Mustern geschaffen werden? Welche Rahmenbedingun-
+gen und Einstellungen helfen dabei, selbstorganisiert komplexe Probleme zu lösen und 
+handlungsfähig zu sein? Mit diesen Fragen setzen sich Studierende in der Vertiefungs-
+richtung „Transformative Skills for Sustainable Futures“ auseinander. Ziel ist es, die Ver-
+wobenheit unterschiedlicher Dimensionen sozial-ökologischer Transformationen zu ver-
+stehen und Kompetenzen für die Gestaltung einer lebenswerten Zukunft zu erwerben. 
+
+[Page 22]
+Status V2/2025_12 
+ 
+ 
+ 
+22 
+Auf inter- und transdisziplinäre Weise lernen Sie ökologische, gesellschaftliche und öko-
+nomische Entwicklungen mit Fragen der menschlichen Werte und des guten Lebens zu 
+verknüpfen. Dazu wird Bezug genommen auf Future Skills und auf eine Bildung für nach-
+haltige Entwicklung, auf Sustainable Development Goals (SDGs) und Inner Development 
+Goals (IDGs) sowie auf Konzepte der Futures Literacy und des transformativen Lernens. 
+Charakteristisch für die Vertiefung ist eine inspirierende und sinnstiftende Lernumgebung 
+jenseits klassischer Studienformate. 
+Berufliche Betätigungsfelder: Die ineinander verwobenen Transformationsprozesse füh-
+ren zu einer steigenden Nachfrage nach interdisziplinär ausgebildeten Fach- und Füh-
+rungskräften, die in nationalen und internationalen Organisationen, in NGOs und öffentli-
+chen Verwaltungen, in Bildungseinrichtungen und Unternehmen nachhaltige und gemein-
+schaftliche Lernprozesse begleiten können. Die vermittelten Kompetenzen bereiten auf 
+Tätigkeiten in Bereichen wie Bildung für nachhaltige Entwicklung (BNE, SDGs), Nachhal-
+tigkeitsmanagement, Inner Development Goals und transformative Forschung vor.

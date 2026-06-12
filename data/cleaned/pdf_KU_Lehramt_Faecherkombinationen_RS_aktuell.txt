@@ -1,0 +1,69 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/KU_Lehramt_Faecherkombinationen_RS_aktuell.pdf
+TITLE: KU_Lehramt_Faecherkombinationen_RS_aktuell.pdf
+SOURCE_FILE: KU_Lehramt_Faecherkombinationen_RS_aktuell.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Lehramt Realschule 
+Fächerkombinationsmöglichkeiten an der KU 
+ 
+Unterrichtsfach 1 
+Unterrichtsfach 2 
+Deutsch 
+Englisch*** 
+Französisch 
+Geographie 
+Geschichte 
+Kunst** 
+Mathematik 
+Musik** 
+Katholische Religionslehre 
+ 
+Englisch*** 
+Ethik 
+Französisch 
+Geographie 
+Geschichte 
+Kunst** 
+Mathematik 
+Musik** 
+Psychologie mit schulpsychologischem Schwerpunkt* 
+Katholische Religionslehre 
+ 
+Ethik 
+Mathematik 
+ 
+Französisch 
+Geographie 
+ 
+Mathematik 
+Kunst** 
+Musik** 
+Psychologie mit schulpsychologischem Schwerpunkt* 
+Katholische Religionslehre 
+ 
+Musik** 
+Katholische Religionslehre 
+ 
+* Zulassungsbeschränkung – fristgerechte Bewerbung erforderlich 
+** Eignungsprüfung – fristgerechte Anmeldung erforderlich 
+*** Eignungsfeststellungsverfahren – fristgerechte Anmeldung erforderlich 
+ 
+Erweiterungen (ab dem dritten Fachsemester): 
+- 
+weiteres Unterrichtsfach 
+- 
+Beratungslehrkraft 
+- 
+Deutsch als Zweitsprache (nur als nachträgliche Erweiterung möglich) 
+- 
+fremdsprachliche Qualifikation (nur als nachträgliche Erweiterung möglich) 
+- 
+Psychologie mit schulpsychologischem Schwerpunkt* 
+(nur als nachträgliche Erweiterung möglich) 
+ 
+Bei Fragen wenden Sie sich bitte an die Studierendenberatung der KU 
+(studierendenberatung@ku.de). 
+ 
+Grundlage: § 39 LPO I; Stand 05 / 2025

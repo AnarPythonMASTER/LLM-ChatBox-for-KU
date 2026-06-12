@@ -1,0 +1,364 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_BA_Sprachen_und_Kulturen_Europas.pdf
+TITLE: Wahlpflichtkatalog_BA_Sprachen_und_Kulturen_Europas.pdf
+SOURCE_FILE: Wahlpflichtkatalog_BA_Sprachen_und_Kulturen_Europas.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+BA Sprachen und Kulturen Europas 
+ 
+1. nach § 6 der Prüfungsordnung 7. Juli 2015 in der Fassung vom 04.09.2025 
+2. Geltungsbereich zum Wintersemester 2025/26 
+ 
+3. vom Fakultätsrat der Sprach- und Literaturwissenschaftlichen Fakultät beschlossen 
+am 11.06.2025 
+ 
+ 
+Auflistung der Wahlpflichtmodule 
+In der PO verankerte Wahlpflichtbereiche: 
+1. Philologischer Wahlpflichtbereich 
+ 
+2. Sprachpraktischer Wahlpflichtbereich 
+ 
+ 
+ 
+1. Modulangebot im Philologischen Wahlpflichtbereich (gemäß PO §6 Abs.2) 
+ 
+Von den folgenden Modulen muss ein Modul – entweder aus der Literatur- oder aus 
+der Sprachwissenschaft – gewählt werden: 
+ 
+Literaturwissenschaftliche Module: 
+Philologie 1: Anglistik / Amerikanistik 
+• Literary and Cultural History I: American Studies; 5 ECTS-Punkte; Modulprüfung: 
+siehe FPO Anglistik 
+• Literary and Cultural History I: English Literary Studies; 5 ECTS-Punkte; 
+Modulprüfung: siehe FPO Anglistik 
+• Literature and Media (Bachelormodul); 5 ECTS-Punkte; Modulprüfung: siehe 
+FPO Anglistik 
+• Literature and Other Discourses (Bachelormodul); 5 ECTS-Punkte; 
+Modulprüfung: siehe FPO Anglistik 
+ 
+Philologie 2: Romanistik 
+• Basismodul I: Französischsprachige Literatur des 19.-21. Jahrhunderts; 5 ECTS-
+Punkte; Voraussetzung für die Teilnahme: Einführung in die Literatur- und 
+Kulturwissenschaft für Europastudierende; Modulprüfung: siehe FPO Romanistik 
+• Basismodul I: Italienischsprachige Literatur des 19.-21. Jahrhunderts; 5 ECTS-
+Punkte; Voraussetzung für die Teilnahme: Einführung in die Literatur- und 
+Kulturwissenschaft für Europastudierende; Modulprüfung: siehe FPO Romanistik 
+• Basismodul I: Spanischsprachige Literatur des 19.-21. Jahrhunderts; 5 ECTS-
+Punkte; Voraussetzung für die Teilnahme: Einführung in die Literatur- und 
+Kulturwissenschaft für Europastudierende; Modulprüfung: siehe FPO Romanistik 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+• Vertiefungsmodul I: Analyse von Text, Film und anderen Medien (Französisch); 5 
+ECTS-Punkte; Modulprüfung: siehe FPO Romanistik 
+• Vertiefungsmodul I: Analyse von Text, Film und anderen Medien (Italienisch); 5 
+ECTS-Punkte; Modulprüfung: siehe FPO Romanistik 
+• Vertiefungsmodul I: Analyse von Text, Film und anderen Medien 
+(Spanisch/Lateinamerika); 5 ECTS-Punkte; Modulprüfung: siehe FPO Romanistik 
+• Erweiterungsmodul I: Literaturen der Romania: Gattungen, Epochen, 
+Fragestellungen (Französisch); 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik 
+• Erweiterungsmodul I: Literaturen der Romania: Gattungen, Epochen, 
+Fragestellungen (Italienisch); 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik 
+• Erweiterungsmodul I: Literaturen der Romania: Gattungen, Epochen, 
+Fragestellungen (Spanisch/Lateinamerika); 5 ECTS-Punkte; Modulprüfung: siehe 
+FPO Romanistik 
+ 
+Philologie 3: Germanistik 
+• NdL Textanalyse; 5 ECTS-Punkte; Modulprüfung: siehe FPO Germanistik 
+• NdL Literatur und Neue Medien; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Germanistik 
+• NdL Literaturgeschichte 1; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Germanistik 
+• ÄdL Literaturgeschichte; 5 ECTS-Punkte: Modulprüfung: siehe FPO Germanistik 
+ 
+Philologie 4: Klassische Philologie 
+• Grundfragen der lateinischen Literatur II; 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe FPO Latein 
+• Aufbaumodul Lateinische Literatur und Literaturwissenschaft II; 5 ECTS-Punkte; 
+Anwesenheitspflicht, Modulprüfung: siehe FPO Latein 
+• Griechische Literatur und Literaturwissenschaft I; 5 ECTS-Punkte; 
+Anwesenheitspflicht; Modulprüfung: siehe FPO Latein 
+• Griechische Literaturgeschichte I; 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Latein 
+• Griechische Literaturgeschichte II; 5 ECTS-Punkte, Modulprüfung: siehe FPO 
+Latein 
+ 
+• Projektmodul: Interdisziplinäre Forschung; 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe FPO Latein 
+ 
+Sprachwissenschaftliche Module: 
+Philologie 1: Anglistik 
+• Language Structure and Use; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Anglistik 
+• Advanced Linguistics I; 5 ECTS-Punkte; siehe FPO Anglistik 
+• Language History; 5 ECTS-Punkte; siehe FPO Anglistik 
+ 
+ 
+Philologie 2: Romanistik 
+
+[Page 3]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+• Basismodul Synchronie Französisch; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik (unbenotet) 
+• Basismodul Synchronie Italienisch; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik (unbenotet) 
+• Basismodul Synchronie Spanisch; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik (unbenotet) 
+• Aufbaumodul Synchronie Französisch; 5 ECTS-Punkte; Voraussetzung: 
+erfolgreiche Teilnahme am Basismodul Synchronie Französisch oder 
+Kompaktmodul Synchronie Französisch; Modulprüfung: siehe FPO Romanistik, 
+freiwillige mündliche Prüfung oder freiwilliges Portfolio oder freiwillige Klausur 
+• Aufbaumodul Synchronie Italienisch; 5 ECTS-Punkte; Voraussetzung: 
+erfolgreiche Teilnahme am Basismodul Synchronie Italienisch oder 
+Kompaktmodul Synchronie Italienisch; Modulprüfung: siehe FPO Romanistik, 
+freiwillige mündliche Prüfung oder freiwilliges Portfolio oder freiwillige Klausur 
+• Aufbaumodul Synchronie Spanisch; 5 ECTS-Punkte; Voraussetzung: 
+erfolgreiche Teilnahme am Basismodul Synchronie Spanisch oder 
+Kompaktmodul Synchronie Spanisch; Modulprüfung: siehe FPO Romanistik, 
+freiwillige mündliche Prüfung oder freiwilliges Portfolio oder freiwillige Klausur 
+• Basismodul Diachronie Französisch; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik 
+• Basismodul Diachronie Italienisch; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik 
+• Basismodul Diachronie Spanisch; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik 
+• Sprachwissenschaftliche Methoden (Französisch); 5 ECTS-Punkte; 
+Modulprüfung: siehe FPO Romanistik 
+• Sprachwissenschaftliche Methoden (Italienisch); 5 ECTS-Punkte; Modulprüfung: 
+siehe FPO Romanistik 
+• Sprachwissenschaftliche Methoden (Spanisch); 5 ECTS-Punkte; Modulprüfung: 
+siehe FPO Romanistik 
+ 
+Philologie 3: Germanistik 
+• DSpW Sprachstruktur 1; 5 ECTS-Punkte; Modulprüfung: siehe FPO Germanistik 
+• DSpW Sprachgeschichte 1; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Germanistik 
+• DSpW Sprachverwendung 1; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Germanistik 
+• DSpW Sprachvariation 1; 5 ECTS-Punkte; Modulprüfung: siehe FPO Germanistik 
+ 
+ 
+ 
+2. Modulangebot im sprachpraktischen Wahlpflichtbereich (gemäß PO § 6 Abs. 3) 
+ 
+Von den folgenden Modulen müssen vier Module in einer der Sprachen Englisch, 
+Französisch, Italienisch oder Spanisch mindestens mit der Eingangsvoraussetzung 
+auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens absolviert 
+werden: 
+ 
+Englisch 
+
+[Page 4]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+• Grammatik und Wortschatz I (Englisch); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe FPO Anglistik (unbenotet) 
+• Textproduktion und Stilistik I (Englisch); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe FPO Anglistik 
+• Sprachmittlung I und Aussprache (Englisch); 5 ECTS-Punkte; Anwesenheits-
+pflicht; Modulprüfung: siehe FPO AnglistikLandeskunde/Kulturwissenschaft und 
+Sprechfertigkeit I (Englisch); 5 ECTS-Punkte; Anwesenheitspflicht; Modulprüfung: 
+siehe FPO Anglistik 
+• Grammatik und Wortschatz II; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Anglistik 
+• Textproduktion und Stilistik II; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Anglistik 
+ 
+• Sprachmittlung II; 5 ECTS-Punkte; Modulprüfung: siehe FPO Anglistik 
+ 
+• Landeskunde/Kulturwissenschaft und Sprechfertigkeit II; 5 ECTS-Punkte; 
+Modulprüfung: siehe FPO Anglistik 
+ 
+• Current Affairs in English Language Media; 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe FPO Anglistik 
+• English Communication in a Globalized World; 5 ECTS-Punkte; Modulprüfung: 
+siehe FPO Anglistik 
+• Geschäftskommunikation und Öffentlichkeitsarbeit: English for Business and 
+Public Relations; 5 ECTS-Punkte; Anwesenheitspflicht; Modulprüfung: siehe FPO 
+Anglistik 
+• Integrated Language Skills; 5 ECTS-Punkte; Modulprüfung: Klausur oder 
+Portfolio oder Projektarbeit mit Präsentation 
+• English Advanced; 5 ECTS-Punkte; Modulprüfung: Klausur 
+• Academic Writing; 5 ECTS-Punkte; Modulprüfung: siehe FPO Anglistik 
+ 
+Französisch 
+• Grammatik und Wortschatz I (Französisch); 5 ECTS-Punkte; Anwesenheits-
+pflicht; Modulprüfung: siehe FPO Romanistik (unbenotet) 
+• Textproduktion und Stilistik I (Französisch); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe FPO Romanistik 
+• Sprachmittlung I und Aussprache (Französisch); 5 ECTS-Punkte; Anwesenheits-
+pflicht; Modulprüfung: siehe FPO Romanistik 
+• Landeskunde/Kulturwissenschaft I (Französisch); 5 ECTS-Punkte; Anwesenheits-
+pflicht; Modulprüfung: siehe FPO Romanistik 
+• Grammatik und Wortschatz II (Französisch); 5 ECTS-Punkte; Modulprüfung: 
+siehe FPO Romanistik 
+• Textproduktion und Stilistik II (Französisch); 5 ECTS-Punkte; Modulprüfung: 
+siehe FPO Romanistik 
+• Sprachmittlung II (Französisch); 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik 
+• Landeskunde/Kulturwissenschaft II (Französisch); 5 ECTS-Punkte; 
+Modulprüfung: siehe FPO Romanistik 
+
+[Page 5]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+• Culture, société et médias dans la France contemporaine; 5 ECTS-Punkte; 
+Modulprüfung: Portfolio (2.500 – 3.000 Wörter nach vorgegebener Gliederung) 
+oder Projektarbeit oder (Gruppen-)Moderation 
+• Kommunikation im interkulturellen Kontext: Compétence communicative en 
+contexte interculturel; 5 ECTS-Punkte; Anwesenheitspflicht; Modulprüfung: siehe 
+FPO Romanistik 
+ 
+Italienisch 
+• Grammatik und Wortschatz I (Italienisch); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe FPO Romanistik (unbenotet) 
+• Textproduktion und Stilistik I (Italienisch); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe FPO Romanistik 
+• Sprachmittlung I und Aussprache (Italienisch); 5 ECTS-Punkte; Anwesenheits-
+pflicht; Modulprüfung: siehe FPO Romanistik 
+• Landeskunde/Kulturwissenschaft I (Italienisch); 5 ECTS-Punkte; Anwesenheits-
+pflicht; Modulprüfung: siehe FPO Romanistik 
+• Grammatik und Wortschatz II (Italienisch); 5 ECTS-Punkte; Modulprüfung: siehe 
+FPO Romanistik 
+• Textproduktion und Stilistik II (Italienisch); 5 ECTS-Punkte; Modulprüfung: siehe 
+FPO Romanistik 
+• Sprachmittlung II (Italienisch); 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik 
+• Landeskunde/Kulturwissenschaft II (Italienisch); 5 ECTS-Punkte; Modulprüfung: 
+siehe FPO Romanistik 
+ 
+Spanisch 
+• Grammatik und Wortschatz I (Spanisch); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe FPO Romanistik (unbenotet) 
+• Textproduktion und Stilistik I (Spanisch); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe FPO Romanistik 
+• Sprachmittlung I und Aussprache (Spanisch); 5 ECTS-Punkte; Anwesenheits-
+pflicht; Modulprüfung: siehe FPO Romanistik 
+• Landeskunde/Kulturwissenschaft I (Spanisch); 5 ECTS-Punkte; Anwesenheits-
+pflicht; Modulprüfung: siehe FPO Romanistik 
+• Grammatik und Wortschatz II (Spanisch); 5 ECTS-Punkte; Modulprüfung: siehe 
+FPO Romanistik 
+• Textproduktion und Stilistik II (Spanisch); 5 ECTS-Punkte; Modulprüfung: siehe 
+FPO Romanistik 
+• Sprachmittlung II (Spanisch), 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik 
+• Landeskunde/Kulturwissenschaft II (Spanisch); 5 ECTS-Punkte; Modulprüfung: 
+siehe FPO Romanistik 
+• Geschäftskommunikation und Öffentlichkeitsarbeit: Español de la empresa: 
+negocios y communicación externa; 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe FPO Romanistik 
+• Kommunikation im interkulturellen Kontext: Competencia comunicativa en 
+contextos interculturales; 5 ECTS-Punkte; Anwesenheitspflicht; Modulprüfung: 
+siehe FPO Romanistik 
+
+[Page 6]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+• Periodismo online: La Prensa; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik 
+• Periodismo online: Medios audiovisuales; 5 ECTS-Punkte, Modulprüfung: siehe 
+FPO Romanistik 
+• Oberstufenmodul Spanisch; 5 ECTS-Punkte; Modulprüfung: siehe FPO 
+Romanistik 
+• Intensivkurs Spanisch 3; 5 ECTS-Punkte; Anwesenheitspflicht; Modulprüfung: 
+siehe Modulkatalog Sprachenzentrum 
+ 
+ 
+Von den folgenden Modulen sind vier bzw. zweimal zwei Module in einer weiteren der 
+bereits genannten Sprachen, Russisch oder einer weiteren modernen Fremdsprache 
+ohne Eingangsvoraussetzungen zu belegen. Dabei können die oben genannten 
+Module oder die hier aufgelisteten Module gewählt werden, je nachdem, ob die 
+Sprache neu begonnen wird oder bereits Vorkenntnisse vorhanden sind: 
+ 
+Französisch 
+• Französisch 1 (Moderne Fremdsprache 1); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Französisch 2 (Moderne Fremdsprache 2); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Französisch 3 (Moderne Fremdsprache 3); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Französisch 4 (Moderne Fremdsprache 4); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+ 
+Italienisch 
+• Italienisch 1 (Moderne Fremdsprache 1); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Italienisch 2 (Moderne Fremdsprache 2); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Italienisch 3 (Moderne Fremdsprache 3); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Italienisch 4 (Moderne Fremdsprache 4); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+ 
+Spanisch 
+• Spanisch 1 (Moderne Fremdsprache 1); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Spanisch 2 (Moderne Fremdsprache 2); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Spanisch 3 (Moderne Fremdsprache 3); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Spanisch 4 (Moderne Fremdsprache 4); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+ 
+Russisch 
+• Russisch 1 (Moderne Fremdsprache 1); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+
+[Page 7]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+• Russisch 2 (Moderne Fremdsprache 2); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Russisch 3 (Moderne Fremdsprache 3); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Russisch 4 (Moderne Fremdsprache 4); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+ 
+Portugiesisch 
+• Portugiesisch 1 (Moderne Fremdsprache 1); 5 ECTS-Punkte; 
+Anwesenheitspflicht; Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Portugiesisch 2 (Moderne Fremdsprache 2); 5 ECTS-Punkte; 
+Anwesenheitspflicht; Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Portugiesisch 3 (Moderne Fremdsprache 3); 5 ECTS-Punkte; 
+Anwesenheitspflicht; Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Portugiesisch 4 (Moderne Fremdsprache 4); 5 ECTS-Punkte; 
+Anwesenheitspflicht; Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+ 
+Schwedisch 
+• Schwedisch 1; 5 ECTS-Punkte; Modulprüfung: Klausur 
+• Schwedisch 2; 5 ECTS-Punkte; Modulprüfung: Klausur 
+ 
+Polnisch 
+• Polnisch 1 (Moderne Fremdsprache 1); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Polnisch 2 (Moderne Fremdsprache 2); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+ 
+Türkisch 
+• Türkisch 1 (Moderne Fremdsprache 1); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+• Türkisch 2 (Moderne Fremdsprache 2); 5 ECTS-Punkte; Anwesenheitspflicht; 
+Modulprüfung: siehe Modulkatalog Sprachenzentrum 
+ 
+Deutsch als Fremdsprache 
+• Wissenschaftliches Arbeiten und Schreiben (für internationale Studierende); 5 
+ECTS-Punkte; Modulprüfung: Portfolio (ca. 2.000 Wörter nach vorgegebener 
+Gliederung) oder Klausur (min. 60 Minuten, max. 90 Minuten) 
+• Theater spielend Deutsch lernen; 5 ECTS-Punkte; Modulprüfung: Portfolio 
+(ca. 2.000 Wörter nach vorgegebener Gliederung), Projektarbeit oder 
+Aufführung 
+• Deutsche Landeskunde nach ´45; 5 ECTS-Punkte; Modulprüfung: Klausur 
+oder Portfolio (ca. 2.000 Wörter nach vorgegebener Gliederung) oder 
+mündliche Prüfung 
+ 
+Weitere moderne Fremdsprachen können nach Rücksprache mit der 
+Studiengangleitung der BA Sprachen und Kulturen Europas und der Leitung des 
+Sprachenzentrums gewählt werden.

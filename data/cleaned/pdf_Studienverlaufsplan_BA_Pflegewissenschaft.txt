@@ -1,0 +1,132 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BA_Pflegewissenschaft.pdf
+TITLE: Studienverlaufsplan_BA_Pflegewissenschaft.pdf
+SOURCE_FILE: Studienverlaufsplan_BA_Pflegewissenschaft.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anlage 2 zur Studien- und Prüfungsordnung für den berufsbegleitenden Bachelorstudiengang Pflegewissenschaft B.Sc. – Idealtypischer Studienverlaufsplan 
+ 
+7. Semester 
+M: Schulungsprogramme 
+entwickeln, anwenden, 
+umsetzen 
+ 
+10 CP 
+M: Konzepte für 
+selbstgesteuertes Lernen 
+verstehen und umsetzen 
+ 
+5 CP 
+M: Begleitseminar zur 
+Bachelorarbeit 
+ 
+5 CP 
+M: Bachelorarbeit 
+ 
+10 CP 
+6. Semester 
+M: Erfassen Pflegebedarf, 
+Maßnahmenplanung und 
+Qualitätssicherung 
+ 
+10 CP 
+M: Grundlagen von Wissenstransfer und Praxisforschung 
+ 
+10 CP 
+M: Organisations- und Praxisentwicklung in pflegerischen 
+Settings 
+ 
+10 CP 
+5. Semester 
+M: Analoge- und digitale 
+Pflegedokumentations- 
+und Assistenzsysteme 
+ 
+10 CP 
+M: Diagnostik und Klassifikation komplexer 
+Pflegeprozesse 
+ 
+10 CP 
+M: Migration und 
+Kultursensibilität in der Pflege 
+ 
+5 CP 
+M: Digitalisierung und Technisierung in 
+der Pflege 
+ 
+5 CP 
+4. Semester 
+M: Beratung und 
+Information in der 
+Pflegepraxis 
+ 
+10 CP 
+M: Beratung und Edukation durch Pflege 
+ 
+10 CP 
+M: Grundlagen der Didaktik 
+und Pädagogik für Schulung, 
+Beratung, Anleitung 
+ 
+5 CP 
+M: Praxismodul 2 – Angewandte 
+Verfahren qualitativer Pflegeforschung 
+ 
+5 CP 
+3. Semester 
+M. Grundlagen der 
+Pflegeprozessplanung 
+ 
+10 CP 
+M: Einführung in Pflege- und 
+Versorgungsforschung 
+ 
+10 CP 
+M: Einführung in die 
+Literaturrecherche 
+ 
+5 CP 
+M: Praxismodul 1 – Angewandte 
+Verfahren quantitativer Pflegeforschung 
+ 
+5 CP 
+2. Semester 
+M: Ethische 
+Entscheidungen in der 
+Pflegepraxis 
+ 
+10 CP 
+M: Ethik und 
+Anthropologie Pflege 
+ 
+5 CP 
+M: Grund- und 
+Grenzfragen 
+medizinischer Ethik 
+(Studium.Pro) 
+ 
+5 CP 
+M: Einführung in Methoden der empirischen Sozialforschung 
+ 
+10 CP 
+1. Semester 
+M: Pflege von Menschen 
+aller Altersstufen 
+ 
+10 CP 
+ 
+M: Theoretische Grundlagen professionellen 
+Handelns in der Pflege 
+ 
+10 CP 
+M: Gesundheitspolitische, 
+ökonomische und rechtliche 
+Rahmenbedingungen für 
+Pflege- und Sozialsystem 
+ 
+5 CP 
+M: Techniken für wissenschaftliches 
+Arbeiten und Schreiben 
+ 
+5 CP 
+Grau hinterlegt: Anrechnungsmodule gemäß § 5 Abs. 3 Satz 2

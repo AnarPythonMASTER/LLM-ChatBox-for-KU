@@ -1,0 +1,24 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/PoWi_Interdis_Karriere_und_Beruf.pdf
+TITLE: PoWi_Interdis_Karriere_und_Beruf.pdf
+SOURCE_FILE: PoWi_Interdis_Karriere_und_Beruf.pdf
+------------------------------------------------------------
+
+[Page 1]
+Politikwissenschaft 
+im Interdisziplinären Bachelor- und Masterstudiengang der KU
+Medien 
+und 
+Privatwirtschaft
+Wissenschaft an 
+Universitäten und 
+Forschungsinstituten
+Nationale und 
+internationale 
+Institutionen sowie 
+Organisationen 
+Politikberatung 
+und 
+Politische Bildung 
+Berufsfelder
+Mit dem Fach Politikwissenschaft im interdisziplinären Bachelor- und Masterstudiengang der KU erwerben Sie 
+inhaltliche und methodische Kompetenzen für vielfältige Karrieremöglichkeiten. Zu den Berufsfeldern gehören:

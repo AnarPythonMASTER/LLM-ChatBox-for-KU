@@ -1,0 +1,335 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Info-Mittelschule-11_pdf.pdf
+TITLE: Info-Mittelschule-11_pdf.pdf
+SOURCE_FILE: Info-Mittelschule-11_pdf.pdf
+------------------------------------------------------------
+
+[Page 1]
+Universitätssportzentrum 
+Ostenstraße 26 
+85072 Eichstätt 
+Christina Gscheidl
+Akad. Rätin
+Leiterin des Universitätssportzentrums 
+Telefon ++49 (0)8421/93-21280 
+christina.gscheidl@ku.de 
+www.ku.de 
+Sekretariat ++49 (0)8421/93-21756 
+Universitätssportzentrum 
+Facheinheit Sport 
+Lehramt Mittelschule
+Sportdidaktik 
+Kurzinformation 
+Modulstruktur 
+Modul MS Sport I: 
+V 1: 
+Sportdidaktik 
+1 SWS / 1/2 CP 
+S/Ü 1: Gymnastik/Tanz I 
+1 SWS / 1/2 CP 
+S/Ü 1: Gymnastik/Tanz II 
+1 SWS / 1/2 CP 
+S/Ü 1: Leichtathletik I 
+1 SWS / 1/2 CP 
+S/Ü 1: Leichtathletik II 
+1 SWS / 1/2 CP 
+S/Ü 1: Gerätturnen I 
+1 SWS / 1/2 CP 
+S/Ü 1: Gerätturnen II 
+1 SWS / 1/2 CP 
+S/Ü 1: Schwimmen I 
+1 SWS / 1/2 CP 
+S/Ü 1: Schwimmen II 
+1 SWS / 1/2 CP 
+Vorb. Leistungsprüf. 
+1/2 CP 
+5 CP = 150 Arbeitsstunden / 9 SWS 
+Modul MS Sport II: 
+S 1: 
+Sportdidaktik 
+2 SWS / 1,5 CP 
+S 1: 
+Fachdidaktik I 
+1 SWS / 1/2 CP 
+S/Ü 1: 
+Kleine Spiele 
+1 SWS / 1/2 CP 
+S/Ü 1: 
+Bewegungskünste I 1 SWS / 1/2 CP 
+S/Ü 1: 
+Fitness I 
+1 SWS / 1/2 CP 
+S/Ü 1: 
+Fitness II 
+1 SWS / 1/2 CP 
+Vorb. Leistungsprüf. 
+1 CP 
+5 CP = 150 Arbeitsstunden / 7 SWS 
+Modul MS Sport III: 
+V 1: 
+Sportbio./Bew.lehre 1 SWS / 1/2 CP 
+S/Ü 1: Gymnastik/Tanz III 
+1 SWS / 1/2 CP 
+S/Ü 1: Gymnastik/Tanz IV 
+1 SWS / 1/2 CP 
+S/Ü 1: Leichtathletik III 
+1 SWS / 1/2 CP 
+S/Ü 1: Gerätturnen III 
+1 SWS / 1/2 CP 
+S/Ü 1: Schwimmen III 
+1 SWS / 1/2 CP 
+S/Ü 1: Bewegungskünste II 1 SWS / 1/2 CP 
+Vorb. Leistungsprüf. 
+1,5 CP 
+5 CP = 150 Arbeitsstunden / 7 SWS 
+Modul MS Sport IV: 
+V 1: 
+Train.lehre/G.u.Fitn. 1 SWS / 1/2 CP 
+S 1: 
+Fachdidaktik II 
+1 SWS / 1/2 CP 
+S/Ü 1: Basketball 
+1 SWS / 1/2 CP 
+S/Ü 1: Fußball 
+1 SWS / 1/2 CP 
+S/Ü 1: Handball 
+1 SWS / 1/2 CP 
+S/Ü 1: Volleyball 
+1 SWS / 1/2 CP 
+Vorb. Leistungsprüf. 
+2 CP 
+5 CP = 150 Arbeitsstunden / 6 SWS 
+S = fachdidaktisches Seminar; Ü = fachdidaktische Übung; V = Vorlesung 
+SWS = Semesterwochenstunde; CP = Credit point; 
+Im Fach Sport gilt laut Studienordnung der Katholischen Universität Eichstätt-Ingol-
+stadt die Sonderregelung, dass die Veranstaltungen eines Moduls über mehrere
+Semester verteilt werden können.
+
+[Page 2]
+Informationsblatt über das Didaktikfach Sport 
+für das Lehramt an Mittelschulen 
+Universitätssportzentrum der Katholischen Universität Eichstätt-Ingolstadt 
+Veranstaltungsübersicht 
+Lehramt Mittelschule Sportdidaktik 
+Pflichtveranstaltungen (20 CP) 
+Sportdidaktik 
+Vorlesung: 1 SWS / 0,5 CP (SS) 
+Sportbio./Bewegungslehre 
+Vorlesung: 1 SWS / 0,5 CP (WS) 
+Trainingsl./Ges. u. Fitness 
+Vorlesung: 1 SWS / 0,5 CP (SS) 
+Fachdidaktik I (Individual) 
+Seminar: 1 SWS / 0,5 CP (WS) 
+Fachdidaktik II (Team) 
+Seminar: 1 SWS / 0,5 CP (SS) 
+Sportdidaktik 
+Seminar: 2 SWS / 1,5 CP (jedes Semester) 
+Kleine Spiele 
+1 SWS / 0,5 CP (WS) 
+Basketball 
+1 SWS / 0,5 CP (WS) 
+Fußball 
+1 SWS / 0,5 CP (SS) 
+Handball 
+1 SWS / 0,5 CP (SS) 
+Volleyball 
+1 SWS / 0,5 CP (WS) 
+Gerätturnen 
+Kurs I: 
+1 SWS / 0,5 CP (WS) 
+Kurs II: 
+1 SWS / 0,5 CP (SS) 
+Kurs III: 
+1 SWS / 0,5 CP (WS) 
+Gymnastik und Tanz 
+Kurs I: 
+1 SWS/0,5 CP 
+(WS) 
+Kurs II: 
+1 SWS/0,5 CP 
+(SS) 
+Kurs III: 
+1 SWS/0,5 CP 
+(WS) 
+Kurs IV: 
+1 SWS/0,5 CP 
+(WS) 
+Leichtathletik 
+Kurs I: 
+1 SWS / 0,5 CP (SS) 
+Kurs II: 
+1 SWS / 0,5 CP (SS) 
+Kurs III: 
+1 SWS / 0,5 CP (SS) 
+Schwimmen 
+Kurs I: 
+1 SWS / 0,5 CP (WS) 
+Kurs II: 
+1 SWS / 0,5 CP (SS) 
+Kurs III: 
+1 SWS / 0,5 CP (WS) 
+Bewegungskünste (Koord.) 
+Kurs I: 
+1 SWS / 0,5 CP (WS) 
+Kurs II: 
+1 SWS / 0,5 CP (SS) 
+Fitness I (Kondition) 
+1 SWS / 0,5 CP (SS) 
+Fitness II (Bew. u. Entsp.) 
+1 SWS / 0,5 CP (jedes Semester) 
+Zulassungs-
+voraussetzungen 
+zum 1. Staatsexamen 
+Exkursion: Winter- oder Sommersportwoche 
+Erste Hilfe Kompaktkurs (1 Tag)* 
+Deutsches Rettungsschwimmabzeichen in Bronze* 
+Deutsches Sportabzeichen in Bronze 
+SWS = Semesterwochenstunde; CP = Credit point; 
+*Zum Zeitpunkt der Anmeldung zum Staatsexamen nicht älter als 3 Jahre
+Die Veranstaltungen werden in der Regel im jährlichen Turnus angeboten. Da die
+Teilnehmerzahl aus fachspezifischen und sicherheitsrelevanten Aspekten in der
+Mehrzahl der Kurse begrenzt ist, findet die Ausbildung nach Möglichkeit in mehreren
+Gruppen statt.
+Die Vergabe der Kursplätze erfolgt per Internet über das Campusmanagement der
+KU. Kursplätze von Studierenden, die in der ersten Veranstaltungsstunde unent-
+schuldigt fehlen, werden an Bewerber der Warteliste vergeben.
+Für die Anerkennung der sportpraktischen Lehrveranstaltungen ist regelmäßige und
+erfolgreiche Teilnahme erforderlich (80 % Anwesenheitspflicht).
+Die Zulassungsvoraussetzungen im Fach Sport müssen bis zur Anmeldung zum
+Staatsexamen am Ende des Studiums erbracht werden.
+
+[Page 3]
+Informationsblatt über das Didaktikfach Sport 
+für das Lehramt an Mittelschulen 
+Universitätssportzentrum der Katholischen Universität Eichstätt-Ingolstadt 
+Prüfungsleistungen 
+Lehramt Mittelschule Sportdidaktik 
+Staatsexamensprüfungen 
+1. Sportspiele
+(BB, FB, HB, VB)
+je 1 Komplexform in
+a) Sportspiel 1
+b) Sportspiel 2
+2. Gymnastik und Tanz
+Technikdemonstration in
+a) Gymnastik mit Handgerät
+b) Tanz
+3. Bewegungskünste
+Technikdemonstration in
+a) Jonglage oder
+Akrobatik
+4. Leichtathletik
+Technikdemonstration in
+a) Weitsprung
+b) Hochsprung
+c) Wurf oder Stoß (Ball,
+Schleuderball oder Kugel)
+5. Schwimmen
+Technikdemonstration in
+a) Brustschwimmen
+b) zweite Schwimmart
+6. Turnen an Geräten
+Technikdemonstration in
+a) Boden
+b) Reck (♂) / Stufenbarren (♀)
+Modulprüfungen 
+1. Modul HS Sport I
+Leistungsprüfung in
+a) Gymnastik ohne
+Handgerät mit Musik
+b) Leichtathletik: 100 m
+c) Schwimmen: 100 m
+(Brust oder Freistil)
+d) Turnen: Kürsprung
+2. Modul HS Sport II
+a) Klausur Fachdidaktik Indivi-
+dualsportarten
+b) Leistungsprüfung Fitness
+(Cooperlauf oder 400 m
+Schwimmen)
+3. Modul HS Sport III
+Lehrversuch in:
+Gerätturnen oder
+Gymnastik/Tanz oder
+Leichtathletik oder
+Schwimmen
+4. Modul HS Sport IV
+Leistungsprüfung in
+a) Klausur Fachdidaktik
+Mannschaftssportarten
+b) Sportspiel 3
+c) Sportspiel 4
+Folgende Staatsprüfungen finden jeweils in der letzten Vorlesungswoche statt:
+Basketball (WS), Fußball (SS), Handball (SS), Volleyball (WS), Gerätturnen / Turnen an Geräten
+(WS), Gymnastik und Tanz (WS), Leichtathletik (SS), Schwimmen (WS); Bewegungskünste (SS).
+Folgende Modulprüfungen finden statt:
+Klausur Fachdidaktik I Individualsportarten (WS), Klausur Fachdidaktik II Mannschaftssportarten (SS),
+Basketball (WS), Fußball (SS), Handball (SS), Volleyball (WS), Fitness (SS), Gerätturnen (WS), Gym-
+nastik und Tanz (WS), Leichtathletik (SS), Schwimmen (WS) - jeweils in der letzten Vorlesungswoche.
+Der Lehrversuch für das Sportmodul III findet entsprechend der Wahl der Sportart durch den Studie-
+renden während des WS (Gerätturnen, Gymnastik/Tanz oder Schwimmen) bzw. des SS (Leichtathle-
+tik) statt. 
+
+[Page 4]
+Informationsblatt über das Didaktikfach Sport 
+für das Lehramt an Mittelschulen 
+Universitätssportzentrum der Katholischen Universität Eichstätt-Ingolstadt 
+Häufig gestellte Fragen (FAQ) 
+Lehramt Mittelschule Sportdidaktik 
+1.
+Muss ich für dieses Studium eine Sporteignungsprüfung ablegen?
+Das Studium des Faches Sportdidaktik erfordert keine Eignungsprüfung. Gute schulische Sportleis-
+tungen auf dem Niveau der gymnasialen Oberstufe sind ausreichend.
+2.
+Wie, wann und wo kann ich mich zu den Lehrveranstaltungen anmelden?
+Die Anmeldung zu den Lehrveranstaltungen erfolgt über das sog. „Campusmanagement“ im Inter-
+net. Die Möglichkeit, sich für die Kurse anzumelden, erfolgt durch eine Freischaltung der Universi-
+tätsverwaltung. Der Termin wird rechtzeitig bekannt gegeben. Aus fachlichen Gründen ist eine Viel-
+zahl von Sportkursen teilnahmebegrenzt. Ist ein Kurs voll belegt, besteht die Möglichkeit, sich in eine
+Warteliste einzutragen.
+3.
+Wie sind die Chancen, von der Warteliste in die Veranstaltung zu kommen?
+Um zu verhindern, dass die begrenzten Kursplätze von Studierenden belegt werden, die die Kurse
+aber dann letztlich nicht besuchen, werden die Kursplätze von Studierenden, die unentschuldigt in
+der ersten Lehrveranstaltung fehlen, mit Teilnehmern aus der Warteliste aufgefüllt. Diese Nachrü-
+cker werden nach der ersten Veranstaltung per Email informiert.
+4.
+Muss bei den jeweiligen Sportarten die Kursreihenfolge eingehalten werden?
+Es ist sinnvoll, die offizielle Kursreihenfolge (z. B. Schwimmen Kurs I vor Schwimmen Kurs II) einzu-
+halten. Wegen der Komplexität der individuellen Stundenpläne und zur Vermeidung von Studienzeit-
+verlängerungen kann die Reihenfolge im Einzelfall geändert werden. Grundkenntnisse in den beleg-
+ten Sportarten werden vorausgesetzt.
+5.
+Wann habe ich einen Kurs erfolgreich bestanden?
+Damit ein Kurs angerechnet werden kann, muss er regelmäßig und erfolgreich absolviert werden.
+Regelmäßig bedeutet im Fach Sport, dass maximal zwei Unterrichtsstunden versäumt werden dür-
+fen. Erfolgreich bedeutet, dass die vom Dozenten zu Beginn des Kurses festgelegten Leistungen
+vollständig erbracht wurden.
+6.
+Wann soll ich die Staatsexamens- und Modulprüfungen ablegen?
+Es ist empfehlenswert, die Prüfungen zügig im Laufe des Studiums abzulegen. Dies bedeutet, dass
+es i.d.R. sinnvoll ist, zum nächstmöglichen Zeitpunkt nach Besuch der Kurse in der betreffenden
+Sportart (z.B. Schwimmen) die Staatsexamens- und Modulprüfungen (in diesem Fall Schwimmen)
+abzulegen. Es ist den Studierenden jedoch freigestellt, zum einen die Prüfungen auf einen späteren
+Prüfungstermin zu verschieben und zum anderen die Staatsexamens- und Modulprüfung zu ver-
+schieden Prüfungsterminen abzulegen.
+7.
+Wann, wie und wo kann ich mich zu den Prüfungen an- und abmelden?
+Die Anmeldung zu den Prüfungen im Sport erfolgt online über das Campusmanagement und zwar
+jeweils getrennt für die Staatsexamens- und Modulprüfungen. Dies bedeutet beispielsweise, dass
+man sich für die Prüfungen in der Sportart Schwimmen separat sowohl für die Staatsexamens- als
+auch die Modulprüfung anmelden muss (Achtung teilweise auch separate Anmeldung für einzelne
+Prüfungsteile!). Die jeweiligen Zeitfenster für die An- und ggf. Abmeldungen zu den Prüfungen wer-
+den bekanntgegeben. Wenn die Anmeldefrist verstrichen ist, ist keine nachträgliche Anmeldung
+mehr möglich. Bis zum jeweiligen Rücktrittstermin (siehe Terminplan auf der Homepage des Prü-
+fungsamtes) ist eine Abmeldung von der Prüfung ohne Angabe von Gründen, danach nur noch aus
+wichtigem Grund und mit Vorlage entsprechender Nachweise (z.B. ärztliches Attest) über das Prü-
+fungsamt, möglich.
+8.
+Kann man eine Prüfung wiederholen?
+Eine Wiederholung der Staatsexamensprüfung zum Zwecke der Notenverbesserung ist nicht mög-
+lich. Modulprüfungen können zum Zweck der Notenverbesserung im Umfang von bis zu 20 ECTS
+wiederholt werden. In diesem Fall müssen jedoch alle Prüfungen eines Moduls wiederholt werden.
+9.
+Wann und wo muss ich die sog. Zulassungsvoraussetzungen vorweisen?
+Die sog. Zulassungsvoraussetzungen im Fach Sport müssen am Ende des Studiums bei der Anmel-
+dung zum 1. Staatsexamen vorgelegt werden.

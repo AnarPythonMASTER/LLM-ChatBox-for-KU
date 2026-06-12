@@ -1,0 +1,862 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_BA_Data_Science.pdf
+TITLE: Studiengangsbeschreibung_BA_Data_Science.pdf
+SOURCE_FILE: Studiengangsbeschreibung_BA_Data_Science.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status 2025_01 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den 
+Bachelorstudiengang Data Science 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+ 
+Inhalt ........................................................................................................................... 1 
+A. Allgemeine Struktur des Studiengangs .................................................................. 2 
+B. Beschreibung des Studiengangs 
+........................................................................... 3 
+1. Der Studiengang in drei Sätzen 
+.......................................................................... 3 
+2. Zielgruppe ......................................................................................................... 3 
+3. Grundsätzliche Ausrichtung ............................................................................... 3 
+C. Studiengangskonzept ........................................................................................... 5 
+1. Struktur des Studiengangs 
+................................................................................. 5 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+........................................................ 5 
+1.2. 
+Qualifikationsziele ........................................................................................ 5 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten .................................................... 6 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder ........................................................ 6 
+2. Aufbau des Studiengangs 
+.................................................................................. 8 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+...................................................... 8 
+2.2. 
+Pflichtbereich 
+.................................................................................................. 8 
+2.3. 
+Spezialisierung ............................................................................................... 9 
+2.4. 
+Allgemeiner Wahlpflichtbereich ..................................................................... 10 
+2.5. 
+Pflichtpraktikum 
+............................................................................................ 10 
+2.6. 
+Studium.Pro ................................................................................................. 10 
+2.7. 
+Praxisbezug.................................................................................................. 11 
+2.8. 
+Ausgestaltung der Internationalisierung 
+......................................................... 11 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre .................................................................................................... 11 
+Anlage I. 
+Idealtypischer Studienverlaufsplan 
+.......................................................... 14 
+ 
+ 
+ 
+
+[Page 2]
+Status 2025_01 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Name des Studiengangs: 
+ 
+Data Science 
+ 
+Verantwortliche Fakultät: 
+ 
+Mathematisch-Geographische Fakultät 
+ 
+Weitere beteiligte Fakultät/en: 
+ 
+Wirtschaftswissenschaftliche Fakultät 
+Philosophisch-Pädagogische Fakultät 
+ 
+Akademischer Grad: 
+Bachelor of Science 
+ 
+Studienform: 
+ 
+☒ Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☐ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+ 
+☒ grundständig 
+☐ konsekutiv 
+☐ weiterbildend 
+ 
+Regelstudienzeit: 
+6 Semester (Vollzeit) 
+ 
+Studienbeginn: 
+ 
+☐ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-
+Leistungspunkte: 
+180 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+☒ Nein 
+☐ Ja, € pro Semester 
+ 
+ 
+ 
+
+[Page 3]
+Status 2025_01 
+ 
+ 
+ 
+3 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in drei Sätzen 
+Die Erfolge der Künstlichen Intelligenz und insbesondere des Maschinellen Lernens 
+belegen das Potential mathematischer und statistischer Methoden, automatisiert zu 
+Grunde liegende Zusammenhänge in großen Datenmengen zu entdecken und diese 
+nutzbar zu machen. Der Studiengang Data Science vermittelt die Grundlagen des 
+maschinellen Lernens und anderer aktueller Verfahren zur Datenanalyse, sowie die 
+Fähigkeit, diese Verfahren mit modernen Softwaretechnologien effizient umzusetzen. Die 
+Wahl einer Spezialisierung erlaubt eine Vertiefung der mathematischen Grundlagen 
+und/oder die Verbreiterung in Richtung eines Anwendungsgebietes. 
+2. Zielgruppe 
+Studieninteressierte mit abgeschlossener allgemeiner oder fachgebundener deutscher 
+Hochschulreife oder äquivalentem ausländischem Abschluss, die sich eine mathematisch 
+fundierte Ausbildung in maschinellem und statistischem Lernen sowie numerischen und 
+datenanalytischen Methoden erarbeiten möchten. Durch die englischsprachige 
+Ausrichtung des Studiengangs werden neben deutschen Studierenden, die sich 
+international profilieren wollen, auch Studierende aus dem Ausland angesprochen. 
+3. Grundsätzliche Ausrichtung 
+Der Studiengang vermittelt die der Data Science zugrundeliegenden Kenntnisse aus 
+den Studienbereichen 
+ 
+- 
+Mathematik 
+- 
+Statistik 
+- 
+Informatik 
+ 
+und ergänzt diese durch fachübergreifende Lehrveranstaltungen im Bereich der 
+ 
+- 
+ Data Science 
+ 
+Die Verbindung verschiedener Fächer belegt den interdisziplinären Charakter des 
+Studiengangs. Dieser wird durch die Möglichkeit zur Wahl einer Spezialisierung in einem 
+Anwendungsbereich erweitert. Den Studierenden wird somit eine interdisziplinäre 
+Perspektive auf die Datenwissenschaften und den digitalen Transformationsprozess in 
+Unternehmen und Gesellschaft vermittelt. 
+ 
+Studierende besuchen Lehrveranstaltungen in einer der folgenden Spezialisierungen: 
+ 
+- 
+Applied Mathematics and Scientific Computing 
+- 
+Business Analytics and Operations 
+- 
+Digital Transformation of Society 
+- 
+Environmental Sciences 
+- 
+Finance and Economics 
+- 
+Machine Learning and Statistics 
+ 
+
+[Page 4]
+Status 2025_01 
+ 
+ 
+ 
+4 
+Inhalte der Spezialisierungen werden in Sektion 1.4 und 2.3 dargestellt. 
+ 
+Die Kompetenzvermittlung und der Wissenserwerb erfolgen mit etablierten und 
+modernen Lehrkonzepten, z.B. praktischen Übungen, Projektarbeiten in kleinen Gruppen 
+und Vorlesungen. Somit erlernen die Studierenden Arbeitsmethoden und Konzepte, die 
+in weiten Bereichen der IT Branche und darüber hinaus eingesetzt werden. Absolventen 
+und Absolventinnen des Studiengangs sind in der Lage, sowohl methodisch (z.B. als Data 
+Analyst, Data Engineer) als auch konzeptuell (z.B. als Data Strategist) die fortschreitende 
+Digitalisierung aktiv mitzugestalten. 
+ 
+Mit den im Studiengang erworbenen Kompetenzen, Kenntnissen und persönlichen 
+Fähigkeiten werden die Absolventinnen und Absolventen zu geschätzten und begehrten 
+Mitarbeiterinnen und Mitarbeitern zahlreicher Industrie- und Wirtschaftsbranchen, 
+Startups 
+und 
+öffentlichen, 
+gemeinwirtschaftlichen 
+und 
+Nicht-Regierungs-
+Organisationen. Die Absolventen und Absolventinnen erwerben im Studium fundierte 
+Grundlagen, die auf ein breites Spektrum disziplinärer und interdisziplinärer Master-
+Studiengänge im mathematisch-technischen Bereich vorbereiten. 
+ 
+Da Lehrveranstaltungen vornehmlich in englischer Sprache stattfinden, sind Absolventen 
+und Absolventinnen auf den zunehmend international ausgerichteten Data Science 
+Arbeitsmarkt ausgezeichnet vorbereitet. 
+ 
+ 
+ 
+
+[Page 5]
+Status 2025_01 
+ 
+ 
+ 
+5 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+Voraussetzung für den Zugang zum Bachelorstudiengang Data Science ist eine 
+allgemeine oder fachgebundene Hochschulreife. Eine weitere Zugangsvoraussetzung ist 
+das Sprachniveau Deutsch A2, welches nach dem ersten Studienjahr nachgewiesen 
+werden muss. 
+Die Anzahl der verfügbaren Studienplätze wird jährlich bekannt gegeben. 
+ 
+ 
+Der Studiengang wird vornehmlich in englischer Sprache angeboten. Falls vereinzelt 
+Pflichtveranstaltungen 
+auf 
+Deutsch 
+stattfinden, 
+werden 
+den 
+Studierenden 
+Unterrichtsmaterialien wie Klausuren und Übungsblätter, sowie aufgezeichnete 
+englischsprachige 
+Vorlesungen 
+zur 
+Verfügung 
+gestellt. 
+Das 
+Angebot 
+an 
+Wahlpflichtveranstaltungen ist um Veranstaltungen in deutscher Sprache erweitert. Mit 
+der möglichen Ausnahme der Spezialisierung Digital Transformation of Society sind alle 
+Spezialisierungen ohne Deutschkenntnisse studierbar. 
+1.2. 
+Qualifikationsziele 
+Die Absolventinnen und Absolventen 
+- 
+verfügen über Basiswissen und ein ausgeprägtes intuitives Verständnis in den für 
+die Data Science wesentlichen Bereichen der Mathematik, Statistik und Informatik, 
+ 
+- 
+besitzen 
+fundierte 
+Kompetenzen 
+und 
+Kenntnisse 
+auf 
+dem 
+Feld 
+der 
+mathematischen und statistischen Data Science, 
+ 
+- 
+sind in der Lage analytisch und strukturiert zu denken und ihre Ideen in Form von 
+Computerprogrammen und Algorithmen umzusetzen, 
+ 
+- 
+können selbständig Arbeiten und eigenständig Ziele und Arbeitsprozesse 
+definieren, 
+ 
+- 
+verfügen über ein breites Spektrum an mathematisch-statistischen Methoden zur 
+Modellierung und Bearbeitung komplexer Fragestellungen in Data Science, 
+ 
+- 
+haben praktische Erfahrung in der Anwendung von Methoden der Datenanalyse 
+und Datenauswertung sowie von Konzepten der Informationsverarbeitung, 
+ 
+- 
+sind in ethischen Fragestellungen im Zusammenhang mit Anwendungen der 
+Data Science sensibilisiert, 
+ 
+- 
+haben ihre Fremdsprachenkompetenz in Englisch und ihr Fachvokabular 
+weiterentwickelt und können sich strukturiert und verhandlungssicher äußern, 
+- 
+sind teamfähig und können komplexe Sachverhalte zielgerichtet kommunizieren 
+und präsentieren. 
+
+[Page 6]
+Status 2025_01 
+ 
+ 
+ 
+6 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Absolventinnen und Absolventen werden durch ihr Studium zu einem sich 
+anschließenden Masterstudium im Bereich Data Science befähigt. Das zügig wachsende 
+Angebot wird durch die folgende Aufzählung von zumeist in englischer Sprache 
+angebotenen Masterstudiengängen illustriert: 
+ 
+- 
+Mathematics in Data Science (M.Sc.), TU München 
+- 
+Data Science (M.Sc.), Universität Leipzig 
+- 
+Data Science (M.Sc.), FU Berlin 
+- 
+Data Science (M.Sc.), FAU Erlangen-Nürnberg 
+- 
+Data Science (M.Sc.), TU Dortmund 
+- 
+Data Science (M.Sc.), TU Braunschweig 
+- 
+Mathematical Data Science (M.Sc.), Universität Ulm 
+- 
+Data Science (M.Sc.), Universität Mannheim 
+- 
+Data Science (M.Sc.), Universität Potsdam 
+- 
+Data Science (M.Sc.), RWTH Aachen 
+ 
+Weiter bietet der Bachelor in Data Science exzellente Voraussetzungen, teils in 
+Abhängigkeit von der gewählten Spezialisierung, für ein Masterstudium in 
+Angewandter Mathematik, Statistik, Informatik, Bereichen der Geowissenschaften, 
+Wirtschaftswissenschaften, Betriebswirtschaftslehre oder Operations Research. Es 
+wird empfohlen, die jeweiligen Zulassungsvoraussetzungen der angestrebten 
+Programme 
+frühzeitig 
+zu 
+prüfen 
+und 
+diese 
+bei 
+der 
+Wahl 
+von 
+Wahlpflichtveranstaltungen und der Spezialisierungsrichtung zu berücksichtigen. 
+ 
+Die Fortsetzung des Studiums an der KU Eichstätt-Ingolstadt ist bereits im 
+Interdisziplinären Masterstudiengang im Fach Mathematik möglich. Die Aufnahme 
+des Fachs Data Science in diesem Interdisziplinären Masterstudiengang sowie die 
+Entwicklung eines eigenständigen Masterstudiengangs Data Science sind in 
+Vorbereitung. 
+ 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+Data Science ist von grundlegender Bedeutung für den digitalen Transformationsprozess 
+der nächsten Jahrzehnte. Hierbei werden Umwelt und Industrie zunehmend mit 
+vernetzten Informationssystemen und datensammelnden Geräten durchdrungen; um 
+daraus Gewinn zu ziehen, müssen die resultierenden Daten mittels moderner Verfahren 
+analysiert 
+werden. 
+Hierdurch 
+entsteht 
+ein 
+Bedarf 
+an 
+gut 
+ausgebildeten 
+Datenwissenschaftlerinnen und Datenwissenschaftlern, die diese Herausforderungen 
+mittels neuer Technologien und Verfahren (wie maschinelle Lernverfahren in der 
+Künstlichen Intelligenz) in z.B. Industrie, Wirtschaft, Start-ups und im öffentlichen Sektor 
+lösen. Es werden Absolventinnen und Absolventen gebraucht, die ausgeprägte 
+Fähigkeiten zum analytischen Denken und zur Umsetzung in Form von Algorithmen 
+besitzen und die sich gleichzeitig der Verantwortung in der Verarbeitung von sensiblen 
+Daten, auch im Hinblick auf Unvoreingenommenheit und Objektivität der Algorithmen, 
+bewusst sind. 
+
+[Page 7]
+Status 2025_01 
+ 
+ 
+ 
+7 
+Mögliche Berufsfelder für alle Profile im Studiengang sind 
+- 
+Fach- und Führungspositionen in Tätigkeitsbereichen mit Bezug zur Data 
+Science und Informationstechnologie in nationalen und internationalen 
+Unternehmen und Organisationen, 
+- 
+Querschnittsaufgaben im Bereich des maschinellen Lernens, der Datenanalyse 
+und Prognose, 
+- 
+Beratertätigkeiten in den genannten Bereichen, 
+- 
+Akademischer 
+Werdegang 
+in 
+Mathematik, 
+Data 
+Science 
+und 
+Anwendungsgebieten. 
+Spezialisierungsabhängige Berufsfelder sind 
+Applied Mathematics and Scientific Computing 
+- 
+Aufgaben in Forschung und Entwicklung in technischen Industriezweigen 
+- 
+Entwicklung von Algorithmen und Software in Unternehmen und Organisationen, 
+- 
+Tätigkeit in Bildungseinrichtungen (Schule, Erwachsenenbildung, Hochschulen), 
+- 
+Beschäftigung in analytisch ausgelegten Unternehmensberatungen. 
+Machine Learning and Statistics 
+- 
+Experten und Expertinnen in Datensammlung, -analyse und -interpretation sowie 
+Prognose, 
+- 
+analytische Tätigkeiten in Finanzabteilungen von Unternehmen, öffentlichen 
+Einrichtungen, Ministerien und internationalen Organisationen. 
+Environmental Science 
+- 
+Mitarbeit in Forschungsinstituten wie Deutsches Zentrum für Luft- und 
+Raumfahrt und Alfred-Wegener-Institut für Polar- und Meeresforschung, 
+- 
+Tätigkeit bei wissenschaftlichen Diensten wie dem Deutschen Wetterdienst 
+und dem Bundesamt für Schifffahrt und Hydrologie, 
+- 
+Beratung von Regierungen und Nichtregierungsorganisationen wie dem 
+Umweltministerium und Greenpeace. 
+ 
+Business Analytics and Operations 
+ 
+- 
+Tätigkeiten in der strategischen Planung und Unternehmensentwicklung, 
+insbesondere 
+mit 
+Fokus 
+auf 
+digitale 
+Transformationsprozesse 
+von 
+Unternehmen, 
+- 
+Experten 
+und 
+Expertinnen 
+für 
+die 
+datenbasierte 
+Optimierung 
+und 
+Entscheidungsunterstützung in Beschaffung, Produktion, Distribution, Logistik 
+und Supply Chain Management, 
+- 
+Prozessarchitekten 
+zur 
+Gestaltung, 
+Steuerung 
+und 
+Koordination 
+unternehmensinterner 
+und 
+unternehmensübergreifender 
+Waren- 
+und 
+Informationsflüsse mit Hilfe moderner Methoden der Data Science und des 
+Maschinellen Lernens. 
+ 
+Finance and Economics 
+
+[Page 8]
+Status 2025_01 
+ 
+ 
+ 
+8 
+- 
+Analytische 
+und 
+entscheidungsunterstützende 
+Tätigkeiten 
+in 
+Finanzabteilungen von Unternehmen und Organisationen im öffentlichen 
+Sektor, 
+- 
+Allgemeine 
+Führungsaufgaben 
+in 
+Politik, 
+Wirtschaft 
+und 
+öffentlicher 
+Verwaltung. 
+ 
+Digital Transformation of Society 
+- 
+Entwicklung und Anwendung von Datenanalyseverfahren in der Markt- und 
+Meinungsforschung, 
+- 
+Quantitative Untersuchungen für Medienunternehmen, 
+- 
+Tätigkeit im auf empirischen Methoden basierten Journalismus, 
+- 
+Berater für Parteien, Organisationen und Verbände. 
+ 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Die Regelstudienzeit des Bachelors of Science Data Science beträgt sechs Semester. Es 
+müssen 180 ECTS-Punkte erworben werden. Diese sind aufgeteilt auf den Pflichtbereich 
+(inklusive Industrie- oder Forschungspraktikum), Module in Spezialisierungen, und 
+Module im Allgemeinen Wahlpflichtbereich. Das Studium wird durch ein Modul im 
+Studium.Pro, ein Bachelorseminar und die Bachelorarbeit vervollständigt. 
+ 
+Es besteht die Möglichkeit, ein Auslandssemester, bevorzugt im fünften Semester, zu 
+absolvieren. 
+ 
+Prüfungsrechtliche Informationen sind in der Prüfungsordnung festgelegt. Der genaue 
+Aufbau des Studiums inklusive Spezialisierungen ist in Idealtypischen Studienplänen als 
+Anlage I beigefügt. 
+ 
+2.2. 
+Pflichtbereich 
+Im Pflichtbereich des Studienganges werden grundlegendes Wissen und grundlegende 
+praktische Kompetenzen in Data Science vermittelt. Der Pflichtbereich setzt sich aus 
+Modulen in den Kernfeldern Data Science, Mathematik, Statistik und Informatik 
+zusammen. Ferner ist das Modul Ethics of Algorithms and Data verpflichtend: 
+ 
+Data Science 
+ 
+Data Lab 
+Ethics of Algorithms and Data 
+Foundations of Data Science 
+Foundations of Machine Learning 
+Hands-on Machine Learning and Data Science 
+Practical Training 
+ 
+
+[Page 9]
+Status 2025_01 
+ 
+ 
+ 
+9 
+Mathematik 
+ 
+Analysis for Data Science 1 
+Analysis for Data Science 2 
+Linear Algebra 1 
+Linear Algebra 2 and Analytic Geometry 
+Optimization in Data Science 
+ 
+Statistik 
+ 
+Introduction to Statistics 
+Introduction to Stochastics 
+Statistical Learning 
+ 
+Informatik 
+ 
+Advanced Programming 
+Algorithms and Data Structures 
+Basics of Information Systems 
+Introduction to Programming 
+ 
+Ferner besuchen Studierende ein Bachelor Seminar. 
+ 
+2.3. 
+Spezialisierung 
+Das Angebot von Spezialisierungen gibt den Studierenden die Möglichkeit, sich in einem 
+Gebiet ihres Interesses weiterzubilden. Die gewählte Spezialisierung vertieft die 
+Kompetenzen in einem Kerngebiet der Data Science oder vermittelt Kompetenzen in 
+einem ihrer Anwendungsgebiete. 
+ 
+Es werden in der Regel die folgenden Spezialisierungen angeboten: 
+ 
+- 
+Applied Mathematics and Scientific Computing ermöglicht Studierenden einen 
+tieferen Einblick in die mathematischen Grundlagen der Data Science. 
+Schwerpunkte 
+der 
+Spezialisierung 
+sind 
+einerseits 
+die 
+mathematische 
+Modellbildung, andererseits der Übergang von kontinuierlichen zu diskreten und 
+damit praktisch implementierbaren Modellen. 
+ 
+- 
+Business 
+Analytics 
+and 
+Operations 
+schlägt 
+die 
+Brücke 
+zu 
+den 
+Wirtschaftswissenschaften. 
+Neben 
+Grundkenntnissen 
+der 
+Betriebswirtschaftslehre, z.B. im Rechnungswesen, liegt der Schwerpunkt dieser 
+Spezialisierung in datengesteuerten Lösungsansätzen zu betriebswirtschaftlichen, 
+organisatorischen und technischen Problemstellungen. 
+ 
+- 
+Digital Transformation of Society betrachtet Anwendungen der Data Science in 
+den Sozial- und Humanwissenschaften. Neben Grundlagenwissen erhalten 
+Studierende Einblicke in die Rolle empirischer Methoden, z.B. in Soziologie und 
+
+[Page 10]
+Status 2025_01 
+ 
+ 
+ 
+10 
+Journalistik. Die substantielle Kenntnis von Methoden der Data Science gepaart 
+mit Einblicken in die Sozial- und Humanwissenschaften ermöglicht den 
+Studierenden eine kritische Auseinandersetzung mit dem fortschreitenden 
+digitalen Wandel der Gesellschaft. 
+ 
+- 
+Finance and Economics beleuchtet makroökonomische Zusammenhänge, 
+globale Märkte und Finanzinstrumente. Diese Gebiete sind stark von 
+datenbasierten 
+Methoden 
+geprägt. 
+Die 
+Spezialisierung 
+erweitert 
+die 
+Methodenkompetenz der Studierenden um Kenntnisse in der gebietsspezifischen 
+Modellbildung und Fachsystematik. 
+ 
+- 
+Environmental Sciences ermöglicht den Studierenden einen Einblick in die 
+datenbasierten Umwelt- und Geowissenschaften. Ein zentraler Aspekt ist das 
+Anpassen von Modellen für dynamische (zeitlich veränderliche) Prozesse wie 
+Wetter und Klima an Messdaten, die oft nur ungenau und unvollständig vorliegen. 
+ 
+- 
+Machine Learning and Statistics ermöglicht Studierenden eine Vertiefung ihres 
+Verständnisses für statistische Methoden und führt in fortgeschrittene und 
+forschungsnahe Aspekte der statistischen und maschinellen Lernverfahren ein. 
+ 
+Die gewählte Spezialisierung wird im Bachelorzeugnis ausgewiesen. Die zulässigen 
+Module für die Spezialisierungen sind in Anlage II benannt. 
+ 
+2.4. 
+Allgemeiner Wahlpflichtbereich 
+Der Allgemeine Wahlpflichtbereich dient zur Erweiterung des Studienspektrums und zum 
+Erlangen von Kompetenzen, die über das Grundstudium hinausgehen oder dieses 
+ergänzen. Alle auf eine Spezialisierung anrechenbaren Module sind auch Teil des 
+Allgemeinen Wahlpflichtbereichs. Sie werden durch weitere Module wie in Anhang II 
+dargestellt ergänzt. 
+ 
+2.5. 
+Pflichtpraktikum 
+Neben Lehrveranstaltungen ist innerhalb des Studiums ein Industriepraktikum oder ein 
+Forschungspraktikum am Mathematischen Institut für Maschinelles Lernen und Data 
+Science oder in anderen Fachgebieten der KU Eichstätt-Ingolstadt oder anderer 
+Hochschulen vorgesehen. 
+ 
+2.6. 
+Studium.Pro 
+Studierende wählen verpflichtend ein Modul aus dem universitätsübergreifenden Angebot 
+Studium.Pro. Hier beschäftigen sich die Studierenden der KU fächerübergreifend und 
+interdisziplinär vornehmlich mit gesellschaftlich relevanten Fragestellungen. Diese 
+Erfahrung kann wesentliche Impulse für das fachbezogene Arbeiten liefern. 
+ 
+
+[Page 11]
+Status 2025_01 
+ 
+ 
+ 
+11 
+2.7. 
+Praxisbezug 
+Ein starker Praxisbezug ist eine wesentliche Charakteristik des Studienganges und 
+spiegelt sich in vielen Facetten wider. Durch zwei Programmierkurse werden fundierten 
+Programmierkenntnisse vermittelt. Diese werden in vielen anderen Veranstaltungen durch 
+entsprechende Aufgaben und Einheiten im jeweiligen Sachkontext angewendet und 
+weiter geschärft. Hervorzuheben ist das Modul "Hands-On Data Science and Machine 
+Learning" im zweiten Studiensemester, in dem die grundlegenden Algorithmen praktisch 
+erprobt werden, so dass die Studierenden bereits früh eine umfassende Intuition für Ihr 
+Fachgebiet entwickeln. Im weiteren Studienverlauf spielen das "Data Science Lab", in 
+dem Studierende selbstständig in kleinen Teams an umfassenden Fragestellungen 
+arbeiten, 
+sowie 
+das 
+oben 
+erwähnte 
+"Practical 
+Training" 
+(Industrie- 
+oder 
+Forschungspraktikum) 
+eine 
+zentrale 
+Rolle. 
+Präsentations- 
+und 
+Kommunikationsfähigkeiten werden unter anderem im "Data Science Lab" und im "Data 
+Science Seminar" entwickelt. 
+ 
+Die Bachelorarbeit kann in Zusammenarbeit mit einem Unternehmen durchgeführt 
+werden. Ein Industriepraktikum im Rahmen des "Practical Training" bietet die 
+Möglichkeit, schon früh Kontakte zu Unternehmen zu knüpfen und ein Gefühl für relevante 
+Fragestellungen zu entwickeln. 
+ 
+2.8. 
+Ausgestaltung der Internationalisierung 
+Da maschinelles Lernen und mathematische Methoden nicht durch Ländergrenzen 
+beeinflusst werden, ist es ein besonderes Anliegen, den Studiengang in einen 
+internationalen Kontext zu stellen. Dies wird durch die folgenden Konzepte und Angebote 
+innerhalb des Studienganges gewährleistet: 
+ 
+− Der Studiengang wird primär auf Englisch angeboten und schafft dadurch ideale 
+Voraussetzungen für eine Karriere in international agierenden Unternehmen. Das 
+englischsprachige Studienangebot ermöglicht die Integration ausländischer 
+Studierender und schafft ein bereicherndes internationales Umfeld. 
+ 
+− Es besteht die Möglichkeit, einen Teil des Studiums im Ausland zu absolvieren. 
+Hierfür eignet sich insbesondere das fünfte Studiensemester. Studierende 
+profitieren hier von der hohen Anzahl an Partnerhochschulen der Universität, die 
+passende Studienangebote bereitstellen. Module werden in der Regel in der 
+Allgemeinen 
+Wahlpflicht 
+oder 
+der 
+Spezialisierung 
+angerechnet. 
+ 
+− Bei der Bearbeitung von Gruppenarbeiten wird angestrebt, dass Studierende aus 
+unterschiedlichen Kulturräumen zusammengeführt werden. Selbst eine zufällige 
+Zusammenstellung von Gruppen kann diesem Ziel dienen. Somit ermöglicht das 
+internationale Umfeld den Studierenden einen Schritt hin zum Global Citizen zu 
+tätigen. 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage 
+des Leitbilds für Studium und Lehre 
+ 
+
+[Page 12]
+Status 2025_01 
+ 
+ 
+ 
+12 
+Die KU Eichstätt-Ingolstadt strebt in ihrem Leitbild ein Qualitätsprofil ihrer Studiengänge 
+an, das den Kriterien diskursiv, vernetzt, engagiert und persönlich in besonderer Weise 
+Rechnung trägt. 
+ 
+Der Bachelorstudiengang Data Science stärkt dieses Profil unmittelbar. Der 
+Studiengang ist 
+ 
+Diskursiv: 
+ 
+- 
+Im Studiengang werden wissenschaftlicher Anspruch und Praxisorientierung 
+zusammengeführt. Dies wird in allen wählbaren Spezialisierungen ermöglicht. 
+- 
+Die Vielfalt an didaktischen Konzepten innerhalb der Lehrveranstaltungen 
+(Vorlesungen, Übungen, Seminare, etc.) ermöglicht stets einen vielfältigen und 
+intensiven Diskurs zwischen Wissenschaft und Praxis. 
+- 
+Die Kultur des Studienganges zielt darauf ab, dass sich die Studierenden aktiv 
+einbringen und Lehrinhalte reflektieren sowie hinterfragen. 
+- 
+Die Erarbeitung von Lehrinhalten basiert auf dem selbstständigen Bearbeiten von 
+Übungsaufgaben, die dann interaktiv in Übungsgruppen besprochen werden. Das 
+Lehrangebot wird durch Programmierkurse und ein Fachpraktikum ergänzt. Hier 
+spielt wiederum ein individueller Austausch zwischen Studierenden und 
+Dozierenden eine zentrale Rolle. 
+Vernetzt: 
+ 
+- 
+Der Studiengang zeichnet sich durch zahlreiche interdisziplinäre Verknüpfungen 
+zwischen einzelnen Fachgebieten aus, insbesondere Data Science, Angewandte 
+Mathematik, Statistik, Informatik, Wirtschafts- und Umweltwissenschaften, sowie 
+interdisziplinäre Fragen der digitalen Gesellschaft. 
+- 
+Die internationale Vernetzung wird durch die Nutzung der englischen Sprache im 
+Studiengang und die Möglichkeit, ein Auslandssemester zu absolvieren, gefördert. 
+Die Studierenden werden somit auch befähigt, in einem internationalen Umfeld 
+erfolgreich zu sein. 
+- 
+Das Berufspraktikum bietet die Möglichkeit für die Integration in das 
+gesellschaftliche und wirtschaftliche Umfeld der Universität. 
+ 
+Engagiert: 
+ 
+- 
+Ein wesentliches Ziel des Studienprogramms ist, die Studierenden zu Fach- und 
+Führungskräften auszubilden, die sich ihrem gesellschaftlichen Einfluss und ihrer 
+Verantwortung bewusst sind und beides aktiv wahrnehmen. 
+- 
+Data Science spielt eine Schlüsselfunktion im gesellschaftlichen Umbruch durch 
+die Digitalisierung und bietet ein enormes Potential, auch im Hinblick auf eine 
+
+[Page 13]
+Status 2025_01 
+ 
+ 
+ 
+13 
+Optimierung der Nutzung von Ressourcen im Sinne der Nachhaltigkeit. Allerdings 
+birgt die Anwendung von Verfahren der Data Science auch Gefahren (z.B.: 
+gläserner Mensch, Surveillance Capitalism, die Zementierung von Diskriminierung 
+durch Algorithmen), über welche die Studierenden reflektieren werden. Dies ist 
+einerseits im Pflichtmodul Ethics of Algorithms and Data verankert, andererseits 
+durch 
+Anlass- 
+und 
+Themabezogene 
+Diskussionen 
+im 
+Rahmen 
+der 
+Fachveranstaltungen und dem Austausch mit dem weiteren universitären Umfeld. 
+Wir sehen die Notwendigkeit, dass die KU eine Kultur des Faches etabliert, welche 
+den verantwortungsvollen Umgang mit Daten als selbstverständlichen Teil des 
+professionellen Handelns versteht. 
+ 
+Persönlich: 
+ 
+- 
+Der Studiengang fördert das mathematisch-analytische und algorithmische 
+Denken der Studierenden. 
+- 
+Daneben fördert der Studiengang die Persönlichkeitsentwicklung durch das 
+verpflichtende Modul Ethics of Algorithms and Data und durch Module im Rahmen 
+von Studium.Pro. 
+- 
+Im Allgemeinen wird den Studierenden ein enges Betreuungsverhältnis geboten. 
+Dies gilt insbesondere im Rahmen der Seminare und beim Anfertigen der 
+Bachelorarbeit. 
+ 
+ 
+ 
+
+[Page 14]
+Status 2025_01 
+ 
+ 
+ 
+14 
+Anlage I. Idealtypischer Studienverlaufsplan

@@ -1,0 +1,35 @@
+SOURCE_URL: https://www.ku.de/studienangebot/internationale-studiengaenge
+TITLE: Internationale Studiengänge – KU
+SOURCE_FILE: studienangebot_internationale-studiengaenge.html
+------------------------------------------------------------
+
+Internationale Studiengänge
+Die Katholische Universität Eichstätt-Ingolstadt (KU) bietet zahlreiche Studiengänge mit internationaler Ausrichtung auf Bachelor- und Masterniveau an. Dazu gehören sowohl Studiengänge, die komplett auf Englisch studiert werden können, als auch mehrere Doppelabschlussstudiengänge mit verschiedenen Partnerländern und Studiengänge mit verpflichtendem Auslandssemester. Die Möglichkeit, freiwillig einen Auslandsaufenthalt in das Studium zu integrieren, ist darüber hinaus auch
+bei allen anderen Studiengängen
+an der KU gegeben.
+Englischsprachige Studiengänge
+Business & Psychology (M. Sc.)
+Conflict, Memory and Peace (M. A.)
+Data Science (B. Sc.)
+Data Science (M. Sc.)
+Internationale Beziehungen (M. A.)
+Betriebswirtschaftslehre (M. Sc.) mit den Schwerpunkten:
+Betriebswirtschaftslehre International (M. Sc.)
+Business Analytics and Operations Research (BAOR)
+Digital Customer Experience & Service Design (M. Sc.)
+Entrepreneurship und Innovation (M. Sc.)
+Doppelabschlussstudiengänge
+Doppelbachelor BWL und Global Management (B.Sc)
+Dt.-frz. integrierter Studiengang Politikwissenschaft (B. A.)
+Dt.-frz. integrierter Studiengang Politikwissenschaft (M. A.)
+Conflict, Memory and Peace (M. A.)
+Tourismus und nachhaltige Regionalentwicklung (M. Sc.)
+Werbung interkulturell (M. A.) - Sprache, Medien, Marketing
+Betriebswirtschaftslehre (M. Sc.) mit den Schwerpunkten:
+Betriebswirtschaftslehre International (M. Sc.)
+Digital Customer Experience & Service Design (M. Sc.)
+Studiengänge mit integriertem (verpflichtendem) Auslandssemester
+Europastudien (B. A.)
+Europastudien (M. A.)
+Journalistik (B. A.)
+Lateinamerikastudien (B. A.)

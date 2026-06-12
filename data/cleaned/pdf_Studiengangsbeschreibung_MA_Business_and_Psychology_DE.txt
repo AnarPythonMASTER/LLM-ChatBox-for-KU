@@ -1,0 +1,352 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_MA_Business_and_Psychology_DE.pdf
+TITLE: Studiengangsbeschreibung_MA_Business_and_Psychology_DE.pdf
+SOURCE_FILE: Studiengangsbeschreibung_MA_Business_and_Psychology_DE.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status 4/2026 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den 
+Interdisziplinären Master „Business and Psychology“ (M.Sc.) 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+A. Allgemeine Struktur des Studiengangs .................................................................. 2 
+B. Beschreibung des Studiengangs 
+........................................................................... 4 
+1. 
+Der Studiengang in 3 Sätzen 
+............................................................................. 4 
+2. 
+Zielgruppe ........................................................................................................ 4 
+C. Studiengangskonzept ........................................................................................... 5 
+1. 
+Struktur des Studiengangs 
+................................................................................ 5 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen ...................................................... 5 
+1.2. 
+Qualifikationsziele 
+....................................................................................... 5 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+................................................... 5 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+....................................................... 5 
+2. 
+Aufbau des Studiengangs ................................................................................. 6 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs .................................................... 6 
+2.2. 
+Pflichtbereich ................................................................................................ 6 
+2.3. 
+Wahlpflichtbereich ......................................................................................... 6 
+2.4. 
+Wahlbereich .................................................................................................. 7 
+2.5. 
+Studium.Pro 
+.................................................................................................. 7 
+2.6. 
+Praxisbezug .................................................................................................. 7 
+2.7. 
+Ausgestaltung der Internationalisierung 
+.......................................................... 7 
+D. Beitrag des Studiengangs zum KU-Profil 
+............................................................... 7 
+Anlage: 
+........................................................................................................................ 9 
+Idealtypischer Studienverlaufsplan ............................................................................... 9 
+Diploma Supplement (englisch, deutsch) 
+...................................................................... 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 2]
+Status 4/2026 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Der Name des Studiengangs lautet 
+ 
+Interdisziplinärer Master „Business and Psychology“ 
+ 
+Verantwortliche Fakultät: 
+ 
+Wirtschaftswissenschaftliche Fakultät 
+ 
+Beteiligte Fakultät/en: 
+ 
+Philosophisch-Pädagogische Fakultät 
+ 
+Der Studiengang führt zur Verleihung des akademischen Grades: 
+ 
+Master of Science, M. Sc. 
+ 
+Studienform: 
+☒ Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☐ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+☐ grundständig 
+☒ konsekutiv 
+☐ weiterbildend 
+ 
+(gilt nur für Masterstudiengänge): 
+☒ anwendungs- und forschungsorientiert 
+☐ forschungsorientiert 
+ 
+Regelstudienzeit: 
+4 Semester (Vollzeit) 
+ 
+ 
+ 
+ 
+
+[Page 3]
+Status 4/2026 
+ 
+ 
+ 
+3 
+ 
+Studienbeginn: 
+☐ Sommersemester 
+☒ Wintersemester 
+☐ Jedes Semester 
+ 
+Anzahl der zu vergebenden ECTS-Leistungspunkte: 
+120 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+ 
+☒ Nein 
+☐ Ja, € pro Semester 
+ 
+ 
+ 
+ 
+
+[Page 4]
+Status 4/2026 
+ 
+ 
+ 
+4 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in 3 Sätzen 
+Der Masterstudiengang „Business and Psychology“ vermittelt die methodischen Grundlagen 
+zur Analyse und kritischen Bewertung von Problemstellungen in den Bereichen Management, 
+organisationales Verhalten sowie Interaktion zwischen Organisationen und Märkten. Das Pro-
+gramm beleuchtet sowohl interne Perspektiven wie Aufbau, Management und Entwicklung von 
+Organisationen als auch externe Perspektiven wie das Verhalten von Unternehmen und Indivi-
+duen auf Märkten. 
+ 
+2. Zielgruppe 
+Der Masterstudiengang richtet sich an deutschsprachige und internationale Studieninteressierte 
+mit einem ersten berufsqualifizierenden Hochschulabschluss in einem Studiengang der Wirt-
+schaftswissenschaften, Betriebswirtschaftslehre, Volkswirtschaftslehre, Psychologie oder ei-
+nem gleichwertigen Abschluss. 
+ 
+ 
+
+[Page 5]
+Status 4/2026 
+ 
+ 
+ 
+5 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+Die Studierenden müssen einen unter B.2. genannten oder einen vergleichbaren Bachelorab-
+schluss als ersten berufsqualifizierenden Hochschulabschluss erworben haben. Darüber hinaus 
+müssen sie jeweils Kompetenzen im Bereich von Mathematik/Statistik (Umfang von 10 ECTS-
+Punkten), und allgemeiner BWL und Psychologie nachweisen. 
+Darüber hinaus sind Sprachnachweise in Englisch (B2-Niveau) zu erbringen. Es werden 
+Deutschkenntnisse auf dem Mindestniveau A2 empfohlen. 
+ 
+1.2. 
+Qualifikationsziele 
+Die Ziele des Studiengangs umfassen Forschung und Lehre an der Schnittstelle von Wirtschaft 
+und Psychologie, einen internationalen Austausch, die Vernetzung der Studierenden und Do-
+zierenden sowie das Erlernen der Fähigkeit, erworbenes interdisziplinäres Wissen auf den Kon-
+text von Organisationen anzuwenden. Der Studiengang ist so konzipiert, dass die Studierenden 
+die Möglichkeit haben, Kompetenzen zu fünf Kernbereichen zu erwerben: Kompetenzen im 
+Bereich von (1) Consumers, Marketing and Market Psychology, (2) Sustainability, Ethics, and 
+Social Impact, (3) Methodologies of Business and Psychology, (4) Leadership, People and Or-
+ganizational Development sowie (5) International and Strategic Management. Absolventinnen 
+und Absolventen werden somit durch den Masterstudiengang dazu qualifiziert, in der Organi-
+sations- und Unternehmenspraxis auftretende Probleme zu erkennen und zu lösen. Die Mehr-
+zahl der Absolvierenden wird ihre Fähigkeiten und ihr Wissen im Organisationskontext ein-
+bringen. Sie werden dazu ausgebildet, Führungspositionen als leitende Angestellte, Personal-
+verantwortliche, Marketing- und Produktmanagerinnen und -manager sowie als Beraterinnen 
+und Berater verantwortungsvoll zu bekleiden. Sie sind damit bestens dafür geeignet, Positionen 
+zu übernehmen, die eine Kombination von Wissen und Fähigkeiten aus den Wirtschaftswissen-
+schaften und der Psychologie erfordern. 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Studierende, die an einer akademischen Laufbahn interessiert sind, werden im Masterstudien-
+gang hervorragend darauf vorbereitet, ihr erworbenes Wissen und ihre Kompetenzen für eine 
+Karriere im Forschungsbereich einzusetzen und eine Promotion beispielsweise an der KU an-
+zustreben. Darauf sind die Lehrveranstaltungen des Masterstudiengangs gezielt ausgerichtet, 
+wie etwa das interdisziplinäre Forschungsseminar. 
+ 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+Die Arbeitswelt und die Arbeitsweisen in Organisationen unterliegen einem stetigen Wandel, 
+hervorgerufen durch neue Technologien, globalen Wettbewerb, globale Herausforderungen wie 
+Klimawandel oder geopolitische Krisen, sowie sich stetig verändernder Organisationen. Für 
+Führungskräfte bzw. Personen mit hoher Verantwortung in Organisationen bedeutet dies, dass 
+auch die Komplexität ihrer Aufgaben zunehmend steigt. Zur verantwortungsvollen Erfüllung 
+dieser Aufgaben ist multi- und interdisziplinäres Wissen notwendig, das sowohl ökonomische 
+als auch psychologische Kenntnisse umfasst. Auf diese Aufgabenfelder und Herausforderungen 
+der Praxis bereitet der Masterstudiengang sehr gezielt durch seine interdisziplinäre Ausrichtung 
+
+[Page 6]
+Status 4/2026 
+ 
+ 
+ 
+6 
+vor. Durch das englischsprachige Studienprogramm und eine interdisziplinäre Studierenden-
+schaft sind die zukünftigen Arbeitsfelder nicht auf den deutschen Sprachraum beschränkt, son-
+dern umfassen ebenso Tätigkeiten in internationalen Organisationen und Unternehmen. 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Im Studiengang werden Module aus den fünf Themenbereichen “Consumers, Marketing and 
+Market Psychology”, “Sustainability, Ethics, and Social Impact”, “Methodologies of Business 
+and Psychology”, “Leadership, People and Organizational Development” sowie “International 
+and Strategic Management” angeboten. Diese Themenbereiche sind nicht als verpflichtende, 
+sondern als individuelle Schwerpunktsetzungen zu verstehen und ermöglichen den Studieren-
+den somit eine große Wahlmöglichkeit. Der Studiengang umfasst Pflichtmodule, Wahlpflicht-
+module und Wahlmodule. Darüber hinaus wird ein interdisziplinäres Forschungsseminar ange-
+boten, das auf eine empirisch gestaltete Masterarbeit vorbereitet. Der Studiengang entspricht 
+damit trotz seiner Komplexität weitgehend den bisher üblichen Strukturen von Masterstudien-
+gängen an der WFI. 
+ 
+2.2. 
+Pflichtbereich 
+Die Pflichtmodule umfassen sechs Module, die einen Umfang von 30 ECTS haben. Diese soll-
+ten gemäß idealtypischem Studienverlaufsplan gleich zu Beginn des Studiums belegt werden, 
+um eine gemeinsame inhaltliche Grundlage in allen fünf thematischen Säulen zu schaffen. Dar-
+über hinaus ist ein zusätzliches verpflichtendes interdisziplinäres Forschungsseminar im Um-
+fang von 5 ECTS vorgesehen, welches im dritten Semester stattfindet. Bei inhaltlicher Nähe 
+kann das Seminar auch von mehreren Professuren gemeinsam durchgeführt werden. Es hat ei-
+nen starken Bezug zur Masterarbeit, die mit weiteren 30 ECTS eingerechnet wird. 
+ 
+Konkret besteht der Pflichtbereich aus den folgenden Modulen: 
+1. Business and Psychology: Joint Seminar with Tandem Projects (5 ECTS-Punkte) im 
+Rahmen von Studium.Pro: Pro Diskurs 
+2. Consumer Psychology and Decision Making (5 ECTS-Punkte) 
+3. Psychology of Organizational Behavior (5 ECTS-Punkte) 
+4. People and Organization (5 ECTS-Punkte) 
+5. Introduction to Psychological Assessment (5 ECTS-Punkte) 
+6. Market Psychology and Strategic Marketing Communication (5 ECTS-Punkte) 
+7. Empirical Research in Business and Psychology (5 ECTS-Punkte) 
+ 
+2.3. 
+Wahlpflichtbereich 
+Der Wahlpflichtbereich umfasst 35 ECTS und zielt auf eine möglichst flexible Schwerpunkt-
+setzung ab. Die Wahlpflichtmodule werden im Studiengang vorwiegend im zweiten Semester 
+
+[Page 7]
+Status 4/2026 
+ 
+ 
+ 
+7 
+angeboten, um den Studierenden, die ein Semester im Ausland studieren wollen, ein solches 
+Auslandssemester im dritten Semester zu erleichtern. 
+ 
+Die aktuellen Wahlpflichtmodule können dem Modulkatalog entnommen werden. 
+ 
+2.4. 
+Wahlbereich 
+Es müssen Wahlmodule im Umfang von 20 ECTS-Punkten absolviert werden. Spezifische 
+Wahlmodule können ausschließlich für den Studiengang angeboten werden. Grundsätzlich 
+können Wahlpflichtmodule auch als Wahlmodule absolviert werden, aber nicht umgekehrt. 
+Auch hier ist es das Ziel, den deutschsprachigen und internationalen Studierenden aus einem 
+möglichst breiten Angebot wählen zu lassen. 
+ 
+Die Wahlmodule können ebenfalls dem Modulkatalog entnommen werden. 
+ 
+2.5. 
+Studium.Pro 
+Das englischsprachige interdisziplinäre Pflichtmodul „Business and Psychology: Joint Seminar 
+with Tandem Projects“ im ersten Semester ist ein Modul im Sinne von Studium.Pro: Pro Dis-
+kurs. Damit ist das Angebot fachintegriert. 
+ 
+2.6. 
+Praxisbezug 
+Das Studium ist sowohl anwendungs- als auch forschungsorientiert. Der für die Anwendungs-
+orientierung notwendige Theorie-Praxis-Transfer wird bereits im ersten Semester durch das 
+Seminar mit den Tandem-Projekten hergestellt. Dadurch wird gleich zu Beginn des Studiums 
+deutlich, wie relevant das im Master erworbene Wissen für die spätere Berufspraxis einer Füh-
+rungsperson bzw. einer Person mit großer Verantwortung in einer Organisation ist. Außerdem 
+ist die Ausrichtung auf diese Berufspraxis in den Pflicht- und Wahlpflichtmodulen mitgedacht 
+bzw. in allen Pflichtmodulen expliziert. Darüber hinaus wird der Praxisbezug durch die nach-
+folgend beschriebene Internationalisierung befördert. 
+ 
+2.7. 
+Ausgestaltung der Internationalisierung 
+Der Studiengang richtet sich an deutsche und internationale Studierende. Die Kurse werden 
+vorrangig auf Englisch gelehrt und der Studiengang ist vollständig auf englisch studierbar. 
+Pflichtveranstaltungen werden ausschließlich auf Englisch angeboten. In jedem Fall profitieren 
+alle Studierenden von der internationalen Ausrichtung der Gruppe der Studierenden und Do-
+zierenden. Zugleich führt das Arbeiten in internationalen Gruppen die Studierenden bereits 
+während ihres Studiums optimal an das Thema der Diversität am zukünftigen Arbeitsplatz 
+heran. Der Masterstudiengang bereitet damit zukünftige Führungskräfte in idealer Weise auf 
+die Herausforderungen des Berufslebens vor. Darüber hinaus ist auch ein Auslandssemester 
+möglich. Insgesamt setzt der Studiengang Kooperationen mit ausländischen Universitäten vo-
+raus – auch, um Studierende dieser Universitäten für diesen Studiengang zu gewinnen („inco-
+ming students“). Viele Kooperationen mit ausländischen Universitäten bestehen bereits. 
+D. Beitrag des Studiengangs zum KU-Profil 
+ 
+
+[Page 8]
+Status 4/2026 
+ 
+ 
+ 
+8 
+Dem spezifischen Profil der KU wird auf inhaltlicher Ebene Rechnung getragen, indem der 
+Master die gesellschaftliche Verantwortung von Führungskräften aufgreift, reflektiert und die-
+ser Verantwortung durch einen multi- und interdisziplinären Ansatz begegnet. Darüber hinaus 
+werden die bereits existierenden Kooperationen zwischen den Wirtschaftswissenschaften und 
+der Psychologie auf eine Weise vertieft, die zwar vielfach gefordert, bislang aber selten in Form 
+eines gemeinsamen Studiengangs realisiert werden konnte. Auch diese Form von Kooperation 
+und die damit verbundene Bereitschaft, sich auf andere Fächerkulturen einzulassen, ist u.E. ein 
+Beitrag, um das Profil der KU in positiver Weise fortzuentwickeln. 
+ 
+ 
+ 
+
+[Page 9]
+Status 4/2026 
+ 
+ 
+ 
+9 
+Anlage: 
+Idealtypischer Studienverlaufsplan 
+Diploma Supplement (englisch, deutsch)

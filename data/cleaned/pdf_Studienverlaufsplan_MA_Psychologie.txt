@@ -1,0 +1,76 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_MA_Psychologie.pdf
+TITLE: Studienverlaufsplan_MA_Psychologie.pdf
+SOURCE_FILE: Studienverlaufsplan_MA_Psychologie.pdf
+------------------------------------------------------------
+
+[Page 1]
+12 
+ 
+ 
+Idealtypischer Studienverlaufsplan M.Sc. Psychologie 
+ 
+ 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Projektarbeit 
+(10 ECTS-Punkte) 
+Wahlmodul 
+(5 ECTS-Punkte) 
+Masterarbeit 
+(30 ECTS-Punkte) 
+Wahlpflichtmodul 
+(Profil) 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+3 
+Praktikum 
+(15 ECTS-Punkte) 
+Wahlpflichtmodul 
+(Profil) 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+2 
+Wissenschaftliches 
+Schreiben 
+(5 ECTS-Punkte) 
+Einzelfalldiagnostik und psychologische 
+Begutachtung 
+(10 ECTS-Punkte) 
+ 
+Multivariate 
+Verfahren 
+(5 ECTS-Punkte) 
+ 
+Wahlpflichtmodul 
+(Profil) 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+1 
+Wahlpflichtmodul 
+(5 ECTS-Punkte) 
+Studium.Pro 
+(5 ECTS-Punkte) 
+Wahlpflichtmodul 
+(5 ECTS-Punkte) 
+Versuchsplanung 
+& Datenanalyse 
+(5 ECTS-Punkte) 
+Wahlpflichtmodul 
+(Profil) 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte

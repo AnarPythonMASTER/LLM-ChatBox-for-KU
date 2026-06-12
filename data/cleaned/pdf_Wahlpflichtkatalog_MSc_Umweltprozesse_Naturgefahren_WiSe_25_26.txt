@@ -1,0 +1,60 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_MSc_Umweltprozesse_Naturgefahren_WiSe_25_26.pdf
+TITLE: Wahlpflichtkatalog_MSc_Umweltprozesse_Naturgefahren_WiSe_25_26.pdf
+SOURCE_FILE: Wahlpflichtkatalog_MSc_Umweltprozesse_Naturgefahren_WiSe_25_26.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Masterstudiengang 
+Umweltprozesse und Naturgefahren 
+ 
+1. nach § 8 Abs. 2 der Prüfungsordnung vom 30. Januar 2015 in der Fassung vom 
+TT.MM.JJJJ 
+2. Geltungsbereich zum WiSe 2025/26 
+ 
+3. vom Fakultätsrat der Mathematisch-Geographischen Fakultät beschlossen am 
+16.07.2025 
+ 
+ 
+Auflistung der Wahlpflichtmodule 
+ 
+• Bodenerosion: Messung - Modellierung - Management, WP-1: 5 ECTS-Punkte; 
+Voraussetzung: Erfolgreicher Abschluss der Module der Grundlagenphase, 
+Teilnahme an den Modulen der Vertiefungs- und Spezialisierungsphase; 
+Modulprüfung: Portfolio(benotet); unbenotete reflexive Diskussionsleistung; 
+• Hochwassermanagement, WP-2a: 5 ECTS-Punkte; Voraussetzung: Teilnahme 
+an den Modulen der Grundlagenphase; Modulprüfung: Klausur; 
+• Hydrometeorologie und Management von Wasserressourcen, WP-2b: 5 ECTS-
+Punkte; Modulprüfung: mündliche Prüfung und Präsentation (freiwillige 
+Zusatzleistung zur Notenverbesserung); 
+• Aspekte des Managements von Risiken durch Naturgefahren, WP-3, 5 ECTS-
+Punkte; Voraussetzung: Teilnahme an den Modulen der Grundlagenphase; 
+Modulprüfung: Portfolio; unbenotete reflexive Diskussionsleistung im Rahmen 
+von Seminar und ggf. Exkursionen 
+• Gebirgseinzugsgebiete im Klimawandel, WP-3b: 5 ECTS-Punkte; Modulprüfung: 
+Modulnote errechnet sich anteilig aus Präsentation, mit wissenschaftlichen 
+Aufsatz (ca. 9.000 Zeichen ohne Leerzeichen):65% und Klausur 35%; 
+• Klimatologische Gelände- und Analysemethoden, WP-4: 5 ECTS-Punkte; 
+Modulprüfung: unbenotete reflexive Diskussionsleistung, wissenschaftlicher 
+Aufsatz und Präsentation (Note: gewichtetes arithmetisches Mittel im Verhältnis 
+1:1 – Präsentation: wissenschaftlicher Aufsatz); 
+• Einführung in die Programmiertechnik, Modulprüfung siehe BA Data Science; 
+• Hands-on Machine Learning and Data Science, Voraussetzung: Absolvierung 
+des Moduls Einführung in die Programmiertechnik, Modulprüfung siehe BA Data 
+Science; 
+• Praxismodul, WP-6: 5 ECTS-Punkte; Modulprüfung: regelmäßige Anwesenheit 
+(15 Werktage in Vollzeit), Praktikumsbericht (ca. 4.500 Zeichen ohne 
+Leerzeichen), unbenotet; 
+• Methodenwerkstatt Physische Geographie: 5 ECTS-Punkte; Modulprüfung: 
+Portfolio mit Leistungsnachweisen dreier verschiedener Workshops (unbenotet). 
+Mehrfachwahl möglich bei erfolgreicher Belegung von sechs verschiedenen 
+Workshops. 
+ 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Weitere Module aus benachbarten Fächern der KU Eichstätt-Ingolstadt, der TU München 
+oder der Hochschule München können im Umfang von bis zu 15 ECTS-Punkten 
+eingebracht werden.

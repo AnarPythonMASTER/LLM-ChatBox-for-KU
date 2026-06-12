@@ -1,0 +1,69 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulplan_Frankoromanistik_MA.pdf
+TITLE: Modulplan_Frankoromanistik_MA.pdf
+SOURCE_FILE: Modulplan_Frankoromanistik_MA.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Interdisziplinärer MA; Profil flexibler Masterstudiengang 
+ Frankoromanistik (exemplarischer Modulplan) 
+ 
+ 
+ 
+4 
+Masterarbeit (inklusive wissenschaftlichem Kolloquium zur Masterarbeit) 
+30 ECTS 
+3 
+Berufspraktikum 
+Auslandssemester 
+30 ECTS 
+2 
+Wahlpflichtmodul 
+Sprach- oder 
+Literaturwissenschaft 
+Wahlpflichtmodul 
+Sprach- oder 
+Literaturwissenschaft 
+Wahlpflichtmodul Sprach-/ 
+Literaturwissenschaft oder 
+Sprachpraxis 
+Studium.Pro 
+ 
+ 
+30 ECTS 
+1 
+Wahlpflichtmodul 
+Sprach- oder 
+Literaturwissenschaft 
+Wahlpflichtmodul 
+Sprach- oder 
+Literaturwissenschaft 
+Wahlpflichtmodul 
+Sprachpraxis 
+ 
+ 
+ 
+30 ECTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Frankoromanistik 
+ 
+ 
+weiteres Fach 
+ 
+ 
+ 
+ 
+MA-Arbeit und Modul zur MA-Arbeit 
+Praxisbezogener Studienteil 
+Auslandsstudium (empfohlen) 
+ 
+Profilorientiertes Studieren

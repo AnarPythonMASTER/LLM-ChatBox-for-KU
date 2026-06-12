@@ -1,0 +1,77 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_Master_Taxation_WiSe_2019.pdf
+TITLE: Wahlpflichtkatalog_Master_Taxation_WiSe_2019.pdf
+SOURCE_FILE: Wahlpflichtkatalog_Master_Taxation_WiSe_2019.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+M.Sc. Taxation 
+ 
+1. nach § 8 der Prüfungsordnung für den Masterstudiengang Taxation in der Fassung vom 
+18.10.2019. 
+2. Geltungsbereich zum WiSe 2019/20 
+3. vom Fakultätsrat der Fakultät __________ beschlossen am _____________ 
+ 
+ 
+Auflistung der Wahlpflichtmodule 
+In der PO verankerte Wahlpflichtbereiche: 
+ 
+Wahlpflichtbereich Taxation, 
+Wahlpflichbereich Minor Accounting & Auditing, 
+Wahlpflichtbereich Minor Business Law, 
+Wahlpflichtbereich Minor Digitization and Digital Businesses, 
+Wahlpflichbereich Minor Quantitative Methods. 
+ 
+ 
+1. Modulangebot im Wahlpflichtbereich Taxation 
+Abgabenordnung (5 ECTS) 
+Corporate Tax Avoidance (2,5 ECTS) 
+Fallstudien internationale Besteuerung (2,5 ECTS) 
+Fallstudien Mergers & Acquisitions (2,5 ECTS) 
+MA-Seminar „Aktuelle Fragen der Unternehmensbesteuerung“ (5 ECTS) 
+Multinationale Unternehmen und ihre Besteuerung (5 ECTS) 
+Seminar „Current Issues in Tax Policy“ (5 ECTS) 
+Strukturgestaltungen im Konzern (5 ECTS) 
+Umwandlungssteuerrecht (5 ECTS) 
+Verrechnungspreise (2,5 ECTS) 
+ 
+2. Modulangebot im Wahlpflichbereich Minor Accounting & Auditing 
+Internationale Rechnungslegung, Prüfung und Unternehmensbewertung (5 ECTS) 
+Kapitalmarktorientierte Rechnungslegung (5 ECTS) 
+Seminar Accounting & Controlling (5 ECTS) 
+Seminar Accounting & Auditing (5 ECTS) 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wirtschaftliches Prüfungswesen (5 ECTS) 
+ 
+3. Modulangebot im Wahlpflichbereich Minor Business Law 
+Bilanzrecht (5 ECTS) 
+Europäisches Wirtschaftsrecht (5 ECTS) 
+Insolvenzrecht (5 ECTS) 
+Umwandlungsrecht (5 ECTS) 
+ 
+4. Modulangebot im Wahlpflichtbereich Minor Digitization and Digital Businesses 
+Algorithmen und Datenstrukturen (5 ECTS) 
+Data Science Werkzeuge (5 ECTS) 
+Data Science Methoden (5 ECTS) 
+Digital Business Models and Technologies (5 ECTS) 
+Innovation Economics (5 ECTS) 
+Service Analytics (5 ECTS) 
+ 
+5. Modulangebot im Wahlpflichbereich Minor Quantitative Methods 
+Empirical Finance (5 ECTS) 
+International Tax: Interdisciplinary Aspects (5 ECTS) 
+Lektürekurs zur Ökonometrie (5 ECTS) 
+Lektürekurs zur Statistik (5 ECTS) 
+Quasi-experimental Policy Evaluation (5 ECTS) 
+Seminar Statistik (5 ECTS) 
+Seminar Ökonometrie (5 ECTS) 
+Statistische Prognoseverfahren (5 ECTS) 
+Zeitreihenanalyse (5 ECTS) 
+ 
+Im Wahlbereich kann aus dem gesamten Masterangebot der wirtschaftswissenschaftlichen Fakultät 
+gewählt werden.

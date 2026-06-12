@@ -1,0 +1,436 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_MSc_Umweltprozesse_Naturgefahren.pdf
+TITLE: Studiengangsbeschreibung_MSc_Umweltprozesse_Naturgefahren.pdf
+SOURCE_FILE: Studiengangsbeschreibung_MSc_Umweltprozesse_Naturgefahren.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status 3/2025_08 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den 
+Masterstudiengang 
+Physische Geographie: Umweltprozesse und Naturgefahren 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+A. Allgemeine Struktur des Studiengangs .................................................................. 2 
+B. Beschreibung des Studiengangs 
+........................................................................... 3 
+1. Der Studiengang in drei Sätzen 
+.......................................................................... 3 
+2. Zielgruppe ......................................................................................................... 3 
+C. Studiengangskonzept ........................................................................................... 4 
+1. Struktur des Studiengangs 
+................................................................................. 4 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen........................................................ 4 
+1.2. 
+Qualifikationsziele ........................................................................................ 4 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten .................................................... 5 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder ........................................................ 5 
+2. Aufbau des Studiengangs 
+.................................................................................. 5 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+...................................................... 5 
+2.2. 
+Pflichtbereich 
+.................................................................................................. 6 
+2.3. 
+Wahlpflichtbereich .......................................................................................... 6 
+2.4. 
+Wahlbereich ................................................................................................... 6 
+2.5. 
+Studium.Pro ................................................................................................... 6 
+2.6. 
+Praxisbezug 
+.................................................................................................... 7 
+2.7. 
+Ausgestaltung der Internationalisierung 
+........................................................... 7 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre ...................................................................................................... 8 
+E. Anlagen ................................................................................................................ 9 
+1. Idealtypischer Studienverlaufsplan in Vollzeit ...................................................... 9 
+2. Idealtypischer Studienverlaufsplan in Teilzeit 
+..................................................... 10 
+ 
+ 
+ 
+ 
+
+[Page 2]
+Status 3/2025_08 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Name des Studiengangs: 
+ 
+Geographie: Umweltprozesse und 
+Naturgefahren 
+ 
+Verantwortliche Fakultät: 
+ 
+Mathematisch-Geographische Fakultät 
+ 
+Weitere beteiligte Fakultät/en: 
+ 
+Wählen Sie ein Element aus. 
+Wählen Sie ein Element aus. 
+ 
+Akademischer Grad: 
+Master of Science (M.Sc.) 
+ 
+Studienform: 
+ 
+☐ Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☒ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+ 
+☒ grundständig 
+☐ konsekutiv 
+☐ weiterbildend 
+ 
+Wissenschaftliche/Praktische 
+Orientierung: 
+(nur bei Masterstudiengängen) 
+ 
+☐ eher anwendungsorientiert 
+☐ eher forschungsorientiert 
+Regelstudienzeit: 
+4 Semester (Vollzeit) 
+ 
+8 Semester (Teilzeit) 
+ 
+Studienbeginn: 
+ 
+☐ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-
+Leistungspunkte: 
+120 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+☒ Nein 
+☐ Ja, € pro Semester 
+ 
+
+[Page 3]
+Status 3/2025_08 
+ 
+ 
+ 
+3 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in drei Sätzen 
+In einer stark vom Menschen beeinflussten Welt im Wandel ist das Verständnis von 
+Prozessen, die aus den Wechselwirkungen der Atmosphäre, Hydrosphäre, Litho- und 
+Pedosphäre sowie der Biosphäre entstehen, essenziell für die Analyse und Bewertung 
+von Mensch-Umwelt-Problemen und Naturgefahren. Der zugleich praxisnahe und 
+forschungsorientierte 
+Masterstudiengang 
+„Geographie: 
+Umweltprozesse 
+und 
+Naturgefahren“ vermittelt die Fähigkeit, Problemanalysen auf lokaler und regionaler Ebene 
+durchzuführen und Lösungsvorschläge für einen nachhaltigen Umgang mit den 
+Ressourcen des Planeten zu erarbeiten. Unsere Absolventinnen und Absolventen 
+erwerben methodische Kompetenzen im Umgang mit moderner und innovativer 
+Technologie für die Datenaufnahme im Gelände sowie die Auswertung im Labor und am 
+Rechner, die sie für ein breites Tätigkeitsfeld in Wirtschaft und Wissenschaft qualifizieren. 
+ 
+2. Zielgruppe 
+Der breit angelegte Masterstudiengang richtet sich an Absolventinnen und Absolventen 
+von Bachelorstudiengängen aus dem Bereich der Geo- und Umweltwissenschaften 
+sowie dem Lehramt bei Wahl einschlägiger Fachkombinationen. Weitere Zugänge etwa 
+aus dem technischen und naturwissenschaftlichen Bereich sind ebenso möglich. Auch 
+fachfremden Bewerberinnen und Bewerbern steht der Studiengang prinzipiell offen; dies 
+steht nach Durchlaufen des Bewerbungsverfahrens ggf. unter dem Vorbehalt der 
+Belegung ausgewählter Module aus dem BSc-Studiengang Geographie an der KU 
+Eichstätt-Ingolstadt. 
+ 
+ 
+
+[Page 4]
+Status 3/2025_08 
+ 
+ 
+ 
+4 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+Die Qualifikation für den Masterstudiengang „Geographie: Umweltprozesse und 
+Naturgefahren“ 
+wird 
+nachgewiesen 
+durch 
+den 
+ersten 
+berufsqualifizierenden 
+Hochschulabschluss in einem Bachelorstudiengang Geographie mit mindestens der 
+Gesamtnote 
+2,7 
+oder 
+alternativ 
+durch 
+einen 
+ersten 
+berufsqualifizierenden 
+Hochschulabschluss in einem vergleichbaren Studiengang. Die Details sind in der 
+Prüfungsordnung des Studiengangs geregelt. 
+ 
+1.2. 
+Qualifikationsziele 
+Das Masterstudium „Geographie: Umweltprozesse und Naturgefahren“ soll die 
+Studierenden auf eine spätere Berufstätigkeit im Themenbereich des Studiengangs und 
+auf eine wissenschaftliche Weiterqualifikation vorbereiten. 
+Zu den Qualifikationszielen des Studiengangs gehören daher das wissenschaftliche 
+Denken und Arbeiten, Fach- und Methodenkompetenz sowie die Befähigung zu 
+verantwortungsbewusstem, nachhaltigem Handeln. 
+Studierende sollen Fähigkeiten entwickeln wie 
+• Systemisches Denken. Dazu gehören das Verständnis und die Modellierung von 
+natürlichen und Mensch-Umwelt-Systemen sowie eine dafür nötige raum-zeitliche 
+Denk- und Arbeitsweise 
+• Fachliches Urteilsvermögen, insbesondere im Kontext der Erarbeitung von 
+nachhaltigen Lösungen für den Umgang mit Umweltprozessen und Naturgefahren 
+• Kenntnisse 
+im 
+Bereich 
+(Landschafts-)Ökosystem-, 
+Auen- 
+und 
+Renaturierungsforschung 
+• Kenntnis (in Theorie und Praxis) von Arbeitstechniken, z.B. Datenerhebung im 
+Gelände, Messtechniken (digitale Reliefaufnahme, hydrologische Messungen), 
+Datenhaltung und Analyse mithilfe von Statistiksoftware und Geographischen 
+Informationssystemen 
+• Selbstständiges Arbeiten von der Erarbeitung von wissenschaftlichen und 
+angewandten Fragestellungen über die Projektkonzeption bis zur Umsetzung 
+• Erstellung wissenschaftlicher Arbeiten in verschiedenen Formaten (wiss. Aufsatz, 
+Poster, Vortrag) 
+• Kommunikationsvermögen und Kooperationsvermögen in Teamarbeit 
+ 
+Da die Absolventen des Masterstudiengangs in einem sehr breiten Berufsspektrum tätig 
+sind und sich neuen beruflichen Entwicklungen optimal anpassen müssen, ist die 
+praxisnahe umweltwissenschaftliche Ausbildung innerhalb des thematischen Rahmens 
+des Studiengangs breit angelegt. Durch den umfangreichen Wahlpflichtbereich bietet der 
+Studiengang 
+verschiedene, 
+den 
+Interessen 
+entgegenkommende 
+Spezialisierungsmöglichkeiten 
+an. 
+Das 
+Studium 
+befähigt 
+Geographinnen 
+und 
+Geographen durch vielfältige wissenschaftliche Kooperationen, auch mit der Praxis, zu 
+interdisziplinärem Arbeiten. 
+ 
+
+[Page 5]
+Status 3/2025_08 
+ 
+ 
+ 
+5 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Absolventinnen und Absolventen des Masterstudiengangs sind nicht nur für die Arbeit in 
+den in 1.4 genannten Berufsfeldern qualifiziert, sondern haben auch Kompetenzen im 
+Bereich des wissenschaftlichen Arbeitens erworben und können sich im Rahmen einer 
+Promotion weiterqualifizieren. 
+ 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+Der Masterstudiengang Geographie: Umweltprozesse und Naturgefahren besteht seit 
+dem WiSe 2010/11. Mit Stand SoSe 2023 haben seitdem ca. 250 Studierende den 
+Studiengang erfolgreich absolviert. Die Nachfrage nach den im Studiengang vermittelten 
+Kompetenzen ist anhaltend sehr hoch, so dass die Verbleibs- und Alumnibefragungen 
+eine nahezu 100%ige Annahme am Arbeitsmarkt bestätigen. Angesichts der aktuellen 
+Umweltprobleme und gesellschaftlichen Diskussionen wird sich daran auch in Zukunft 
+nichts ändern. Zusammengefasst können exemplarisch folgende Tätigkeitbereiche 
+genannt werden: 
+• Umwelt-, Klima- und Naturschutz, Nachhaltiges Umweltmanagement 
+• Gefahren- und Risikoanalysen im Versicherungswesen 
+• Angewandte Wasserwirtschaft 
+• Ressourcenschutz 
+• Geodatenmanagement und -verarbeitung 
+• Consulting im Naturschutz, Naturgefahren etc. 
+• Nachhaltige Regionalplanung und –entwicklung 
+• Wissenschaftliche Qualifikationsarbeiten (Promotionen an der KU und an 
+Universitäten im In- und Ausland) 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Der Studiengang gliedert sich in drei Phasen: die Grundlagen-, die Vertiefungs- und die 
+Spezialisierungsphase. 
+ 
+Das erste Semester (Grundlagenphase) bildet für die Studentinnen und Studenten das 
+theoretische Grundgerüst und den Einstieg in einzelne Umweltprozesse und 
+Naturgefahren sowie deren komplexes Zusammenspiel. Die Zusammenhänge und 
+Wechselwirkungen von menschlichem Handeln und geomorphologischen und hydro-
+logischen Prozessen stehen im Mittelpunkt des Moduls „Geomorphologische und 
+hydrologische Umweltprozesse und Naturgefahren“. Das Modul „Nachhaltige 
+Umweltentwicklung“ beinhaltet historische, politische und ethische Dimensionen. Weitere 
+Module vermitteln Wissen zu klimatologischen Prozessen und deren Umweltrelevanz und 
+führen ein in das Umweltmonitoring als regelmäßige und systematische Beobachtung von 
+naturwissenschaftlichen 
+Bereichen 
+mittels 
+ökologischer 
+Parameter. 
+Wichtige 
+Methodenkompetenzen werden in zwei Modulen im Bereich der Aufnahme und 
+Prozessierung digitaler Geländedaten sowie der geoinformatischen und statistischen 
+Analyseverfahren entwickelt. 
+ 
+
+[Page 6]
+Status 3/2025_08 
+ 
+ 
+ 
+6 
+Das zweite Semester (Vertiefungsphase) umfasst Lehrveranstaltungen, die sich mit der 
+Auseinandersetzung von Mensch und Umwelt bzw. Naturgefahr im Sinne einer Analyse, 
+eines Monitorings und Managements beschäftigen. Ein zentrales Element ist die 
+„Projektarbeit Umweltmonitoring“, bei der im Gelände, im Labor und am Rechner 
+Umweltprozesse und Naturgefahren erkannt, dokumentiert und bewertet werden sollen. 
+Hierbei bearbeiten die Studierenden in Anlehnung an laufende Forschungsprojekte an 
+den Professuren der Physischen Geographie angewandte geomorphologische, 
+auendynamische, (karst-)hydrologische, klimatologische oder landschaftsökologische 
+Fragestellungen. Ein großes Geländeseminar ermöglicht das intensive Kennenlernen 
+eines Natur- und Kulturraums. Vor Ort werden Entstehung, Wirksamkeit und 
+Konsequenzen von natürlichen Prozessen und deren Verflechtung mit der Gesellschaft 
+diskutiert. Die Aufnahme und Prozessierung digitaler Oberflächendaten findet ihre 
+Fortsetzung im Modul „Digitale Reliefanalyse“ mittels spezialisierter GIS-Anwendungen. 
+Module im Wahlpflichtbereich ermöglichen eine fachliche und methodische Vertiefung 
+z.B. in den Bereichen Landschaftsökologie, Naturgefahren (z.B. Hochwasser), 
+klimatologischen Gelände- und Analysemethoden sowie modernen Techniken im Bereich 
+Data Science und Maschinelles Lernen. 
+ 
+Im dritten und vierten Semester (Spezialisierungsphase) werden wichtige Weichen für die 
+weitere Arbeit in Wissenschaft und Praxis gestellt – die erworbenen Kenntnisse werden 
+weiter vertieft und angewendet. Das Modul „Angewandte Geologie“ ermöglicht Einblick 
+in die Arbeit von Behörden, Forschungsinstituten und Ingenieurbüros. Eine 
+Spezialisierung im Bereich Naturgefahren bieten die Module „Analyse von Risiken durch 
+Naturgefahren“, in dem es um die Wahrscheinlichkeit und Raumwirksamkeit 
+geomorphologischer und hydrologischer Gefahrenprozesse geht, sowie „Aspekte des 
+Managements von Risiken durch Naturgefahren“. 
+ 
+2.2. 
+Pflichtbereich 
+Die Module des Pflichtbereichs sind der Prüfungsordnung des Masterstudiengangs 
+Geographie: Umweltprozesse und Naturgefahren zu entnehmen. 
+ 
+2.3. 
+Wahlpflichtbereich 
+Der Wahlpflichtbereich ermöglicht eine Vertiefung und Spezialisierung sowie eine 
+individuelle Profilierung der Studierenden durch frei wählbare Module. Hierfür können die 
+Studierenden aus einem Pool von Wahlpflichtmodulen auswählen, die der Anlage 
+Wahlpflichtkatalog zu entnehmen sind. 
+ 
+2.4. 
+Wahlbereich 
+Der Wahlpflichtbereich enthält auch die Möglichkeit der Belegung von frei wählbaren 
+Modulen aus allen Fächern der KU Eichstätt-Ingolstadt oder an anderen Universitäten. 
+ 
+2.5. 
+Studium.Pro 
+In das Studienprogramm ist das Lehrangebot von Studium.Pro integriert, mit dem an der 
+KU der interdisziplinäre Diskurs im Geiste des früheren Studium Generale fortgesetzt 
+
+[Page 7]
+Status 3/2025_08 
+ 
+ 
+ 
+7 
+werden soll. Die Studierenden können dabei aus den Bereichen „Pro Diskurs“, „Pro 
+Horizont“ oder „Pro Gesellschaft“ frei ein Modul wählen. 
+ 
+2.6. 
+Praxisbezug 
+Der Praxisbezug wird im Studium durch die Integration von forschungspraktischen und 
+angewandten Inhalten in Modulen des Curriculums erreicht, indem beispielsweise in 
+Projektarbeiten (auch im Rahmen laufender Forschungsprojekte) Einblicke in die Praxis 
+des wissenschaftlichen Arbeitens ermöglicht werden. Diese Art des Praxisbezugs ist 
+gerade im Zuge des Wandels zur Wissensgesellschaft zunehmend auch für den 
+Arbeitsmarkt relevant. Darüber hinaus werden anwendungsorientierte Fragestellungen 
+mit Praxisrelevanz in zahlreichen Modulen thematisiert. Die Studierenden können ein 
+Berufspraktikum in den Wahlpflichtbereich einbringen. 
+ 
+2.7. 
+Ausgestaltung der Internationalisierung 
+Im Rahmen des Studiums besteht die Möglichkeit, Auslandsaufenthalte zu absolvieren. 
+Im ERASMUS+-Programm beispielsweise werden bis zu 12 Monate Auslandsstudium an 
+unseren Partneruniversitäten und/oder internationale Praktika gefördert. Über die 
+universitätsweiten Kooperationen stehen den Studierenden Möglichkeiten zum 
+Auslandsstudium in aller Welt offen, von Nord- oder Lateinamerika bis nach Singapur 
+oder Australien. Studienberatung, ERASMUS-Koordination und das International Office 
+der Universität beraten die Interessentinnen und Interessenten intensiv und sichern so 
+auch die reibungslose Studienorganisation sowie die Anrechnung von im Ausland 
+absolvierten Leistungen an der KU Eichstätt-Ingolstadt. 
+ 
+
+[Page 8]
+Status 3/2025_08 
+ 
+ 
+ 
+8 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage 
+des Leitbilds für Studium und Lehre 
+ 
+Bei der Entwicklung der KU Eichstätt-Ingolstadt zu einer „nachhaltige(re)n“ Universität ist 
+das Fach Geographie eine treibende Kraft. Die zentrale Bedeutung des Themas 
+Nachhaltigkeit für die KU Eichstätt-Ingolstadt ergibt sich bereits aus der Verankerung der 
+Thematik in Leitbild und Grundordnung. Das Fach Geographie liefert über seine 
+inhaltlichen Beiträge in Forschung und Lehre entscheidende Akzente, um die Aspekte 
+von Umwelt und Raumnutzung in die Nachhaltigkeitsthematik einzubringen. Die 
+Geographie-Studierenden sind im Rahmen des Umweltreferats (Gruppe des Stud. 
+Konvents), aber auch durch Projekte in den Nachhaltigkeitsprozess an der KU Eichstätt-
+Ingolstadt vielfach involviert. 
+ 
+
+[Page 9]
+Status 3/2025_08 
+ 
+ 
+ 
+9 
+E. Anlagen 
+1. Idealtypischer Studienverlaufsplan in Vollzeit 
+ 
+P170L6TB2#y1
+▶ direkter Link zum 
+Wahlpflichtkatalog 
+
+[Page 10]
+Status 3/2025_08 
+ 
+ 
+ 
+10 
+ 
+2. Idealtypischer Studienverlaufsplan in Teilzeit 
+Dieser Studiengang kann in Teilzeit studiert werden, bitte mit der Master-Studienberatung besprechen.

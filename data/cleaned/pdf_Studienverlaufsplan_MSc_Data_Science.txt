@@ -1,0 +1,154 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_MSc_Data_Science.pdf
+TITLE: Studienverlaufsplan_MSc_Data_Science.pdf
+SOURCE_FILE: Studienverlaufsplan_MSc_Data_Science.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anlage 1 zur Studiengangsbeschreibung 
+ 
+ 
+Idealtypischer Studienverlaufsplan 
+ 
+M.Sc. Data Science 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+General Elective 
+(5 ECTS-Punkte) 
+General Elective 
+(5 ECTS-Punkte 
+Master Thesis 
+(30 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+3 
+Statistics/Math 
+Elective 
+(5 ECTS-Punkte) 
+Ethics and Law 
+Elective 
+(5 ECTS-Punkte) 
+Studium.Pro 
+(5 ECTS-Punkte) 
+General Elective 
+(5 ECTS-Punkte) 
+ 
+30 ECTS-
+Punkte 
+2 
+Principles of Data Science/ 
+Principles of Machine Learning 
+(10 ECTS-Punkte) 
+Statistics/Math 
+Elective 
+(5 ECTS-Punkte) 
+Database 
+Management 
+(5 ECTS-Punkte) 
+Applied Data Science Project 
+(10 ECTS-Punkte) 
+ 
+30 ECTS-
+Punkte 
+1 
+Mathematics for Data Science 
+(10 ECTS-Punkte) 
+Statistics/Math 
+Elective 
+(5 ECTS-Punkte) 
+Programming 
+(5 ECTS-Punkte) 
+Operations 
+Research 
+(5 ECTS-Punkte) 
+General Elective 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+ 
+Pflichtbereich 
+Wahlpflichtbereich „Mathematics“ 
+Wahlpflichtbereich „Ethics and Law“ 
+Wahlpflichtbereich „Programming“ 
+Wahlbereich 
+ 
+ 
+
+[Page 2]
+Anlage 1 zur Studiengangsbeschreibung 
+ 
+ 
+ 
+M.Sc. Data Science (mit Auslandssemester) 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Master Thesis 
+(30 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+3 
+Statistics/Math 
+Elective 
+(5 ECTS-Punkte) 
+Ethics and Law 
+Elective 
+(5 ECTS-Punkte) 
+General Elective 
+(5 ECTS-Punkte) 
+General Elective 
+(5 ECTS-Punkte) 
+General Elective 
+(5 ECTS-Punkte) 
+General Elective 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+2 
+Principles of Data Science/ 
+Principles of Machine Learning 
+(10 ECTSPunkte) 
+Statistics/Math 
+Elective 
+(5 ECTS-Punkte) 
+Database 
+Management 
+(5 ECTS-Punkte) 
+Applied Data Science Project 
+(10 ECTS-Punkte) 
+ 
+30 ECTS-
+Punkte 
+1 
+Mathematics for Data Science 
+(10 ECTS-Punkte) 
+Statistics/Math 
+Elective 
+(5 ECTS-Punkte) 
+Programming 
+(5 ECTS-Punkte) 
+Operations 
+Research 
+(5 ECTS-Punkte) 
+Studium Pro 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+ 
+Pflichtbereich 
+Wahlpflichtbereich „Mathematics“ 
+Wahlpflichtbereich „Ethics and Law“ 
+Wahlpflichtbereich „Programming“ 
+Wahlbereich

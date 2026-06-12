@@ -1,0 +1,114 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Module_Digitalization_Analytics.pdf
+TITLE: Module_Digitalization_Analytics.pdf
+SOURCE_FILE: Module_Digitalization_Analytics.pdf
+------------------------------------------------------------
+
+[Page 1]
+Digital & Data-Driven Business 
+Status 26.06.2023 
+ 
+ 
+1 
+Wahlpflichtkatalog für den Bachelorstudiengang Digital & Data-Dri-
+ven Business 
+ 
+A) Wahlpflichtbereich “Digitalization & Analytics” (D&A) 
+Modulbezeichnung 
+Prüfungsform 
+ECTS- 
+An-
+zahl 
+Semes-
+terlage 
+Zulassungsvo-
+raussetzungen 
+Digital Seminar in Data Science & 
+Quantitative Applications 
+Projektarbeit und 
+Präsentation 
+10 
+SoSe 
+- 
+Applied Machine Learning 
+Klausur 
+5 
+SoSe 
+- 
+Computational Statistics 
+Klausur 
+5 
+SoSe 
+- 
+Angewandte Statistische Methoden 
+Klausur 
+5 
+WiSe 
+- 
+Algorithmen und Datenstrukturen 
+Klausur 
+5 
+SoSe 
+- 
+Systementwicklung 
+Klausur 
+5 
+WiSe 
+- 
+Data Science in Finance mit Python 
+Klausur 
+5 
+WiSe 
+- 
+Datenanalyse in Acconting, Finance, 
+and Tax 
+Klausur 
+5 
+WiSe 
+- 
+Service and Technology Marketing 
+Klausur 
+5 
+SoSe 
+- 
+Innovation through Design for Digital 
+Customer Experience and Sustaina-
+ble Solutions 
+Klausur 
+5 
+SoSe 
+- 
+Operations Analytics 
+Klausur 
+5 
+SoSe 
+- 
+Supply Chain Analytics 
+Klausur 
+5 
+WiSe 
+- 
+Econometrics 
+Klausur 
+5 
+SoSe 
+- 
+Decision Theory 
+Klausur 
+5 
+SoSe 
+- 
+Digitales Recht 
+Klausur 
+5 
+offen 
+- 
+Steuerbilanzen und Rechtsformwahl 
+Klausur 
+5 
+SoSe 
+- 
+Digital Finance 
+Klausur 
+5 
+WiSe 
+-

@@ -1,0 +1,9 @@
+SOURCE_URL: https://www.ku.de/studium/informationen-fuer-studierende/erstsemester
+TITLE: Erstsemester – KU
+SOURCE_FILE: studium_informationen-fuer-studierende_erstsemester.html
+------------------------------------------------------------
+
+Tipps zum Studienstart für alle Studierende
+Von Benutzerkennung und KU-E-Mail bis zu KU.Campus und Bibliothek – hier finden Sie alle wichtigen Informationen für Ihren Studienstart auf einen Blick.
+Orientierungswochen
+Campus erkunden, Kommilitoninnen und Kommilitonen kennenlernen und ankommen – die Orientierungswochen begleiten Sie in den ersten Tagen an der KU.

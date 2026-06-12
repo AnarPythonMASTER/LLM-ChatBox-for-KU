@@ -1,0 +1,79 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BA_Politik_und_Gesellschaft.pdf
+TITLE: Studienverlaufsplan_BA_Politik_und_Gesellschaft.pdf
+SOURCE_FILE: Studienverlaufsplan_BA_Politik_und_Gesellschaft.pdf
+------------------------------------------------------------
+
+[Page 1]
+6 
+Berufspraktikum 
+(zeitlich flexibel (10 ECTS-Punkte)) 
+Bachelorarbeit 
+(10 ECTS-Punkte) 
+Wahlmodul 
+(5 ECTS-Punkte) 
+Wahlmodul 
+(5 ECTS-Punkte) 
+5 
+Auslandsstudium oder Forschungspraktikum an der KU (30 ECTS-Punkte) 
+4 
+Wahlpflichtmodul Profilphase 
+(10 ECTS-Punkte) 
+Wahlpflichtmodul Profilphase 
+(10 ECTS-Punkte) 
+Studium.Pro 
+(5 ECTS-Punkte) 
+Wahlmodul 
+(5 ECTS-Punkte) 
+3 
+Wahlpflichtmodul Profilphase 
+(10 ECTS-Punkte) 
+Wahlpflichtmodul Profilphase 
+(10 ECTS-Punkte) 
+Studium.Pro 
+(5 ECTS-Punkte) 
+Wahlmodul 
+(5 ECTS-Punkte) 
+2 
+Einführung in die 
+Politische Theorie 
+und Philosophie 
+(5 ECTS-Punkte) 
+Einführung in die 
+Internationalen 
+Beziehungen 
+(5 ECTS-Punkte) 
+Das politische 
+System der BRD 
+(5 ECTS-Punkte) 
+Grundzüge 
+soziologischer Theorien 
+(5 ECTS-Punkte) 
+Sozialstruktur der BRD 
+(5 ECTS-Punkte) 
+Verfahren der 
+Datenanalyse I 
+(5 ECTS-Punkte) 
+1 
+Einführung: 
+Das Politische als 
+Bildungsaufgabe und 
+Bildungsgegenstand 
+(5 ECTS-Punkte) 
+Einführung: Politische 
+Systemlehre und 
+Vergleichende 
+Politikwissenschaft 
+(5 ECTS-Punkte) 
+Einführung in 
+die Soziologie 
+(5 ECTS-Punkte) 
+Quantitative Methoden 
+der empirischen 
+Sozialforschung 
+(5 ECTS-Punkte) 
+Grundlagen der 
+Kommunikations-
+wissenschaft 
+(5 ECTS-Punkte) 
+Wahlmodul 
+(5 ECTS-Punkte)

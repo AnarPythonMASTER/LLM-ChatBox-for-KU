@@ -1,0 +1,113 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Idealtypischer_Studienverlaufsplan_BA_flex_English_Linguistics.pdf
+TITLE: Idealtypischer_Studienverlaufsplan_BA_flex_English_Linguistics.pdf
+SOURCE_FILE: Idealtypischer_Studienverlaufsplan_BA_flex_English_Linguistics.pdf
+------------------------------------------------------------
+
+[Page 1]
+Idealtypischer Studienverlaufsplan Anglistik/Amerikanistik 
+Anglistik/Amerikanistik im Interdisziplinären Bachelorstudiengang der KU 
+Flexibles Profil (Schwerpunkt English Linguistics) 
+Semester 
+6 
+Advanced Linguistics I 
+(5 ECTS-Punkte) 
+Wahlpflichtmodul 
+Sprachpraxis 
+(5 ECTS-Punkte) 
+Studium Individuale 
+(5 ECTS-Punkte) 
+Wiss. Kolloquium 
+(5 ECTS-Punkte) 
+Bachelorarbeit 
+(10 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+5 
+Language Variation 
+(5 ECTS-Punkte) 
+Wahlpflichtmodul 
+Sprachpraxis 
+(5 ECTS-Punkte) 
+Studium Individuale 
+(5 ECTS-Punkte) 
+Praktikum 
+(5 ECTS-Punkte) 
+Fach 2 
+(5 ECTS-Punkte) 
+Fach 3 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+4 
+Language History 
+(5 ECTS-Punkte) 
+Wahlpflichtmodul 
+Sprachpraxis 
+(5 ECTS-Punkte) 
+Studium Individuale 
+(5 ECTS-Punkte) 
+Fach 2 
+(5 ECTS-Punkte) 
+Fach 3 
+(5 ECTS-Punkte) 
+Fach 3 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+3 
+Language Structure 
+and Use 
+(5 ECTS-Punkte) 
+Wahlpflichtmodul 
+Sprachpraxis 
+(5 ECTS-Punkte) 
+Studium.Pro 
+(5 ECTS-Punkte) 
+Fach 2 
+(5 ECTS-Punkte) 
+Fach 3 
+(5 ECTS-Punkte) 
+Fach 3 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+2 
+Literary and Cultural 
+History I: American 
+Literature 
+oder 
+Literature Literary and 
+Cultural History I: 
+English Literature 
+(5 ECTS-Punkte) 
+Wahlpflichtmodul 
+Sprachpraxis 
+(5 ECTS-Punkte) 
+Studium.Pro 
+(5 ECTS-Punkte) 
+Fach 2 
+(5 ECTS-Punkte) 
+Fach 2 
+(5 ECTS-Punkte) 
+Fach 3 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+1 
+Introduction to 
+Linguistics 
+(5 ECTS-Punkte) 
+Introduction to Literary 
+and Cultural Studies 
+(5 ECTS-Punkte) 
+Wahlpflichtmodul 
+Sprachpraxis 
+(5 ECTS-Punkte) 
+Fach 2 
+(5 ECTS-Punkte) 
+Fach 2 
+(5 ECTS-Punkte) 
+Fach 3 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte

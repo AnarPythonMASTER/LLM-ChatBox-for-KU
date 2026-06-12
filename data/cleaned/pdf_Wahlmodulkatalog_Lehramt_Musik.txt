@@ -1,0 +1,229 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlmodulkatalog_Lehramt_Musik.pdf
+TITLE: Wahlmodulkatalog_Lehramt_Musik.pdf
+SOURCE_FILE: Wahlmodulkatalog_Lehramt_Musik.pdf
+------------------------------------------------------------
+
+[Page 1]
+Wahlmodulkatalog 
+für das Fach Musik/Musikwissenschaft im Interdisziplinären 
+Bachelorstudiengang und für das Fach Musik im 
+Lehramtsstudiengang 
+1. nach § 9 der Prüfungsordnung Fachprüfungsordnung für das Fach 
+Musik/Musikwissenschaft im Interdisziplinären Bachelorstudiengang und für das Fach 
+Musik im Lehramtsstudiengang der Katholischen Universität Eichstätt-Ingolstadt in der 
+Fassung vom 17. Mai 2019 
+2. Geltungsbereich zum WiSe 2022/23 
+ 
+3. vom Fakultätsrat der Fakultät PPF beschlossen am 26. Oktober 2022 in der 362. 
+Sitzung 
+ 
+ 
+ 
+Auflistung der Wahlmodule 
+ 
+ 
+ 
+Lehramt 
+Unterrichts- 
+fach 
+Grundschule 
+Lehramt 
+Unterrichts- 
+fach 
+Mittelschule 
+Lehramt 
+Unterrichts- 
+fach 
+Realschule 
+Lehramt 
+Didaktikfach 
+Grundschule 
+Lehramt 
+Didaktikfach 
+Mittelschule 
+„Künstlerisch- 
+pädagogische 
+Präsentation“ 
+5 ECTS-Punkte 
+Prüfungsform: Portfolio 
+Voraussetzungen für 
+die CP-Vergabe: 
+Anwesenheit beim 
+Performance- 
+Coaching sowie bei 
+den Auftritten und 
+Projekten 
+X 
+X 
+X 
+X 
+X 
+Musikpädagogik 
+„Spezial“ 
+5 ECTS-Punkte, 
+Prüfungsform: Portfolio 
+Voraussetzungen für 
+die CP-Vergabe: 
+Besuch und 
+Dokumentation von 
+mind. vier 
+außerplanmäßigen 
+Veranstaltungen 
+(Gastvorträge, 
+Seminare, Workshops, 
+Projekte, Exkursionen) 
+in der 
+Veranstaltungsreihe 
+X 
+X 
+X 
+X 
+X 
+
+[Page 2]
+Anlage 2 zur Studiengangsbeschreibung 
+2 
+ 
+ 
+Musikpädagogik 
+„Spezial“ 
+ 
+ 
+ 
+ 
+ 
+Vertiefung 
+Musiktechnologie 
+5 ECTS-Punkte, 
+Prüfungsform: 
+Praktische Leistung 
+(technische 
+Mitbetreuung 
+universitärer 
+Veranstaltungen in 
+den Bereichen 
+„Aufnahmetechnik“ 
+und „Digitale 
+Bearbeitung“) 
+Voraussetzungen für 
+die CP-Vergabe: 
+Präsenz/Selbststudium 
+X 
+X 
+X 
+X 
+X 
+Kleines Ensemble 
+5 ECTS-Punkte, 
+Prüfungsform: Portfolio 
+Voraussetzungen für 
+die CP-Vergabe: 
+vier Semester nach 
+Wahl mit je 2 SWS: 
+regelmäßige und 
+aktive Teilnahme an 
+den Ensembleproben 
+oder entsprechendes 
+Selbststudium, selbst 
+geleitetes Proben und 
+Üben mit 
+Probendokumentation, 
+aktive 
+Konzertteilnahme 
+X 
+X 
+X 
+X 
+X 
+Aufbaumodul 
+Musikunterricht in 
+der Grundschule 
+5 ECTS-Punkte, 
+Prüfungsform: Portfolio 
+Voraussetzungen für 
+die CP-Vergabe: 
+Regelmäßige und 
+aktive Teilnahme an 
+den 
+Lehrveranstaltungen 
+des Moduls (kein 
+Selbststudium 
+möglich) 
+ 
+ 
+ 
+X 
+ 
+Musik der Welt 
+5 ECTS-Punkte, 
+Prüfungsform: 
+Hausarbeit 
+X 
+X 
+ 
+X 
+X 
+
+[Page 3]
+Anlage 2 zur Studiengangsbeschreibung 
+3 
+ 
+ 
+Voraussetzungen für 
+die CP-Vergabe: 
+Regelmäßige und 
+aktive Teilnahme an 
+den 
+Lehrveranstaltungen 
+des Moduls (kein 
+Selbststudium 
+aufgrund der sehr 
+spezifischen, 
+ethnografischen 
+Video- und 
+Audioquellen möglich) 
+ 
+ 
+ 
+ 
+ 
+Systematische 
+Musikwissenschaft 
+5 ECTS-Punkte, 
+Prüfungsform: 
+Hausarbeit oder 
+Portfolio 
+Voraussetzungen für 
+die CP-Vergabe: 
+Präsenz/Selbststudium 
+ 
+ 
+ 
+X 
+X 
+Ensemblepraxis 
+5 ECTS-Punkte, 
+Prüfungsform: Portfolio 
+Voraussetzungen für 
+die CP-Vergabe: 
+regelmäßige 
+Anwesenheit und 
+aktive Teilnahme an 
+Proben und Konzerten 
+ 
+ 
+ 
+X 
+X 
+Musikgeschichte im 
+Überblick 
+5 ECTS-Punkte, 
+Prüfungsform: 
+Mündliche Prüfung 
+Voraussetzungen für 
+die CP-Vergabe: 
+Präsenz/Selbststudium 
+ 
+ 
+ 
+X

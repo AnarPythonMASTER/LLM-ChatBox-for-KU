@@ -1,0 +1,138 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Formular_zur_Angebotserstellung.pdf
+TITLE: Formular_zur_Angebotserstellung.pdf
+SOURCE_FILE: Formular_zur_Angebotserstellung.pdf
+------------------------------------------------------------
+
+[Page 1]
+T 
+ 
+ 
+ 
+ 
+ 
+Formular zur Angebotserstellung für beglaubigte Übersetzungen 
+Hiermit bitte ich, 
+Herr/Frau _____________________________________________________________________ 
+Anschrift _____________________________________________________________________________ 
+ 
+E-Mail _______________________________________________________________________________ 
+ 
+um ein unverbindliches Angebot für die folgenden Leistungen: 
+ 
+☐ 
+Beglaubigte Übersetzung meiner Zeugnisurkunde (1 Seite) vom Deutschen ins Englische 
+ 
+☐ 
+Beglaubigte Übersetzung meines Zeugnisdokuments; Seitenanzahl: ______ 
+ 
+ 
+vom Deutschen ins Englische. 
+ 
+Bitte beachten Sie: Standardmäßig ist die Zielsprache an der KU immer amerikanisches Englisch (US). 
+Sollten Sie abweichend davon explizit eine Übersetzung ins britische Englisch wünschen, kreuzen Sie bitte 
+untenstehenden Kasten an: 
+ 
+☐ 
+abweichend vom Standard mit Zielsprache britisches Englisch (UK) 
+ 
+☐ 
+zusätzliche Ausfertigungen der beglaubigten Übersetzung; 
+ Anzahl der Ausfertigungen: ______ 
+ 
+Gewünschte Bezahlmethode der Servicegebühr: 
+ 
+☐ 
+persönliche Einzahlung in bar bei der Zahlstelle der KU (Ostenstraße 26) 
+ 
+☐ 
+Banküberweisung nach Rechnungsstellung 
+ 
+Bitte beachten Sie: Eine nachträgliche Änderung der Bezahlmethode ist nicht möglich! 
+ 
+Erhalt der beglaubigten Übersetzung: 
+ 
+☐ 
+Postversand per Einschreiben (Übernahme der Versandkosten durch Auftraggeber/in) 
+ 
+☐ 
+persönliche Abholung 
+ 
+ 
+Besondere Wünsche/Anmerkungen: 
+ 
+_____________________________________________________________________________________________ 
+ 
+_____________________________________________________________________________________________ 
+ 
+Per E-Mail: 
+Servicestelle beglaubigte Übersetzungen 
+Frau Sylvia Schmager 
+sylvia.schmager@ku.de 
+ 
+ 
+ 
+
+[Page 2]
+ 
+ 
+- 2 - 
+Bedingungen für die Auftragsannahme: 
+1. 
+Es werden ausschließlich Aufträge für offizielle Dokumente angenommen, die vom Prüfungsamt der KU ausge-
+stellt wurden. 
+2. 
+Die Bearbeitungszeit für Ihren Auftrag ist jeweils von den aktuell verfügbaren Kapazitäten der Übersetzerin ab-
+hängig. Grundsätzlich geht das normale Dienstgeschäft der Übersetzerin für den Zuständigkeitsbereich Univer-
+sitätsverwaltung und zentrale Einrichtungen vor. Sollten Sie die Übersetzung bis zu einer bestimmten Frist be-
+nötigen, geben Sie dies bitte auf dem Formular für die Angebotserstellung unter „Besondere Wünsche/Anmer-
+kungen“ an. 
+3. 
+Falls nicht explizit anders gewünscht und auf dem „Formular zur Angebotserstellung“ vermerkt, erfolgt die Über-
+setzung ins amerikanische Englisch. 
+4. 
+Die Ausstellung etwaig gewünschter weiterer Ausfertigungen der Übersetzung zu vergünstigtem Preis ist nur 
+innerhalb von maximal sechs Wochen nach Lieferung der fertigen beglaubigten Übersetzung möglich. Danach 
+werden Ihre Zeugnisunterlagen gelöscht und ein Auftrag für Ausstellung einer weiteren Ausfertigung gilt als 
+neuer Auftrag zu Standardpreisen. Bitte geben Sie daher bereits auf dem Formular für die Angebotserstellung 
+an, ob Sie mehr als eine Ausfertigung der beglaubigten Übersetzung benötigen. 
+5. 
+Bitte beachten Sie, dass Ihre Zeugnisunterlagen für eine maximale Dauer von sechs Wochen nach Lieferung 
+der fertigen beglaubigten Übersetzung gespeichert werden. Wir bitten Sie daher, die beglaubigte Übersetzung 
+unmittelbar nach Erhalt auf Unklarheiten oder Unstimmigkeiten zu überprüfen und diese zeitnah bei uns anzu-
+zeigen. 
+ 
+Hinweise zum Datenschutz: 
+Verantwortliche für die Datenverarbeitung: 
+Katholische Universität Eichstätt-Ingolstadt 
+Stabsabteilung Kommunikation und Marketing 
+Ostenstraße 26 
+85072 Eichstätt 
+ 
+Datenschutzbeauftragten der Katholischen Universität Eichstätt-Ingolstadt: 
+SK-Consulting Group GmbH 
+Herr Georg Möller 
+Osterweg 2 
+32549 Bad Oeynhausen 
+datenschutz@SK-consulting.com 
+ 
+In Trägerschaft einer kirchlichen Stiftung des öffentlichen Rechts wendet die KU gemäß Art. 91 DSGVO das Gesetz über 
+den Kirchlichen Datenschutz (KDG) an, welches stark an die DSGVO angelehnt ist. 
+Wir verarbeiten die von Ihnen erhobenen personenbezogenen Daten zum Zwecke der Auftragsbearbeitung und -abwick-
+lung gemäß § 6 Abs. 1 Buchstabe c KDG. 
+Eine Weitergabe Ihrer Daten an Dritte findet nicht statt. 
+Wir speichern Ihre Daten solange dies für die Verarbeitungszwecke erforderlich ist oder gesetzliche Aufbewahrungsfristen 
+(z.B. nach § 147 AO) erfüllt werden müssen. Ihre Zeugnisdokumente werden sechs Wochen nach Abschluss des Auftrags 
+gelöscht. 
+ 
+Gemäß dem Gesetz über den Kirchlichen Datenschutz können Sie von der KU Auskunft gem. § 17 KDG darüber verlangen, 
+welche personenbezogenen Daten, die Sie betreffen, von der KU verarbeitet werden und Berichtigung/Vervollständigung 
+gem. § 18 KDG verlangen, falls die Daten unrichtig oder unvollständig sind. 
+Auch können Sie die Löschung gem. § 19 KDG oder die Einschränkung der Verarbeitung gem. § 20 KDG der Sie betref-
+fenden personenbezogenen Daten verlangen oder Widerspruch gem. § 23 KDG gegen bestimmte Datenverarbeitungen 
+einlegen. 
+Zudem steht Ihnen das Recht auf Datenübertragbarkeit gem. § 22 KDG zu. 
+Weiterhin besteht ein Beschwerderecht bei der Datenschutzaufsicht (Gemeinsame Datenschutzaufsicht der bayerischen 
+(Erz-)Diözesen, Kapellenstr. 4, 80333 München), wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden 
+personenbezogenen Daten gegen geltendes Datenschutzrecht verstößt. 
+Eine Verarbeitung Ihrer personenbezogenen Daten zum Zweck einer automatisierten Entscheidungsfindung (einschließlich 
+Profiling) findet nicht statt.

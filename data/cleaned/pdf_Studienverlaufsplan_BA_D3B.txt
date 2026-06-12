@@ -1,0 +1,711 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BA_D3B.pdf
+TITLE: Studienverlaufsplan_BA_D3B.pdf
+SOURCE_FILE: Studienverlaufsplan_BA_D3B.pdf
+------------------------------------------------------------
+
+[Page 1]
+Digital & Data-Driven Business 
+Status v03 - 04 / 08.07.2020 
+ 
+ 
+16 
+Anlage I: Idealtypischer Studienverlaufsplan 
+ 
+Exemplarisches Studienprofil: Accounting, Taxation und Controlling 
+ 
+Semester 
+ECTS 
+Semester 
+ECTS 
+Semester 
+ECTS 
+Semester 
+ECTS 
+Semester 
+ECTS 
+Semester 
+ECTS 
+1 
+30 
+2 
+30 
+3 
+30 
+4 
+30 
+5 
+30 
+6 
+30 
+Grundla-
+gen: Infor-
+mations-
+systeme 
+5 
+Business 
+Analytics 
+5 
+Software 
+Enginee-
+ring and 
+Program-
+ming 
+5 
+Decision 
+Theory 
+5 
+Data Sci-
+ence in Fi-
+nance 
+with Py-
+thon 
+5 
+Data Pro-
+cessing in 
+Account-
+ing, Audit-
+ing and 
+Taxation 
+5 
+Mathe für 
+WiWi 
+5 
+Einführung 
+Quantita-
+tive Metho-
+den 
+5 
+Software 
+Tools for 
+Simulation 
+and Opti-
+mization 
+5 
+Bilanz-
+steuer-
+recht und 
+DATEV 
+5 
+Taxation 
+of Digital 
+Busines-
+ses 
+5 
+Digitales 
+Recht 
+5 
+Betriebli-
+ches Rech-
+nungswe-
+sen 
+5 
+Statistik I 
+5 
+Statistik II 
+5 
+Grundla-
+gen der in-
+ternationa-
+len Rech-
+nungsle-
+gung 
+5 
+Konzern-
+rechnungs-
+legung 
+5 
+Grundla-
+gen des 
+Control-
+lings 
+5 
+Digital Bu-
+siness Mo-
+dels 
+5 
+Digital 
+Business 
+Strategies, 
+Organiza-
+tion, Inno-
+vation 
+5 
+Digital Sys-
+tems & 
+Operations 
+5 
+Applied 
+Machine 
+Learning 
+5 
+Finanzwis-
+senschaft 
+5 
+Unterneh-
+menspla-
+nung & -
+steuerung 
+5 
+Einf. VWL 
+5 
+Mikroöko-
+nomie 
+5 
+Investition, 
+Finanzie-
+rung & 
+Steuern 
+5 
+Digital & 
+Data Pro-
+ject in 
+Account-
+ing, Con-
+trolling & 
+Taxation 
+10 
+Erbschafts-
+steuer, 
+Substanz- 
+und Ver-
+kehrs-steu-
+ern 
+5 
+Bachelor-
+arbeit 
+10 
+Business 
+English I 
+5 
+Business 
+English II 
+5 
+Stu-
+dium.Pro 
+5 
+Wirt-
+schafts- 
+und Unter-
+nehmen-
+sethik 
+5 
+Hinweis: Fett gedruckte Module sind Wahlpflichtmodule, kursiv gedruckte Module sind Wahlmo-
+dule/ Studienprofilmodule 
+ 
+ 
+ 
+ 
+
+[Page 2]
+Digital & Data-Driven Business 
+Status v03 - 04 / 08.07.2020 
+ 
+ 
+17 
+Exemplarisches Studienprofil: Finance & Economics 
+Semester 
+ECTS 
+Semester 
+ECTS 
+Semester 
+ECTS 
+Semester 
+ECTS 
+Semester 
+ECTS 
+Semester 
+ECTS 
+1 
+30 
+2 
+30 
+3 
+30 
+4 
+30 
+5 
+30 
+6 
+30 
+Grundla-
+gen: Infor-
+mations-
+systeme 
+5 
+Business 
+Analytics 
+5 
+Software 
+Enginee-
+ring and 
+Program-
+ming 
+5 
+Decision 
+Theory 
+5 
+Data Sci-
+ence in Fi-
+nance 
+with Py-
+thon 
+5 
+Applied 
+Machine 
+Learning 
+5 
+Mathe für 
+WiWi 
+5 
+Einführung 
+Quantita-
+tive Metho-
+den 
+5 
+Software 
+Tools for 
+Simulation 
+and Opti-
+mization 
+5 
+Kapital-
+marktthe-
+orie 
+5 
+Ange-
+wandte 
+statisti-
+sche Me-
+thoden 
+5 
+Taxation 
+of Digital 
+Busines-
+ses 
+5 
+Betriebli-
+ches Rech-
+nungswe-
+sen 
+5 
+Statistik I 
+5 
+Statistik II 
+5 
+Makroöko-
+nomie 
+5 
+Bankma-
+nagement 
+5 
+Behavio-
+ural Fi-
+nance 
+5 
+Digital Bu-
+siness Mo-
+dels 
+5 
+Digital 
+Business 
+Strategies, 
+Organiza-
+tion, Inno-
+vation 
+5 
+Digital Sys-
+tems & 
+Operations 
+5 
+Econo-
+metrics 
+5 
+Finanzwis-
+senschaft 
+5 
+Develop-
+ment Eco-
+nomics 
+5 
+Einf. VWL 
+5 
+Mikroöko-
+nomie 
+5 
+Investition, 
+Finanzie-
+rung & 
+Steuern 
+5 
+Digital & 
+Data Pro-
+ject in 
+Finance & 
+Economics 
+10 
+Political 
+Economics 
+5 
+Bachelor-
+arbeit 
+10 
+Business 
+English I 
+5 
+Business 
+English II 
+5 
+Stu-
+dium.Pro 
+5 
+Wirt-
+schafts- 
+und Unter-
+nehmen-
+sethik 
+5 
+Hinweis: Fett gedruckte Module sind Wahlpflichtmodule, kursiv gedruckte Module sind Wahlmo-
+dule/ Studienprofilmodule 
+ 
+ 
+ 
+
+[Page 3]
+Digital & Data-Driven Business 
+Status v03 - 04 / 08.07.2020 
+ 
+ 
+18 
+Exemplarisches Studienprofil: Marketing, Organization, Innovation 
+Hinweis: Fett gedruckte Module sind Wahlpflichtmodule, kursiv gedruckte Module sind Wahlmo-
+dule/ Studienprofilmodule 
+ 
+ 
+Semester 
+ECTS 
+Semester 
+ECTS 
+Semester 
+ECTS 
+Semester 
+ECTS 
+Semester 
+ECTS 
+Semester 
+ECTS 
+1 
+30 
+2 
+30 
+3 
+30 
+4 
+30 
+5 
+30 
+6 
+30 
+Grundla-
+gen: Infor-
+mations-
+systeme 
+5 
+Business 
+Analytics 
+5 
+Software 
+Enginee-
+ring and 
+Program-
+ming 
+5 
+Computa-
+tional Sta-
+tistics 
+5 
+Brand 
+Manage-
+ment in the 
+Digital Age 
+5 
+Digital 
+Seminar in 
+Data Sci-
+ence & 
+Quantita-
+tive Appli-
+cations 
+10 
+Mathe für 
+WiWi 
+5 
+Einführung 
+Quantita-
+tive Metho-
+den 
+5 
+Software 
+Tools for 
+Simulation 
+and Opti-
+mization 
+5 
+Grundla-
+gen des 
+Marketing-
+manage-
+ments 
+5 
+Service 
+Perfor-
+mance Ma-
+nagement 
+5 
+Betriebli-
+ches Rech-
+nungs-we-
+sen 
+5 
+Statistik I 
+5 
+Statistik II 
+5 
+Decision 
+Theory 
+5 
+Pricing and 
+Product 
+Manage-
+ment 
+5 
+Marketing 
+Analytics 
+with R 
+5 
+Digital Bu-
+siness Mo-
+dels 
+5 
+Digital 
+Business 
+Strategies, 
+Organiza-
+tion,Inno-
+vation 
+5 
+Digital Sys-
+tems & 
+Operations 
+5 
+Innovation 
+through 
+Design for 
+Digital 
+Customer 
+Experi-
+ence and 
+Sustaina-
+ble Solu-
+tions 
+5 
+Internatio-
+nal Busi-
+ness 
+5 
+Human Re-
+sources 
+Mgmt. 
+5 
+Einf. VWL 
+5 
+Mikroöko-
+nomie 
+5 
+Investition, 
+Finanzie-
+rung & 
+Steuern 
+5 
+Digital & 
+Data Pro-
+ject in 
+Marketing, 
+Organiza-
+tion, Inno-
+vation 
+10 
+Consumer 
+Psychology 
+5 
+Bachelor-
+arbeit 
+10 
+Business 
+English I 
+5 
+Business 
+English II 
+5 
+Stu-
+dium.Pro 
+5 
+Wirt-
+schafts- 
+und Unter-
+nehmen-
+sethik 
+5 
+
+[Page 4]
+Digital & Data-Driven Business 
+Status v03 - 04 / 08.07.2020 
+ 
+ 
+19 
+Exemplarisches Studienprofil: Supply Chain Management & Logistics 
+ 
+Semester 
+ECTS Semester 
+ECTS Semester 
+ECTS Semester 
+ECTS Semester 
+ECTS Semester 
+ECTS 
+1 
+30 
+2 
+30 
+3 
+30 
+4 
+30 
+5 
+30 
+6 
+30 
+Grundlagen: 
+Informations-
+systeme 
+5 
+Business 
+Analytics 
+5 
+Software En-
+gineering 
+and Pro-
+gramming 
+5 
+Computatio-
+nal Statis-
+tics 
+5 
+Applied Ma-
+chine Learn-
+ing 
+5 
+Digital Sem-
+inar in Data 
+Science & 
+Quantitative 
+Applica-
+tions 
+10 
+Mathe für 
+WiWi 
+5 
+Einführung 
+Quantitative 
+Methoden 
+5 
+Software 
+Tools for 
+Simulation 
+and Optimi-
+zation 
+5 
+Operations 
+Analytics 
+5 
+Angewandte 
+statistische 
+Methoden 
+5 
+Betriebliches 
+Rechnungs-
+wesen 
+5 
+Statistik I 
+5 
+Statistik II 
+5 
+Algorithmen 
+& Daten-
+strukturen 
+5 
+Systement-
+wicklung 
+5 
+Strategic 
+Sourcing in 
+Global Mar-
+kets 
+5 
+Digital Busi-
+ness Models 
+5 
+Digital Busi-
+ness Strate-
+gies, Organi-
+zation, Inno-
+vation 
+5 
+Digital Sys-
+tems & Oper-
+ations 
+5 
+Decision 
+Theory 
+5 
+Supply Chain 
+Analytics 
+5 
+Retail Opera-
+tions 
+5 
+Einf. VWL 
+5 
+Mikroökono-
+mie 
+5 
+Investition, 
+Finanzierung 
+& Steuern 
+5 
+Digital Pro-
+ject in 
+SCM, Logis-
+tics and Op-
+erations Re-
+search 
+10 
+Supply Chain 
+Controlling 
+5 
+Bachelorar-
+beit 
+10 
+Business 
+English I 
+5 
+Business 
+English II 
+5 
+Studium.Pro 
+5 
+Wirtschafts- 
+und Unter-
+nehmen-
+sethik 
+5 
+Hinweis: Fett gedruckte Module sind Wahlpflichtmodule, kursiv gedruckte Module sind Wahlmo-
+dule/ Studienprofilmodule

@@ -1,0 +1,23 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/FLA_SoSe2026.pdf
+TITLE: FLA_SoSe2026.pdf
+SOURCE_FILE: FLA_SoSe2026.pdf
+------------------------------------------------------------
+
+[Page 1]
+Freischaltung des Lehrangebots für das Sommersemester 
+2026 
+FH-Studiengänge: 
+Die Veröffentlichung in KU.Campus erfolgt zum 23.02.2026.
+Anmeldung ab:
+05.03.26 18:00 Uhr
+universitäre Studiengänge:
+Die Veröffentlichung in KU.Campus erfolgt zum 23.02.2026.
+Anmeldung ab:
+16.03.26 18:00 Uhr Master WWF, Master Taxation 
+17.03.26 12:00 Uhr Bachelor WWF 
+17.03.26 18:00 Uhr Fakultät SLF, Sprachenzentrum, ZILAS 
+18.03.26 18:00 Uhr Fakultät PPF
+19.03.26 18:00 Uhr alle anderen Fakultäten und Einrichtungen (MGF, 
+GGF, ThF, Universitätsrechenzentrum, Universitätsbibliothek, ZLB) 
+20.03.26 12:00 Uhr Sport
+1

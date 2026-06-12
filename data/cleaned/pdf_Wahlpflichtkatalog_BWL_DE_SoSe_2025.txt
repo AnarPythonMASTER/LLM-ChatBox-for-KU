@@ -1,0 +1,337 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_BWL_DE_SoSe_2025.pdf
+TITLE: Wahlpflichtkatalog_BWL_DE_SoSe_2025.pdf
+SOURCE_FILE: Wahlpflichtkatalog_BWL_DE_SoSe_2025.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+(Betriebswirtschaftslehre M.Sc.) 
+SoSe/WiSe 
+ 
+Modulangebot Sommersemester: 
+1. nach § 9 der Prüfungsordnung Masterstudiengang Betriebswirtschaftslehre in der 
+Fassung vom 20.05.2021 
+2. Geltungsbereich zum SoSe 2025 
+ 
+3. vom Fakultätsrat der Fakultät Wirtschaftswissenschaften beschlossen am 
+29.01.2025. 
+ 
+Auflistung der Studienschwerpunkte 
+In der PO verankerte Studienschwerpunkte: 
+ 
+1. Marktorientierte Unternehmensführung (MARKT), 
+2. Finance, Accounting, Controlling, Taxation und Wirtschaftsrecht (FACT), 
+3. Business Analytics and Operations Research (BAOR), 
+4. Entrepreneurship und Innovation (ENTRE), 
+5. Internationale Betriebswirtschaftslehre, 
+6. Digital Customer Experience & Service Design (DICE) 
+ 
+1. Modulangebot im Master Marktorientierte Unternehmensführung 
+ 
+Wahlpflichtkurse 
+Advanced Consulting Case* (5 ECTS), Portfolio 
+Advanced Topics in Consumer Psychology for a Better World (10 ECTS), Portfolio 
+(nicht im Sommersemester 2025) 
+Advanced Topics in Marketing (5 ECTS), Portfolio 
+Benchmarking & Positioning in Strategic Management (advanced) (5 ECTS), Portfolio 
+Business Model & Strategy* (5 ECTS), Portfolio (nicht im Sommersemester 2025) 
+Case Studies in International Management (5 ECTS) Portfolio 
+Change Management* (5 ECTS), Portfolio 
+Cross-cultural Management* (5 ECTS), Portfolio (nicht im SoSe 2025) 
+Digital Marketing* (5 ECTS), Portfolio 
+Einführung in Reinforcement Learning (5 ECTS), Projektarbeit 
+Seminar „Europäisches und internationales Handels- und Wirtschaftsrecht“ (10 ETCS), 
+Schriftliche Seminararbeit/Vortrag + Diskussion 
+Innovation and Creativity in Individuals, Teams and Organizations* (5 ECTS), Portfolio 
+Innovation und Produktentwicklung im Tourismus: Gegenwärtige Theorie und Praxis 
+am Beispiel von Sharing Economy, China Outbound Tourismus, Boutique Hotels und 
+Experience Design* (5 ECTS), Portfolio 
+Intercultural Communication* (5 ECTS), Portfolio 
+Management und Strategien von Automobil-Unternehmen (5 ECTS), Portfolio 
+Retail Management* (5 ECTS), Portfolio 
+Return on Service Design and Customer Experience* (10 ECTS), Portfolio 
+Seminar International Management (5 ECTS), Portfolio 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Seminar zum Strategischen Management (5 ECTS), Portfolio 
+Stochastische Modelle (5 ECTS), Klausur 
+Supply Chain Planspiel* (5 ECTS), Präsentation 
+Theorien und Strategien des Destinationsmanagements und -marketings * (5 ECTS), 
+Portfolio 
+Transportlogistik * (5 ECTS), Portfolio 
+Module der WFI Summer School gemäß Anlage 2a 
+ 
+2. Modulangebot im Master Finance, Accounting, Controlling, Taxation und 
+Wirtschaftsrecht 
+Pflichtkurse 
+Empirical Finance (kann durch Unternehmenssteuerrecht ersetzt werden) (5 ECTS), Portfolio 
+Kapitalmarktorientierte Rechnungslegung (5 ECTS), Klausur 
+Kostenmanagement (5 ECTS), Klausur 
+Risikomanagement (kann durch Internationale Unternehmensbesteuerung ersetzt werden) (5 
+ECTS), Klausur 
+ 
+Wahlpflichtkurse 
+Empirical Finance (5 ECTS) , Portfolio 
+Europäisches Wirtschaftsrecht (5 ECTS), Klausur 
+Erbschaftsteuer und Bewertungsrecht (2,5 ECTS), Klausur 
+Insolvenzrecht (5 ECTS), Klausur 
+Kapitalgesellschaftsrecht, Konzernrecht, europäisches und internationales 
+Gesellschaftsrecht (5 ECTS), Klausur 
+Koordinationsorientiertes Controlling (5 ECTS), Klausur (ab SoSe 2023 alle 2 Jahre) 
+MA-Seminar ”Aktuelle Fragen der Unternehmensbesteuerung“ (5 ECTS), Portfolio 
+Risikomanagement (5 ECTS), Klausur 
+ 
+Seminar Accounting & Controlling (5 ECTS) Seminararbeit und Präsentation 
+Seminar „Europäisches und internationales Handels- und Wirtschaftsrecht“ (10 ETCS), Schriftliche 
+Seminararbeit/Vortrag + Diskussion 
+Seminar: Rechnungslegung und Wirtschaftsprüfung (5 ECTS), Portfolio 
+Seminar Finance and Banking B (5 ECTS) , Portfolio 
+Steuerpolitik in Wissenschaft und Praxis: Eine Exkursion ins politische Berlin (5 ECTS), Portfolio 
+Strukturgestaltung im Konzern (5 ECTS) , Präsentation(en) 
+Sustainability and Business Strategy (5 ECTS), Klausur 
+Tax Policy (5 ECTS), Klausur 
+Tax Research (5 ECTS), Portfolio 
+Umsatzsteuerrecht (5 ECTS) , Präsentation und Diskussion 
+Umwandlungsrecht (5 ECTS), Klausur 
+Umwandlungssteuerrecht (5 ECTS), Klausur 
+Wirtschaftliches Prüfungswesen (5 ECTS), Klausur 
+Module der WFI Summer School gemäß Anlage 2a 
+ 
+3. Modulangebot im Wahlpflichtbereich Business Analytics and Operations Research 
+Pflichtkurse 
+Service Analytics (5 ECTS), Klausur 
+Stochastische Modelle (5 ECTS), Klausur 
+ 
+Wahlpflichtkurse 
+Algorithmen und Datenstrukturen (5 ECTS) Klausur oder mündliche Prüfung 
+Data Analytics Challenge (5 ECTS) Portfolio 
+Digital Business Models and Technologies (5 ECTS) Klausur, Dokumentation und Präsentation 
+
+[Page 3]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Digital Marketing* (5 ECTS), Portfolio 
+Einführung in Reinforcement Learning (5 ECTS), Projektarbeit 
+Empirical Finance (5 ECTS) Portfolio 
+Modellierung und Optimierung mit OPL (5 ECTS), Portfolio 
+Projektmodule Wirtschaftsinformatik (5 ECTS), Portfolio (nicht im SoSe 2025) 
+Risikomanagement (5 ECTS) Klausur 
+Seminar Operations Research (5 ECTS) Portfolio 
+Seminar SCM (5 ECTS), Portfolio 
+Service Operations (5 ECTS) Klausur 
+Supply Chain Business Game (5 ECTS), Portfolio 
+Tax Policy (5 ECTS) Klausur 
+Transportlogistik (5 ECTS) Klausur 
+Module der WFI Summer School gemäß Anlage 2a 
+ 
+4. Modulangebot im Master Entrepreneurship und Innovation 
+Pflichtkurse 
+Entrepreneurial Networks and Start-up Management (5 ECTS), Portfolio 
+Innovation and Creativity in Individuals, Teams, and Organizations (5 ECTS), Portfolio und 
+Klausur 
+Social Innovation I (5 ECTS), Portfolio 
+ 
+Wahlpflichtkurse 
+Advanced Consulting Case (5 ECTS) , Portfolio 
+Behavioral Finance* (5 ECTS) Klausur 
+Case Studies in International Management (5 ECTS) Portfolio 
+Change Management* (5 ECTS), Klausur 
+Digital Business Models and Technologies (5 ECTS) Klausur, Dokumentation und Präsentation 
+Innovation und Produktentwicklung im Tourismus (5 ECTS) Portfolio 
+Intercultural Communication* (5 ECTS) Portfolio 
+Return on Service Design and Customer Experience (10 ECTS) Portfolio 
+Stochastische Modelle (5 ECTS) Klausur 
+Transfer-Modul: Innovative Produktentwicklung mit externen Partnern (5 ECTS) Hausarbeit und 
+Präsentation 
+Module der WFI Summer School gemäß Anlage 2a 
+ 
+5. Modulangebot im Wahlpflichtbereich Internationale Betriebswirtschaftslehre 
+Wahlpflichtmodule können aus allen Masterschwerpunkten gewählt werden. Die genauen 
+Module der hier aufgeführten Fachgebiete der Schwerpunkte können den obigen Auflistungen 
+entnommen werden. 
+ 
+ 
+ 
+ 
+ 
+6. Modulangebot im Wahlpflichtbereich Digital Customer Experience & Service Design 
+ 
+Wahlpflichtmodule können aus allen Masterschwerpunkten gewählt werden. Die genauen 
+Module der hier aufgeführten Fachgebiete der Schwerpunkte können den obigen Auflistungen 
+entnommen werden. 
+ 
+ 
+ 
+
+[Page 4]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlbereich: Modulangebot 
+ 
+ 
+
+[Page 5]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Modulangebot Wintersemester: 
+ 
+1. nach § 9 der Prüfungsordnung Masterstudiengang Betriebswirtschaftslehre in der 
+Fassung vom 20.05.2021 
+2. Geltungsbereich zum WiSe 2024/2025 
+3. vom Fakultätsrat der Fakultät Wirtschaftswissenschaften beschlossen am 
+10.07.2024 
+ 
+Auflistung der Studienschwerpunkte 
+In der PO verankerte Studienschwerpunkte: 
+1. Marktorientierte Unternehmensführung (MARKT), 
+2. Finance, Accounting, Controlling, Taxation und Wirtschaftsrecht (FACT), 
+3. Business Analytics and Operations Research, 
+4. Entrepreneurship und Innovation, 
+5. Internationale Betriebswirtschaftslehre, 
+6. Digital Customer Experience & Service Design 
+ 
+1. Modulangebot im Master Marktorientierte Unternehmensführung 
+Pflichtkurse 
+Pricing and Product Management (5 ECTS), Klausur 
+Customer Relationship Management (5 ECTS), Klausur 
+Empirische Managementforschung (5 ECTS), Klausur 
+Service Management (5 ECTS), Portfolio 
+Strategisches Management (5 ECTS), Portfolio 
+ 
+Wahlpflichtkurse 
+Advanced Consulting Case (5 ECTS) Portfolio 
+Analytisches Customer Management (5 ECTS), Klausur 
+Ausgewählte Probleme der Unternehmensentwicklung (5 ECTS) Klausur 
+Consumer Psychology and Decision Making (5 ECTS) Klausur 
+Economics of Sustainable Consumption (5 ECTS) Hausarbeit 
+Effective English for Leadership (5 ECTS) Portfolio 
+Entrepreneurial Management and Tourism (5 ECTS) Portfolio 
+From Idea to Commercialization: Start-Up School (5 ECTS) Portfolio 
+Marketing Analytics (5 ECTS) Klausur 
+Marketing Seminar (5 ECTS) Portfolio 
+Intercultural Communication (5 ECTS) Portfolio 
+Projektkurs Marketing mit New-Age-Technologien (5 ECTS) Portfolio 
+Production and Operations Analytics (P&OA) (5 ECTS) Klausur 
+Objektorientierte Programmierung von Heuristiken (5 ECTS), Projekt 
+Operations Research (5 ECTS) Klausur 
+Projektkurs Marketing mit New-Age-Technologien (5 ECTS) Portfolio 
+Regional- und Stadtökonomie* (5 ECTS) Klausur 
+Sales Management* (5 ECTS), Klausur 
+
+[Page 6]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Simulation (5 ECTS) Portfolio 
+Strategies for Family Owned Business (5 ECTS) Portfolio 
+Statistische Prognoseverfahren (5 ECTS) Klausur 
+Strategisches Management von Professional Service Firms (5 ECTS) Portfolio 
+Seminar "Europäisches und Internationales Handels- und Wirtschaftsrecht" (10 ECTS) 
+Schriftliche Seminararbeit / Vortrag und Diskussion 
+Seminar zum Supply Chain Management (5 ECTS) Portfolio 
+ 
+2. Modulangebot im Master Finance, Accounting, Controlling, Taxation und 
+Wirtschaftsrecht 
+Pflichtkurse 
+Bilanzrecht (5 ECTS), Klausur 
+Internationale Unternehmensbesteuerung (kann durch Risikomanagement ersetzt werden) (5 ECTS), 
+Klausur 
+Unternehmenssteuerrecht (kann durch Empirical Finance ersetzt werden) (5 ECTS), Klausur 
+ 
+Wahlpflichtkurse 
+Abgabenordnung (5 ECTS) Klausur 
+Bilanzsteuerrecht (5 ECTS) Klausur 
+Business Intelligence im Controlling (5 ECTS) Praktische Leistungen 
+Erbrecht und Zivilprozessrecht (5 ECTS) Klausur 
+Fallstudienseminar Accounting & Controlling (5 ECTS) Seminararbeit und Präsentation 
+Fallstudien zum Umwandlungs- und internationalem Steuerrecht (2,5 ECTS) Präsentation zu einer 
+Fragestellung und Diskussion 
+Fortgeschrittene Datenanalyse in Finance mit Python (5 ECTS) Portfolio 
+Internationale Unternehmensbesteuerung (5 ECTS) Klausur 
+Internationale Verrechnungspreise und Gewinnabgrenzung (2,5 ECTS) Präsentation zu einer 
+Fragestellung und Diskussion 
+Kostenorientiertes Controlling (5 ECTS) Klausur 
+Quasi- experimentelle Methoden der Politikevaluation (5 ECTS) Hausarbeit 
+Seminar: Applied Empircal Accounting Research (5 ECTS) Seminararbeit und Präsentation 
+Seminar "Europäisches und Internationales Handels- und Wirtschaftsrecht" (10 ECTS) Schriftliche 
+Seminararbeit / Vortrag und Diskussion 
+Seminar Finance and Banking A (5 ECTS) Portfolio 
+Seminar Restrukturierung, Sanierung und Insolvenz (5 ECTS) Portfolio 
+Statistische Prognoseverfahren (5 ECTS) Klausur 
+Steuerfunktion 4.0 (5 ECTS) Präsentation 
+Unternehmenssteuerrecht (5 ECTS) Klausur 
+Webscraping & Textual Analysis in Python (5 ECTS) Portfolio 
+Workshop Empirical Accounting (5 ECTS) Portfolio 
+ 
+3. 
+Modulangebot im Master Business Analytics and Operations Research 
+Pflichtkurse 
+Decision Science (5 ECTS), Klausur 
+Operations Research (5 ECTS), Klausur 
+Statistische Prognoseverfahren (5 ECTS), Klausur 
+ 
+ 
+
+[Page 7]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkurse 
+Analytical Customer Management (5 ECTS) Klausur 
+Customer Relationship Management (5 ECTS) Klausur 
+Economics of Sustainable Consumption (5 ECTS) Hausarbeit 
+Empirische Managementforschung (5 ECTS) Klausur 
+Forschungs- Projektstudium SCM (5 ECTS) Portfolio 
+Fortgeschrittene Datenanalyse in Finance mit Python (5 ECTS) Klausur 
+Production and Operations Analytics (P&OA) (5 ECTS) Klausur 
+Objektorientierte Programmierung von Heuristiken (5 ECTS), Projekt 
+Quasi- experimentelle Methoden der Politikevaluation (5 ECTS) Hausarbeit 
+Seminar Finance and Banking A (5 ECTS) Portfolio 
+Seminar Operations Research (5 ECTS) Portfolio 
+Seminar zum Supply Chain Management (5 ECTS) Portfolio 
+Simulation (5 ECTS) Portfolio 
+Webscraping & Textual Analysis in Python (5 ECTS) Portfolio 
+ 
+ 
+4. Modulangebot im Master Entrepreneurship und Innovation 
+Pflichtkurse 
+From Idea to Commercialization: Start-up School (5 ECTS), Portfolio 
+Service Management (5 ECTS), Portfolio und Klausur 
+The Past, Present, and Future of Entrepreneurship and Innovation (5 ECTS), Portfolio 
+ 
+Wahlpflichtkurse 
+Advanced Consulting Case (5 ECTS) Portfolio 
+Analytisches Customer Management (5 ECTS) Klausur 
+Ausgewählte Probleme der Unternehmensentwicklung (5 ECTS) Klausur 
+Consumer Psychology and Decision making (5 ECTS) Klausur 
+Entrepreneurial Management and Tourism (5 ECTS) Portfolio 
+Intercultural Communication (5 ECTS) Portfolio 
+Operations Research (5 ECTS) Klausur 
+Projektstudium „Management und Führung“ (5 ECTS) Portfolio 
+Regional and Urban Economics* (5 ECTS) Klausur 
+Strategies for Family Owned Business (5 ECTS) Portfolio 
+Strategisches Management (5 ECTS) Portfolio 
+Strategisches Management von Professional Service Firms (5 ECTS) Portfolio 
+Sustainable Entrepreneurship (5 ECTS) Portfolio 
+Transfer-Modul: Innovative Produktentwicklung mit externen Partnern (5 ECTS) 
+Portfolio 
+Zukünfte entwerfen: Methoden und Techniken der ‚Futures Studies‘ (5 ECTS) 
+Hausarbeit mit Präsentation oder Portfolio oder Poster Präsentation 
+ 
+5. Modulangebot im Wahlpflichtbereich Internationale Betriebswirtschaftslehre 
+Wahlpflichtmodule können aus allen Masterschwerpunkten gewählt werden. Die genauen 
+Module der hier aufgeführten Fachgebiete der Schwerpunkte können den obigen Auflistungen 
+entnommen werden. 
+ 
+6. Modulangebot im Wahlpflichtbereich Digital Customer Experience & Service Design 
+
+[Page 8]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtmodule können aus allen Masterschwerpunkten gewählt werden. Die genauen 
+Module der hier aufgeführten Fachgebiete der Schwerpunkte können den obigen Auflistungen 
+entnommen werden. 
+ 
+Wahlbereich: Modulangebot

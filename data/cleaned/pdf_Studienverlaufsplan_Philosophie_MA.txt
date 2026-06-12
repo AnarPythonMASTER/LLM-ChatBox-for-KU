@@ -1,0 +1,159 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Philosophie_MA.pdf
+TITLE: Studienverlaufsplan_Philosophie_MA.pdf
+SOURCE_FILE: Studienverlaufsplan_Philosophie_MA.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anlage 1 zur Studiengangsbeschreibung 
+ 
+ 
+ 
+Interdisziplinärer Master Philosophie als Hauptfach (65 ECTS) 
+ 
+Semest
+er 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Masterarbeit (30 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+3 
+Forschungsorientierte Vertiefung (15 
+ECTS-Punkte) 
+ 
+Studium Individuale (5 
+ECTS-Punkte) 
+Fach II 
+Fach II 
+30 
+ECTS-
+Punkte 
+2 
+Allgemeine 
+Ethik (5 ECTS-
+Punkte) 
+Kernstationen der 
+Philosophiegeschic
+hte (5 ECTS-
+Punkte) 
+Studium 
+Individual
+e (5 
+ECTS-
+Punkte) 
+Studium 
+Individua
+le (5 
+ECTS-
+Punkte) 
+Studium 
+Individua
+le (5 
+ECTS-
+Punkte) 
+Fach II 
+30 
+ECTS-
+Punkte 
+1 
+Kulturphilosop
+hie und 
+Anthropologie 
+(5 ECTS-
+Punkte) 
+Studium Pro 
+(5 ECTS-Punkte) 
+Praktikum 
+(5 ECTS-
+Punkte) 
+Studium 
+Individua
+le (5 
+ECTS-
+Punkte) 
+Fach II 
+Fach II 
+30 
+ECTS-
+Punkte 
+ 
+ 
+Interdisziplinärer Master Philosophie als Nebenfach (25 ECTS) 
+ 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Masterarbeit (30 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+3 
+Forschungsorientierte Vertiefung (15 ECTS-
+Punkte) 
+Studium 
+Individuale 
+(5 ECTS-
+Punkte) 
+Fach 
+II 
+Fach 
+II 
+30 
+ECTS-
+Punkte 
+2 
+Allgemeine Ethik 
+(5 ECTS-Punkte) 
+Studium 
+Individuale (5 
+ECTS-
+Punkte) 
+Studium 
+Individuale 
+(5 ECTS-
+Punkte) 
+Studium 
+Individuale 
+(5 ECTS-
+Punkte) 
+Fach 
+II 
+Fach 
+II 
+30 
+ECTS-
+Punkte 
+1 
+Kulturphilosophie 
+und 
+Anthropologie (5 
+ECTS-Punkte) 
+Studium Pro 
+(5 ECTS-
+Punkte) 
+Praktikum 
+(5 ECTS-
+Punkte) 
+Studium 
+Individual 
+(5 ECTS-
+Punkte) 
+Fach 
+II 
+Fach 
+II 
+30 
+ECTS-
+Punkte

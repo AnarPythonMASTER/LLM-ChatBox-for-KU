@@ -1,0 +1,63 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulplan_Max_Soziologie_mit_Ausland_EN.pdf
+TITLE: Modulplan_Max_Soziologie_mit_Ausland_EN.pdf
+SOURCE_FILE: Modulplan_Max_Soziologie_mit_Ausland_EN.pdf
+------------------------------------------------------------
+
+[Page 1]
+6
+Internship
+(4 weeks)
+Dissertation Workship
+Bachelor Dissertation
+Sociology of Migration
+30 CP
+5
+Semester abroad 
+30 CP
+4
+Key Aspects of Sociological Theory
+Practical Course of Empirical Social Research
+(Part 2)
+Studium Individuale
+30 CP
+3
+Political Sociology an Sociology of Culture
+Methods of Data 
+Analysis II
+Practical Course of 
+Empirical Social Research
+(Part 1)
+Studium Individuale
+Studium Individuale
+30 CP
+2
+Introduction to 
+Sociological Theory
+Social Structure of the 
+Federal Republic of 
+Germany
+Methods of Data 
+Analysis I
+Qualitative Methods of Empirical Social Research
+Studium.Pro
+30 CP
+1
+Introduction to Sociology
+Quantitative Methods of 
+Empirical Social Research
+Sociological Thinking and 
+Sociological Researching
+Key Qualifications
+Studium Individuale
+Studium.Pro
+30 CP
+Interdisziplinärer BA der KU [flexibles Profil]: Soziologie
+Mandatory (15 CP)
+Mandatory for BA thesis (35 CP)
+BA Dissertation and Workshop (15 CP)
+Studium.Pro (10 CP)
+Electives in Sociology (50 CP)
+Semester abroad (30 CP)
+Internship (5 CP)
+Studium Individuale (e.g.
+Language Courses)

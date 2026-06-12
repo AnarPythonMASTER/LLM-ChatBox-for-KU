@@ -1,0 +1,73 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Module_BusinessLanguageandManagementSkills.pdf
+TITLE: Module_BusinessLanguageandManagementSkills.pdf
+SOURCE_FILE: Module_BusinessLanguageandManagementSkills.pdf
+------------------------------------------------------------
+
+[Page 1]
+Digital & Data-Driven Business 
+Status 26.06.2023 
+ 
+ 
+1 
+Wahlpflichtkatalog für den Bachelorstudiengang Digital & Data-Dri-
+ven Business 
+ 
+D) Wahlpflichtbereich „Business Language and Management Skills“ 
+Modulbezeichnung 
+Prüfungsform 
+ECTS- 
+Anzahl 
+Semes-
+terlage 
+Zulassungsvorausset-
+zungen 
+Business English I 
+Klausur + mündl. Prüfung 
+5 
+WiSe 
+- 
+Business English II 
+Klausur + mündl. Prüfung 
+5 
+SoSe 
+Business English I 
+Business French I 
+Klausur + mündl. Prüfung 
+5 
+WiSe 
+- 
+Business French II 
+Klausur + mündl. Prüfung 
+5 
+SoSe 
+Business French I 
+Business Spanish I 
+Klausur + mündl. Prüfung 
+5 
+WiSe 
+- 
+Business Spanish II 
+Klausur + mündl. Prüfung 
+5 
+SoSe 
+Business Spanish I 
+Business Chinese I 
+Klausur + mündl. Prüfung 
+5 
+WiSe 
+- 
+Business Chinese II 
+Klausur + mündl. Prüfung 
+5 
+SoSe 
+Business Chinese I 
+Business German I 
+Klausur + mündl. Prüfung 
+5 
+WiSe 
+- 
+Business German II 
+Klausur + mündl. Prüfung 
+5 
+SoSe 
+Business German I

@@ -1,0 +1,606 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Teilstudiengangsbeschreibung_Geographie_Humangeographie.pdf
+TITLE: Teilstudiengangsbeschreibung_Geographie_Humangeographie.pdf
+SOURCE_FILE: Teilstudiengangsbeschreibung_Geographie_Humangeographie.pdf
+------------------------------------------------------------
+
+[Page 1]
+3/2025_07 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den Teilstudiengang 
+Geographie/Humangeographie 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+A. Allgemeine Struktur des Teilstudiengangs 
+.............................................................. 2 
+B. Beschreibung des Teilstudiengangs ...................................................................... 3 
+1. Der Teilstudiengang in 3 Sätzen 
+......................................................................... 3 
+2. Zielgruppe ......................................................................................................... 3 
+C. Teilstudiengangskonzept 
+....................................................................................... 4 
+1. Struktur des Teilstudiengangs 
+............................................................................ 4 
+1.1. 
+Zugangs- / Zulassungsvoraussetzungen...................................................... 4 
+1.2. 
+Qualifikationsziele ........................................................................................ 4 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten .................................................... 4 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder ........................................................ 5 
+2. Aufbau des Teilstudiengangs ............................................................................. 5 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs .................................................. 5 
+2.2. 
+Pflichtbereich .............................................................................................. 5 
+2.3. 
+Wahlpflichtbereich 
+....................................................................................... 6 
+2.4. 
+Wahlbereich ................................................................................................ 6 
+2.5. 
+Praxisbezug ................................................................................................ 6 
+2.6. 
+Ausgestaltung der Internationalisierung 
+........................................................ 7 
+D. Beitrag des Teilstudiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre ...................................................................................................... 7 
+ 
+ 
+ 
+
+[Page 2]
+3/2025_07 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Teilstudiengangs 
+ 
+Name des Teilstudiengangs: 
+ 
+Geographie/Humangeographie 
+ 
+ 
+Verantwortliche Fakultät: 
+ 
+Mathematisch-Geographische Fakultät 
+ 
+Weitere beteiligte Fakultät/en: 
+ 
+Wählen Sie ein Element aus. 
+ 
+Akademischer Grad: 
+Bachelor of Arts / Staatsexamen 
+ 
+Der Teilstudiengang kann in folgenden 
+Profilen belegt werden: 
+☒ lehramtsgeeignetes Profil 
+☒ flexibles Profil 
+☐ Profil Aisthesis. Kultur und Medien 
+ 
+Studienform: 
+ 
+☒ Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☐ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+ 
+☒ grundständig 
+☐ konsekutiv 
+☐ weiterbildend 
+ 
+Wissenschaftliche/Praktische 
+Orientierung: 
+ (nur bei Masterstudiengängen) 
+ 
+☐ eher anwendungsorientiert 
+☐ eher forschungsorientiert 
+Regelstudienzeit: 
+6 Semester (Bachelor) 
+7-9 Semester (Lehramt) 
+ 
+ Semester (Teilzeit) 
+ 
+Studienbeginn: 
+ 
+☐ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-
+Leistungspunkte: 
+60 ECTS-Leistungspunkte (LAG-Profil) 
+30-85 ECTS-Leistungspunkte (Flexibles Profil) 
+70 ECTS-Leistungspunkte (Grund- und 
+Mittelschule, Lehramt) 
+
+[Page 3]
+3/2025_07 
+ 
+ 
+ 
+3 
+77 ECTS-Leistungspunkte (Realschule, 
+Lehramt) 
+107 ECTS-Leistungspunkte (Gymnasium, 
+Lehramt) 
+ 
+ 
+Studiengebühren: 
+☒ Nein 
+☐ Ja, € pro Semester 
+B. Beschreibung des Teilstudiengangs 
+ 
+1. Der Teilstudiengang in 3 Sätzen 
+Ziel des Teilstudiengangs Geographie ist es, die Studierenden beim Aufbau von 
+Grundlagenwissen und -kompetenzen in den Teilbereichen der Geographie zu fördern. 
+Das Studium umfasst Anteile der Physischen Geographie, der Humangeographie, der 
+Geoökologie, der Regionalen Geographie sowie, im LAG-Profil/Lehramt, der 
+Geographiedidaktik. Das Studienprogramm zielt im Fach Geographie darauf ab, zur 
+Persönlichkeitsbildung und zum gesellschaftlichen Engagement beizutragen, indem im 
+Rahmen des Mensch-Umwelt-System-Konzepts globale, regionale und lokale Umwelt- 
+und Entwicklungsprobleme thematisiert und bei den Studierenden Problemlöse- und 
+Handlungskompetenz im Sinne einer nachhaltigen Entwicklung gefördert werden. 
+ 
+2. Zielgruppe 
+Der Teilstudiengang im Interdisziplinären Bachelorstudiengang richtet sich an 
+Studierende, welche ein Grundlagenstudium in Geographie mit einen weiteren Fach 
+kombinieren 
+wollen. 
+Das 
+Studium 
+des 
+Lehramts 
+richtet 
+sich 
+primär 
+an 
+Lehramtsstudierende mit dem Ziel, diese auf die geographische Perspektive im Heimat- 
+und 
+Sachunterricht 
+(Grundschule) 
+bzw. 
+für 
+den 
+Fächerverbund 
+Geschichte/Politik/Geographie (GPG) (Mittelschule) bzw. für das Fach Geographie 
+(Realschule und Gymnasium) vorzubereiten. 
+ 
+ 
+ 
+ 
+
+[Page 4]
+3/2025_07 
+ 
+ 
+ 
+4 
+C. Teilstudiengangskonzept 
+ 
+1. Struktur des Teilstudiengangs 
+1.1. 
+Zugangs- / Zulassungsvoraussetzungen 
+Für die Aufnahme des Studiengangs wird die Allgemeine Hochschulreife vorausgesetzt. 
+Das Profil Lehramtsgeeigneter Bachelorstudiengang kann nur gewählt werden, wenn die 
+oder der Studierende zugleich in einem entsprechenden Lehramtsstudium immatrikuliert 
+ist (Lehramtplus). Spezifische Zulassungsvoraussetzungen gibt es im Fach Geographie 
+nicht. 
+ 
+1.2. 
+Qualifikationsziele 
+Im Lehramtsgeeigneten Profil/Lehramt: 
+Der Teilstudiengang Geographie kann im Interdisziplinären Bachelorstudiengang sowie 
+im Lehramt studiert werden. Neben geographischen Wissensbeständen werden 
+fachspezifische Kompetenzen entwickelt, die sowohl fachwissenschaftliche und, im LAG-
+Profil, fachdidaktische Schwerpunkte setzen. 
+Das Fach Geographie bietet einen wesentlichen Baustein für die Entwicklung des 
+Nachhaltigkeitsgedankens in der Forschung, der Lehre aber auch in der Praxis innerhalb 
+und außerhalb der Universität. Durch die Verankerung der Nachhaltigkeit in der 
+Stiftungsverfassung, dem Leitbild und dem Nachhaltigkeitsgesamtkonzept ist die 
+Katholische Universität Eichstätt-Ingolstadt in besonderem Maße bestrebt, Nachhaltigkeit 
+und Bildung für nachhaltige Entwicklung in das Geographiestudium zu integrieren, um 
+Absolventinnen und Absolventen auf ihre zukünftige Tätigkeit im schulischen und 
+außerschulischen Bereich vorzubereiten. 
+Ein weiteres Ziel im LAG-Profil ist es, dass die Absolventinnen und Absolventen am Ende 
+des Studiums über ein großes Repertoire an fachlichen, fachdidaktischen und 
+unterrichtsmethodischen Grundlagen für die schulische und außerschulische Praxis in der 
+geographischen Perspektive sowie im Schulfach Geographie verfügen, die sie befähigen 
+geographiespezifische Lehr- und Lernformate für die jeweilige Schulform (Grund-, Mittel-
+, Realschule und Gymnasium) zu entwickeln, durchzuführen und zu reflektieren. 
+ 
+ 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Nach der Absolvierung des Teilstudiengangs Geographie im Lehramt im Umfang von 70 
+ECTS-Punkten (Grund- und Mittelschule), 77 ECTS-Punkten (Realschule) bzw. 107 
+ECTS-Punkten (Gymnasium) sowie weiterer fachwissenschaftlicher, fachdidaktischer und 
+pädagogischer Felder im Umfang von insgesamt 210 ECTS-Punkten (Grund-, Mittel- und 
+Realschule) bzw. 270 ECTS-Punkten (Gymnasium) steht den Studierenden die 
+Absolvierung des Staatsexamens für das Lehramt Grund-, Mittel- und Realschule bzw. 
+Gymnasium offen. 
+Nach 
+Abschluss 
+des 
+Teilstudiengangs 
+Geographie 
+im 
+Interdisziplinären 
+Bachelorstudiengang mit können die Studierenden ein Masterstudium an der KU oder 
+an einer anderen Universität aufnehmen. 
+
+[Page 5]
+3/2025_07 
+ 
+ 
+ 
+5 
+ 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+Die Nachfrage des Lehramtsgeeigneten Bachelorstudiengangs (Lehramtplus) spiegelt den 
+überwiegenden Wunsch der Studierenden wider, nach dem Abschluss im Lehrberuf tätig 
+zu werden. Dennoch haben die Studierenden, besonders auch im flexiblen Profil, die 
+Möglichkeit, sich für geographische Berufsfelder im außerschulischen Bereich zu 
+qualifizieren. Das Fach Geographie bietet durch seine starke Anwendungsorientierung 
+und die Entwicklung von Regional- und Methodenkompetenz Möglichkeiten auf dem 
+freien Arbeitsmarkt. Hierzu gehören beispielsweise Lehrtätigkeiten an außerschulischen 
+Bildungseinrichtungen (z. B. Museen, Geoparks, Umweltstationen, Verlagen oder in 
+Politik und Verwaltung. Es wird durch den Bachelorabschluss die Möglichkeit eröffnet, 
+ein geographiebezogenes Masterstudium anzuschließen. 
+ 
+ 
+ 
+2. Aufbau des Teilstudiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Der Interdisziplinären Bachelorstudiengang Geographie kann in folgenden 
+Ausrichtungen studiert werden: 
+Lehramtsgeeignetes Profil: Als Geographie im Umfang von 60 ECTS-Punkten 
+ 
+Flexibles Profil: Als Humangeographie im Umfang von mind. 30 ECTS-Punkten 
+(Nebenfach) bzw. 60 – 85 ECTS-Punkten (Hauptfach) 
+ 
+Der Lehramtsstudiengang Geographie kann in folgenden Ausrichtungen studiert 
+werden: 
+Grund- und Mittelschule: 70 ECTS-Punkte 
+Realschule: 77 ECTS-Punkte 
+Gymnasium: 107 ECTS-Punkte 
+ 
+2.2. 
+Pflichtbereich 
+Im Lehramtsgeeigneten Profil/Lehramt: 
+Im Lehramtsgeeigneten Profil und im Lehramt richtet sich der Pflichtbereich nach den 
+Vorgaben der LPO1. Die Pflichtmodule sind in der Fachprüfungsordnung für alle 
+Schularten des Lehramts aufgeführt. 
+Im Lehramtsgeeigneten Profil sind 60 ECTS-Punkte der Lehramtsmodule einzubringen. 
+ 
+Im flexiblen Profil 
+Im Pflichtbereich absolvieren die Studierenden humangeographische Module im 
+Umfang von 20 ECTS-Punkten. 
+ 
+ 
+
+[Page 6]
+3/2025_07 
+ 
+ 
+ 
+6 
+2.3. 
+Wahlpflichtbereich 
+Im Lehramtsgeeigneten Profil sind 60 ECTS-Punkte der Lehramtsmodule einzubringen 
+(siehe Pflichtbereich) 
+Im Lehramt: siehe jeweiliges Lehramt in der Fachprüfungsordnung 
+ 
+Im flexiblen Profil 
+Den Studierenden steht ein breiten Angebot an Wahlpflichtmodulen zur Verfügung. 
+Diese sind in der Anlage Wahlpflichtkatalog aufgelistet. 
+ 
+ 
+2.4. 
+Wahlbereich 
+Im Lehramtsgeeigneten Profil/Lehramt: 
+Für den Wahlbereich, welcher im Rahmen des Interdisziplinären Bachelors bzw. 
+Staatsexamen absolviert werden muss, stehen folgende Module zur Verfügung, sofern 
+noch nicht im Wahlpflichtbereich absolviert: 
+• Gewässerkunde (Limnologie und Wasserwirtschaft) 
+• Einführung in die Geologie 
+• Kleine Exkursion 
+• Nachhaltige Entwicklung 1 
+• Nachhaltige Entwicklung 2 
+• Nachhaltige Ernährung 
+• Schnee- und Gletscherkunde 
+• Bildung für nachhaltige Entwicklung, Schule 
+• Fachwissenschaftliche Grundlagen 
+• Entwicklungsprobleme 
+• Mensch-Umweltkonflikte 
+• Physische Geographie 4: Vegetationsgeographie 
+ 
+Weitere Module können nach Zustimmung der oder des Fachsprechers bzw. der 
+Fachsprecherin für den Teilstudiengang Geographie eingebracht werden. 
+ 
+Im flexiblen Profil 
+Kein Wahlbereich vorgesehen. Zusätzliche Module können im Rahmen des Studium 
+Individuale in das Flexible Profil des Interdisziplinären Bachelorstudiengangs eingebracht 
+werden. 
+ 
+ 
+2.5. 
+Praxisbezug 
+Im Lehramtsgeeigneten Profil/Lehramt: 
+Im Interdisziplinären Bachelorstudiengang sowie im Lehramtsstudiengang besteht die 
+Möglichkeit, dass die Lehramtsstudierenden ein fachspezifisches Schulpraktikum 
+absolvieren. Enge Theorie-Praxis-Beziehungen prägen die Studiengänge im Fach 
+Geographie für alle Schulformen. Der schulspezifische Praxisbezug erhält in den 
+geographiedidaktischen Modulen besondere Berücksichtigung. 
+
+[Page 7]
+3/2025_07 
+ 
+ 
+ 
+7 
+ 
+Im flexiblen Profil 
+Im Flexiblen Profil haben die Studierenden die Möglichkeit, das Pflichtpraktikum im 
+Bereich der Geographie zu absolvieren. 
+ 
+2.6. 
+Ausgestaltung der Internationalisierung 
+Im Bachelorstudiengang sowie im Lehramtsstudiengang werden internationale 
+geographische Problem- und Fragestellungen sowie Forschungsprojekte und -
+ergebnisse thematisiert. Auslandserfahrungen können die Lehramtsstudierenden 
+zuvorderst im Rahmen von Exkursionen, die sehr regelmäßig ins Ausland führen, 
+sammeln. Dazu kommen allen weiteren entsprechenden Angebote, die an unserer 
+Universität allgemein angeboten werden, wie etwa das Studium an einer unseren 
+Partneruniversitäten im Rahmen des Erasmus-Plus-Programms. Es steht allen 
+Studierenden offen, im Rahmen des Studiums ein Auslandssemester zu absolvieren. 
+ 
+ 
+D. Beitrag des Teilstudiengangs zum KU-Profil auf der 
+Grundlage des Leitbilds für Studium und Lehre 
+ 
+„An der Katholischen Universität Eichstätt-Ingolstadt (KU) streben wir eine hervorragende 
+akademische Qualifizierung der Studierenden an. Studium und Lehre resultieren aus 
+intensiver Forschung und wissenschaftlichem Erkenntnisgewinn. Im Zentrum steht unser 
+Bildungsverständnis, das sich zusammenfassen lässt unter dem programmatischen 
+Vierklang: diskursiv, vernetzt, engagiert, persönlich.“ (aus dem Leitbild für Studium und 
+Lehre der KU) 
+ 
+Der Teilstudiengang Geographie/Humangeographie an der KU erfüllt dieses Leitbild in 
+allen vier Bereichen wie folgt: 
+ 
+Diskursiv: 
+• Der 
+Studiengang 
+verbindet 
+die 
+wissenschaftlichen 
+Grundlagen 
+des 
+Gegenstandsbereichs 
+Geographie 
+mit 
+praxisrelevanten 
+Fragestellungen 
+(Fachdidaktik und -methodik). Studierende haben die Möglichkeit, sich nach ihren 
+Neigungen und Schwerpunkten weiterzuentwickeln. 
+• Die Vielfalt an Lehr- und Prüfungsformaten (Vorlesung, Übungen, Seminare, 
+schriftliche und mündliche Prüfungen, Portfolios, etc.) ermöglichen einen intensiven 
+Diskurs zwischen Lehrenden und Studierenden. 
+• Die Studierenden werden dazu angeregt, Studieninhalte kritisch zu reflektieren und 
+im Hinblick auf ihre jeweilige Anwendbarkeit zu untersuchen. 
+ 
+Vernetzt: 
+• Der Studiengang ist interdisziplinär ausgerichtet und thematisiert Mensch-Umwelt-
+Systeme auf verschiedenen Maßstabsebenen (lokal bis global). Das Brückenfach 
+
+[Page 8]
+3/2025_07 
+ 
+ 
+ 
+8 
+Geographie vernetzt natur- und humanwissenschaftliche Betrachtungsweisen 
+sowie Inhalte und Methoden angrenzender Fachgebiete: Naturwissenschaften, 
+Gesellschaftswissenschaften, Allgemeine Pädagogik, Psychologie. 
+• Der Studiengang ist in Forschung und Lehre an der KU mit Zentrum für 
+Lehrerbildung sowie weiterer Fächer und Fachdidaktiken verbunden und kooperiert 
+eng mit den anderen geographischen Teilfächern. 
+• Darüber hinaus wird im Studiengang die internationale Vernetzung gefördert und 
+die Studierenden werden angeregt, durch Auslandspraktika und -semester 
+internationale Erfahrungen zu sammeln. 
+ 
+Engagiert: 
+• Die Wahlpflichtbereiche sowie weitere in diesen Bereichen belegbare Wahlmodule 
+ermöglichen den Studierenden, die erworbenen Lehr- und Lernmethoden kritisch 
+zu reflektieren und einzusetzen. 
+• Ziel des Studiengangs ist es, die Studierenden zu gesellschaftlich verantwortlichen 
+Lehr- und Fachkräften im Sinne von Change Agent zu befähigen. 
+ 
+Persönlich: 
+• Der Studiengang fördert die Persönlichkeitsentwicklung der Studierenden durch die 
+theoriegeleiteten und praxisbezogenen Module 
+• Zudem beinhalten die Veranstaltungen Möglichkeiten zur Reflexion eigener Vor- und 
+Einstellungen zu geographiebezogenen Berufsbildern sowie der eigenen 
+Professionalisierung. 
+• Insbesondere in den Examensmodulen sowie beim Verfassen der Bachelorarbeit 
+wird den Studierenden ein intensives Betreuungsverhältnis geboten. Die 
+Studierenden können hierdurch ihre individuellen Fähigkeiten zur Geltung bringen 
+und sich persönlich weiterentwickeln. 
+ 
+ 
+ 
+
+[Page 9]
+3/2025_07 
+ 
+ 
+ 
+9 
+Anlage: Idealtypischer Verlaufsplan 
+ 
+Flexibles Profil: 
+ 
+Se
+mes
+ter 
+ 
+ 
+ 
+ 
+ 
+ 
+ECTS-
+Punkte 
+6 
+BA-Arbeit 
+10 ECTS 
+Wissenschaftli-
+ches 
+Kolloquium zur 
+Bachelorarbeit 
+5 ECTS 
+Fach 2 
+5 ECTS 
+Fach 2 
+5 ECTS 
+Studium 
+Individuale 
+5 ECTS 
+30 
+ECTS-
+Punkte 
+5 
+Empirische 
+Methoden und 
+kleines Projekt 
+5 ECTS 
+Humangeogra
+phie 3 
+5 ECTS 
+Gesellschaft 
+und Umwelt 
+5 ECTS 
+Praktikum 
+5 ECTS 
+Fach 2 
+5 ECTS 
+Studium 
+Individuale 
+5 ECTS 
+30 
+ECTS-
+Punkte 
+4 
+Auswertung 
+und große 
+Projektarbeit in 
+der Human- 
+und 
+Wirtschaftsgeo
+graphie 
+5 ECTS 
+Großes Geländeseminar 
+10 ECTS 
+Fach 2 
+5 ECTS 
+Fach 2 
+5 ECTS 
+Studium 
+Individuale 
+5 ECTS 
+30 
+ECTS-
+Punkte 
+3 
+Regionale Ent-
+wicklung: 
+Europ.+ 
+globale 
+Strukturen 
+5 ECTS 
+Spezielle Methoden und große 
+Projektarbeit 
+10 ECTS 
+Fach 2 
+5 ECTS 
+Fach 2 
+5 ECTS 
+Studium.Pro 
+5 ECTS 
+30 
+ECTS-
+Punkte 
+2 
+Humangeogra
+phie 2 
+5 ECTS 
+Wissenschaftst
+heorie und 
+Methodologie 
+5 ECTS 
+Fach 2 
+5 ECTS 
+Fach 2 
+5 ECTS 
+Studium 
+Individuale 
+5 ECTS 
+Studium.Pro 
+5 ECTS 
+30 
+ECTS-
+Punkte 
+1 
+Humangeogra
+phie 1 
+5 ECTS 
+Einführung in 
+die Geographie 
+5 ECTS 
+Fach 2 
+5 ECTS 
+Fach 2 
+5 ECTS 
+Fach 2 
+5 ECTS 
+Studium 
+Individuale 
+5 ECTS 
+30 
+ECTS-
+Punkte 
+ 
+ 
+Lehramtsgeeignetes Profil/Lehramt Grundschule: 
+
+[Page 10]
+3/2025_07 
+ 
+ 
+ 
+10 
+ 
+Lehramtsgeeignetes Profil/Lehramt Mittelschule:
+ 
+Lehramtsgeeignetes Profil/Lehramt Realschule: 
+
+[Page 11]
+3/2025_07 
+ 
+ 
+ 
+11 
+ 
+ 
+ 
+Lehramtsgeeignetes Profil/Lehramt Gymnasium:

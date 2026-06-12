@@ -1,0 +1,2131 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulhandbuch_Journalistik_MA.pdf
+TITLE: Modulhandbuch_Journalistik_MA.pdf
+SOURCE_FILE: Modulhandbuch_Journalistik_MA.pdf
+------------------------------------------------------------
+
+[Page 1]
+MA JOURNALISTIK 
+ 
+mit Schwerpunkt Innovation und Management
+Wegweiser für das Studium in Eichstätt
+
+[Page 2]
+2
+?
+?
+?
+Bologna
+Module
+Punkte
+ECTS
+Master
+Impressum
+Studiengang Journalistik
+Katholische Universität Eichstätt-Ingolstadt 
+85071 Eichstätt
+Telefon: 08421 / 93-21564
+Email: journalistik@ku.de
+www.ku.de/slf/journalistik 
+Redaktion: Dr. Renate Hackel-de Latour 
+Stand: Oktober 2024
+
+[Page 3]
+3
+Inhalt
+Modulhandbuch
+| 11
+Konzept des Studiengangs „Journalistik mit 
+Schwerpunkt Innovation und Management | 5
+Studienplan
+| 10
+Modulübersicht
+| 8 
+Prüfungsordnung | 36
+
+[Page 4]
+4
+
+[Page 5]
+5
+Konzept des Studiengangs 
+„Journalistik mit Schwerpunkt Innovation und Management“
+Der Studiengang ist ein forschungsorientierter, nicht-konsekutiver Master. Er 
+steht den Absolvent:innen des Bachelor Journalistik in Eichstätt ebenso offen wie 
+Studierenden anderer Studienrichtungen im Bereich der Kommunikations- 
+und Medienwissenschaft. Der Studiengang startet jeweils zum Wintersemester.
+Im Studiengang
+•
+erkunden die Studierenden die Bedingungen, Mechanismen und
+Zusammenhänge von Organisation, Management und Innovationen in
+Medien und Journalismus,
+•
+erforschen die Studierenden die in der Zukunft wichtigen Entwicklungen
+und Veränderungen der medialen und journalistischen Arbeit im Hinblick
+auf qualitätsbewussten, sozial verantwortlichen Journalismus,
+•
+erwerben die Studierenden Kenntnisse, Fähigkeiten und Fertigkeiten, um
+Wandlungsprozesse in Medien und Journalismus in der praktischen Arbeit
+erkennen, begleiten und gestalten zu können,
+•
+bereiten sich die Studierenden auf Tätigkeiten im Management von
+Medien und Journalismus vor. Dies beinhaltet auch die Vorbereitung auf
+selbstständige Arbeit.
+Ziel des forschungsorientierten Masterstudiengangs ist es, auf der Basis aktueller 
+Forschungsergebnisse methodische Kompetenzen, theoretisches Wissen und 
+wesentliche Befunde zum Management und zu den Innovationen in Journalismus 
+und Medien zu vermitteln. Diese Kenntnisse und Fertigkeiten setzen die Studierenden 
+ein, um selbstständig Projekte zum Management und zu Innovationen zu initiieren 
+und durchzuführen.
+Das Studium setzt eine hohe Eigeninitiative und -verantwortung voraus, bietet dafür 
+eine intensive persönliche Betreuung. 
+
+[Page 6]
+6
+Der Master-Studiengang Journalistik mit Schwerpunkt Innovation und Management
+•
+ 
+ist ein kommunikations- und medienwissenschaftlicher Studiengang mit
+Grundlagen-, Vertiefungs- und Forschungsmodulen,
+•
+ 
+fokussiert die sozialverantwortlichen Bezüge von Medien und Journalismus
+in der Gesellschaft,
+•
+erneuert und vertieft kommunikations- und journalismusspeziﬁ
+ sche
+Grundlagen (Qualität, Ethik, Organisation, Medienrecht),
+•
+ 
+erneuert und vertieft medienwirtschaftliche Grundlagen (Medien-
+management, BWL, Arbeitsrecht),
+•
+ 
+vertieft Kenntnisse über die Organisation und den Content journalismus-
+speziﬁ
+ scher Innovationen,
+•
+ 
+vertieft Kenntnisse der empirischen Sozialforschung und der angewandten
+Medienforschung,
+•
+ 
+vertieft Kenntnisse über (die steigenden Anforderungen an) Selbstständig-
+keit 
+und 
+Unternehmensgründung 
+und 
+-führung 
+in 
+Medien 
+und 
+Journalismus,
+•
+ 
+leitet die Studierenden zu selbstständigen Forschungsprojekten über
+Formatentwicklungen in traditionellen und innovativen Medien,
+•
+ 
+leitet die Studierenden zu selbstständigen Forschungsprojekten über
+den Wandel von Organisation und Management in traditionellen und
+innovativen Medien,
+•
+schließt mit einer Master Thesis ab.
+
+[Page 7]
+7
+Der Aufbau des Studiengangs und der Module (siehe S.11-34) ist in der Tabelle 
+ 
+ 
+ 
+ 
+(S. 8-9) dargestellt:
+•
+ 
+Im ersten Semester besteht ein Teil des Studiums aus einem
+Wahlpﬂ
+ ichtbereich 
+(insgesamt 
+10 
+ECTS-Punkten), 
+der 
+darauf
+konzipiert ist, dass die Studierenden aus unterschiedlichen Bachelor-
+studiengängen kommen. Die Studierenden haben die Möglichkeit,
+Module aus einem festgeschriebenen Katalog von Studienfächern
+(Kommunikationswissenschaft/Politik 
+und 
+Soziologie/Wirtschaft) 
+zu
+wählen und untereinander zu kombinieren. Wer in seinem Bachelorstudium
+keine Berührung mit Empirischer Sozialforschung hatte, muss das Modul
+Empirische Medienforschung I verpﬂ
+ ichtend ableisten und wer keine
+Kompetenzen im wirtschaftswissenschaftlichen Bereich einbringen kann,
+muss das Modul Grundlagen der BWL I besuchen. Verpﬂ
+ ichtend sind
+die vier Module: Journalistik/Kommunikations- und Medienwissenschaft,
+Aussagenproduktion 
+und 
+Berichterstattungsformate, 
+Qualität 
+und
+Qualitätsforschung sowie ein Mastermodul im Studium Pro.
+•
+ 
+Im zweiten Semester werden verschiedene Wissensbereiche vertieft
+z.B. Unternehmensethik (Corporate Social Responsibility) und im Modul
+Organisations- und Formatentwicklung bereits auf forschungsorientierte
+Projekte hingeführt. Hier werden in der Regel fallweise Module inhaltlich
+verknüpft: etwa zwischen Innovations- und Projektmanagement sowie dem
+Methodenmodul und der konkreten Anwendung im Forschungsprojekt.
+•
+Im dritten Semester liegt der Schwerpunkt auf zwei Forschungsmodulen
+mit Projektseminaren, in denen zum Beispiel die oben erwähnten Projekte
+mit Kooperationspartnern (z.B. WDR, BR, „Spiegel online“, „Die Zeit“ und
+„Donaukurier“) durchgeführt werden. Das vertiefende Modul Strategisches
+Management schließt das Fachgebiet BWL ab.
+•
+Im vierten Semester wird die Masterarbeit durchgeführt.
+Die Prüfungsformen im Masterstudiengang (siehe Modulbeschreibungen) 
+orientieren sich an den zu vermittelnden Kompetenzen. Es gibt vor allem in 
+den ersten beiden Semestern Klausuren. Danach dominieren Lernportfolios 
+mit Konzepten, Projektentwürfen und -berichten sowie Referaten, die von 
+den Studierenden auch in den Redaktionen der Kooperationspartner gehalten 
+werden.
+Nach den Erfahrungen der bisherigen Jahrgänge kann die Regelstudienzeit von 
+zwei Jahren eingehalten werden. Zudem besteht die Möglichkeit ein Semester im 
+Ausland zu verbringen bzw. ein Praktikum im Ausland zu absolvieren.
+
+[Page 8]
+8
+Modulübersicht
+Sachgebiete
+Pﬂ
+ ichtmodule
+Leistungspunkte 
+(ETCS)
+Kommunikations-
+wissenschaft
+Journalistik/Kommunikations- und 
+Medienwissenschaft
+5
+Aussagenproduktion und 
+Berichterstattungsformate
+5
+Qualität und Qualitätsforschung
+5
+Wahlpﬂ
+ ichtbereich
+insgesamt 10 ECTS
+Kommunikations-
+wissenschaft
+Empirische Medienforschung I
+5
+Politik und 
+Soziologie
+Vergleichende Politikwissenschaft
+5 / 10
+Aufbaumodul Politische Theorie und 
+Philosophie
+5
+Fortgeschrittene Soziologische Theorie
+5
+Fortgeschrittene Prozessorientierte
+Soziologie
+5
+Wirtschaft
+Grundlagen der Allgemeinen 
+Betriebswirtschaftslehre I
+5
+Mikroökonomie I
+5
+
+[Page 9]
+9
+Sachgebiete
+Pﬂ
+ ichtmodule
+Leistungspunkte 
+(ETCS)
+Kommunikations-
+wissenschaft
+Medienwirtschaft, Medienmanagement, 
+Innovation
+5
+Empirische Medienforschung II
+5
+Corporate Social Responsibility
+5
+Organisations- und Formatentwicklung
+10
+Arbeits- und Organi-
+sationspsychologie
+Mitarbeiterführung
+5
+Kommunikations-
+wissenschaft
+Entwicklung innovativer Formate
+10
+Strategisches Management
+5
+Medien-und Arbeitsrecht
+5
+Organisation von Redaktionen und 
+Medien
+10
+Masterarbeit
+30
+Studium.Pro 
+Fächerübergreifende Themen
+5
+
+[Page 10]
+10
+10
+Studienplan
+Masterstudiengang Journalistik mit Schwerpunkt Innovation und Management
+Semester 
+ Module 
+1 
+Eingangs- 
+phase 
+30/12-14 
+Wahlpflichtbereich (insgesamt 1cp) 
+*NLLTMHJ@SHNMRwissenschaft Politik und Soziologie 
+ Wirtschaft 
+Journalistik/KommTMHkations- und 
+MedienwissenRBG@ES
+5 cp 
+2 
+30/12 
+3 
+30/12 
+4 
+30 
+2 SWS5NQKDRTMF
+Qualität und0T@KHSĔSRENQRBGTMF
+2 SWS Seminar 
+5 cp 
+AussagenproCTJSHNM und 
+!DQHBGSDQRS@SSTMFREormate 
+2 SWS Seminar 
+2 SWS Übung 
+5 cp 
+"NQONQ@SD2NBH@K1DRONMRHAHKHSX 
+5DQ@MSVNQSTMFTMC*NLLTMHJ@SHNM 
+2 SWS Seminar 
+5 cp 
+.QF@MHR@SHNMR- 
+und 
+%NQL@SDMSVHBJKTMF
+2622DLHM@Q
+262ăATMF
+BO
+,HS@QADHSDQEŘGQTMF 
+ SWS Seminar 
+5 cp 
+$LOHQHRBGD
+,DCHDMENQRBGTMF(( 
+2 SWS 2DLHM@Q
+5 cp 
+,DCHDMVHQSRBG@ES,DCHDM
+L@M@FDLDMS(MMNU@SHNM
+2 SWS Seminar 
+5 cp 
+$MSVHBJKTMFHMMNU@SHUDQ
+%NQL@SD
+ SWS 2DLHM@Q
+cp 
+2SQ@SDFHRBGDR,@M@FDLDMS
+ SWS ăATMF
+cp 
+,DCHDMTMC QADHSRQDBGS
+SWS 2DLHM@Q
+cp 
+.QF@MHR@SHNMUNM1DC@JSHNMDMTMC,DCHDM
+ SWS 2DLHM@Q
+cp 
+,@RSDQ@QADHS
+SWS 2DLHM@Q
+cp 
+/NKHSHJTMC2NYHNKNFHD
+ TEA@TLNCTK/NKHSHRBGD
+3GDNQHDTMC/GHKNRNOGHD
+ %NQSFDRBGQHSSDMD
+2NYHNKNFHRBGD3GDNQHD
+ %NQSFDRBGQHSSDMD/QNYDRR
+NQHDMSHDQSD2NYHNKNFHD
+IDBO
+ 5DQFKDHBGDMCD
+/NKHSHJVHRRDMRBG@ES
+5 cpBO
+$LOHQHRBGD
+,DCHDMENQRBGTMF( 
+2 SWS2DLHM@Q
+5 cp 
+!6+( 
+ SWS5NQKDRTMFăATMF
+5 cp 
+,HBQNŅJNMNLHD(
+2625NQKDRTMFăATMF
+BO
+2STCHTL./QN
+5 cp
+
+[Page 11]
+11
+Modulhandbuch
+Modulbeschreibungen Masterstudiengang 
+Journalistik mit Schwerpunkt Innovation und Management
+
+[Page 12]
+12
+Empirische Medienforschung I
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Karin Boczek
+Kompetenzen
+Die Studierenden verfügen über
+•
+Fachwissen und Fertigkeiten sowie Fach- und Methodenkompetenz
+•
+die Grundlagen und die Entwicklung der empirischen Sozialforschung
+•
+Grundlagen der Statistik
+Inhalte/Themen
+Die Studierenden befassen sich mit den Methoden der empirischen Sozi-
+alforschung, wie sie in der Kommunikations- und Medienforschung bzw. 
+in den angrenzenden Disziplinen Verwendung ﬁ
+ nden: wie etwa Befragung, 
+Inhaltsanalyse, Beobachtung und Experiment
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz/ Selbststudium im Seminar
+•
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter Leistungsnach-
+weis: 90minütige Klausur
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar: 2 ECTS-Punkte
+•
+Prüfungsvorbereitung: 3 ECTS-Punkte
+Modulnote
+Klausur: 100 %
+Status des Moduls
+Wahlpﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Keine
+Turnus des Angebots
+Jedes Wintersemester
+Beteiligte Fachgebiete
+Journalistik
+Modulnummer
+88-303-JOUR01-H-0513
+
+[Page 13]
+13
+Journalistik/Kommunikations- und 
+Medienwissenschaft
+Modulnummer
+88-303-JOUR03-H-0513
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Annika Sehl
+Kompetenzen
+Die Studierenden verfügen über fachtheoretische Kenntnisse 
+•
+zur Analyse und Bewertung von Theorien und Modellen der
+Kommunikations- und Medienwissenschaft
+•
+zur Einordnung praktischer Vorgänge in Journalismus und Medien in die
+Theorien und Modelle
+Inhalte/Themen
+In diesem Modul werden die Modelle und Theorien der Kommunikations- 
+und Medienwissenschaft mit dem Schwerpunkt auf Journalismus- und 
+Medienwandel vorgestellt, analysiert, bewertet und anwendungsbezogen 
+diskutiert. 
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Vorlesung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz/ bzw. Selbststudium in der Vorlesung
+•
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter Leistungsnach-
+weis: 90minütige Klausur
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+•
+Präsenz- bzw. Selbststudium in der Vorlesung: 1 ECTS-Punkt
+•
+Prüfungsvorbereitung: 4 ECTS-Punkte
+Modulnote
+Klausur: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Gebermodul für
+•
+Aisthesis. Kultur und Medien im Interdisziplinären Masterstudiengang
+•
+Master dt.-franz. integrierter Studiengang Politikwissenschaft
+Turnus des Angebots
+Jedes Wintersemester
+Beteiligte Fachgebiete
+Journalistik
+13
+
+[Page 14]
+14
+Aussagenproduktion und 
+Berichterstattungsformate
+Modulnummer
+88-303-JOUR02-H-0513
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Annika Sehl
+Kompetenzen
+Die Studierenden verfügen über Fachwissen und beruﬂ
+ iches Wissen
+•
+zur Analyse und Bewertung der Produktionsprozesse und der
+verschiedenen Darstellungsformate
+•
+zur Einordnung der Funktionen von Berichterstattungsformaten
+Inhalte/Themen
+In diesem Modul werden die Produktionsprozesse und Berichterstattungs-
+formate in Journalismus und Medien analysiert, bewertet und awendungs-
+bezogen diskutiert. 
+Die Studierenden sammeln, systematisieren und analysieren bestehede 
+Berichterstattungsformate hinsichtlich ihrer Entwicklung, ihres Aufbaus und 
+ihrer Funktion.
+Die Studierenden analysieren die Bedingungen der Berichterstattung und die 
+Anwendbarkeit von Berichterstattungsformaten in verschiedenen Medien.
+Die Studierenden lernen traditionelle Muster der medialen Aussagenproduk-
+tion kennen, erarbeiten Grundlagen neuer Muster der medialen Aussagen-
+produktion und analysieren die Folgen der organisationalen Struktur auf die 
+Berichterstattung und üben an Fallbeispielen die Organisation der Aussagen-
+produktion ein.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+(1) Seminar (2 SWS)
+(2) Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz-/Selbststudium in Seminar und Übung
+•
+Erfolgreicher, mindestens mit „ ausreichend“ bewerteter Leistungsnach-
+weis: Portfolio oder schriftliche Hausarbeit oder Projektskizze
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+•
+Präsenz-/Selbststudium in Seminar und Übung: 2 ECTS-Punkte
+•
+Portfolio oder schriftliche Hausarbeit oder Projektskizze: 3 ECTS-Punkte
+Modulnote
+Portfolio oder schriftliche Hausarbeit oder Projektskizze: 100 Prozent
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Gebermodul für 
+•
+Aisthesis. Kultur und Medien im Interdisziplinären Masterstudiengang
+•
+Master dt.-franz. integrierter Studiengang Politikwissenschaft
+Turnus des Angebots
+Jedes Wintersemester
+Beteiligte Fachgebiete
+Journalistik
+
+[Page 15]
+15
+Qualität und Qualitätsforschung
+Modulnummer
+88-303-JOUR04-H-0513
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Friederike Herrmann
+Kompetenzen
+Die Studierenden sind befähigt
+•
+zur Analyse und Bewertung medialer Qualität
+•
+und zur Einordnung und Bewertung von Qualitätskriterien,
+Qualitätsanalysen und Qualitätsmanagement.
+Inhalte/Themen
+Die Studierenden sollen
+•
+die Grundlagen, Modelle und Theorien von journalistischer und
+allgemein medialer Qualität und Ethik kennen,
+•
+die Grundlagen anhand von Fallbeispielen praktisch anwenden und
+•
+Muster des Umgangs mit Qualitätskriterien und Qualitätsmanagement
+erarbeiten.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar
+•
+Erfolgreicher, mindestens mit „ ausreichend“ bewerteter Leistungsnach-
+weis: Portfolio oder schriftliche Hausarbeit oder Projektskizze
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar: 2 ECTS-Punkte
+•
+Portfolio oder schriftliche Hausarbeit oder Projektskizze: 3 ECTS-Punkte
+Modulnote
+Portfolio oder schriftliche Hausarbeit oder Projektskizze: 100 Prozent
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Gebermodul für
+•
+Master dt.-franz. integrierter Studiengang Politikwissenschaft
+Turnus des Angebots
+Jedes Wintersemester
+Beteiligte Fachgebiete
+Journalistik
+15
+
+[Page 16]
+16
+Empirische Medienforschung II
+Modulnummer
+88-303-JOUR05-H-0513
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Karin Boczek
+Kompetenzen
+Die Studierenden verfügen über folgende Fertigkeiten 
+•
+Vertiefung der Kenntnisse zur Erhebung, Einordnung, Analyse und
+Bewertung empirischer Daten der Medienforschung
+Inhalte/Themen
+Die Studierenden
+•
+vertiefen Kenntnisse der Konzeption empirischer Projekte,
+•
+üben an Fallbeispielen die Durchführung empirischer Projekte,
+•
+recherchieren berufsrelevante Themen für empirische Forschung (zum
+Beispiel Leserforschung),
+•
+konzipieren und organisieren empirische Lösungen für berufsrelevante
+Themen,
+•
+rekonstruieren aktuelle Ergebnisse der Medienforschung.
+Voraussetzungen
+Modul Empirische Medienforschung I
+Lehr- und Lernformen
+Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar
+•
+Erfolgreicher, mindestens mit „ ausreichend“ bewerteter Leistungsnach-
+weis: Portfolio oder Projektskizze oder weitere Textsorten
+(wird zu Beginn der Veranstaltung festgelegt)
+Zeitaufwand/ 
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar: 2 ECTS-Punkte
+•
+Portfolio oder Projektskizze oder weitere Textsorten: 3 ECTS-Punkte
+Modulnote
+Portfolio oder Projektskizze oder weitere Textsorten: 100 Prozent
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Keine
+Turnus des Angebots
+Jedes Sommersemester
+Beteiligte Fachgebiete
+Journalistik
+
+[Page 17]
+17
+Modulnummer
+88-303-JOUR06-H-0513
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Annika Sehl
+Kompetenzen
+Die Studierenden verfügen über folgende Fertigkeiten 
+•
+Vertiefung von Kompetenzen zur Analyse, Bewertung und Lösung von
+Aufgaben des Medienmanagements
+•
+Aufbau und Vertiefung von Kompetenzen zum Management von
+Innovationen
+Inhalte/Themen
+Die Studierenden 
+•
+vertiefen Kenntnisse zu den Grundlagen der Medienwirtschaft,
+•
+bearbeiten medienwirtschaftliche Probleme des Managements,
+•
+insbesondere im Hinblick auf die Anforderungen des
+Innovationsmanagements in Journalismus und Medien.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar
+•
+Erfolgreicher, mindestens mit „ ausreichend“ bewerteter Leistungs-
+nachweis: Portfolio oder schriftliche Hausarbeit oder Projektskizze
+(wird zu Beginn der Veranstaltung festgelegt
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar: 2 ECTS-Punkte
+•
+Portfolio oder schriftliche Hausarbeit oder Projektskizze: 3 ECTS-
+Punkte
+Modulnote
+Portfolio oder schriftliche Hausarbeit oder Projektskizze: 100 Prozent
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Gebermodul für
+•
+Master dt.-franz. integrierter Studiengang Politikwissenschaft
+Turnus des Angebots
+Jedes Sommersemester
+Beteiligte Fachgebiete
+Journalistik
+Medienwirtschaft, 
+Medienmanagement, Innovation
+
+[Page 18]
+18
+Modulnummer
+88-303-JOUR07-H-0513
+ECTS
+5
+ARBEITS- U. ORGANISATIONSPSYCHOLOGIE
+Modulverantwortlicher
+Psychologie, Elisabeth Kals
+Kompetenzen
+Die Studierenden sind befähigt, sich reﬂ
+ ektiert mit dem der 
+Führungspsychologie auseinanderzusetzen und ausgewählte 
+Führungsinstrumente anzuwenden.
+Inhalte/Themen
+Die Studierenden sollen
+•
+fähig sein, grundlegende psychologische Beiträge zu
+Führungsforschung und Führungspraxis zu vergleichen,
+•
+ausgewählte Führungsinstrumente kennen,
+•
+eigenes Führungsverhalten reﬂ
+ ektieren.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar
+•
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter Leistungsnach-
+weis: 90minütige Klausurr
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar: 2 ECTS-Punkte
+•
+Prüfungsvorbereitung: 3 ECTS-Punkte
+Modulnote
+Klausur: 100 Prozent
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Keine
+Turnus des Angebots
+Jedes Sommersemester
+Beteiligte Fachgebiete
+Psychologie
+Mitarbeiterführung
+
+[Page 19]
+19
+Organisations- und Formatentwicklung
+Modulnummer
+88-303-JOUR09-H-0513
+ECTS
+10
+Modulverantwortlicher
+Klaus Meier
+Kompetenzen
+Die Studierenden verfügen über Fachkompetenz und Fertigkeiten sowie 
+Methodenkompetenz in folgenden Zusammenhängen
+•
+Vertiefung, Ausarbeitung und Präsentation von Kenntnissen über
+die Prozesse und Strukturen des Organisationswandels und der
+Formatentwicklung in Journalismus und Medien
+•
+Erprobung von Kompetenzen und Fähigkeiten zur Teamarbeit, zur
+Planung und Organisation von Entwicklungsprozessen sowie deren
+Re-Organisation und Neuorientierung
+Inhalte/Themen
+Die Studierenden erproben, erforschen und erklären in angeleiteten Projekten 
+Themen der Organisation und der Formatentwicklung in Journalismus und 
+Medien. Die Studierenden sollen
+•
+die Organisation und das Management von Redaktionen anhand
+aktueller Veränderungen identiﬁ
+ zieren und die Konsequenzen dieser
+Veränderungen für das Management analysieren (Personal, Kosten,
+Qualität),
+•
+Formate und ihre Veränderungen erforschen (insbesondere in neuen
+Produktions- und Distributionsformen wie Cross Media, Online- und
+Mobilkommunikation),
+•
+Konzepte zur Erforschung der Veränderungen erarbeiten,
+•
+die Konzepte an Beispielen erproben und
+•
+teamorientierte Arbeit anwenden und einüben.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+(1) Seminar (2 SWS)
+(2) Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz-/Selbststudium in Seminar und Übung
+•
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter Leistungsnach-
+weis: Portfolio oder Projektskizze oder weitere Textsorten
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+10 ECTS-Punkte
+•
+Präsenz-/Selbststudium in Seminar und Übung: 4 ECTS-Punkte
+•
+Portfolio oder Projektskizze oder weitere Textsorten: 6 ECTS-Punkte
+Modulnote
+Portfolio oder Projektskizze oder weitere Textsorten: 100 Prozent
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz
+Keine
+Turnus des Angebots
+Jedes Sommersemester
+Beteiligte Fachgebiete
+Journalistik
+x
+KOMMUNIKATIONSWISSENSCHAFT
+19
+
+[Page 20]
+20
+Corporate Social Responsibility, 
+Verantwortung, Kommunikation
+Modulnummer
+88-303-JOUR08-H-0513
+ECTS
+5
+Modulverantwortlicher
+Annika Sehl
+Kompetenzen
+•
+Die Studierenden sind befähigt über zentrale Begriffe und grundlegen-
+de Konzepte von CSR zu reﬂ
+ ektieren.
+•
+Sie verfügen über Kenntnisse über Motive und Bedeutung der
+Implementierung eines CSR-Konzeptes auf Unternehmensebene
+und über die Formen der praktischen Umsetzung. Im Fokus stehen
+Medienunternehmen und ihre Rolle im Hinblick auf die Übernahme
+von gesellschaftlicher und unternehmerischer Verantwortung (doppelte
+Verantwortung) und den daraus resultierenden Spannungsverhältnis-
+sen (Berichterstatter und Wirtschaftsakteur).
+•
+Die Studierenden können die Bedeutung und den Entstehungspro-
+zess von CSR und die Berichterstattung darüber sowie die Rolle und
+Verantwortung der Journalisten (für die nachhaltige Entwicklung der
+Gesellschaft) bewerten.
+•
+Die Studierenden sind fähig, die Wahrnehmung von CSR in der Medi-
+enbranche einzuschätzen.
+Inhalte/Themen
+•
+Grundlagen des CSR-Konzeptes
+•
+Mehrdimensionale Funktionen und Besonderheiten der Medienunter-
+nehmen sowie der Journalisten in der Verantwortungskommunikation
+•
+CSR in der Berichterstattung und deren Messbarkeit
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar
+•
+Erfolgreicher, mindestens mit „ ausreichend“ bewerteter Leistungs-
+nachweis: Schriftliche Hausarbeit oder Portfolio oder Projektskizze
+Zeitautwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar: 2 ECTS-Punkte
+•
+Schriftliche Hausarbeit oder Portfolio oder Projektskizze: 3 ECTS-P
+.
+Modulnote
+Schriftliche Hausarbeit oder Portfolio oder Projektskizze: 100 Prozent
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Gebermodul für
+•
+Master dt.-franz. integrierter Studiengang Politikwissenschaft
+Turnus des Angebots
+Jedes Sommersemester
+Beteiligte Fachgebiete
+Journalistik
+20
+x
+KOMMUNIKATIONSWISSENSCHAFT
+
+[Page 21]
+21
+Entwicklung innovativer Formate
+Modulnummer
+88-303-JOUR10-H-0513
+ECTS
+10
+Modulverantwortlicher
+Friederike Herrmann
+Kompetenzen
+Aufbau vertiefter Kompetenzen der Analyse und Bewertung von Lösungen 
+für die Formatentwicklung in Journalismus und Medien; Entwicklung eigener 
+Fragestellungen zu Innovationen in Journalismus und Medien; Eigenständige 
+Ausarbeitung und Präsentation von Lösungen; Teamarbeit sowie Sozial- und 
+Organisationskompetenz
+Inhalte/Themen
+Die Studierenden sollen
+•
+Möglichkeiten innovativer journalistischer Formate der Berichterstattung
+analysieren und auf der Grundlage der Analyse weiterentwickeln,
+•
+Konzepte zu innovativen Formaten erarbeiten,
+•
+Designs für eine qualitätsorientierte Umsetzung der Formate entwerfen,
+•
+Konzeptentwicklung in Projektteams betreiben,
+•
+die Kenntnisse über innovative Medien anwenden (Online- und
+Mobilmedien),
+•
+innovative journalistische Formate analysieren, erproben, evaluieren
+und weiterentwickeln.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Seminar (4 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar
+•
+Erfolgreicher, mindestens mit „ ausreichend“ bewerteter Leistungs-
+nachweis: Portfolio oder Projektskizze oder weitere Textsorten (wird zu
+Beginn der Veranstaltung festgelegt)
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+10 ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar: 4 ECTS-Punkte
+•
+Portfolio oder Projektskizze oder weitere Textsorten: 6 ECTS-Punkte
+Modulnote
+Portfolio oder Projektskizze oder weitere Textsorten: 100 Prozent
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Keine
+Turnus des Angebots
+Jedes Winterssemester
+Beteiligte Fachgebiete
+Journalistik
+x
+KOMMUNIKATIONSWISSENSCHAFT
+
+[Page 22]
+22
+Strategisches Management
+Modulnummer
+88-303-JOUR11-H-0513
+ECTS
+5
+Modulverantwortlicher
+ Klaus Meier
+Kompetenzen
+Die Studierenden sind befähigt zur Auseinandersetzung über
+•
+zentrale Konzepte und Instrumente des Strategischen Managements
+auf konkrete Fragestellungen aus der Unternehmenspraxis anzuwenden
+und über
+•
+Konzepte und Instrumente des Strategischen Managements derart zu
+reﬂ
+ ektieren, Wechselwirkungen erkennen und zentrale Aspekte einer
+kritischen Analyse unterziehen können.
+Inhalte/Themen
+•
+kritische Reﬂ
+ exion etablierter und neuerer Strategiekonzepte
+•
+kritische Diskussion zentraler strategischer Analysemethoden und
+Konzepte
+•
+Berücksichtigung organisatorisch-struktureller Voraussetzungen und
+Gestaltungsoptionen
+Voraussetzungen
+Grundlagen der Allgemeinen Betriebswirtschaftslehre I
+Lehr- und Lernformen
+Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz-/Selbststudium in der Übung
+•
+Erfolgreicher, mindestens mit „ ausreichend“ bewerteter Leistungs-
+nachweis: Portfolio oder Projektskizze oder weitere Textsorten (wird zu
+Beginn der Veranstaltung festgelegt)
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+•
+Präsenz-/Selbststudium in der Übung: 2 ECTS-Punkte
+•
+Portfolio oder Projektskizze oder weitere Textsorten: 3 ECTS-Punkte
+Modulnote
+Portfolio oder Projektskizze oder weitere Textsorten: 100 Prozent
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Keine
+Turnus des Angebots
+Jedes Wintersemester
+Beteiligte Fachgebiete
+Journalistik
+x
+KOMMUNIKATIONSWISSENSCHAFT
+
+[Page 23]
+23
+Modulverantwortlicher
+Kompetenzen
+Die Studierenden verfügen über Fachwissen und Fachkompetenz in 
+Bezug auf
+•
+die Grundlagen zur Anwendung und Bewertung von Medien- und
+Arbeitsrecht
+• 
+die Fähigkeit zur Anwendung arbeitsrechtlicher Regelungen bei frei-
+beruﬂ
+ icher/selbstständiger Arbeit
+Inhalte/Themen
+Die Studierenden sollen
+•
+die rechtlichen Voraussetzungen im Bereich Urheberrecht sowie
+Existenzgründungs- und Unternehmensrecht kennen und anwen-
+den lernen 
+•
+rechtliche Fragen und Probleme einer selbstständigen T
+ätigkeit ein-
+ordnen und lösen können.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar
+•
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter Leistungs-
+nachweis: 90minütige Klausur
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+• 
+Präsenz-/Selbststudium im Seminar: 2 ECTS-Punkte
+• 
+Vorbereitung und Durchführung der Klausur: 3 ECTS-Punkte
+Modulnote
+Klausur: 100 Prozent
+Polyvalenz mit ande-
+ren Studiengängen
+Gebermodul für 
+•
+Master dt.-franz. integrierter Studiengang Politikwissenschaft
+Turnus des Angebots
+Jedes Wintersemester
+Beteiligte Fachgebiete
+Journalistik
+Medien- und Arbeitsrecht
+Modulnummer
+88-303-JOUR12-H-0513
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+Modulverantwortlicher
+Klaus Meier
+Kompetenzen
+Die Studierenden verfügen über Fachwissen und Fachkompetenz in Bezug 
+auf
+• 
+die Grundlagen zur Anwendung und Bewertung von Medien- und 
+Arbeitsrecht
+•
+die Fähigkeit zur Anwendung arbeitsrechtlicher Regelungen bei 
+freiberuﬂ
+ icher/selbstständiger Arbeit
+Inhalte/Themen
+Die Studierenden sollen
+•
+die rechtlichen Voraussetzungen im Bereich Urheberrecht sowie 
+Existenzgründungs- und Unternehmensrecht kennen und anwenden 
+lernen 
+•
+rechtliche Fragen und Probleme einer selbstständigen Tätigkeit 
+einordnen und lösen können.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar
+•
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter Leistungsnach-
+weis: 90minütige Klausur
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar: 2 ECTS-Punkte
+•
+Vorbereitung und Durchführung der Klausur: 3 ECTS-Punkte
+Modulnote
+Klausur: 100 Prozent
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Gebermodul für
+• 
+Master dt.-franz. integrierter Studiengang Politikwissenschaft
+Turnus des Angebots
+Jedes Wintersemester
+Beteiligte Fachgebiete
+Journalistik
+Medien- und Arbeitsrecht
+ECTS
+5
+x
+KOMMUNIKATIONSWISSENSCHAFT
+
+[Page 24]
+24
+Organisation von Redaktionen 
+und Medien
+Modulnummer
+88-303-JOUR13-H-0513
+ECTS
+10
+Modulverantwortlicher
+Karin Boczek
+Kompetenzen
+Erlernen von Konzeptentwicklung; Entwerfen von Forschungsdesigns; 
+teamorientierte Arbeit und Sozial- und Organisationskompetenz einüben; 
+Aufbau vertiefter Kompetenzen der Analyse und Bewertung von Lösungen 
+für Organisations- und Managementprobleme in Journalismus und Medien; 
+Entwicklung eigener innovativer Lösungen; Eigenständige Ausarbeitung und 
+Präsentation dieser Lösungen
+Inhalte/Themen
+Die Studierenden erproben, erforschen und erklären in selbstständigen, 
+angeleiteten Forschungsprojekten Themen der Organisation und des 
+Managements, zum Beispiel:
+•
+Anforderungen an die Organisation und das Management in mobilen
+und Online-Welten,
+•
+Geschäfts- und Erlösmodelle in mobilen und Online-Welten,
+•
+Innovationsmanagement in mobilen und Online-Welten,
+•
+Anforderungen an die moderne Redaktionsorganisation (Newsroom
+bzw. Newsdesk); Organisation von Workﬂ
+ ows, Koordinationen und
+Konferenzen
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Seminar (4 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar
+•
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter Leistungsnach-
+weis: Portfolio oder Projektskizze oder weitere Textsorten
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+10 ECTS-Punkte
+•
+Präsenz-/Selbststudium im Seminar: 4 ECTS-Punkte
+•
+Portfolio oder Projektskizze oder weitere Textsorten: 6 ECTS-Punkte
+Modulnote
+Portfolio oder Projektskizze oder weitere Textsorten: 100 Prozent
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Keine
+Turnus des Angebots
+Jedes Wintersemester
+Beteiligte Fachgebiete
+Journalistik
+x
+KOMMUNIKATIONSWISSENSCHAFT
+
+[Page 25]
+25
+Modulverantwortlicher
+Friederike Herrmann
+Kompetenzen
+Die Studierenden sollen
+•
+ihre vertieften Fachkenntnisse nachweisen,
+•
+nach wissenschaftlichen Methoden und Erkenntnissen selbstständig
+arbeiten,
+•
+die durch das Studium vermittelten Zusammenhänge und
+Fachkenntnisse nachweisen,
+•
+Kompetenzen der Analyse und Bewertung von Lösungen für
+Organisations- und Managementprobleme in Journalismus und Medien
+zeigen,
+•
+Kompetenzen der Analyse und Bewertung von Lösungen für
+Formatentwicklungen in Journalismus und Medien zeigen,
+•
+eigene innovative Lösungen entwickeln.
+Inhalte/Themen
+werden mit den Gutachtern abgesprochen
+Voraussetzungen
+Lehr- und Lernformen
+Seminar (1 SWS)
+schriftliche Abschlussarbeit
+Voraussetzungen für 
+ECTS-Punkte
+•
+Erfolgreiche, mindestens mit „ausreichend“ bewertete Masterarbeit
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+•
+Vorbereitung und Durchführung der schriftlichen Arbeit:
+30 ECTS-Punkte
+Modulnote
+Note der Masterarbeit: 100 Prozent
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Keine
+Turnus des Angebots
+Wintersemester/Sommersemester siehe Prüfungsordnung
+Beteiligte Fachgebiete
+Journalistik I und II, Professur für Journalistik und 
+Kommunikationswissenschaft
+Masterarbeit
+Modulnummer
+88-303-JOUR14-H-0513
+ECTS
+30
+x
+KOMMUNIKATIONSWISSENSCHAFT
+
+[Page 26]
+26
+Grundlagen der Allgemeinen 
+Betriebswirtschaftslehre I
+ECTS
+5
+Modulverantwortlicher
+Anton Burger
+Kompetenzen
+Die Studierenden sollen Grundtatbestände der Allgemeinen 
+Betriebswirtschaftslehre kennen lernen, beginnend vom Erkenntnisobjekt 
+dieser wissenschaftlichen Disziplin bis zu grundlegenden Entscheidungen 
+über Rechtsform, Standort u. ä.
+Inhalte/Themen
+•
+Gegenstand und Methoden der BWL,
+•
+Shareholder- und Stakeholder-Ansatz,
+•
+Corporate Governance,
+•
+Unternehmensziele,
+•
+Planung und Entscheidung,
+•
+Organisation,
+•
+Führung,
+•
+Informationswirtschaft und Controlling und
+•
+konstitutive Führungsentscheidungen.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Vorlesung mit integrierter Übung (insgesamt 4 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Regelmäßige Teilnahme bzw. äquivalente Auseinandersetzung mit den
+Inhalten
+•
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: Klausur
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte 
+•
+Regelmäßige Anwesenheit Vorlesung: 2 ECTS-Punkte
+•
+Vor- und Nachbereitung: 2 ECTS-Punkte
+•
+Vorbereitung Klausur: 1 ECTS-Punkt
+Modulnote
+Klausur: 100 %
+Status des Moduls
+Wahlplﬁ
+ chtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Keine
+Turnus des Angebots
+Jedes Wintersemester
+Beteiligte Fachgebiete
+Modulnummer
+82-500-BWL01-H-0207
+WIRTSCHAFT
+
+[Page 27]
+27
+Volkswirtschaftslehre I: 
+Mikroökonomie I (EI)
+ECTS
+5
+x
+WIRTSCHAFT
+Modulverantwortlicher
+Reinhard Weber
+Kompetenzen
+Verständnis der ökonomischen Aktivitäten und der Marktmechanismen
+Inhalte/Themen
+•
+Grundlagen von Angebot und Nachfrage Haushaltstheorie:
+•
+ 
+ 
+Konsumentscheidungen
+•
+ 
+ 
+Entscheidungen unter Unsicherheit
+•
+Produktionstheorie 
+ - Produktionstechnologie
+•
+ 
+ 
+Kosten der Produktion
+•
+Analyse der strategischen Entscheidungsﬁ
+ ndung auf Märkten, von
+Marktstrukturen und Wettbewerbsstrategien
+•
+Monopol und Monopson
+•
+Monopolistischer Wettbewerb
+•
+Oligopole
+Voraussetzungen
+Kenntnisse in Analysis, Funktionen in mehreren Variablen
+Lehr- und Lernformen
+Vorlesung mit integrierter Übung (4 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Regelmäßige Teilnahme bzw. äquivalente Auseinandersetzung mit den
+Inhalten
+•
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis: Klausur
+am Ende der Vorlesung
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte 
+•
+Regelmäßige Anwesenheit Vorlesung/Übung: 2 ECTS-Punkte
+•
+Vor- und Nachbereitung: 2 ECTS-Punkte
+•
+Vorbereitung Klausur: 1 ECTS-Punkt
+Modulnote
+Klausur: 100 Prozent
+Status des Moduls
+Wahlplﬁ
+ chtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Keine
+Turnus des Angebots
+Jedes Wintersemester
+Beteiligte Fachgebiete
+Modulnummer
+82-949-WWS14-H-0209
+
+[Page 28]
+28
+Vergleichende Politikwissenschaft
+ECTS
+5
+x
+POLITIK UND SOZIOLOGIE
+Modulverantwortlicher
+Klaus Stüwe
+Kompetenzen
+Problemorientierte Kenntnis der verfassungsrechtlichen Grundlagen, der 
+politischen Strukturen und Prozesse ausgewählter Regierungssysteme. 
+Kenntnis der wichtigsten Methoden und Theorien der Vergleichenden 
+Politikwissenschaft.
+Fähigkeit zur mündlichen und schriftlichen Darstellung, zur Analyse sowie 
+zur kritischen Reﬂ
+ exion verschiedener Aspekte der Vergleichenden 
+Politikwissenschaft im Rahmen einer Gruppenarbeit.
+Inhalte/Themen
+Institutionelle und politisch-kulturelle Grundlagen der politischen Systeme 
+ausgewählter Regierungssysteme einschließlich des Parteien- und 
+Verbändesystems sowie der Funktionslogik politischer Prozesse.
+Methoden, Fragestellungen und Theorien der Vergleichenden 
+Politikwissenschaft.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+(1) Hauptseminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis:
+Hausarbeit mit Referat
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte 
+•
+Kontakt-/Selbststudium: 2 ECTS-Punkte
+•
+Referat: 1 ECTS-Punkt
+•
+Hausarbeit auf Basis der eigenständigen akademischen Vertiefung des
+vermittelten Wissens: 2 ECTS-Punkte
+Modulnote
+Hausarbeit: 100 Prozent
+Status des Moduls
+Wahlplﬁ
+ chtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+•
+Master dt.-franz. integrierter Studiengang Politikwissenschaft
+•
+Interdisziplinärer Bachelor-/Masterstudiengang/ Lehramt:
+•
+FPO Politikwissenschaft
+•
+Master Journalistik
+Turnus des Angebots
+Jedes Wintersemester
+Beteiligte Fachgebiete
+Politische Systemlehre und Vergleichende Politikwissenschaft
+Modulnummer
+88-030-MIB16-H-0415
+
+[Page 29]
+29
+Vergleichende Politikwissenschaft
+ECTS
+10
+x
+POLITIK UND SOZIOLOGIE
+Modulverantwortlicher
+Klaus Stüwe
+Kompetenzen
+Problemorientierte Kenntnis der verfassungsrechtlichen Grundlagen, der 
+politischen Strukturen und Prozesse ausgewählter Regierungssysteme. 
+Kenntnis der wichtigsten Methoden und Theorien der Vergleichenden 
+Politikwissenschaft.
+Fähigkeit zur mündlichen und schriftlichen Darstellung, zur Analyse sowie 
+zur kritischen Reﬂ
+ exion verschiedener Aspekte der Vergleichenden 
+Politikwissenschaft im Rahmen einer Gruppenarbeit.
+Inhalte/Themen
+Institutionelle und politisch-kulturelle Grundlagen der politischen Systeme 
+ausgewählter Regierungssysteme einschließlich des Parteien- und 
+Verbändesystems sowie der Funktionslogik politischer Prozesse.
+Methoden, Fragestellungen und Theorien der Vergleichenden 
+Politikwissenschaft.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+(1) Hauptseminar (2 SWS)
+(2) Seminar (2 SWS) oder Exkursion
+Voraussetzungen für 
+ECTS-Punkte
+•
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis:
+Hausarbeit mit Referat
+Zeitaufwand/ 
+Verteilung der ECTS-
+Punkte im Modul
+10 ECTS-Punkte 
+•
+Kontakt-/Selbststudium: 3 ECTS-Punkte
+•
+Referat: 2 ECTS-Punkte
+•
+Hausarbeit auf Basis der eigenständigen akademischen Vertiefung des
+vermittelten Wissens: 5 ECTS-Punkte
+Modulnote
+Hausarbeit: 100 Prozent
+Status des Moduls
+Wahlplﬁ
+ chtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+•
+Master dt.-franz. integrierter Studiengang Politikwissenschaft
+•
+Interdisziplinärer Bachelor-/Masterstudiengang/ Lehramt:
+•
+FPO Politikwissenschaft
+•
+FPO Sozialkunde
+•
+Master Journalistik
+Turnus des Angebots
+Jedes Wintersemester
+Beteiligte Fachgebiete
+Politische Systemlehre und Vergleichende Politikwissenschaft
+Modulnummer
+88-030-MIB08-H-0611
+
+[Page 30]
+30
+Aufbaumodul 
+Politische Theorie und Philosophie
+ECTS
+5
+x
+POLITIK UND SOZIOLOGIE
+Modulverantwortlicher
+Manfred Brocker
+Kompetenzen
+Das Modul schult die Transferfähigkeit von Erlerntem auf aktuelle 
+Theorieentwicklungen und konkrete Forschungsfragen und fördert den 
+Erwerb von Kompetenzen zur selbstständigen Reﬂ
+ exion und Analyse. Die 
+Studierenden diskutieren Inhalte auf hohem Niveau und üben, Standpunkte 
+begründet zu beziehen und im wissenschaftlichen Austausch zu verteidigen.
+Inhalte/Themen
+Das Modul besitzt einen vertiefenden Charakter und behandelt 
+ausgewählte Autoren, Strömungen oder Diskurse aus dem Bereich der 
+Politischen Theorie und Philosophie. Im Fokus stehen die Vermittlung der 
+politikwissenschaftlichen und politikphilosophischen Theoriebildung, sowie 
+die Evaluierung gegenwärtiger Problemfelder und Forschungstendenzen.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Hauptseminar (2 SWS) oder Lektürekurs (2 SWS) oder Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Hausarbeit mit Referat oder mündliche Prüfung und Referat.
+•
+Mindestens mit „ausreichend“ bewertete Hausarbeit oder mündliche
+Prüfung
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+•
+Regelmäßige und aktive Teilnahme oder selbstgeleitetes Lernen: 2 ECTS-P
+.
+•
+Referat: 1 ECTS-Punkt
+•
+Hausarbeit, auf Basis der eigenständigen akademischen Vertiefung des
+vermittelten Wissens oder Vorbereitung auf die mündliche Prüfung: 2 ECTS-
+Punkte
+Modulnote
+ Hausarbeit mit Referat oder mündliche Prüfung und Referat: 100 Prozent
+Status des Moduls
+Wahlplﬁ
+ chtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Polyvalenz auf Modullebene; Gebermodul für den Studiengang
+•
+Master dt.-fr. integrierter Studiengang Politikwissenschaft
+Polyvalenz auf Veranstaltungsebene:
+•
+ggf. Nehmermodul des Hauptseminars oder des Lektürekurses oder
+der Übung im SoSe aus dem Modul 88-030-MIB09- und im WS aus
+dem Modul 88-030-MIB10-.
+Das Modul steht Studierenden aller Fachrichtungen, insbesondere für den 
+Wahlbereich offen
+Turnus des Angebots
+Jedes Winter-/Sommersemester (je nach Kapazität der Dozierenden)
+Beteiligte Fachgebiete
+Politikwissenschaft: Politische Theorie und Philosophie
+Modulnummer
+88-129-POL03-H-0918
+
+[Page 31]
+31
+Fortgeschrittene Soziologische Theorie 
+ECTS
+5
+x
+POLITIK UND SOZIOLOGIE
+Modulverantwortlicher
+Joost van Loon
+Kompetenzen
+•
+Vertiefte Kenntnisse soziologischer Theorien oder empirisch-
+philosophischen Grundlagen des soziologischen Denkens auf
+fortgeschrittenem Niveau,
+•
+Kritische Analyse soziologischer Diskurse über soziale Strukturen und
+soziale Prozesse,
+•
+Frage- und Problemstellungen soziologischer Theorien,
+•
+Kompetente Vermittlung der Arbeitsergebnisse in mündlicher, visueller
+und schriftlicher Form,
+•
+Einüben einer argumentativen Diskussion von relevanten Themen und
+das fachkundige Vertreten eigener Meinungen
+Inhalte/Themen
+•
+Philosophische Grundlagen der Soziologie
+•
+Klassische soziologische Theorien
+•
+Gegenwärtige soziologische Theorien
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Vorlesung (2 SWS) oder Seminar (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis:
+mündliche Prüfung (Dauer: 20 min.), Klausur (90-120 min.) oder
+schriftliche Hausarbeit (Umfang: ca. 3.000 Wörter)
+Zeitaufwand/ 
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+•
+Kontakt-/Selbststudium: 1 ECTS-Punkt
+•
+Vor- und Nachbereitung (umfasst Studienleistungen): 3 ECTS-Punkte
+•
+Vorbereitung Leistungsnachweis: 1 ECTS-Punkt
+Modulnote
+Mündliche Prüfung oder Klausur oder schriftliche Hausarbeit: 100 %
+Status des Moduls
+Wahlplﬁ
+ chtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Gebermodul für die Studiengänge:
+•
+Master dt.-fr. integrierter Studiengang Politikwissenschaft,
+•
+Masterstudiengang Internationale Beziehungen
+•
+Master Journalistik
+Polyvlaenz auf Veranstaltungsebene:
+•
+Nehmermodul der Vorlesung bzw. des Seminars aus dem Modul
+Fortgeschrittene Soziologische Theorie (10 ECTS); 88-149-SOZ101-
+Turnus des Angebots
+Jedes Sommersemester
+Beteiligte Fachgebiete
+Soziologie
+Modulnummer
+88-149-SOZ102-H-0914
+
+[Page 32]
+32
+Fortgeschrittene Prozessorientierte
+Soziologie
+ECTS
+5
+x
+POLITIK UND SOZIOLOGIE
+Modulverantwortlicher
+Robert Schmidt
+Kompetenzen
+•
+Kenntnisse über (empirische) soziologische Forschungen in einem
+Themenbereich auf fortgeschrittenem Niveau
+•
+Reﬂ
+ ektierte Einsichten in Prozesse und Dynamiken sozialen und
+kulturellen Wandels, die sich durch Vergleiche in theoretischer und
+analytischer Perspektive ergeben
+•
+Einsicht in die methodologischen und methodischen
+Konsequenzen von Forschungsfragestellungen. Die Fähigkeit, mit
+gegenstandsadäquaten Methoden zu arbeiten
+•
+Kritische Erschließung und Interpretation von primären und sekundären
+Daten
+•
+Kritische Erarbeitung aktueller soziologischer Debatten zum sozialen,
+kulturellen und technologischen Wandel
+•
+Einüben einer argumentativen Diskussion von relevanten Themen und
+reﬂ
+ ektiertes Formulieren und Vertreten eigener Positionen
+Inhalte/Themen
+Themen u. Fragestellungen aus den beteiligten soziologischen Teilbereichen
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+1) Vorlesung (2 SWS) oder Seminar (2 SWS)
+2) Seminar oder Übung (2 SWS)
+Voraussetzungen für 
+ECTS-Punkte
+•
+Mindestens mit „ausreichend“ bewerteter Leistungsnachweis:
+mündliche Prüfung (Dauer: 20 min.), Klausur (90-120 min.) oder
+schriftliche Hausarbeit (Umfang: ca. 3.000 Wörter)
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+Vorlesung oder Seminar
+•
+Kontakt-/Selbststudium: 1 ECTS-Punkt
+•
+Vor- und Nachbereitung: 1 ECTS-Punkt
+•
+Vorbereitung Leistungsnachweis: 1 ECTS-Punkt
+Übung oder Seminar
+•
+Kontakt-/Selbststudium: 1 ECTS-Punkt
+•
+Vorbereitung Referat: 1 ECTS-Punkt
+Modulnote
+Mündliche Prüfung oder Klausur oder schriftliche Hausarbeit: 100 %
+Status des Moduls
+Wahlpﬂ
+ ichtmodul MA Journalistik
+Modulnummer
+88-149-SOZ104-H-0914
+Fortgeschrittene Prozessorientierte
+Soziologie
+
+[Page 33]
+33
+Fortgeschrittene Prozessorientierte
+Soziologie
+ECTS
+5
+Modulnummer
+88-149-SOZ104-H-0914
+Polyvalenz mit anderen 
+Studiengängen
+Gebermodul für die Studiengänge:
+•
+Flexibler Master Soziologie,
+•
+Internationaler Master Soziologie
+•
+Master Bildung für Nachhaltige Entwicklung,
+•
+Master Journalistik
+Polyvalenz auf Veranstaltungsebene:
+•
+Nehmermodul der Lehrveranstaltungen aus dem Modul Fort-
+geschrittene Prozessorientierte Soziologie (10 ECTS) 88-149-SOZ103
+Turnus des Angebots
+Jedes Winter-/Sommersemester
+Beteiligte Fachgebiete
+Professur für Prozessorientierte Soziologie
+x
+POLITIK UND SOZIOLOGIE
+
+[Page 34]
+34
+ECTS
+5
+x
+FÄCHERÜBERGREIFEND
+Modulverantwortlicher
+Je nach Modul verschieden
+Kompetenzen
+•
+Studium.Pro ist das interdisziplinär angelegte Programm zum
+proﬁ
+ lorientierten Studium an der KU. „Pro“ steht dabei für Proﬁ
+ l,
+Profession und eine auch gesellschaftlich engagierte Wissenschaft.
+•
+Studium.Pro bietet Studierenden die Möglichkeit, ihren Bildungs- und
+Qualiﬁ
+ zierungsweg begleitend zum bzw. im Fachstudium bereichernd
+zu gestalten.
+Inhalte/Themen
+•
+Dies geschieht durch die interdisziplinäre Auseinandersetzung mit
+aktuellen Problemstellungen, durch die qualiﬁ
+ zierte Auseinandersetzung
+mit fachübergreifenden Themen oder durch die projektbezogene
+Bearbeitung 
+von 
+aktuellen 
+gesellschaftlichen 
+Themen 
+und
+Herausforderungen.
+•
+Jedes Semester ﬁ
+ ndet man im Studiengang MA Journalistik mit
+Schwerpunkt Innovation und Management dazu die Module, die man
+optimal besuchen kann. Während des Studiums muss ein Modul aus
+dem Kanon des Angebots im Umfang von 5 ECTS-Punkten gewählt
+werden.
+Voraussetzungen
+Keine
+Lehr- und Lernformen
+Voraussetzungen für 
+ECTS-Punkte
+•
+Erfolgreicher, mindestens mit „ausreichend“ bewerteter
+Leistungsnachweis:
+Zeitaufwand/
+Verteilung der ECTS-
+Punkte im Modul
+5 ECTS-Punkte
+Modulnote
+Leistungsnachweis: 100 %
+Status des Moduls
+Pﬂ
+ ichtmodul MA Journalistik
+Polyvalenz mit anderen 
+Studiengängen
+Turnus des Angebots
+Jedes Semester
+Beteiligte Fachgebiete
+Fächerübergreifend
+Studium.Pro 
+
+[Page 35]
+35
+
+[Page 36]
+36
+Prüfungsordnung für den Masterstudiengang
+Journalistik mit Schwerpunkt Innovation und Management
+an der Katholischen Universität Eichstätt-Ingolstadt
+Vom 12. Mai 2015 
+geändert durch Satzung vom 8. März 2017
+geändert durch Satzung vom 22. Oktober 2019 
+geändert duch Satzung vom 15. März 2023
+Aufgrund des Art. 5 § 3 Satz 1 des Konkordats zwischen dem Heiligen 
+Stuhl und dem Freistaat Bayern vom 29. März 1924 (BayRS 2220-1-WFK) 
+erlässt die Katholische Universität Eichstätt-Ingolstadt folgende Prüfungsordnung:
+Inhalt:
+§1 
+Geltungsbereich
+37
+§2 
+Akademischer Grad
+37
+§3 
+Qualiﬁ
+ kationsvoraussetzungen
+37
+§4 
+Regelstudienzeit, Studienbeginn
+37
+§5 
+Bestehen der Masterprüfung
+37
+§6 
+Pﬂ
+ ichtbereich, Wahlpﬂ
+ ichtmodule
+38
+§7 
+Masterarbeit
+39
+§8 
+In-Kraft-Treten, Übergangsregelung
+39
+
+[Page 37]
+37
+§ 1 Geltungsbereich
+1Diese Prüfungsordnung regelt die Prüfungsanforderungen für den Masterstudi-
+engang Journalistik mit Schwerpunkt Innovation und Management als Vollzeit- 
+und als Teilzeitstudiengang. 2Ergänzend gilt die Allgemeine Prüfungsordnung 
+(APO) der Katholischen Universität Eichstätt-Ingolstadt vom 26. November 2014 
+in der jeweils gültigen Fassung.
+§ 2 Akademischer Grad
+Nach erfolgreichem Abschluss des Studiums wird der akademische Grad eines 
+“Master of Arts” (abgekürzt: „M.A.”) verliehen.
+§ 3 Qualiﬁ
+ kationsvoraussetzungen
+Die Qualiﬁ
+ kation für das Masterstudium Journalistik mit Schwerpunkt Innovati-
+on und Management wird nachgewiesen durch
+1. einen ersten berufsqualiﬁ
+ zierenden Hochschulabschluss
+2. die Absolvierung eines Eignungsverfahrens nach Maßgabe der Anlage.
+§ 4 Regelstudienzeit, Studienbeginn
+(1) Die Regelstudienzeit des Masterstudiums berägt vier, im Teilzeitstudiengang
+acht Semester.
+(2) Das Studium kann im Wintersemester aufgenommen werden.
+§ 5 Bestehen der Masterprüfung
+Die Masterprüfung ist bestanden, wenn
+1.
+sämtliche Prüfungsleistungen bis zum Ende des fünften Fachsemesters,
+im Teilzeitstudium bis zum Ende des 8. Fachsemesters, mindestens mit
+der Note „ausreichend“ (4,0) oder mit „bestanden“ bewertet sind und
+2.
+die oder der Studierende insgesamt 120 ECTS-Punkte erworben hat.
+
+[Page 38]
+38
+§ 6 Pﬂ
+ ichtbereich, Wahlpﬂ
+ ichtmodule
+(1) Es sind folgende Pﬂ
+ ichtmodule im Umfang von 80 ECTS-Punkten erfolgreich zu
+absolvieren:
+1.
+Journalistik/Kommunikations- und Medienwissenschaft: 5 ECTS-Punkte;
+Prüfungsform: Klausur,
+2.
+Aussagenproduktion und Berichterstattungsformate: 5 ECTS-Punkte;
+Prüfungsform: Portfolio oder schriftliche Hausarbeit oder Projektskizze,
+3.
+Medien- und Arbeitsrecht: 5 ECTS-Punkte; Prüfungsform: Klausur,
+4.
+Qualität und Qualitätsforschung: 5 ECTS-Punkte; Prüfungsform: Portfolio
+oder schriftliche Hausarbeit oder Projektskizze,
+5.
+Medienwirtschaft, Medienmanagement, Innovation: 5 ECTS-Punkte;
+Prüfungsform: Portfolio oder schriftliche Hausarbeit oder Projektskizze,
+6.
+Empirische Medienforschung II: 5 ECTS-Punkte; Prüfungsform: Portfolio
+oder Projektskizze oder weitere Textsorten, Zulassungsvoraussetzung:
+erfolgreiche Absolvierung des Moduls Empirische Medienforschung I,
+7.
+Mitarbeiterführung: 5 ECTS-Punkte; Prüfungsform: Klausur,
+8.
+Organisations- und Formatentwicklung: 10 ECTS-Punkte; Prüfungsform:
+Portfolio oder Projektskizze oder weitere Textsorten,
+9.
+Strategisches Management: 5 ECTS-Punkte; Prüfungsform: Portfolio
+oder Projektskizze oder weitere Textsorten, Zulassungsvoraussetzung:
+erfolgreiche Absolvierung des Moduls Grundlagen der Allgemeinen
+Betriebswirtschaftslehre I,
+10. Corporate Social Responsibility, Verantwortung, Kommunikation: 5
+ECTS-Punkte; Prüfungsform: Portfolio oder schriftliche Hausarbeit oder
+Projektskizze,
+11. Entwicklung innovativer Formate: 10 ECTS-Punkte; Prüfungsform: Portfolio
+oder Projektskizze oder weitere Textsorten,
+12. Organisation von Redaktion und Medien: 10 ECTS-Punkte; Prüfungsform:
+Portfolio oder Projektskizze oder weitere Textsorten.
+13. ein Master-Modul aus dem universitären modularisiierten Studienangebot
+des Studium.Pro im Umfang von 5 ECTS-Punkten.
+(2)
+1Im Wahlpﬂ
+ ichtbereich muss jede oder jeder Studierende 10 ECTS-Punkte
+erwerben. 2Folgende Wahlpﬂ
+ ichtmodule werden angeboten:
+1.
+Empirische Medienforschung I: 5 ECTS-Punkte; Prüfungsform: Klausur,
+2.
+a) Vergleichende Politikwissenschaft: 5 ECTS-Punkte; Prüfungsform:
+Hausarbeit mit Referat, oder
+b) Vergleichende Politikwissenschaft: 10 ECTS-Punkte; Prüfungsform:
+Hausarbeit mit Referat,
+
+[Page 39]
+39
+3.
+Aufbaumodul Politische Theorie und Philosophie: 5 ECTS-Punkte;
+Prüfungsform: Hausarbeit mit Referat oder mündliche Prüfung und
+Referat,
+4.
+Fortgeschrittene Soziologische Theorie: 5 ECTS-Punkte; Prüfungsform:
+Klausur oder schriftliche Hausarbeit oder mündliche Prüfung,
+5.
+Fortgeschrittene Prozessorientierte Soziologie: 5 ECTS-Punkte;
+Prüfungsform: Klausur oder schriftliche Hausarbeit oder mündliche
+Prüfung,
+6.
+Grundlagen der Allgemeinen Betriebswirtschaftslehre I: 5 ECTS-
+Punkte; Prüfungsform: Klausur,
+7.
+Mikroökonomie: 5 ECTS-Punkte; Prüfungsform: Klausur.
+§ 7 Masterarbeit
+(1) Das Thema der Masterarbeit wird aus dem Bereich von Management und
+Innovationen in Journalismus und Medien vergeben.
+(2) Die Bearbeitungszeit der Masterarbeit beträgt sechs Monate.
+(3) Eine Zweitbegutachtung der Masterarbeit erfolgt nur auf Antrag der oder
+des Studierenden oder bei der Bewertung mit „nicht ausreichend“ durch die
+Erstgutachterin oder den Erstgutachter.
+§ 8 In-Kraft-Treten, Übergangsregelung
+(1)
+1Diese Prüfungsordnung tritt mit Wirkung vom 1. Oktober 2013 in Kraft. 2Sie
+gilt für alle Studierenden, die ihr Masterstudium im Studiengang Journalistik
+mit Schwerpunkt Innovation und Management ab dem Wintersemester
+2013/14 aufgenommen haben.
+(2)
+1Die Prüfungsordnung für den Masterstudiengang Management und
+Innovation in Journalismus und Medien an der Katholischen Universität
+Eichstätt-Ingolstadt vom 12. März 2015 tritt außer Kraft. 2Sie gilt fort
+für Studierende, die ihr Studium im Masterstudiengang Management
+und Innovation in Journalismus und Medien vor dem 1. Oktober 2013
+aufgenommen haben.
+
+[Page 40]
+40
+Fragen zur Uni?
+www.ku.de
+Fragen zum Studium allgemein?
+www.ku.de/studieninteressenten/studienberatung/
+Fragen zum Master-Studiengang?
+www.ku.de/studienangebot/journalistik-ma
+Immer noch Fragen?
+Fachstudienberatung
+Dr. Renate Hackel-de Latour
+Ostenstraße 25, 85072 Eichstätt
+08421/93-21554
+renate.hackel@ku.de ?
+Noch Fragen

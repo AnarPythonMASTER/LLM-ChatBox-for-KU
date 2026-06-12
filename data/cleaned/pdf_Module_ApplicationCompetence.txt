@@ -1,0 +1,45 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Module_ApplicationCompetence.pdf
+TITLE: Module_ApplicationCompetence.pdf
+SOURCE_FILE: Module_ApplicationCompetence.pdf
+------------------------------------------------------------
+
+[Page 1]
+Digital & Data-Driven Business 
+Status 26.06.2023 
+ 
+ 
+1 
+Wahlpflichtkatalog für den Bachelorstudiengang Digital & Data-Dri-
+ven Business 
+ 
+C) Wahlpflichtbereich „Application Competence“ 
+Modulbezeichnung 
+Prüfungs-
+form 
+ECTS- 
+An-
+zahl 
+Semes-
+terlage 
+Zulassungsvo-
+raussetzungen 
+Steuerbilanzen und Rechtsformwahl 
+Klausur 
+5 
+SoSe 
+- 
+Grundlagen des Marketingmanagements 
+Klausur 
+5 
+SoSe 
+- 
+Operations Analytics 
+Klausur 
+5 
+SoSe 
+- 
+Kapitalmarkttheorie 
+Klausur 
+5 
+SoSe 
+-

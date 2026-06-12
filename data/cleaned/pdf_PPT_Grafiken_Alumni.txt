@@ -1,0 +1,19 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/PPT_Grafiken_Alumni.pdf
+TITLE: PPT_Grafiken_Alumni.pdf
+SOURCE_FILE: PPT_Grafiken_Alumni.pdf
+------------------------------------------------------------
+
+[Page 1]
+| Im Außenhandel (23 %), der Entwicklungszusammenarbeit (16 %), der Wissenschaft 
+ (16%) und Bildungseinrichtungen (13 %) sowie der Industrie (13%) sind die meisten 
+ Alumni beschäftigt. 
+0% 
+5% 
+10% 
+15% 
+20% 
+25% Außenhandel & HandelEntwicklungszusammenarbeitWissenschaftIndustrieBildungseinrichtungenInternationaler AustauschPolitische StiftungenMedien und VerlageSonstiges
+Bereiche 
+Hintergrundinformationen: Durchführungszeitraum Februar - April 2017; befragte Jahrgänge: WS 2007/8 - WS 2012/13; Anzahl 
+der befragten Absolventinnen und Absolventen: 90; Rücklauf 53 %) 
+Tätigkeitsbereiche der AbsolventInnen des BA Lateinamerikastudien

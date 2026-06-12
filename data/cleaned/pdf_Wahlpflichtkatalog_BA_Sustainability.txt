@@ -1,0 +1,182 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_BA_Sustainability.pdf
+TITLE: Wahlpflichtkatalog_BA_Sustainability.pdf
+SOURCE_FILE: Wahlpflichtkatalog_BA_Sustainability.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+Sustainability in Business & Economics 
+ 
+1. nach § 8 der Prüfungsordnung in der Fassung vom TT.MM.JJJJ 
+2. Geltungsbereich zum WiSe 2022/23 
+ 
+3. vom Fakultätsrat der Wirtschaftswissenschaftlichen Fakultät beschlossen am 
+19.05.2021 
+ 
+ 
+Auflistung der Wahlpflichtmodule 
+In der PO verankerte Wahlpflichtbereiche: 
+Anwendungen und Institutionen der Nachhaltigkeit 
+ 
+Modulangebot im Wahlpflichtbereich: 
+• 
+Fallstudien des Nachhaltigkeitsmanagements (5 ECTS, Klausur oder Hausarbeit 
+mit Präsentation oder Portfolio) 
+• 
+CCSC Ringvorlesung: Sustainability in China (5 ECTS, Klausur oder Hausarbeit mit 
+Präsentation oder Portfolio) 
+• 
+Sozialpolitik (5 ECTS, Klausur oder Hausarbeit mit Präsentation oder Portfolio) 
+ 
+Wirtschaftssprache I 
+Modulangebot im Wahlpflichtbereich: 
+• 
+Wirtschaftsenglisch I (5 ECTS, Prüfungsform: Klausur und mündliche Prüfung, 
+Anwesenheitspflicht und Teilnehmerbeschränkung auf max. 20 Kursteilnehmer) 
+• 
+Wirtschaftsfranzösisch I (5 ECTS, Prüfungsform: Klausur und mündliche Prüfung, 
+Anwesenheitspflicht und Teilnehmerbeschränkung auf max. 20 Kursteilnehmer, 
+Zulassungsvoraussetzung: Einstufungstest B2) 
+• 
+Wirtschaftsspanisch I (5 ECTS, Prüfungsform: Klausur und mündliche Prüfung, 
+Anwesenheitspflicht und Teilnehmerbeschränkung auf max. 10 Kursteilnehmer, 
+Zulassungsvoraussetzung: Einstufungstest B2) 
+• 
+Wirtschaftsdeutsch I (5 ECTS, Prüfungsform: Klausur und mündliche Prüfung, 
+Anwesenheitspflicht und Teilnehmerbeschränkung auf max. 20 Kursteilnehmer) 
+ 
+Wirtschaftssprache II 
+• 
+Wirtschaftsenglisch II (5 ECTS, Prüfungsform: Klausur und mündliche Prüfung, 
+Anwesenheitspflicht und Teilnehmerbeschränkung auf max. 20 Kursteilnehmer, 
+Zulassungsvoraussetzung: erfolgreiche Teilnahme an Wirtschaftsenglisch I) 
+• 
+Wirtschaftsfranzösisch II (5 ECTS, Prüfungsform: Klausur und mündliche Prüfung, 
+Anwesenheitspflicht und Teilnehmerbeschränkung auf max. 20 Kursteilnehmer, 
+Zulassungsvoraussetzung: erfolgreiche Teilnahme an Wirtschaftsfranzösisch I) 
+• 
+Wirtschaftsspanisch II (5 ECTS, Prüfungsform: Klausur und mündliche Prüfung, 
+Anwesenheitspflicht und Teilnehmerbeschränkung auf max. 10 Kursteilnehmer, 
+Zulassungsvoraussetzung: erfolgreiche Teilnahme an Wirtschaftsspanisch I) 
+• 
+Wirtschaftsdeutsch II (5 ECTS, Prüfungsform: Klausur und mündliche Prüfung, 
+Anwesenheitspflicht und Teilnehmerbeschränkung auf max. 20 Kursteilnehmer, 
+Zulassungsvoraussetzung: erfolgreiche Teilnahme an Wirtschaftsdeutsch I) 
+ 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+ 
+In der PO verankerte Vertiefungen: 
+a. Economics & Finance for a Sustainable Economy, 
+b. Reporting, Taxes and Sustainability, 
+c. Customer Experience, Digital Systems and Operations for a Sustainable World 
+d. Space & Politics for Sustainable Futures 
+e. International Immersion 
+ 
+ 
+a. Modulangebot in der Vertiefung Economics & Finance for a Sustainable Economy 
+ 
+• 
+Decision Theory (5 ECTS, Klausur oder Hausarbeit mit Präsentation oder 
+Portfolio) 
+• 
+Data Science in Finance mit Python (5 ECTS, Klausur oder Hausarbeit mit 
+Präsentation oder Portfolio) 
+• 
+Geldpolitik (5 ECTS, Klausur oder Hausarbeit mit Präsentation oder Portfolio) 
+• 
+Kapitalmarkttheorie (5 ECTS, Klausur oder Hausarbeit mit Präsentation oder 
+Portfolio) 
+• 
+Political Institutions, the Economy & Financial Markets (5 ECTS, Klausur oder 
+Hausarbeit mit Präsentation oder Portfolio) 
+• 
+Wissen und Wachstum: Institutionelle Determinanten nachhaltigen 
+ökonomischen Erfolgs (5 ECTS, Klausur oder Hausarbeit mit Präsentation oder 
+Portfolio) 
+ 
+b. Modulangebot in der Vertiefung Reporting, Taxes and Sustainability 
+ 
+• 
+Company Taxation in the EU: Towards more Fairness and Sustainability (5 ECTS, 
+Klausur oder Hausarbeit mit Präsentation oder Portfolio) 
+• 
+Grundlagen der internationalen Rechnungslegung (5 ECTS, Klausur oder 
+Hausarbeit mit Präsentation oder Portfolio) 
+• 
+Jahresabschluss und Unternehmensbesteuerung (5 ECTS, Klausur oder 
+Hausarbeit mit Präsentation oder Portfolio) 
+• 
+Konzernrechnungslegung (5 ECTS, Klausur oder Hausarbeit mit Präsentation oder 
+Portfolio) 
+• 
+Kostenorientiertes Controlling (5 ECTS, Klausur oder Hausarbeit mit 
+Präsentation oder Portfolio) 
+• 
+Proseminar Unternehmensethik, insb. Corporate Governance (5 ECTS, Klausur 
+oder Hausarbeit mit Präsentation oder Portfolio) 
+• 
+Sustainability@Leading Companies (5 ECTS, Klausur oder Hausarbeit mit 
+Präsentation oder Portfolio) 
+ 
+c. Modulangebot in der Vertiefung Customer Experience, Digital Systems and 
+Operations for a Sustainable World 
+ 
+• 
+Innovation through Design for Digital Customer Experience and Sustainable 
+Solutions (5 ECTS, Klausur oder Hausarbeit mit Präsentation oder Portfolio) 
+• 
+Nachhaltigkeit durch Logistik und Informationsverarbeitung (5 ECTS, Klausur 
+oder Hausarbeit mit Präsentation oder Portfolio) 
+• 
+Operations Analytics (5 ECTS, Klausur oder Hausarbeit mit Präsentation oder 
+Portfolio) 
+
+[Page 3]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+• 
+Digital Systems & Operationsmanagement (5 ECTS, Klausur oder Hausarbeit mit 
+Präsentation oder Portfolio) 
+• 
+Service and Technology Marketing (5 ECTS, Klausur oder Hausarbeit mit 
+Präsentation oder Portfolio) 
+• 
+Supply Chain Analytics (5 ECTS, Klausur oder Hausarbeit mit Präsentation oder 
+Portfolio) 
+• 
+Supply Chain Controlling (5 ECTS, Klausur oder Hausarbeit mit Präsentation oder 
+Portfolio) 
+• 
+Systementwicklung (5 ECTS, Klausur oder Hausarbeit mit Präsentation oder 
+Portfolio) 
+ 
+d. Modulangebot in der Vertiefung Space & Politics for Sustainable Futures 
+ 
+• 
+Alternative Economies and Spaces (5 ECTS, Klausur oder Hausarbeit mit 
+Präsentation oder Portfolio) 
+• 
+G1-H Humangeographie 1 (5 ECTS, Klausur oder Hausarbeit mit Präsentation 
+oder Portfolio) 
+• 
+Einführung in die Internationale Politik (5 ECTS, Klausur oder Hausarbeit mit 
+Präsentation oder Portfolio) 
+• 
+V1-H Humangeographie 3 (5 ECTS, Klausur oder Hausarbeit mit Präsentation 
+oder Portfolio) 
+• 
+V4-H Gesellschaft und Umwelt (5 ECTS, Klausur oder Hausarbeit mit 
+Präsentation oder Portfolio) 
+• 
+Wirtschaft und Raum (G7-H Teilmodul Wirtschaftsgeographie 2) (5 ECTS, Klausur 
+oder Hausarbeit mit Präsentation oder Portfolio) 
+ 
+e. Modulangebot in der Vertiefung International Immersion 
+Die Vertiefung „International Immersion“ kann nur an einer ausländischen 
+Universität oder im Rahmen einer internationalen Summer School (inkl. der 
+internationalen WFI Summer School) absolviert werden.

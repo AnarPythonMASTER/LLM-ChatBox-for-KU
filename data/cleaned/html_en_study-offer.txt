@@ -1,0 +1,8 @@
+SOURCE_URL: https://www.ku.de/en/study-offer
+TITLE: Degree programs and course offers – KU
+SOURCE_FILE: en_study-offer.html
+------------------------------------------------------------
+
+Degree programs and course offers
+Find out everything you need to know about our degree programs, courses, and combinable subjects on this website. Our University has eight faculties: Theology, Philosophy and Education, Languages and Literatures, History and Social Sciences, and Mathematics and Geography. In addition, there is the Faculty of Social Work and the School of Transformation and Sustainability as well as the Ingolstadt School of Management. Overall, the KU offers more than 80 degree programs and courses. On the following websites, you will find detailed information on the KU's Bachelor's, Master's, and teacher training programs. Click here to visit our
+faculties:

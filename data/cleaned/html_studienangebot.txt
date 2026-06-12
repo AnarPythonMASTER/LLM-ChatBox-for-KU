@@ -1,0 +1,8 @@
+SOURCE_URL: https://www.ku.de/studienangebot?tx_solr%5Bfilter%5D%5B0%5D=sufficientQualifications%3Abachelor
+TITLE: Studiengänge und Studienangebote unserer Universität – KU
+SOURCE_FILE: studienangebot.html
+------------------------------------------------------------
+
+Studiengänge und Studienangebote
+Hier erfahren Sie alles zu unseren Studiengängen, Studienangeboten und den kombinierbaren Fächern. Unsere Universität hat acht Fakultäten. Die Theologische, die Philosophisch-Pädagogische, die Sprach- und Literaturwissenschaftliche, die Geschichts- und Gesellschaftswissenschaftliche, die Wirtschaftswissenschaftliche und die Mathematisch-Geographische Fakultät. Hinzu kommen die Fakultät für Soziale Arbeit sowie die School of Transformation ans Sustainability. Insgesamt bietet die KU über 80 Studiengänge und Studieangebote an. Auf den folgenden Seiten finden Sie Informationen zu den Bachelor-, Master- und Lehramtsstudiengängen der KU. Zu den Fakultäten geht es
+hier:

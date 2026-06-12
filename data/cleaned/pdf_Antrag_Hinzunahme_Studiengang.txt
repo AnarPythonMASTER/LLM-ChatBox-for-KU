@@ -1,0 +1,110 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Antrag_Hinzunahme_Studiengang.pdf
+TITLE: Antrag_Hinzunahme_Studiengang.pdf
+SOURCE_FILE: Antrag_Hinzunahme_Studiengang.pdf
+------------------------------------------------------------
+
+[Page 1]
+Zutreffendes bitte ankreuzen  
+Bitte sorgfältig und leserlich in Druckschrift ausfüllen 
+Antrag auf Hinzunahme eines Studiengangs 
+zum 
+ Wintersemester 20.…. / 20.…. 
+ Sommersemester 20..… 
+Persönliche Angaben: 
+Name: 
+________________________ 
+Vorname: 
+________________________ 
+geb. am: 
+________________________ 
+Matrikel-Nr. ________________________ 
+Postanschrift: 
+________________________ 
+Telefon: 
+________________________ 
+________________________ 
+E-Mail: 
+________________________ 
+Die Hinzunahme beantrage ich wie folgt: 
+Abschluss: 
+________________________ 
+(z.B. Bachelor) 
+Fach: 
+________________________ 
+HF
+_____. FS 
+(z.B. Geographie) 
+(HF: Hauptfach, NF: Nebenfach) 
+ (FS: Fachsemester) 
+Fach: 
+_______________________________ HF NF 
+_____. FS 
+(im Lehramt GS und MS: Didaktikkombination) 
+Fach: 
+________________________ 
+HF NF
+_____. FS 
+Fach: 
+________________________ 
+HF NF
+_____. FS 
+Studienprofil: 
+________________________ 
+(nur im Interdisziplinären Bachelor- und Masterstudiengang; z.B. Flexibel, LAG, …) 
+Bisher war ich so immatrikuliert: 
+Abschluss: 
+________________________ 
+(z.B. Bachelor) 
+Fach: 
+________________________ 
+HF
+_____. FS 
+(z.B. Geographie) 
+(HF: Hauptfach, NF: Nebenfach) 
+ (FS: Fachsemester) 
+Fach: 
+_______________________________ HF NF 
+_____. FS 
+(im Lehramt GS und MS: Didaktikkombination) 
+Fach: 
+________________________ 
+HF NF
+_____. FS 
+Fach: 
+________________________ 
+HF NF
+_____. FS 
+Studienprofil: 
+________________________ 
+(nur 
+im Interdisziplinären 
+Bachelor- und 
+Masterstudiengang; z.B. Flexibel, LAG, 
+…) 
+Hinweise: 
+-
+Zum Studium mehrerer Studiengänge:
+Die Immatrikulation in zwei zulassungsbeschränkten Studiengängen ist nur zulässig, wenn ein besonderes berufliches, 
+wissenschaftliches oder künstlerisches Interesse am gleichzeitigen Studium in den zulassungsbeschränkten Studiengängen 
+nachgewiesen wird. Überschreitungen der Studienzeit die auf die durch das Doppelstudium bedingte Mehrbelastung 
+zurückzuführen sind, begründen keine Studienzeitverlängerung. 
+-
+Zu den Fachsemestern:
+Die Einstufung der Fachsemester erfolgt auf der Basis der übernommenen Leistungen bzw. Ihres
+Anrechnungsantrages. Eine Rückstufung der Fachsemester ist nicht möglich. Bei Fragen zur Angabe des
+Semesters wenden Sie sich bitte an die Studierendenberatung. (www.ku.de/studierendenberatung)
+_____________________________________ 
+Unterschrift 
+_____________________
+Datum 
+STUDIERENDENBÜRO 
+Campus Eichstätt 
+Postanschrift: Ostenstraße 26, 85072 Eichstätt 
+Besucheradresse: Marktplatz 7, 85072 Eichstätt 
+E-Mail: studierendenbuero@ku.de 
+www.ku.de/studierendenbuero
+Campus Ingolstadt 
+Postanschrift: Auf der Schanz 49, 85049 Ingolstadt 
+Besucheradresse: Auf der Schanz 49, 85049 Ingolstadt 
+E-Mail: studierendenbuero-in@ku.de 
+www.ku.de/studierendenbuero

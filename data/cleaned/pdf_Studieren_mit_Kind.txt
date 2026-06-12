@@ -1,0 +1,1340 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studieren_mit_Kind.pdf
+TITLE: Studieren_mit_Kind.pdf
+SOURCE_FILE: Studieren_mit_Kind.pdf
+------------------------------------------------------------
+
+[Page 1]
+1
+Studieren mit Kind
+Ein Wegweiser
+
+[Page 2]
+2
+3
+Inhaltsverzeichnis
+Vorwort............................................................................ 3
+Auf dem Campus mit Kind.............................................. 4
+Studium und Kind .
+.......................................................... 8
+Beratung.
+....................................................................... 15
+Wohnen......................................................................... 21
+Vorwort der Präsidentin
+Liebe Studierende, 
+„Es braucht ein ganzes Dorf, um ein Kind zu erziehen“, 
+heißt es in einem afrikanischen Sprichwort. Wie wir unseren 
+Teil dazu beitragen möchten, damit Sie Studium und Fami-
+lie besser in Einklang bringen können, dazu finden Sie erste 
+Informationen in dieser Broschüre. 
+Schon ein Studium an sich ist eine große Herausforderung, 
+die großen Orientierungsbedarf mit sich bringt: Wie stelle 
+ich meinen Stundenplan zusammen? Welche Fristen muss 
+ich einhalten? Wie kann ich mein Studium finanzieren? 
+Wenn Sie dann als junge Mutter oder als junger Vater nicht 
+nur für sich planen müssen, sondern auch für Ihren Nach-
+wuchs, wird der Alltag noch einmal komplizierter. 
+Die Katholische Universität Eichstätt-Ingolstadt war die ers-
+te Universität in Bayern, die sich vor über 20 Jahren auf 
+den Weg gemacht hat, familienfreundlicher zu werden: Be-
+ginnend mit praktischen Hilfen wie Wickelmöglichkeiten auf 
+dem Campus, kostenlosen Kindertellern in der Mensa oder 
+Betreuung im Uni-Kinderhaus bis hin zur Schaffung einer 
+zentralen Beratungsstelle, an die Sie sich mit Ihren Fragen 
+wenden können. 
+Dazu haben wir von Anfang an den engen Kontakt zu den-
+jenigen gesucht, die davon profitieren sollen – zu Ihnen als 
+Studierenden unserer Universität. Und ich möchte Sie dazu 
+ermuntern, weiterhin an der Gestaltung der KU als famili-
+enfreundliche Universität mitzuwirken und Ihre Erfahrungen 
+einzubringen. Wenn Sie uns also auf Aspekte von Familien-
+freundlichkeit hinweisen möchten, die aus Ihrer alltäglichen 
+Erfahrung noch zu verbessern wären, nehmen Sie Kontakt 
+mit den in diesem Heft genannten Anlaufstellen auf – allen 
+voran unser Zentralinstitut für Ehe und Familie in der Gesell-
+schaft, dessen Mitarbeiter/innen ich für ihre Arbeit danke. 
+Wir hoffen, dass Ihnen diese Broschüre erste Antworten auf 
+Ihre Fragen gibt. Für individuelle Auskünfte stehen Ihnen die 
+aufgeführten Beratungsstellen gern zur Verfügung. Ich wün-
+sche Ihnen und Ihrem Nachwuchs eine gute Zeit an der KU. 
+Prof. Dr. Gabriele Gien
+Präsidentin der KU
+Kinderbetreuung.
+........................................................... 22
+Finanzielles.
+................................................................... 25
+Charta „Familie in der Hochschule“.............................. 31
+Links zum Studium mit Kind......................................... 32
+
+[Page 3]
+4
+5
+Auf dem Campus mit Kind
+1. Wickelmöglichkeiten 
+Wickelmöglichkeiten finden Sie am Standort Eichstätt in
+ 
+n der Aula-Bibliothek (Teilbibliothek 2, Ostenstraße 1),
+ 
+n der Mensa,
+ 
+n der Zentralbibliothek (Familienraum),
+ 
+n im Kollegiengebäude Bau D 
+(Damen- und Herrentoilette)
+ 
+n im Gebäude Marktplatz 7
+ 
+n im Kapuzinerkloster (Ingbert-Naab-Saal - INS).
+Am Standort Ingolstadt finden Sie eine Wickelmöglichkeit 
+im Erste Hilfe Raum im HB-U05. 
+2. Spielplatz im Hofgarten Eichstätt
+Im Hofgarten der Sommerresidenz befindet sich ein Spiel-
+platz, auf dem Sie und Ihr Kind freie Zeit verbringen können. 
+Schaukel, Sandkasten, Wippe und mehr laden mitten auf 
+dem Campus zum Austoben ein. 
+3. Angebote der Mensa in Eichstätt
+Neben einer Spielecke bietet die Mensa des Studierenden-
+werks Erlangen-Nürnberg in Eichstätt einen Kinderteller an. 
+Dieser ist eine kostenlose Zugabe zu Ihrer Bestellung. Der 
+Kinderteller ist nicht einzeln erhältlich. Für die Beantragung 
+der Kindertellerkarte müssen folgende Voraussetzungen er-
+füllt sein: 
+Kartengrundlage: KU
+Kartengrundlage: © Bischöﬂiches Ordinariat Eichstätt 2015 
+Bearbeitungstand 2021 
+Basis der Hintergrundkarte DTK-10
+0
+50 m
+N
+Parkhaus
+öffentliche Parkplätze (Auswahl)
+universitätseigene Parkplätze
+Gebäude der Universität
+Kartengrundlage: KU
+Kartengrundlage: © Bischöﬂiches Ordinariat Eichstätt 2015 
+Bearbeitungstand 2021 
+Basis der Hintergrundkarte DTK-10
+0
+50 m
+N
+Parkhaus
+öffentliche Parkplätze (Auswahl)
+universitätseigene Parkplätze
+Gebäude der Universität
+Wickelraum
+Kinderteller
+Spielplatz
+Familienraum
+MP7
+Aula-Bib.
+Mensa
+Zentralbib.
+KGD
+Hofgarten
+INS
+Kinderhaus
+Ostenstraße
+Seminarweg
+Universitätsallee
+Luitpoldstraße
+Residenzplatz
+Domplatz
+Am Graben
+Spielecke
+Eltern-Kind-
+Parkplatz
+X
+ 
+n der auf der Karte eingetragene Elternteil muss im 
+laufenden Semester an einer Hochschule im Betreu-
+ungsbereich des Studierendenwerks Erlangen-Nürn-
+berg eingeschrieben sein,
+ 
+n das auf der Karte eingetragene Kind darf nicht älter 
+als 10 Jahre sein.
+Weiterführende Informationen finden Sie auf den Seiten 
+des Studierendenwerks Erlangen-Nürnberg:
+werkswelt.de
+Informationen
+
+[Page 4]
+6
+7
+Für die Nutzung der KidsBox und zum Erhalt des Will-
+kommensgrußes wenden Sie sich an das ZFG:
+E-Mail: familie@ku.de
+Informationen
+5. Eltern-Kind-Parkplätze für studierende Eltern
+Es gibt sowohl in Eichstätt als auch in Ingolstadt Parkplätze, 
+welche genutzt werden können, wenn Studierende ihr Kind 
+mit auf den Campus bringen. Dies gilt bis zur Einschulung 
+des Kindes.
+6. KidsBox - das mobile Kinderzimmer
+Die KidsBox ist als mobiles Kinderzimmer konzipiert und 
+für Babys und Kinder bis ins Grundschulalter ausgestattet 
+(https://my-kidsbox.de/). Sie können die KidsBox nutzen, 
+wenn Sie Ihre Kinder ausnahmsweise mit an den Arbeits- 
+oder Studienplatz bringen müssen oder wenn Sie für eine 
+Veranstaltung eine Kinderbetreuung organisieren möchten.
+In Eichstätt ist die KidsBox in der Aula im KG-Gebäude un-
+tergebracht und sollte vorrangig auch in diesem Gebäude 
+genutzt werden. Aufgrund der Größe ist ein Transport der 
+Box in andere Gebäude sehr schwierig. Für die Nutzung in 
+anderen Gebäuden können aber jederzeit Materialien aus 
+der KidsBox entnommen werden.
+In Ingolstadt befindet sich die KidsBox im Georgianum. 
+Auch hier können für die Nutzung Materialien aus der Box 
+entnommen werden. 
+@ Polzer Innenausbau GmbH & Co. KG
+4. Familienraum
+Im Gebäude der Zentralbibliothek (Raum-Nr. UA002) in 
+Eichstätt steht für Sie ein Familienraum zur Verfügung. 
+Hier haben Sie die Möglichkeit, Ihr Kind zu wickeln, es zu 
+stillen oder sich auszuruhen. Zudem sind Spielsachen für 
+Kleinkinder vorhanden. Die Nutzung des Familienraums ist 
+ohne vorherige Anmeldung möglich.
+7. Willkommensgruß für KU-Nachwuchs
+Neugeborene Kinder von Studierenden und Beschäftigten 
+der KU erhalten einen Willkommensgruß der Universität, 
+unter anderem den original KU-Babystrampler. Verpackt ist 
+der Gruß in einem Karton, den Kinder im Uni-Kinderhaus 
+von Hand bemalt haben. 
+Für den Erhalt der Parkberechtigung wenden Sie sich 
+bitte an das Referat III/2:
+E-Mail: raumanfragen@ku.de
+Informationen
+In Eichstätt gibt es auf dem Mensaparkplatz eine ausge-
+wiesene Parkmöglichkeit. In Ingolstadt befindet sich die 
+Parkmöglichkeit auf dem großen Mitarbeitendenparkplatz 
+der KU.
+Für die Nutzung dieser Eltern-Kind-Parkplätze ist ein Son-
+derparkausweis sowie ein Parkplatz-Transponder notwen-
+dig, welche bei der Raumverwaltung beantragt werden 
+können.
+Der formlose Antrag muss über die KU‑Mailadresse gestellt 
+werden und eine Immatrikulationsbescheinigung und einen 
+Nachweis über das Alter des Kindes enthalten. Die Parkbe-
+rechtigung gilt jeweils für das laufende Semester und muss 
+entsprechend verlängert werden. 
+
+[Page 5]
+8
+9
+1. Studium mit Kind an der KU
+Der Senat der Katholischen Universität Eichstätt-Ingol-
+stadt hat in seiner Sitzung am 25.06.2014 einen Leitfaden 
+für familienfreundliche Regelungen für Studierende an der 
+KU verabschiedet.
+Auszug: 
+„Die Katholische Universität Eichstätt-Ingolstadt (KU) ermöglicht 
+ihren Studierenden, ihre Persönlichkeit und Bildung ganzheit-
+lich entfalten zu können und fördert in allen Teilbereichen 
+die Vereinbarkeit von Studium und Familie. Chancengerechtig-
+keit ist eines ihrer obersten Ziele. Es sollen daher keine Nachteile 
+für Studierende mit familiären Verpflichtungen entstehen. Dieser 
+Leitfaden unterstützt dieses Ziel und beruht auf den Regelungen 
+der Allgemeinen Prüfungsordnung der Katholischen Universi-
+tät Eichstätt-Ingolstadt vom 26.11.2014 (APO) in der jeweils 
+gültigen Fassung für Bachelor- und Masterstudiengänge. Die 
+Prüfungsordnungen der Studiengänge der KU übernehmen die 
+familienfreundlichen Regelungen gemäß diesem Leitfaden. Die 
+familienfreundlichen Regelungen sind von allen Dozierenden der 
+KU zu beachten, insbesondere sind Prüfungsausschüsse bei ih-
+rer Entscheidungsfindung daran gebunden.“
+2. Urlaubssemester
+Als Studierende können Sie bei einer bevorstehenden 
+Geburt oder zur anschließenden Pflege von Kindern (El-
+ternzeit) Urlaubssemester in Anspruch nehmen. Während 
+eines Urlaubssemesters ist es möglich, Prüfungen abzule-
+gen und Lehrveranstaltungen zu besuchen. Mehr Informa-
+tionen dazu finden Sie in der APO (Allgemeine Prüfungs-
+ordnung vom 26.11.2014 § 14.) 
+2.1 Antragstellung
+Die Beurlaubung können Sie unter Angabe des Beurlau-
+bungsgrundes und unter Vorlage des Mutterpasses bzw. 
+der Geburtsurkunde im Studierendenbüro beantragen. 
+Eine rückwirkende Beurlaubung für bereits abgelaufene 
+Semester ist nicht zulässig. Für jedes Semester der Bean-
+spruchung ist ein neuer Antrag erforderlich, die Geburtsur-
+kunde muss nicht erneut vorgelegt werden. Den Antrag auf 
+Beurlaubung können Sie frühestens mit der Rückmeldung 
+und spätestens bis Ende des ersten Vorlesungsmonats des 
+betreffenden Semesters stellen. 
+Der Antrag wird – abweichend von den sonstigen Beur-
+laubungsregelungen – auch für das erste Fachsemester 
+genehmigt. Eine Beurlaubung wegen Elternzeit wird nicht 
+mit den Zeiten der Beurlaubung aus anderen wichtigen 
+Gründen verrechnet. Es können also zusätzlich bis zu zwei 
+Urlaubssemester aus anderen Gründen (z. B. Auslandsse-
+mester) beantragt werden bzw. bereits durchgeführt wor-
+den sein, die nicht auf die Beurlaubung für Erziehungszeiten 
+angerechnet werden. Den Antrag auf Beurlaubung finden 
+Sie auf der Homepage des Studierendenbüros.
+2.2 Beurlaubung wegen Elternzeit
+Als Studierende mit Kindern können Sie für die Dauer der 
+gesetzlichen Elternzeit maximal sechs Semester eine Be-
+urlaubung beantragen. Ein wegen Mutterschutz bereits 
+gewährtes Urlaubssemester wird auf diese Maximalzeit an-
+gerechnet. Bei jedem weiteren Kind verlängert sich die Frist 
+– je nach Geburtstermin des Kindes – um bis zu drei weitere 
+Studium und Kind
+
+[Page 6]
+10
+11
+Jahre. Einen Anspruch auf eine bis zu dreijährige Elternzeit 
+je Kind haben beide Elternteile. Sie kann auch gleichzeitig 
+von beiden Elternteilen beantragt werden. 
+Ihr Anspruch auf Elternzeit besteht bis zur Vollendung des 
+dritten Lebensjahres eines Kindes. Ein Anteil von bis zu 24 
+Monaten kann zwischen dem dritten Geburtstag und dem 
+vollendeten achten Lebensjahr des Kindes in Anspruch ge-
+nommen werden. Für jedes Semester der Beanspruchung 
+ist ein neuer Antrag erforderlich. Schwangere Studentin-
+nen können eine Beurlaubung beantragen, wenn der Ge-
+burtstermin laut Mutterpass voraussichtlich im beantragten 
+Semester liegt.
+2.3 Finanzielle Auswirkungen
+Während der Beurlaubung erhalten Sie keine BAföG- 
+Förderung. Es kann jedoch eine Verlängerung der Höchst-
+förderdauer beantragt werden. Der Semesterbeitrag muss 
+im Rahmen der fristgerechten Rückmeldung auch während 
+einer Beurlaubung entrichtet werden.
+3. Teilzeitstudium
+Eine weitere Möglichkeit, Studium und Erziehung von Kin-
+dern zu vereinbaren, ist ein Teilzeitstudium. Dies ist in ei-
+nigen Studiengängen an der KU möglich, Auskunft erteilt 
+Ihnen hierzu die zuständige Ansprechperson im Prüfungs-
+amt. Wenn ein Teilzeitstudium möglich und beabsichtigt ist, 
+müssen Sie dies im Studierendenbüro anzeigen. Ein Wech-
+sel von Voll- auf Teilzeit und umgekehrt ist immer nur in der 
+Rückmeldezeit zum Folgesemester möglich. 
+Derzeit sind folgende Studiengänge in Teilzeit studierbar: 
+ 
+n Bachelorstudiengänge: Angewandte Musikwissen-
+schaft und Musikpädagogik, Bildungs- und Erzie-
+hungswissenschaft (Pädagogik), Sprachen und Kul-
+turen Europas, Geographie, Mathematik.
+ 
+n Masterstudiengänge: Bildung für nachhaltige Ent-
+wicklung, Europastudien, Journalistik mit Schwer-
+punkt Innovation und Management, Umweltprozesse 
+und Naturgefahren, Inklusive Musikpädagogik/Com-
+munity Music, Taxation. 
+Weiterführende Informationen zu den Teilzeitstudiengän-
+gen erhalten Sie bei der Studierendenberatung der KU 
+und unter § 28 der APO. Teilzeitstudiengänge sind von der 
+BAföG-Förderung ausgeschlossen.
+4. Verlängerung Studiendauer
+Als Studierende mit familiären Verpflichtungen können Sie 
+eine Verlängerung der Frist für das Bestehen der Bachelor- 
+oder Masterprüfung beantragen. Gemäß § 11 Abs. 4 APO 
+kann die Frist für das endgültige Nichtbestehen verlängert 
+werden. Der Antrag ist an den Prüfungsausschuss zu 
+richten und beim Prüfungsamt einzureichen, das die Wei-
+terleitung veranlasst. Ihr Antrag muss die beantragte Ver-
+längerungsdauer enthalten und die familiären Verpflichtun-
+gen benennen, die diese Verlängerungsdauer rechtfertigen. 
+Die Nachweise sind dem Antrag beizufügen. Der Antrag ist 
+vor Ablauf der Frist zu stellen. 
+5. Verlängerung der Bearbeitungszeit für Bachelor- 
+oder Masterarbeit
+Auf Grund familiärer Verpflichtungen können Sie eine Ver-
+längerung der Bearbeitungszeit für die Bachelor- oder Mas-
+terarbeit um höchstens vier Wochen gemäß § 12 Abs. 5 
+APO beantragen. Den Antrag stellen Sie unmittelbar an 
+den Prüfungsausschuss. Er muss die beantragte Verlän-
+gerungsdauer enthalten und die familiären Verpflichtungen 
+benennen, die diese Verlängerungsdauer rechtfertigen. Die 
+Nachweise sind dem Antrag beizufügen. Der Antrag ist vor 
+Ablauf der Frist zu stellen.
+6. Prüfungen
+Grundsätzlich gilt eine Prüfung als nicht bestanden, wenn 
+Sie aus von Ihnen zu vertretenden Gründen Fristen für die 
+An- oder Abmeldung zur Prüfung oder für die Ablegung 
+der Prüfung überschreiten. Wenn diese Fristen aufgrund 
+familiärer Verpflichtungen überschritten werden, können Sie 
+die Gründe, die das Überschreiten einer Frist rechtfertigen 
+sollen, unverzüglich nach ihrem Auftreten schriftlich geltend 
+und glaubhaft machen und eine Fristverlängerung gemäß 
+§ 20 Abs. 4 APO beantragen. Richten Sie bitte den Antrag 
+an den Prüfungsausschuss und reichen ihn beim Prüfungs-
+amt ein, das die Weiterleitung veranlasst. Im Antrag erklä-
+ren Sie, welche Prüfung betroffen ist und welche familiären 
+Verpflichtungen dazu geführt haben, dass die An- oder Ab-
+meldefrist überschritten wurde oder die Teilnahme an der 
+Prüfung nicht möglich war, beispielsweise wegen Krankheit 
+des Kindes oder Ausfall einer geeigneten Aufsichtsperson. 
+Die Nachweise sind dem Antrag beizufügen. 
+Weiterführende Informationen finden Sie auf den Seiten 
+des Prüfungsamtes der KU:
+ku.de/pruefungsamt
+Informationen
+Bei Fragen zur Beurlaubung wenden Sie sich bitte an 
+das Studierendenbüro: 
+ku.de/studium/informationen-fuer-studierende/ 
+studium-organisieren/studienverlauf/beurlaubung
+Informationen
+7. Anwesenheitspflicht
+Wenn für eine Lehrveranstaltung der Nachweis der An-
+wesenheit gefordert wird, dürfen Sie gemäß § 22 Abs. 2 
+APO grundsätzlich nicht mehr als 25 Prozent der Veranstal-
+tung versäumen. Versäumen Sie mehr, kann die Vergabe 
+der zu erreichenden ECTS-Punkte für das Modul, zu der die 
+Lehrveranstaltung gehört, auf Ihren Antrag vom Prüfungs-
+ausschuss genehmigt werden. Der Prüfungsausschuss 
+kann eine Auflage erteilen, die auf andere Art die Erreichung 
+der Kompetenzziele ermöglicht. Der Antrag ist unmittelbar 
+an den Prüfungsausschuss zu stellen. Im Antrag ist zu er-
+klären, welche familiären Verpflichtungen dazu geführt ha-
+
+[Page 7]
+12
+13
+ben, dass die Anwesenheitspflicht nicht im erforderlichen 
+Umfang erfüllt werden konnte. Die Nachweise sind dem An-
+trag beizufügen. Der Prüfungsausschuss hat sich in seiner 
+Entscheidung sorgfältig mit den familiären Umständen der/
+des Studierenden auseinanderzusetzen und eine familien-
+freundliche Entscheidung anzustreben.
+8. Exmatrikulation
+Neben der Beurlaubung haben Sie auch die Möglichkeit, 
+sich zu exmatrikulieren. Dies sollte allerdings erst in Betracht 
+gezogen werden, wenn die Möglichkeiten zur Beurlaubung 
+ausgeschöpft sind. Die Wiederzulassung richtet sich nach 
+den dazu geltenden gesetzlichen Vorschriften und die Fort-
+setzung des Studiums nach der zum Zeitpunkt der Wie-
+derimmatrikulation geltenden Prüfungsordnung. 
+Beachten Sie bitte: Bei der Exmatrikulation vom Studium 
+mit dem Ziel der späteren, erneuten Immatrikulation können 
+unvorhersehbare Schwierigkeiten im weiteren Studienver-
+lauf auftreten. Lassen Sie sich deshalb vor diesem Schritt 
+beraten! Die notwendigen Informationen dafür erhalten Sie 
+im Studierendenbüro.
+9. Schwangerschaft und Mutterschutz
+Seit dem 1. Januar 2018 gilt das Mutterschutzgesetz auch 
+für Studentinnen. Die Rechte nach dem Mutterschutzge-
+setz gelten automatisch, sie sind nicht von einer Meldung 
+der Schwangerschaft abhängig. Viele Rechte können je-
+doch nur mit einer Meldung gewahrt werden.
+Die umfassenden Informationen zu den Schutzfristen, 
+der Meldung der Schwangerschaft, zur Gefährdungsbe-
+urteilung finden sie auf der Seite des Studierendenbüros: 
+www.ku.de/studium/informationen-fuer-studierende/
+studium-organisieren/studienverlauf/mutterschutz
+Informationen
+9.1 Mitteilung von Schwangerschaft und Stillzeit
+Die Studentin sollte daher, sobald sie weiß, dass sie schwan-
+ger ist, der KU ihre Schwangerschaft sowie den voraussicht-
+lichen Entbindungstermin mitteilen. Die Mitteilung ist an das 
+Studierendenbüro zu senden, das entsprechende Formular 
+finden Sie auf der Webseite des Studierendenbüros. Geht 
+eine Studentin neben ihrem Studium einer Tätigkeit an der 
+KU nach, beispielsweise als studentische Hilfskraft, soll sie 
+ihre Schwangerschaft zudem der Personalabteilung melden. 
+Mit der Mitteilung bei der KU ist auch ein Nachweis über die 
+Schwangerschaft in Form eines ärztlichen Attests oder des 
+Zeugnisses einer Hebamme zu erbringen.
+9.2 Schutzfristen
+Die Mutterschutzfrist beginnt sechs Wochen vor dem vor-
+aussichtlichen Entbindungstermin. Weicht der tatsächliche 
+Tag der Geburt von diesem Termin ab, verkürzt oder verlän-
+gert sich die Schutzfrist entsprechend. Die Schutzfrist nach 
+der Geburt beträgt acht Wochen, bei Früh- oder Mehrlings-
+geburten zwölf Wochen. Zudem verlängert sich die Schutz-
+frist bei einer vorzeitigen Geburt um die Zeit, die vor der 
+Geburt nicht in Anspruch genommen werden konnte. Die 
+Schutzfrist wird nach Mitteilung des voraussichtlichen Ent-
+bindungstermins vom Studierendenbüro errechnet und der 
+Studentin mitgeteilt.
+9.3 Verzicht auf Schutzfristen
+Verzichtet die Studentin auf die Schutzfristen, so ist es ihr 
+möglich, während der eigentlichen Mutterschutzzeit ihr Stu-
+dium fortzuführen, an Prüfungen teilzunehmen und Veran-
+staltungen nach 20 Uhr bzw. an Sonn- und Feiertagen zu 
+besuchen. Der Verzicht ist dem Prüfungsamt gegenüber zu 
+erklären. Die Verzichtserklärung kann jederzeit widerrufen 
+werden, allerdings nur für die Zukunft (frühestens ab Ein-
+gang des Widerrufs beim Prüfungsamt). 
+Wird keine Verzichtserklärung abgegeben, nimmt die Stu-
+dentin aber dennoch an einer Prüfung oder entsprechen-
+den Veranstaltungen teil, so ist die Teilnahme als konklu-
+dente Verzichtserklärung auszulegen. Die Teilnahme an der 
+Prüfung ist gültig. Die Studentin kann sich im Nachhinein 
+nicht auf ihre Schutzfrist berufen. 
+9.4 Gefährdungsbeurteilung
+Die Universität ist verpflichtet, gemeinsam mit der Studen-
+tin eine Gefährdungsbeurteilung durchzuführen. Zuständig 
+dafür ist der/die jeweilige Fakultätsmanager/in bzw. der/die 
+Dekan/in in Zusammenarbeit mit dem Sicherheitsbeauf-
+tragten der KU. Im Rahmen der Gefährdungsbeurteilung 
+wird ermittelt, ob durch das Studium ein Zustand entsteht, 
+durch den die schwangere Studentin oder das ungeborene 
+Kind in der Gesundheit gefährdet wird. Sollte dies der Fall 
+sein, müssen wirksame Maßnahmen ergriffen werden, um 
+Gefährdungssituationen zu beseitigen. Sollten keine wirk-
+samen Maßnahmen zur Gefährdungsbeseitigung zur Verfü-
+gung stehen, ist ein Verzicht auf die Schutzfristen durch die 
+Studentin nicht möglich. 
+Geht eine Studentin neben ihrem Studium einer Tätigkeit an 
+der KU nach, beispielsweise als studentische Hilfskraft, so 
+ist hinsichtlich der Gefährdungen, die sich im Zusammen-
+hang mit ihrem Arbeitsplatz und ihrer Tätigkeit ergeben kön-
+nen, eine separate Gefährdungsbeurteilung durchzuführen. 
+Zuständig hierfür ist der Sicherheitsbeauftragte der KU.
+9.5 Nachteilsausgleich
+Der Studentin darf durch die Schwangerschaft und in der 
+Elternzeit kein Nachteil entstehen. Beispielsweise besteht 
+Anrecht auf Stillpausen bei Prüfungen oder Veranstaltungen 
+mit Anwesenheitspflicht oder es muss ermöglicht werden, 
+Ersatzleistungen bei Praktika zu erbringen. Die Dozierenden 
+sind rechtzeitig zu informieren, damit eine entsprechende 
+Planung erfolgen kann. 
+9.6 Freistellung für Untersuchungen und zum Stillen
+Eine schwangere Studentin ist für Untersuchungen freizu-
+stellen, die im Zusammenhang mit der Schwangerschaft 
+stehen. Während der ersten zwölf Monate nach der Geburt 
+besteht das Recht, das Kind mindestens zweimal täglich für 
+eine halbe Stunde zu stillen.
+
+[Page 8]
+14
+15
+10. Elternzeit 
+Als Studierende haben Sie genauso wie Arbeitnehmer/in-
+nen Anspruch auf Elternzeit. Allerdings gilt dies nur, wenn 
+Sie in einem Arbeitsverhältnis stehen und während der El-
+ternzeit nicht mehr als 32 Stunden pro Woche arbeiten. Die 
+Elternzeit ermöglicht jedem Elternteil eine unbezahlte Aus-
+zeit vom Job von bis zu 36 Monaten bis zur Vollendung des 
+dritten Lebensjahres des Kindes. Davon können die Eltern 
+24 Monate im Zeitraum zwischen dem dritten und achten 
+Geburtstag des Kindes flexibel beanspruchen. 
+Grundsätzlich ist die Inanspruchnahme von Elternzeit 
+ 
+unabhängig vom Bezug des Elterngeldes und in jedem 
+ 
+Arbeitsverhältnis möglich. Spätestens sieben Wochen vor 
+ihrem Beginn muss die Elternzeit schriftlich vom Arbeit- 
+geber verlangt werden; es bedarf hierbei keiner Zustim-
+mung des Arbeitgebers.
+Weiterführende Informationen zur Elternzeit finden Sie auf 
+den Seiten des Bundesministeriums für Bildung, Familie, 
+Senioren, Frauen und Jugend:
+bmbfsfj.bund.de/bmbfsfj/themen/familie/ 
+familienleistungen/elternzeit
+Den Leitfaden für familienfreundliche Regelungen für 
+Studierende finden Sie auf dieser Seite:
+ku.de/unileben/familienfreundliche-ku/ 
+informationen-fuer-studierende-mit-kind
+Informationen
+Beratung
+1. Zentralinstitut für Ehe und Familie in der 
+Gesellschaft (ZFG) 
+Die zentrale Anlaufstelle an der KU für Fragen zur Verein-
+barkeit von Studium und Familie ist das Zentralinstitut für 
+Ehe und Familie in der Gesellschaft (ZFG). Hier erhalten an-
+gehende und studierende Eltern 
+Unterstützung 
+und 
+Beratung. 
+Per Mail, Telefon, zoom oder in 
+einem persönlichen Gespräch 
+suchen die Mitarbeiterinnen mit 
+den werdenden und jungen El-
+tern gemeinsam nach Lösungen 
+für Ihre ganz individuelle Lebenssituation. Die Beratung um-
+fasst Themen wie Kinderbetreuung, die Studienplanung mit 
+Familien- und Pflegeaufgaben oder Angebote der KU für 
+Beschäftigte und Studierende mit Familien- und Pflegeauf-
+gaben.
+Zentralinstitut für Ehe und Familie in der Gesellschaft
+Marktplatz 4
+85072 Eichstätt
+Tel.: +49 8421 93-21141
+Mail: familie@ku.de
+ku.de/zfg
+ku.de/familienfreundlich
+Kontakt
+Studierendenberatung
+Marktplatz 7
+85072 Eichstätt 
+Raum: MP7-001 / 002 
+Tel.: +49 8421 93-21283 bzw. 93-21480 
+E-Mail: studierendenberatung@ku.de
+ku.de/beratung
+Kontakt
+2. Studierendenberatung
+Die Studierendenberatung an der KU hilft Ihnen als Studi-
+eninteressierte oder als bereits Immatrikulierte weiter bei 
+der Suche nach dem richtigen Studiengang, bei Fragen zu 
+Bewerbung und Zulassungsverfahren, bei der Einschrei-
+bung, der Wohnungssuche, der Studienfinanzierung etc. 
+Die Beraterinnen informieren Sie auch bei Fragen zur Stu-
+dienorganisation sowie zum Studiengangs- oder Studien-
+fachwechsel.
+3. Fachstudienberatung der Fakultäten
+Bei Fragen zu einem bestimmten Studiengang, zu Fächern 
+und deren Berufsmöglichkeiten oder bei Detailfragen zum 
+Studienaufbau ist die jeweilige Fachstudienberatung Ihre 
+Anlaufstelle.
+ku.de/beratung
+Kontakt
+
+[Page 9]
+16
+17
+Studierendenbüro Eichstätt
+Marktplatz 7
+85072 Eichstätt 
+E-Mail: studierendenbuero@ku.de
+Studierendenservice Campus Ingolstadt
+Auf der Schanz 49
+85049 Ingolstadt 
+Raum: HB 010a 
+ 
+E-Mail: wfi-studierendenbuero@ku.de
+ku.de/studierendenbuero
+Kontakt
+Studentischer Konvent
+Ostenstraße 26
+85072 Eichstätt 
+Raum: Studihaus (KGC) 
+Tel.: +49 8421 93-21713 
+E-Mail: konvent-sprecherrat@ku.de
+Kontakt
+4. Studierendenbüro
+Das Studierendenbüro ist für Sie Anlaufstelle bei allen or-
+ganisatorischen Aufgaben rund um den Studienanfang 
+und die Studiendurchführung. Hier schreiben Sie sich ein, 
+bewerben sich für zulassungsbeschränkte Studiengänge, 
+melden sich zurück, beantragen ein Urlaubssemester oder 
+einen Studiengang- bzw. Studienfachwechsel. 
+Auf den Internetseiten des Studierendenbüros finden Sie 
+verschiedene Antragsformulare. Die Seite bietet zudem 
+Informationen für ausländische Studieninteressierte und 
+beruflich Qualifizierte ohne schulische Hochschulzugangs-
+berechtigung. Wer sich über Beurlaubung, Kranken- und 
+Unfallversicherung informieren oder sich Studienzeiten be-
+scheinigen lassen möchte, wird hier ebenfalls fündig.
+5. Studentischer Konvent
+Der Studentische Konvent, die Studierendenvertretung an 
+der KU, vertritt die Belange und Interessen der Studieren-
+den gegenüber der Universitätsleitung und der Öffentlich-
+keit. Wie genau sich die Studierendenvertretung an der KU 
+gestaltet, ist auf den Internetseiten des Konvents darge-
+stellt. Unter der Rubrik „Aktuelles“ finden Sie Termine, Ver-
+anstaltungen und Mitteilungen.
+Der Studentische Konvent ist für Sie als Studierende eine 
+zentrale Anlaufstelle, behandelt Ihre Anliegen wenn ge-
+wünscht vertraulich und hilft bei der Suche nach geeigneten 
+Ansprechpersonen.
+6. Beauftragte für die Gleichstellung der 
+Geschlechter
+Die Beauftragten für die Gleichstellung der Geschlechter 
+(BeGG) an der KU achten auf die Vermeidung von Nachtei-
+len für Studierende sowie für wissenschaftliche und nicht-
+Weiterführende Informationen erhalten Sie unter: 
+ku.de/die-ku/organisation/beauftragte/ 
+frauen-und-gleichstellungsbeauftragte
+E-Mail: uni-frauenbeauftragte@ku.de
+Kontakt
+wissenschaftliche Mitarbeitende. Die BeGG unterstützen die 
+Universität in der Wahrnehmung ihrer Aufgabe, die tatsächli-
+che Gleichstellung von Frauen und Männern durchzusetzen 
+und diese als Leitprinzip zu berücksichtigen. Außerdem wir-
+ken sie auf die Beseitigung bestehender Nachteile hin.
+Sie beraten und wirken mit bei: 
+ 
+n der Konzeption von Entwicklungs- und Gleichstel-
+lungsförderplänen,
+ 
+n der Beseitigung von Diskriminierung und der Beile-
+gung von genderspezifischen Konflikten,
+ 
+n familiären und gleichstellungsspezifischen Fragen von 
+Angehörigen der Universität zur Studien- und Arbeits-
+situation (z. B. Vereinbarkeit von Familie und Erwerbs-
+tätigkeit, Sicherung der Chancengleichheit) sowie Be-
+langen der behindertengerechten Hochschule.
+blemen. Die Beratungsstelle sichert absolute Vertraulichkeit 
+zu, es gilt Schweigepflicht. Die Psychologische Beratung 
+wird vom Studierendenwerk Erlangen-Nürnberg und der 
+KU getragen.
+Psychologische Beratung
+Terminvereinbarung per E-Mail: 
+TMueller@ku.de, Juliane.Deane@ku.de oder 
+Teresa.Haehnel@ku.de
+Offene Sprechstunde (ausschließlich telefonisch):
+Montags, 9.00-10.00 Uhr bei Julia Deane: 
+Tel. +49 8421 93-21664
+Dienstag, 15.00-16.00 Uhr bei Tanja Müller, 
+Tel. +49 8421 93-21415
+ku.de/studium/informationen-fuer-studierende/bera-
+tung/psychologische-beratung
+Beratungsstelle der THI für Studierende in Ingolstadt:
+thi.de/studium/beratungsangebote-an-der-thi/bera-
+tung-fuer-studierende/psychologische-beratung/
+Bei akuten Krisensituation wenden Sie sich bitte an:
+ 
+n Krisendienst Bayern: Soforthilfe, täglich 0-24 Uhr, 
+Tel. ++49 800 655 3000
+ 
+n Telefonseelsorge (24 h), Tel. +49 800 1110111 oder 
++49 800 1110222 (kostenfrei)
+Kontakt
+7. Psychologische Beratung
+Das Studium ist eine Zeit, die vielfältige Herausforderungen 
+mit sich bringt. Studierende finden bei der Psychologischen 
+Beratung ein offenes Ohr und Beratung zu Themen wie 
+Schwierigkeiten im Studium, Beziehungs- oder Elternpro-
+
+[Page 10]
+18
+19
+8. Rechtsberatung
+Für Sie als Studierende an der KU wird eine Rechtsberatung 
+durch die Rechtsanwaltskanzleien Dr. Vergho & Partner 
+ 
+(Eichstätt) und Rudolf, Goldschadt & Kollegen (Ingolstadt) 
+in deren Räumen angeboten. Die Beratung kann sich auf 
+alle Rechtsbereiche erstrecken. Jede weitere anwaltschaft-
+liche Tätigkeit, die über das geführte Gespräch hinausgeht, 
+wie z. B. Anfertigen von Schreiben, Vertretung vor Gericht 
+oder bei Behörden, Erstellen von Rechtsgutachten u. ä., 
+erfordert durch die Betroffenen ein eigenes Mandat. 
+Als Eigenbeteiligung sind durch die Studierenden in der 
+Kanzlei unmittelbar bei Gesprächsaufnahme 5 Euro zu ent-
+richten. Die restlichen Kosten der Rechtsberatung werden 
+durch das Sozialwerk getragen und mit der Anwaltskanzlei 
+direkt abgerechnet. Bei Bedarf nehmen Sie Kontakt mit ei-
+ner der beiden genannten Kanzleien auf, vereinbaren einen 
+Gesprächstermin und legen dort Ihren gültigen Studienaus-
+weis vor. Die Kanzlei wird die Matrikelnummer festhalten.
+9. Allgemeine BAföG-Beratung
+Ein wichtiger Aspekt der Studienfinanzierung sind für 
+viele Studierende Leistungen nach dem Bundesausbil-
+dungsförderungsgesetz (BAföG). Beim Studierenden-
+werk Erlangen-Nürnberg erhalten Sie Auskünfte über die 
+staatliche Förderung sowie Informationen und Tipps zur 
+Antragstellung.
+Dr. Vergho & Partner mbB
+Westenstraße 55
+85072 Eichstätt
+Tel: +49 8421 97290
+Rudolf, Goldschadt & Kollegen
+Gymnasiumstraße 25 
+85049 Ingolstadt 
+Tel: +49 841 9351380; kanzlei-rgk.de 
+Kontakt
+Für Eichstätt
+Amt für Ausbildungsförderung beim 
+Studierendenwerk Erlangen-Nürnberg
+Geschäftsstelle Nürnberg
+Andreij-Sacharow-Platz 1
+90403 Nürnberg
+Tel: +49 9131 8002-59
+Für Ingolstadt
+Amt für Ausbildungsförderung
+Studierendenwerk Erlangen-Nürnberg
+Geschäftsstelle Erlangen
+Hofmannstr. 27
+91052 Erlangen
+Tel: +49 9131 8002-900
+Nähere Informationen zum Thema finden Sie auch unter:
+bafög.de
+Kontakt
+10. Studierendenwerk Erlangen-Nürnberg
+Das Studierendenwerk Erlangen-Nürnberg ist für Studie-
+rende an der KU von großer Bedeutung. Es ist Anlaufstelle 
+bei Fragen des studentischen Lebens, z. B. zu BAföG oder 
+zur Wohnungssuche. In der Broschüre „WERKsWeiser“ fin-
+den Sie studienrelevante Informationen und nützliche Links. 
+Auch im Hinblick auf das Studium mit Kind und die damit 
+auftauchenden Fragen ist die Sozialberatung des Studen-
+tenwerks eine wichtige Anlaufstelle für Sie. Die Beratung 
+erfolgt oft in enger Zusammenarbeit mit anderen Partnern 
+außerhalb und innerhalb des Studierendenwerks. 
+Studierendenwerk Erlangen-Nürnberg 
+Die jeweils zuständigen Ansprechpartner finden Sie 
+auf der Homepage des Studierendenwerks:
+werkswelt.de
+Sozialberatung des Studierendenwerks Erlangen-Nürnberg
+Sabine Eschelbach
+Tel.: +49 9131 8002-757
+E-Mail: sozialberatung@werkswelt.de
+Kontakt
+
+[Page 11]
+20
+21
+Wohnen
+1. Wohnen in Eichstätt
+Das St. Gundekar-Werk betreibt am Standort Eichstätt 
+mehrere Wohnheime für Studierende. Für Studierende mit 
+Kind stehen drei Familienappartements in der Wohnanlage 
+Kardinal-Schröffer-Haus und drei Eltern-Kind-Einheiten im 
+Gebäude „CubeStay“ zur Verfügung. 
+Darüber hinaus gibt es weitere Wohnanlagen in gemeinnüt-
+ziger und privater Trägerschaft. Wie an anderen Hochschu-
+lorten mieten Studierende zudem häufig privat. Ein Blick auf 
+die Schwarzen Bretter auf dem Campus lohnt sich immer. 
+Eine Liste freier Privatzimmer und Wohnungen ist online 
+verfügbar.
+2. Wohnen in Ingolstadt
+Auch in Ingolstadt stehen mehrere Wohnheime in gemein-
+nütziger und privater Trägerschaft zur Verfügung, die es 
+Studierenden ermöglichen zu günstigen Preisen zentrums- 
+und universitätsnah zu wohnen. 
+Informationen zum Kardinal-Schröffer-Haus erhalten Sie 
+unter:
+St. Gundekar-Werk Eichstätt
+Winkelmannstr. 1
+85072 Eichstätt
+Tel: +49 8421 98300-20
+gundekar-werk.de
+Eine Übersicht aller Wohnheime in Eichstätt und Ingol-
+stadt sowie eine Liste freier Zimmer und Wohnungen ist 
+online verfügbar unter: 
+ku.de/wohnen
+Informationen
+
+[Page 12]
+22
+23
+Kinderbetreuung
+1. Das Uni-Kinderhaus
+Sowohl die Aufgaben als Eltern wie auch die Aufgaben als 
+Studierende adäquat zu erfüllen, stellt eine große Heraus-
+forderung dar. Die KU erleichtert diesen Spagat durch eine 
+unieigene Kinderkrippe für Studierende, das Kinderhaus. 
+Der Verein Uni-Kinderhaus e.V. ist eine selbstverwaltete 
+ 
+Elterninitiative, die aus einer studentischen Selbsthilfegrup-
+pe entstanden ist. Durch das Kinderhaus soll es Studieren-
+den ermöglicht werden, ihr Studium trotz Kind(ern) aufzu-
+nehmen oder fortzuführen. Ins Kinderhaus können Kinder 
+aufgenommen werden, von denen mindestens ein Elternteil 
+an einer bayerischen Hochschule oder Fachhochschule im-
+matrikuliert ist. Die Aufnahme ist an die Mitgliedschaft im 
+Verein gebunden. 
+Kinderhaus e.V.
+Ostenstraße 18
+85072 Eichstätt
+Tel.: +49 8421 93-21770
+E-mail: uni-kinderhaus@ku.de
+Weiterführende Informationen zum Unikinderhaus, dem 
+pädagogischen Konzept, Betreuungsgebühren und ak-
+tuellen Öffungszeiten erhalten Sie unter:
+uni-kinderhaus.de
+Kontakt
+2. Der Verein Mobile Familie e.V.
+Im April 2016 ist die KU dem Verein „Mobile Familie e.V.“ 
+beigetreten. Der Verein bietet Studierenden und Mitarbei-
+tern einen kostenfreien Informations- und Vermittlungs-
+service rund um das Thema 
+Tagespflege – ob Kinderfrau, 
+Au-Pair oder Kibeno – an. Er 
+berät, informiert und unterstützt 
+Familien, die eine Betreuungs-
+lösung für ihr Kind oder eine Unterstützung für ihre Angehö-
+rigen suchen und ist bei der Suche nach einer geeigneten 
+Betreuungsperson behilflich. In Gesprächen über die Fa- 
+miliensituation werden mit Ihnen gemeinsam maßgeschnei-
+derte Lösungen erarbeitet.
+Mobile Familie e.V.
+Moshammerstr. 1
+85049 Ingolstadt
+Tel.: +49 841 99398290
+E-mail: info@mobile-familie.de
+mobile-familie.de
+Kontakt
+2. Pädagogisches Zentrum
+Seit Mai 2017 besteht eine Kooperation zwischen dem Pä-
+dagogischen Zentrum und der KU. Im Rahmen dieser Zu-
+sammenarbeit sind nun Kontingentplätze für Studierende 
+und Mitarbeitende der KU in den Einrichtungen des Päda-
+gogischen Zentrums verfügbar. 
+Das Pädagogische Zen­
+trum Förderkreis und das 
+Haus 
+Miteinander 
+sind 
+eine gemeinnützige GmbH 
+mit langjähriger Erfahrung in der pädagogischen Arbeit. 
+Sie sind sozialer Dienstleister in Ingolstadt und in der ober-
+bayerischen Region 10 und Träger verschiedener päda-
+gogischer und therapeutischer Einrichtungen. Die Arbeits-
+schwerpunkte liegen in der Betreuung, Bildung, Erziehung 
+und Förderung von Kindern und Jugendlichen. Die päda-
+gogischen Grundlagen bilden die Heil-, Montessori- und 
+Sozialpädagogik.
+Pädagogisches Zentrum Förderkreis +
+Haus Miteinander gGmbH
+Johann-Michael-Sailer-Str. 7
+85049 Ingolstadt
+Tel.: +49 841 4913-0
+E-mail: info@pz-in.de
+pz-in.de
+Kontakt
+
+[Page 13]
+24
+25
+Infos und eine Liste der Kinderbetreuungseinrichtungen 
+erhalten Sie unter: 
+https://familienapp-eichstaett.de/wissenswertes/
+kindertagesbetreuung-5877
+Informationen
+Eine Übersicht der Kinderbetreuungseinrichtungen ist 
+verfügbar unter: 
+ingolstadt.de/Leben/Kinder-Jugend-Familie/ 
+Kinderbetreuung
+Informationen
+3. Kinderbetreuung in Eichstätt
+In der FamilienApp des Landkreises finden Sie die Adres-
+sen der Kindergärten, Horte, Kinderkrippen und Schulen für 
+Eichstätt selbst und für den Landkreis.
+„KinderWelt e.V.“ ist ein Fachdienst für Kindertagespflege im 
+Landkreis Eichstätt. Das Tagespflegezentrum ist für Sie da, 
+wenn Sie eine qualifizierte Tagespflegeperson für Ihr Kind 
+suchen. Während der gesamten Betreuungszeit steht der 
+Fachdienst Ihnen beratend zur Verfügung und begleitet die 
+Tagespflegepersonen während ihrer Betreuungstätigkeit. 
+4. Kinderbetreuung in Ingolstadt
+In Ingolstadt gibt es eine Vielzahl an Kinderbetreuungsein-
+richtungen, eine Übersicht findet sich auf den Internetseiten 
+der Stadt.
+Finanzielles
+1. BAföG
+Wenn Sie als BAföG-Berechtigte mit ihrem Kind in einem 
+Haushalt leben, erhöht sich der Bedarfssatz um monatlich 
+160 Euro pro Kind. Dieser Kinderbetreuungszuschlag wird 
+nur einem Elternteil gewährt. 
+Grundsätzlich werden BAföG-Leistungen nur ausbezahlt, 
+solange das Studium tatsächlich betrieben wird. Sie wer-
+den auch geleistet, wenn Sie als Studentin durch eine 
+Schwangerschaft gehindert sind, Ihrem Studium nachzu-
+gehen. Die schwangerschaftsbedingte Unterbrechung des 
+Weitere Informationen zu BAföG erhalten Sie unter:
+bafög.de
+Die gebührenfreie BAföG-Hotline ist montags bis freitags 
+von 8 bis 20 Uhr erreichbar unter:
+Tel.: +49 800 223-63 41
+Informationen
+5. Ferienbetreuung
+An der KU bieten wir in den Schulferien, die in der Vorle-
+sungszeit liegen, ein Ferienprogramm für Kinder von Stu-
+dierenden und Mitarbeitenden der KU an. Gegen eine ge-
+ringe Teilnahmegebühr können Kinder im Alter von sechs 
+bis zwölf Jahren teilnehmen. Außerdem gibt es in der Regi-
+on eine Vielzahl von weiteren Ferienbetreuungsangeboten. 
+Ein Übersicht finden Sie im Internetangebot der Familien-
+freundlichen KU.
+Informationen zum Ferienprogramm der KU und zu 
+weiteren Angeboten finden Sie hier: 
+ku.de/unileben/familienfreundliche-ku/
+informationen-fuer-studierende/kinderbetreuung
+Informationen
+Studiums darf jedoch nicht länger als drei Monate dauern. 
+Wird das Studium länger als drei Monate unterbrochen, 
+so wird das BAföG nicht mehr ausgezahlt. Nach Ende der 
+Unterbrechung ist eine Wiederaufnahme der Förderung 
+möglich. Zudem kann eine Förderung über die Förderungs-
+höchstdauer hinaus gewährt werden, falls die Schwanger-
+schaft oder die Erziehung eines Kindes die Ursache für eine 
+Studienzeitverlängerung ist.
+
+[Page 14]
+26
+27
+Weitere Informationen zum Elterngeld sowie einen 
+­
+Elterngeldrechner finden Sie unter: 
+familien-wegweiser.de/Elterngeldrechner
+bmfsfj.de/bmfsfj/themen/familie/familienleistungen
+Einen Online-Antrag für das Elterngeld können Sie 
+­
+erstellen unter: 
+www.zbfs.bayern.de/familienleistungen/elterngeld/
+Informationen
+3. Kindergeld
+Das Kindergeld wird einkommensunabhängig an alle Fami-
+lien gezahlt. Es beträgt für jedes Kind 259 Euro pro Monat. 
+Das Kindergeld kann mindestens bis zum 18. Lebensjahr 
+des Kindes bezogen werden. Für ein Kind kann immer nur 
+eine Person Kindergeld erhalten. Für die Auszahlung des 
+Kindergeldes ist ein schriftlicher Antrag bei der zuständigen 
+Familienkasse (Arbeitsagentur) notwendig.
+Informationen zum Kinderzuschlag finden Sie unter: 
+arbeitsagentur.de/familie-und-kinder/kinderzu-
+schlag-verstehen
+Informationen zum Unterhaltsvorschuss finden Sie unter:
+familienportal.de/familienportal/familienleistungen/
+unterhaltsvorschuss
+Informationen
+5. Bürgergeld
+Ist ihr Studium im Rahmen des Bundesausbildungsförde-
+rungsgesetzes (BAföG) dem Grunde nach förderungsfä-
+hig, haben Sie grundsätzlich keinen Anspruch auf laufende 
+Leistungen zur Sicherung des Lebensunterhaltes durch das 
+Bürgergeld. Eine Ausnahme bilden besondere Härtefälle, in 
+denen das Bürgergeld als zinsloses Darlehen gewährt wer-
+den kann. Dies kann z. B. der Fall sein, wenn 
+ 
+n
+das Studium wegen der Geburt und der damit verbun-
+denen Betreuung eines Kindes ausgesetzt wurde,
+ 
+n
+das Studium wegen einer Schwangerschaft länger 
+dauert, als es durch das BAföG gefördert werden kann, 
+und der erfolgreiche Abschluss wegen fehlender Mittel 
+gefährdet wäre.
+Auch wenn Sie keinen Anspruch auf Bürgergeld haben, 
+können Sie einen Anspruch auf Mehrbedarfszuschläge und 
+einmalige Leistungen erheben. Für werdende Mütter wird 
+ab der 13. Schwangerschaftswoche bei entsprechender 
+Bedürftigkeit ein Mehrbedarf in Höhe von 17 Prozent des 
+Regelsatzes zuerkannt.
+2. Elterngeld
+Das Elterngeld ist eine weitere finanzielle Unterstützung für 
+die Zeit nach der Geburt Ihres Kindes. Sie bekommen das 
+Basiselterngeld, wenn Sie Ihr Kind in den ersten Monaten 
+nach der Geburt selbst betreuen wollen. Es wird für 12 
+Monate bzw. 14 Monate bei Nutzung von Partnermonaten 
+ausgezahlt. Dies gilt auch für Studierende, wenn sie im Jahr 
+vor der Geburt nicht gearbeitet und somit kein Einkommen 
+hatten. Für Studierende ohne regelmäßiges Einkommen 
+beträgt das Elterngeld 300 Euro netto im Monat. Dabei ist 
+die Höhe des Elterngeldes unabhängig von der Anzahl der 
+Wochenstunden des Studiums. Zudem ist eine Teilzeittätig-
+keit mit bis zu 32 Wochenstunden mit dem Basiselterngeld 
+möglich. 
+Die Bezugsdauer des Elterngelds richtet sich nach der ge-
+wählten Variante. Im Basiselterngeld haben beide Elterntei-
+le gemeinsam Anspruch auf insgesamt 14 Monatsbeträge. 
+Das Elterngeld muss schriftlich bei der zuständigen Eltern-
+geldstelle beantragt werden.
+Weitere Informationen zum Kindergeld finden Sie unter: 
+bmfsfj.de/bmfsfj/themen/familie/familienleistungen/
+kindergeld
+arbeitsagentur.de/familie-und-kinder
+Informationen
+Weitere Informationen finden Sie unter: 
+arbeitsagentur.de
+Informationen
+4. Kinderzuschlag und Unterhaltsvorschuss
+Zusätzlich kann bei der Familienkasse ein Kinderzuschlag 
+max. in Höhe von 297 Euro für Eltern mit geringem Einkom-
+men beantragt werden. Der Kinderzuschlag wird für sechs 
+Monate bewilligt. Alleinerziehenden Studierenden steht 
+zusätzlich ein Unterhaltsvorschuss für Kinder bis zur Voll-
+endung des zwölften Lebensjahres zur Verfügung, falls der 
+nichterziehende Elternteil keinen oder keinen regelmäßigen 
+Unterhalt zahlt. Auch Kinder im Alter von zwölf Jahren bis 
+zum vollendeten 18. Lebensjahr können unter bestimmten 
+Voraussetzungen einen Unterhaltsvorschuss erhalten. Die 
+Höhe des Unterhaltsvorschusses richtet sich dabei nach 
+dem Alter des Kindes.
+
+[Page 15]
+28
+29
+Weitere Informationen finden Sie unter: 
+bundesstiftung-mutter-und-kind.de
+Informationen
+Weitere Informationen finden Sie unter: 
+skfbayern.de/aufgaben-projekte/ 
+projekt-madame-courage
+Informationen
+6. Stiftungen
+6.1. Bundesstiftung Mutter und Kind
+Bei der Bundesstiftung Mutter und Kind können Schwange-
+re in finanzieller Not Unterstützung beantragen. Finanzielle 
+Hilfe wird z. B. für Umstandskleidung, Erstausstattung des 
+Kindes oder Einrichtung der Wohnung gewährt. Höhe und 
+Dauer der Unterstützung richten sich nach der individuellen 
+Notlage. Voraussetzung für eine Förderung ist ein Schwan-
+gerschaftsattest sowie eine Notlage, in der der Bedarf für 
+Schwangerschaft, Geburt und Erziehung des Kindes nicht 
+durch eigenes Einkommen oder anderweitige Unterstüt-
+zungsleistungen finanziert werden kann.
+Ein Antrag kann ausschließlich während der Schwanger-
+schaft persönlich bei einer Schwangerschaftsberatungs-
+stelle gestellt werden, wie Sie sie z. B. im Eichstätter 
+Landratsamt oder im Gesundheitsamt der Stadt Ingolstadt 
+finden.
+Weitere Informationen finden Sie unter: 
+https://hildegardis-verein.de/projekte/darlehen/
+Informationen
+6.2 Sozialdienst katholischer Frauen
+Das Programm „Madame Courage“ des Sozialdienstes ka-
+tholischer Frauen (SkF) unterstützt alleinerziehende Studen-
+tinnen in der Abschlussphase ihres Studiums. Dabei orien-
+tiert sich die maximale finanzielle Förderung an der Höhe 
+der BAföG-Leistungen. Chancen auf eine Unterstützung 
+haben Sie, wenn Sie alleinerziehend sind, kein ausreichen-
+des Einkommen haben und sich in der Abschlussphase 
+Ihres Studiums mit Aussicht auf einen Studienabschluss 
+befinden. Den Antrag können Sie ausschließlich beim 
+SkF-Landesverband Bayern stellen. Die Förderungsdauer 
+beträgt maximal zwei Semester. 
+6.3 Hildegardis-Verein
+Der Hildegardis-Verein vergibt zinslose Darlehen an Stu-
+dentinnen christlicher Konfessionen, denen keine anderen 
+Finanzierungsquellen zur Verfügung stehen. Gefördert wer-
+den können Erst- und Zweitstudium, aber auch Zusatz-
+qualifikationen und berufliche Weiterbildungen. Als Bewer-
+berin müssen Sie dem Verein Ihren konkreten Finanzbedarf 
+angeben. Die Darlehen werden bis zu einer maximalen Ge-
+samthöhe von 10 000 Euro vergeben und in monatlichen 
+Raten von 250 oder 500 Euro ausgezahlt. Die Rückzahlung 
+des Darlehens erfolgt spätestens zwei Jahre nach Auszah-
+lung der letzten Rate. 
+7. Stipendien
+7.1 Begabtenförderungswerke
+Begabtenförderungswerke werden durch das Bundes-
+ministerium für Bildung und Forschung finanziert und un-
+terstützen Studierende mit herausragenden Leistungen 
+finanziell und ideell. In Deutschland gibt es 13 solcher In-
+stitutionen, die Stipendien an Studierende und Promovie-
+rende vergeben. Überdurchschnittliche Leistungen sind 
+bei der Bewerbung genauso wichtig wie gesellschaftliches 
+oder soziales Engagement. Die Begabtenförderungswerke 
+spiegeln die Pluralität der Gesellschaft wider. Es gibt religiös 
+und politisch orientierte Begabtenförderungswerke, ein un-
+ternehmerisch und ein gewerkschaftlich orientiertes sowie 
+ein weltanschaulich, konfessionell und politisch unabhängi-
+ges Werk. Die 13 Begabtenförderungswerke sind in alpha-
+betischer Reihenfolge: 
+ 
+n Avicenna-Studienwerk
+ 
+n Cusanuswerk e. 
+V.
+ 
+n Ernst Ludwig Ehrlich Studienwerk
+ 
+n Evangelisches Studienwerk e.V. Villigst
+ 
+n Friedrich Ebert Stiftung
+ 
+n Friedrich Naumann Stiftung für die Freiheit
+ 
+n Hanns-Seidel-Stiftung
+ 
+n Hans-Böckler-Stiftung
+ 
+n Heinrich-Böll-Stiftung
+ 
+n Konrad-Adenauer-Stiftung
+ 
+n Rosa-Luxemburg-Stiftung
+ 
+n Stiftung der Deutschen Wirtschaft
+ 
+n Studienstiftung des deutschen Volkes
+
+[Page 16]
+30
+31
+Weitere Informationen zu den Angeboten der 13 Begab-
+tenförderungswerke für Studierende und Promovierende 
+sowie Links zu den Seiten der einzelnen Werken finden 
+Sie unter:
+stipendiumplus.de
+Informationen
+Charta „Familie in der Hochschule“
+1. Das Netzwerk
+Seit September 2016 ist die KU Mitglied der Initiative „Fa-
+milie in der Hochschule e.V.“. Damit geht sie die Verpfl-
+lichtung ein, die Vereinbarkeit von Familie und Studium/
+Beruf sicherzustellen und stetig weiter voranzutreiben. Das 
+Netzwerk verschiedener 
+Hochschulen funktioniert 
+als Best-Practice-Club. 
+Es bietet die Möglich-
+keit, Erfahrungen auszu-
+tauschen und so Stan-
+dards für mehr Familienfreundlichkeit zu entwickeln. Die 
+Charta „Familie in der Hochschule“ orientiert sich an den 
+Bedürfnissen von Studierenden, Mitarbeitenden, Lehren-
+den und Forschenden. Sie erstreckt sich auf alle Bereiche 
+des Hochschullebens: Führung und Betreuung, Forschung, 
+Studien- und Arbeitsbedingungen, Gesundheitsförderung, 
+Infrastruktur und Vernetzung. Die teilnehmenden Hoch-
+schulen verpflichten sich freiwillig, diese Bereiche familien-
+freundlicher zu gestalten.
+bei unterstützt, ein gutes Leben in und mit Familien in allen Le-
+bens- und Qualifikationsphasen führen zu können. Sie verpflichtet 
+sich, die Vereinbarkeit von Familienverantwortung und Studium/
+Beruf sicherzustellen. Das Zentralinstitut für Ehe und Familie in der 
+Gesellschaft der KU unterstützt und fördert das grundlegende Ziel 
+der Familienfreundlichkeit durch Forschung und Vermittlung in Kir-
+che und Öffentlichkeit.“ 
+Die KU verfolgt im Sinne der Charta folgende Ziele:
+ 
+n Ausweitung und Vertiefung der Beratungs- und Infor-
+mationsangebote sowie kontinuierlicher Austausch 
+mit allen Hochschulangehörigen über familienrele-
+vante Fragen;
+ 
+n Ausbau einer familiengerechten Arbeitsorganisation, 
+insbesondere im Hinblick auf Arbeits-, Studien- und 
+Sitzungszeiten;
+ 
+n Ausbau von Kinderbetreuungsmöglichkeiten;
+ 
+n besonderes Augenmerk auf die Bedürfnisse und Un-
+terstützung von Mitarbeiter/innen und Studierenden, 
+die Angehörige pflegen;
+ 
+n stetiger Ausbau der Infrastruktur für Familien.
+Weitere Informationen finden Sie unter: 
+familie-in-der-hochschule.de
+Informationen
+2. Statement und Ziele der KU
+„Die Katholische Universität Eichstätt-Ingolstadt (KU) übernimmt 
+gesellschaftliche Verantwortung, indem sie alle ihre Mitglieder da-
+Zentralinstitut für Ehe und Familie in der Gesellschaft (ZFG)
+Marktplatz 4
+85072 Eichstätt 
+Tel.: +49 8421 93-21141
+E-Mail: zfg@ku.de
+ku.de/zfg
+ku.de/familienfreundlich
+Kontakt
+Die finanzielle Förderung gestaltet sich bei allen Werken 
+identisch entsprechend der Richtlinien des Bundesministe-
+riums für Forschung, Technologie und Raumfahrt. Studie-
+rende erhalten ein Grundstipendium von bis zu 855 Euro im 
+Monat, die Berechnung erfolgt in Anlehnung an das BAföG. 
+Zusätzlich bekommen die Stipendiaten eine einkommens-
+unabhängige Studienkostenpauschaule in Höhe von 300 
+Euro im Monat. Promovierende erhalten ein monatliches Sti-
+pendium von 1650 Euro im Monat sowie eine Forschungs-
+kostenpauschale in Höhe von 100 Euro. Promovierende mit 
+Kind können zudem einen Familienzuschlag in Höhe von 
+155 Euro im Monat erhalten. Desweiteren wird ihnen eine 
+monatliche Kinderzulage gewährt. Diese beträgt 160 Euro 
+für Studierende. Die finanzielle Förderung wird maximal bis 
+zum Erreichen der Höchstförderungsdauer nach BAföG ge-
+währt. Eine Verlängerung der Förderdauer wegen Schwan-
+gerschaft oder Erziehung eines Kindes richtet sich ebenfalls 
+nach den BAföG-Regelungen. Das Stipendium muss nicht 
+zurückgezahlt werden.
+Die Begabtenförderungswerke fördern ihre Stipendiat/in-
+nen auch ideell. Je nach Stiftung finden sich verschiedens-
+te Bildungsangebote in Form von Seminaren, Workshops, 
+ 
+Ferienakademien und gemeinsamen Projekten. Der fachli-
+che und interdisziplinäre Austausch sowie die Netzwerkbil-
+dung spielen eine wichtige Rolle. Überlegen Sie vor einer 
+Bewerbung, welches Begabtenförderungswerk zu Ihren 
+Überzeugungen und Werteeinstellungen passt. Grundsätz-
+lich können deutsche und EU-europäische Studierende 
+ 
+aller Fachrichtungen gefördert werden, sowie ausländische 
+Studierende, die über eine dauerhafte Aufenthaltsperspek-
+tive im Sinne von § 8 BAföG verfügen. Das Bewerbungsver-
+fahren ist von Stiftung zu Stiftung verschieden, Informatio-
+nen erhalten Sie auf den jeweiligen Internetseiten. 
+
+[Page 17]
+32
+33
+Links zum Studium mit Kind
+Amt für Familie und Jugend 
+beim Landratsamt Eichstätt
+Residenzplatz 1
+85072 Eichstätt
+Tel.: +49 8241 70-123
+E-Mail: jugendamt@lra-ei.bayern.de 
+landkreis-eichstaett.de 
+Caritas Kreisstelle Ingolstadt
+Allgemeine Sozial- und Lebensberatung
+Jesuitenstr. 4 
+85049 Ingolstadt
+Tel.: +49 841 309-128
+Erziehungs- und Familienberatung Eichstätt
+Ostenstr. 31a
+85072 Eichstätt
+Tel: +49 8421 8565
+E-Mail: erziehungsberatung@caritas-eichstaett.de
+Katholische Beratungsstelle 
+für Schwangerschaftsfragen
+Schrannenstr. 1a
+85049 Ingolstadt
+Tel.: +49 841 93755-0
+E-Mail: schwangerenberatung@skf-ingolstadt.de
+skf-ingolstadt.de 
+Beratungsstellen
+Koordinierende Kinderschutzstelle (KoKi)
+Landratsamt Eichstätt
+Residenzplatz 2
+85072 Eichstätt
+Tel.: +49 8421 70-396
+E-Mail: koki@lra-ei.bayern.de
+landkreis-eichstaett.de
+Psychologische Beratungsstelle für 
+Ehe-, Familien- und Lebensberatung 
+Kanalstr. 16-18
+85049 Ingolstadt
+Tel.: +49 841 93151811
+E-Mail: efl.ingolstadt@bistum-eichstaett.de 
+Staatlich anerkannte Beratungsstelle für 
+Schwangerschaftsfragen
+Grabmannstraße 2
+85072 Eichstätt 
+Tel.: +49 8421 70-521
+E-Mail: schwangerschaftsberatung@lra-ei.bayern.de
+VAMV - Verband alleinerziehender Mütter und Väter
+Hasenheide 70
+10967 Berlin
+Tel.: +49 30 6959786
+E-Mail: kontakt@vamv.de
+vamv.de
+Seite des Bayerischen Staatsministeriums für Familie, Ar-
+beit und Soziales zu allen Themen rund um die Schwan-
+gerschaft:
+schwanger-in-bayern.de
+Seite des Bundesministeriums für Bildung, Familie, Se-
+nioren, Frauen und Jugend zum Thema „Schwanger-
+schaft“:
+bmbfsfj.bund.de/bmbfsfj/themen/familie/schwan-
+gerschaft-und-kinderwunsch
+Internetauftritt der Bundeszentrale für gesundheitliche 
+Aufklärung (BZgA):
+familienplanung.de
+Schwangerschaft
+Seite des Bayerischen Landesjugendamtes mit wertvol-
+len Tipps und Einsichten in die verschiedenen Entwick-
+lungsphasen Ihres Kindes:
+elternimnetz.de/elternbriefe
+Seiten des Bundesministerium für Bildung, Famiilie, Se-
+nioren, Frauen und Jugend:
+bmfsfj.de
+familienportal.de
+Seite des „Zentrum Bayern Familie und Soziales“ des 
+Bayerischen Sozialministeriums:
+zbfs.bayern.de
+Seite des Bayerischen Staatsministeriums für Familie, 
+Arbeit und Soziales:
+stmas.bayern.de/familie.php
+Kind und Familie
+Ausführliche Seite des Studierendenwerks Gießen:
+kind-und-studium.de
+Infoseite des Deutschen Studierendenwerks
+studierendenwerke.de/themen/studieren-mit-familie
+Infoseite zum Auslandsstudium mit Kind:
+auslandsstudium-mit-kind.de
+Studieren mit Kind
+
+[Page 18]
+34
+IMPRESSUM
+Herausgeber: Katholische Universität Eichstätt-Ingolstadt
+Redaktion: ZFG, Stabsabteilung Kommunikation und Marketing
+Gestaltung: Stabsabteilung Kommunikation und Marketing
+Fotos: Katholische Universität Eichstätt-Ingolstadt, Colourbox.de, Flaticon.com
+Stand: Mai 2026

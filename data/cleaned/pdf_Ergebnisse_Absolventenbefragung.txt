@@ -1,0 +1,389 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Ergebnisse_Absolventenbefragung.pdf
+TITLE: Ergebnisse_Absolventenbefragung.pdf
+SOURCE_FILE: Ergebnisse_Absolventenbefragung.pdf
+------------------------------------------------------------
+
+[Page 1]
+Befragung zum Werdegang der Studierenden des 
+BA Lateinamerikastudien 
+Durchführung Februar – April 2017 
+Publikation Mai 2017 
+
+[Page 2]
+Inhalt 
+I.
+Zentrale Ergebnisse 
+II.
+Masterstudium 
+III.
+Aktuelle Lebenssituation & Berufseinstieg 
+IV.
+Informationen zur Befragung 
+ 
+ 
+
+[Page 3]
+I. Zentrale Ergebnisse 
+ 
+| Bachelor- & Masterstudium 
+•
+Mehr als 70 % der Absolventinnen und Absolventen absolviert/e nach dem 
+BA Lateinamerikastudien einen Masterstudiengang. 
+ 
+•
+Über 30 % der Alumni entschieden sich für einen Masterstudiengang im Bereich der 
+Lateinamerikastudien. Politikwissenschaft (mit Int. Beziehungen) sowie Friedens- und 
+Konfliktforschung sind auf Platz 2. der meistgewählten Studiengänge. 
+ 
+•
+Eine Aufstellung der gewählten Studiengänge geordnet nach Universitäten findet sich 
+auf S. 9 -10. 
+ 
+ 
+
+[Page 4]
+| Aktuelle Lebenssituation & Berufseinstieg 
+•
+Der Großteil der Alumni ist entweder in einem regulären Beschäftigungsverhältnis 
+(55 %) oder studiert gerade (32 %). Lediglich eine Person gab an arbeitslos zu sein. 
+ 
+•
+Der Übergang von einem Studium in den Geistes- und Sozialwissenschaften in die 
+berufliche Praxis verläuft in vielen Fällen nicht ganz reibungslos. Trotzdem zeigt sich, 
+dass den Absolventinnen und Absolventen des BA Lateinamerikastudien in vielen 
+Fällen der Übergang gut gelingt. 
+ 
+•
+Nahezu 2/3 der Alumni findet innerhalb von drei Monaten eine bezahlte 
+Beschäftigung. Nach maximal sechs Monaten sind knapp 90 % der Absolventinnen 
+und Absolventen in einer bezahlten Beschäftigung angekommen. 
+ 
+ 
+
+[Page 5]
+| Aktuelle berufliche Situation & Wege und Erfolgsfaktoren der Stellensuche 
+•
+Der BA Lateinamerikastudien qualifiziert für ein breites Spektrum von Berufsfeldern. 
+Als drei Hauptberufsfelder lassen sich Industrie & Handel (35,5 %), Wissenschaft und 
+Bildungseinrichtungen (29 %) und die Entwicklungszusammenarbeit (16,1%) 
+ausmachen. Außerdem sind die Alumni im internationalen Austausch (9,61 %), 
+politischen Stiftungen (3,2 %) sowie Medien und Verlage (3,2 %) tätig. 
+ 
+•
+Die Bewerbung auf ausgeschriebene Stellen, Kontakte über Praktika, Initativ- 
+bewerbungen sowie Nebentätigkeiten vor, während oder nach dem Studium wurden 
+am häufigsten als Weg zur erfolgreichen Stellensuche genannt. 
+ 
+•
+Berufliche Erfahrungen, Persönlichkeit, Auslandserfahrungen und Fremdsprachen-
+kenntnisse spielten für die Alumni die größte Rolle um bei der ersten Stellensuche 
+erfolgreich zu sein. Weiterhin waren auch Sozialkompetenzen, interdisziplinäre 
+Kompetenzen und eigene Beziehungen von zentraler Bedeutung. 
+ 
+ 
+ 
+ 
+
+[Page 6]
+II. Masterstudium 
+
+[Page 7]
+| Mehr als 70 % der Absolventinnen und Absolventen absolviert nach dem BA 
+ Lateinamerikastudien einen Masterstudiengang 
+1. Ja 
+71% 
+2. Nein 
+29% 
+Masterstudium 
+
+[Page 8]
+| Über 30 % der Alumni entschieden sich für einen Masterstudiengang im Bereich der 
+ Lateinamerikastudien. Politikwissenschaft (mit Int. Beziehungen) sowie Friedens- 
+ und Konfliktforschung sind auf Platz 2. der meistgewählten Studiengänge 
+0% 
+5% 
+10% 
+15% 
+20% 
+25% 
+30% 
+35% 
+40% LateinamerikastudienPolitikwissenschaft Friedens-und KonfliktforschungDevelopment StudiesGeographieRomanistikInterkulturelle KommunikationKulturwissenschaftÖkonomie & BWLGlobal HistoryDeutsch als Fremdsprache 
+Masterstudiengänge 
+
+[Page 9]
+Überblick | Ausgewählte Hochschulen & Studiengänge 
+Hochschulen 
+Studienfach 
+Alice Salomon Hochschule Berlin 
+M.A. Intercultural Conflict Management 
+Freie Universität Berlin 
+M.A. Interdisziplinäre Lateinamerikastudien 
+Technische Universität Chemnitz 
+M.A. Interkulturelle Kommunikation und Kompetenz 
+Universidad de Cordoba (Spanien) 
+M.A. Friedens- und Konfliktforschung 
+KU Eichstätt-Ingolstadt 
+M.A. Internationale Beziehungen; M.A. Deutsch als 
+Fremdsprache und Hispanistik; M.A. 
+Hispanistik/Kunstgeschichte/Philosophie 
+Zeppelin Universität Friedrichshafen 
+M.A. Politics & Public Management 
+Georg-August Universität Göttingen 
+M.A. Romanistik, Schwerpunkt Sprachwissenschaft 
+Universität Greifswald 
+M.A. Nachhaltigkeitsgeographie 
+Ruprecht-Karls-Universität Heidelberg 
+M.A. Global History 
+Univerzita Karlova (Tschechien) 
+M.A. Iberoamerikanistik 
+
+[Page 10]
+Überblick II | Ausgewählte Hochschulen & Studiengänge 
+Hochschulen 
+Studienfach 
+Universität zu Köln 
+M.A. Politikwissenschaft; M.A. Regionalstudien 
+Lateinamerika 
+Technische Universität Kaiserslautern 
+M.A. Ökonomie & Management; M.A. Nachhaltige 
+Entwicklungszusammenarbeit 
+Universität Leipzig 
+M.A. Romanische Studien 
+Philipps-Universität-Marburg 
+ 
+M.A. Frieden & Konfliktforschung, M.A. International 
+Development Studies 
+Hochschule für Angewandte Sprachen München 
+M.A. Interkulturelle Kommunikation und Moderation 
+Munich Business School 
+M.A. Business Administration 
+Universität Passau 
+M.A. North and Latin American Studies 
+Universität des Saarlandes 
+M.A. Angewandte Kulturwissenschaften 
+Universität Tübingen 
+M.A. Humangeographie - Global Studies 
+
+[Page 11]
+II. Aktuelle Lebenssituation & Berufseinstieg 
+
+[Page 12]
+| Der Großteil der Alumni ist entweder in einem regulären Beschäftigungsverhältnis 
+ (55 %) oder studiert gerade (32 %). Lediglich eine Person gab an arbeitslos zu sein 
+ 
+0 % 
+10 % 
+20 % 
+30 % 
+40 % 
+50 % 
+60 % Reguläre abh. BeschäftigungStudiumGelegenheitsjobSelbstständigkeitElternzeitTraineePraktikumPromotionHausfrau/mannFort/WeiterbildungSonstiges Reise/UrlaubArbeitslosigkeit
+Aktuelle Lebenssituation 
+*Bei der Fragestellung war die Mehrfachwahl möglich. Über 60 % der Gelegenheitsjobber studieren 
+gerade. 
+
+[Page 13]
+| Insgesamt gaben 73 % der Befragten an in einem Beschäftigungsverhältnis zu sein 
+ bzw. ein solches zu suchen, knapp 26 % sind noch nicht auf der Suche 
+0% 
+10% 
+20% 
+30% 
+40% 
+50% 
+60% 
+70% 
+In einer 
+Beschäftigung 
+Schon in einer 
+Beschäftigung 
+gewesen, gerade 
+auf der Suche 
+Auf der Suche nach 
+der ersten 
+Beschäftigung 
+Noch nicht auf der 
+Suche 
+Beschäftigungssuche 
+
+[Page 14]
+| Nahezu zwei Drittel der beschäftigten Alumni fanden Ihre erste Beschäftigung in 
+ 0 – 3 Monaten und bei lediglich 11 % dauert/e die Suche länger als 6 Monate 
+0% 
+10% 
+20% 
+30% 
+40% 
+50% 
+60% 
+70% 
+0-3 Monate 
+3-6 Monate 
+6-12 Monate 
+1-2 Jahre 
+mehr als 2 
+Jahre 
+Dauer erste Beschäftigungssuche 
+
+[Page 15]
+| Knapp 80 % der Alumni hatten keine großen Schwierigkeiten bei der ersten 
+ Beschäftigungssuche. Wie bei anderen Studiengängen aus dem Bereich der Geistes- 
+ und Sozialwissenschaften verläuft der Übergang in vielen Fällen nicht ganz reibungslos 
+0% 
+5% 
+10% 
+15% 
+20% 
+25% 
+30% 
+35% 
+40% 
+Überhaupt nicht 
+schwierig 
+Eher nicht 
+schwierig 
+Teils-teils 
+Eher schwierig Sehr schwierig 
+Schwierigkeiten erste Beschäftigungssuche 
+
+[Page 16]
+| Im öffentlichen Bereich und der Privatwirtschaft sind die meisten Alumni beschäftigt 
+Privatwirtschaft 
+39% 
+Öffentlicher 
+Bereich 
+42% 
+Vereine, 
+Verbände, 
+NROs 
+19% 
+Sektor 
+
+[Page 17]
+| Im Außenhandel (23 %), der Entwicklungszusammenarbeit (16 %), der Wissenschaft 
+ (16%) und Bildungseinrichtungen (13 %) sowie der Industrie (13%) sind die meisten 
+ Alumni beschäftigt 
+0% 
+5% 
+10% 
+15% 
+20% 
+25% Außenhandel & HandelEntwicklungszusammenarbeitWissenschaftIndustrieBildungseinrichtungenInternationaler AustauschPolitische StiftungenMedien und VerlageSonstiges
+Bereiche 
+
+[Page 18]
+Überblick | Ausgewählte Arbeitgeber 
+Arbeitgeber (A-I) 
+AGEH e.V. Corporación PODION (Kolumbien) 
+ABUS August Bremicker Söhne KG 
+Agentur für Arbeit 
+Bayern-Fass GmbH 
+Berners Consulting 
+Berufliche Fortbildungszentren der Bayerischen Wirtschaft 
+Comisión de Derechos Humanos del Distrito Federal 
+(Mexiko) 
+DAAD 
+Deutscher Bundestag 
+Deutscher Caritasverband e.V. 
+Deutsche Gesellschaft für Internationale Zusammenarbeit 
+(GIZ) 
+Fraunhofer-Institut für Integrierte Schaltungen 
+Für Sie eg 
+Fundacion Cielo Azul (Ecuador) 
+humedica International Aid 
+ICUnet.AG 
+Internationaler Bund 
+Arbeitgeber (K-Z) 
+Karlshochschule International University 
+Kate Umwelt & Entwicklung 
+KfW Entwicklungsbank 
+Kleene Consulting 
+Katholische Universität Eichstätt-Ingolstadt 
+Medion AG 
+nph Deutschland 
+ONYGO 
+Open Door International e. V. 
+Paolo17 - Spielervermittlung 
+Papaya Tours 
+Philip & Keuntje / Pulse Publishing 
+Pisacane Information Services GmbH 
+Ruprecht-Karls-Universität Heidelberg 
+Saturn Online 
+South American Tours Peru 
+Wirtschafts und Handelsbüro Peru / Tourismus - und 
+Außenhandelsministerium Peru 
+
+[Page 19]
+Tätigkeitsbezeichnung (Pr – Z) 
+Projektkoordination Notfallhilfe 
+Projekt- und Freiwilligenkoordination 
+Projektmanagement 
+Redaktionsleitung & PR Managerin 
+Referentin für Tourismus und Marketing 
+Sales Assistant Overseas 
+Sales Executive 
+Senior Account Executive 
+Studienberatung 
+Studiengangskoordination 
+Trainee der Finanziellen Zusammenarbeit 
+Unternehmensberatung 
+Vertriebsleitung 
+Wissenschaftlicher MitarbeiterIn 
+Überblick | Ausgewählte Tätigkeiten 
+Tätigkeitsbezeichnung (A – Po) 
+Arbeitsvermittlung 
+Assistenz Abteilungsleitung 
+Bildungsbegleitung in Internationalen Freiwilligendiensten 
+Business Research 
+Customer Relations and Training Management 
+Friedensfachkraft und Assistenz der Koordination 
+Institutskoordination 
+Interkulturelle Beratung 
+Junior Online Sales Management 
+Koordinatorin Europäischer Freiwilligendienst 
+Länderreferenz 
+Marketingmanagement 
+Performance Marketing Management 
+Portfoliomanagement Juniorfachkraft 
+
+[Page 20]
+| Die Bewerbung auf ausgeschriebene Stellen, Kontakte über Praktika, Initativ- 
+ bewerbungen sowie Nebentätigkeiten vor, während oder nach dem Studium 
+ wurden am häufigsten als Weg zur erfolgreichen Stellensuche genannt 
+0 
+2 
+4 
+6 
+8 
+10 
+12 
+14 
+16 Bewerbung ausg. Stelle Kontakte über Praktika Initativbewerbung Nebentätigkeit Studien-oder Abschlussarbeit Hilfe Hochschullehrende Hilfe Freunde, KommilitonenHilfe Eltern, VerwandteBundesagentur für Arbeit Jobmesse
+Wege erfolgreiche Stellensuche Nennungen
+*Bei der Fragestellung war die Mehrfachwahl möglich. 
+
+[Page 21]
+| Berufliche Erfahrungen, Persönlichkeit, Auslandserfahrungen und Fremdsprachen- 
+ kenntnisse spielten für die Absolventinnen und Absolventen die größte Rolle um bei der 
+ ersten Stellensuche erfolgreich zu sein 
+0 
+5 
+10 
+15 
+20 
+25 
+30 Berufliche Erfahrungen Persönlichkeit Auslandserfahrungen Fremdsprachenkenntnisse SozialkompetenzenInterdisziplinäre KompetenzenEigene Beziehungen/Netzwerke Fachliche Expertise Pol./soz./gesell.Engagement Abschlussnote Thema der Abschlussarbeit
+Erfolgsfaktoren Nennungen
+*Bei der Fragestellung war die Mehrfachwahl möglich. 
+
+[Page 22]
+IV. Informationen zur Befragung 
+| Durchführungszeitraum Februar – April 2017 
+| Befragte Jahrgänge: WS 2007/8 – WS 2012/13 
+| Anzahl Befragter 90 
+| Rücklauf 53 %, damit relativ verlässliche Aussage über den Lebens- 
+und Karriereweg der Absolventinnen und Absolventen des BA 
+Lateinamerikastudien möglich 
+| Bei Rückfragen zur Befragung wenden Sie sich bitte an die 
+Studiengangskoordination des BA Lateinamerikastudien

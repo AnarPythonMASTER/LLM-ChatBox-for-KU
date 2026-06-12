@@ -1,0 +1,16 @@
+SOURCE_URL: https://www.ku.de/forschung/forschungsprojekte
+TITLE: Forschungsprojekte – KU
+SOURCE_FILE: forschung_forschungsprojekte.html
+------------------------------------------------------------
+
+EU-geförderte Projekte
+Die KU überzeugt mit einem breit gefächerten Spektrum an EU-geförderten Forschungsprojekten. Besonders in den Bereichen Landschaftsökologie und Ökosystemforschung sowie Friedens- und Konfliktforschung, Sprache und Kultur setzt sie innovative Impulse und trägt aktiv zur Lösung aktueller gesellschaftlicher Herausforderungen bei.
+DFG-geförderte Projekte
+Die KU ist in zahlreichen von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekten aktiv und deckt dabei ein breites Spektrum unterschiedlichster Fachbereiche ab. Durch diese Förderung stärkt die KU ihre wissenschaftliche Profilbildung und leistet einen wichtigen Beitrag zur Weiterentwicklung zentraler Forschungsfelder.
+Durch Bund und Land geförderte Projekte
+Auch durch Fördermittel von Bund und Ländern realisiert die KU vielfältige Forschungsprojekte in unterschiedlichen Disziplinen. Diese Unterstützung ermöglicht es, praxisnahe Fragestellungen aufzugreifen, innovative Lösungsansätze zu entwickeln und den Transfer von Wissenschaft in die Gesellschaft gezielt zu stärken.
+Andere Wissenschaftsförderer
+Durch die Förderung weiterer wissenschaftlicher Förderinstitutionen engagiert sich die KU in zukunftsweisenden Forschungsprojekten. Besonders in den Bereichen der gesellschaftlichen Transformation, Sprachwissenschaft, Steuern und Data Science entstehen innovative Ansätze, die teilweise in Kooperation mit anderen Hochschulen interdisziplinäre Perspektiven in besonderem Maße stärken.
+Forschungsprojektdatenbank KU.fordoc
+Publikationsdatenbank KU.edoc
+(Stand April 2026)

@@ -1,0 +1,100 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Journalistik_BA_ab_WS_2025_26.pdf
+TITLE: Studienverlaufsplan_Journalistik_BA_ab_WS_2025_26.pdf
+SOURCE_FILE: Studienverlaufsplan_Journalistik_BA_ab_WS_2025_26.pdf
+------------------------------------------------------------
+
+[Page 1]
+Idealtypischer Studienverlaufsplan Bachelorstudiengang Journalistik 
+Semester 
+1 
+Grundlagen der 
+Journalistik/Kommuni-
+kationswissenschaft 
+[5] 
+Themenfindung, 
+Recherche, 
+Schreiben [10] 
+Einführung in die 
+Politikwissenschaft 
+[5] 
+Wahlpflichtbereich 
+Gesellschaft [5] 
+Schwerpunkt 
+[5] 
+30 
+ECTS-
+Punkte 
+2 
+Journalismus und 
+Mediensysteme [5] 
+KoWi-Wahlpflicht 
+2 aus 3: 
+Medienrezeptions- 
+und Medien-
+wirkungsforschung 
+[5] 
+Audio [5] 
+Social Media 
+Journalism und
+Community [5] 
+Sozialstruktur der 
+Bundesrepublik 
+[5] 
+Schwerpunkt
+[5] 
+30 
+ECTS-
+Punkte 
+3 
+Qualität und Ethik in 
+der öffentlichen 
+Kommunikation [5] 
+Empirische 
+Kommunikations-
+forschung I [5] 
+Data Driven 
+Storytelling [5] 
+Video [5] 
+Medienwerkstatt 
+[10] 
+30 
+ECTS-
+Punkte 
+4 
+Medienrecht [5] 
+Empirische 
+Kommunikations-
+forschung II [5] 
+KoWi-Wahlpflicht 
+2 aus 3: Aktuelle 
+Medienentwicklung 
+oder Ausgewählte 
+Themen [5] 
+Journalistisches 
+Labor [5] 
+Schwerpunkt [5] 
+Studium Pro 
+[5] 
+30 
+ECTS-
+Punkte 
+5 
+Auslandssemester: 
+30 ECTS aus Journalistik/Kommunikationswissenschaft oder Schwerpunkt, 
+davon verpflichtend mindestens 15 ECTS aus Journalistik/Kommunikationswissenschaft 
+30 
+ECTS-
+Punkte 
+6 
+Bachelorarbeit [10] 
+Redaktionelles 
+Pflichtpraktikum [10] 
+Recherche und 
+Verifikation [5] 
+Spezialisierung 
+oder Redaktion 
+und Distribution 
+[5] 
+30 
+ECTS-
+Punkte

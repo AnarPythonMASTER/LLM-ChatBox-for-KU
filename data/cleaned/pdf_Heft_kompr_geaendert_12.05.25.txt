@@ -1,0 +1,2275 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Heft_kompr_geaendert_12.05.25.pdf
+TITLE: Heft_kompr_geaendert_12.05.25.pdf
+SOURCE_FILE: Heft_kompr_geaendert_12.05.25.pdf
+------------------------------------------------------------
+
+[Page 1]
+1
+ Hochschulsport 
+ Sommersemester 2025 
+ Heft 52
+
+[Page 2]
+2
+Inhaltsverzeichnis
+Abkürzungsverzeichnis
+MW 
+ 
+ehemalige Maria-Ward-Turnhalle (Residenzplatz 20, 85072 Eichstätt / hinter der FFW Eichstätt)
+KB 
+ 
+Kellerbühne im Kapuzinerkloster (Kapuzinergasse 2, 85072 Eichstätt)
+USZ 
+ 
+Universitätssportzentrum
+SK 
+ 
+Sportzentrum Seidlkreuz (Dr.-Hans-Hutter-Straße 36)
+Reb 
+ 
+Dreifachsporthalle Rebdorf (Diözesanes Schulzentrum Rebdorf)
+Grußwort der Hochschulleitung................................................................................................
+4
+Vorwort......................................................................................................................................
+5
+Grußwort des Studentischen Konvents....................................................................................
+6/7
+Ansprechpartnerinnen und Ansprechpartner...........................................................................
+9
+Rückblick Sportabzeichenverleihung.......................................................................................
+10
+Rückblick Feuerwerk der Turnkunst / Rückblick Semesterschlusskonzert..........................
+11
+Rückblick Sportpreis................................................................................................................
+12/13
+Rückblick Wintersportwoche....................................................................................................
+14/15
+Rückblick Tanzexamen............................................................................................................
+16/17
+Rückblick Ferienprogramm / AOK Campus Aktion..................................................................
+18
+Rückblick Volleyball Stadtmeisterschaft...................................................................................
+19
+Rückblick Nikolausturnier.........................................................................................................
+20
+Rückblick Bayerischer Hochschulpokal Volleyball...................................................................
+21
+Rückblick Bayerischer Hochschulpokal Basketball..................................................................
+Rückblick Deutsche Hochschulmeisterschaften Schwimmen ................................................
+Rückblick Einblicke in den Schwimmunterricht...................................................................... 
+22
+22
+23
+Rückblick Hallenmasters.........................................................................................................
+24/25
+Termine und Sonderveranstaltungen.......................................................................................
+26/27
+Fitnessraum Eichstätt..............................................................................................................
+28/29
+Programmübersicht Eichstätt..................................................................................................
+28
+Allgemeine Informationen........................................................................................................
+29
+Hochschulsport in Eichstätt......................................................................................................
+30-49
+Programmübersicht Ingolstadt.................................................................................................
+50
+Hochschulsport in Ingolstadt....................................................................................................
+51-58
+Impressum...............................................................................................................................
+59
+
+[Page 3]
+3
+Kursverzeichnis
+Hochschulsportprogramm in Eichstätt
+Hochschulsportprogramm in Ingolstadt
+Akrobatik
+40
+Arnold for everyone*
+34
+Atem & Körperﬂ
+ uss* NEU
+34
+Badminton
+32
+Balanced Movement*
+35
+Ballett
+38
+Balltänze des Rokoko
+39
+Basketball 
+32
+Beachvolleyball
+42
+Boule 
+42
+Brazilian Jiu Jitsu / Grappling
+42
+Choreographie on Heels NEU
+38
+Contemporary Floorwork
+38
+Erste-Hilfe-Kurs 
+43
+Fit in den Tag für MA* 
+41
+Fitness* NEU
+35
+Fitness Workout* 
+35
+Floorball 
+32
+Fußball / Fußball für MA
+32/41
+Handball NEU
+33/43
+HIIT*
+35
+Jane Austen & Bridgerton Dances
+39
+Jonglage NEU
+40
+Kanu
+41
+Klettern
+41
+Klettertreﬀ
+ 
+39
+Kraft-Ausdauer-Zirkel* 
+36
+Korse* NEU
+36
+Langhantelworkout* NEU
+36
+Meditation und Achtsamkeit
+43
+Mindful Pilates* 
+36
+Orientalischer Tanz
+46
+Pawlows Glöckchen
+46
+Quadball 
+46
+Power Step* NEU
+37
+Pranayama* NEU
+41
+Roundnet 
+33
+Schwimmen
+40
+Standard und Latein 
+39
+Stretch & Strength* 
+37 
+Sportabzeichen
+40/41
+Sunset Workout* 
+37
+Taekwondo / Selbstverteidigung
+37
+Tennis 
+47
+Tischtennis
+33
+Tischfussball
+47
+Volleyball
+33
+Völkerball
+34
+Volkstänze NEU
+38
+American Football
+56
+Badminton
+51
+Basketball
+51
+Boxenoxen
+52
+Cheerleading NEU
+53
+Contemporary Dance NEU
+53
+Feldhockey
+56
+Female Hip Hop NEU
+53
+Fit dank Baby*
+56
+Forró 
+52
+Fußball
+51
+Fußball für Frauen
+57
+Handball
+57
+PoleDance / Aerial Hoop
+57
+Rennradgruppe
+57
+Rugby 
+58
+Schwimmen
+54
+Selbstverteidigung
+52
+Softball
+58
+Standard und Latein 
+53
+Taekwondo
+58
+Tennis
+58
+Video Dance NEU
+54
+Volleyball
+51
+Zumba® Fitness* 
+52
+Alle mit * gekennzeichneten Kurse gehören der Kategorie Gesundheit und Fitness an.
+
+[Page 4]
+4
+Liebe Studierende, liebe Mitarbeiterinnen, liebe Mitarbeiter,
+herzlich willkommen zu einem neuen Semester voller sportlicher Herausforderungen und Gemein-
+schaftserlebnisse!
+Sport ist weit mehr als Bewegung – er stärkt Körper und Geist, fördert den Teamgeist und bringt uns 
+in Balance. Gerade in einem anspruchsvollen Studien- und Arbeitsalltag bietet der Hochschulsport an 
+der KU eine wunderbare Möglichkeit, aktiv zu bleiben, Stress abzubauen und neue Energie zu tanken.
+Unser vielfältiges Sportangebot lädt alle ein, sich auszuprobieren, neue Sportarten zu entdecken oder 
+gemeinsam in der Gruppe aktiv zu sein. Ob Teamsport, Fitness, Entspannung oder Outdoor-Aktivi-
+täten – insbesondere im Sommer bietet unsere barocke Stadt im Altmühltal ideale Bedingungen, um 
+sportlich aktiv zu werden. Für jede und jeden ist etwas dabei! Ich ermutige Sie, dieses Angebot zu 
+nutzen, um nicht nur Ihre körperliche Gesundheit, sondern auch Ihr Wohlbeﬁ
+ nden zu fördern.
+Ganz herzlich möchte ich mich an dieser Stelle bei allen beteiligten Mitarbeitenden des Hochschul-
+sports, insbesondere bei der Leitung Frau Gscheidl, bedanken, die es ermöglichen, dass wir ein so 
+breites und vielfältiges Angebot an Sportmöglichkeiten haben.
+Ich wünsche Ihnen allen eine erfolgreiche und gesunde sportliche Saison, geprägt von Fairplay, 
+Teamgeist und persönlichen Erfolgen. Möge der Hochschulsport auch weiterhin ein Ort sein, an dem 
+sich Studierende und Mitarbeitende gleichermaßen wohlfühlen und gemeinsam ihre sportlichen Ziele 
+verfolgen können.
+Prof. Dr. Gabriele Gien
+Präsidentin der KU
+Grußwort der Hochschulleitung
+Sportliche Grüße
+
+[Page 5]
+5
+„Der Weg zum Erfolg ist das Team. Du kannst der beste Spieler der Welt sein, aber wenn du 
+nicht im Team spielst, wirst du nichts erreichen.“
+(Cristiano Ronaldo, Fußballspieler)
+Ob im Sport oder im Berufsleben – Erfolg entsteht nicht im Alleingang. Er ist das Ergebnis der Zusam-
+menarbeit vieler Menschen, die gemeinsam auf ein Ziel hinarbeiten. Nur wenn jeder seine individu-
+ellen Stärken in das Team einbringt und zusammenarbeitet, können wir Herausforderungen meistern 
+und außergewöhnliche Ergebnisse erzielen.
+Ein eindrucksvolles Beispiel für diese Teamleistung war die erste Sportpreisverleihung am Ende des 
+Wintersemesters. Dank der zahlreichen Beiträge der Studierenden und der wertvollen Unterstützung 
+durch unseren Kanzler war dieser Abend ein voller Erfolg. Auch das Sommersemester hält wieder 
+viele spannende Sportmomente an der KU bereit. Ein besonderes Highlight wird sicherlich der Prä-
+sicup sein. Dabei ergeht ein herzliches Dankeschön an unser engagiertes Orga-Team, das sich Jahr 
+für Jahr mit vollem Einsatz für dieses Turnier stark macht! Erstmalig beteiligt sich das Universitäts-
+sportzentrum auch am Uni-Musical „Die Reise der Gefährten“, das im Mai im Stadttheater in Neuburg 
+aufgeführt wird.
+Neben diesen besonderen Projekten möchten wir auch den unermüdlichen Einsatz unserer Übungs-
+leitenden hervorheben, ohne den ein abwechslungsreiches und vielfältiges Hochschulsportprogramm 
+nicht möglich wäre. Wir freuen uns darauf, Sie bei unseren Veranstaltungen im Sommersemester 
+begrüßen zu dürfen und Sie auf Ihrem Weg zu sportlichen Erfolgen zu begleiten.
+Auf ein erfolgreiches Sommersemester 2025, 
+Ihre
+Christina Gscheidl
+Leiterin des Universitätssportzentrums
+Vorwort
+
+[Page 6]
+6
+Grußwort des Studentischen Konvents
+Liebe Kommilitoninnen und Kommilitonen,
+liebe Sportinteressierte,
+in der hektischen Studienzeit ist es besonders wichtig, auf sich selbst und sein Wohlbeﬁ
+ nden zu ach-
+ten. Der Hochschulsport bietet dafür eine hervorragende Gelegenheit, den Kopf freizubekommen und 
+einen Ausgleich zum stressigen Studienalltag zu ﬁ
+ nden. Wir hoﬀ
+ en, dass viele von euch das vielsei-
+tige Angebot nutzen und nicht nur körperlich ﬁ
+ t bleiben, sondern auch als Teil einer aktiven, solidari-
+schen Studiengemeinschaft wachsen. 
+Der Hochschulsport ist ein unverzichtbarer Bestandteil unseres Studierendenlebens - er verbindet 
+uns, fördert den Austausch und bietet zahlreiche Gelegenheiten, neue Kontakte zu knüpfen. Im Som-
+mersemester erwarten euch wieder viele spannende Möglichkeiten, an der frischen Luft aktiv zu wer-
+den. Sei es beim beliebten Fußballturnier des AK Unifußball in Kooperation mit dem Universitätssport-
+zentrum oder bei einer der vielen anderen tollen Sportarten - unser abwechslungsreiches Angebot hat 
+für jeden etwas zu bieten. Werft einfach einen Blick in diese Broschüre, entdeckt, was euch anspricht 
+und probiert Neues aus!
+Wir möchten euch außerdem ermutigen, nicht nur die klassischen Sportarten auszuprobieren, son-
+dern auch alternative Angebote zu entdecken, die euren Horizont erweitern. Yoga zur Entspannung, 
+Tanzkurse für mehr Kreativität oder gemeinsames Klettern und Wandern in der Natur - Sport kann so 
+viel mehr sein, als nur körperliche Betätigung.
+Aktuell entstehen durch den Umbau unserer Sportanlagen neue, moderne und hochqualitative Mög-
+lichkeiten für uns alle. Schon bald könnt ihr diese erstklassigen Einrichtungen nutzen, die eure sport-
+lichen Aktivitäten noch besser unterstützen werden. Bis dahin und darüber hinaus steht der Studen-
+tische Konvent gerne bei Fragen, Anregungen oder Ideen zur Verfügung. Ihr könnt euch jederzeit an 
+uns oder direkt an Frau Gscheidl wenden - wir sind immer für euch da! 
+Nutze die Chance, das Beste aus deinem Studierendenleben zu machen - egal, ob an der Donau 
+oder an der Altmühl. Bleibt aktiv, engagiert euch und genießt die Zeit an unserer Universität.
+
+[Page 7]
+7
+Gemeinsam können wir Großes 
+bewegen!
+Sportliche Grüße
+Euer Studentischer Konvent
+Grußwort des Studentischen Konvents
+
+[Page 8]
+8
+Welcome
+A warm welcome to all of our foreign students. We hope you enjoy your stay here in Eichstätt 
+and Ingolstadt. To make your time here in Germany as pleasant as possible, we want to oﬀ
+ er 
+you the possibility to join the sports programme at our university. Everybody is allowed to go to 
+the courses listed in the following programme. It’s not obligatory and you won’t get any conﬁ
+ r-
+mation or credits. We hope you have a wonderful time here in Germany and would be pleased 
+if you also enjoy the sports programme here at our university!
+ 
+Your sport team
+
+[Page 9]
+9
+Ansprechpartnerinnen und Ansprechpartner
+Universitätssportzentrum 
+(USZ):
+www.ku.de/ppf/sport/hochschulsport
+Leiterin des Universitäts-
+sportzentrums:
+Akad. Rätin
+Christina Gscheidl
+KAP-003
+Kapuzinergasse 2, 85072 Eichstätt
+Tel.: 08421 93-21757 / 21280
+christina.gscheidl@ku.de
+Mitarbeiter:
+Sportlehrkraft
+Lars Heuer
+KAP-005
+Kapuzinergasse 2, 85072 Eichstätt
+Tel.: 08421 93-23316
+lars.heuer@ku.de
+Sekretärin:
+Liane Sonnenburg
+KAP-004
+Kapuzinergasse 2, 85072 Eichstätt
+Tel.: 08421-93-21756
+liane.sonnenburg@ku.de
+Sekretärin:
+Christine Geyer
+KAP-004
+Kapuzinergasse 2, 85072 Eichstätt
+Tel.: 08421-93-21756
+christine.geyer@ku.de
+Sportwart:
+ Martin Schneider
+Studentische Hilfskraft:
+ Hanna Rottler
+KAP-004
+Tel.: 08421-93-21756
+sekretariat-sport@ku.de
+ 
+
+[Page 10]
+10
+Rückblick Sportabzeichenverleihung
+Dieses Jahr fand die Sportabzeichenverleihung im Holzersaal statt. Insgesamt 109 Studierende, 
+Schülerinnen und Schüler sowie Eichstätter Bürgerinnen und Bürger bekamen das Sportabzeichen 
+verliehen. Unser Kanzler, Herr Eckhard Ulmer, überreichte zusammen mit unserem Oberbürger-
+meister, Herrn Josef Grienberger, die Urkunden an die Studierenden. Umrahmt wurde die Veran-
+staltung von Tänzerinnen des Universitätssportzentrums, die zusammen mit Schülerinnen der 5. 
+Klasse des Gabrieli-Gymnasiums einen Tanz einstudiert hatten, sowie Florian Müller am Klavier. 
+Vielen herzlichen Dank an alle Beteiligten für diesen gelungenen Abend!
+
+[Page 11]
+11
+Rückblick Feuerwerk der Turnkunst
+Spektakuläre Show. Ästhetische Bewegungskunst. Weltklasse Akrobatik.
+Das hat das Feuerwerk der Turnkunst auch dieses Jahr wieder mit der Show „GAIA“ erfüllt. Die Stu-
+dierenden, welche das Spektakel bewundern konnten, waren restlos begeistert. Nachdem selbst die 
+Lokalgruppe schon überaus beeindruckend war, steigerte jede Darbietung das Niveau noch weiter: 
+ob Handstandkunst, Duo - Akrobatik, Strapaten, Trapez, Synchron -Trampolin, Schleuderbrett oder 
+akrobatische Tanzchoreograﬁ
+ en - jede bezauberte auf eine neue Art. Vervollständigt wurde das Gan-
+ze durch eine exzellente Livemusik und ein talentiertes Showteam, das zwischen den Darbietungen 
+überleitete. Wir können die nächste Show in einem anderen Jahr kaum erwarten!
+Rückblick Semesterschlusskonzert
+Auch hier war das Sportzentrum vertreten. Die 
+Tanzgruppe Fusion trat mit einer ganz neuen 
+Choreograﬁ
+ e auf und begeisterte das Publikum. 
+Einen weiteren, nicht nur musikalischen, son-
+dern auch tänzerischen Vorgeschmack auf das 
+Musical „Die Reise der Gefährten“ von Andreas 
+Kehr bekamen die Gäste bei der Mondnacht. Vie-
+len Dank an den Fachbereich Musik für die tolle 
+Kooperation. Wir freuen uns schon auf die Auf-
+führungen im Stadttheater Neuburg im Mai. Infos 
+ﬁ
+ nden Sie unter: www.ku.de/musical
+
+[Page 12]
+12
+Rückblick Sportpreis
+Am 06. Februar 2025 fand in der Aula der KU Eichstätt-Ingolstadt die 1. Sportpreisverleihung 2025 
+statt. Auch wenn der Sportpreis im Mittelpunkt stand, spielte auch der olympische Gedanke „ Dabei 
+sein ist alles!“ eine zentrale Rolle. Nur durch die Mitwirkung aller Gruppen war ein kreatives und ab-
+wechslungsreiches Programm möglich, das zu einem gelungenen Abend beitrug. Besonders gratulie-
+ren wir unseren Preisträgern Diversity Dance, HipHop Girls und The Greatest Showman.
+
+[Page 13]
+13
+
+[Page 14]
+14
+Rückblick Wintersportwoche
+Am 17.02.2025 nahmen 35 Lehramtsstudierende der Grund- und Mittelschule an der diesjährigen 
+Wintersportwoche teil. Die Exkursion begann mit dem Ausleihen der Skier. Den ersten Tag verbrachten 
+wir auf der Piste. Einige sammelten ihre ersten Skierfahrungen, während andere an der Verbesserung 
+ihrer Technik arbeiteten. Nach einem gemeinsamen Mittagessen auf der Hütte fuhren wir zur Unter-
+kunft der AWO in Zwiesel. Am Abend stand eine Fitnesseinheit in der Sporthalle des Gymnasiums 
+Zwiesel auf dem Programm. Der Dienstag startete mit einem Biathlon-Training in der Sporthalle der 
+Grund- und Mittelschule Bodenmais. In zwei Gruppen wechselten wir zwischen Armbrust- und Ge-
+wehrschießen sowie Laufwettkämpfen. Dabei erarbeiteten wir spielerische Möglichkeiten, Biathlon in 
+einer Sporthalle umzusetzen, etwa durch Laufparcours mit Zielwerfen. Nach dem Mittagessen folgte 
+eine Einführung ins Eisstockschießen, bei der wir verschiedene Techniken ausprobierten. Den Abend 
+ließen wir entspannt im Erlebnisbad ausklingen – mit Dampfbad, Sauna und Schwimmen. Am Mittwoch 
+stand Skilanglauf auf dem Programm, welches für viele zunächst eine Herausforderung darstellte, am 
+Ende jedoch mit Stolz gemeistert wurde. Am Donnerstag ging es in die Eislaufhalle Regen, in wel-
+cher wir verschiedene Spiele erprobten, darunter Eishockey, Cornhole-Staﬀ
+ eln und Kleine Spiele auf 
+Schlittschuhen. Den Abschluss der Wintersportwoche bildete am Freitag eine Schneewanderung, bei 
+der wir die winterliche Landschaft genossen und die Woche gemeinsam ausklingen ließen. Neben den 
+sportlichen Aktivitäten lag der Fokus darauf, wie Wintersportarten methodisch und kindgerecht in den 
+Schulunterricht integriert werden können. Die Wintersportwoche war eine wertvolle Erfahrung, die viele 
+praxisnahe Impulse für angehende Lehrkräfte bereithielt.
+
+[Page 15]
+15
+Rückblick Wintersportwoche
+
+[Page 16]
+16
+Rückblick Tanzexamen
+Ein unvergesslicher Moment jedes Sportstudierenden ist die Tanzprüfung. Neben der Einzelkür mit 
+Handgerät und einem Kleingruppentanz müssen die Studierenden einen Großgruppentanz präsen-
+tieren. Nach wochenlanger Übung, etlichen Geräteverlusten und Schweißperlen bewiesen sie Stärke 
+und sorgten mit ihren Darbietungen für einen sportlichen Abend! 
+
+[Page 17]
+17
+Rückblick Tanzexamen
+
+[Page 18]
+18
+Rückblick Ferienprogramm
+Auch im Wintersemester 2024/25 war die Studie-
+rendenbetreuung der AOK Bayern wieder mit einer 
+Campusaktion vor Ort. Diesmal auf Grund der Bau-
+stellenarbeiten im Mensagebäude. Die Studierenden 
+erhielten neben Informationen über eine gesunde Er-
+nährung die Möglichkeit an einem Gewinnspiel teilzu-
+nehmen und bekamen vom Studierendenservice der 
+AOK Bayern leckere Couscous und Nudel Cups für 
+den kleinen Hunger zwischendurch.
+Rückblick AOK Campus Aktion
+Am Buß- und Bettag, dem 20. November, erwartete Schülerinnen und Schüler in der Sporthalle 
+des Universitätsportzentrums ein ganz besonderes Ferienprogramm. Unter der Leitung von Lars 
+Heuer hatten Studierende mit viel Engagement und Kreativität eine vielfältige Bewegungslandschaft 
+entworfen, die sowohl sportliche Herausforderungen als auch spaßige Erlebnisse bot. Über ver-
+schiedene Stationen hinweg konnten die Schülerinnen und Schüler ihre Geschicklichkeit, Koordi-
+nation und Ausdauer testen. Vom Klettern über Balancieren bis hin zum Schwingen, Springen und 
+Hangeln war für jedes Kind etwas dabei. Die Studierenden, standen den Kindern dabei als Betreuer 
+zur Seite und gaben ihnen auch die Möglichkeit, ihre eigenen Ideen in die Stationen einzubringen.
+Die strahlenden Gesichter zeigten die Freude, welche die Kinder an den Stationen hatten. Das 
+Ferienprogramm war erneut eine Bereicherung für alle Beteiligten und wir freuen uns, wenn es 
+im kommenden Jahr zu einer Wiederholung mit zahlreichen Schülerinnen und Schülern kommt. 
+
+[Page 19]
+19
+Rückblick Volleyball Stadtmeisterschaft
+Am 28.11.2024 trafen sich wieder neun Mannschaften in den bestens geeigneten Sporthallen der 
+Bereitschaftspolizei, um den Stadtmeister 2024 im Volleyball zu ermitteln. Dieses Turnier wird seit 
+Jahren vom Sportarbeitskreis der Stadt Eichstätt in Kooperation mit der Bereitschaftspolizei und 
+der Katholischen Universität Eichstätt-Ingolstadt veranstaltet. Nach einer Begrüßung durch Michael 
+Kürzinger von der Bereitschaftspolizei und einem Grußwort von KU-Seite durch Christina Gscheidl, 
+Leiterin des Universitätssportzentrums, wurden die Spielpartien der Vorrunde bekannt gegeben. Im 
+Anschluss fanden die Endrunden statt. Um Platz 1 kämpften die Gradausfahrer, VfB and Friends und 
+das Team der KU Eichstätt-Ingolstadt. Dabei setzte sich das Team der KU Eichstätt-Ingolstadt durch. 
+
+[Page 20]
+20
+Rückblick Nikolausturnier
+Auch in diesem Jahr fand das traditionelle Nikolausturnier im Volleyball in der ehemaligen Ma-
+ria-Ward-Halle statt. In festlicher Atmosphäre mit Glühwein und Lebkuchen traten sechs Mann-
+schaften gegeneinander an und lieferten sich spannende Spiele. Den Pokal sicherte sich dieses 
+Mal das Team „Hanna mit ohne h“, gefolgt von den „5 Freunden“ aus Ingolstadt. Den dritten Platz 
+belegte die „Volleybärenbande“. Dank der engagierten Helferinnen und Helfer lief das Turnier rei-
+bungslos ab und sorgte für eine rundum gelungene Veranstaltung. Wir bedanken uns bei allen Teil-
+nehmenden und Zuschauern und freuen uns auf das nächste Jahr!
+
+[Page 21]
+21
+Rückblick Bayerischer Hochschulpokal Volleyball 
+Am 30. Oktober durfte das Volleyball Team der KU in Rosenheim beim bayerischen Hochschulpokal 
+teilnehmen. Der Tag begann früh für uns, da wir eine zweistündige Fahrt bis zum Austragungsort vor 
+uns hatten. Gleich um neun Uhr stand direkt das erste Spiel gegen Deggendorf an, das wir erfolgreich 
+für uns entscheiden konnten. Nach einer Pause und einer Runde als Schiedsgericht trat unser Team 
+im nächsten Spiel schließlich gegen Ingolstadt an - ein mit Spannung erwartetes Derby, das wir mit 
+vollem Einsatz spielten. Das letzte Spiel der Gruppenphase bestritten wir gegen das Team aus Frei-
+sing. Es war ein intensives Match über drei Sätze, bei dem wir alles geben mussten. Die Platzierungs-
+runde führte uns im abschließenden Spiel schließlich gegen das Gastgeber - Team aus Rosenheim. 
+Es entwickelte sich ein spannender und langer Satz, in dem beide Teams ihr Können zeigten. Insge-
+samt war es ein intensiver aber erfolgreicher Tag voller sportlicher Herausforderungen und schöner 
+Begegnungen mit den Teams anderer Universitäten. Am Abend ging der Tag mit einer stimmungsvol-
+len Siegerzeremonie zu Ende - eine rundum gelungene Teilnahme am Bayrischen Hochschulpokal, 
+bei welchem der Sport und der Austausch mit anderen Sportlern im Vordergrund standen. Vielen 
+Dank an den Ausrichter aus Rosenheim. Wir freuen uns schon auf nächstes Jahr!
+
+[Page 22]
+22
+Rückblick Bayerischer Hochschulpokal Basketball
+Die Münchner Olympiahalle wurde vom 22. bis zum 24. November Schauplatz der Deutschen Hoch-
+schulmeisterschaften im Schwimmen 2024. Drei Tage lang nahmen insgesamt 1500 Studierende aus 
+ganz Deutschland an den Meisterschaften teil; darunter auch Anna Zacherl, Studentin der KU. Sie 
+war die erste Schwimmerin der KU, die sich dem Wettbewerb mit den großen Universitäten stellte und 
+sie belegte bei den 100 Metern im Brustschwimmen den 25. Platz von insgesamt 46 Teilnehmern. Ein 
+großer Dank geht an den Zentralen Hochschulsport München für die Ausrichtung der Meisterschaft. 
+ 
+ 
+ 
+ 
+Rückblick Deutsche Hochschulmeisterschaften Schwimmen
+Am 20. November reisten neun Basketballer der KU zum Bayrischen Hochschulpokal Basketball 
+nach Rosenheim. Trotz einer frühen und winterlichen Anreise war das Eichstätter Team, welches aus 
+fünf Männern und vier Frauen bestand, hoch motiviert und voller Vorfreude. Die acht teilnehmenden 
+Mannschaften wurden in zwei Gruppen eingeteilt. Gespielt wurden zwei Halbzeiten jeweils 10 Mi-
+nuten. In der anfänglichen Gruppenphase trafen die Eichstätter auf sehr starke Gegener wie die TH 
+Rosenheim 1, die Universität Freising und die Universität der Bundeswehr Neubiberg. Trotz früher 
+Niederlagen zeigten die KU Baskets einen unermüdlichen Einsatz auf dem Spielfeld und einen gro-
+ßen Teamgeist. Der positive Höhepunkt des Tages war das spannende Spiel um den siebten Platz. 
+In einem intensiven Duell gelang es, Rosenheim zu bezwingen und sich 
+so Platz 7 im Turnier zu sichern. Ingesamt war das Turnier trotz einiger 
+Rückschläge eine wertvolle Erfahrung. Es war ein Tag voller sportlicher 
+Herausforderungen, spannender Spiele und Mannschaftsgeist. Die Bas-
+ketballer der KU bedanken sich herzlich für die Einladung und die gute 
+Organisation.
+
+[Page 23]
+23
+Praktische Einblicke in den Schwimmunterricht
+Als Studierende der Sportdidaktik hatten wir im Wintersemester 2024/25 die besondere Chance, an 
+Schwimmstunden der Grund- und Mittelschule Hohenwart teilzunehmen und die Lehrkräfte aktiv zu 
+unterstützen. Dieser Einblick ermöglichte uns, die Organisation und Durchführung von Schwimmstun-
+den aus nächster Nähe kennenzulernen. Die Schülerinnen und Schüler wurden von den Lehrkräften 
+nach ihren Schwimmfähigkeiten in drei Gruppen aufgeteilt: eine Gruppe von Nichtschwimmern, eine 
+Gruppe mit mittleren Schwimmfähigkeiten und eine Gruppe mit fortgeschrittenen Schwimmern. Un-
+sere Aufgaben wurden von den Lehrkräften individuell abgestimmt. Sie reichten von der Unterstüt-
+zung bei der Wassergewöhnung und den ersten Schwimmbewegungen bis hin zur Anleitung von 
+technischen Übungen für die fortgeschrittenen Kinder. Diese praxisnahen Tätigkeiten eröﬀ
+ neten uns 
+wertvolle Einsichten in die Herausforderungen und Möglichkeiten der Schwimmausbildung an Grund- 
+und Mittelschulen. Insgesamt war die Teilnahme an den Schwimmstunden eine äußerst bereichernde 
+Erfahrung. Sie bot uns die Gelegenheit, unser theoretisches Wissen praktisch anzuwenden und wert-
+volle Erkenntnisse für unsere zukünftige Tätigkeit als Lehrkräfte mitzunehmen. 
+
+[Page 24]
+24
+Rückblick Hallenmasters
+Es war wieder so weit: die Hallenmasters des Sportzentrums und des AK Unifußballs standen an. In 
+diesmal drei, nicht ganz gleich großen Gruppen kämpften die 14 Teams um das Weiterkommen und 
+noch viel mehr mit den Komplexitäten des Turnierbaums. Mit den wilden Coqs trat ein neues Team an. 
+Neben einer Wagenladung lautstarker Fans auf den Rängen verzückten sie die Zuschauerschaft mit 
+schönem Spiel, schnellen Kontern und einem grausamen Ohrwurm bei jedem geschossenen Tor. So 
+war es kein Wunder, dass sie gemeinsam mit Sozpäd United, Skul United, Inter Viel Spaß, den Porno 
+Journos und Stiftung Wadentest direkt in die Finalrunde einzogen. Bangen ums heißersehnte Weiter-
+kommen mussten hingegen die drei Teams, die in der Playoﬀ
+ -Runde die letzten beiden Finaltickets 
+ausspielten. Hier konnten sich Pawlows Hunde und die Geos vor der Legendentruppe der Porno 
+Journos durchsetzen. Diese Legendentruppe musste deshalb in der, an die Vorrunde angeschlosse-
+nen, Hörnchenrunde die legendärsten Waden der Hochschule unter Beweis stellen. Sie absolvierten 
+die mit Abstand meisten Spiele an einem Turniertag. Die Hörnchenrunde sicherten sich hingegen die 
+CORleones, herausgefordert von Even Skuler. Nach einer langen Pause bis zur Finalrunde, war es 
+dann endlich so weit: Eine Woche vor Weihnachten hatte der Fußballgott einige Präsente parat. Die 
+wilden Hähne verpassen knapp gegen Sozpäd United den Abschluss ihres ersten Turniers auf dem 
+Treppchen. In vielen engen, aber souverän gewonnenen Begegnungen, setzten sich schlussendlich 
+Skul United und die Porno Journos durch und zogen in das Finale ein. Und endlich konnte sich die 
+selbsternannte Lügenpresse für viele überzeugende Auftritte in der Vergangenheit belohnen. Mit 0:3 
+ließen sie Skul United an diesem Abend keine Chance und sind die Hallenmasters 2024. Der AK Uni-
+fußball sagt vielen Dank an den Sportbau, die Teams und alle Fans und freut sich auf den, demnächst 
+ Endklassement:
+ 1. Porno Journos
+ 2. Skul United
+ 3. Sozpäd United
+ 4. Die wilden Coqs
+ 5. Pawlows Hunde
+ 6. Stiftung Wadentest
+ 7. Geos
+ 8. Inter Viel Spaß
+ 9. Die CORleones
+10.Even Skuler
+11. Gladiators
+12. Porno Journos Legenden
+13. Roter Stern Eichstätt
+14. Legio Olympia
+
+[Page 25]
+25
+anstehenden, Wiesenpokal und den Präsicup. “Du-kannst-gut-Tore-schießen”-Award, sowie der 
+“Paul-Hies”- Award (Bester Spieler) gingen an Luis Woppmann (Porno Journos). Der “Alicia-Pfeﬀ
+ er”- 
+Award (Beste Flinta*Person) ging an Lina Wittmann (Inter Viel Spaß). Der “David-Schneider”- Award 
+(Beste Torperson) ging an Felix Siegmann (Sozpäd United).
+Rückblick Hallenmasters
+
+[Page 26]
+26
+Termine und Sonderveranstaltungen
+Nähere Informationen bzw. Ausschreibungen siehe Aushänge
+Es kann während des Semesters zu Sperrungen kommen - bitte aktuelle Aushänge beachten!
+BEGINN Übungsbetrieb:
+23. April 2025 
+ 
+Keine Veranstaltungen:
+Do, 01. Mai - Tag der Arbeit
+Do, 29. Mai – Christi Himmelfahrt
+Mo, Di, 09./10. Juni – Pﬁ
+ ngsten 
+Do, 19. Juni – Fronleichnam
+ENDE Übungsbetrieb:
+25. Juli 2025
+„Musical „Die Reise der Gefährten“
+Stadttheater Neuburg
+16. - 18. Mai 2025 
+23. - 25. Mai 2025
+In Kooperation mit dem AK Sport und der Stadt Eichstätt
+„Sportabzeichen-Treﬀ
+ “ 
+Sportanlage Seidlkreuz
+„Sportabzeichen-Verleihung“ 
+Holzersaal
+Beginn: 25. Juni 2025
+jeweils mittwochs
+ab 18.00 Uhr
+18. November 2025 (17.30 Uhr)
+Hochschulmeisterschaft der KU (Fußball Großfeld Turnier)
+„Präsi Cup“ 
+Sportanlage Seidlkreuz
+Donnerstag
+10. Juli 2025
+Fußball Kleinfeldturnier 
+„Wies’n Cup“ 
+Keine Veranstaltung des USZ. Es besteht kein Versicherungs-
+schutz!
+Donnerstag
+07. Mai 2025
+AOK - Die Gesundheitskasse Direktion Ingolstadt 
+„Campusaktion“ 
+Mensa Foyer
+Dienstag
+25. Juni 2025
+
+[Page 27]
+27
+Anmeldung an
+Teilnahme
+Vorbesprechung
+Endspiel
+praesicup@gmail.com
+von 16.04.25 bis 29.04.2025 (12 Uhr)
+Eine nachträgliche Anmeldung ist nicht möglich!
+29.04.2025, 17.30 Uhr, Theke
+10. Juli 2025
+Der Präsi Cup ist ein Turnier des AK Unifußball in Kooperation mit dem Universitätssportzentrum 
+im Sommersemester, bei dem Teams verschiedener Fachgruppen um den Einzug ins Finale beim 
+Hofgartenfest kämpfen. Teamgeist und sportlicher Ehrgeiz stehen hier im Mittelpunkt.
+Der Veranstaltende, die durchführende Institution und deren Mitarbeitende haften lediglich für den 
+verkehrssicheren Zustand der Anlagen und nur insoweit, als sie Vorsatz und grobe Fahrlässigkeit zu 
+vertreten haben. Jede weitere Haftung ist ausgeschlossen. Teilnahmeberechtigt sind Studierende 
+und unmittelbare Hochschulangehörige der KU. Studierende ohne Team dürfen sich auch gerne mel-
+den. Das Orgateam wird versuchen diese dann an die Teams zu vermitteln. 
+Weitere Infos auf der Website: http://www.s414195801.online.de/wordpress/ (+ Instagram /Facebook)
+Termin
+Anmeldung an
+weitere Informationen
+07. Mai 2025 auf der Seminarwiese
+praesicup@gmail.com
+von 01.04.25 bis 16.04.2025
+auf Instagram-Kanal „akunifussball“
+Präsi Cup
+Wies`n Cup
+Termine und Sonderveranstaltungen
+Fußballturnier der bayerischen Hochschulen 
+„Bayerischer Hochschulpokal“ 
+Deggendorf
+Donnerstag
+08. Mai 2025
+In Kooperation mit dem AKS
+„Bayerische Hochschulmeisterschaften im Straßenlauf“ 
+Bamberg 
+Sonntag
+29. Juni 2025
+Nähere Informationen bzw. Ausschreibungen siehe Aushänge
+Der Wiesenpokal ist das erste Fußballturnier des AK Unifußball im Sommersemester, das an ei-
+nem Tag stattﬁ
+ ndet und Spaß sowie Gemeinschaft fördert. Jeder, ob Anfänger oder erfahrener 
+Spieler, kann teilnehmen und seine Leidenschaft für den Sport ausleben!
+
+[Page 28]
+28
+Fitnessraum Eichstätt
+Der Fitnessraum ist im Sommersemester 2025 (23.04.2025-25.07.2025) wie folgt geöﬀ
+ net: 
+09.00 – 22.00 Uhr (Montag – Samstag)
+Eine Anmeldung über die Homepage ist nicht notwendig. Eine Anzahl von mehr als 15 gleichzeitig 
+Trainierenden sollte nicht überschritten werden. Während Veranstaltungen (wie z.B. Ausbildungsstun-
+den) ﬁ
+ ndet kein allgemeiner Übungsbetrieb statt. Daher bitte immer aktuelle Aushänge beachten.
+Verbindliche Einführung in den Fitnessraum für Erstnutzer
+Wie bisher setzt die Nutzung des Fitnessraums die Teilnahme an einer, von einem unserer Übungs-
+leitenden durchgeführten, ca. einstündigen Einführungsveranstaltung voraus. 
+Diese Einführungsveranstaltungen werden in den ersten beiden Semesterwochen zu folgenden Zei-
+ten und nach Voranmeldung stattﬁ
+ nden:
+Donnerstag 24.04.25 von 19.00 - 20.00 Uhr
+Montag 28.04.25, Dienstag 29.04.25 jeweils von 19.00 – 20.00 Uhr 
+Montag 05.05.25, Dienstag 06.05.25, Donnerstag 08.05.25 jeweils von 19.00 – 20.00 Uhr 
+Danach besteht die Möglichkeit, dienstags von 19.00 - 20.00 Uhr einen Einführungskurs zu besuchen. 
+Die Anmeldung zu den Einführungskursen erfolgt über das Anmeldesystem auf der Homepage.
+Anmeldung / Nutzungszeiten
+ C. Gscheidl A. Utz L. Sonnenburg L. Heuer A. Utz 
+ Verantwortliche Aufsicht und Kontrolle Einführungskurse
+
+[Page 29]
+29
+Fitnessraum Eichstätt
+Nutzungsentgelt pro Semester (inkl. vorlesungsfreie Zeit)
+Teilnahmeberechtigung 
+Teilnahmeberechtigt sind ausschließlich unmittelbare Hochschulangehörige der Katholischen Univer-
+sität Eichstätt-Ingolstadt (Studierende, Mitarbeitende und Dozierende). Ruheständler, Familienange-
+hörige und Externe sind nicht teilnahmeberechtigt.
+ 
+Studierende: 
+ 
+ 
+40,00 €
+Übungsleitende: 
+ 
+ 
+35,00 €
+Sportdidaktikstudierende: 
+35,00 €
+Mitarbeitende: 
+ 
+ 
+50,00 €
+Es werden regelmäßig am Eingangsbereich Ausweiskontrollen durchgeführt!
+Berechtigungsausweis (Fitnessraumausweis)
+Für die Nutzung des Fitnessraums ist ein Berechtigungsausweis (Fitnessraumausweis) aus sicher-
+heitsrelevanten Gründen erforderlich. 
+Diesen können Sie im Sportsekretariat zu den folgenden Öﬀ
+ nungszeiten erwerben – vorausgesetzt,
+ 
+ 
+ 
+ 
+Sie haben bereits an einer Einführungsveranstaltung teilgenommen:
+ 
+ 
+ 
+ 
+Montag - Freitag 
+ 
+ 
+ 
+09:15 - 10:00 Uhr
+ 
+ 
+ 
+ 
+Dienstag - Mittwoch 
+ 
+ 14:15 - 15:00 Uhr
+ 
+ 
+ 
+ 
+Bitte bringen Sie beim Beantragen oder Verlängern Folgendes mit:
+ 
+ 
+ 
+ 
+- das Nutzungsentgelt (mit EC-Karte, keine Kreditkarte oder in bar)
+ 
+ 
+ 
+ 
+- ein ausgedrucktes kleines Bild von Ihnen 
+ 
+ 
+ 
+ 
+- Ihren gültigen Studierendenausweis
+Der Ausweis berechtigt zum selbstständigen Training innerhalb der Öﬀ
+ nungszeiten und ist während 
+des Trainings immer in den entsprechend vorgesehenen Kasten zu stecken. Der Ausweis ist bis 11. 
+Oktober 2025 gültig, d.h. auch in der vorlesungsfreien Zeit. 
+
+[Page 30]
+30
+Programmübersicht Eichstätt
+
+[Page 31]
+31
+Die Stiftung Katholische Universität Eichstätt-Ingolstadt, die Katholische Universität Eichstätt-Ingol-
+stadt sowie deren Bedienstete haften für sämtliche Ansprüche nur insoweit, als sie einen Schaden 
+vorsätzlich oder grob fahrlässig verursacht haben. Diese Haftungsbeschränkung gilt nicht für die 
+Verletzung wesentlicher Vertragspﬂ
+ ichten sowie für Schäden aus der Verletzung des Lebens, des 
+Körpers oder der Gesundheit und bei Ansprüchen nach dem Produkthaftungsgesetz oder wegen 
+arglistigen Verhaltens eines Vertragspartners.
+Kein gesetzlicher Versicherungsschutz besteht, wenn bei Sportausübung Dritten ein Personen- oder 
+Sachschaden zugefügt wird. Es wird empfohlen, eine Privathaftpﬂ
+ ichtversicherung abzuschließen. 
+Hinsichtlich der Unfallversicherung gelten die üblichen Bestimmungen für den Hochschulsport.
+Personen, die einer Risikogruppe angehören, wird eine vorherige ärztliche Untersuchung und 
+Beratung empfohlen.
+Haftungsfrage
+Benutzerordnung
+Für die Nutzung der universitären Sportstätten ist die Nutzungsordnung vom 22.03.2018 zu beach-
+ten. Zusätzlich sind die von der Universität und dem Universitätssportzentrum verordneten Hygiene-
+regeln zu befolgen.
+Teilnahmeberechtigt sind ausschließlich unmittelbare Hochschulangehörige der Katholischen Uni-
+versität Eichstätt-Ingolstadt (Studierende, Mitarbeitende und Dozierende) sowie mit gewissen Ein-
+schränkungen – Studierende anderer Hochschulen.
+Ruheständler, Familienangehörige und Externe sind derzeit nicht teilnahmeberechtigt.
+Es werden – mit Ausnahme der Nutzung des Fitnessraums – keine Entgelte verlangt und somit auch 
+keine Berechtigungskarten benötigt.
+Teilnahmeberechtigung und Kursentgelte
+Unfallversicherung
+Vollimmatrikulierte Studierende der KU sind bei allen Veranstaltungen, bei denen ein vom Universi-
+tätssportzentrum (USZ) gestellter Übungsleitender anwesend ist, gegen Unfall versichert (rechtzeiti-
+ge Unfallmeldung erforderlich, einen Link zur Unfallanzeige ﬁ
+ nden Sie auf der Homepage des Sport-
+zentrums unter „Nutzungsordnung“). Bei freier Sportausübung (z.B. bei externen Sportanbietenden 
+oder im freien Training im Fitnessraum) besteht kein gesetzlicher Versicherungsschutz. Ebenfalls kein 
+gesetzlicher Versicherungsschutz besteht bei allen Veranstaltungen des Hochschulsports für nicht 
+studentische Teilnehmende (Mitarbeitende, Dozierende).
+Allgemeine Informationen
+
+[Page 32]
+32
+HOCHSCHULSPORT IN EICHSTÄTT
+Ballsport und Spiele
+Badminton
+Do 
+17.15 - 18.00, MW Freies Spiel
+Do 
+18.15 - 19.00, MW Freies Spiel
+Do 19.15 - 20.00, MW Freies Spiel
+Übungsleiter: Franz Eckstein 
+ 
+ 
+ E-Mail: franz.eckstein@ku.de
+Basketball
+Ihr habt Lust auf ein bisschen Bewegung und Zusammenspiel im Team? Keine Lust mehr auf Fußball? 
+Dann seid ihr hier genau richtig! Wir gestalten unser Basketballtraining so, dass wirklich jede/jeder 
+mitspielen kann und was du noch nicht kannst, wird dir beigebracht. Es gibt keine Unterscheidungen 
+mehr zwischen Training für Anfänger und Fortgeschrittene, da ersteres meistens sehr gut besucht war, 
+aber sich bei letzterem viele nicht getraut haben zu kommen. Deshalb sind ab jetzt die Trainingstermi-
+ne für alle, die Lust haben. Wir freuen uns auf euch!
+Do 
+20.15 - 22.00, MW
+Übungsleiter: 
+Marek Luksch 
+ E-Mail: marek.luksch@stud.ku.de
+Übungsleiter: Leo Krogmann 
+ E-Mail: leo.krogmann@stud.ku.de
+HINWEISE: 
+Bei Fragen können Sie sich per Mail direkt an die Übungsleitenden wenden. 
+Bitte haben Sie immer Ihr gültiges Teilnahmeticket parat! 
+Bitte beachten Sie, dass die Anmeldung WOCHENWEISE 
+dh. jeweils ab ca. 24 Stunden vor Kursbeginn erfolgt.
+Fußball
+Freies Spiel
+Mo 
+19.00 - 21.00, SK
+Übungsleiter: Frank Sticht 
+ E-Mail: frank.sticht@stud.ku.de
+Übungsleiter: Moritz Rumpler 
+ E-Mail: morumpler@googlemail.com
+Floorball
+Die schnellste Teamsportart der Welt – so wird Floorball oft beschrieben. Floorball ist eine Ballsportart, 
+die als eine Art Mischung aus Feld- und Eishockey bezeichnet werden kann. Ziel dieser Mannschafts-
+sportart ist es, mit einem Kunststoﬀ
+ schläger den Ball ins gegnerische Tor zu schießen. Hast Du Lust auf 
+clevere Spielzüge und traumhaft schöne Tore? Dann komm vorbei und spiel mit! Auch Anfängerinnen 
+und Anfänger sind herzlich willkommen, denn der Spaß am Spiel steht im Vordergrund!
+Freies Spiel
+Di 
+18.15 - 20.00, MW
+Übungsleiter: 
+Florian Eben 
+ 
+ 
+ 
+ E-Mail: ﬂ
+ orian.eben@stud.ku.de
+
+[Page 33]
+33
+Roundnet
+Roundnet ist eine Teamsportart, bei der zwei Teams mit je zwei Spielenden um ein rundes Netz 
+spielen. Ziel ist es den Ball so auf das Netz zuschlagen, dass er aus diesem wieder herausspringt. 
+Das andere Team muss dann durch maximal drei Ballberührungen versuchen, sich den Ball ge-
+genseitig zuzuspielen und wieder ins Netz zu schlagen. Es ist schnell zu lernen und macht richtig 
+Laune! 
+Mo 
+20.15 - 22.00, MW Anf. + Fortg.
+Übungsleiter: Johannes Kling 
+ E-Mail:johannes.kling@stud.ku.de
+Übungsleiter: Lorenz Liebel 
+ E-Mail: lorenz.liebel@stud.ku.de
+Tischtennis
+Freies Spiel
+Mo 
+16.15 - 17.00, MW
+Übungsleiter: Franz Eckstein 
+ E-Mail: franz.eckstein@ku.de
+Ballsport und Spiele
+HOCHSCHULSPORT IN EICHSTÄTT
+Volleyball
+Wir bieten auch dieses Sommersemester einen Volleyballkurs an. Grundlegende Regeln und 
+Techniken von einem 6 versus 6 Spiel sind vorausgesetzt. Dies bedeutet, dass es kein Anfänger-
+kurs ist.
+Wir freuen uns auf euch!
+Freies Spiel
+Mo 
+18.15 - 20.00, MW 
+Übungsleiterin: Rosalie Müller E-Mail: rosalie.mueller@stud.ku.de
+Übungsleiterin: Swantje Pregler E-Mail: swantje.pregler@stud.ku.de
+Handball
+Freies Spiel
+Di 
+17.15 - 18.00, MW
+Übungsleiterin: Nadine Heß 
+ 
+ E-Mail: nadine.hess@stud.ku.de
+Übungsleiter: Frederik Pﬂ
+ anz 
+ E-Mail: frederik.pﬂ
+ anz@googlemail.com
+
+[Page 34]
+34
+HOCHSCHULSPORT IN EICHSTÄTT
+Gesundheit und Fitness
+Arnold for everyone
+Dieser Kurs besteht aus einem Krafttraining mit dem Ziel Muskeln am ganzen Körper aufzubauen 
+und zu deﬁ
+ nieren. Aber keine Sorge, ihr werdet nicht wie Arnold Schwarzenegger aussehen. Das 
+Training beginnt mit einer kurzen Cardio-Einheit, die euren Puls hochtreibt und anschließend wird 
+mit verschiedenen Geräten und auch dem eigenen Körpergewicht gezielt an eurer Muskulatur 
+gearbeitet. 
+Do 
+19.15 - 20.00, KB
+Übungsleiterin: Katharina Goßmann E-Mail: katharina.gossmann@ku.de
+Übungsleiterin: Bianca Schreyer E-Mail: bianca.schreyer@ku.de 
+ 
+ 
+ 
+Atem & Körperﬂ
+ uss
+Hast du Lust, deinem Körper und Geist etwas Ruhe zu gönnen? Dann bist du bei uns genau richtig! 
+Bei dieser Übung geht es nicht um ein Fitnessworkout, sondern darum, die Verbindung zwischen 
+Körper und Geist zu stärken und zur inneren Balance zu ﬁ
+ nden. Vorkenntnisse sind nicht erforder-
+lich – jeder ist willkommen. Falls du eine Yogamatte hast, bring sie gerne mit! Wir freuen uns, dich 
+zu sehen.
+Mi 
+16.30 - 17.15, KB 
+Übungsleiter: Yeshe Mazumdar 
+ E-Mail: yeshe.mazumdar@stud.ku.de
+Übungsleiter: 
+Altun Muhammed 
+ 
+ E-Mail: muhammed.altun82@icloud.com
+Übungsleiter: 
+Noah Ruf 
+ E-Mail: noah.ruf@stud.ku.de
+Ballsport und Spiele
+Völkerball
+Das klassische Spiel aus unserer Schulzeit: Wenn ihr Lust habt euch einfach mal wieder mit Bällen 
+zu bewerfen und kurz Dampf ablassen wollt, dann seid ihr genau richtig. Egal ob ihr erfahren oder 
+neu im Völkerball-Game seid, alle dürfen gerne mitmachen.
+Mi 
+17.15 - 18.00, MW 
+Übungsleiterin: Katrin Lehle 
+ 
+ 
+ E-Mail: katrin.lehle@stud.ku.de
+
+[Page 35]
+35
+Balanced Movement
+In diesem Kurs trainieren wir unseren gesamten Core-Bereich durch ﬂ
+ ießende Bewegungen und 
+Übungen aus dem Yoga und Pilates. Damit bringen wir sowohl unseren Körper als auch unseren 
+Geist in eine neue Balance. Freu Dich auf eine Stunde, in der wir unsere Körpermitte kräftigen, unse-
+re Fitness steigern und uns mit Stretching-Elementen entspannen!
+Do 
+18.15 - 19.00, KB + ZOOM 
+Übungsleiterin: Katja Mack 
+ 
+ 
+ 
+ E-Mail: kat.mack@web.de
+Fitness Workout
+Mit einem bunten Mix aus Cardio, Krafttraining und Stretching trainieren wir anhand von abwechs-
+lungsreichen Übungen den gesamten Körper. Wir arbeiten dabei hauptsächlich mit dem eigenen 
+Körpergewicht und steigern so Woche für Woche unsere Ausdauer und Kraft. Egal, ob Anfängerin 
+oder Anfänger, Fortgeschrittene oder Fortgeschrittener – du bist herzlich willkommen
+Di 
+18.15 - 19.00, KB + ZOOM
+Übungsleiterin: Annika Barth E-Mail: annika-barth@gmx.net
+ 
+HOCHSCHULSPORT IN EICHSTÄTT
+Gesundheit und Fitness
+Fitness
+In dem Kurs wird mit dem eigenen Körpergewicht oder mithilfe von Hanteln trainiert. Der Fokus liegt 
+dabei auf einem ausgewogenen Training und wird überwiegend als Zirkeltraining stattﬁ
+ nden. Bitte 
+aus hygienischen Gründen ein Handtuch selbst mitbringen. 
+Mi 
+21.15 - 22.00, KB 
+Übungsleiter: Michael Bräuherr 
+ E-Mail: michael.braeuherr@stud.ku.de
+HIIT - Fitness - Workout zur Musik
+Wir machen ein 25- bis 30-minüƟ
+ ges Fitness-Workout ohne Geräte mit vornehmlich einfachen Kom-
+binaƟ
+ onsübungen wie Mountain Climbers, Squats oder Jumping Jacks. Wie bei einem HIIT üblich, 
+wechseln sich Pausen- und Trainingsintervalle ab - in diesem Kurs allerdings passend zur Musik: 
+Wenn sie ruhiger ist, machen wir Pause, wenn sie anzieht, trainieren wir. Die Workouts konstruiere 
+ich jede Woche neu. Jedes Fitnesslevel ist willkommen.
+Do 
+17.15 - 18.00, KB
+Übungsleiter: Demian Kutzmutz 
+ E-Mail: demian.kutzmutz@stud.ku.de
+
+[Page 36]
+36
+Mindful Pilates
+In diesem Kurs verbessern wir achtsam Flexibilität, Balance und Körperhaltung. Durch ﬂ
+ ießende Be-
+wegungen bauen wir Muskeln auf und lösen Verspannungen. Egal, ob du deine Fitness steigern, 
+Stress abbauen oder eine bessere Verbindung zu deinem Körper aufbauen möchtest – du bist herzlich 
+willkommen!
+Di 
+17.15 - 18.00, KB 
+Übungsleiterin: Annika Barth 
+ 
+ E-Mail: annika-barth@gmx.net.de
+Kraft-Ausdauer-Zirkel
+In einem ca. 90-minütigen Zirkel inklusive Warm-Up und Cool-down trainieren wir den ganzen Körper 
+mit einer guten Mischung aus Kraft und Cardio. Das Ganze ist für Anfängerinnen und Anfänger und 
+Sportskanonen gleichermaßen geeignet; alle trainieren im eigenen Tempo und der Spaß ist natürlich 
+die Hauptsache.
+Mi 
+18.15 - 20.00, MW 
+Übungsleiterin: Katrin Lehle 
+ 
+ E-Mail: katrin.lehle@stud.ku.de
+HOCHSCHULSPORT IN EICHSTÄTT
+Gesundheit und Fitness
+Korce ®
+Das Training mit KORCE® setzt Dein Beweglichkeits-Potential frei und stärkt funktional Deine Kör-
+permitte. Die einzigartigen Bewegungskombinationen fördern darüber hinaus Deine Bewegungs-Ko-
+ordination und Fein-Motorik. Die unverwechselbare Kombination aus Mobility-Flows und Core-Moves 
+erzeugt ein Training mit fast magischen Wirkungen auf Haltung, Bewegung und Selbstbewusstsein.
+Mi 
+18.15 - 19.00, KB + ZOOM
+Übungsleiterin: Carolina Schneider 
+ E-Mail: lina.lechner@yahoo.de
+Langhantelworkout
+Dieses Workout ist für jeden geeignet, der seinen Körper formen, straﬀ
+ en und schützen möchte. Es 
+formt deine Muskeln an den richtigen Stellen.
+Mi 
+17.15 - 18.00, KB 
+Übungsleiterin: Carolina Schneider 
+ 
+ E-Mail: lina.lechner@yahoo.de
+ Übungsleitende gesucht!
+Liebe Freunde des Hochschulsports,einige unserer Übungsleitenden beenden bald ihr Studium und können 
+ 
+ 
+uns nicht mehr als Kursleitende zur Verfügung stehen. Deshalb suchen wir in zahlreichen Sportarten (Fitness, 
+Kampfsport, Ballsport u. a.) immer wieder neue Übungsleitende,die Kurse in Eichstätt oder Ingolstadt anbieten 
+möchten. Interesse? Dann melden Sie sich bei Lars Heuer (lars.heuer@ku.de)
+
+[Page 37]
+37
+Sunset Workout
+Du möchtest deine Ausdauer und Kraft verbessern? Du hast an Gruppentraining Spaß? Du bist dir 
+beim Training alleine nicht sicher, welche Übungen du wählen sollst? Dann komme zu meinem Kurs! 
+Du kannst das Training an dein individuelles Kraft- und Fitnesslevel anpassen. Dich erwarten viele ab-
+wechslungsreiche Übungen, gute Musik und eine motivierte Trainingsleiterin, die sich auf Dich freut.
+Di 
+19.15 - 20.00, KB
+Übungsleiterin: Julia Regn 
+ 
+ 
+E-Mail: juliaregn00@gmail.com
+Gesundheit und Fitness
+HOCHSCHULSPORT IN EICHSTÄTT
+Kampfsport
+Taekwondo / Selbstverteidigung 
+Du hast Lust dich richtig auszupowern und nützliche Techniken zur Selbstverteidigung zu lernen?
+Dann bist du bei uns genau richtig! Wir bieten dir eine porteinheit im Bereich Taekwondo, in welcher 
+du verschiedene Bewegungen aus dem Kampfsport, sowie einfache Techniken zu deiner eigenen 
+Verteidigung lernen kannst. Komm vorbei, wir freuen uns auf dich!
+Mi 19.15 - 20.00, KB
+ 
+Übungsleiterin: Selina Zwick 
+ 
+ E-Mail: selina.zwick@stud.ku.de
+Übungsleiterin: Sophia Brugger E-Mail: sophia.brugger@stud.ku.de
+Stretch & Strength
+Beweglichkeit und Stärke – darum soll es bei diesem Kurs gehen! Aus einer Kom-
+bination von Dehnelementen, Tanz und Faszienkunde und gleichzeitig integrierten 
+Haltepositionen für die Tiefenmuskulatur, wollen wir in diesem Kurs unsere Körper 
+rundum umsorgen. Ich freue mich auf dich!
+Mi 
+20.15 - 21.00, KB + ZOOM
+Übungsleiterin: Katharina Goßmann 
+ E-Mail: katharina.gossmann@ku.de 
+Übungsleiterin: Bianca Schreyer E-Mail: bianca.schreyer@ku.de
+PowerStep
+Lust auf Bewegung, die Spaß macht? Bei PowerStep erwarten dich einfache, aber eﬀ
+ ektive Choreos, 
+die deine Ausdauer, Koordination und Kraft verbessern - ganz ohne Vorerfahrung! In entspannter und 
+ausgelassener Atmosphäre powern wir uns step by step aus und bauen dabei gemeinsam Stress ab. 
+Wir freuen uns über bewegungsbegeisterte Teilnehmerinnen und Teilnehmer und gerne auch Lieder-
+wünsche!
+Mo 
+19.15 - 20.00, KB + ZOOM
+Übungsleiterin: Nina Arbter 
+ 
+ 
+E-Mail: nina.arbter@stud.ku.de
+Übungsleiterin: Stella Ströbele E-Mail: stella.stroebele@stud.ku.de
+
+[Page 38]
+38
+HOCHSCHULSPORT IN EICHSTÄTT
+Tanz
+Contemporary Floorwork
+In diesem Kurs ist jeder willkommen, der noch nie getanzt hat, der die Basics zu Contemp kennenler-
+nen will oder der sich in seinem tänzerischen Können ästhetisch mehr ausdrücken & weiterentwickeln 
+möchte. Wir werden über Stretching und Technikeinheiten zu kleineren Choreograﬁ
+ en übergehen. Ich 
+freue mich sehr diesen zeitgenössischen und freien Tanzstil mit euch zu teilen!
+Mo 
+17.15 - 18.00, KB
+Übungsleiterin: Anna Denicolo 
+ 
+ 
+ E-Mail: anna.denicolo@stud.ku.de
+Ballett 
+In dieser klassischen Ballettstunde trainieren wir gemeinsam unsere Kraft, Ausdauer und Balance. Zu 
+Beginn gibt es ein Aufwärmen an der Stange, gefolgt von Drehungen und Sprüngen im und durch den 
+Raum, sowie einer kleinen gemeinsamen Choreograﬁ
+ e zum Schluss. Wenn du noch keinerlei Tanz- 
+oder Balletterfahrung hast, bist du in diesem Kurs ebenso herzlich willkommen wie diejenigen, die 
+bereits getanzt haben! Ich freu mich auf viele tanzbegeisterte Teilnehmer und Teilnehmerinnen. 
+Mo 
+18.15 - 19.00, KB
+Übungsleiterin: Deborah Gebhardt 
+ 
+ 
+ E-Mail: deborah.gebhardt@stud.ku.de
+Choreographie on Heels
+Dieser Kurs bietet eine Einführung in den High-Heels-Tanzstil, der Eleganz und Körperbewusstsein 
+fördert. Die Teilnehmenden lernen ﬂ
+ ießende Bewegungen, Technik und Choreograﬁ
+ en, die Selbstbe-
+wusstsein stärken. Der Fokus liegt auf Musikalität, Balance und Dynamik. 
+Do 
+21.15 - 22.00, KB
+Übungsleiterin: Anastasiia Paramonova 
+ 
+ E-Mail: anastasiia.paramonova@stud.ku.de
+Kampfsport
+
+[Page 39]
+39
+HOCHSCHULSPORT IN EICHSTÄTT
+Standard und Latein (einmalige Anmeldung ab dem 23.04.2025)
+Im Anfängerinnen- bzw. Anfängerkurs lernt ihr die Grundschritte und einfache Figurenkombinationen 
+für die Tänze Discofox, Chachacha, Rumba, Jive, Samba, Langsamer Walzer, Wiener Walzer und Tan-
+go, die wir im Fortgeschrittenenkurs verfeinern und erwitern. Die Kurse sind für Neueinsteigende oder 
+zur Auﬀ
+ rischung geeignet und für jeden, der Spaß am Tanzen hat Im Special Move Tanzkurs wollen wir 
+gemeinsam mit euch etwas forderndere Tanzschritte, Kombinationen und ein paar einfache Fallﬁ
+ guren 
+lernen und dabei den Spass nicht außer Acht lassen. Gerne gehen wir in diesem Kurs auch auf eure 
+persönlichen Tanzwünsche ein und versuchen diesen gerecht zu werden. 
+Mo 20.15 - 21.00, KB Anf.
+Mo 
+21.15 - 22.00, KB Fortg.
+Di 20.15 - 21.00, KB Bronze
+Di 21.15 - 22.00, KB Special Dancing Moves
+Übungsleiterin: Anna Duden 
+ 
+ 
+ 
+ E-Mail: anna-maria.duden@stud.ku.de
+Übungsleiter: Benedikt Köger E-Mail: benedikt.koeger@stud.ku.de
+Tanz
+Jane Austen & Bridgerton Dances (einmalige Anmeldung ab dem 23.04.2025) 
+Balltänze des Rokoko 
+Jane Austen: Die Zeit nach der Revolution und der Aufstieg Napoleons prägen die Romane von Jane 
+Austen und die Serie „Bridgerton“. Erleben Sie rauschende Feste, elegante Bewegungen und histori-
+sche Tänze. Tauchen Sie ein in eine Welt voller Etikette und leidenschaftlicher Musik.
+Balltänze: Erfreuen Sie sich an einem kleinen Einblick in die leichten Gesellschaftstänze der europäi-
+schen Höfe des 17. und 18. Jahrhunderts. Dies beinhaltet eine spielerische Einführung in das Schritt-
+material des Barock und die abwechslungsreichen Formen und Figuren der Contré Dances sowie eine 
+Einführung in die „Königin der Tänze“: das Menuett. 
+Ein fester Tanzpartner ist nicht nötig. Bitte bringen Sie leichte Tanzbekleidung und -schuhe (keine Stra-
+ßenschuhe) mit. Mindestteilnehmerzahl: 15.
+Termine: Sa 24.05.2025 10.00 - 15.00, KB Jane Austen und Bridgerton Dances 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sa 12.07.2025 10.00 - 15.00, MW Balltänze des Rokoko
+Übungsleiter: Peter Hoﬀ
+ mann 
+ 
+ 
+ 
+ E-Mail: info@barocktanz.com
+Volkstänze
+Dieser Kurs bietet eine Einführung in die vielfältige Welt des slawischen Folkloretanzes. Teilnehmende 
+lernen traditionelle Bewegungsmuster. Neben praktischen Tanzübungen werden kulturelle Hintergrün-
+de, Musik und typische Kostüme thematisiert. Der Kurs ist oﬀ
+ en für alle-unabhängig von Vorerfahrun-
+gen, Geschlecht oder tänzerischem Niveau.
+Do 
+20.15 - 21.00, KB
+Übungsleiterin: Anastasiia Paramonova 
+ E-Mail: anastasiia.paramonova@stud.ku.de
+ 
+
+[Page 40]
+40
+HOCHSCHULSPORT IN EICHSTÄTT
+Individualsportarten und Sonstiges
+Freies Schwimmen Kein Anfängerkurs! / Not for beginners!
+An diesem Kurs dürfen ausschließlich Personen teilnehmen, die bereits sicher schwimmen können 
+(mindestens 100 Meter am Stück im Schwimmerbecken) 
+Mi + Do 
+16.00 - 17.00, BePo-Bad 
+Übungsleiter: Michael Matusch 
+ 
+ E-Mail: michael.matusch@ku.de
+Kanu
+Reservierung im Sportsekretariat: Bitte vorab anrufen (08421/9321204) oder per E-Mail (sekretari-
+at-sport@ku.de). Es besteht kein Versicherungsschutz, da es sich nicht um einen oﬃ
+ ziellen Hochschul-
+sportkurs handelt. Der Transport liegt in der Verantwortung der ausleihenden Person. Die KU und das 
+Sportzentrum übernehmen keine Haftung. Eine Haftungsausschlusserklärung muss vor der Bootsüber-
+nahme schriftlich bestätigt werden. Eine private Haftpﬂ
+ ichtversicherung wird empfohlen.
+Bootsart
+Kaution
+Pro Tag
+Wochenende
+Einsitziges Kajak
+(2 vorhanden)
+Ausweis 
+oder
+50,00 €
+10,00 €
+15,00 €
+Zwei- dreisitziger 
+Kanadier
+(2 vorhanden)
+15,00 €
+25,00 €
+Akrobatik (einmalige Anmeldung ab dem 23.04.25)
+Freies Akrobatiktraining für alle, die Lust haben (mit und ohne Vorkenntnissen). 
+Wir leiten ein freies Training an, bei dem alle das machen können, was sie möchten. Vor allem Anfän-
+gerinnen und Anfänger geben wir Ideen und Impulse, um sich schnell verbessern zu können. Jedes 
+Training beginnt mit einem kurzen Aufwärmen und Dehnen, dann machen wir Akrobatik und enden 
+mit einem kleinen Eigengewichts-Krafttraining. 
+Wir freuen uns auf euch!
+Di 
+20.15 - 22.00, MW
+ 
+ 
+Übungsleiterin: Madita Bach 
+ 
+ E-Mail: madita.bach@stud.ku.de
+Übungsleiterin: Lioba Schweiger 
+ E-Mail: lioba.schweiger@stud.ku.de
+Jonglage
+Was dich erwartet: Ich zeige dir, dass Jonglieren kein Hexenwerk ist. Ob mit den Füßen oder Hän-
+den, für jeden ist etwas dabei. Egal ob du beginnen willst, oder schon länger dabei bist, Objekte in 
+Bewegung zu setzen: Die Kunst des Jonglierens bietet immer einen neuen Anreiz und Erfolgserleb-
+nisse. In der Gruppe kannst du Parterjonglage kennen lernen. Erlebe, wie du nach kurzer Zeit nicht 
+nur 3 Bälle, sondern auch deine Laune steigerst.
+Di 
+16.30 - 17.15, KB
+Übungsleiter: Lukas Metzger 
+ 
+ 
+ E-Mail: lukas.metzger@stud.ku.de
+
+[Page 41]
+41
+HOCHSCHULSPORT IN EICHSTÄTT
+Fußball für Mitarbeitende
+Mo 
+17.15 - 18.00, MW
+Übungsleiter: Franz Eckstein 
+ 
+ 
+ 
+ E-Mail: franz.eckstein@ku.de
+Kurse für Mitarbeitende
+Fit in den Tag
+Für einen guten Start in den Tag bieten wir für alle Mitarbeitenden der KU ein 10-minütiges Fitnesspro-
+gramm, an dem jeder ganz bequem von seinem eigenen Arbeitsplatz aus via ZOOM teilnehmen kann. 
+Sportkleidung ist nicht notwendig. Dieses Angebot ist außerhalb der Arbeitszeit wahrzunehmen und 
+ﬁ
+ ndet nur während des Semesters statt.
+Mi 
+08.00 - 08.10, ZOOM
+Übungsleiterin: Katharina Goßmann 
+ 
+ 
+E-Mail: katharina.gossmann@ku.de
+Sportabzeichen
+Ablegen des Deutschen Sportabzeichens in Kooperation mit dem Arbeitskreis Sport der Stadt 
+Eichstätt und dem BLSV. Anmeldung erforderlich über das Campus-System unter der Anlass-
+nummer: 
+Mi 
+18.00 - 19.30 Uhr, SK (S25-PPF-SPORT-26068.20251.001) 
+Die Sportabzeichentermine 2025:
+25.06.2025 
+Eröﬀ
+ nung SAZ im Unistadion Seidlkreuz
+02.07.2025 
+Leichtathletik Seidlkreuz
+09.07.2025 
+Leichtathletik Seidlkreuz
+16.07.2025 
+Leichtathletik Seidlkreuz
+23.07.2025 
+Schwimmen Freibad
+30.07.2025 
+Radfahren und Ersatztermin Leichtathletik Seidlkreuz
+18.11.2025 (17.30Uhr)
+Sportabzeichenverleihung Holzersaal
+Sportabzeichen für Mitarbeitende
+An diesem Tag werden speziell unsere Mitarbeitenden aufgefordert das Sportabzeichen abzulegen. Geben Sie sich 
+einen Ruck und schauen Sie am Seidlkreuz vorbei! 
+Mi 
+02.07.2025 
+18.00 - 19.30, SK
+Übungsleiterin: Christina Gscheidl 
+ 
+ 
+E-Mail: christina.gscheidl@ku.de
+
+[Page 42]
+42
+HOCHSCHULSPORT IN EICHSTÄTT
+Externe Sportangebote
+Hinweis für externe Sportangebote:
+Neben den Kursen im allgemeinen Hochschulsport bestehen externe Sportangebote.
+ Wir weisen darauf hin, dass bei diesen Veranstaltungen kein Versicherungsschutz besteht, da es sich nicht 
+um oﬃ
+ zielle Kurse des Hochschulsports handelt. 
+Brazilian Jiu Jitsu/Grappling 
+Brazilian Jiu-Jitsu ist ein hochtechnischer Kampfsport, der auch speziell kleineren und schwächeren 
+Menschen ermöglicht, körperlich überlegene Gegner zu kontrollieren und zur Aufgabe zu zwingen. 
+Man kann auf Wettkampfebene trainieren oder um im Selbstverteidigungsfall einen Plan B zu haben. 
+Natürlich kann man auch einfach nur trainieren, weil es viel Spaß macht, man ﬁ
+ tter wird und man etwas 
+für seine Gesundheit und sein Körpergefühl tut. Wir laden Euch ganz herzlich ein, es selbst auszupro-
+bieren. Unser Training gliedert sich in Erwärmung, Fitness, Techniktraining und Sparring (Trainings-
+kämpfe). Spaß, Zufriedenheit und Selbstbewusstsein sind garantiert!
+Mo 17.00 - 18.00, Kindertraining, DJK-Halle
+Mo 18.30 - 20.00, DJK-Halle 
+Mi 18.00 - 19.30, DJK-Halle 
+Do 17.00 - 18.00, Kindertraining, DJK-Halle
+So 10.30 - 12.00, DJK-Halle
+Ansprechpartner: Daniel Romic 
+ 
+ 
+E-Mail: daniel.romic@ku.de
+Beachvolleyball
+Freies Spiel (bis Ende Juli).
+Mo 
+14.00 - 18.00, VfB, Beachvolleyballfeld
+Di 
+15.00 - 18.00, VfB, Beachvolleyballfeld
+Mi 
+15.30 - 18.00, VfB, Beachvolleyballfeld
+Do 
+11.30 - 13.00, 17.00 - 19.00, VfB, Beachvolleyballfeld
+Fr 
+13.00 - 17.00, VfB, Beachvolleyballfeld
+Auf Grund von Sanierungsarbeiten kann es zu zeitweiligen Sperrungen kommen.
+ 
+ 
+Boule 
+Du hast Lust eine neue Sportart zu erlernen und brauchst eine spielerische Ablenkung vom stressigen 
+Alltag? Dann bist du im Boule genau richtig. Wir werden das Legen und Schießen der Kugeln üben 
+und ein paar lockere Spiele spielen. Wenn du Interesse hast, dann melde dich bei mir unter melanie.
+dengel@stud.ku.de damit wir einen Termin ﬁ
+ nden können, an dem alle Zeit haben. Da wir im Hofgarten 
+spielen werden, sind wir zeitlich sehr ﬂ
+ exibel. Mitbringen brauchst du nichts, da wir Boule-Kugeln ha-
+ben, außer du hast noch ein paar alte Kugeln bei dir im Keller herum liegen;) 
+Ansprechpartnerin: Melanie Dengel 
+ 
+ 
+E-Mail: melanie.dengel@stud.ku.de
+
+[Page 43]
+43
+HOCHSCHULSPORT IN EICHSTÄTT
+Externe Sportangebote
+Handball (Kooperation mit der DJK Eichstätt)
+Du hast Interesse am Handball? Suchst nach einer Trainingsmöglichkeit? Oder hast eine Hand-
+ballprüfung an der Uni vor dir? Die Handballabteilung der DJK Eichstätt und sucht ständig nach 
+Neueinsteigenden, Wiedereinsteigenden, Gastspielenden oder Studenierenden, die die Sportart ein-
+fach mal ausprobieren wollen. Auch für das Kinder- und Jugendtraining wird laufend Unterstützung 
+gesucht. Das Trainerteam erhält eine kleine ﬁ
+ nanzielle Gegenleistung. Ein paar Studies sind bei 
+unserem Kindertraining schon dabei und haben dort richtig viel Spaß (und ein kleines Taschengeld)
+Herren 
+Mo + Do 20.00 - 22.00, DJK Halle (Schottenau 24, Eichstätt)
+Damen 
+Mo 
+20.00 - 22.00, Schottenauhalle
+ 
+ 
+Mi 
+ 
+20.00 - 22.00, DJK Halle (Schottenau 24, Eichstätt
+Weitere Informationen ﬁ
+ ndest du auf der Homepage www.handball-eichstaett.de oder auf Instagram/
+Facebook. Fragen oder Anmeldungen bitte an handball@djk-eichstaett.de. Danke!
+Ansprechpartner: DJK Eichstätt 
+ E-Mail: handball@djk-eichstaett.de 
+Erste-Hilfe-Kurs 
+Das Bayerische Rote Kreuz bietet Sportdidaktikstudierenden im Rahmen Ihrer 
+Ausbildung bzw. allen interessierten Studierenden die Möglichkeit, einen Erste-Hil-
+fe-Kurs (9 Unterrichtsstunden / Blockveranstaltung) zu absolvieren.
+Teilnahmegebühr für Studierende liegt pro Kurs bei 65,00€ 
+Termine und Anmeldemodalitäten ﬁ
+ nden Sie auf der Homepage des BRK.
+Ansprechpartnerin: Monika Schmidt E-Mail: bildung@kveichstaett.brk.de
+Meditation und Achtsamkeit für Einsteiger
+Du interessierst dich für das Thema Achtsamkeit und Meditation? Du möchtest nicht nur im stillen Käm-
+merlein sitzen, sondern gemeinsam mit anderen meditieren und dich austauschen? Dann bist du hier 
+genau richtig, wir treﬀ
+ en uns wöchentlich für eine Stunde über der Theke, um gemeinsam zu meditieren 
+und uns auszutauschen. Komm einfach vorbei, du brauchst keine Vorerfahrungen und nichts weiter 
+mitzubringen. Bei Interesse melde dich einfach bei mir per Mail.
+Ansprechpartner: Noah Ruf 
+ 
+ E-Mail: noah.ruf@tutanota.com
+Klettertreﬀ
+ 
+ 
+ 
+ (kein Versicherungsschutz) 
+ 
+Du kannst bereits im Toprope oder Vorstieg sichern und willst andere kletterbegeisterte Studierende 
+kennenlernen? Dann ist dieser Klettertreﬀ
+ perfekt für dich. Hier könnt ihr einfach ohne Kletterpartnerin 
+oder Kletterpartner in die Halle kommen, auf neue Leute treﬀ
+ en und klettern gehen. Hierbei handelt 
+es sich um einen oﬀ
+ enen Klettertreﬀ
+ . Gefordert wird eigenverantwortliches und selbstständiges Klet-
+tern. Zum Bouldern können gerne auch Neulinge kommen. Ein Kletterbetreuender steht euch als 
+Ansprechperson und Seilpartnerin oder Seilpartner zur Verfügung. Für Anfängerinnen und Anfänger 
+wird ein extra Kletterkurs für Studierende angeboten. Weitere Infos ﬁ
+ ndet ihr unter jurabloc.de/studen-
+tenkurse/.
+Mi 
+19.00 - 21.00, JURABLOC, Jurastraße 6, 85132 Schernfeld
+Ansprechpartnerin: Benita Graßl 
+ 
+ E-Mail: benita.grassl@gmx.de
+
+[Page 44]
+44
+
+[Page 45]
+45
+DAV Sektion Eichstätt
+HOCHSCHULSPORT IN EICHSTÄTT
+
+[Page 46]
+46
+HOCHSCHULSPORT IN EICHSTÄTT
+Externe Sportangebote
+Quadball 
+Oft als Mischung aus Handball, Völkerball und Rugby bezeichnet, ist Quadball vor allem eins:
+ein spaßiger Teamsport, wo Zusammenhalt großgeschrieben wird. Wenn du Lust hast, mal eine etwas 
+andere Sportart auszuprobieren, komm gerne vorbei! Egal ob Couchpotato oder Sportskanone, bei 
+uns ﬁ
+ ndet jede Person ihren Platz. Zurzeit spielen wir in der Bayernliga und begrüßen auch ab und an 
+andere Teams aus ganz Deutschland zu Freundschaftsspielen.
+Um auf dem Laufenden zu bleiben, folge uns auch gern auf Instagram (@eichstaett_blizzards) und 
+Facebook.
+Mo 
+18.15 - 19.45, Seminarwiese 
+ 
+ 
+Ansprechpartner: Kevin Kauper 
+ 
+ 
+E-Mail: kauperkevin@gmx.de
+Pawlows Glöckchen Voraussetzung: Teilnahme an den Trainings, Engagement & Einsatz
+Du liebst Tanz, Stunts und Teamspirit? Dann bist du bei uns genau richtig! Als Cheerleading-Team feu-
+ern wir die Pawlows Hunde bei ihren Spielen an - mit unseren Auftritten in den Pausen, genauso wie 
+während des Spiels von der Seitenlinie. Auch neben dem Platz unternehmen wir viel als Glöckchen 
+oder gemeinsam mit den Hunden - bei uns wird Teamgeist großgeschrieben. Leider ist die nächste 
+Aufnahmemöglichkeit erst im Januar, da wir jetzt schon intensiv für die Hallenmasters trainieren. In 
+den try-outs hast du dann die Möglichkeit uns kennenzulernen und daraufhin in ein engagiertes Team 
+einzusteigen. Bei Interesse melde dich gerne bei mir!
+Mi 
+20.15 - 22.00, MW
+Ansprechpartnerin: Melina Wappes 
+ 
+ 
+E-Mail: melina.wappes@stud.ku.de
+Orientalischer Tanz (Orientalische Tanzschule Mia Luna)
+„Bauchtanz“ ist mehr als ein Tanz mit dem Bauch. Die Tanztechnik ist unglaublich vielseitig und interes-
+sant. Das Wort Tanz selbst kommt vom altindischen Sanskrit-Wort TANHA und bedeutet Lebensfreude. 
+Der Orientalische Tanz fördert die Kondition und Koordination, schult das Körpergefühl, löst Verspan-
+nungen, kräftigt die Tiefenmuskulatur, macht Spaß und hält Dich ﬁ
+ t. Darüber hinaus ist der Orientali-
+sche Tanz immer Ausdruck für Lebenskraft, Power und Kreativität. Ein Ideales Training für alle die das 
+Tanzen lieben oder mal etwas Neues ausprobieren wollen.
+Die Kurse für Anfängerinnen und Anfänger starten mit dem Aufbau von Grundkenntnissen. Dabei 
+achten wir auf eine gesunde Körperhaltung, stärken unsere Muskulatur und gewinnen Sicherheit in der 
+Einübung kleiner Tanzkombinationen. Alle Bewegungsabläufe werden in ihre Bestandteile zerlegt und 
+genau erklärt, so dass sie leicht verständlich eingeübt werden können. Vorkenntnisse sind nicht erfor-
+derlich. Bitte bequeme, sportliche Kleidung mitbringen. Im Fortgeschrittenenkurs trainieren wir nach 
+einer Aufwärmphase komplexere Tanztechnik und ganze Choreograﬁ
+ en. Natürlich haben wir auch Stu-
+dententarife.
+Anfänger*innen:
+Mo 
+20.00 - 21.00, Heilig-Geist-Spital (Festsaal), Bahnhofsplatz 3, 85072 Eichstätt
+Fortgeschrittene: 
+Mo 
+18.45 - 19.45, Heilig-Geist-Spital (Festsaal), Bahnhofsplatz 3, 85072 Eichstätt
+Mi 
+18.45 - 19.45, Heilig-Geist-Spital (Festsaal), Bahnhofsplatz 3, 85072 Eichstätt
+Aktuelle Informationen, weitere Kurse: www.mialunatanzt.de 
+Ansprechpartnerin: Sabine Bittlmayer 
+ 
+ 
+E-Mail: mia@mialunatanzt.de 
+
+[Page 47]
+47
+Tennis
+Unterricht für Anfängerinnen und Anfänger und Fortgeschrittene. 
+Kosten: ca. 90 € bis 100 € (für 10 Trainerstunden inkl. Bälle, Platz und Schläger)
+(Der Preis richtet sich nach Uhrzeit der Tennisstunde und Größe der Gruppe)
+Vorbesprechungstermine:
+Mittwoch 23.04.2025 um 18 Uhr in KAP- 017
+Donnerstag 24.04.2025 um 18 Uhr in KAP- 006
+Ansprechpartner: Tobias Glauner 
+ 
+ 
+E-Mail: tobias.glauner@web.de
+HOCHSCHULSPORT IN EICHSTÄTT
+Externe Sportangebote
+Tennisplätze
+Dank der Kooperationsbereitschaft des TC Rot-Weiß Eichstätt ist es möglich, die Tennisplätze des Vereins zu nutzen.
+Es gelten folgende Bedingungen:
+ • 
+Studierende müssen sich im Hallenportal der TCRW-Tennishalle registrieren um buchen zu können. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dies gilt für die Hallenplätze im Winter UND die Außenplätze im Sommer:
+ 
+tennishalle-tcrw@t-online.de
+ • 
+Nur wer sich registriert hat, erhält 
+ 
+a) in der Hallensaison beim Buchen einen PIN, mit dem man in die Halle gelangt.
+ 
+b) im Sommer im Sportsekretariat der Universität Eichstätt-Ingolstadt einen Schlüssel 
+ 
+gegen Kaution für die Freianlage des TC Rot-Weiß.
+ • 
+Preise können auf der Homepage eingesehen werden: 
+ 
+Per Lastschriftverfahren werden die Gebühren für gebuchte Stunden zu Beginn des folgendenden 
+ 
+ Monats eingezogen. Studierende erhalten 15% Ermäßigung. 
+ • 
+Die Hallenordnung und die Allgemeinen Geschäftsbedingungen des TCRW-Eichstätt sind zu befolgen: 
+ siehe Datenschutz/Nutzungsvereinbarung auf der Homepage der TCRW-Halle
+ Wir bitten im Interesse einer längerfristigen Kooperation um genaue Beachtung der oben genannten Benutzungshin-
+weise und möchten uns im Namen der Nutzer beim TC Rot-Weiß für dessen Entgegenkommen sehr herzlich bedanken. 
+
+[Page 48]
+48
+
+[Page 49]
+49
+
+[Page 50]
+50
+Programmübersicht Ingolstadt 
+
+[Page 51]
+51
+HOCHSCHULSPORT IN INGOLSTADT 
+Ballsport und Spiele
+Badminton, Freies Spiel
+Mo 
+18.30 - 20.00, Prof.-Fleischmannhalle, Anf.+Fortg.
+Mo 
+20.00 - 21.30, Prof.-Fleischmannhalle, Anf.+Fortg.
+Mi 
+18.30 - 20.00, Prof.-Fleischmannhalle, Anf.+Fortg.
+Mi 
+20.00 - 21.30, Prof.-Fleischmannhalle, Anf.+Fortg.
+Übungsleiter: Simon Dressler 
+ 
+ E-Mail: simon.dressler1999@gmail.com
+Übungsleiter: Lars Heuer 
+ 
+ E-Mail: lars.heuer@ku.de
+Übungsleiter: Esteban Rios E-Mail: estebanrios1103@gmail.com
+Basketball
+Mo + Mi 18.30 - 20.00, Prof.-Fleischmannhalle, Freies Spiel 
+ 
+ 
+ 
+ 
+ 
+Übungsleiter: Manthan Batavia 
+ E-Mail: mab6800@thi.de
+HINWEISE: 
+Bitte beachten Sie, dass die Anmeldung für die Kurse der KU
+ WOCHENWEISE dh. jeweils ab ca. 24 Stunden vor Kursbeginn erfolgt.
+Fußball
+Do 18.15 - 20.00, Ch. Scheiner-Halle, Freies Spiel
+Übungsleiter: Robin Schott 
+ 
+ E-Mail: robin.schott@stud.ku.de
+Übungsleiter: Robin Fetterer E-Mail: robin.fetterer@stud.ku.de
+ 
+Volleyball 
+Mo 18.30 - 20.00, Prof.-Fleischmannhalle, Freies Spiel 
+Mo 20.00 - 21.30, Prof.-Fleischmannhalle, Freies Spiel 
+Mi 18.30 - 20.00, Prof.-Fleischmannhalle, Freies Spiel
+Mi 20.00 - 21.30, Prof.-Fleischmannhalle, Freies Spiel
+Übungsleiter: Benjamin Böhm E-Mail: boehmbenjamin10@gmail.com
+Übungsleiter: Maximilian Rublik E-Mail: rublikmaximilian@gmail.com
+Beachvolleyball
+Zwei Felder (Spielfelder 11+12) stehen zur Verfügung. Auf Feld 12 wird es stets ein freies Spiel geben. 
+Auf Feld 11 werden 2 vs. 2 Spiele durchgeführt. Sollten sehr viele Studierende anwesend sein, werden 
+die Spielenden und Teams durchgetauscht, so dass jeder zum Zug kommt.
+Di 
+18.00 - 19.00, MTV Beachvolleyball-Anlage Block I 
+Di 
+19.00 - 20.00, MTV Beachvolleyball-Anlage Block II
+Oberschüttweg, 85049 Ingolstadt
+Übungsleiterin: Svenja Griebler 
+ E-Mail: svenja.griebler@stud.ku.de
+
+[Page 52]
+52
+HOCHSCHULSPORT IN INGOLSTADT 
+Gesundheit und Fitness
+Zumba® Fitness
+Zumba ist ein Fitness-Workout mit ganz viel Lebensfreude, das Aerobic und Latino-Musik verbindet. 
+Die heißen latein-amerikanischen Rhythmen werden ergänzt durch internationale Songs und sind ge-
+meinsam die Formel für ein intensives Workout mit leicht erlernbaren Schrittfolgen, das richtig Spaß 
+macht! Für mich persönlich ist Zumba auch eine positive Lebenseinstellung, die ich mit dir teilen möch-
+te. Also lass dich mitreißen, habe Spaß und power dich so richtig aus!
+Di 19.15 - 20.00, Ch. Scheiner-Halle
+Mi 20.00 - 21.00, Prof. Fleischmannhalle 
+ 
+Übungsleiterin: Jule Niehaus 
+ 
+ 
+ 
+E-Mail: julesusanna18@gmail.com
+Tanz
+Kampfsport
+Selbstverteidigung 
+Erlernen von grundsätzlichen Selbstverteidigungstechniken mit mittelmäßig bis hoher sportlicher 
+Belastung.
+Di 17.15 - 18.00, Ch. Scheiner-Halle
+Übungsleiter: Mustafa Solmaz 
+ 
+ 
+E-Mail: mustafa.solmazccc@gmail.com
+Boxen 
+ 
+In diesem Kurs werden grundlegende Techniken des Boxens wie Stellung, Schlag-und bwehrtechni-
+ken vermittelt. Außerdem ﬁ
+ nden Partnerübungen statt, in dem die vermittelten Techniken in der Praxis 
+Einsatz ﬁ
+ nden. Auf Wunsch der Teilnehmer ﬁ
+ nden parallel zu den Partnerübungen auch leichte Spar-
+ringeinheiten statt.
+Di 18.15 - 19.00, Ch. Scheiner-Halle
+Übungsleiter: Mustafa Solmaz 
+ 
+ E-Mail: mustafa.solmazccc@gmail.com 
+Cheerleading 
+Bist du bereit, Energie und Teamgeist an die Universität zu bringen? Mach mit bei unserem neuen 
+Cheer-Dance-Kurs! Dieser dynamische und energiegeladene TanzsƟ
+ l kombiniert kraŌ
+ volle Dance-
+Moves mit Pompons. Egal ob Anfängerin und Anfänger oder mit Erfahrung – alle sind willkommen! 
+Unser Ziel ist es, ein Uni-Cheer-Team zu gründen, das bei Sportevents auŌ
+ riƩ
+ und für SƟ
+ mmung in 
+die Uni sorgt. Sei dabei und let‘s cheer!
+Do 
+20.45 - 21.30, Ch. Scheiner-Halle 
+Übungsleiterin: Alessia Gravili 
+ 
+ E-Mail: alessia.gravili@stud.ku.de
+
+[Page 53]
+53
+HOCHSCHULSPORT IN INGOLSTADT 
+Standard und Latein (einmalige Anmeldung ab dem 23.04.25)
+In diesem Kurs lernen wir die Grundschritte sowie fortgeschrittene Figuren von 3 Tänzen. Diese 
+werden am Anfang des Semesters gemeinsam ausgesucht. Zur Auswahl stehen: Disco Fox, West 
+Coast Swing, Salsa und langsamer Walzer. Der Kurs ist wöchentlich aufeinander aufbauend, eine 
+regelmäßige Teilnahme wird empfohlen.
+ 
+Mo 
+18.15 - 20.00, Ch. Scheiner-Halle
+ 
+Übungsleiter: Julian Haas 
+ 
+ E-Mail: julian.haas@stud.ku.de
+Forró (einmalige Anmeldung ab dem 23.04.25)
+ 
+Forró ist ein leicht zu erlernender Paartanz geeignet für alle, die Freude an Gesellschaft haben 
+und nebenbei ein paar Kalorien verbrennen möchten. Der einfache Grundschritt ermöglicht einen 
+schnellen Einstieg in den Tanz und die schönen Drehﬁ
+ guren verzieren das Ganze und sorgen für Ab-
+wechslung und Spaß! Tanzerfahrung und feste Tanzpartner*innen sind nicht erforderlich. Interesse 
+geweckt? Dann komm einfach vorbei und lass uns zusammen forrozear!
+Di 
+19.30 - 21.30, neue Pestalozzi Turnhalle 
+Übungsleiter: Patrick Dowling 
+ 
+ E-Mail: patrick1996dowling@hotmail.com
+Tanz
+Female Hip Hop 
+ 
+Lust auf coole Choreograﬁ
+ en auf aktuelle Musik mit stilvollen weiblichen Moves? Dann bist du beim 
+Lady Hip Hop genau richtig. Der Kurs ist speziell für die Girls geeignet (Open Level und auch Be-
+ginner Friendly), die Hip Hop, R’n’B oder Commercial Pop Musik mögen und ihre Weiblichkeit und 
+Selbstbewusstsein durch Tanz weiterentwickeln möchten. 
+ 
+Do 
+20.00 - 20.45, Ch. Scheiner-Halle 
+Übungsleiterin: Alessia Gravili 
+ 
+ E-Mail: alessia.gravili@stud.ku.de
+Contemporary Dance 
+ 
+Ein vielseitiger und expressiver Tanzstil, der Elemente von Ballett, moderner Tanzkunst und Impro-
+visation vereint. Der Fokus liegt auf emotionalem Ausdruck, ﬂ
+ ießenden Übergängen und dynami-
+schen Bewegungen, um kraftvolle Geschichten durch den Körper zu erzählen.
+ 
+Di 
+20.45 - 21.30, Ch. Scheiner-Halle 
+Übungsleiterin: Apolline Soler 
+ 
+ E-Mail: apollinesoler@gmail.com
+
+[Page 54]
+54
+ 
+ Übungsleitende gesucht!
+Liebe Freunde des Hochschulsports, einige unserer Übungsleitenden beenden bald ihr Studium 
+und können uns nicht mehr als Kursleitende zur Verfügung stehen. Deshalb suchen wir in zahl-
+reichen Sportarten (Fitness, Kampfsport, Ballsport u. a.) immer wieder neue Übungsleitende, 
+die Kurse in Eichstätt oder Ingolstadt anbieten möchten. Interesse? Dann melden Sie sich bei 
+Lars Heuer (lars.heuer@ku.de)
+Freies Schwimmen Kein Anfängerkurs!/Not for beginners!
+An diesem Kurs dürfen ausschließlich Personen teilnehmen, die bereits sicher schwimmen können 
+(mindestens 100 Meter am Stück im Schwimmerbecken) 
+Di 15.30 - 17.00, Sportbad Ingolstadt
+Übungsleiter: Paul Middelmann 
+ 
+ 
+ E-Mail: paul.middelmann@gmail.com
+Individualsport
+HOCHSCHULSPORT IN INGOLSTADT 
+Video Dance 
+Inspiriert von den ikonischen Choreograﬁ
+ en aus Musikvideos, geht es bei diesem Stil darum, Routinen 
+zu erlernen. Er kombiniert Elemente verschiedener Genres wie Pop, Hip-Hop, Jazz, Girly und Ragga. 
+Wir tanzen zu trendiger Musik.
+ 
+Di 
+20.00 - 20.45, Ch. Scheiner-Halle 
+Übungsleiterin: Apolline Soler 
+ 
+ E-Mail: apolline.soler@gmail.com
+Tanz
+
+[Page 55]
+55
+ZOOM-Kurse
+Es gibt von Montag bis Donnerstag jeweils die Möglichkeit am Hochschulsport ganz 
+bequem von Zuhause aus via ZOOM teilzunehmen. Die Teilnahme ist kostenlos.
+ZOOM-KURSE
+HOCHSCHULSPORT IN INGOLSTADT 
+Mo 18.15 - 19.00, Power Step
+mit Nina & Stella
+Übungsleiterin: Nina Arbter E-Mail: nina.arbter@stud.ku.de
+Übungsleiterin: Stella Ströbele E-Mail: stella.stroebele@stud.ku.de
+ 
+Mi 18.15 - 19.00, Fitness-Workout
+mit Annika
+ 
+Übungsleiterin: Annika Barth E-Mail: annika-barth@gmx.net
+Mi 20.15 - 21.00, Stretch & Strength
+mit Katharina & Bianca
+Übungsleiterin: Katharina Goßmann E-Mail: katharina.gossmann@ku.de
+Übungsleiterin: Bianca Schreyer E-Mail: bianca.schreyer@ku.de
+Do 18.15 - 19.00, Balanced Movement
+mit Katja
+ 
+Übungsleiterin: Katja Mack E-Mail: kat.mack@web.de
+
+[Page 56]
+56
+HOCHSCHULSPORT IN INGOLSTADT
+Hierbei handelt es sich um keine oﬃ
+ ziellen Hochschulsportkurse, 
+sondern um externe Sportangebote von Vereinen, die in der Regel für Studierende 
+eine vergünstigte Teilnahmegebühr anbieten. 
+Seitens der KU besteht kein Versicherungsschutz!
+American Football
+Beim American Football geht es nicht nur um Kraft und Ausdauer. Es geht um Zusammenarbeit, Taktik 
+und Teamgeist. American Football ist der Teamsport, bei dem jeder sich beweisen kann. Egal wie groß, 
+klein, dick oder dünn man ist. Egal wie schnell oder langsam. Jeder ist bei uns herzlich willkommen.
+Trau dich und probiere diesen faszinierenden Sport aus. Schreib uns an oder komme einfach bei ei-
+nem Training vorbei. Normale Sportsachen, Rasen - oder Hallenschuhe und etwas zum Trinken-mehr 
+brauchst du für den Anfang nicht. Wir, die Ingolstadt Dukes, sind ein Team in Ingolstadt und Umgebung.
+Trainingszeiten:
+Winter: Sonntag 14.00 - 17.00 Uhr (Halle)
+Sommer: Mi und Fr 19.30 - 21.30 Uhr (Rasenplatz)
+Mehr Informationen ﬁ
+ ndest du auf unserer Homepage www.dukesingolstadt.de 
+ oder auf Instagram @in_dukes 
+Ansprechpartner: Andre Nuske 
+ E-Mail: info@in-dukes.de
+ 
+ 
+Feldhockey (Kooperation mit SV Haunwöhr) 
+Kostenloses Schnuppertraining jederzeit möglich. Geeignet für Anfänger*innen und Fortgeschrittene. 
+Keine spezielle Ausrüstung erforderlich. Weitere Infos unter: www.hockey-ingolstadt.de
+Herren + Damen 
+Di 20.00 - 21.30, Kunstrasenplatz TSV Nord, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wirﬀ
+ elstraße 25, Ingolstadt
+Ansprechpartnerin: Sophia Carl 
+ 
+ 
+E-Mail: sophia.carl@hockey-ingolstadt.de
+Externe Sportangebote
+Fit dank Baby
+Solltest du schwanger sein oder frischgebackene Mama, dann bist du bei Fitdankbaby Ingolstadt ge-
+nau richtig. Bei Fitdankbaby PRE machen wir ein Fitnesstraining speziell für Schwangere. Fitdankbaby 
+RÜCKBILDUNG ist die Basis für einen gesunden Beckenboden und eine stabile Körpermitte ca. 6-8 
+Wochen nach der Geburt. Bei Fitdankbaby MINI, MAXI, OUTDOOR, AQUA und KIDS ist dein Baby/
+Kleinkind bis 3 Jahre beim Sport dabei und wird entwicklungsspeziﬁ
+ sch gefördert. So brauchst du nicht 
+extra einen Babysitter und kannst trotzdem sportlich aktiv sein. Möchtest du meetime ohne Kind, dann 
+bist du beim Kurs FÜR DICH genau richtig. Dahinter verbirgt sich ein tolles Hula Hoop Workout. Hier 
+kannst du die begehrten Kurse buchen: https://www.ﬁ
+ tdankbaby.de/natalie-wecker.de Für Studierende 
+(gültiger Studentenausweis notwendig) sparst du 20% auf alle Kurse. Bitte bei Buchung den Code 
+STUDENT20 eingeben.
+Ansprechpartnerin: Natalie Wecker 
+ 
+ 
+E-Mail: natalie.wecker@ﬁ
+ tdankbaby.de
+
+[Page 57]
+57
+HOCHSCHULSPORT IN INGOLSTADT
+Handball (Kooperation mit HC Donau/Paar)
+Damen 
+Di 18.30 - 20.00, Richard-Wagner-Str. 65, 85057 Ingolstadt (I/II) 
+I + II 
+Do 18.30 - 20.00, Stieglitzstr. 2, 85077 Manching (I) 
+ 
+ 
+ 
+ 
+Fr 17.00 - 19.00, Martin-Hemm-Straße 2, 85053 Ingolstadt (II)
+Herren Di 20.00 - 21.30, Stieglitzstr. 2, 85077 Manching (I) 
+I + II 
+ 
+ 
+ 
+ bzw. Richard-Wagner-Str. 65, 85057 Ingolstadt (II)
+ 
+ 
+Do 20.00 - 21.30, Richard-Wagner-Str. 65, 85057 Ingolstadt (I) 
+ 
+ 
+ 
+ 
+ 
+ bzw. Feselenstraße 42, 85053 Ingolstadt (II)
+Für weitere Trainingszeiten melden Sie sich bei unserem Ansprechpartner oder besuchen Sie unsere 
+Website unter www.hcdonaupaar.de.
+Ansprechpartner: Michael Rothemund 
+E-Mail:michael.rothemund@hcdonaupaar.de
+Externe Sportangebote
+Poledance / Aerial Hoop
+Du suchst eine neue Herausforderung? Einen Sport, der so richtig Spaß macht? Probier Poledance 
+und/oder Aerial Hoop! Poledance und Aerial Hoop sind die perfekte Mischung aus Tanz, Akrobatik, 
+Kraft-, Ausdauer- und Flexibilitätstraining. Sportarten, die sich nicht wie Sport anfühlen! Die immer neu 
+auftretenden Herausforderungen lassen das Training nie langweilig werden und zeigen zudem, was du 
+alles schaﬀ
+ en kannst. Jede neue Figur und Choreo motivieren und machen stolz, wenn du sie gemeis-
+tert hast. Außerdem macht es einfach unglaublich viel Spaß, verkehrt herum von der Stange/dem Rei-
+fen zu baumeln! Informationen zu Preisen und Anmeldung ﬁ
+ ndest du auf https://www.pole-dream.de/
+Pole Dream – Poledance Ingolstadt+Neuburg, Proviantstr. 5a, 85049 Ingolstadt
+Ansprechpartnerin: Verena Peer 
+ 
+ 
+ 
+E-Mail: oﬃ
+ ce@pole-dream.de
+Rennradgruppe Anf. & Fortg. 
+Unsere Rennradgruppe heißt sowohl Anfänger:innen als auch Fortgeschrittene herzlich willkommen. 
+Wir bieten eine freundliche Umgebung, in der Neulinge die Grundlagen erlernen und Fortgeschritte-
+ne ihre Ausdauer verbessern können. Unsere regelmäßigen Ausfahrten sind ideal, um Ausdauer und 
+Technik zu fördern. Dabei stehen der Spaß und das gemeinschaftliche Erlebnis im Vordergrund. Egal, 
+ob du deine Fitness steigern, neue Freunde ﬁ
+ nden oder einfach die Freude am Rennradfahren entde-
+cken möchtest – bei uns bist du richtig! 
+Di 
+17.30, Auf der Schanz 49, 85049 Ingolstadt (April-Okrober)
+Anmeldung und weitere Informationen unter: https://chat.whatsapp.com/FDyPUf7zmLL1rmcCY1xC8A
+Ansprechpartner: Jannes Marquardt 
+ 
+ 
+E-Mail: jannes.marquardt@ku.de
+Fußball für Frauen (Kooperation mit FC Ingolstadt 04)
+Anmeldung per E-Mail
+Mo 
+19.30 - 21.00, Sportpark Ingolstadt, Am Sportpark 1b, 85053 Ingolstadt
+Mi 
+19.30 - 21.00, Sportpark Ingolstadt, Am Sportpark 1b, 85053 Ingolstadt
+Do 
+19.30 - 21.00, Sportpark Ingolstadt, Am Sportpark 1b, 85053 Ingolstadt
+Ansprechpartnerin: Simone Wagner 
+ 
+ 
+E-Mail: siwa@fcingolstadt.de
+
+[Page 58]
+58
+HOCHSCHULSPORT IN INGOLSTADT
+Externe Sportangebote
+Rugby: Teamgeist – Respekt – Charakter 
+Rugby hat durch seine Einzigartigkeit einen Anreiz wie kein anderer Sport. Teamgeist, Respekt und 
+Fairness haben oberste Priorität, ob neben oder auf dem Spielfeld. Dabei ist diese Sportart für jeden 
+geeignet: Groß oder klein, schnell oder langsam, Schwer- oder Fliegengewicht, es gibt eine Position die 
+genau deiner Anforderung entspricht! Gespielt wird mit einem ovalen Ball, welcher in das sogenannte 
+Malfeld oder Tryzone abgelegt werden muss. Dies gelingt durch geschickte Spielzüge des gesamten 
+Teams! Dabei spielen nicht nur Männer diesen Sport, denn immer mehr Frauen ﬁ
+ nden ebenfalls Freude 
+daran. Wir haben dein Interesse geweckt? Dann schau doch bei uns im Training vorbei.
+Di + Do 19.00 - 21.00, Sportgelände TV 1861 Ingolstadt 
+Treﬀ
+ punkt: 18:45 Uhr vor dem Haupteingang TV 1861 Ingolstadt 
+Info: www.rugby-ingolstadt.de 
+ 
+Facebook: www.facebook.de/rugbyingolstadtbaboons
+Instagram: @rugbyingolstadt 
+Kontakt: info@rugby-ingolstadt.de
+Ansprechpartner: Christoph Weber 
+ 
+ 
+E-Mail: info@rugby-ingolstadt.de
+Faszination Taekwondo - Kunst für Körper und Geist
+Das Black Belt Center Ingolstadt ist seit 1985 die Lehrstätte für traditionelles Taekwondo in Ingolstadt. 
+Interessierte können zu allen Unterrichtseinheiten jederzeit einsteigen, für Schüler*innen und Studie-
+rende gibt es einen Rabatt auf den Monatsbeitrag. Unverbindlicher Probeunterricht ist jederzeit ohne 
+Voranmeldung möglich. http://www.taekwondo-ingolstadt.de/
+Mo-Fr 17.00 - 18.00, 18.15 - 19.15
+Di, Do & Sa 10.30 - 11.30, Black Belt Center Ingolstadt, Münchenerstr. 97a
+ 
+Ansprechpartner: Fritz Flatnitzer 
+ 
+ 
+ 
+E-Mail: info@taekwondo-ingolstadt.de
+Softball
+Alle Mädels aufgepasst!
+Egal ob du schon einmal gespielt hast oder gerade keinen blassen Schimmer hast, was Softball über-
+haupt ist. Bei uns sind neue Gesichter immer herzlich willkommen. Softball ist ein amerikanischer 
+Teamsport, der dem Baseball ähnelt. Kein Problem, wenn du noch nie einen Schläger in der Hand 
+hattest. Das bringen wir dir bei! Wir Mädels vom Ingolstadt Schanzer Softballteam, freuen uns auf dich!
+Wenn du Lust hast, komm uns gerne einfach mal beim Training besuchen.
+Informationen bzgl. Trainingszeiten etc. erhältst du unter www.ingolstadtschanzer.de 
+Anfragen zum Probetraining bitte per Mail an info@ingolstadtschanzer.de
+Ansprechpartner: Matthias Rucker 
+ 
+ 
+E-Mail: info@ingolstadtschanzer.de
+Tennis: Treﬀ
+ punkt “Student’s Tennis Club” & Freies Spiel
+Komm zu unserem wöchentlichen Event “Student’s Tennis Club” auf die Anlage des Segel- und Tenni-
+sclubs Rot-Weiß Ingolstadt! Hier bietet sich dir die perfekte Gelegenheit, sportlich aktiv zu sein, deine 
+Tennisfähigkeiten zu verbessern und neue Leute kennenzulernen. Sehr schön am Baggersee gelegen 
+bieten wir außerdem mit unserem gastronomischem Angebot ein tolles Gesamtpaket, wie ihr auch die 
+Zeit nach eurem anstrengenden Match ausklingen lassen könnt. Selbstverständlich könnt ihr euch 
+auch mit anderen Studierenden ﬂ
+ exibel verabreden, die sich für den „Student’s Tennis Club“ angemel-
+det haben. Ran an den Ball, wir freuen uns auf euch! 
+Kosten: 100 Euro für die Spielberechtigung im kompletten Jahr 2025.
+Do 19.00, Anmeldung: Bei Interesse per E-Mail an Philipp Brenner (sportwart@stcrwin.de)
+Ansprechpartner: Philipp Brenner 
+ 
+ 
+E-Mail: sportwart@stcrwin.de
+
+[Page 59]
+59
+Impressum
+Inhaltliche Verantwortung:
+Christina Gscheidl
+Redaktion:
+Liane Sonnenburg, Lars Heuer
+Fotos u. a. von:
+Dr. Christian Klenk, Hanna Rottler, Lucio Jünemann, Kerstin 
+Kleinhans, Liane Sonnenburg, Mirja Walther, Lena Presche
+Titelbilder:
+DKV / Brigitte Kraußer
+Druck:
+Gemeindebrief Druckerei
+1. Auﬂ
+ age:
+300 Stück
+Unsere Homepage: http://www.ku.de/ppf/sport/hochschulsport
+Wir freuen uns auf Ihre Meinung, Kritik, Vorschläge, etc. per Mail an: hochschulsport@ku.de
+Wir danken unserem Sponsor, der:
+AOK - Die Gesundheitskasse 
+Direktion Ingolstadt
+„Partner des Hochschulsports“
+Studentischer Konvent 
+der KU Eichstätt-Ingolstadt
+Allen Förderern ein herzliches Dankeschön
+sowie unseren Inserenten für die ﬁ
+ nanzielle Unterstützung:
+Dom-Apotheke Eichstätt
+Lifepark Ingolstadt
+Schnellers Backstub`n
+Optik Koller
+Boote Glas 
+Stadtwerke Eichstätt
+Friseur Rudloff
+Metzgerei Schneider Eichstätt
+Xterno Bikes
+
+[Page 60]
+60

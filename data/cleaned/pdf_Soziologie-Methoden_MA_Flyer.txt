@@ -1,0 +1,183 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Soziologie-Methoden_MA_Flyer.pdf
+TITLE: Soziologie-Methoden_MA_Flyer.pdf
+SOURCE_FILE: Soziologie-Methoden_MA_Flyer.pdf
+------------------------------------------------------------
+
+[Page 1]
+Interdisziplinärer Masterstudiengang 
+Soziologie mit Schwerpunkt 
+Methoden der empirischen 
+Sozialforschung und Statistik
+Für die Einschreibung in diesen Studiengang ist eine Be-
+werbung erforderlich. Im Fall einer erfolgreichen Bewerbung 
+erhalten Sie einen Zulassungsbescheid. Damit ist dann die 
+Einschreibung in den Studiengang möglich.
+Die Bewerbung für den Studiengang erfolgt online über 
+das zentrale Bewerbungsportal der KU. Bitte beachten 
+Sie, dass eine Registrierung im Portal jederzeit möglich ist, 
+die Bewerbung selbst allerdings nur innerhalb der Bewer-
+bungsfrist vom 1. Mai bis zum 1. September. Das Studium 
+beginnt jeweils zum Wintersemester
+Einschreibungsvoraussetzungen: 
+Die Voraussetzung für den Interdisziplinären Masterstudien-
+gang Soziologie mit Schwerpunkt Methoden der empirischen 
+Sozialforschung und Statistik an der KU Eichstätt-Ingolstadt 
+ist ein abgeschlossenes Bachelorstudium (Abschlussno-
+te 2,9 oder besser), in dem mindestens 60 ECTS-Punkte 
+im Bereich Sozialwissenschaft bzw. Philosophie absolviert 
+wurden. Darüber hinaus wird ein fundiertes Grundwissen in 
+Statistik und Methoden der empirischen Sozialforschung vo-
+rausgesetzt.
+Berufsperspektiven: 
+Die Bedeutung der empirischen Sozialforschung ist in den 
+letzten Jahren in privatwirtschaftlichen, öffentlichen und sozi-
+alen Organisationen beständig gestiegen. Dementsprechend 
+hoch ist der Bedarf an kompetenten Kräften in den Berei-
+chen der Datenerhebung, -analyse und -interpretation. Kon-
+kret eröffnen sich Berufsfelder u. 
+a. in der wissenschaftlichen 
+Forschung, der Markt- und Meinungsforschung, Organisa-
+tions- und Personalentwicklung in öffentlichen Verwaltungen 
+bzw. internationalen Organisationen, der Öffentlichkeitsar-
+beit sowie im Banken- und Versicherungswesen.
+Informationen/Kontakt
+www.ku.de/studienangebot
+Stand: Mai 2025
+Bewerbung/Berufsperspektiven
+Folgen Sie uns auf Facebook und Instagram:
+facebook.com/uni.eichstaett
+instagram.com/uni.eichstaett
+Akademischer Grad: Master of Arts (M. A.)
+Weitere Informationen zum Studiengang
+ku.de/studienangebot/soziologie-methoden-ma
+Informationen rund ums Studium an der KU 
+ku.de/studieninteressenten
+Informationen zum Fachgebiet 
+ku.de/soziologie
+Fachstudienberatung
+Prof. Dr. Stefanie Eifler
+Katholische Universität Eichstätt-Ingolstadt
+Kapuzinergasse 2
+Telefon: +49 / 8421 / 93-21412
+master-methoden@ku.de
+
+[Page 2]
+Soziologie an der KU
+Modulübersicht
+Modulübersicht
+Die empirische Sozialforschung, ihre Methoden und Techni-
+ken stellen das Fundament einer zeitgemäßen erfahrungs-
+wissenschaftlichen Analyse gesellschaftlicher Phänomene 
+dar. Der Interdisziplinäre Masterstudiengang Soziologie mit 
+Schwerpunkt Methoden der empirischen Sozialforschung und 
+Statistik der KU richtet sich demnach an mathematisch, sta-
+tistisch und empirisch interessierte Studierende mit dem Ziel, 
+diese für die moderne empirische Grundlagen- und Anwen-
+dungsforschung in den Sozialwissenschaften zu befähigen. 
+Die Besonderheit des Studiengangs besteht in der interdiszip-
+linären Zusammenstellung des Curriculums mit Lehrveranstal-
+tungen aus den Bereichen Mathematik, Statistik, empirische 
+Sozialforschung, Soziologie sowie den individuell wählbaren 
+Lehrveranstaltungen aus Fächern wie Psychologie, Ökono-
+metrie, Soziale Arbeit, Geographie und Data Science. Weitere 
+Kernelemente stellen die systematische Kombination quanti-
+tativer und qualitativer Analyseansätze und der Fokus auf die 
+Vermittlung berufs- und forschungspraktischer Kompetenzen 
+über entsprechende Module dar. 
+Soziologie mit Schwerpunkt Methoden der empirischen So-
+zialforschung kann im Interdisziplinären Master im Flexiblen 
+Profil nur als Hauptfach studiert werden. 
+Mehr dazu unter:
+ku.de/studienangebot/interdisziplinaerer-master
+Der Interdisziplinäre Masterstudiengang Soziologie mit Schwer-
+punkt Methoden der empirischen Sozialforschung und Statistik 
+besteht aus folgenden Modulen:
+A Pflichtmodule (40 ECTS-Punkte)
+ 
+n
+Fortgeschrittene Verfahren der Datenerhebung: Ver-
+mittlung spezieller Techniken der Datenerhebung, die 
+in der Umfrageforschung angewendet werden, wie z. B. 
+faktorielle Surveys, Randomized Response Techniken 
+ 
+(10 ECTS-Punkte)
+ 
+n
+Fortgeschrittene Verfahren der Datenanalyse: Erarbei-
+tung spezifischer Klassifikations- und kausalanalytischer 
+Verfahren in ihren typischen Anwendungskontexten 
+ 
+(5 ECTS-Punkte)
+ 
+n
+Fortgeschrittene Methoden der Qualitativen Analyse: 
+Vermittlung reflektierter Kenntnisse sozialer und kulturel-
+ler Prozesse durch Vergleiche und Triangulation theoreti-
+scher analytischer Perspektiven (10 ECTS-Punkte)
+ 
+n
+Mathematik: Formale Grundlagen von Algebra und Ana-
+lysis wie z. B. Vektor- und Matrizenrechnung, lineare 
+Gleichungssysteme, Funktionen (15 ECTS-Punkte)
+B Wahlpflichtbereich I (10 ECTS-Punkte)
+ 
+n
+Fortgeschrittenes Quantitatives bzw. Qualitatives For-
+schungspraktikum: Kennenlernen des gesamten so-
+zialwissenschaftlichen Forschungsprozess, von der 
+Formulierung einer Forschungsidee bis zur Durch-
+führung einer empirischen Feldforschung (10 ECTS-
+Punkte)
+C Wahlpflichtbereich II (30 ECTS-Punkte)
+ 
+n
+Wahlmöglichkeiten aus den Fächern Mathematik, Geo-
+graphie, Psychologie, Soziale Arbeit, Data Science und 
+Soziologie (30 ECTS-Punkte)
+D Allgemeine Module
+ 
+n
+Studium.Pro: Interdisziplinäre Vernetzung der einzelnen 
+Fachgebiete für Anstöße zum eigenständigen und kriti-
+schen Nachdenken (5 ECTS-Punkte)
+ 
+n
+Berufspraktikum: Durch das mindestens 160 Stunden 
+(i. 
+d. 
+R. 4 Wochen) umfassende Berufspraktikum wird 
+an sozialwissenschaftliche Berufsfelder wie z. 
+B. Markt- 
+und Meinungsforschung herangeführt (5 ECTS-Punkte)
+4
+Masterarbeit (30 ECTS-Punkte)
+3
+Fortgeschrittenes Quantitatives oder Qualitatives
+Forschungspraktikum (10 ECTS-Punkte)
+Mathematik
+(Teil 2, 15 ECTS-Punkte)
+Wahlbereich II
+Wahlbereich II
+Wahlbereich II
+2
+Fortgeschrittene Methoden der 
+Qualitativen Analyse
+(10 ECTS-Punkte)
+Mathematik
+(Teil 1)
+Wahlbereich II
+Berufspraktikum 
+(5 ECTS-Punkte)
+1
+Fortgeschrittene Verfahren der Datenerhebung
+(10 ECTS-Punkte)
+Fortgeschrittene Verfahren 
+der Datenanalyse
+(5 ECTS-Punkte)
+Wahlbereich II
+Wahlbereich II
+Studium.Pro
+(5 ECTS-Punkte)
+Wahlpflichtbereich I
+Wahlpflichtbereich II
+Indi MA Pflicht

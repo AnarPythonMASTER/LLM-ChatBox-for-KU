@@ -1,0 +1,308 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulplan_und_Studienverlauf_MA_Taxation_Vollzeit_de.pdf
+TITLE: Modulplan_und_Studienverlauf_MA_Taxation_Vollzeit_de.pdf
+SOURCE_FILE: Modulplan_und_Studienverlauf_MA_Taxation_Vollzeit_de.pdf
+------------------------------------------------------------
+
+[Page 1]
+Master of Science 
+Taxation 
+Wirtschaftswissenschaftliche Fakultät 
+ 
+Studienplan M.Sc. Taxation 
+Aufbau des Studiums: 
+ 
+ 
+Idealtypischer Studienverlaufsplan (Vollzeit): 
+Studienplan [Master Taxation: Start im Wintersemester] 
+(120 ECTS-Punkte) 
+ 
+ 
+4 
+ 
+ 
+Masterarbeit 
+ 
+30 
+ECTS-
+Punkte 
+ 
+ 30 ECTS-Punkte 
+ 
+ 
+3 
+ 
+ 
+Data Analytics 
+with Python 
+(Portfolio) 
+Abgabenord-
+nung (Klausur) 
+Bilanzrecht 
+(Klausur) 
+Steuerfunktion 
+4.0 
+(Präsentation) 
+Fallstudien zu 
+Umw.- und int. 
+Steuerrecht 
+ (Präsentation) 
+Quasi-
+experimental 
+Policy 
+Evaluation 
+(Seminararbeit) 
+ 
+30 
+ECTS-
+Punkte 
+ 
+ 5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+ 
+2 
+ 
+ 
+Tax Policy 
+(Klausur) 
+Advanced 
+Business Ethics 
+(Klausur) 
+Tax Research 
+(Präsentation) 
+Multinationale 
+Unternehmen 
+und ihre 
+Besteuerung 
+(Klausur) 
+Erbschaftsteuer 
+und 
+Bewertungs-
+recht (Klausur) 
+& Internationale 
+Verrechnungs-
+preise und 
+Gewinn-
+abgrenzung 
+(Präsentation) 
+Aktuelle Fragen 
+der 
+Unternehmens-
+besteuerung 
+(Seminararbeit, 
+Präsentation) 
+ 
+30 
+ECTS-
+Punkte 
+ 
+ 5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 2]
+Master of Science 
+Taxation 
+Wirtschaftswissenschaftliche Fakultät 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+Unternehmen-
+steuerrecht 
+(Klausur) 
+Internationale 
+Unternehmens-
+besteuerung 
+(Klausur) 
+Bilanzsteuer-
+recht (Klausur) 
+Current Issues 
+in Tax Policy 
+(Seminararbeit, 
+Präsentation) 
+Accounting & 
+Controlling 
+(Seminararbeit/
+Präsentation) 
+Studium.Pro 
+ 
+30 
+ECTS-
+Punkte 
+ 
+ 5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+ 
+Studienplan [Master Taxation: Start im Sommersemester] 
+(120 ECTS-Punkte) 
+ 
+ 
+4 
+ 
+ 
+Masterarbeit 
+ 
+30 
+ECTS-
+Punkte 
+ 
+ 30 ECTS-Punkte 
+ 
+ 
+3 
+ 
+ 
+Umwandlung-
+steuerrecht 
+(Klausur) 
+Kapitalgesell-
+schaftsrecht, 
+Konzernrecht, 
+europäisches 
+und 
+internationales 
+Gesellschafts-
+recht (Klausur) 
+Umsatzsteuer-
+recht 
+(Präsentation) 
+Europäisches 
+Wirtschafts-
+recht (Klausur) 
+Strukturgestal-
+tung im 
+Konzern 
+(Präsentation) 
+Aktuelle Fragen 
+der 
+Unternehmens-
+besteuerung 
+(Seminararbeit, 
+Präsentation) 
+ 
+30 
+ECTS-
+Punkte 
+ 
+ 5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+ 
+2 
+ 
+ 
+Unternehmen-
+steuerrecht 
+(Klausur) 
+Internationale 
+Unternehmens-
+besteuerung 
+(Klausur) 
+Bilanzsteuer-
+recht (Klausur) 
+Abgabenord-
+nung (Klausur) 
+Current Issues 
+in Tax Policy 
+(Seminararbeit, 
+Präsentation) 
+Studium.Pro 
+ 
+30 
+ECTS-
+Punkte 
+ 
+ 5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+ 
+1 
+ 
+ 
+Tax Policy 
+(Klausur) 
+Advanced 
+Business Ethics 
+(Klausur) 
+Tax Research 
+(Präsentation) 
+Multinationale 
+Unternehmen 
+und ihre 
+Besteuerung 
+(Klausur) 
+Erbschaftsteuer 
+und 
+Bewertungs-
+recht (Klausur) 
+& Internationale 
+Verrechnungs-
+preise und 
+Gewinn-
+abgrenzung 
+(Präsentation) 
+Accounting & 
+Controlling 
+(Seminararbeit/
+Präsentation) 
+ 
+30 
+ECTS-
+Punkte 
+ 
+ 5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte 
+5 ECTS-Punkte

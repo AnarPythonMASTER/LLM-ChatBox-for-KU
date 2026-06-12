@@ -1,0 +1,172 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_BWL_DE_Bachelor_WiSe_25_26.pdf
+TITLE: Wahlpflichtkatalog_BWL_DE_Bachelor_WiSe_25_26.pdf
+SOURCE_FILE: Wahlpflichtkatalog_BWL_DE_Bachelor_WiSe_25_26.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+(Betriebswirtschaftslehre B.Sc.) 
+Wintersemester 
+ 
+Modulangebot Sommersemester: 
+1. nach § 9 der Prüfungsordnung Bachelorstudiengang Betriebswirtschaftslehre in der 
+Fassung vom 20.05.2021 
+2. Geltungsbereich zum WiSe 2025/26 
+ 
+3. vom Fakultätsrat der Fakultät Wirtschaftswissenschaften beschlossen am 
+16.07.2025. 
+ 
+Auflistung der Studienschwerpunkte 
+In der PO verankerte Studienschwerpunkte: 
+ 
+1. Financial Management (Koordinator: Prof. Dr. Reinald Koch) 
+2. Management, Marketing and Logistics (Koordinatorin: Prof. Dr. Katja Gelbrich) 
+3. International Business and Economics (Koordinatorin: Prof. Dr. Dominika 
+Langenmayr) 
+ 
+ 
+ 
+ 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+ 
+1. Modulangebot im Schwerpunkt Financial Management (Koordinator: Prof. Dr. 
+Reinald Koch) 
+ 
+Wahlpflichtkurse 
+ 
+Titel 
+Turnus 
+ECTS 
+Prüfungsform 
+Behavioral Finance 
+SoSe 
+5 
+Klausur 
+Company Taxation in the US: Towards 
+more Fairness and Sustainibility 
+WiSe 
+5 
+Klausur 
+Data Science in Finance mit Pyton 
+WiSe 
+5 
+Fallstudien 
+Digital Finance 
+WiSe 
+5 
+Klausur 
+Grundlagen der internationalen 
+Rechnungslegung 
+SoSe 
+5 
+Klausur 
+Grundlagen des Controlling 
+SoSe 
+5 
+Klausur 
+Konzernrechnungslegung 
+WiSe 
+5 
+Klausur 
+Öffentliche Finanzen und Nachhaltige 
+Wirtschaftspolitik 
+WiSe 
+5 
+Klausur 
+Performance Measurement 
+WiSe 
+5 
+Klausur 
+Sustainability @ leading companies 
+SoSe 
+5 
+Portfolio 
+Sustainability Reporting 
+SoSe 
+5 
+Klausur 
+Steuerbilanzen und Rechtsformwahl 
+SoSe 
+5 
+Klausur 
+ 
+ 
+ 
+ 
+ 
+
+[Page 3]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+ 
+2. Modulangebot im Schwerpunkt Management, Marketing & Logistics 
+(Koordinatorin: Prof. Dr. Katja Gelbrich) 
+ 
+Wahlpflichtkurse 
+ 
+Titel 
+Turnus 
+ECTS 
+Prüfungsform 
+Consumer Psychology 
+WiSe 
+5 
+Seminararbeit 
+Global Marketing Management 
+SoSe 
+5 
+Klausur 
+International Business 
+WiSe 
+5 
+Klausur 
+Digital Marketing 
+WiSe 
+5 
+Klausur 
+Teambasiertes 
+Gruppenprojekt 
+Operations Analytics 
+SoSe 
+5 
+Klausur 
+Service and Technology Marketing 
+SoSe 
+5 
+Klausur 
+Service Performance Management 
+WiSe 
+5 
+Klausur 
+Social Marketing 
+WiSe 
+5 
+Portfolio oder 
+Klausur oder 
+mündliche Prüfung 
+Supply Chain Analytics 
+WiSe 
+5 
+Klausur 
+Tourismusmanagement 
+WiSe 
+5 
+Portfolio 
+ 
+ 
+ 
+3. Modulangebot im Schwerpunkt International Business and Economics 
+(Koordinatorin: Prof. Dr. Dominika Langenmayr) 
+ 
+- 
+Umfasst englischsprachige Kurse des International Fall Terms, der Summer 
+School und der Winter School sowie englischsprachige Kurse aus den übrigen 
+beiden Vertiefungen. 
+- 
+Erlaubt Anrechnung von Kursen aus dem Ausland ohne inhaltliche 
+Beschränkung.

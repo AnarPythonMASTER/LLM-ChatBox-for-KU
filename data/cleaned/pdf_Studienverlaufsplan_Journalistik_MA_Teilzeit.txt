@@ -1,0 +1,93 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Journalistik_MA_Teilzeit.pdf
+TITLE: Studienverlaufsplan_Journalistik_MA_Teilzeit.pdf
+SOURCE_FILE: Studienverlaufsplan_Journalistik_MA_Teilzeit.pdf
+------------------------------------------------------------
+
+[Page 1]
+Masterstudiengang Journalistik mit Schwerpunkt Innovation und Management 
+Idealtypischer Studienverlaufsplan Teilzeitstudium (8 Semester) 
+Sem. 
+Module 
+1 
+20 cp 
+Wahlpflichtbereich (insgesamt 10 cp) 
+Kommunikationswissenschaft Politik und Soziologie 
+ Wirtschaft 
+Empirische Medienforschung I 
+2 SWS Seminar 
+ 5 cp 
+
+Politische Theorie und Philosophie
+der Gegenwart
+
+Fortgeschrittene Soziologische
+Theorie
+
+Fortgeschrittene Prozessorientierte
+Soziologie 
+ je 5 cp 
+
+Vergleichende Politikwissenschaft
+ 5 oder 10 cp 
+BWL I 
+4 SWS Vorlesung/Übung 5 cp 
+Mikroökonomie I 
+4 SWS Vorlesung/Übung 5 cp 
+Journalistik/Kommunikations- und 
+Medienwissenschaft 
+2 SWS Vorlesung 
+ 5 cp 
+Studium Pro 
+ 5 cp 
+2 
+10 cp 
+Empirische Medienforschung II 
+2 SWS Seminar 
+ 5 cp 
+Medienwirtschaft, Medienmanagement, Innovation 
+2 SWS Seminar 
+ 5 cp 
+3 
+15 cp 
+Aussagenproduktion und Berichterstattungsformate 
+2 SWS Seminar 
+2 SWS Übung 
+ 5 cp 
+Qualität und Qualitätsforschung 
+2 SWS Seminar 
+ 5 cp 
+Medien- und Arbeitsrecht 
+2 SWS Seminar 
+ 5 cp 
+4 
+10 cp 
+Corporate Social Responsibility, Verantwortung und Kommunikation 
+2 SWS Seminar 
+ 5 cp 
+Mitarbeiterführung 
+2 SWS Seminar 
+ 5 cp 
+5 
+15 cp 
+Entwicklung innovativer Formate 
+4 SWS Projektseminar
+ 10 cp 
+Strategisches Management 
+2 SWS Übung 
+ 5 cp 
+6 
+10 cp 
+Organisations-und Formatentwicklung 
+2 SWS Seminar 
+2 SWS Übung 
+ 10 cp 
+7 
+20 cp 
+Organisation von Redaktionen und Medien 
+4 SWS Seminar 
+ 10 cp 
+Masterarbeit 
+1 SWS Seminar 
+ 30 cp 
+8 
+20 cp

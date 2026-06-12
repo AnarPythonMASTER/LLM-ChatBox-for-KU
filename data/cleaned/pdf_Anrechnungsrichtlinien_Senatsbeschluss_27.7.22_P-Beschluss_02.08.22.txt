@@ -1,0 +1,406 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Anrechnungsrichtlinien_Senatsbeschluss_27.7.22_P-Beschluss_02.08.22.pdf
+TITLE: Anrechnungsrichtlinien_Senatsbeschluss_27.7.22_P-Beschluss_02.08.22.pdf
+SOURCE_FILE: Anrechnungsrichtlinien_Senatsbeschluss_27.7.22_P-Beschluss_02.08.22.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anrechnungsrichtlinien der Katholischen Universität Eichstätt-
+Ingolstadt 
+Vom 2. August 2022 
+ 
+ 
+Inhalt 
+§ 1 
+Zweck und Geltungsbereich .................................................................................................... 2 
+§ 2 
+Anrechnung, Anerkennung, Umrechnung ............................................................................... 2 
+§ 3 
+Verwaltungsverfahren, Bezeichnung als Prüfungsausschuss ................................................ 2 
+§ 4 
+Anrechnung hochschulischer Leistungen 
+................................................................................ 2 
+§ 5 
+Anrechnung außerhochschulischer Leistungen ...................................................................... 3 
+§ 6 
+Zuständigkeiten ....................................................................................................................... 3 
+§ 7 
+Verfahren, Fristen 
+.................................................................................................................... 4 
+§ 8 
+Unzulässige Anrechnungen 
+..................................................................................................... 5 
+§ 9 
+Höherstufung ........................................................................................................................... 5 
+§ 10 
+Notenumrechnung ................................................................................................................... 5 
+§ 11 
+Learning Agreements, vhb-Kurse 
+............................................................................................ 6 
+§ 12 
+Kennzeichnung der Anrechnung ............................................................................................. 7 
+§ 13 
+Beratung und Unterstützung für Studierende 
+.......................................................................... 7 
+§ 14 
+Inkrafttreten 
+.............................................................................................................................. 7 
+ 
+ 
+ 
+
+[Page 2]
+2 
+ 
+ 
+§ 1 
+ 
+Zweck und Geltungsbereich 
+(1) 1Die Katholische Universität Eichstätt-Ingolstadt (KU) erlässt diese Anrechnungsrichtlinien um 
+den Rahmen eines einheitlichen, transparenten und effizienten Verfahrens für die Anrechnung 
+an der KU zu stellen. 
+2Sie regeln die Anrechnung von hochschulischen und 
+außerhochschulischen Kompetenzen an der KU. 
+(2) Die Richtlinien dienen der Ergänzung der Allgemeinen Prüfungsordnung (APO) der 
+Katholischen 
+Universität 
+Eichstätt-Ingolstadt 
+vom 
+26. 
+November 
+2014 
+und 
+der 
+Rahmenprüfungsordnung für die Fachhochschulen (RaPO) vom 17. Oktober 2001 in der jeweils 
+gültigen Fassung, deren Vorgaben von diesen Richtlinien unberührt bleiben. 
+§ 2 
+ 
+Anrechnung, Anerkennung, Umbuchung 
+(1) Die Kultusministerkonferenz unterscheidet zwischen 
+1. der Anrechnung von Kompetenzen und Leistungen, die außerhalb einer Hochschule 
+erworben wurden und 
+2. der Anerkennung von Kompetenzen und Leistungen, die in Studiengängen an einer 
+staatlichen oder staatlichen anerkannten inländischen oder ausländischen Hochschule 
+erbracht wurden. 
+(2) 1An der KU werden die Begriffe Anrechnung und Anerkennung in Anlehnung an Art. 63 
+BayHSchG synonym unter der Bezeichnung Anrechnung verwendet. 2Anrechnung im Sinne der 
+KU und des Art. 63 BayHSchG umfasst demnach sowohl die außerhochschulisch als auch die 
+hochschulisch erworbenen Kompetenzen.3§ 4 RaPO bleibt unberührt. 
+(3) 1Umbuchung ist keine Anrechnung in diesem Sinne, sondern die nachträgliche Korrektur von 
+Fehlern bei der Anmeldung und gleichzeitiger Ablegung der intendiert einschlägigen Prüfung. 
+2Für die Umbuchung bedarf es eines formlosen Antrags an das Prüfungsamt. 
+§ 3 
+ 
+Verwaltungsverfahren, Bezeichnung als Prüfungsausschuss 
+(1) 1Anrechnungsverfahren sind Verwaltungsverfahren, aber keine Prüfungsverfahren. 
+2Die 
+Anrechnung an der KU ist in § 25 APO geregelt. 3Für Fachhochschulstudiengänge (FH-
+Studiengänge) gilt § 4 RaPO. 
+ 
+(2) Der 
+Prüfungsausschuss, 
+die 
+Prüfungskommission 
+für 
+FH-Studiengänge 
+und 
+die 
+Weiterbildungskommission werden nachfolgend einheitlich als Prüfungsausschuss bezeichnet. 
+§ 4 
+ 
+Anrechnung hochschulischer Leistungen 
+(1) An einer Hochschule erworbene Kompetenzen werden angerechnet, wenn kein wesentlicher 
+Unterschied besteht. 
+ 
+(2) Ein wesentlicher Unterschied nach § 25 Abs. 1 APO liegt vor, wenn im jeweiligen Studiengang 
+die Kompetenzen des Moduls, in dem die Leistung erbracht wurde (Quellmodul), von den zu 
+
+[Page 3]
+3 
+ 
+ 
+erwerbenden Kompetenzen des KU Moduls, auf das angerechnet werden soll (Zielmodul), in 
+einem Maße abweichen, dass bei einer Anrechnung der Studienerfolg gefährdet ist. 
+ 
+(3) 1Die Prüfung des wesentlichen Unterschieds erfolgt anhand eines Vergleichs der konkret 
+erworbenen und der zu erwerbenden Kompetenzen bzw. Lernergebnisse. 2Als Beurteilungshilfe 
+kann der Prüfungsausschuss weitere Kriterien wie das Niveau der Kompetenzen oder den 
+zeitlichen Arbeitsaufwand des Moduls (Workload) heranziehen; diese Kriterien können 
+Hinweise auf einen abweichenden Kompetenzerwerb geben, aber alleine keinen wesentlichen 
+Unterschied begründen. 3Als Grundlage für die Prüfung des wesentlichen Unterschiedes dienen 
+die nach § 7 Abs. 5 eingereichten Dokumente. 
+ 
+(4) 1Die Anrechnung erfolgt auf ein Modul des Studiengangs, in dem die oder der Studierende 
+eingeschrieben ist. 2Eine Anrechnung erfolgt auf Modulebene; eine Teilanrechnung ist 
+grundsätzlich nicht möglich. 
+ 
+(5) 1Die Darlegungs- und Beweislast für das Vorliegen eines wesentlichen Unterschieds liegt bei 
+der KU. 2Die Mitwirkungspflicht der oder des Studierenden bleibt hiervon unberührt. 
+§ 5 
+ 
+Anrechnung außerhochschulischer Leistungen 
+(1) Kompetenzen, welche außerhalb der Hochschule oder im Rahmen sonstiger weiterbildender 
+Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG erworben wurden, können angerechnet werden, 
+wenn sie gleichwertig sind. 
+ 
+(2) 1Gleichwertigkeit ist festzustellen, wenn die erworbenen Kompetenzen in Inhalt, Umfang und in 
+den Anforderungen denjenigen des Studiengangs an der KU im Wesentlichen entsprechen. 
+2Dabei 
+ist 
+kein 
+schematischer 
+Vergleich, 
+sondern 
+eine 
+Gesamtbetrachtung 
+und 
+Gesamtbewertung vorzunehmen. 
+ 
+(3) Für eine Anrechnung kommen unter anderem folgende Kompetenzen in Frage: 
+ 
+1. Kompetenzen aus Ausbildung mit anerkanntem Abschluss; z.B. berufliche Ausbildung 
+an einer Meisterschule; 
+2. Kompetenzen aus Fort- und Weiterbildungen; z.B. Seminare, betriebliche Schulungen 
+der Volkshochschule; 
+3. Kompetenzen aus Berufserfahrung oder Sonstigem; z.B. frühere oder aktuelle 
+Beschäftigung, Praktika. 
+ 
+(4) 1Die Anrechnung erfolgt auf ein Modul des Studiengangs, in dem die oder der Studierende 
+eingeschrieben ist. 2§ 4 Abs.4 Satz 2 gilt entsprechend. 
+ 
+(5) Außerhalb der Hochschule erworbene Kompetenzen können höchstens bis zu der Hälfte der 
+im Studiengang nachzuweisenden Kompetenzen ersetzen. 
+ 
+(6) Die Beweislast der Gleichwertigkeit liegt bei der oder dem Studierenden. 
+§ 6 
+ 
+Zuständigkeiten 
+(1) Über die Anrechnung entscheidet der Prüfungsausschuss des Studiengangs; die Entscheidung 
+über die Anrechnung kann auf die Vorsitzende bzw. den Vorsitzenden oder auf ein Mitglied des 
+Prüfungsausschusses übertragen werden. 
+ 
+
+[Page 4]
+4 
+ 
+ 
+(2) Bei der Anrechnung von Kompetenzen, die an einer Hochschule erworben wurden, mit der die 
+KU 
+eine 
+Hochschulkooperationsvereinbarung 
+getroffen 
+hat, 
+sind 
+die 
+in 
+dieser 
+Hochschulkooperationsvereinbarung getroffenen Regelungen zu beachten. 
+ 
+(3) Die Anrechnung von Kompetenzen, die im Rahmen von polyvalenten oder äquivalenten 
+Modulen in einem weiteren Studiengang der KU erworben wurden, erfolgt aufgrund der 
+Deckungsgleichheit der Module ohne Beteiligung des Prüfungsausschusses. 
+ 
+(4) Das Prüfungsamt, die zentrale Anrechnungsstelle oder weitere geeignete Stellen innerhalb der 
+KU sind für die formale Prüfung der Anrechnungsanträge, deren Weitergabe an den 
+Prüfungsausschuss, deren Verbescheidung im Auftrag des Prüfungsausschusses sowie für die 
+Höherstufung und die Notenumrechnung zuständig. 
+ 
+(5) Der Prüfungsausschuss kann das Prüfungsamt, die zentrale Anrechnungsstelle oder weitere 
+geeignete Stellen innerhalb der KU mit der formalen Prüfung von Learning Agreements nach § 
+11 beauftragen. 
+§ 7 
+ 
+Verfahren, Fristen 
+(1) 1Für die Durchführung des Anrechnungsverfahrens ist von der oder dem Studierenden ein 
+Antrag zu stellen. 2Die oder der Studierende muss die Anrechnung bei der oder dem 
+Vorsitzenden des Prüfungsausschusses des Studiengangs, in dem sie oder er eingeschrieben 
+ist, beantragen; der Antrag ist über das Prüfungsamt einzureichen. 
+ 
+(2) 1Der Antrag muss schriftlich oder elektronisch im Sinn von § 7 Abs. 1 APO gestellt werden. 2Die 
+Art der Antragstellung wird auf der Homepage bekannt gegeben. 
+ 
+(3) 1Grundsätzlich hat die oder der Antragstellende die Stellungnahme der oder des 
+Fachbeauftragten zur fachlichen Prüfung der beantragten Leistungen einzuholen und diese 
+dem Antrag beizulegen. 2Die Liste der Fachbeauftragen wird auf der Homepage bekannt 
+gegeben. 
+ 
+(4) Die oder der Studierende muss angeben, für welches Zielmodul die Anrechnung beantragt wird. 
+ 
+(5) Mit Antragseinreichung hat die oder der Studierende folgende Dokumente vorzulegen: 
+ 
+1. Für hochschulisch erworbene Kompetenzen nach § 4 Leistungsnachweise (z.B. Transcript 
+of Record oder Scheine) und zusätzlich für außerhalb der KU erworbenen Kompetenzen 
+weitere, erläuternde Unterlagen (z.B. entsprechende Modulbeschreibungen oder 
+Tätigkeitsbeschreibungen); 
+2. Für außerhochschulisch erworbene Leistungen und Kompetenzen nach § 5 Dokumente der 
+jeweiligen Einrichtung, die die erworbenen Kompetenzen und Fähigkeiten bestätigen und 
+die Lernergebnisse beschreiben (z.B. Prüfungs-, Arbeits- oder Praxiszeugnisse); 
+3. Sofern Kompetenzen und Fähigkeiten nach § 5 nicht im Rahmen einer formalen Aus- oder 
+Weiterbildung erworben wurden, entsprechende Dokumente, die die Kompetenzen 
+bestätigen und die Lernergebnisse beschreiben (z.B. Lebensläufe, Lern- und 
+Arbeitstagebücher). 
+ 
+(6) 1Die Dokumente sind in Kopie oder in elektronischer Form einzureichen. 2Originale oder 
+beglaubigte Kopien der Leistungsnachweise können zur Verifikation angefordert werden. 3Bei 
+fremdsprachigen Nachweisen ist in der Regel eine Übersetzung in deutscher oder englischer 
+Sprache beizufügen. 4Bei Unvollständigkeit der Unterlagen erhält die oder der Studierende die 
+Möglichkeit, die fehlenden Unterlagen innerhalb einer angemessenen Frist nachzureichen. 
+ 
+(7) Der Anrechnungsantrag kann bis zum Erlass des Bescheides des Prüfungsausschusses 
+zurückgenommen werden. 
+
+[Page 5]
+5 
+ 
+ 
+(8) 1Die Entscheidung über die Anrechnung wird der oder dem Studierenden spätestens innerhalb 
+von drei Monaten nach Einreichung aller erforderlichen Unterlagen schriftlich oder elektronisch 
+mitgeteilt. 
+2Wird dem Anrechnungsantrag zugestimmt, werden die ECTS-Punkte des 
+Zielmoduls angerechnet. 
+(9) 1Wird die Anrechnung versagt, sind der oder dem Antragstellenden die Gründe für die 
+Ablehnung gemäß § 9 Abs. 8 APO mitzuteilen. 
+2Der Bescheid ist mit einer 
+Rechtsbehelfsbelehrung zu versehen. 
+ 
+(10) 
+1Die oder der Studierende kann bei versagter Anrechnung eine Überprüfung der Entscheidung 
+durch das Präsidium beantragen; dieser Antrag soll bei der zentralen Anrechnungsstelle gestellt 
+werden. 2Das Präsidium gibt dem Prüfungsausschuss eine Empfehlung für die weitere 
+Behandlung des Antrags nach Satz 1. 3Die oder der Studierende kann zudem innerhalb eines 
+Monats nach Bekanntgabe des Bescheides Klage einreichen. 
+§ 8 
+ 
+Unzulässige Anrechnungen 
+(1) Unzulässig ist, die Anrechnung auf ein Modul, für das keine Wiederholungsmöglichkeit mehr 
+besteht. 
+ 
+(2) 1Die Beantragung einer Anrechnung ist unzulässig, wenn die oder der Studierende eine 
+Prüfung, die durch eine Anrechnung ersetzt werden soll, bereits angetreten hat. 2Hat die oder 
+der Studierende eine Prüfung erfolgreich absolviert, für die sie oder er vor Prüfungsantritt einen 
+Anrechnungsantrag gestellt hat, kann grundsätzlich nur die angerechnete Leistung im Zeugnis 
+ausgewiesen werden. 3Wenn die Frist nach § 7 Abs. 8 Satz 1 überschritten wurde, kann die 
+oder der Antragstellende zwischen der erfolgreichen Prüfungsleistung und der angerechneten 
+Leistung wählen. 
+§ 9 
+ 
+Höherstufung 
+(1) 1Werden Kompetenzen angerechnet, die in Semestern erbracht wurden, die bisher noch nicht 
+als Fachsemester gezählt wurden, wird unter Gesamtbetrachtung sämtlicher, bislang 
+angerechneter ECTS-Punkte die Anzahl der Fachsemester entsprechend angehoben 
+(Höherstufung). 2Bei der Anrechnung von bis zu 40 ECTS-Punkten wird die oder der 
+Studierende um jeweils ein Fachsemester höhergestuft; im Teilzeitstudium nach § 31 APO 
+erfolgt die Höherstufung nach Halbsatz 1 bei der Anrechnung von bis zu 20 ECTS-Punkten. 
+ 
+(2) 1Werden für einen Studiengang insgesamt nur bis zu 15 ECTS-Punkte angerechnet, erfolgt 
+keine Anrechnung eines zusätzlichen Fachsemesters. 2Satz 1 gilt für das Teilzeitstudium nach 
+§ 31 APO bei einer Anrechnung von bis zu 7 ECTS-Punkten entsprechend. 
+ 
+(3) Die Höherstufung kann sich auf die Einhaltung der Regelstudienzeit und den Bezug von 
+Leistungen nach dem Bundesausbildungsförderungsgesetz auswirken. 
+§ 10 
+ 
+Notenumrechnung 
+(1) Bei einer Anrechnung ist die Note -soweit sie mit der Notenskala in § 20 Abs. 2 APO 
+vergleichbar ist- zu übernehmen und nach Maßgabe der Prüfungsordnung in die Berechnung 
+der Gesamtnote einzubeziehen. 
+ 
+
+[Page 6]
+6 
+ 
+ 
+(2) 1Wird die Anrechnung von benoteten Leistungen auf ein unbenotetes Modul beantragt, wird das 
+Modul als ‚bestanden‘ verbucht. 2Wird die Anrechnung von unbenoteten Leistungen auf ein 
+benotetes Modul beantragt, wird das Modul ebenfalls als ‚bestanden‘ verbucht. 
+ 
+(3) Ist eine Note nicht vergleichbar und enthält die studiengangspezifische Prüfungsordnung oder 
+eine Hochschulkooperationsvereinbarung keine Regelung zur Umrechnung in die Notenskala 
+der KU, so erfolgt die Umrechnung mittels eines geeigneten Abbildungsverfahrens und eine 
+abschließende Einbeziehung in die Gesamtnotenberechnung. 
+ 
+(4) Wird eine Note übernommen, die nicht der Notenskala der KU entspricht, wird wie folgt 
+gerundet; alle weiteren Stellen hinter dem Komma werden ohne Rundung gestrichen: 
+ 
+von 1,00 bis 1,15 
+= 
+1,0 
+über 1,15 bis 1,50 
+= 
+1,3 
+über 1,50 bis 1,85 
+= 
+1,7 
+über 1,85 bis 2,15 
+= 
+2,0 
+über 2,15 bis 2,50 
+= 
+2,3 
+über 2,50 bis 2,85 
+= 
+2,7 
+über 2,85 bis 3,15 
+= 
+3,0 
+über 3,15 bis 3,50 
+= 
+3,3 
+über 3,50 bis 3,85 
+= 
+3,7 
+über 3,85 bis 4,35 
+= 
+4,0 
+über 4,35 bis 5,00 
+= 
+5,0 
+ 
+(5) Ist eine Umrechnung nicht möglich, wird die angerechnete Leistung mit der Bewertung 
+‚bestanden‘ verbucht. 
+ 
+(6) Eine Nach- oder Neubenotung ist ausgeschlossen. 
+§ 11 
+ 
+Learning Agreements, vhb-Kurse 
+(1) 1Das Learning Agreement ist eine verbindliche Vereinbarung zwischen der oder dem 
+Studierenden, der KU und einer Hochschule im Ausland. 2Im Learning Agreement werden die 
+Module, die die oder der Studierende an der Partnerhochschule absolvieren möchte, und die 
+Module der KU, auf die diese an der Partnerhochschule erworbenen Kompetenzen angerechnet 
+werden sollen, aufgelistet. 3Learning Agreements werden vor Beginn eines Auslandsstudiums 
+abgeschlossen und sind vom Prüfungsausschuss zu bestätigen. 4Die Zuständigkeit für die 
+Bestätigung kann an die Vorsitzende bzw. den Vorsitzenden oder an ein Mitglied des 
+Prüfungsausschusses delegiert werden. 
+ 
+(2) 1Der Antrag auf Anrechnung wird nach Rückkehr aus dem Ausland gestellt. 2Dem Antrag 
+beizufügen sind das Learning Agreement und der Nachweis der absolvierten Leistungen. 
+ 
+(3) Im Falle eines abgeschlossenem Learning Agreements werden mit Vorlage des Antrags und 
+der entsprechenden Nachweise (z.B. Transcript of Records) die vereinbarten Kompetenzen 
+ohne Beteiligung des Prüfungsausschusses angerechnet. 
+ 
+(4) Der oder dem Studierenden ist der Abschluss eines Learning Agreements grundsätzlich 
+freigestellt, außer der Auslandsaufenthalt findet im Rahmen eines Erasmus+ Programms statt. 
+ 
+(5) Für Kurse der Virtuellen Hochschule Bayern (vhb) ist der Abschluss von Learning Agreements 
+in der Regel möglich; Abs. 1 bis 3 gelten entsprechend. 
+
+[Page 7]
+7 
+ 
+ 
+§ 12 
+ 
+Kennzeichnung der Anrechnung 
+Es erfolgt eine Kennzeichnung der Anrechnung im Zeugnis oder anderen leistungsausweisenden 
+Dokumenten der KU. 
+§ 13 
+ 
+Beratung und Unterstützung für Studierende 
+1Grundsätzlich berät die jeweilige Fachstudienberatung bzw. Studiengangkoordination unverbindlich zu 
+fachlichen Fragen die Anrechnung betreffend. 2Des Weiteren können sich Studierende bei Fragen zum 
+Ablauf des Verfahrens und dessen Formalitäten an die zentrale Anrechnungsstelle wenden. 3Die 
+beratenden und unterstützenden Stellen treffen keine verbindliche Entscheidung. 
+§ 14 
+ 
+Inkrafttreten 
+Diese Richtlinien treten am 1. Oktober 2022 in Kraft.

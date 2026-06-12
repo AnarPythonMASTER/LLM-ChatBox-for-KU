@@ -1,0 +1,234 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BSc_Psychologie_ab_WS_2324.pdf
+TITLE: Studienverlaufsplan_BSc_Psychologie_ab_WS_2324.pdf
+SOURCE_FILE: Studienverlaufsplan_BSc_Psychologie_ab_WS_2324.pdf
+------------------------------------------------------------
+
+[Page 1]
+Studienverlaufsplan 
+ 
+S 
+Idealtypischer Verlaufsplan BSc Psychologie 
+ 
+1 
+ 
+Quantitative 
+Methoden I 
+[5/4]* 
+Theoretische 
+Grundlagen der 
+empirischen Psy- 
+chologie 
+[5/5] 
+Themenfelder 
+und Arbeits- 
+techniken 
+[5] 
+ 
+Entwicklungs- 
+psychologie I 
+[5/3] 
+ 
+Allgemeine Psy- 
+chologie 2 
+[5/3] 
+ 
+Biologische Psy- 
+chologie 
+[5/4] 
+ 
+ 
+30/19 
+ 
+2 
+ 
+Quantitative 
+Methoden II 
+[5/5] 
+Empirisch-experi- 
+mentelles Prakti- 
+kum I: Grundmodul 
+[5/3+1] 
+Sozialpsycho- 
+logie: Grund- 
+lagen 
+[5/4] 
+ 
+Entwicklungs- 
+psychologie II 
+[5/1] 
+ 
+Allgemeine Psy- 
+chologie 1 
+[5/3] 
+Klinische Psy- 
+chologie I: Stö- 
+rungslehre 1 
+[5/5] 
+ 
+ 
+30/22 
+ 
+ 
+ 
+3 
+ 
+Differentielle 
+Psychologie und 
+Persönlichkeits- 
+psychologie 
+[6/4] 
+ 
+Empirisch-experi- 
+mentelles Prakti- 
+kum II: Aufbaumo- 
+dul 
+[4/3] 
+ 
+ 
+Sozialpsycho- 
+logie: Vertie- 
+fung 
+[5/] 
+ 
+ 
+Arbeitspsy- 
+chologie 
+[5] 
+ 
+ 
+ 
+ 
+Praktikum bzw. 
+Klinisches Prakti- 
+kum 
+[10/8] 
+Wahlpflichtmo- 
+dul I 
+ 
+ 
+ 
+30/16 
+ 
+Orientierungs- 
+praktikum 
+[5/5] 
+ 
+4 
+ 
+Testtheorie und 
+Testkonstruktion 
+[5/4] 
+Klinische Psycholo- 
+gie II: Störungs- 
+lehre 2 & Präven- 
+tion und Reha 
+[5/3+2] 
+ 
+Organisations- 
+psychologie I 
+[5] 
+ 
+Pädagogische 
+Psychologie I 
+[5/3] 
+ 
+Allgemeine Psy- 
+chologie 3 
+[5/3] 
+ 
+ 
+30/19 
+ 
+ 
+ 
+5 
+Methoden der 
+psychologischen 
+Leistungsdia- 
+gnostik und der 
+neuropsycholo- 
+gischen Diagnos- 
+tik 
+[5/2] 
+Wahlpflichtmodul II 
+ 
+Organisations- 
+psychologie II 
+[5] 
+ 
+ 
+Pädagogische 
+Psychologie II 
+[5/1] 
+ 
+ 
+Aktuelle For- 
+schungsfragen 
+[5] 
+Wahlpflichtmo- 
+dul III 
+ 
+ 
+ 
+29/12 
+Klinische Psycholo- 
+gie III: Klinisch-Psy- 
+chologische Dia- 
+gnostik 
+[4/4] 
+Klinische Psy- 
+chologie IV: 
+Verfahrens- 
+lehre 1 
+[5/5] 
+ 
+ 
+ 
+6 
+ 
+ 
+Methoden der 
+Persönlichkeits- 
+diagnostik 
+[5/2] 
+Wahlpflichtmodul 
+IV 
+ 
+ 
+Bachelorarbeit 
+[10] 
+Wahlpflichtmo- 
+dul V 
+Wahlpflichtmo- 
+dul VI 
+ 
+ 
+ 
+31/13 
+ 
+Grundlagen der 
+Medizin & Pharma- 
+kologie 
+[6/4+2] 
+Klinische Psycho- 
+logie V: Verfah- 
+renslehre 2 & 
+Berufsethik und 
+Berufsrecht 
+[5/3+2] 
+Studium.Pro 
+Philosophie 
+oder Theologie 
+oder Ethik 
+[5] 
+ 
+180/101 
+ 
+Orientierungsphase 
+Profilphase 
+Praxisorientierung 
+Wahlpflichtbereich 
+*Credit Points (CP) = European Credit Transfer and Accumulation System Points (ECTS Punkte) = Leistungs- 
+punkte (LP) im Format [x/y] angegeben, wobei y jeweils die Anzahl an ECTS Punkten im polyvalenten BSc Stu- 
+diengang angibt, die nach der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten 
+(PsychThApprO) für eine Zulassung zur psychotherapeutischen Prüfung zwingend zu erwerben ist.

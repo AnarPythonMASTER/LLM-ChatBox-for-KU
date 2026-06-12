@@ -1,0 +1,475 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_MA_Journalistik.pdf
+TITLE: Studiengangsbeschreibung_MA_Journalistik.pdf
+SOURCE_FILE: Studiengangsbeschreibung_MA_Journalistik.pdf
+------------------------------------------------------------
+
+[Page 1]
+01/2025_06 
+ 
+ 
+ 
+1 
+Studiengangsbeschreibung für den 
+Masterstudiengang Journalistik mit Schwerpunkt Innovation, und 
+Management und Gesellschaft 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+Inhalt 
+A. Allgemeine Struktur des Studiengangs .................................................................. 2 
+B. Beschreibung des Studiengangs 
+........................................................................... 3 
+1. Der Studiengang in drei Sätzen 
+.......................................................................... 3 
+2. Zielgruppe ......................................................................................................... 3 
+C. Studiengangskonzept ........................................................................................... 4 
+1. Struktur des Studiengangs 
+................................................................................. 4 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+........................................................ 4 
+1.2. 
+Qualifikationsziele ........................................................................................ 4 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten .................................................... 5 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder ........................................................ 5 
+2. Aufbau des Studiengangs 
+.................................................................................. 6 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+...................................................... 6 
+2.2. 
+Pflichtbereich 
+.................................................................................................. 6 
+2.3. 
+Wahlpflichtbereich .......................................................................................... 6 
+2.4. 
+Studium.Pro ................................................................................................... 7 
+2.5. 
+Praxisbezug.................................................................................................... 7 
+2.6. 
+Ausgestaltung der Internationalisierung 
+........................................................... 7 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage des Leitbilds für 
+Studium und Lehre ...................................................................................................... 8 
+ 
+ 
+ 
+
+[Page 2]
+01/2025_06 
+ 
+ 
+ 
+2 
+A. Allgemeine Struktur des Studiengangs 
+ 
+Name des Studiengangs: 
+ 
+Journalistik mit Schwerpunkt Innovation, 
+Management und Gesellschaft 
+ 
+Verantwortliche Fakultät: 
+ 
+Sprach- und Literaturwissenschaftliche 
+Fakultät 
+ 
+Weitere beteiligte Fakultät/en: 
+ 
+Wählen Sie ein Element aus. 
+Wählen Sie ein Element aus. 
+ 
+Akademischer Grad: 
+Master of Arts 
+ 
+Studienform: 
+ 
+☐ Vollzeitstudiengang 
+☐ Teilzeitstudiengang 
+☒ Voll- und Teilzeitstudiengang 
+☐ Duales Studium 
+☐ Fernstudium 
+ 
+Art des Studiengangs: 
+ 
+☐ grundständig 
+☒ konsekutiv 
+☐ weiterbildend 
+ 
+Wissenschaftliche/Praktische 
+Orientierung: 
+(nur bei Masterstudiengängen) 
+ 
+☐ eher anwendungsorientiert 
+☒ eher forschungsorientiert 
+Regelstudienzeit: 
+4 Semester (Vollzeit) 
+ 
+8 Semester (Teilzeit) 
+ 
+Studienbeginn: 
+ 
+☐ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-
+Leistungspunkte: 
+120 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+☒ Nein 
+☐ Ja, € pro Semester 
+
+[Page 3]
+01/2025_06 
+ 
+ 
+ 
+3 
+ 
+B. Beschreibung des Studiengangs 
+ 
+1. Der Studiengang in drei Sätzen 
+Der Masterstudiengang Journalistik mit dem Schwerpunkt Innovation, Management und 
+Gesellschaft an der KU Eichstätt-Ingolstadt richtet sich forschungsorientiert an die 
+Herausforderungen des digitalen und gesellschaftlichen Medienwandels. Er verbindet 
+wissenschaftliche Analyse mit praxisnaher Entwicklung neuer journalistischer Formate, 
+Strategien und Organisationsformen in Kooperation mit namhaften Medienpartnern. Ziel 
+ist es, journalistische Innovationen verantwortungsvoll zu gestalten und die Zukunft des 
+Qualitätsjournalismus aktiv mitzugestalten. 
+ 
+2. Zielgruppe 
+Der Studiengang richtet sich an Absolvent*innen eines journalistischen, kommunikations- 
+oder medienwissenschaftlichen Bachelorstudiums sowie verwandter Fachrichtungen, die 
+ein 
+vertieftes 
+Interesse 
+an 
+medienbezogener 
+Forschung, 
+journalistischer 
+Innovationsentwicklung 
+und 
+gesellschaftlicher 
+Verantwortung 
+im 
+Journalismus 
+mitbringen. Angesprochen sind Studierende mit kreativen Ideen, hoher Eigeninitiative und 
+dem Wunsch, den Journalismus strategisch, forschungsbasiert und zukunftsorientiert 
+weiterzuentwickeln – sei es in Redaktionen, Medienunternehmen, Start-ups oder der 
+Wissenschaft. Besonders geeignet ist der Studiengang für Personen, die sich als 
+Gestalter*innen journalistischer Transformation verstehen und bereit sind, journalistische 
+Formate, Organisationen und Geschäftsmodelle innovativ zu denken und umzusetzen. 
+ 
+ 
+
+[Page 4]
+01/2025_06 
+ 
+ 
+ 
+4 
+C. Studiengangskonzept 
+ 
+1. Struktur des Studiengangs 
+1.1. 
+Zugangs-/Zulassungsvoraussetzungen 
+Die Zulassung zum Masterstudiengang Journalistik mit dem Schwerpunkt Innovation, 
+Management und Gesellschaft an der Katholischen Universität Eichstätt-Ingolstadt setzt 
+zwei zentrale Voraussetzungen voraus: 
+ 
+Ein erster berufsqualifizierender Hochschulabschluss 
+Bewerberinnen müssen einen abgeschlossenen Bachelor- oder gleichwertigen 
+Hochschulabschluss vorweisen. Der Abschluss sollte idealerweise in einem einschlägigen 
+Fachgebiet wie Journalistik, Kommunikations- oder Medienwissenschaft erworben 
+worden sein. Auch Absolventinnen verwandter Studienrichtungen können zugelassen 
+werden, sofern sie über entsprechende medienbezogene oder forschungsrelevante 
+Vorkenntnisse verfügen. 
+ 
+Erfolgreiche Teilnahme am Eignungsverfahren 
+Zusätzlich zum Hochschulabschluss ist die Teilnahme an einem qualitätsgesicherten 
+Eignungsverfahren erforderlich. Im Rahmen dieses Verfahrens werden verschiedene 
+Kriterien berücksichtigt: 
+• fachliche Passung des Erststudiums, 
+• nachgewiesene praktische Erfahrungen im Medienbereich (z. B. journalistische oder 
+medienwirtschaftliche Tätigkeiten), 
+• Methodenkenntnisse, Sprachkenntnisse sowie 
+• ein überzeugendes Exposé zu einem möglichen Forschungsvorhaben. 
+ 
+1.2. 
+Qualifikationsziele 
+Der Masterstudiengang Journalistik mit dem Schwerpunkt Innovation, Management und 
+Gesellschaft verfolgt das Ziel, Studierende dazu zu befähigen, den digitalen und 
+gesellschaftlichen Wandel von Medien und Journalismus kritisch zu analysieren, 
+verantwortungsvoll mitzugestalten und forschungsbasiert weiterzuentwickeln. Im 
+Zentrum stehen dabei Kompetenzen zur Identifikation, Bewertung und Umsetzung von 
+Innovationen im journalistischen Kontext – unter besonderer Berücksichtigung 
+gesellschaftlicher 
+Verantwortung, 
+journalistischer 
+Qualität 
+und 
+nachhaltiger 
+Entwicklungen. 
+ 
+Innovations- und Analysekompetenz: 
+Die Studierenden erwerben die Fähigkeit, Innovationsprozesse in Medien und 
+Journalismus zu verstehen, zu reflektieren und mitzugestalten. Sie lernen, zwischen 
+strategisch geplanten und strukturell erzwungenen Innovationen zu unterscheiden und 
+deren Potenziale für Qualitätsjournalismus und Gesellschaft einzuschätzen. 
+ 
+Forschungsmethodische Qualifikation: 
+Der Studiengang vermittelt vertiefte Kenntnisse in der empirischen Sozialforschung und 
+angewandten Kommunikations- und Medienforschung. Die Studierenden können eigene 
+
+[Page 5]
+01/2025_06 
+ 
+ 
+ 
+5 
+Forschungsprojekte konzipieren, durchführen und evaluieren – insbesondere in den 
+Bereichen Formatentwicklung, Medienorganisation und Innovationsmanagement. 
+ 
+Praxisorientierte Transferkompetenz: 
+Die Studierenden werden dazu befähigt, wissenschaftliche Erkenntnisse in journalistische 
+Praxis zu übertragen. Sie entwickeln eigenständig digitale Formate, testen redaktionelle 
+Innovationsprojekte 
+in 
+Kooperation 
+mit 
+Medienpartnern 
+und 
+gestalten 
+neue 
+Organisationsformen in Redaktionen. 
+ 
+Gesellschaftliches Verantwortungsbewusstsein: 
+Der Studiengang schärft das Bewusstsein für den normativen Auftrag des Journalismus. 
+Themen wie Medienethik, Nachhaltigkeit, Diversität und gesellschaftliche Verantwortung 
+sind integrale Bestandteile des Curriculums und fließen in die praktische Projektarbeit ein. 
+ 
+Berufsfeldvorbereitung: 
+Die Absolvent*innen sind qualifiziert für Tätigkeiten in innovativen Redaktionen, 
+Entwicklungsredaktionen, Medien-Start-ups, der journalistischen Strategieberatung 
+sowie im Medienmanagement oder in der wissenschaftlichen Forschung. Sie sind in der 
+Lage, unternehmerisch zu denken, neue Geschäftsmodelle zu bewerten und 
+journalistische Zukunftsprojekte professionell umzusetzen. 
+ 
+1.3. 
+Aufbauende Qualifizierungsmöglichkeiten 
+Der Masterstudiengang Journalistik mit dem Schwerpunkt Innovation, Management und 
+Gesellschaft qualifiziert Absolvent*innen für eine forschungsnahe, analytisch und 
+konzeptionell anspruchsvolle Auseinandersetzung mit dem Journalismus der Zukunft. 
+Aufbauend auf den erworbenen methodischen und theoretischen Kompetenzen eröffnet 
+der Studiengang den Zugang zu einer Promotion im Bereich Kommunikations-, Medien- 
+oder Journalismusforschung – insbesondere in forschungsstarken Einrichtungen oder 
+Graduiertenkollegs. Darüber hinaus befähigt er zu einer Tätigkeit in interdisziplinären 
+Innovations- und Medienforschungsprojekten oder zur wissenschaftlichen Mitarbeit an 
+Hochschulen. Studierende, die sich für eine akademische Laufbahn interessieren, finden 
+im Studiengang durch die Forschungsorientierung und die Betreuung eigener empirischer 
+Projekte ein solides Fundament für weiterführende wissenschaftliche Qualifikationen (z.B. 
+Promotion). 
+ 
+1.4. 
+Arbeitsmarktsituation und Berufsfelder 
+Absolvent*innen 
+des 
+Masterstudiengangs 
+sind 
+besonders 
+gefragt 
+in 
+einem 
+Medienumfeld, das von digitalen Transformationsprozessen, Formatwandel und 
+Innovationsdruck geprägt ist. Sie arbeiten an der Schnittstelle von Journalismus, 
+Medienentwicklung und strategischem Management. Typische Berufsfelder sind 
+Entwicklungs- 
+und 
+Innovationsredaktionen, 
+Format- 
+und 
+Projektmanagement, 
+Redaktionsorganisation, 
+Change 
+Management, 
+Strategieberatung, 
+digitale 
+Medienkonzeption oder Forschung und Lehre. Auch Tätigkeiten in Start-ups, 
+Stiftungsprojekten, NGOs oder in kommunikativen Leitungsfunktionen traditioneller 
+Medienhäuser sind möglich. Die Verbindung von Theorie, Praxis und Verantwortung 
+
+[Page 6]
+01/2025_06 
+ 
+ 
+ 
+6 
+macht die Absolventinnen zu gefragten Fachkräften für eine journalistische Berufswelt, 
+die Kreativität, Reflexionsfähigkeit und strategisches Denken erfordert. 
+ 
+ 
+2. Aufbau des Studiengangs 
+2.1. 
+Grundsätzlicher Aufbau des Studiengangs 
+Der Masterstudiengang ist ein viersemestriger, forschungsorientierter Vollzeitstudiengang 
+(mit Option Teilzeit in acht Semester), der sich durch eine enge Verzahnung von Theorie, 
+Forschung und anwendungsbezogener Projektarbeit auszeichnet. Das Curriculum 
+umfasst Grundlagen-, Vertiefungs- und Forschungsmodule sowie Wahlpflichtbereiche 
+zur individuellen Schwerpunktsetzung. Es richtet sich gleichermaßen an Absolvent*innen 
+des Eichstätter Bachelorstudiengangs Journalistik wie auch an Bewerberinnen 
+verwandter Studiengänge aus der Kommunikations- und Medienwissenschaft. 
+ 
+2.2. 
+Pflichtbereich 
+Im Masterstudiengang Journalistik mit dem Schwerpunkt Innovation, Management und 
+Gesellschaft sind Pflichtmodule im Umfang von insgesamt 80 ECTS-Punkten zu 
+absolvieren. Sie bilden das inhaltliche Kerncurriculum des Studiengangs und vermitteln 
+grundlegende 
+sowie 
+vertiefende 
+Kenntnisse 
+in 
+Journalistik, 
+Kommunikationswissenschaft, Medienrecht, Organisationsentwicklung, empirischer 
+Forschung, Medienökonomie und journalistischer Innovation. 
+Zu den Pflichtmodulen zählen unter anderem: 
+• Journalistik / Kommunikations- und Medienwissenschaft, 
+• Berichterstattungsmuster und –formate, 
+• Medienrecht und Digitalisierung, 
+• Qualität und Qualitätsforschung, 
+• Journalismus und gesellschaftliche Leistungen, 
+• Empirische Kommunikationsforschung II, 
+• Mitarbeiterführung 
+• Organisations- und Formatentwicklung, 
+• Medienökonomie, Strategie- und Change Management, 
+• Nachhaltigkeit in Journalismus und Medienunternehmen, 
+• Entwicklung innovativer Formate, 
+• Organisation von Redaktion und Medien 
+Die Prüfungsformen sind vielfältig und reichen je nach Modul von Klausuren über 
+Hausarbeiten und Portfolios bis zu Projektskizzen. 
+2.3. 
+Wahlpflichtbereich 
+Im Wahlpflichtbereich müssen die Studierenden Module im Umfang von 10 ECTS-
+Punkten absolvieren. Ziel dieses Bereichs ist es, theoretische und methodische 
+Kenntnisse aus angrenzenden Disziplinen wie Politikwissenschaft, Soziologie, Ethik oder 
+Wirtschaft zu vertiefen. 
+ 
+Zur Auswahl stehen u. a. Module wie: 
+ 
+
+[Page 7]
+01/2025_06 
+ 
+ 
+ 
+7 
+ Empirische Kommunikationsforschung I, besonders empfohlen für Studierende ohne 
+methodische Vorkenntnisse, 
+ 
+• Vergleichende Politikwissenschaft, wahlweise in einer 5- oder 10-ECTS-Punkte-
+Version, 
+• Politische Theorie und Philosophie, 
+• Fortgeschrittene soziologische Theorie oder prozessorientierte Soziologie, 
+• Ethik und Gesellschaft, 
+• Grundlagen der Betriebswirtschaftslehre sowie Mikroökonomie. 
+ 
+2.4. 
+Studium.Pro 
+Es ist verpflichtend ein Modul im Umfang von 5 ECTS-Punkten erfolgreich zu absolvieren. 
+ 
+2.5. 
+Praxisbezug 
+Der Masterstudiengang Journalistik mit dem Schwerpunkt Innovation, Management und 
+Gesellschaft zeichnet sich durch eine enge Verbindung von wissenschaftlicher Forschung 
+und journalistischer Praxis aus. Anders als im Bachelorstudium liegt der Schwerpunkt 
+dabei nicht auf der praktischen Produktion journalistischer Beiträge, sondern auf der 
+forschungsbasierten Entwicklung, Evaluation und strategischen Umsetzung neuer 
+journalistischer Formate und Organisationsformen. Studierende entwerfen und testen 
+beispielsweise digitale Nachrichtenformate oder begleiten Innovationsprozesse in 
+Redaktionen. 
+ 
+2.6. 
+Ausgestaltung der Internationalisierung 
+Die Internationalisierung spielt im Masterstudiengang eine unterstützende, flexible Rolle. 
+Auch wenn kein verpflichtendes Auslandssemester vorgesehen ist, steht den 
+Studierenden offen, freiwillig ein Semester an einer Partneruniversität im Ausland oder ein 
+Auslandspraktikum in das Studium zu integrieren. Zahlreiche Studierende nutzen diese 
+Möglichkeit im dritten Semester, wenn projektorientiertes Arbeiten besonders gut mit 
+einer praxisnahen Auslandserfahrung kombinierbar ist. Der Studiengang bereitet zudem 
+inhaltlich auf internationale Entwicklungen im Journalismus vor, etwa durch die 
+Auseinandersetzung mit globalen Innovationsprozessen, digitalen Plattformstrategien 
+und gesellschaftlichen Herausforderungen wie Desinformation oder Nachhaltigkeit. 
+
+[Page 8]
+01/2025_06 
+ 
+ 
+ 
+8 
+D. Beitrag des Studiengangs zum KU-Profil auf der Grundlage 
+des Leitbilds für Studium und Lehre 
+ 
+Der Masterstudiengang Journalistik mit dem Schwerpunkt Innovation, Management und 
+Gesellschaft trägt in besonderer Weise zur Umsetzung des Leitbilds für Studium und 
+Lehre 
+der 
+Katholischen 
+Universität 
+Eichstätt-Ingolstadt 
+bei, 
+das 
+sich 
+im 
+programmatischen Vierklang „diskursiv – vernetzt – engagiert – persönlich“ entfaltet. 
+ 
+Diskursiv: 
+Im Zentrum des Studiengangs steht die wissenschaftsgeleitete Auseinandersetzung mit 
+Transformationsprozessen 
+im 
+Journalismus. 
+Studierende 
+werden 
+aktiv 
+in 
+forschungsbasierte Diskurse eingebunden und entwickeln – in engem Austausch mit 
+Lehrenden und Praxispartnern – fundierte Konzepte für journalistische Innovation. Der 
+Studiengang fördert kritisches Denken, methodisches Arbeiten und theoretische 
+Reflexion und macht so forschendes Lernen im Sinne des KU-Leitbilds erlebbar. 
+ 
+Vernetzt: 
+Der Master lebt von interdisziplinären Perspektiven: Über Wahlpflichtmodule aus Politik, 
+Soziologie, Ethik und Wirtschaft erweitern die Studierenden ihr Verständnis von 
+Journalismus als gesellschaftlicher Praxis. Gleichzeitig kooperiert der Studiengang eng 
+mit Medienhäusern in Forschung und Lehre und fördert damit die enge Verbindung von 
+Wissenschaft, 
+Praxis 
+und 
+Gesellschaft. 
+Die 
+Möglichkeit 
+eines 
+freiwilligen 
+Auslandssemesters oder -praktikums eröffnet internationale Perspektiven und stärkt 
+globale Anschlussfähigkeit. 
+ 
+Engagiert: 
+Der Studiengang greift gesellschaftlich relevante Themen wie Nachhaltigkeit, digitale 
+Ethik, Plattformjournalismus und Verantwortung in der Medienorganisation auf. Er 
+befähigt die Studierenden, innovative Lösungen für aktuelle Herausforderungen zu 
+entwickeln und kritisch zu evaluieren. Damit versteht sich der Master als aktiver Beitrag 
+zur Mitgestaltung einer zukunftsfähigen, verantwortungsvollen Medienlandschaft – im 
+Sinne einer engagierten akademischen Bildung. 
+ 
+Persönlich: 
+Mit kleinen Studiengruppen, projektbasiertem Arbeiten und einer intensiven individuellen 
+Betreuung schafft der Master ideale Voraussetzungen für persönliche Entwicklung, 
+kreative Entfaltung und eigenständiges Denken. Studierende werden darin bestärkt, ihre 
+Kompetenzen selbstverantwortlich auszubauen und ihren Weg in Wissenschaft oder 
+Medienpraxis aktiv zu gestalten. So unterstützt der Studiengang die KU-Vision einer 
+akademischen 
+Ausbildung, 
+die 
+Persönlichkeitsbildung 
+und 
+gesellschaftliches 
+Engagement miteinander verbindet.

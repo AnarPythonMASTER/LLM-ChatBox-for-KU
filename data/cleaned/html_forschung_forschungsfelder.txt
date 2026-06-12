@@ -1,0 +1,26 @@
+SOURCE_URL: https://www.ku.de/forschung/forschungsfelder
+TITLE: Forschungsfelder – KU
+SOURCE_FILE: forschung_forschungsfelder.html
+------------------------------------------------------------
+
+Grundlagenforschung und praxisnahe Wissenschaft stehen an der KU gleichberechtigt nebeneinander. Eingebunden in ein breites internationales Netzwerk, trägt sie zur Gewinnung und Verbreitung neuer wissenschaftlicher Erkenntnisse bei und wirkt weit in die Gesellschaft hinein. Sie leistet einen Dienst am Gemeinwohl, indem sie Verfahren und Instrumente entwickelt, welche die Verantwortung des Wissenschaftssystems gegenüber der Gesellschaft einbeziehen.
+In einer Zeit, in der es gilt, große Herausforderungen wie den fortschreitenden anthropogenen Klimawandel, die digitale Transformation oder die Herausforderungen der freiheitlichen Demokratien zu bewältigen, bedarf es eines breiten Spektrums an geistes- und sozialwissenschaftlicher sowie naturwissenschaftlicher Forschung, um die Bedingungen für ein positives gesellschaftliches Miteinander weiterentwickeln und Zukunft aktiv mitgestalten zu können. Mit ihrem besonderen Profil kann die KU hierfür einen Beitrag leisten, indem sie ihre Forschenden gezielt zur ethischen Reflexion wissenschaftlichen Arbeitens anregt, neue Erkenntnisse in gesellschaftliche Zusammenhänge einordnet, diese bewertet und so auch Orientierungs- und Transformationswissen für eine nachhaltige Entwicklung bereitstellt.
+(KU Entwicklungsplan 2030)
+Forschungsfeld:
+Maschinelles Lernen und Data Science
+Digitale Daten und Medien sind heute allgegenwärtig. Die Digitalisierung steht erst am Anfang; Sie beginnt nun zunehmend, sämtliche Aspekte unseres Lebens zu durchdringen und neu zu gestalten. Ihr riesiges, bisher nur ansatzweise genutztes Potential gewinnbringend einzusetzen und sie dabei verantwortungsbewusst weiterzuentwickeln, ist eine der zentralen Herausforderungen unserer Zeit.
+Mehr Informationen zu diesem Forschungsfeld
+Forschungsfeld:
+Umwelt und Nachhaltigkeit
+Nachhaltigkeit ist als interdisziplinäres Forschungsthema in allen Fakultäten an der KU breit verankert.
+Die komplexen Wechselbeziehungen und Herausforderungen, die sich zwischen Mensch und Mitwelt ergeben, werden ebenso adressiert wie die Erkenntnisse von Geistes- und Sozialwissenschaften sowie Naturwissenschaften miteinander verbunden.
+Mehr Informationen zum Forschungsfeld
+Forschungsfeld:
+Ethik, Religion, Kultur und Gesellschaft
+Die geistes-, sozial- und kulturwissenschaftliche Grundlagenforschung an der KU leistet einen essenziellen Beitrag zur Bewältigung großer gesellschaftlicher Herausforderungen. Mit einer tiefgehenden Analyse von kulturellen Narrativen, sozialen Strukturen und historischen Kontexten tragen diese Disziplinen entscheidend dazu bei, das Verständnis für komplexe globale Probleme wie soziale Ungleichheit, kulturelle Konflikte und Umweltkrisen zu vertiefen. Indem sie differenzierte Perspektiven bieten und neue Erkenntnisse generieren,
+Mehr Informationen zu diesem Forschungsfeld
+Forschungsfeld:
+Practicing Place – Interdisziplinäre kulturwissenschaftliche Verortungsforschung
+Das DFG-Graduiertenkolleg „Practicing Place: Socio-Cultural Practices and Epistemic Configurations” (GRK 2589) widmet sich der kritischen Reflexion der Begriffe „Ort” und „Ortung” aus interdisziplinärer Perspektive. Das Projekt greift damit wichtige Desiderata der kulturwissenschaftlichen Grundlagenforschung auf. Orte und Verortungen stehen im Zentrum von Diskussionen über komplexe globale Verflechtungen, insbesondere in einer Zeit zunehmender transnationaler Interdependenzen und scheinbar grenzenloser Kommunikationsnetzwerke.
+Mehr Informationen zu diesem Forschungsfeld
+(Stand Dezember 2025)

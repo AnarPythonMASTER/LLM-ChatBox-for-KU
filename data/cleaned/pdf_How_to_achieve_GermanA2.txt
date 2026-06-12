@@ -1,0 +1,41 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/How_to_achieve_GermanA2.pdf
+TITLE: How_to_achieve_GermanA2.pdf
+SOURCE_FILE: How_to_achieve_GermanA2.pdf
+------------------------------------------------------------
+
+[Page 1]
+How to achieve German A2 – Campus Ingolstadt 
+A1.1 (1st semester)
+• Pre-semester German intensive 
+Course A1.1 
+(fee-based) 
+A1.2 (1st semester)
+• German A1.2 (2 SWS) 
+A2 (2nd semester)
+• German A2 (4 SWS)
+A1 (1st semester)
+• German A1 (4 SWS)
+A2 (2nd semester)
+• German A2 (4 SWS)
+A 2
+OR
+N.B. Option 1 is fee-based, but less stressful for students. Option 2 is for free, but often not 
+feasible because of overlapping courses. 
+
+[Page 2]
+How to achieve German A2 – Campus Eichstätt 
+A 2
+A1.1 (1st semester)
+•Pre-semester intensive 
+German (fee-based) –
+Campus IN 
+A1.2 (1st semester) 
+•German A1.2 (2 SWS) –
+Campus IN
+A2.1 (2nd semester)
+•Pre-semester intensive 
+German (fee-based) –
+Campus EI
+A2.2 (2nd semester)
+•German A2.2 (2 SWS) –
+Campus EI

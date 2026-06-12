@@ -1,0 +1,94 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_Master_Taxation_SoSe_2020.pdf
+TITLE: Wahlpflichtkatalog_Master_Taxation_SoSe_2020.pdf
+SOURCE_FILE: Wahlpflichtkatalog_Master_Taxation_SoSe_2020.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+M.Sc. Taxation 
+ 
+1. nach § 8 der Prüfungsordnung für den Masterstudiengang Taxation in der Fassung vom 
+18.10.2019. 
+2. Geltungsbereich zum SoSe 2020 
+3. vom Fakultätsrat der Fakultät WWF beschlossen am 18.12.2019 
+ 
+ 
+Auflistung der Wahlpflichtmodule 
+In der PO verankerte Wahlpflichtbereiche: 
+ 
+Wahlpflichtbereich Taxation, 
+Wahlpflichbereich Minor Accounting & Auditing, 
+Wahlpflichtbereich Minor Business Law, 
+Wahlpflichtbereich Minor Digitization and Digital Businesses, 
+Wahlpflichbereich Minor Quantitative Methods. 
+ 
+ 
+1. Modulangebot im Wahlpflichtbereich Taxation 
+Abgabenordnung (5 ECTS-Punkte), Modulprüfung: Klausur 
+Corporate Tax Avoidance (2,5 ECTS-Punkte), Modulprüfung: Seminararbeit/Präsentation 
+Fallstudien zu Umwandlungs- und internationalem Steuerrecht (2,5 ECTS-Punkte), 
+Modulprüfung: Präsentation 
+Internationale Verrechnungspreise und Gewinnabgrenzung (2,5 ECTS-Punkte), 
+Modulprüfung: Präsentation 
+MA-Seminar „Aktuelle Fragen der Unternehmensbesteuerung“ (5 ECTS-Punkte), 
+Modulprüfung: Seminararbeit/Präsentation 
+Multinationale Unternehmen und ihre Besteuerung (5 ECTS-Punkte), Modulprüfung: 
+Klausur 
+Seminar „Current Issues in Tax Policy“ (5 ECTS-Punkte), Modulprüfung: 
+Seminararbeit/Präsentation 
+Steuerfunktion 4.0 – Kernelemente einer Digitalisierungsstrategie (2,5 ECTS-Punkte), 
+Modulprüfung: Präsentation 
+Strukturgestaltungen im Konzern (5 ECTS-Punkte), Modulprüfung: Präsentation 
+Umsatzsteuerrecht (5 ECTS-Punkte), Modulprüfung: Präsentation 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Umwandlungssteuerrecht (5 ECTS-Punkte), Modulprüfung: Klausur 
+ 
+ 
+2. Modulangebot im Wahlpflichtbereich Minor Accounting & Auditing 
+Internationale Rechnungslegung, Prüfung und Unternehmensbewertung (5 ECTS-Punkte), 
+Modulprüfung: Klausur 
+Kapitalmarktorientierte Rechnungslegung (5 ECTS-Punkte), Modulprüfung: Klausur 
+Seminar Accounting & Controlling (5 ECTS-Punkte), Modulprüfung: 
+Seminararbeit/Präsentation 
+Seminar Accounting & Auditing (5 ECTS-Punkte), Modulprüfung: 
+Seminararbeit/Präsentation 
+Wirtschaftliches Prüfungswesen (5 ECTS-Punkte), Modulprüfung: Klausur 
+ 
+3. Modulangebot im Wahlpflichtbereich Minor Business Law 
+Bilanzrecht (5 ECTS-Punkte), Modulprüfung: Klausur 
+Europäisches Wirtschaftsrecht (5 ECTS-Punkte), Modulprüfung: Klausur 
+Insolvenzrecht (5 ECTS-Punkte), Modulprüfung: Klausur 
+Umwandlungsrecht (5 ECTS-Punkte), Modulprüfung: Klausur 
+ 
+4. Modulangebot im Wahlpflichtbereich Minor Digitization and Digital Businesses 
+Algorithmen und Datenstrukturen (5 ECTS-Punkte), Modulprüfung: Klausur o. mündliche 
+Prüfung 
+Data Science Werkzeuge (5 ECTS-Punkte), Modulprüfung: Klausur 
+Data Science Methoden (5 ECTS-Punkte), Modulprüfung: Klausur 
+Digital Business Models and Technologies (5 ECTS-Punkte), Modulprüfung: Klausur 
+Innovation Economics (5 ECTS-Punkte), Modulprüfung: Klausur 
+Service Analytics (5 ECTS-Punkte), Modulprüfung: Klausur 
+ 
+5. Modulangebot im Wahlpflichtbereich Minor Quantitative Methods 
+Empirical Finance (5 ECTS-Punkte), Modulprüfung: Case Studies/Klausur 
+International Tax: Interdisciplinary Aspects (5 ECTS-Punkte), Modulprüfung: Präsentation 
+Lektürekurs zur Ökonometrie (5 ECTS-Punkte), Modulprüfung: Klausur o. mündliche 
+Prüfung 
+
+[Page 3]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Lektürekurs zur Statistik (5 ECTS-Punkte), Modulprüfung: Klausur o. mündliche Prüfung 
+Quasi-experimental Policy Evaluation (5 ECTS-Punkte), Modulprüfung: Seminararbeit 
+Seminar Statistik (5 ECTS-Punkte), Modulprüfung: Seminararbeit/Präsentation/Poster 
+Seminar Ökonometrie (5 ECTS-Punkte), Modulprüfung: Seminararbeit/Präsentation/Poster 
+Statistische Prognoseverfahren (5 ECTS-Punkte), Modulprüfung: Klausur 
+Zeitreihenanalyse (5 ECTS-Punkte), Modulprüfung: Klausur 
+ 
+Im Wahlbereich kann aus dem gesamten Masterangebot der wirtschaftswissenschaftlichen 
+Fakultät gewählt werden.

@@ -1,0 +1,286 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/KU_Lehramt_Faecherkombinationen_MS_aktuell.pdf
+TITLE: KU_Lehramt_Faecherkombinationen_MS_aktuell.pdf
+SOURCE_FILE: KU_Lehramt_Faecherkombinationen_MS_aktuell.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Lehramt Mittelschule 
+Fächerkombinationsmöglichkeiten an der KU 
+ 
+Unterrichtsfach 
+ 
+Didaktiken einer Fächergruppe der Mittelschule* 
+ 
+Didaktikfach 1 
+Didaktikfach 2 
+Didaktikfach 3 
+Deutsch 
+Beruf und Wirtschaft 
+Beruf und Wirtschaft 
+Kunst 
+Biologie 
+Biologie 
+Englisch 
+Englisch 
+Musik 
+Geographie 
+Geographie 
+Geschichte 
+Geschichte 
+Katholische Religionslehre 
+Mathematik 
+Mathematik 
+Sport 
+Politik und Gesellschaft 
+Politik und Gesellschaft 
+ 
+Deutsch als Zweitsprache 
+ 
+Beruf und Wirtschaft 
+Beruf und Wirtschaft 
+Kunst 
+Biologie 
+Biologie 
+Englisch 
+Englisch 
+Musik 
+Geographie 
+Geographie 
+Geschichte 
+Geschichte 
+Katholische Religionslehre 
+Mathematik 
+Mathematik 
+Sport 
+Politik und Gesellschaft 
+Politik und Gesellschaft 
+ 
+Englisch**** 
+ 
+Deutsch 
+Beruf und Wirtschaft 
+Kunst 
+Biologie 
+Deutsch 
+Musik 
+Deutsch als Zweitsprache* 
+Mathematik 
+Geographie 
+Katholische Religionslehre 
+Geschichte 
+Mathematik 
+Sport 
+Politik und Gesellschaft 
+ 
+Geographie 
+ 
+Deutsch 
+Beruf und Wirtschaft 
+Kunst 
+Biologie 
+Deutsch 
+Musik 
+Deutsch als Zweitsprache* 
+Mathematik 
+Englisch 
+Katholische Religionslehre 
+Geschichte 
+Mathematik 
+Sport 
+Politik und Gesellschaft 
+ 
+Geschichte 
+ 
+Deutsch 
+Beruf und Wirtschaft 
+Kunst 
+Biologie 
+Deutsch 
+Musik 
+Deutsch als Zweitsprache* 
+Mathematik 
+Englisch 
+Katholische Religionslehre 
+Geographie 
+Mathematik 
+Sport 
+Politik und Gesellschaft 
+ 
+Kunst*** 
+ 
+Deutsch 
+Beruf und Wirtschaft 
+Beruf und Wirtschaft 
+Biologie 
+Biologie 
+Deutsch 
+Deutsch 
+Deutsch als Zweitsprache* 
+Deutsch als Zweitsprache* 
+Englisch 
+Englisch 
+Geographie 
+Geographie 
+Mathematik 
+Geschichte 
+Geschichte 
+Mathematik 
+Mathematik 
+Musik 
+Politik und Gesellschaft 
+Politik und Gesellschaft 
+Katholische Religionslehre 
+Sport 
+ 
+Mathematik 
+ 
+Beruf und Wirtschaft 
+Beruf und Wirtschaft 
+Kunst 
+Biologie 
+Biologie 
+Deutsch 
+Deutsch 
+Musik 
+Deutsch als Zweitsprache* 
+Deutsch als Zweitsprache* 
+Englisch 
+Englisch 
+Katholische Religionslehre 
+Geographie 
+Geographie 
+Geschichte 
+Geschichte 
+Sport 
+Politik und Gesellschaft 
+Politik und Gesellschaft 
+
+[Page 2]
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* Die unter „Didaktikfach 1“, „Didaktikfach 2“ und „Didaktikfach 3“ aufgelisteten Fächer können jeweils beliebig miteinander kombiniert werden, allerdings 
+darf innerhalb der Didaktiken einer Fächergruppe der Mittelschule ein Fach nicht zweimal gewählt werden und die Fächer Deutsch und Deutsch als 
+Zweitsprache dürfen nicht miteinander kombiniert werden. 
+** Zulassungsbeschränkung – fristgerechte Bewerbung erforderlich 
+*** Eignungsprüfung – fristgerechte Anmeldung erforderlich 
+**** Eignungsfeststellungsverfahren – fristgerechte Anmeldung erforderlich 
+ 
+Erweiterungen (ab dem dritten Fachsemester): 
+- 
+weiteres Unterrichtsfach 
+- 
+Ethik 
+- 
+Beratungslehrkraft 
+- 
+Didaktik der Grundschule 
+- 
+fremdsprachliche Qualifikation (nur als nachträgliche Erweiterung möglich) 
+- 
+Psychologie mit schulpsychologischem Schwerpunkt** (nur als nachträgliche Erweiterung möglich) 
+ 
+Bei Fragen wenden Sie sich bitte an die Studierendenberatung der KU (studierendenberatung@ku.de). 
+Unterrichtsfach 
+ 
+Didaktiken einer Fächergruppe der Mittelschule* 
+ 
+Didaktikfach 1 
+Didaktikfach 2 
+Didaktikfach 3 
+Musik*** 
+Deutsch 
+Beruf und Wirtschaft 
+Beruf und Wirtschaft 
+Biologie 
+Biologie 
+Deutsch 
+Deutsch 
+Deutsch als Zweitsprache* 
+Deutsch als Zweitsprache* 
+Englisch 
+Englisch 
+Geographie 
+Geographie 
+Mathematik 
+Geschichte 
+Geschichte 
+Kunst 
+Mathematik 
+Mathematik 
+Politik und Gesellschaft 
+Politik und Gesellschaft 
+Katholische Religionslehre 
+Sport 
+ 
+Katholische 
+Religionslehre 
+ 
+Deutsch 
+Beruf und Wirtschaft 
+Beruf und Wirtschaft 
+Biologie 
+Biologie 
+Deutsch 
+Deutsch 
+Deutsch als Zweitsprache* 
+Deutsch als Zweitsprache* 
+Englisch 
+Englisch 
+Geographie 
+Geographie 
+Mathematik 
+Geschichte 
+Geschichte 
+Kunst 
+Mathematik 
+Mathematik 
+Musik 
+Politik und Gesellschaft 
+Politik und Gesellschaft 
+Sport 
+ 
+Politik und Gesellschaft 
+ 
+Deutsch 
+Beruf und Wirtschaft 
+Kunst 
+Biologie 
+Deutsch 
+Musik 
+Deutsch als Zweitsprache* 
+Mathematik 
+Englisch 
+Katholische Religionslehre 
+Geographie 
+Geschichte 
+Sport 
+Mathematik 
+ 
+Psychologie mit 
+schulpsychologischem 
+Schwerpunkt** 
+ 
+Deutsch 
+Beruf und Wirtschaft 
+Kunst 
+Biologie 
+Deutsch 
+Musik 
+Deutsch als Zweitsprache* 
+Mathematik 
+Englisch 
+Katholische Religionslehre 
+Geographie 
+Geschichte 
+Sport 
+Mathematik 
+Politik und Gesellschaft 
+Grundlage: § 37 LPO I; Stand 05 / 2025

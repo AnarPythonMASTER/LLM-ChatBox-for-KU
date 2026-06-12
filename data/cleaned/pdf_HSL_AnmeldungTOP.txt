@@ -1,0 +1,40 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/HSL_AnmeldungTOP.pdf
+TITLE: HSL_AnmeldungTOP.pdf
+SOURCE_FILE: HSL_AnmeldungTOP.pdf
+------------------------------------------------------------
+
+[Page 1]
+Ausgefülltes Formular mit evtl. Anlagen in EINEM pdf-
+Dokument an referentin-praesidentin@ku.de senden mit 
+dem Betreff: Anmeldung eines Tops für die Sitzung der 
+HSL am (Datum einfügen) 
+Anmeldung eines Tagesordnungspunktes 
+Antragsteller/in: 
+Organisationseinheit: 
+Datum der Sitzung: 
+Datum der Einreichung: 
+Tagesordnungspunkt 
+Themenbereich: 
+eingereicht über1: 
+abgestimmt mit2: 
+Thema: 
+Beschlussvorlage3: 
+1 Der TOP muss mit einem der Präsidiumsmitglieder vorbesprochen sein und darf nur über dieses Mitglied eingebracht werden. 
+2 Viele Themen müssen auch mit der Personal-, Finanz- bzw. Rechtsabteilung vorbesprochen werden, dafür muss eine Empfehlung bzw. Stellungnahme der jeweiligen Abteilung (je 
+nach Thema) als Anlage vorgelegt werden (siehe Formular). 
+3 Zum [Thema des Beschlusses] beschließt das Präsidium, dass [Formulierung des Beschlusses: konkrete Entscheidung, Maßnahme und Verantwortlichen]. Der Beschluss tritt ab 
+dem [Datum] in Kraft. 
+Diskussionspunkt mit Beschluss/Votum
+Kenntnisnahme/Information
+Diskussionspunkt mit Beschluss/Votum
+Diskussionspunkt mit Beschluss/Votum
+Wählen Sie ein Element aus.
+Wählen Sie ein Element aus.
+Wählen Sie ein Element aus.
+
+[Page 2]
+Beschreibung4: 
+Anlagen: 
+erforderlich und enthalten 
+nicht erforderlich 
+4 [Kurze Beschreibung der Situation oder des Kontextes, der den Beschluss notwendig macht. Ziel, Nutzen und Rahmenbedingungen einfügen].

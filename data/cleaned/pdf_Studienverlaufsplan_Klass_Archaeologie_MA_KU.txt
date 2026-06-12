@@ -1,0 +1,112 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Klass_Archaeologie_MA_KU.pdf
+TITLE: Studienverlaufsplan_Klass_Archaeologie_MA_KU.pdf
+SOURCE_FILE: Studienverlaufsplan_Klass_Archaeologie_MA_KU.pdf
+------------------------------------------------------------
+
+[Page 1]
+EXEMPLARISCHER STUDIENVERLAUFSPLAN FÜR 'Klassische 
+Archäologie' – M.A. 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+MA-Modul: MA-Arbeit und Oberseminar mit Vortrag 
+(30 ECTS-Punkte) 
+ 
+ 
+30 
+ECTS-
+Punkte 
+3 
+HS* Exempl. Stud. 
+Archäologie im K 
+Wiss. Führung/Exkursion 
+(5 ECTS-Punkte) 
+Vertiefung* Semesterarbeit 
+große Sem.arbeit 
+(10 ECTS-Punkte) 
+ 
+Praktikum 
+aus 
+einem der 
+gewählt. 
+Fächer 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 
+ECTS-
+Punkte) 
+Individuale 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+2 
+Vertiefung* Wiss. Prakt. mit Bericht 
+oder 
+Vertiefung Auswärtssemester 
+Learning Agreement 
+(je 15 ECTS-Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 
+ECTS-
+Punkte) 
+Individuale 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+1 
+Methoden der Klass. 
+Archäologie 
+mündl. 
+Prüfung/Klausur 
+(5 ECTS-Punkte) 
+Studium.Pro 
+(5 ECTS-Punkte) 
+HS Exempl. Stud. 
+Referat/Hausarbeit 
+(5 ECTS-Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 
+ECTS-
+Punkte) 
+Individuale 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+ 
+Die Studierenden können aufgrund der Wahlpflichtbereiche (*) in ihrem individuellen Studienplan die Module in einer 
+anderen Reihenfolge studieren. Sie übernehmen damit die Verantwortung für den Studienverlauf, die Schwerpunktbildung 
+und letztlich auch die Studiendauer mit. Bei der Wahl werden sie intensiv durch die Fachstudienberatung betreut. 
+Regelmäßiger Besuch der Sprechstunden ist dringend angeraten. Fach 2 muß im Umfang von 25 ECTS-Punkten studiert 
+werden, weitere 15 ECTS können das Studium Individuale erworben werden. 
+ 
+Legende: 
+ 
+Pflicht 
+ 
+Wahlpflicht 
+ 
+Masterarbeit 
+ 
+Studium.Pro 
+ 
+Fach 2

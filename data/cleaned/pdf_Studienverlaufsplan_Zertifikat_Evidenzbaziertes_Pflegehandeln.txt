@@ -1,0 +1,23 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Zertifikat_Evidenzbaziertes_Pflegehandeln.pdf
+TITLE: Studienverlaufsplan_Zertifikat_Evidenzbaziertes_Pflegehandeln.pdf
+SOURCE_FILE: Studienverlaufsplan_Zertifikat_Evidenzbaziertes_Pflegehandeln.pdf
+------------------------------------------------------------
+
+[Page 1]
+Idealtypischer Ablaufplan Weiterbildungszertiﬁkat „Evidenzbasiertes Pﬂegehandeln in Beratung, Edukation, Diagnostik und Klassiﬁkation 
+in komplexen Pﬂegeprozessen“ 
+ 
+Stand Juni 2025 
+Wintersemester 
+Modul „Techniken für wissenschaftliches Arbeiten 
+und Schreiben“ (5 ECTS) 
+ 
+Prüfungsleistung Studienarbeit 
+Modul „Diagnostik und Klassiﬁkation komplexer 
+Pﬂegeprozesse“ (10 ECTS) 
+ 
+Prüfungsleistung Portfolio 
+Sommersemester 
+Modul „Beratung und Edukation durch Pﬂege“ (10 ECTS) 
+ 
+Prüfungsleistung Studienarbeit

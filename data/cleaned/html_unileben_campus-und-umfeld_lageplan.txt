@@ -1,0 +1,230 @@
+SOURCE_URL: https://www.ku.de/unileben/campus-und-umfeld/lageplan
+TITLE: Lageplan Eichstätt – KU
+SOURCE_FILE: unileben_campus-und-umfeld_lageplan.html
+------------------------------------------------------------
+
+Lageplan zum download
+Lageplan Eichstätt mit Legende
+[2 MB | PDF]
+Aulabibliothek
+(eRS)
+Bereitschaftspolizei Hallenbad
+Domplatz 8
+(DP8)
+Ehemalige Orangerie
+(eO)
+Ehemalige Reitschule
+(eRS)
+Gabrieli-Gymnasium Turnhalle
+Hofgartenbibliothek
+Ingbert-Naab-Saal
+(INS)
+Interimsbau
+Kapuzinerkloster
+(KAP)
+Kardinal-Preysing-Platz 3 (KHG/Studihaus
+)
+KG Bau A
+(KGA)
+KG Bau B
+(KGB)
+KG Bau C
+(KGC)
+KG Bau D
+(KGD)
+KG Bau E
+(KGE)
+Luitpoldstraße 10
+(Stiftung, Lu10)
+Luitpoldstraße 32
+(Lu32)
+Maria Ward Turnhalle
+Marktplatz 2
+(MP2)
+Marktplatz 4
+(MP4)
+Marktplatz 7
+(MP7)
+Marktplatz 18
+(MP18)
+Mensa
+Osten 14
+(O14)
+Osten 17
+(O17)
+Osten 18
+(O18)
+Osten 27
+(O27)
+Osten 28a
+(O28a)
+Osten 29
+(O29)
+Pater-Philipp-Jeningen-Platz 2
+(PPJ)
+Salesianum
+Salzstadel 1
+Sollnau 30a
+Sommerresidenz
+(SR)
+Sportanlage Seidlkreuz
+Stiftungsverwaltung
+(Lu10)
+Ulmer Hof
+(UH)
+Uni-Kinderhaus
+Universitätsallee/Zentralbibliothek
+(UA)
+Waisenhaus
+(WH)
+Amerikanistik, Anglistik
+, UA
+Aula. KGD
+Bibliotheken
+–
+Zentralbibliothek
+, UA
+–
+Teilbibliothek 1
+, Ulmer Hof. UH
+–
+Teilbibliothek 2
+, Aula, O1
+–
+Teilbibliothek 3,
+Staats- und Sem. Bibliothek, Hofgarten
+–
+Zweigbibliothek Ingolstadt
+, Ingolstadt
+Cafeteria, Mensa
+, UA2
+Didaktik der Biologie
+, INTERIM
+Druckerei
+, eO
+Europäische Ethnologie, Volkskunde
+, UA
+Fakultät für Soziale Arbeit
+, KAP
+Fundbüro
+, eO
+Gebäude-/Facilitymanagement
+, KAP
+Geographie
+, O14, O18
+Germanistik
+, UA
+Geschichte
+, UA
+Geschichts- und Gesellschaftswissenschaftliche Fakultät
+, UA
+Graduiertenakademie
+. eO
+Hochschulleitung
+, SR
+International Office, DP8
+Journalistik
+, WH / eO
+Katholische Hochschulgemeinde Eichstätt, KHG
+Katholische Hochschulgemeinde Ingolstadt, KHG
+Klassische Archäologie
+, UA
+Klassische Philologie
+, UA
+Kunstgeschichte
+, UA
+Kunstpädagogik
+, KGE
+Mathematik
+, KGB
+Mathematisch-Geographische Fakultät
+, KGB
+Medienhaus der Journalistik
+, eO
+Medientechnik/Technischer Dienst
+, INTERIM
+Mensa, Cafeteria
+, UA 2
+MIDS
+, Georgianum Ingolstadt
+Musikwissenschaft/-pädagogik
+, KGE
+Pädagogik
+–
+Systemat. Pädagogik
+, eO
+–
+Historische/Vergleichende Pädagogik
+, KGB
+–
+Schulpädagogik
+, KGE / KGB
+–
+Sozialpädagogik
+. Lu32
+–
+Erwachsenenbildung
+, Lu32
+–
+Grundschulpädagogik
+. KGE
+Philosophie, KGE
+Philosophisch-Pädagogische Fakultät
+, KGE
+Politikwissenschaft
+, UA
+Poststelle
+, O28a
+Projektbüro „Mensch in Bewegung“
+, Marktplatz 18
+Prüfungsamt
+, MP7
+Psychologie
+, WH
+Rechenzentrum
+, eO
+Rechtsabteilung MP7
+Romanistik, UA
+School of Transformation and Sustainability
+, UH
+Soziologie
+, KAP
+Sportzentrum, Sportdidaktik
+, KGC
+Sprachenzentrum
+, O17
+Sprach- und Literaturwissenschaftliche Fakultät
+, UA
+Stabsabteilung Kommunikation und Marketing
+, SR
+Stiftung
+, Lu10
+Studierendenbüro
+, MP7
+Studierendenberatung
+, MP7
+Studi-Haus/Studentischer Konvent
+, KGC
+Theologische Fakultät
+, UH
+Tourismus
+, PPJ
+Uni-Kinderhaus
+, O18
+Universitätsarchiv
+, Sollnau 30
+Universitätsverwaltung
+, div. Gebäude
+Wirtschaftswissenschaftliche Fakultät, Ingolstadt
+Zentralinstitut für Ehe und Familie in der Gesellschaft
+(ZFG), MP4
+Zentralinstitut für Lateinamerika-Studien
+(ZILAS), DP8
+Zentrum Flucht und Migration
+, KAP
+Zentrum für Forschungsförderung
+, eO
+Zentrum für Lehrerinnen- und Lehrerbildung
+, KGE
+Zentrum für Religion, Kirche, Gesellschaft im Wandel
+, Salzst. 1

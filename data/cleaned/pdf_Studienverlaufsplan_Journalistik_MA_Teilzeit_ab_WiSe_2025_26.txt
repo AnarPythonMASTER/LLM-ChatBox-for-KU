@@ -1,0 +1,107 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Journalistik_MA_Teilzeit_ab_WiSe_2025_26.pdf
+TITLE: Studienverlaufsplan_Journalistik_MA_Teilzeit_ab_WiSe_2025_26.pdf
+SOURCE_FILE: Studienverlaufsplan_Journalistik_MA_Teilzeit_ab_WiSe_2025_26.pdf
+------------------------------------------------------------
+
+[Page 1]
+Masterstudiengang Journalistik mit Schwerpunkt Innovation, Management und Gesellschaft 
+Idealtypischer Studienverlaufsplan Teilzeitstudium (8 Semester) 
+ Sem. 
+Module 
+1 
+20 
+ECTS 
+Wahlpflichtbereich (insg. 10 ECTS) 
+ Kommunikationswissenschaft Politik und Gesellschaft 
+ Wirtschaft 
+Empirische 
+Kommunikationsforschung I 
+2 SWS Seminar 
+ 5 ECTS 
+Politik und Soziologie 
+•
+Aufbaumodul Politische Theorie und Philosophie
+•
+Fortgeschrittene Soziologische Theorie
+•
+Fortgeschrittene Prozessorientierte Soziologie
+je 5 ECTS 
+•
+Vergleichende Politikwissenschaft
+5 ECTS oder 10 ECTS 
+Philosophie 
+•
+Ethik und Gesellschaft
+ 5 ECTS 
+BWL I 
+ 5 ECTS 
+Journalistik/Kommunikations- und 
+Medienwissenschaft 
+2 SWS Vorlesung 
+1 SWS Seminar 5 ECTS 
+Mikroökonomie 
+ 5 ECTS 
+Studium Pro 
+5 ECTS 
+2 
+10 
+ECTS 
+Empirische Kommunikationsforschung II 
+2 SWS Seminar 
+5 ECTS 
+Journalismus und gesellschaftliche Leistungen 
+2 SWS Seminar 
+1 SWS Übung 
+5 ECTS 
+3 
+15 
+ECTS 
+Berichterstattungsmuster und -formate 
+2 SWS Seminar 
+1 SWS Übung 
+ 5 ECTS 
+Qualität und Qualitätsforschung 
+2 SWS Seminar 
+ 5 ECTS 
+Medienrecht und Digitalisierung 
+2 SWS Seminar 
+5 ECTS 
+4 
+10 
+ECTS 
+Nachhaltigkeit in Journalismus und Medienunternehmen 
+2 SWS Seminar 
+ 5 ECTS 
+Mitarbeiterführung 
+2 SWS Seminar 
+5 ECTS 
+5 
+15 
+ECTS 
+Entwicklung innovativer Formate 
+4 SWS Seminar
+10 ECTS 
+Medienökonomie, Strategie- und Change Management 
+2 SWS Übung 
+ 5 ECTS 
+6 
+10 
+ECTS 
+Organisations- und Formatentwicklung 
+2 SWS Seminar 
+2 SWS Übung 
+ 10 ECTS 
+7 
+20 
+ECTS 
+Organisation von Redaktionen und Medien 
+4 SWS Seminar 
+ 10 ECTS 
+Masterarbeit 
+1 SWS Seminar
+30 ECTS 
+8 
+20 
+ECTS 
+4 SWS Vorlesung/Übung 
+4 SWS Vorlesung/Übung

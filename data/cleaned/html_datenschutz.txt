@@ -1,0 +1,322 @@
+SOURCE_URL: https://www.ku.de/datenschutz
+TITLE: Datenschutz – KU
+SOURCE_FILE: datenschutz.html
+------------------------------------------------------------
+
+Datenschutzerklärung für die Webseite der Katholischen Universität Eichstätt-Ingolstadt
+Wir freuen uns sehr über Ihr Interesse an unserer Universität. Datenschutz hat einen besonders hohen Stellenwert für die Katholische Universität Eichstätt-Ingolstadt (KU). Im Folgenden möchten wir Sie daher über den Umgang mit Ihren Daten, welche unmittelbar bei Ihrem Besuch und bei der weiteren Nutzung unseres Online-Angebotes erhoben werden, gemäß dem § 15 aus dem Gesetz über den Kirchlichen Datenschutz (KDG) informieren.
+1. Zuständigkeiten und Kontakt
+Ergeben sich bei Ihnen offene Fragen, die nicht über die hier gegebenen Informationen beantwortet werden konnten, finden Sie nachfolgend Ansprechpartner mit Ihren Kontaktdaten für entsprechende Zuständigkeiten:
+1.1 Name und Anschrift des Verantwortlichen
+Der Verantwortliche im Sinne des Kirchlichen Datenschutzgesetzes und der Datenschutz-Grundverordnung sowie sonstiger datenschutzrechtlicher Bestimmungen ist die
+Katholische Universität Eichstätt-Ingolstadt (KU)
+vertreten durch die Präsidentin Prof. Dr. Gabriele Gien
+Ostenstraße 26
+85072 Eichstätt
+Tel: 08421-93-0
+E-Mail:
+info(at)ku.de
+1.2 Name und Anschrift des betrieblichen Datenschutzbeauftragten
+Der Datenschutzbeauftragte des Verantwortlichen ist:
+Herr Ziar Kabir
+SCO-CON:SULT GmbH
+Hauptstraße 27
+53604 Bad Honnef
+E-Mail:
+info(at)sco-consult.de
+Telefon: 02224/98829-0
+2. Grundlegende Informationen zur Erhebung und Verarbeitung von Daten
+Hier möchten wir Ihnen einen Überblick geben, ob, wann, wo und wie personenbezogene Daten von Ihnen während Ihres Besuches auf unserer Website erhoben, verarbeitet und gespeichert werden. Auch auf die Gründe, warum wir solche Daten erheben und verarbeiten, und warum dies rechtlich gestattet ist, werden wir eingehen.
+2.1 Was sind personenbezogene Daten?
+Personenbezogene Daten sind alle Informationen, die sich auf eine bestimmte oder bestimmbare Person beziehen. Bestimmbar ist eine Person dann, wenn sie direkt oder indirekt identifiziert werden kann. Dies kann beispielsweise durch Zuordnung zu einer Kennung wie einem Namen, einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen erfolgen.
+2.2 Warum verarbeitet die KU meine Daten?
+Personenbezogene Daten werden auf der Webseite der KU nur verarbeitet, soweit dies zur Bereitstellung einer funktionsfähigen Internetseite, für die Darstellung der jeweiligen Inhalte oder der Erbringung von bestimmten Leistungen erforderlich ist. Die Verarbeitung personenbezogener Daten erfolgt entweder aufgrund einer gesetzlichen Grundlage (vgl. Punkt 2.3) oder einer nutzerbezogenen, expliziten Einwilligung.
+Konkret erhebt und verarbeitet die KU personenbezogen Daten in drei Kontexten:
+Unsere Webseite nutzt
+technisch notwendige
+und damit nicht einwilligungspflichtige Cookies. Diese sogenannten „
+funktionellen Cookies
+“ dienen dem technisch einwandfreien Betrieb der Website und ihrer Funktionen.
+Darüber hinaus können Sie beim Aufrufen unserer Website aktiv der Datenerhebung durch sogenannte
+Statistik-Cookies
+zustimmen (vgl. Punkt 3.2.2). Diese sind
+technisch für die Funktionalität nicht notwendig
+, aber Sie erleichtern es uns, unsere Website besser auf Ihre Bedürfnisse zuzuschneiden. Durch die Erhebung dieser Daten ist es uns beispielsweise leichter möglich zu erkennen, ob unsere Seitenstruktur nutzerfreundlich ist. Selbstverständlich werden auch diese Daten nur in anonymisierter Form verarbeitet (vgl. Punkt 3.2.2).
+Eine dritte Form personenbezogener Daten, die von uns verarbeitet werden, sind
+direkt erhobene Daten
+. Wenn Sie also beispielsweise über ein Formular auf unserer Website mit der KU Kontakt aufnehmen, übermitteln Sie damit personenbezogene Daten wie z. B. Ihre eigene E-Mail-Adresse. Solche auf freiwilliger Basis an die KU übermittelten Daten werden ausschließlich für den Zweck der Bearbeitung der getätigten Anfrage gespeichert und genutzt. Es erfolgt keine Weitergabe dieser Daten an Dritte.
+2.3 Welche Daten von mir werden durch die KU erfasst und für welche Zwecke werden sie verwendet?
+2.3.1 Bereitstellung der Website und Erstellung von Logfiles
+Bei jedem Zugriff auf die Website der KU übermittelt Ihr Browser automatisch eine Reihe von allgemeinen Daten und Informationen an unseren Webserver, auf dem die Website betrieben (gehostet) wird, um die Funktionalität der Seite zu gewährleisten. Von diesen werden die folgenden Informationen kurzfristig bei uns in Protokolldateien gespeichert:
+Ihre Internet-Protokoll-Adresse (IP-Adresse) – also die Adresse, die bei Ihrem Webzugriff nach außen gegeben weitergegeben wird,
+Die von Ihnen auf unserer Website angeforderten Unterseiten und Dateien,
+Ihr verwendeter Gerätetyp (z.B. Desktop-PC, Tablet, Smartphone),
+Ihr verwendetes Betriebssystem,
+Ihr Browsertyp und die Browserversion (z.B. Mozilla Firefox, Google Chrome usw.),
+Datum und Uhrzeit des Zugriffs auf unsere Webseite.
+Haben Sie JavaScript in Ihrem Browser aktiviert, können darüber hinaus auch folgende Daten übermittelt werden, die lediglich zur Optimierung der Anzeige auf Ihrem Gerät verwendet werden:
+Die Bildschirmauflösung Ihres genutzten Geräts (z. B. 1920 x 1080),
+Die Farbtiefe des Displays Ihres genutzten Geräts,
+Die Größe des Browserfensters (z. B. 1920 x 977),
+Die installierten Schriftarten,
+Die installierten Plug-ins.
+Die Protokolldateien werden auf den Webservern und damit getrennt von allen durch eine betroffene Person angegebenen personenbezogenen Daten gespeichert. Die Webserver werden von uns selbst gehostet. Ihre Daten werden nicht an Dritte weitergegeben. Ein Rückschluss auf einzelne Personen ist uns anhand dieser Daten i.d.R. nicht möglich.
+Die Erhebung und kurzzeitige Speicherung der hier aufgelisteten allgemeinen Daten inkl. der IP-Adresse ist notwendig, um eine korrekte Auslieferung der Website an das IT-System des Nutzers zu ermöglichen. Hierfür muss die IP-Adresse des Nutzers für die Dauer der Sitzung gespeichert bleiben. Die Speicherung in Logfiles erfolgt, um die Funktionsfähigkeit der Website sicherzustellen. Zudem dienen uns die Daten zur Optimierung der Website und zur Gewährleistung der Sicherheit unserer informationstechnischen Systeme. Zuletzt können solche Informationen auch genutzt werden, um Strafverfolgungsbehörden im Falle eines Cyberangriffes die zur Strafverfolgung notwendigen Informationen bereitzustellen.
+Die Daten werden von uns nicht systematisch zu statistischen Zwecken oder zu Marketingzwecken ausgewertet, sondern nur in konkreten Ausnahmefällen, um etwa die Systemsicherheit und damit auch die Datensicherheit zu gewährleisten und zu verbessern.
+Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Im Falle der Erfassung der Daten zur Bereitstellung der Website ist dies der Fall, wenn die jeweilige Sitzung beendet ist. Im Falle der Speicherung der Daten in Logfiles ist dies nach spätestens sieben Tagen der Fall.
+Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der Daten in Logfiles ist für den Betrieb der Internetseite zwingend erforderlich. Es besteht folglich seitens des Nutzers keine Widerspruchsmöglichkeit. Rechtsgrundlage für die vorübergehende Speicherung der Daten und Logfiles ist § 6 Abs. 1 lit. g) des KDG.
+2.3.2 Verwendung von Cookies
+Die Internetseiten der KU verwenden Cookies. Cookies sind Textdateien, welche über einen Internetbrowser auf dem Endgerät des Nutzers jeweils zu einer besuchten Webseite abgelegt und gespeichert werden.
+Zahlreiche Internetseiten und Server verwenden Cookies. Viele Cookies enthalten eine sogenannte Cookie-ID. Eine Cookie-ID ist eine eindeutige Kennung des Cookies. Sie besteht aus einer Zeichenfolge, durch welche Internetseiten und Server dem konkreten Internetbrowser zugeordnet werden können, in dem das Cookie gespeichert wurde. Dies ermöglicht es den besuchten Internetseiten und Servern, den individuellen Browser der betroffenen Person von anderen Internetbrowsern, die andere Cookies enthalten, zu unterscheiden. Ein bestimmter Internetbrowser kann über die eindeutige Cookie-ID wiedererkannt und identifiziert werden.
+Cookies ermöglichen es somit, Nutzer beim Zugriff auf eine Website wiederzuerkennen.  Zweck dieser Wiedererkennung ist es, dem Nutzer die Verwendung der Seite zu erleichtern. So können Informationen und Angebote im Sinne des Nutzers optimiert werden. Der Nutzer einer Internetseite, die Cookies verwendet, muss beispielsweise nicht bei jedem Besuch der Internetseite erneut seine Zugangsdaten eingeben, weil dies von der Internetseite und dem auf dem Computersystem des Benutzers abgelegten Cookie übernommen wird.
+Zu unterscheiden sind technisch notwendige, nicht einwilligungspflichtige Cookies (auch: funktionelle Cookies) von technisch nicht notwendigen, aber einwilligungspflichtigen Cookies (z.B. Statistik-Cookies). Welche Cookies Sie bei der Nutzung unserer Website zulassen möchten, können Sie über das Cookie-Consent-Banner steuern, das erscheint, sobald Sie unsere Website aufrufen, oder über den untenstehenden Button „Cookie-Einstellungen“.
+Sie können hier die Cookie-Einstellungen für diese Website für die Zukunft anpassen:
+Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten unter Verwendung von funktionellen Cookies ist § 6 Abs. 1 lit. g) des KDG. Bei Verarbeitung personenbezogener Daten unter Verwendung von Cookies zu Statistik -und Analysezwecken bei Vorliegen einer diesbezüglichen Einwilligung des Nutzers erfolgt dies aufgrund § 6 Absatz 1 lit. b) KDG.
+Bereits gesetzte Cookies können jederzeit über einen Internetbrowser oder andere Softwareprogramme gelöscht werden. Zudem können Sie die künftige Speicherung von Cookies verhindern. Dies ist in allen gängigen Internetbrowsern möglich. Deaktivieren Sie die Setzung von Cookies in dem genutzten Internetbrowser, sind unter Umständen nicht alle Funktionen unserer Internetseite vollumfänglich nutzbar.
+a. Funktionelle Cookies
+Technisch notwendige Cookies sind für die Funktionalität von Webseiten essenziell, einige Funktionen können ohne den Einsatz solcher Cookies nicht angeboten werden. Zudem dient die Verwendung funktioneller Cookies der Vereinfachung der Nutzung unserer Website. Alle von uns genutzten funktionellen Cookies finden Sie im Cookie-Consent-Banner. Es handelt sich um Session-Cookies, die bestimmte Einstellungen des Nutzers speichern, um ihm diese bei einer späteren erneuten Nutzung unserer Webseite wieder zur Verfügung zu stellen. Konkret handelt es sich auf unserer Seite um Log-In-Daten.
+In unserem Cookie-Consent-Banner finden Sie diese funktionellen Cookies bereits vorausgewählt als „Notwendige Cookies“.
+b. Statistik-Cookies – Einsatz und Verwendung von Matomo
+Soweit Sie uns dazu Ihre Einwilligung erteilen, nutzen wir sogenannte Statistik-Cookies von Matomo. Die KU hat auf ihrer Website dazu die Webanalyse-Software Matomo (
+www.matomo.org
+) integriert. Betreiber ist InnoCraft Ltd., 7 Waterloo Quay PO625, 6140 Wellington, Neuseeland.
+Diese Cookies sind
+technisch für die Funktionalität nicht notwendig
+, Sie könnten unser Webangebot auch ohne die Zustimmung zu diesen Statistik-Cookies nutzen. Gleichzeitig erleichtern Sie es uns, unsere Website besser auf Ihre Bedürfnisse zuzuschneiden, wenn Sie diesen Statistik-Cookies zustimmen. Durch die Erhebung dieser Daten ist es uns beispielsweise leichter möglich zu erkennen, ob unsere Seitenstruktur nutzerfreundlich ist. Diese Cookies verwenden wir nur, wenn Sie der Datenerhebung und -verarbeitung durch die KU explizit über das Cookie-Consent-Banner zustimmen. Ihr Einverständnis können Sie dabei jederzeit mit Wirkung für die Zukunft widerrufen. Dazu können Sie den obenstehenden Button „Cookie-Einstellungen“ nutzen. In diesem Fall wird in Ihrem Browser ein Opt-Out-Cookie abgelegt, was zur Folge hat, dass Matomo keinerlei Sitzungsdaten erhebt. Ein wichtiger Hinweis: Wenn Sie Ihre Cookies im Browser löschen, so hat dies zur Folge, dass auch das Opt-Out-Cookie gelöscht wird und ggf. von Ihnen erneut aktiviert werden muss.
+Webanalyse meint die Erhebung, Sammlung und Auswertung von Daten über das Verhalten von Besuchern von Webseiten. Ein Web-Analyse-Tool erfasst unter anderem Daten darüber, von welcher Internetseite eine betroffene Person auf eine Internetseite gekommen ist, auf welche Unterseiten der Internetseite zugegriffen oder wie oft und für welche Verweildauer eine Unterseite betrachtet wurde. Eine Web-Analyse wird überwiegend zur Optimierung einer Internetseite und zur Kosten-Nutzen-Analyse von Werbemaßnahmen eingesetzt. Die KU nutzt die Matomo-Software entsprechend, um die Besucherströme auf ihrer Website und die Nutzung der Website zu analysieren.
+Matomo arbeitet auf folgende Weise: Matomo setzt ein Cookie auf dem informationstechnologischen System des betroffenen Nutzers. Was Cookies sind, wurde oben bereits erläutert. Durch jeden Aufruf einer der Einzelseiten dieser Webpräsenz wird der Browser des betroffenen Nutzers durch die Matomo-Komponente veranlasst, Daten zum Zwecke der Online-Analyse an unseren Server zu übermitteln. Mittels des Cookies werden personenbezogene Informationen, beispielsweise die Zugriffszeit, der Ort, von welchem ein Zugriff ausging und die Häufigkeit der Besuche auf unserer Internetseite gespeichert.
+Bei jedem Besuch unserer Internetseiten werden diese Nutzungsinformationen, einschließlich der IP-Adresse des von der betroffenen Person genutzten Internetanschlusses, an unseren Server übertragen. Die Software wird auf dem Server der KU betrieben, die datenschutzrechtlich sensiblen Logdateien werden zu Nutzungsanalysezwecken ausschließlich auf diesem hauseigenen Server gespeichert. Wir geben diese personenbezogenen Daten nicht an Dritte weiter. Ihre IP-Adresse wird bei diesem Vorgang umgehend komplett anonymisiert, so dass Sie als Nutzer für uns anonym bleiben.
+Die Analyse über Matomo dient der Webseitenoptimierung unsererseits. Durch die anonymisierten Daten, die wir erfassen, können wir z.B. feststellen, ob eine Seitenstruktur nutzerfreundlich ist und ggf. den Aufbau ändern und an die Bedürfnisse der Nutzer anpassen.
+2.3.3 Registrierung und Kontaktaufnahme auf unserer Internetseite
+Sie haben die Möglichkeit, sich auf der Internetseite der KU unter Angabe von personenbezogenen Daten zu registrieren. Welche personenbezogenen Daten dabei an den für die Verarbeitung Verantwortlichen übermittelt werden, ergibt sich aus der jeweiligen Eingabemaske, die für die Registrierung verwendet wird.
+Durch eine Registrierung auf der Internetseite der KU werden ferner die vom Internet-Service-Provider (ISP) der betroffenen Person vergebene IP-Adresse, das Datum sowie die Uhrzeit der Registrierung gespeichert. Die Speicherung dieser Daten erfolgt vor dem Hintergrund, dass nur so der Missbrauch unserer Dienste verhindert werden kann, und diese Daten im Bedarfsfall ermöglichen, begangene Straftaten aufzuklären. Insofern ist die Speicherung dieser Daten zur Absicherung des für die Verarbeitung Verantwortlichen erforderlich. Eine Weitergabe dieser Daten an Dritte erfolgt grundsätzlich nicht, sofern keine gesetzliche Pflicht zur Weitergabe besteht oder die Weitergabe der Strafverfolgung dient.
+Die Registrierung der betroffenen Person unter freiwilliger Angabe personenbezogener Daten dient der KU dazu, der betroffenen Person Inhalte oder Leistungen anzubieten oder Aufgaben der KU zu erfüllen.
+Die Internetseite der KU enthält Angaben, die eine schnelle elektronische Kontaktaufnahme zu unserer Universität sowie eine unmittelbare Kommunikation mit uns ermöglichen. Sofern eine betroffene Person per E-Mail oder über ein Kontaktformular den Kontakt mit der KU aufnimmt, werden die von der betroffenen Person übermittelten personenbezogenen Daten für den Zweck der Bearbeitung der getätigten Anfrage gespeichert und genutzt.
+2.3.4 Abonnement eines Newsletters über unsere Website
+Auf der Internetseite der KU wird Ihnen an verschiedenen Stellen die Möglichkeit eingeräumt, einen Newsletter zu abonnieren (z.B. Newsletter für Studieninteressierte oder Newsletter des Zentrums für Lehrerbildung). Welche personenbezogenen Daten bei der Bestellung des Newsletters an den für die Verarbeitung Verantwortlichen übermittelt werden, ergibt sich aus der hierzu verwendeten Eingabemaske. An die von einer betroffenen Person erstmalig für den Newsletter-Versand eingetragene E-Mail-Adresse wird aus rechtlichen Gründen eine Bestätigungsmail im Double-Opt-In-Verfahren versendet. Diese Bestätigungsmail dient der Überprüfung, ob der Inhaber der E-Mail-Adresse als betroffene Person den Empfang des Newsletters autorisiert hat.
+Bei der Anmeldung zum Newsletter speichern wir ferner die vom Internet-Service-Provider (ISP) vergebene IP-Adresse des von der betroffenen Person zum Zeitpunkt der Anmeldung verwendeten Computersystems sowie das Datum und die Uhrzeit der Anmeldung. Die Erhebung dieser Daten ist erforderlich, um den (möglichen) Missbrauch der E-Mail-Adresse einer betroffenen Person zu einem späteren Zeitpunkt nachvollziehen zu können und dient deshalb der rechtlichen Absicherung des für die Verarbeitung Verantwortlichen.
+Die im Rahmen einer Anmeldung zum Newsletter erhobenen personenbezogenen Daten werden ausschließlich zum Versand des jeweiligen Newsletters verwendet. Ferner könnten Abonnenten per E-Mail informiert werden, sofern dies für den Betrieb des Newsletter-Dienstes oder eine diesbezügliche Registrierung erforderlich ist, wie dies im Falle von Änderungen am Newsletter-Angebot oder bei der Veränderung der technischen Gegebenheiten der Fall sein könnte. Es erfolgt keine Weitergabe der im Rahmen des Newsletter-Dienstes erhobenen personenbezogenen Daten an Dritte.
+Das Abonnement eines Newsletters können Sie jederzeit kündigen. Die Einwilligung in die Speicherung personenbezogener Daten, die Sie uns für den Newsletter-Versand erteilt haben, können Sie jederzeit mit Wirkung für die Zukunft widerrufen. Zum Zwecke des Widerrufs der Einwilligung findet sich in jedem Newsletter ein entsprechender Link. Ferner besteht in der Regel die Möglichkeit, sich jederzeit auch direkt auf der Internetseite des für die Verarbeitung Verantwortlichen vom Newsletter-Versand abzumelden oder dies dem für die Verarbeitung Verantwortlichen auf andere Weise mitzuteilen.
+Die KU nutzt als Newsletter-Software SuperWebMailer, CleverReach und MailerLite.
+a. Newsletterversand und -analyse via SuperWebMailer
+Diese Website nutzt SuperWebMailer für den Versand von Newslettern. SuperWebMailer ist ein Dienst, mit dem der Newsletterversand organisiert und analysiert werden kann. Die Software und die Lizenz stammen von Mirko Böer, Malachitstraße 16, 04319 Leipzig, Deutschland. Dienstanbieter („Host“) ist die KU selbst. Die von Ihnen für den Bezug des Newsletters eingegebenen Daten (z.B. E-Mail-Adresse) werden ausschließlich auf KU-eigenen Servern gespeichert.
+Unsere mit SuperWebMailer versandten Newsletter ermöglichen uns die Analyse des Verhaltens der Newsletterempfänger. Hierbei kann u. a. analysiert werden, wie viele Empfänger die Newsletternachricht geöffnet haben und wie oft welcher Link im Newsletter angeklickt wurde. Die so erhobenen Daten werden von dem für die Verarbeitung Verantwortlichen ausgewertet, um den Newsletter-Versand zu optimieren und den Inhalt zukünftiger Newsletter noch besser den Interessen der Newsletterempfänger anzupassen. Diese Daten werden nicht an Dritte weitergegeben.
+Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung, die Sie mit Anmeldung zum Newsletter explizit erteilen. Sie können diese Einwilligung jederzeit widerrufen, indem Sie den Newsletter abbestellen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
+Wenn Sie den Newsletter abbestellen möchten, finden Sie dazu in jeder Newsletter-Nachricht einen entsprechenden Link. Zur Einrichtung des Abonnements eingegebene Daten werden im Falle der Abmeldung von unseren Servern und den Servern von SuperWebMailer gelöscht.
+b. Newsletterversand und -analyse via CleverReach
+Diese Website nutzt CleverReach für den Versand von Newslettern. Anbieter ist die CleverReach GmbH & Co. KG, Mühlenstr. 43, 26180 Rastede. CleverReach ist ein Dienst, mit dem der Newsletterversand organisiert und analysiert werden kann. Die von Ihnen für den Bezug des Newsletters eingegebenen Daten (z. B. E-Mail-Adresse) werden auf den Servern von CleverReach in Deutschland bzw. Irland gespeichert.
+Der Newsletter-Versand mit CleverReach gestattet es uns auch, das Verhalten unserer Newsletter-Empfänger zu analysieren. Die Analyse legt u.a. dar, wie viele Empfänger ihren Newsletter geöffnet haben und wie oft welcher Link im Newsletter angeklickt wurden. Die Öffnungsrate erhebt CleverReach dabei über ein sogenanntes Zählpixel, eine Miniaturgrafik, die im Newsletter versteckt eingebettet ist und deren Herunterladen gezählt wird. Die Klickrate wird festgestellt, indem Links im Newsletter als Tracking-Links angelegt werden.
+Einzelheiten zur Datenanalyse durch CleverReach finden Sie unter:
+https://www.cleverreach.com/de/funktionen/reporting-und-tracking/
+.
+Die so erhobenen Daten werden von dem für die Verarbeitung Verantwortlichen ausgewertet, um den Newsletter-Versand zu optimieren und den Inhalt zukünftiger Newsletter noch besser den Interessen der betroffenen Person anzupassen. Diese personenbezogenen Daten werden nicht an Dritte weitergegeben.
+Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung, die Sie mit Anmeldung zum Newsletter explizit erteilen. Sie können diese Einwilligung jederzeit widerrufen, indem Sie den Newsletter abbestellen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
+Wenn Sie den Newsletter abbestellen möchten, finden Sie dazu in jeder Newsletter-Nachricht einen entsprechenden Link. Zur Einrichtung des Abonnements eingegebene Daten werden im Falle der Abmeldung von unseren Servern und den Servern von CleverReach gelöscht.
+Zur vollständigen Erfüllung der gesetzlichen Datenschutzvorgaben haben wir mit CleverReach einen Vertrag über die Auftragsverarbeitung abgeschlossen.
+Näheres entnehmen Sie den Datenschutzbestimmungen von CleverReach unter:
+https://www.cleverreach.com/de/funktionen/datenschutz-sicherheit/
+c. Newsletterversand und -analyse via MailerLite
+Diese Website nutzt MailerLite für den Versand von Newslettern. Anbieter ist die Firma MailerLite UAB, Paupio g. 246, LT-11341 Vilnius. Die von Ihnen für den Bezug des Newsletters eingegebenen Daten (E-Mail-Adresse) werden auf den Servern der Firma MailerLite UAB in Litauen gespeichert.
+Der Versand des Newsletters erfolgt über Software des Anbieters. Eine andere Verarbeitung oder Weitergabe der eingetragenen E-Mail-Adressen an Dritte ist ausgeschlossen.
+Das Abonnement dieses Newsletters und damit die Einwilligung in die Speicherung Ihrer Daten können Sie jederzeit für die Zukunft kündigen bzw. widerrufen. Über einen Link am Ende jedes Newsletters ist eine Abmeldung jederzeit möglich. Die E-Mail-Adresse des Empfängers wird dann aus dem Verzeichnis des Newsletters gelöscht und kann nur durch eine erneute Anmeldung wieder eingetragen werden.
+Zur vollständigen Erfüllung der gesetzlichen Datenschutzvorgaben haben wir mit MailerLite einen Vertrag über die Auftragsverarbeitung abgeschlossen.
+Näheres entnehmen Sie den Datenschutzbestimmungen von MailerLite UAB unter:
+https://www.mailerlite.com/privacy-policy
+d. Newsletterversand und –analyse via Matoma Newsletter-Marketing-Center
+Diese Website nutzt Matoma Newsletter-Marketing-Center für den Versand von Newslettern, E-Mails, Einladungen und Informationen im Alumni-Management. Anbieter ist die Matoma GmbH, Achauerstraße 8, 78647 Trossingen (
+https://matoma.de
+).
+Das Newsletter-Marketing-Center ist DSGVO konform, verwendet deutsche Software und der Standort der Server befindet sich ausschließlich in Deutschland.
+Der Versand des Newsletters erfolgt über die Software des Anbieters. Das Abonnement dieses Newsletters und damit die Einwilligung in die Speicherung Ihrer Daten können Sie jederzeit für die Zukunft kündigen bzw. widerrufen. Über einen Link am Ende jedes Newsletters ist eine Abmeldung jederzeit möglich. Die E-Mail-Adresse des Empfängers wird dann aus dem Verzeichnis des Newsletters gelöscht und kann nur durch eine erneute Anmeldung wieder eingetragen werden. Zur vollständigen Erfüllung der gesetzlichen Datenschutzvorgaben haben wir mit Matoma einen Vertrag über die Auftragsverarbeitung abgeschlossen.
+2.4 Was ist die rechtliche Grundlage für die Datenverarbeitung?
+§ 6 Absatz 1 lit. b) KDG dient uns als Rechtsgrundlage für Verarbeitungsvorgänge, bei denen wir eine Einwilligung für einen bestimmten Verarbeitungszweck einholen. Ist die Verarbeitung personenbezogener Daten zur Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, erforderlich, wie dies beispielsweise bei Verarbeitungsvorgängen der Fall ist, die für eine Lieferung von Waren, die Durchführung einer Veranstaltung oder die Erbringung einer sonstigen Leistung oder Gegenleistung notwendig sind, so beruht die Verarbeitung auf § 6 Abs. 1 lit. c) KDG. Gleiches gilt für solche Verarbeitungsvorgänge die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind, etwa in Fällen von Anfragen zu unseren Produkten oder Leistungen. Unterliegt die KU einer rechtlichen Verpflichtung, durch welche eine Verarbeitung von personenbezogenen Daten erforderlich wird, wie beispielsweise zur Erfüllung steuerlicher Pflichten, so basiert die Verarbeitung auf § 6 Abs. 1 lit. d) KDG. Wenn die Verarbeitung zur Wahrung eines berechtigten Interesses der KU oder eines Dritten erforderlich ist und nicht die Interessen, Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, überwiegen, basiert die Datenverarbeitung auf § 6 Abs. 1 lit. g) KDG.
+Eine automatisierte Entscheidungsfindung auf Grundlage der erhobenen personenbezogenen Daten (z.B. Profiling) findet nicht statt (vgl. dazu Punkt 7.7).
+2.5 Wie lange werden meine Daten gespeichert?
+Die KU verarbeitet und speichert personenbezogene Daten der betroffenen Person nur für den Zeitraum, der zur Erreichung des Speicherungszwecks erforderlich ist oder sofern dies durch den Europäischen Richtlinien- und Verordnungsgeber oder einen anderen Gesetzgeber in Gesetzen oder Vorschriften, welchen der für die Verarbeitung Verantwortliche unterliegt, vorgesehen wurde.
+Entfällt der Speicherungszweck oder läuft eine vom Europäischen Richtlinien- und Verordnungsgeber oder einem anderen zuständigen Gesetzgeber vorgeschriebene Speicherfrist ab, werden die personenbezogenen Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.
+2.6 Muss ich meine Daten zur Verfügung stellen?
+Unter Punkt 2.2 wurde erläutert, warum es für die KU erforderlich ist, verschiedene personenbezogene Daten zu verarbeiten.
+Einige Daten sind wie erwähnt essenziell, um den problemlosen Betrieb, die technische Funktionalität und Sicherheit unserer Webseite sicherzustellen (vgl. dazu auch Punkt 3.1 und 3.2.1). Für den Abschluss und die Erfüllung eines Vertrages zwischen Ihnen und der KU (wie er bei der Nutzung diverser Angebote und Funktionen unserer Website zustande kommt) ist es zwingend notwendig und auch gesetzlich vorgeschrieben, dass Sie uns Ihre Daten zur Verfügung stellen. Bei Nichtbereitstellung können wir keinen Vertrag mit Ihnen schließen.
+Andere Daten helfen uns, um unsere Website hinsichtlich Ihrer Bedürfnisse inhaltlich zu optimieren. In diesem Fall müssen Sie der Datenerhebung und -verarbeitung durch die KU zunächst explizit über das Cookie-Consent-Banner zustimmen – andernfalls werden die hier erwähnten Daten von uns auch nicht erhoben. Da es sich hier nicht um technisch notwendige Cookies (funktionelle Cookies) handelt, können Sie Ihre Einwilligung auch unterlassen bzw. wenn gegeben, auch jederzeit für die Zukunft widerrufen.
+3. Facebook
+Wir betreiben bei Facebook eine Unternehmensseite (Fanpage). Auf unserer Website verwenden wir kein Facebook Social Plugin, das auf diese Fanpage führt. Der Verweis ist im Rahmen unseres Internetauftritts durch ein Logo kenntlich gemacht und lediglich als Link zu Facebook eingebunden. Nach dem Anklicken des entsprechenden Logos öffnet sich die Seite von Facebook in einem neuen Tab. Erst dann werden Nutzerinformationen an Facebook übertragen.
+In diesem Zusammenhang weisen wir auf folgende Punkte hin:
+Gemeinsame Verantwortliche für den Betrieb der Facebook-Seite der KU sind im Sinne der EU Datenschutz-Grundverordnung sowie sonstiger datenschutzrechtlicher Bestimmungen die:
+Facebook Ireland Ltd. (nachfolgend „Facebook“)
+4 Grand Canal Square
+Grand Canal Harbour
+Dublin 2
+Irland
+und
+Katholische Universität Eichstätt-Ingolstadt (KU)
+Ostenstraße 26
+85072 Eichstätt.
+In dem Moment, in dem Sie auf unsere Facebook Fanpage gelangen, stellt Ihr Browser eine Verbindung mit Facebook her und überträgt Informationen. Folgende Daten werden u.a. übermittelt:
+Für Besucher, die bei Facebook nicht angemeldet/registriert sind:
+IP Adresse:
+Facebook ermittelt beim Aufrufen einer Unternehmensseite automatisch die IP Adresse des Nutzers.
+Cookies:
+Rufen Sie unsere Fanpage auf, werden automatisch Cookies von Facebook gesetzt. Der sogenannte
+datr-Cookie
+dient Facebook nach eigenen Angaben zur Identifizierung des Webbrowsers, der die Verbindung mit der Facebook-Seite aufbaut, und spielt eine Schlüsselrolle beim Schutz des Sozialen Netzwerks vor „böswilligen Aktivitäten“. Der datr-Cookie hat eine Gültigkeit von zwei Jahren, kann aber über die Browsereinstellungen gelöscht werden.
+Für Besucher, die bei Facebook registriert und eingeloggt sind:
+IP Adresse:
+Auch für eingeloggte Besucher ermittelt Facebook die IP-Adresse des Nutzers (s. oben)
+Cookies:
+Auch in diesem Fall wird von Facebook ein
+datr-Cookie
+gesetzt (s. oben).
+Wenn Sie Mitglied bei Facebook sind und bei dem Besuch auf unserer Unternehmensseite gleichzeitig mit Ihrem Facebook-Profil angemeldet sind, wird zusätzlich noch der c_user-Cookie aktiviert. Facebook verknüpft den Besuch auf der Unternehmensseite mit Ihrem persönlichen Benutzerkonto. Dadurch ist Facebook in der Lage, Ihr Nutzerverhalten nachzuvollziehen.
+Facebook verarbeitet die Daten der Nutzer zu folgenden Zwecken:
+Werbung, Analyse, Erstellung personalisierter Werbung
+Erstellung von Nutzerprofilen
+Marktforschung
+Beim Aufruf der Facebook Fanpage der KU speichert Facebook automatisch in einem Log File Informationen, die Ihr Browser an Facebook übermittelt. Wir weisen ausdrücklich darauf hin, dass wir keine Kenntnis vom Umfang und Inhalt der von Facebook ermittelten Daten sowie deren Verarbeitung und Nutzung oder ggfs. Übermittlung an Dritte durch Facebook haben.
+Des Weiteren stellt Facebook den Betreibern von Unternehmensseiten das Tool „Facebook Insights“ zu Verfügung, mit dem statistische Informationen (= nicht personenbezogene Daten) über die Inanspruchnahme ihrer Seiten abgerufen werden können. Dies sind beispielsweise die Gesamtzahl von Seitenaufrufen und „Gefällt mir“-Angaben, Seitenaktivitäten, Beitragsinteraktionen, Videoansichten, Beitragsreichweite, Kommentare, geteilte Inhalte, Antworten, Anteil Männer und Frauen, Herkunft bezogen auf Land und Stadt, Sprache.
+Das können Sie dagegen tun:
+Wenn Sie Facebook-Mitglied sind und nicht möchten, dass Facebook über unsere Fanpage Daten über Sie sammelt und mit Ihren bei Facebook gespeicherten Mitgliedsdaten verknüpft, müssen Sie:
+sich vor Ihrem Besuch unserer Unternehmensseite bei Facebook ausloggen,
+dann die auf dem Gerät vorhandenen Cookies löschen
+und ihren Browser beenden und neu starten.
+Auf diese Weise werden alle Facebook-Informationen, über die Sie identifiziert werden können, nach Angaben von Facebook gelöscht.
+Widerspruchsmöglichkeiten (ein sogenanntes Opt-Out) finden Sie hier
+https://www.facebook.com/settings?tab=ads
+und hier
+http://www.youronlinechoices.com/
+.
+Ihre
+Betroffenenrechte
+gemäß DSGVO können Sie primär bei Facebook Ireland oder auch bei uns geltend gemacht werden. Die Fanpage wird gemäß Urteil des EuGH in einer gemeinsamen Verantwortlichkeit nach Artikel 26 DSGVO zwischen Facebook und uns betrieben (vgl. Page Controller Addendum unter
+https://www.facebook.com/legal/terms/page_controller_addendum
+).
+Die primäre
+Verantwortung
+gemäß der DSGVO für die Verarbeitung von Insights-Daten liegt bei Facebook und Facebook erfüllt sämtliche Pflichten aus der DSGVO im Hinblick auf die Verarbeitung von Insights-Daten (
+https://de-de.facebook.com/legal/terms/information_about_page_insights_data
+).
+Facebook Ireland stellt das Wesentliche der Seiten-Insights-Ergänzung den betroffenen Personen zur Verfügung. Nur Facebook Ireland trifft Entscheidungen hinsichtlich der Verarbeitung von Insights-Daten und setzt diese um. Wir, die KU, treffen keine Entscheidungen hinsichtlich der Verarbeitung von Insights-Daten und alle weiteren sich aus Art. 13 DSGVO ergebenden Informationen, darunter Rechtsgrundlage, Identität des Verantwortlichen und Speicherdauer von Cookies auf Nutzerendgeräten.
+Die
+Rechtsgrundlage
+für die Verarbeitung der von Facebook bereitgestellten Insights-Daten erfolgt gemäß Art. 6 Abs. 1 S. 1 lit. f) DSGVO (unser berechtigtes Interesse). Unser Ziel ist es, die Facebook Fanpage für unsere Nutzer attraktiver zu machen.
+Ihre Daten können auch in die USA übermittelt werden. Bei der Datenübermittlung von personenbezogen Daten bestehen datenschutzrechtlich gesehen Risiken für die Person, deren Daten in die USA übermittelt werden. US-Behörden (insb. Geheimdiensten) stehen Prüfungsrechte (insb. gem. Section 702 des Foreign Intelligence Surveillance Acts (FISA 702) und der Executive Order 12 333) zu, ohne dass EU-Bürger sich dagegen wehren können. Diese US-amerikanischen Rechtsgrundlagen erlauben den Datenzugriff bei elektronischen Kommunikationsdiensten bei Nicht-US-Bürgern auch ohne einen gerichtlichen Beschluss und Rechtsschutz.
+Was den gerichtlichen Rechtsschutz anbelangt, verfügen EU-Bürger nicht über dieselben rechtlichen Möglichkeiten (Rechtsbehelfe) wie amerikanische Staatsbürger, um sich gegen die Verarbeitung personenbezogener Daten durch amerikanische Behörden zu wehren.
+Die Vereinigten Staaten führen eine massenhafte Datenverarbeitung durch, ohne einen Schutz zu gewährleisten, der dem durch die Art. 7 (Achtung des Privat- und Familienlebens) und Art. 8 (Schutz personenbezogener Daten) der Grundrechte-Charta der EU garantierten Schutz der Sache nach gleichwertig ist. Seit 2018 existiert auch der Cloud Act, der US-Behörden den Zugriff auf gespeicherte Daten von amerikanischen Unternehmen (und auch deren Tochtergesellschaften in Europa) erlaubt, die nicht in den USA gespeichert werden.
+Informationen zum Datenschutz bei Facebook finden Sie hier
+www.facebook.com/policy.php
+in der Datenschutzerklärung von Facebook.
+4. YouTube
+Diese Website nutzt Plugins der durch die Google Inc. betriebenen Seite YouTube. Betreiber der Seite ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States (“Google”). Die Gesellschaft, die den Dienst im Europäischen Wirtschaftsraum und in der Schweiz zur Verfügung stellt, ist Google Ireland Limited, eine nach irischem Recht eingetragene und betriebene Gesellschaft (Registernummer: 368047) mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland.
+Wir verwenden eingebettete YouTube-Videos im erweiterten Datenschutzmodus. Die Funktion „Erweiterter Datenschutzmodus“ blockiert das Setzen von YouTube-Cookies so lange, bis ein aktiver Klick auf die Wiedergabe erfolgt. Mit Klick auf den Wiedergabe-Button erteilen Sie Ihre Einwilligung darin, dass YouTube auf dem von Ihnen verwendeten Endgerät Cookies setzt, die auch einer Analyse des Nutzungsverhaltens zu Marktforschungs- und Marketing-Zwecken dienen können. Im Zuge dessen wird YouTube zumindest Ihre IP-Adresse, das Datum nebst Uhrzeit sowie die von Ihnen besuchte Internetseite erfassen und verarbeiten. Zudem wird eine Verbindung zu dem Werbenetzwerk „DoubleClick“ von Google hergestellt.
+Sollten Sie gleichzeitig bei YouTube eingeloggt sein, weist YouTube die Verbindungsinformationen Ihrem YouTube-Konto zu. Wenn Sie das verhindern möchten, müssen Sie sich entweder vor dem Besuch unseres Internetauftritts bei YouTube ausloggen oder die entsprechenden Einstellungen in Ihrem YouTube-Benutzerkonto vornehmen.
+Google verarbeitet personenbezogene Daten auch in den USA und stützt sich dabei u.a. auf die sog. Standardvertragsklauseln der Europäischen Kommission, weitere Informationen dazu finden Sie unter
+https://policies.google.com/privacy/frameworks?hl=de
+. Google gibt Ihre Daten möglicherweise an Dritte weiter. Dies sind z. B. konzernverbundene Unternehmen, Geschäftspartner und Werbepartner, die wiederum ihrerseits Tracking-Technologien auf der Vimeo-Website anwenden. Es bestehen datenschutzrechtlich weitere Risiken für die Person, deren Daten in die USA übermittelt werden: US-Behörden (insb. Geheimdiensten) stehen Prüfungsrechte (insb. gem. Section 702 des Foreign Intelligence Surveillance Acts (FISA 702) und der Executive Order 12 333) zu, ohne dass EU-Bürger sich dagegen wehren können. Diese US-amerikanischen Rechtsgrundlagen erlauben den Datenzugriff bei elektronischen Kommunikationsdiensten bei Nicht-US-Bürgern auch ohne einen gerichtlichen Beschluss und Rechtsschutz. Was den gerichtlichen Rechtsschutz anbelangt, verfügen Bürger der EU nicht über dieselben rechtlichen Möglichkeiten (Rechtsbehelfe) wie amerikanische Staatsbürger, um sich gegen die Verarbeitung personenbezogener Daten durch amerikanische Behörden zu wehren.
+Die Vereinigten Staaten führen eine massenhafte Datenverarbeitung durch, ohne einen Schutz zu gewährleisten, der dem durch die Art. 7 (Achtung des Privat- und Familienlebens) und Art. 8 (Schutz personenbezogener Daten) der Grundrechte-Charta der EU garantierten Schutz der Sache nach gleichwertig ist.
+Falls Sie mit der geschilderten Datenverarbeitung durch YouTube nicht einverstanden sind, haben Sie die Möglichkeit, die Speicherung der Cookies durch eine Einstellung in Ihrem Internet-Browsers zu verhindern. Nähere Informationen hierzu finden Sie vorstehend unter „Cookies“.
+Rechtsgrundlage für die Nutzung der Youtube-Plugins auf unserer Webseite ist § 6 Abs. 1 lit. b) KDG, soweit Sie uns eine Einwilligung erteilt haben. Sie können diese jederzeit mit Wirkung für die Zukunft widerrufen. Das Angebot von Youtube können Sie in diesem Fall dann nicht mehr nutzen.
+Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von YouTube unter:
+https://policies.google.com/privacy?hl=de
+.
+5. Vimeo
+Diese Webseite nutzt ebenfalls Video-Plugins der Firma Vimeo. Betrieben wird das Videoportal durch Vimeo LLC, 555 West 18th Street, New York, New York 10011, USA.
+Wenn Sie auf unserem Internetauftritt Videos über Vimeo aufrufen, wird eine Verbindung zu den Servern von Vimeo in den USA hergestellt. Hierdurch werden bestimmte Informationen an Vimeo übermittelt, unabhängig davon, ob Sie einen Vimeo-Account haben oder nicht. Dazu zählen beispielsweise Ihre IP-Adresse, technische Informationen über Ihren Browser sowie Informationen über die Webseite, von der Sie die Vimeo-Seite aufrufen.
+Vimeo speichert Cookies auf Ihrem Endgerät. Insbesondere den Tracker Google Analytics. Dabei handelt es sich um ein eigenes Tracking von Vimeo, auf das wir keinen Zugriff haben. Sie können das Tracking durch Google Analytics unterbinden, indem Sie die Deaktivierungs-Tools einsetzen, die Google für einige Internet-Browser anbietet. Die Nutzer können darüber hinaus die Erfassung der durch Google Analytics erzeugten und auf ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren:
+https://tools.google.com/dlpage/gaoptout?hl=de
+.
+Falls Sie als registriertes Mitglied bei Vimeo eingeloggt sind, können meistens mehr Daten erhoben werden, da möglicherweise mehr Cookies bereits in Ihrem Browser gesetzt wurden. Zudem werden Ihre Handlungen auf unsere Webseite direkt mit Ihrem Vimeo-Account verknüpft. Wenn Sie das verhindern möchten, müssen Sie sich vor dem Besuch unseres Internetauftritts bei Vimeo ausloggen und die entsprechenden Cookies von Vimeo in Ihrem Browser löschen.
+Vimeo verarbeitet personenbezogene Daten in den USA und stützt sich dabei u.a. auf die sog. Standardvertragsklauseln der Europäischen Kommission, weitere Informationen dazu finden Sie unter
+https://vimeo.com/privacy#international_data_transfers_and_certain_user_rights
+im Abschnitt „14.2 GDPR (EEA Users)“. Vimeo gibt Ihre Daten möglicherweise an Dritte weiter. Dies sind z. B. konzernverbundene Unternehmen, Geschäftspartner und Werbepartner, die wiederum ihrerseits Tracking-Technologien auf der Vimeo-Website anwenden. Es bestehen datenschutzrechtlich weitere Risiken für die Person, deren Daten in die USA übermittelt werden: US-Behörden (insb. Geheimdiensten) stehen Prüfungsrechte (insb. gem. Section 702 des Foreign Intelligence Surveillance Acts (FISA 702) und der Executive Order 12 333) zu, ohne dass EU-Bürger sich dagegen wehren können. Diese US-amerikanischen Rechtsgrundlagen erlauben den Datenzugriff bei elektronischen Kommunikationsdiensten bei Nicht-US-Bürgern auch ohne einen gerichtlichen Beschluss und Rechtsschutz. Was den gerichtlichen Rechtsschutz anbelangt, verfügen Bürger der EU nicht über dieselben rechtlichen Möglichkeiten (Rechtsbehelfe) wie amerikanische Staatsbürger, um sich gegen die Verarbeitung personenbezogener Daten durch amerikanische Behörden zu wehren.
+Die Vereinigten Staaten führen eine massenhafte Datenverarbeitung durch, ohne einen Schutz zu gewährleisten, der dem durch die Art. 7 (Achtung des Privat- und Familienlebens) und Art. 8 (Schutz personenbezogener Daten) der Grundrechte-Charta der EU garantierten Schutz der Sache nach gleichwertig ist.
+Falls Sie mit der geschilderten Datenverarbeitung durch Vimeo nicht einverstanden sind, haben Sie die Möglichkeit, die Speicherung der Cookies durch eine Einstellung in Ihrem Internet-Browsers zu verhindern. Nähere Informationen hierzu finden Sie vorstehend unter „Cookies“.
+Rechtsgrundlage für die Nutzung der Vimeo-Plugins auf unserer Webseite ist § 6 Abs. 1 lit. b) KDG, soweit Sie uns eine Einwilligung erteilt haben. Sie können diese jederzeit mit Wirkung für die Zukunft widerrufen. Das Angebot von Vimeo können Sie in diesem Fall dann nicht mehr nutzen.
+Weitere Informationen zur Datenverarbeitung und Hinweise zum Datenschutz durch Vimeo finden Sie unter
+https://vimeo.com/privacy
+sowie der Cookie-Richtlinie unter
+https://vimeo.com/cookie_policy
+.
+6. Instagram
+Die KU nutzt den Nachrichtendienst Instagram über die technische Plattform und die Dienste der Facebook Inc., 1601 Willow Road Menlo Park, CA 94025. Verantwortlich für die Datenverarbeitung von Personen, die außerhalb der Vereinigten Staaten leben, ist die Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.
+Der Verweis auf Instagram ist im Rahmen unseres Internetauftritts durch ein Logo kenntlich gemacht und lediglich als Link zu Instagram eingebunden. Nach dem Anklicken des entsprechenden Logos öffnet sich in einem neuen Tab die Seite von Instagram. Erst dann werden Nutzerinformationen an Instagram übertragen.
+Wir weisen Sie darauf hin, dass Sie das Instagram-Profil und dessen Funktionen in eigener Verantwortung nutzen. Dies gilt insbesondere für die Nutzung der interaktiven Funktionen (z.B. Liken und Kommentieren). Alternativ können Sie die über diese Seite angebotenen studien- oder arbeitsrelevanten Informationen auch auf unserer Website finden.
+Angaben darüber, welche Daten durch Instagram verarbeitet und zu welchen Zwecken genutzt werden, finden Sie in der Datenschutzerklärung von Instagram:
+https://help.instagram.com/155833707900388/
+Im Falle der Nutzung von Instagram werden Ihre Daten von der Facebook Ireland Ltd. Erfasst, übertragen, gespeichert, offengelegt und verwendet. Instagram verarbeitet dabei zum einen Ihre freiwillig eingegebenen Daten wie Name und Nutzername, E-Mail-Adresse, Telefonnummer oder die Kontakte Ihres Adressbuches, wenn Sie dieses hochladen oder synchronisieren. Zum anderen wertet Instagram aber auch die von Ihnen geteilten Inhalte daraufhin aus, an welchen Themen Sie interessiert sind, speichert und verarbeitet vertrauliche Nachrichten, die Sie direkt an andere Nutzerschicken und kann Ihren Standort anhand von GPS-Daten, Informationen zu Drahtlosnetzwerken oder über Ihre IP-Adresse bestimmen, um Ihnen Werbung oder andere Inhalte zukommen zu lassen.
+Zur Auswertung benutzt Instagram unter Umständen Analyse-Tools wie Instagram-Insights oder Google-Analytics. Die KU hat keinen Einfluss auf eine Nutzung solcher Tools durch Instagram und wurde über einen solchen potentiellen Einsatz auch nicht informiert. Sollten Tools dieser Art von Instagram für das Instagram-Profil der KU eingesetzt werden, hat die KU dies weder in Auftrag gegeben, noch abgesegnet oder sonst in irgendeiner Art unterstützt. Auch werden ihr die bei der Analyse gewonnenen personenbezogenen Daten nicht zur Verfügung gestellt. Lediglich bestimmte, nicht-personenbezogene, aggregierte Informationen über die Aktivität, also etwa die Anzahl der Likes oder Klicks auf ein bestimmtes Posting oder das Profil, sind für die KU über ihren Account einsehbar. Überdies hat die KU keine Möglichkeit, den Einsatz solcher Tools auf seinem Instagram-Profil zu verhindern oder abzustellen.
+Ihre Daten können auch in die USA übermittelt werden. Bei der Datenübermittlung von personenbezogen Daten bestehen datenschutzrechtlich gesehen Risiken für die Person, deren Daten in die USA übermittelt werden. US-Behörden (insb. Geheimdiensten) stehen Prüfungsrechte (insb. gem. Section 702 des Foreign Intelligence Surveillance Acts (FISA 702) und der Executive Order 12 333) zu, ohne dass EU-Bürger sich dagegen wehren können. Diese US-amerikanischen Rechtsgrundlagen erlauben den Datenzugriff bei elektronischen Kommunikationsdiensten bei Nicht-US-Bürgern auch ohne einen gerichtlichen Beschluss und Rechtsschutz.
+Was den gerichtlichen Rechtsschutz anbelangt, verfügen EU-Bürger nicht über dieselben rechtlichen Möglichkeiten (Rechtsbehelfe) wie amerikanische Staatsbürger, um sich gegen die Verarbeitung personenbezogener Daten durch amerikanische Behörden zu wehren.
+Die Vereinigten Staaten führen eine massenhafte Datenverarbeitung durch, ohne einen Schutz zu gewährleisten, der dem durch die Art. 7 (Achtung des Privat- und Familienlebens) und Art. 8 (Schutz personenbezogener Daten) der Grundrechte-Charta der EU garantierten Schutz der Sache nach gleichwertig ist. Seit 2018 existiert auch der Cloud Act, der US-Behörden den Zugriff auf gespeicherte Daten von amerikanischen Unternehmen (und auch deren Tochtergesellschaften in Europa) erlaubt, die nicht in den USA gespeichert werden.
+Möglichkeiten, die Verarbeitung Ihrer Daten zu beschränken, haben Sie bei den allgemeinen Einstellungen Ihres Instagram-Profils unter den verschiedenen dort aufgelisteten Menüpunkten.
+Weitere Informationen und die geltenden Datenschutzbestimmungen von Instagram können unter
+https://help.instagram.com/155833707900388
+und
+https://www.instagram.com/about/legal/privacy/
+abgerufen werden.
+7. Welche Rechte habe ich?
+Als betroffene Person einer Datenverarbeitung haben Sie nach dem KDG unter anderem folgende Rechte (im Folgenden auch kurz „Betroffenenrechte“ genannt).
+7.1 Auskunftsrecht gemäß § 17 KDG
+Sie haben das Recht, Auskunft darüber zu verlangen, ob wir personenbezogene Daten zu ihrer Person verarbeiten oder nicht. Wenn wir personenbezogene Daten von Ihnen verarbeiten, haben Sie Anspruch zu erfahren,
+die Verarbeitungszwecke
+die Kategorien personenbezogener Daten, die verarbeitet werden
+die Empfänger oder Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden, insbesondere bei Empfängern in Drittländern oder bei internationalen Organisationen
+falls möglich die geplante Dauer, für die die personenbezogenen Daten gespeichert werden, oder, falls die nicht möglich ist, die Kriterien für die Festlegung dieser Dauer
+das Bestehen des Rechts auf Benachrichtigung oder Löschung der Sie betreffenden personenbezogenen Daten oder auf Einschränkung der Verarbeitung durch den Verantwortlichen oder eines Widerspruchsrechts gegen diese Verarbeitung
+das Bestehen eines Beschwerderechts bei der Datenschutzaufsicht
+wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben werden, alle verfügbaren Informationen über die Herkunft der Daten
+das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling gemäß § 24 Absätze 1 und 4 KDG und – zumindest in diesen Fällen – aussagekräftige Informationen über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer derartigen Verarbeitung für die betroffene Person
+dass wenn Daten über Sie in ein Land außerhalb Europäischen Union übermittelt werden, Sie Anspruch auf Auskunft haben, ob und falls ja aufgrund welcher Garantien ein angemessenes Schutzniveau beim Datenempfänger sichergestellt ist;
+dass Sie das Recht haben, eine Kopie ihrer personenbezogenen Daten zu verlangen.
+Die erste Kopie ist kostenfrei, für weitere Kopien kann ein angemessenes Entgelt verlangt werden. Eine Kopie kann nur bereitgestellt werden, soweit die Rechte anderer Personen hierdurch nicht beeinträchtigt werden.
+7.2 Recht zur Berichtigung der Daten gemäß § 18 KDG
+Sie haben das Recht, von uns die Berichtigung ihrer Daten zu verlangen, wenn diese nicht richtig und/oder unvollständig sein sollten. Zu diesem Recht gehört auch das Recht auf Vervollständigung durch ergänzende Erklärungen oder Mitteilungen. Eine Berichtigung und/oder Ergänzung muss ohne schuldhaftes Zögern erfolgen.
+7.3 Recht auf Löschung von personenbezogenen Daten gemäß § 19 KDG
+Sie haben das Recht, von uns die Löschung Ihrer personenbezogenen Daten zu verlangen, wenn
+die personenbezogenen Daten für die Zwecke, für die sie erhoben und verarbeitet wurden, nicht mehr erforderlich sind;
+die Datenverarbeitung aufgrund einer von Ihnen erteilten Einwilligung erfolgt und sie die Einwilligung widerrufen haben; dies gilt allerdings nicht, wenn eine andere gesetzliche Erlaubnis für die Datenverarbeitung besteht;
+Sie Widerspruch gegen eine Datenverarbeitung eingelegt haben, deren gesetzliche Erlaubnis im sogenannten „berechtigten Interesse“ liegt; eine Löschung muss allerdings dann nicht erfolgen, wenn vorrangigen berechtigten Gründe für eine weitere Verarbeitung vorliegen;
+Sie Widerspruch gegen eine Datenverarbeitung zum Zwecke der Direktwerbung eingelegt haben;
+Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden;
+Ein Recht zur Löschung personenbezogener Daten besteht nicht, wenn
+das Recht zur freien Meinungsäußerung und Information dem Löschungsverlangen entgegensteht;
+die Verarbeitung von personenbezogenen Daten
+zur Erfüllung einer rechtlichen Verpflichtung (z. B. gesetzliche Aufbewahrungspflichten),
+zur Wahrnehmung öffentlicher Aufgaben und Interessen nach geltendem Recht (hierzu gehört auch die „öffentliche Gesundheit“) oder
+zu Archivierungs- und/oder Forschungszwecken erforderlich ist;
+die personenbezogenen Daten zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich sind.
+Die Löschung muss unverzüglich (ohne schuldhaftes Zögern) erfolgen. Sind personenbezogene Daten von uns öffentlich gemacht worden (z. B. im Internet), haben wir im Rahmen des technisch Möglichen und Zumutbaren dafür zu sorgen, dass auch andere Datenverarbeiter über das Löschungsverlangen einschließlich der Löschung von Links, Kopien und/oder Replikationen informiert werden.
+7.4 Recht auf Einschränkung der Datenverarbeitung gemäß § 20 KDG
+Sie haben das Recht, die Verarbeitung ihrer personenbezogenen Daten in folgenden Fällen einschränken zu lassen:
+Wenn Sie die Richtigkeit ihrer personenbezogenen Daten bestritten haben, können Sie von uns verlangen, dass ihre Daten für die Dauer der Überprüfung der Richtigkeit nicht anderweitig genutzt und somit deren Verarbeitung eingeschränkt werden.
+Bei unrechtmäßiger Datenverarbeitung können Sie anstelle der Datenlöschung die Einschränkung der Datennutzung verlangen;
+Benötigen Sie ihre personenbezogenen Daten zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen, aber wir benötigen ihre personenbezogenen Daten nicht mehr, können Sie von uns die Einschränkung der Verarbeitung auf die Rechtsverfolgungszwecke verlangen;
+Haben Sie gegen eine Datenverarbeitung Widerspruch eingelegt und steht noch nicht fest, ob unsere Interessen an einer Verarbeitung ihre Interessen überwiegen, können sie verlangen, dass ihre Daten für die Dauer der Prüfung für andere Zwecke nicht genutzt und somit deren Verarbeitung eingeschränkt werden.
+Personenbezogenen Daten, deren Verarbeitung auf ihr Verlangen eingeschränkt wurde, dürfen vorbehaltlich der Speicherung - nur noch
+mit ihrer Einwilligung,
+zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen,
+zum Schutz der Rechte anderer natürlicher oder juristischer Person, oder
+aus Gründen eines wichtigen öffentlichen Interesses verarbeitet werden.
+Sollte eine Verarbeitungseinschränkung aufgehoben werden, werden sie hierüber vorab unterrichtet.
+7.5 Recht auf Datenübertragbarkeit gemäß § 22 KDG
+Sie haben das Recht die Daten, die Sie uns zur Verfügung gestellt haben, in einem gängigen elektronischen Format (z. B. als PDF- oder Excel-Dokument), von uns zu verlangen. Sie können auch von uns verlangen, diese Daten direkt an ein anderes (durch Sie bestimmtes) Unternehmen zu übermitteln, sofern dies für uns technisch möglich ist.
+Die Voraussetzung dafür, dass Sie dieses Recht haben, ist, dass die Verarbeitung durch auf Grundlage einer Einwilligung oder zur Durchführung eines Vertrages erfolgt und mit Hilfe automatisierter Verfahren durchgeführt wird. Die Ausübung des Rechts auf Datenübertragbarkeit die Rechte und Freiheiten anderer Personen nicht beeinträchtigen. Wenn Sie das Recht auf Datenübertragbarkeit nutzen, haben Sie auch weiterhin das Recht auf Datenlöschung.
+7.6 Recht zum Widerspruch gegen bestimmte Datenverarbeitungen gemäß § 23 KDG
+Wenn Ihre Daten zur Wahrnehmung von im öffentlichen Interesse liegenden Aufgaben oder zur Wahrnehmung berechtigter Interessen verarbeitet werden, können Sie dieser Verarbeitung widersprechen. Sie müssen uns hierzu die Gründe, die sich aus Ihrer besonderen Situation ergeben, für Ihren Widerspruch darlegen. Dies können z. B. besondere familiäre Umstände oder schutzwürdige Geheimhaltungsinteressen sein.
+Im Fall des Widerspruchs haben wir jede weitere Verarbeitung ihrer Daten zu unterlassen, es sei denn,
+es liegen zwingende, schutzwürdige Gründe für eine Verarbeitung vor, die ihre Interessen, Rechte und Freiheiten überwiegen, oder
+die Verarbeitung ist zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich.
+Einer Verwendung ihrer Daten zum Zwecke der Direktwerbung können Sie jederzeit für die Zukunft widersprechen; dies gilt auch für ein Profiling, soweit es mit der Direktwerbung in Verbindung steht. Im Fall des Widerspruchs dürfen wir Ihre Daten nicht mehr zum Zwecke der Direktwerbung verwenden. Direktwerbung und/oder ein Profiling wird von uns in keinem Fall veranlasst bzw. durchgeführt.
+7.7 Verbot automatisierter Entscheidungen/Profiling gemäß § 24 KDG
+Entscheidungen von uns, die für Sie eine rechtliche Folge nach sich ziehen oder Sie erheblich beeinträchtigen, dürfen nicht ausschließlich auf eine automatisierte Verarbeitung personenbezogener Daten gestützt werden. Hierzu gehört auch das Profiling. Dieses Verbot gilt nicht, soweit die automatisierte Entscheidung
+für den Abschluss oder die Erfüllung eines Vertrages mit Ihnen erforderlich ist,
+aufgrund von Rechtsvorschriften zulässig ist, wenn diese Rechtsverschriften angemessene Maßnahmen zum Schutz Ihrer Rechte und Freiheiten sowie Ihrer berechtigten Interessen enthalten, oder
+mit ihrer ausdrücklichen Einwilligung erfolgt.
+Entscheidungen, die ausschließlich auf einer automatisierten Verarbeitung besondere Kategorien personenbezogener Daten (=sensible Daten) beruhen, sind nur dann zulässig, wenn sie auf Grundlage
+Ihrer ausdrücklichen Einwilligung erfolgen oder
+ein erhebliches öffentliches Interesse an der Verarbeitung besteht
+und angemessene Maßnahmen zum Schutz Ihrer Rechte und Freiheiten sowie Ihrer berechtigten Interessen getroffen wurden.
+8. Ausübung der Betroffenenrechte
+Zur Ausübung der Betroffenenrechte wenden Sie sich bitte uns (siehe Kontaktdaten "Verantwortlicher"). Anfragen, die elektronisch eingereicht werden, werden in der Regel elektronisch beantwortet. Die nach dem KDG zur Verfügung zu stellenden Informationen, Mitteilungen und Maßnahmen einschließlich der Ausübung der Betroffenenrechte werden grundsätzlich unentgeltlich erbracht. Für darüber hinaus gehende Kopien können wir ein Entgelt auf Grundlage der Verwaltungskosten verlangen.
+Bestehen begründete Zweifel an Ihrer Identität, dürfen wir zum Zwecke der Identifizierung zusätzliche Informationen von Ihnen verlangen.
+Auskunfts- und Informationsbegehren werden in der Regel unverzüglich, d.h. innerhalb eines Monats nach Eingang der Anfrage bearbeitet. Die Frist kann um weitere zwei Monate verlängert werden, soweit dies unter Berücksichtigung der Komplexität und/oder der Anzahl der Anfragen erforderlich ist. Im Fall einer Fristverlängerung werden wir Sie innerhalb eines Monats nach Eingang ihrer Anfrage über die Verzögerung und deren Gründe informieren. Sollten wir auf einen Antrag hin nicht tätig werden, werden wir Sie unverzüglich innerhalb eines Monats nach Eingang des Antrags über die Gründe hierfür unterrichten und Sie über die Möglichkeit, bei einer Aufsichtsbehörde Beschwerde einzulegen oder einen gerichtlichen Rechtsbehelf in Anspruch zu nehmen, informieren.
+9. Beschwerderecht bei der Datenschutzaufsicht
+Im Fall von Beschwerden, haben Sie das Recht, sich an die Datenschutzaufsicht zu wenden: Katholisches Datenschutzzentrum Bayern (KdöR), Datenschutzaufsicht für die bayerischen (Erz-)Diözesen, Vordere Sterngasse 1, 90402 Nürnberg.

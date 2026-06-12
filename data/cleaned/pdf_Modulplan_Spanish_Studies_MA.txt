@@ -1,0 +1,70 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulplan_Spanish_Studies_MA.pdf
+TITLE: Modulplan_Spanish_Studies_MA.pdf
+SOURCE_FILE: Modulplan_Spanish_Studies_MA.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Interdisciplinary Master’s degree program; flexible variant 
+ Spanish Studies (exemplary module plan) 
+ 
+ 
+ 
+4 
+Master Thesis (incl. Module on Master Thesis) 
+30 ECTS 
+3 
+internship 
+semester abroad 
+30 ECTS 
+2 
+required elective module 
+linguistics or literary 
+studies 
+required elective module 
+linguistics or literary 
+studies 
+required elective module 
+linguistics, literary studies 
+or language practice 
+Studium.Pro 
+ 
+ 
+30 ECTS 
+1 
+required elective module 
+linguistics or literary 
+studies 
+required elective module 
+linguistics or literary 
+studies 
+required elective module 
+language practice 
+ 
+ 
+ 
+30 ECTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Spanish Studies 
+ 
+ 
+ 
+other subject 
+ 
+ 
+ 
+ 
+Master Thesis and Module on Master Thesis 
+practically orientated part of the studies 
+semester abroad (recommended) 
+ 
+part of the studies reserved for the student’s personal profile

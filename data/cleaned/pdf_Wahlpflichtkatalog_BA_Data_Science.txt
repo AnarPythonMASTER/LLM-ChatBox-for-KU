@@ -1,0 +1,1304 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_BA_Data_Science.pdf
+TITLE: Wahlpflichtkatalog_BA_Data_Science.pdf
+SOURCE_FILE: Wahlpflichtkatalog_BA_Data_Science.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Wahlpflichtkatalog im Bachelorstudiengang Data Science 
+1. nach § 7 der Prüfungsordnung Data Science 
+2. Geltungsbereich zum WiSe 25/26 
+3. vom Fakultätsrat der Mathematisch-Geographischen Fakultät beschlossen am 16.07.25 
+ 
+ 
+ 
+Wahlpflichtmodule der Spezialisierungen 
+Module auch Teil der allgemeinen Wahlpflicht 
+ 
+ 
+Applied Mathematics and Scientific Computing 
+ 
+Modulbezeichnung 
+englisch 
+Offizielle Modulbezeichnung Prüfungsform 
+ECTS- 
+Anzahl Semester Sprache 
+Zulassungsvoraussetzung 
+Analysis III 
+Analysis III 
+Klausur oder mündliche Prüfung 
+7 
+WS 
+D/E 
+keine 
+Bayesian DataScience 
+Bayesian Data Science 
+Klausur oder mündliche Prüfung, 
+freiwillige semesterbegleitende 
+Übungsaufgaben möglich, oder 
+Portfolioprüfung 
+5 
+WS/SS 
+E 
+keine 
+Differential 
+Equations I 
+Differentialgleichungen I 
+Klausur 60 bis 90 Minuten) oder 
+mündliche Prüfung (20 
+bis 30 Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben 
+möglich 
+5 
+SS 
+D/E 
+keine 
+
+[Page 2]
+Differential Equations 
+II 
+Differentialgleichungen II 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 
+bis 30 Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben 
+möglich 
+5 
+WS 
+D 
+keine 
+Graph Theory and 
+Optimization 
+Graphentheorie und 
+Optimierung 
+Klausur oder mündliche Prüfung 
+5 
+WS/SS 
+D/E 
+keine 
+High Dimensional 
+Probability 
+High Dimensional 
+Probability 
+ Klausur oder mündliche Prüfung 
+mit Möglichkeit der 
+Notenverbesserung, oder 
+Portfolio-Prüfung 
+ 
+5 
+WS/SS 
+E 
+keine 
+Introduction to 
+Discrete and Non-
+Lineare Optimization 
+Einführung in die 
+ganzzahlige und nicht-
+lineare Optimierung 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 
+bis 30 Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben 
+möglich 
+5 
+SS 
+D/E 
+keine 
+Introduction to 
+Discrete 
+Mathematics 
+Einführung in die diskrete 
+Mathematik 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 
+bis 30 Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben möglich 
+5 
+SS 
+D/E 
+keine 
+Introduction to 
+Functional Analysis 
+Einführung in die 
+Funktionalanalysis 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 
+bis 30 Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben möglich 
+5 
+WS 
+D 
+keine 
+Introduction to 
+Linear Optimization 
+Einführung in die lineare 
+Optimierung 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 
+bis 30 Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben 
+5 
+WS 
+D/E 
+keine 
+
+[Page 3]
+möglich 
+Introduction to 
+Mathematical 
+Modeling 
+Einführung in die 
+Mathematische 
+Modellierung 
+ Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 bis 30 
+Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben möglich 
+5 
+SS/WS 
+E 
+ 
+Grundveranstaltungen Analysis und Lineare 
+Algebra, Differentialgleichungen I, 
+Differentialgleichungen II 
+Introduction to 
+Numerical 
+Mathematics 
+Einführung in die 
+numerische Mathematik 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 bis 30 
+Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben möglich 
+5 
+WS 
+D/E 
+keine 
+Quantum Logics 
+Quantenlogik 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 
+bis 30 Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben möglich 
+5 
+SS 
+D 
+keine 
+Introduction to 
+Scientific Computing 
+Einführung in das 
+wissenschaftliche Rechnen 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 bis 30 
+Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben möglich 
+5 
+SS 
+D/E 
+keine 
+Introduction to Data 
+Assimilation 
+Introduction to Data 
+Assimilation 
+Klausur oder mündliche Prüfung 
+mit Möglichkeit der 
+Notenverbesserung, oder 
+Portfolio-Prüfung 
+ 
+ 5 
+ 
+WS/SS 
+ 
+E 
+Lineare Algebra I/II, Einführung in das statistische 
+Arbeiten, Einführung in die Programmiertechnik 
+ 
+Models of Weather 
+and Climate 
+ 
+Models of Weather and 
+Climate 
+Klausur oder mündliche Prüfung 
+mit Möglichkeit der 
+Notenverbesserung, oder 
+Portfolio-Prüfung 
+ 
+5 
+ 
+SS/WS 
+ 
+E 
+Analysis oder Analysis für DS I/II, Lineare Algebra 
+I/II, Einführung in die Programmiertechnik 
+ 
+ 
+ 
+
+[Page 4]
+Business Analytics and Operations 
+ 
+Modulbezeichnung 
+englisch 
+Offizielle 
+Modulbezeichnung 
+Prüfungsform 
+ECTS- 
+Anzahl 
+Semester 
+Sprache 
+Zulassungsvoraussetzung 
+Business Analytics and Data 
+Mining 
+Business Analytics and 
+Data Mining 
+Klausur 
+5 
+SS 
+E 
+keine 
+Digital Systems & Operations 
+Management 
+Digital Systems & 
+Operations Management 
+Klausur 
+5 
+WS 
+D 
+keine 
+Proseminar SCM 
+Proseminar SCM 
+Schriftliche 
+Ausarbeitung/Projektmanageme 
+nt und 
+Teamarbeit/Präsentation/Mitarb 
+eit in den Seminarsitzungen 
+5 
+SS 
+D/E 
+keine 
+Operations Analytics 
+Operations Analytics 
+Klausur 
+5 
+SS 
+E 
+keine 
+Operations Management 
+Case Studies 
+Operations Management 
+Projektstudium 
+Praxisprojekt und 
+Endpräsentation 70 %/schriftliche 
+Arbeit ("termpaper") 20 %/Aktive 
+Teilnahme am Kurs/mündliche 
+Mitarbeit 10 % 
+5 
+WS/SS 
+D 
+keine 
+Software Tools for Simulation 
+and Optimization 
+Software Tools for 
+Simulation and 
+Optimization 
+Portfolio mit den folgenden 
+Bestandteilen: Schriftl. 
+Übungsaufgaben/Präsentation 
+der Übungsaufgaben/Klausur 
+5 
+WS 
+D/E 
+Grundlagen der linearen 
+Optimierung/Wahrscheinlichkeitsrechnung 
+und - verteilungen 
+Supply Chain Analytics 
+Supply Chain Analytics 
+Klausur 
+5 
+WS 
+E 
+keine 
+Systems Development 
+Systementwicklung 
+Klausur 
+5 
+WS 
+D 
+keine 
+Digital and Sustainable Business 
+Models 
+Digital and Sustainable 
+Business Models 
+Klausur 
+5 
+WS 
+E 
+keine 
+Service and Technology 
+Marketing 
+Service and Technology 
+Marketing 
+Klausur 
+5 
+SS 
+E 
+keine 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Software Engineering and 
+Programming 
+Software Engineering and 
+Programming 
+Klausur 
+5 
+WS 
+E 
+keine 
+Digital Business Strategies, 
+Organisation and Innovation 
+Digital Business Strategies, 
+Organisation and 
+Innovation 
+Klausur 
+5 
+SS 
+E 
+keine 
+Digital Seminar in Data Science & 
+Digital Seminar in Data 
+Leistungsnachweis Portfolio und 
+10 
+SS 
+D/E 
+keine 
+
+[Page 5]
+Quantitative Applications 
+Science & Quantitative 
+Applications 
+schriftliche Ausarbeitung und 
+Präsentationen und 
+Softwareimplementierung 
+Digital Project 
+Digital Project 
+Leistungsnachweis Portfolio und 
+schriftliche Ausarbeitung und 
+Präsentationen 
+10 
+ WS/SS 
+D/E 
+keine 
+Introduction to Reinforcement 
+Learning 
+Introduction to 
+Reinforcement Learning 
+Projektarbeit 
+5 
+ SS 
+E 
+keine 
+
+[Page 6]
+Digital Transformation of Society 
+ 
+Modulbezeichnung 
+englisch 
+Offizielle 
+Modulbezeichnung 
+Prüfungsform 
+ECTS- 
+Anzahl 
+Semester 
+Sprache 
+Zulassungsvoraussetzung 
+Basics of journalism/communi 
+cation science 
+Grundlagen der 
+Journalistik/Kommunikatio 
+nswissenschaft 
+Klausur oder Hausarbeit mit 
+Referat 
+5 
+WS 
+D 
+keine 
+Bayesian Data Science 
+Bayesian Data 
+Science 
+Klausur oder mündliche Prüfung, 
+freiwillige semesterbegleitende 
+Übungsaufgaben möglich, oder 
+Portfolioprüfung 
+5 
+WS
+/SS 
+E 
+ Keine 
+Changemaker - developing 
+sustainable projects 
+Changemaker - 
+Gesellschaftliche Innovation 
+nachhaltig gestalten 
+Portfolio 
+5 
+WS 
+D/E 
+keine 
+Digital Law 
+Digitales Recht 
+Anfertigen einer schriftlichen 
+Arbeit und Präsentation 
+5 
+WS
+/SS 
+D 
+keine 
+Digital and Sustainable 
+Business Models 
+Digital and Sustainable 
+Business Models 
+Klausur 
+5 
+WS 
+E 
+keine 
+Empirical Communication 
+Research II: Application 
+Project 
+Empirische 
+Kommunikationsforschung 
+II: Anwendungsprojekt 
+Projektskizze oder Portfolio oder 
+praktische Leistungen 
+5 
+SS 
+D 
+Modul: Empirische Kommunikationsforschung I: 
+Grundlagen der empirischen Sozialforschung 
+Empirical Communication 
+Research I: Basics of empirical 
+social research 
+Empirische 
+Kommunikationsforschung 
+I: Grundlagen der 
+empirischen 
+Sozialforschung 
+Klausur oder Portfolio 
+5 
+WS 
+D 
+keine 
+
+[Page 7]
+ 
+Empirical Sociology 
+Empirische Soziologie 
+Klausur oder mündliche Prüfung 
+oder schriftliche 
+Hausarbeit 
+10 
+SS 
+D/E 
+keine 
+Journalism and 
+Mediasystems 
+Journalismus und 
+Mediensysteme 
+Hausarbeit mit Referat oder 
+Klausur oder Projektskizze 
+5 
+SS 
+D 
+keine 
+Practical Course on 
+Empirical Social Research 
+Forschungspraktikum 
+Hausarbeit 
+15 
+SS/
+WS 
+D/E 
+Quantitative Methoden der empirischen 
+Sozialforschung 
+Quantitative Methods of 
+empirical Social Research 
+Quantitative 
+Methoden der 
+empirischen 
+Sozialforschung 
+Klausur (Dauer: 90 – 120 
+min.) oder mündliche 
+Prüfung oder Hausarbeit 
+5 
+WS 
+D/E 
+keine 
+
+[Page 8]
+Environmental Sciences 
+ 
+Modulbezeichnung 
+englisch 
+Offizielle 
+Modulbezeichnung 
+ 
+Prüfungsform 
+ECTS- 
+Anzahl 
+ 
+Semester 
+ 
+Sprache 
+ 
+Zulassungsvoraussetzung 
+ 
+Bayesian Data Science 
+Bayesian Data 
+Science 
+Klausur oder mündliche Prüfung, 
+freiwillige semesterbegleitende 
+Übungsaufgaben möglich, oder 
+Portfolioprüfung 
+ 
+5 
+ 
+WS/SS 
+ 
+E 
+ 
+Data Science for the 
+Environmental Sciences 
+Data Science for the 
+Environmental Sciences 
+ 
+Klausur oder mündliche Prüfung 
+mit Möglichkeit der 
+Notenverbesserung, oder 
+Portfolio-Prüfung 
+5 
+WS/SS 
+E 
+Einführung in das statistische Arbeiten 
+Introduction to Data 
+Assimilation 
+Introduction to Data 
+Assimilation 
+ 
+Klausur oder mündliche Prüfung 
+mit Möglichkeit der 
+Notenverbesserung, oder 
+Portfolio-Prüfung 
+ 
+5 
+ 
+WS/SS 
+ 
+E 
+Lineare Algebra I/II, Einführung in das 
+statistische Arbeiten, Einführung in die 
+Programmiertechnik 
+ 
+Introduction to 
+Mathematical Modeling 
+Einführung in die 
+Mathematische 
+Modellierung 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 bis 30 
+Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben möglich 
+ 
+5 
+ 
+WS 
+ 
+E 
+Grundveranstaltungen Analysis und Lineare 
+Algebra, Differentialgleichungen I, 
+Differentialgleichungen II 
+ 
+Models of Weather and 
+Climate 
+ 
+Models of Weather and 
+Climate 
+Klausur oder mündliche Prüfung 
+mit Möglichkeit der 
+Notenverbesserung, oder 
+Portfolio-Prüfung 
+ 
+5 
+ 
+SS/WS 
+ 
+E 
+Analysis oder Analysis für DS I/II, Lineare 
+Algebra I/II, Einführung in die 
+Programmiertechnik 
+Physical Geography 
+Field Lab 
+Große Projektarbeit in der 
+Physischen Geographie 
+ 
+Projektarbeit 
+ 
+5 
+ 
+SS 
+ 
+D 
+ 
+keine 
+Statistical Modelling 
+and Simulation 
+Statistical Modelling and 
+Simulation 
+Klausur oder mündliche 
+Prüfung mit Möglichkeit 
+der Notenverbesserung, 
+oder Portfolio-Prüfung 
+ 
+5 
+ 
+WS/SS 
+ 
+E 
+ 
+keine 
+
+[Page 9]
+Techniques of Geography 1: 
+Understanding Mapsand 
+Cartographic practise 
+Techniken der Geographie 
+1: Kartenkunde und 
+Kartographie 
+ 
+Klausur 
+ 
+5 
+ 
+WS 
+ 
+D 
+ 
+keine 
+Techniques of 
+Geography 2: 
+Geoinformatics 
+Techniken der Geographie 
+2: Geoinformatik 
+Klausur (unbenotet) 
+und Projektarbeit 
+ 
+5 
+ 
+SS 
+ 
+D 
+ 
+keine 
+Techniques of 
+Geography 3: 
+RemoteSensing 
+Techniken der Geographie 
+3: Fernerkundung 
+ 
+Klausur 
+ 
+5 
+ 
+WS 
+ 
+D 
+ 
+keine 
+Physical Geography 2: 
+Geomorphology 
+Phyische Geographie 2: 
+Geomorphologie 
+ 
+Klausur und Exkursionsbericht 
+ 
+5 
+ 
+SS 
+ 
+D 
+ 
+keine 
+Geoinformatische und 
+statistische Methoden 
+GIS and Statistics 
+Ohne Benotung: 
+bestanden (erfolgreiche 
+Bearbeitung von >=60% der 
+Übungsaufgaben; alle Aufgaben 
+bearbeitet)/ 
+nicht bestanden 
+10 
+WS 
+D/E 
+ keine 
+ 
+
+[Page 10]
+Finance and Economics 
+ 
+ 
+ 
+ 
+Offizielle 
+Modulbezeichnung 
+ 
+Prüfungsform 
+ 
+ECTS- 
+Anzahl 
+ 
+Semester 
+ 
+Sprache 
+ 
+Zulassungsvoraussetzung 
+ 
+Balancing and Business Taxation Jahresabschluss- und 
+Unternehmensbesteuerung 
+ 
+Klausur 
+ 
+5 
+ 
+SS 
+ 
+D 
+ 
+keine 
+ 
+Capital Market Theory 
+ 
+Kapitalmarkttheorie 
+ 
+Klausur 
+ 
+5 
+ 
+SS 
+ 
+D 
+ 
+Investition, Finanzierung und Kapitalmarkt 
+ 
+Digital Law 
+ 
+Digitales Recht 
+Anfertigen einer schriftlichen 
+Arbeit und Präsentation 
+ 
+5 
+ 
+WS
+/SS 
+ 
+D 
+ 
+keine 
+Foundations of Economics 
+Einführung in die 
+Volkswirtschaftslehre 
+Klausur 
+5 
+WS 
+D 
+keine 
+Investment, Finance and Tax 
+Investition, Finanzierung 
+und Steuern 
+Klausur 
+5 
+WS 
+D 
+keine 
+Labour Economics 
+Arbeitsmarktökonomik 
+Klausur 
+5 
+WS 
+D 
+keine 
+Macroeconomics 
+Makroökonomie 
+Klausur 
+5 
+SS 
+D 
+keine 
+Management Accounting 
+Betriebliches 
+Rechnungswesen 
+Klausur 
+5 
+WS 
+D 
+keine 
+Microeconomics 
+Mikroökonomie 
+Klausur 
+5 
+SS 
+D 
+keine 
+Monetary Policy 
+Geldpolitik 
+Klausur 
+5 
+SS 
+D 
+keine 
+Political Institutions, the 
+Economy, and Financial Markets 
+ Political Institutions, the 
+Economy, and Financial 
+Markets 
+Klausur 
+5 
+WS 
+E 
+keine 
+ 
+Seminar on Macroeconomics 
+ 
+Seminar on 
+Macroeconomics 
+ 
+Seminararbeit und Präsentation 
+ 
+5 
+ 
+SS 
+ 
+E 
+keine 
+International Business 
+International Business 
+Klausur 
+5 
+WS 
+E 
+keine 
+
+[Page 11]
+Digital and Sustainable Business 
+Models 
+Digital and Sustainable 
+Business Models 
+Klausur 
+5 
+WS 
+E 
+keine 
+Sustainable Development 
+Sustainable Development 
+Klausur oder Anfertigen einer 
+schritlichen Arbeit mit Präsentation 
+oder Portfolio 
+ 
+5 
+ 
+SS 
+ 
+E 
+keine 
+Corporate Governance 
+Corporate Governance 
+Klausur 
+5 
+SS 
+E 
+keine 
+Performance Measurement 
+Performance Measurement Klausur 
+5 
+WS 
+E 
+keine 
+Company Taxation in the EU: 
+Towards more Fairness and 
+Sustainability 
+Company Taxation in the 
+EU: Towards more Fairness 
+and Sustainability 
+Klausur 
+5 
+WS 
+E 
+keine 
+Behavioral Finance 
+Behavioral Finance 
+Klausur 
+ 
+5 
+ 
+SS 
+ 
+E 
+keine 
+
+[Page 12]
+ 
+Machine Learning and Statistics 
+ 
+Modulbezeichnung 
+englisch 
+Offizielle 
+Modulbezeichnung 
+ 
+Prüfungsform 
+ECTS- 
+Anzahl 
+ 
+Semester 
+ 
+Sprache 
+ 
+Zulassungsvoraussetzug 
+ 
+Applied Statistics with 
+Applications in R 
+Angewandte Statistik mit 
+praktischen Übungen in R 
+1) Klausur oder mündliche Prüfung 
+2) Projekt-Präsentation 
+ 
+10 
+ 
+WS 
+ 
+D 
+ 
+keine 
+ 
+Bayesian DataScience 
+Bayesian Data 
+Science 
+Klausur oder mündliche Prüfung, 
+freiwillige semesterbegleitende 
+Übungsaufgaben möglich, oder 
+Portfolioprüfung 
+ 
+5 
+ 
+WS/SS 
+ 
+E 
+ 
+ 
+ 
+ 
+Deep Learning 
+ 
+Deep Learning 
+Klausur oder mündliche Prüfung 
+mit Möglichkeit der 
+Notenverbesserung durch 
+freiwillige semesterbegleitende 
+Übungen; oder Portfolio-Prüfung 
+ 
+ 
+10 
+ 
+ 
+WS/SS 
+ 
+ 
+E 
+Einführung in die Programmiertechnik, Hands-
+on Machine Learning und Data Science, Analysis 
+I/II, Linearea Algebra I/II 
+High Dimensional Probability 
+High Dimensional 
+Probability 
+Klausur oder mündliche Prüfung 
+mit Möglichkeit der 
+Notenverbesserung, oder 
+Portfolio-Prüfung 
+ 
+ 
+5 
+ 
+WS/SS 
+ 
+E 
+ 
+keine 
+ 
+ 
+ 
+ 
+Measure Theory 
+ 
+ 
+ 
+Integrationstheorie 
+Klausur (60 bis 90 Minuten) 
+oder mündliche Prüfung (20 bis 
+30 Minuten), freiwillige 
+semesterbegleitend e 
+Übungsaufgaben möglich 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+WS 
+ 
+ 
+ 
+ 
+D 
+ 
+keine 
+ 
+Optimization Methods in 
+Machine Learning 
+Optimization 
+Methods in 
+MachineLearning 
+Klausur oder mündliche Prüfung 
+mit Möglichkeit der 
+Notenverbesserung durch 
+freiwillige semesterbegleitende 
+Übungen; oder Portfolio-Prüfung 
+ 
+5 
+ 
+WS/SS 
+ 
+E 
+ 
+keine 
+
+[Page 13]
+ 
+ 
+Probability Theory 
+ 
+Wahrscheinlichkeitstheorie 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 bis 30 
+Minuten), 
+freiwillige semesterbegleitende 
+Übungsaufgaben 
+ 
+ 
+5 
+ 
+ 
+SS 
+ 
+ 
+D 
+ 
+ 
+keine 
+Introduction to Data Assimilation Introduction to Data 
+Assimilation 
+Klausur oder mündliche Prüfung 
+mit Möglichkeit der 
+Notenverbesserung, oder 
+Portfolio-Prüfung 
+ 
+5 
+ 
+WS/SS 
+ 
+E 
+Lineare Algebra I/II, Einführung in das statistische 
+Arbeiten, Einführung in die Programmietechnik 
+ 
+
+[Page 14]
+Weitere allgemeine Wahlpflicht Module 
+ 
+Data Science 
+ 
+ 
+Modulbezeichnung 
+englisch 
+Offizielle 
+Modulbezeichnung 
+ 
+Prüfungsform 
+ECTS- 
+Anzahl 
+ 
+Semester 
+ 
+Sprache 
+ 
+Zulassungsvoraussetzung 
+ 
+Signal and Image Processing 
+ 
+Signal and Image 
+Processing 
+Klausur oder mündliche Prüfung 
+mit Möglichkeit der 
+Notenverbesserung durch 
+freiwillige semesterbegleitende 
+Übungen; oder Portfolio-Prüfung 
+5 
+WS/SS 
+E 
+keine 
+ 
+Topics in Data Science 
+ 
+Topics in Data Science 
+Klausur oder mündliche Prüfung 
+mit Möglichkeit der 
+Notenverbesserung durch 
+freiwillige semesterbegleitende 
+Übungen; oder Portfolio-Prüfung 
+5 
+WS/SS 
+D/E 
+Keine 
+ 
+Informatik 
+ 
+ 
+Modulbezeichnung 
+englisch 
+Offizielle 
+Modulbezeichnung 
+ 
+Prüfungsform 
+ECTS- 
+Anzahl 
+ 
+Semester 
+ 
+Sprache 
+ 
+Zulassungsvoraussetzung 
+ 
+Applied Machine Learning 
+ 
+Applied Machine Learning 
+Klausur 
+5 
+SS 
+D 
+Mathematik für Wirtschaftswissenschaftler 
+Deskriptive Statistik und 
+Wahrscheinlichkeitstheorie 
+Induktive und MultivariateStatistik 
+Grundkenntnisse in einer 
+Programmiersoftware, z.B.Python 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 15]
+Mathematik 
+ 
+ 
+Modulbezeichnung 
+englisch 
+ 
+Offizielle Modulbezeichnung 
+ 
+Prüfungsform 
+ECTS- 
+Anzahl 
+ 
+Semester 
+Sprac 
+he 
+ 
+Zulassungsvoraussetzung 
+ 
+Algebra including Elements 
+of Galois Theory 
+Algebra mit Elementen der 
+Galoistheorie 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 bis 30 
+Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben möglich 
+5 
+SS 
+D 
+keine 
+Basics of Algebra 
+Grundbegriffe der Algebra 
+ Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 bis 30 
+Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben möglich 
+5 
+WS 
+D 
+keine 
+Complex Analysis I 
+Funktionentheorie I 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 bis 30 
+Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben möglich 
+5 
+WS 
+D 
+keine 
+Complex Analysis II 
+Funktionentheorie II 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 bis 30 
+Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben möglich 
+5 
+SS 
+D 
+keine 
+Elements of Algebra 
+and Number Theory 
+Elemente der Algebra und 
+Zahlentheorie 
+Klausur (60 bis 90 Minuten) oder 
+mündliche Prüfung (20 bis 30 
+Minuten), freiwillige 
+semesterbegleitende 
+Übungsaufgaben möglich 
+5 
+WS 
+D 
+keine

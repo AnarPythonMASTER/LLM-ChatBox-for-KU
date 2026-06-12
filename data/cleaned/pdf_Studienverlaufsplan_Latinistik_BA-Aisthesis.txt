@@ -1,0 +1,226 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Latinistik_BA-Aisthesis.pdf
+TITLE: Studienverlaufsplan_Latinistik_BA-Aisthesis.pdf
+SOURCE_FILE: Studienverlaufsplan_Latinistik_BA-Aisthesis.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anlage 1 zur Studiengangsbeschreibung 
+ 
+ 
+ 
+ 
+Latinistik im Profil „Aisthesis. Kultur und Medien“ (BA) 
+ 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+WP Latinistik: 
+z.B. 
+Aufbaumodul 
+lat. Literatur 
+und 
+Literaturwiss. 
+III (5 ECTS-
+Punkte) 
+WP 
+Latinistik: 
+z.B. 
+Projektmodul 
+Interdiszipli-
+näre 
+Forschung 
+(5 ECTS-
+Punkte) 
+Aisthesis. 
+Kultur und 
+Medien: 
+Methoden-
+seminar zur 
+Vorbereitung 
+der Abschluss-
+arbeit 
+(5 ECTS-
+Punkte) 
+BA-Arbeit 
+(10 ECTS-Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+5 
+WP Latinistik: 
+z.B. 
+Aufbaumodul 
+lat. Literatur 
+und 
+Literaturwiss. 
+II (5 ECTS-
+Punkte) 
+WP 
+Latinistik: 
+z.B. 
+Historische 
+Sprachwissen-
+schaft 
+(5 ECTS-
+Punkte) 
+Studium. Pro 
+(5 ECTS-
+Punkte) 
+WP Fach 1 
+bzw. Fach 
+2 (5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+4 
+Aufbaumodul 
+Lateinische Lit. 
+und Literaturw. I 
+(5 ECTS-
+Punkte) 
+WP 
+Latinistik: 
+z.B. 
+Griechische 
+Literatur-
+geschichte II 
+(5 ECTS-
+Punkte) 
+Aisthesis. 
+Kultur und 
+Medien: 
+„Interdiszipli-
+näre Studien 
+(5 ECTS-
+Punkte) 
+Aisthesis. 
+Kultur und 
+Medien, 
+z.B. „Kultur 
+und Medien 
+im Kontext“ 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+3 
+WP Latinistik: 
+z.B. 
+Griechische 
+Literatur und 
+Literaturwiss. I 
+(5 ECTS-
+Punkte) 
+WP 
+Latinistik: 
+z.B. 
+Griechische 
+Literatur-
+geschiche I 
+(5 ECTS-
+Punkte) 
+Praktikum 
+(5 ECTS-
+Punkte) 
+Aisthesis. 
+Kultur und 
+Medien: 
+Wahlpflicht-
+modul 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+2 
+Grundfragen 
+der lat. 
+Literatur II 
+(5 ECTS-
+Punkte) 
+Lateinische 
+Sprache: 
+Grundkurs II 
+(5 ECTS-
+Punkte) 
+Studium.Pro 
+(5 ECTS-
+Punkte) 
+Aisthesis. 
+Kultur und 
+Medien: 
+z.B. 
+Grundlagen 
+Journalistik 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+1 
+Grundfragen 
+der lat. 
+Literatur I 
+(5 ECTS-
+Punkte) 
+Lateinische 
+Sprache: 
+Grundkurs I 
+(5 ECTS-
+Punkte) 
+Aisthesis. 
+Kultur und 
+Medien: Kultur 
+und Medien. 
+Kultur- und 
+sozialwissen-
+schaftliche 
+Grundlagen 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+Fach 2 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte

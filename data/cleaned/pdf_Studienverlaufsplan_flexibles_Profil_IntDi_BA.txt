@@ -1,0 +1,133 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_flexibles_Profil_IntDi_BA.pdf
+TITLE: Studienverlaufsplan_flexibles_Profil_IntDi_BA.pdf
+SOURCE_FILE: Studienverlaufsplan_flexibles_Profil_IntDi_BA.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Die oder der Studierende muss 
+1. ein Fach Fach A im Umfang von mindestens 60 ECTS-Punkten, 
+2. das im Studium.Pro Umfang von bis zu 10 ECTS-Punkten, 
+3. die Bachelorarbeit im Umfang von 10 ECTS-Punkten, 
+4. ein Praktikum im Umfang von bis zu 10 ECTS-Punkten und 
+5. das Modul Wissenschaftliches Kolloquium zur Bachelorarbeit im Umfang von 5 ECTS-Punkten, erfolgreich absolvieren. 
+Die oder der Studierende kann 
+1. bis zu drei weitere Fächer im Umfang von jeweils mindestens 30 ECTS-Punkten, 
+2. das Studium Individuale im Umfang von bis zu 30 ECTS-Punkten erfolgreich absolvieren. 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+Bachelorarbeit (Fach A) 
+(10 ECTS-Punkte) 
+Wissenschaftliches 
+Kolloquium 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+oder Studium 
+Individuale 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-Punkte 
+5 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Praktikum 
+ (5 ECTS-Punkte) 
+Fach A, B, C, D 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+oder Studium 
+Individuale 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-Punkte 
+4 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Studium.Pro 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+oder Studium 
+Individuale 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-Punkte 
+3 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+Studium.Pro, 
+Praktikum 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+oder Studium 
+Individuale 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-Punkte 
+2 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+oder Studium 
+Individuale 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-Punkte 
+1 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+(5 ECTS-Punkte) 
+Fach A, B, C, D 
+oder Studium 
+Individuale 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-Punkte

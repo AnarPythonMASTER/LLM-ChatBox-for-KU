@@ -1,0 +1,45 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_TSG_MA_Politikwissenschaft.pdf
+TITLE: Studienverlaufsplan_TSG_MA_Politikwissenschaft.pdf
+SOURCE_FILE: Studienverlaufsplan_TSG_MA_Politikwissenschaft.pdf
+------------------------------------------------------------
+
+[Page 1]
+Das politikwissenschaftliche Modulangebot:
+1. Praxis, Strategien und (Politik-) Felder der internationalen Politik (5 oder 10 
+ECTS-Punkte)
+2. Theorien, Strukturen und Ordnungen der internationalen Politik (5 oder 10 
+ECTS-Punkte) 
+3. Völkerrecht – Quellen, Prinzipien, aktuelle Entwicklungen (10 ECTS-Punkte)
+4. Verfassungsstaatlichkeit (10 ECTS-Punkte)
+5. Vergleichende Politikwissenschaft (5 oder 10 ECTS-Punkte)
+6. Politisches System und Innenpolitik der Bundesrepublik Deutschland (5 oder 
+10 ECTS-Punkte)
+7. Geschichte des politischen Denkens (10 ECTS-Punkte)
+8. Politische Theorie und Philosophie der Gegenwart (10 ECTS-Punkte)
+9. Aufbaumodul Politische Theorie und Philosophie (5 ECTS Punkte)
+Modulübersicht:
+M.A. mit Politikwissenschaft als Hauptfach
+Politikwissenschaft 
+im Interdisziplinären Masterstudiengang der KU
+Verpflichtende Bestandteile
+zu absolvierende 
+ECTS-Punkte
+Politikwissenschaftliche Module
+min. 30, max. 75
+Studium.Pro
+5
+Masterarbeit in Politikwissenschaft
+30
+Praktikum oder weiteres Modul aus 
+einem gewählten Fach
+5
+Weitere mögliche Bestandteile
+zu absolvierende 
+ECTS-Punkte
+Maximal zwei zusätzliche Fächer
+min. je 25
+Studium Individuale (freier Wahlbereich)
+max. 25
+Insgesamt 
+zu absolvierende ECTS-Punkte
+120

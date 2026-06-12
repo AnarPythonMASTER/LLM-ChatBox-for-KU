@@ -1,0 +1,51 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Journalistik_BA.pdf
+TITLE: Studienverlaufsplan_Journalistik_BA.pdf
+SOURCE_FILE: Studienverlaufsplan_Journalistik_BA.pdf
+------------------------------------------------------------
+
+[Page 1]
+1. Semester
+2. Semester
+3. Semester
+4. Semester
+5. Semester
+6. Semester
+Kommunikationswissenschaft
+Journalistische Praxisausbildung
+Gesellschaftliche Grundkompetenz 
+und Wahlbereiche
+Grundlagen der Journalistik/ 
+Kommunikationswissenschaft
+Mediensysteme 
+Medienrecht
+Medienethik
+Verschiedene Module, zum Beispiel 
+- Aktuelle Medienentwicklung
+- Spezialisierung im Journalismus
+- Rezeptions-und Wirkungsforschung
+- Empirische Kommunikationsforschung
+Journalistisches Arbeiten I (Print)
+Journalistisches Arbeiten II (Print)
+Hörfunk
+Digitale Medien (Online und Bild), 
+Fernseh-/Videojournalismus
+Digitales Projekt
+Medienwerkstatt I: Print
+Medienwerkstatt II: Digitale Medien
+Einführungen in Politikwissenschaft, 
+Soziologie und Philosophie 
+Neun mögliche Schwerpunkte:
+- Journalismus und interkulturelle
+Kommunikation (Spanisch) 
+- Fach- und interkulturelle
+Kommunikation (Französisch)
+- Literatur und Kultur
+- Lateinamerika-Studien
+- Geschichtswissenschaften
+- Politik und Gesellschaft
+- Betriebswirtschaftslehre
+- Umwelt und Nachhaltigkeit
+- Data Science
+Verpflichtendes Auslandssemester
+Bachelorarbeit
+Journalistisches Pflichtpraktikum

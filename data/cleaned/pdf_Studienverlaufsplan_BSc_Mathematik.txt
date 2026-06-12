@@ -1,0 +1,111 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BSc_Mathematik.pdf
+TITLE: Studienverlaufsplan_BSc_Mathematik.pdf
+SOURCE_FILE: Studienverlaufsplan_BSc_Mathematik.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anlage 1 zur Studiengangsbeschreibung 
+Idealtypischer Studienverlaufsplan 
+Bachelorstudiengang Mathematik 
+Semester 
+6 
+Bachelorarbeit (10 ECTS-
+Punkte)
+Bachelor- 
+seminar 
+(5 ECTS-Punkte) 
+Mathematisches 
+Programmieren 
+(5 ECTS-Punkte) 
+Algebra mit 
+Elementen der 
+Galois-Theorie (5 
+ECTS-Punkte) 
+Funktionen- 
+theorie II 
+(5 ECTS-
+Punkte) 
+30 
+ECTS-
+Punkte 
+5 
+Angewandte Statistik mit 
+praktischen Übungen in R 
+(10 ECTS-Punkte) 
+Einführung in 
+das wissenschaft- 
+liche Rechnen 
+(5 ECTS-Punkte) 
+Funktionen- 
+theorie I 
+(5 ECTS-Punkte) 
+Ausrichtung (10 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+4 
+Einführung in 
+die numerische 
+Mathematik 
+(5 ECTS-
+Punkte)
+Ganzzahlige 
+Optimierung 
+(5 ECTS-
+Punkte)
+Wahrscheinlich- 
+keitstheorie 
+(5 ECTS-Punkte)
+Differential- 
+gleichungen I 
+(5 ECTS-Punkte)
+Ausrichtung (10 ECTS-Punkte)
+30 
+ECTS-
+Punkte 
+3 
+Grundbegriffe 
+der Algebra 
+(5 ECTS-
+Punkte) 
+Integrations- 
+theorie 
+(5 ECTS-
+Punkte)
+Einführung 
+in die lineare 
+Optimierung 
+(5 ECTS-Punkte)
+Einführung in die 
+Stochastik 
+(5 ECTS-Punkte)
+Ausrichtung (10 ECTS-Punkte)
+30 
+ECTS-
+Punkte 
+2 
+Analysis II (10 ECTS-Punkte) 
+Lineare Algebra II und analytische 
+Geometrie 
+(10 ECTS-Punkte) 
+Ausrichtung (10 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+1 
+Analysis I (10 ECTS-Punkte) 
+Lineare Algebra I (10 ECTS-Punkte) 
+Einführung 
+in die 
+Programmier- 
+technik 
+(5 ECTS-
+Punkte)
+Einführung in 
+das statistische 
+Arbeiten 
+(5 ECTS-
+Punkte)
+30 
+ECTS-
+Punkte

@@ -1,0 +1,100 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_Master_Taxation_SoSe_2022.pdf
+TITLE: Wahlpflichtkatalog_Master_Taxation_SoSe_2022.pdf
+SOURCE_FILE: Wahlpflichtkatalog_Master_Taxation_SoSe_2022.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+M. Sc. Taxation 
+ 
+1. nach § 8 der Prüfungsordnung für den Masterstudiengang Taxation in der 
+ Fassung vom 01.09.2020 
+2. Geltungsbereich zum SoSe 2022 
+ 
+3. vom Fakultätsrat der Fakultät Wirtschaftswissenschaften beschlossen am 
+ 27.04.2022 
+ 
+ 
+Auflistung der Wahlpflichtmodule 
+In der PO verankerte Wahlpflichtbereiche: 
+ 
+1. Wahlpflichtbereich Taxation, 
+2. Wahlpflichtbereich Minor Accounting & Auditing, 
+3. Wahlpflichtbereich Minor Business Law, 
+4. Wahlpflichtbereich Minor Digitization and Digital Business, 
+5. Wahlpflichtbereich Minor Quantitative Methods 
+ 
+ 
+ 
+1. Wahlpflichtbereich Taxation 
+ 
+Abgabenordnung (5 ECTS): Klausur 
+Bilanzsteuerrecht (5 ECTS): Klausur 
+Corporate Tax Avoidance (2,5 ECTS): Seminararbeit / Präsentation 
+Fallstudien zu Umwandlungs- und internationalem Steuerrecht (2,5 ECTS): Präsentation 
+Internationale Verrechnungspreise und Gewinnabgrenzung (2,5 ECTS): Präsentation 
+MA-Seminar „Aktuelle Fragen der Unternehmensbesteuerung“ (5 ECTS): Seminararbeit / 
+Präsentation 
+Multinationale Unternehmen und ihre Besteuerung (5 ECTS): Klausur 
+Seminar Current Issues in Tax Policy (5 ECTS): Seminararbeit / Präsentation 
+Steuerfunktion 4.0 – Kernelemente einer Digitalisierungsstrategie (5 ECTS): Präsentation 
+Strukturgestaltungen im Konzern (5 ECTS): Präsentation 
+ 
+Umsatzsteuerrecht (2,5 ECTS): Präsentation 
+Umwandlungssteuerrecht (5 ECTS): Klausur 
+ 
+ 
+ 
+2. Modulangebote im Wahlpflichtbereich Minor Accounting & Auditing 
+ 
+Fallstudienseminar Accounting & Controlling (5 ECTS): Seminararbeit / Präsentation 
+Internationale Rechnungslegung, Prüfung u. Unternehmensbewertung (5 ECTS): Klausur 
+Kapitalmarktorientierte Rechnungslegung (5 ECTS) Klausur 
+ 
+Seminar Accounting and Auditing (5 ECTS): Seminararbeit / Präsentation 
+ 
+Seminar Accounting & Controlling (5 ECTS): Seminararbeit / Präsentation 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Seminar: Applied Empirical Accounting Research (5 ECTS): Seminararbeit / Präsentation/ 
+Diskussion 
+Wirtschaftliches Prüfungswesen (5 ECTS): Klausur 
+ 
+ 
+3. Modulangebot im Wahlpflichtbereich Minor Business Law 
+ 
+Bilanzrecht (5 ECTS): Klausur 
+Europäisches Wirtschaftsrecht (5 ECTS): Klausur 
+Insolvenzrecht (5 ECTS): Klausur 
+Umwandlungsrecht (5 ECTS): Klausur 
+ 
+4. Modulangebot im Wahlpflichtbereich Minor Digitization and Digital Business 
+ 
+Algorithmen und Datenstrukturen (5 ECTS): Klausur oder mündliche Prüfung 
+Data Science Methoden (5 ECTS): Klausur oder mündliche Prüfung 
+Data Science Konzepte (5 ECTS) Klausur oder mündliche Prüfung 
+Data Science Werkzeuge (5 ECTS): Klausur 
+Digital Business Models and Technologies (5 ECTS): Klausur / Dokumentation und 
+Präsentation 
+Economics of Innovation (5 ECTS): Klausur 
+Service Analytics (5 ECTS): Klausur 
+Steuerfunktion 4.0 – Kernelemente einer Digitalisierungsstrategie (5 ECTS): Präsentation 
+ 
+ 
+5. Modulangebot im Wahlpflichtbereich Minor Quantitative Methods 
+ 
+Empirical Finance (5 ECTS): Case Studies / Klausur 
+Quasi-experimental Policy Evaluation (5 ECTS): Seminararbeit 
+Seminar Statistik (5 ECTS): Seminararbeit / Präsentation / Poster 
+Statistische Prognoseverfahren (5 ECTS): Klausur 
+Tax Research (5 ECTS): Präsentation 
+Zeitreihenanalyse (5 ECTS): Klausur oder mündliche Prüfung 
+ 
+ 
+ 
+Im Wahlbereich kann aus dem gesamten Masterangebot der wirtschaftswissenschaftlichen 
+Fakultät gewählt werden.

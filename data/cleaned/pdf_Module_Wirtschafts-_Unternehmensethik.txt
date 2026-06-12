@@ -1,0 +1,49 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Module_Wirtschafts-_Unternehmensethik.pdf
+TITLE: Module_Wirtschafts-_Unternehmensethik.pdf
+SOURCE_FILE: Module_Wirtschafts-_Unternehmensethik.pdf
+------------------------------------------------------------
+
+[Page 1]
+Digital & Data-Driven Business 
+Status 26.06.2023 
+ 
+ 
+1 
+Wahlpflichtkatalog für den Bachelorstudiengang Digital & Data-Dri-
+ven Business 
+ 
+E) Wahlpflichtbereich „Wirtschafts- und Unternehmensethik “ 
+Modulbezeichnung 
+Prüfungsform 
+ECTS- 
+Anzahl 
+Semes-
+terlage 
+Zulassungsvorausset-
+zungen 
+Wirtschafts- und Un-
+ternehmensethik 
+ Klausur 
+5 
+WiSe 
+- 
+Einführung 
+in 
+die 
+Ethik der digitalen 
+Kommunikation 
+(vhb-Kursangebot) 
+ Online-Testat 
+ 
+5 
+SoSe / 
+WiSe 
+- 
+Fallstudien zur Un-
+ternehmensethik 
+(vhb-Kursangebot) 
+ Take Home Exam 
+ 
+5 
+SoSe 
+-

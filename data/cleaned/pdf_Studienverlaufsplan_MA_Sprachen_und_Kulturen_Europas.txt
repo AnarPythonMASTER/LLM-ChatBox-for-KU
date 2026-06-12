@@ -1,0 +1,109 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_MA_Sprachen_und_Kulturen_Europas.pdf
+TITLE: Studienverlaufsplan_MA_Sprachen_und_Kulturen_Europas.pdf
+SOURCE_FILE: Studienverlaufsplan_MA_Sprachen_und_Kulturen_Europas.pdf
+------------------------------------------------------------
+
+[Page 1]
+Idealtypischer Studienverlaufsplan: MA Sprachen und Kulturen Europas 
+ 
+ 
+ 
+ 
+Kernbereich des Studiengangs „Sprachen und Kulturen Europas“ 
+ 
+Sprachpraktischer Bereich 
+ 
+Methodologischer Bereich 
+ 
+Modul aus dem Masterangebot des Studium.Pro 
+ 
+Transdisziplinärer Bereich 
+ 
+Masterarbeit 
+ 
+Vertiefungsbereich Modul 1-3: Literaturwissenschaft, Sprachwissenschaft, Klassische Archäologie, Kunstgeschichte, Geschichte, Politik, Europäische Ethnologie / Empirische Kulturwissenschaft 
+ 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Projektmodul 
+Sprache im 
+europäischen 
+Vergleich 
+(5 ECTS-Punkte) 
+Transdisziplinäre 
+Studien – vertieft 
+(5 ECTS-Punkte) 
+Vertiefungsbereich 
+Modul 3 
+(5 ECTS-Punkte) 
+Masterarbeit 
+ (30 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+3 
+Praktikum 
+ (5 ECTS-Punkte) 
+Wahlbereich 
+(Auslandssemester) 
+(10 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+2 
+Projektmodul 
+Sprachen und Kulturen Europas 
+(10 ECTS-Punkte) 
+Vertiefungsbereich 
+Modul 2 
+(5 ECTS-Punkte) 
+Digitale Methoden: 
+Daten erheben, 
+auswerten und 
+interpretieren 
+(5 ECTS-Punkte) 
+Sprachpraktischer 
+Wahlpflichtbereich 
+Fremdsprache 1 
+Modul 2 
+(5 ECTS-Punkte) 
+Sprachpraktischer 
+Wahlpflichtbereich 
+Fremdsprache 2 
+Modul 2 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte 
+1 
+Regional, National, 
+and Supranational 
+Dimensions of 
+European Cultural 
+History 
+(5 ECTS-Punkte) 
+Aspekte der 
+europäischen 
+Linguistik 
+(5 ECTS-Punkte) 
+Vertiefungsbereich 
+Modul 1 
+(5 ECTS-Punkte) 
+Studium.Pro 
+ (5 ECTS-Punkte) 
+Sprachpraktischer 
+Wahlpflichtbereich 
+Fremdsprache 1 
+Modul 1 
+(5 ECTS-Punkte) 
+Sprachpraktischer 
+Wahlpflichtbereich 
+Fremdsprache 2 
+Modul 1 
+(5 ECTS-Punkte) 
+30 ECTS-
+Punkte

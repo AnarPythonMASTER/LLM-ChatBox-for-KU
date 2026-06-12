@@ -1,0 +1,150 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/KU_Lehramt_Faecherkombinationen_GS_aktuell.pdf
+TITLE: KU_Lehramt_Faecherkombinationen_GS_aktuell.pdf
+SOURCE_FILE: KU_Lehramt_Faecherkombinationen_GS_aktuell.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Lehramt Grundschule 
+Fächerkombinationsmöglichkeiten an der KU 
+ 
+ 
+* Zulassungsbeschränkung – fristgerechte Bewerbung erforderlich 
+** Eignungsprüfung – fristgerechte Anmeldung erforderlich 
+*** Eignungsfeststellungsverfahren – fristgerechte Anmeldung erforderlich 
+ 
+Erweiterungen (ab dem dritten Fachsemester): 
+- 
+weiteres Unterrichtsfach 
+- 
+Ethik 
+- 
+Beratungslehrkraft 
+- 
+Didaktiken einer Fächergruppe der Mittelschule 
+- 
+fremdsprachliche Qualifikation (nur als nachträgliche Erweiterung möglich) 
+- 
+Psychologie mit schulpsychologischem Schwerpunkt* (nur als nachträgliche Erweiterung möglich) 
+ 
+Bei Fragen wenden Sie sich bitte an die Studierendenberatung der KU (studierendenberatung@ku.de). 
+ 
+Grundlage: § 35 LPO I; Stand 05 / 2025 
+Unterrichtsfach 
+ 
+Didaktik der Grundschule 
+ 
+Didaktikfach 1 
+Didaktikfach 2 
+Didaktikfach 3 
+Deutsch 
+Biologie 
+Mathematik 
+Kunst 
+Deutsch als Zweitsprache 
+Englisch 
+Musik 
+Geographie 
+Geschichte 
+Katholische Religionslehre 
+Sport 
+Politik und Gesellschaft 
+ 
+Deutsch als Zweitsprache 
+ 
+Deutsch 
+Mathematik 
+Kunst 
+Musik 
+Sport 
+ 
+Englisch*** 
+ 
+Deutsch 
+Mathematik 
+Kunst 
+Musik 
+Sport 
+ 
+Geographie 
+ 
+Deutsch 
+Mathematik 
+Kunst 
+Musik 
+Sport 
+ 
+Geschichte 
+ 
+Deutsch 
+Mathematik 
+Kunst 
+Musik 
+Sport 
+ 
+Kunst** 
+ 
+Deutsch 
+Mathematik 
+Biologie 
+Deutsch als Zweitsprache 
+Englisch 
+Geographie 
+Geschichte 
+Katholische Religionslehre 
+Musik 
+Politik und Gesellschaft 
+Sport 
+ 
+Mathematik 
+ 
+Deutsch 
+Biologie 
+Kunst 
+Deutsch als Zweitsprache 
+Englisch 
+Musik 
+Geographie 
+Geschichte 
+Sport 
+Katholische Religionslehre 
+Politik und Gesellschaft 
+ 
+Musik** 
+ 
+Deutsch 
+Mathematik 
+Biologie 
+Deutsch als Zweitsprache 
+Englisch 
+Geographie 
+Geschichte 
+Katholische Religionslehre 
+Kunst 
+Politik und Gesellschaft 
+Sport 
+ 
+Katholische Religionslehre 
+ 
+Deutsch 
+Mathematik 
+Kunst 
+Musik 
+Sport 
+ 
+Politik und Gesellschaft 
+ 
+Deutsch 
+Mathematik 
+Kunst 
+Musik 
+Sport 
+ 
+Psychologie mit schulpsychologischem 
+Schwerpunkt* 
+ 
+Deutsch 
+Mathematik 
+Kunst 
+Musik 
+Sport

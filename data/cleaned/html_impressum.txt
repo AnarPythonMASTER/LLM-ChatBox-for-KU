@@ -1,0 +1,28 @@
+SOURCE_URL: https://www.ku.de/impressum
+TITLE: Impressum – KU
+SOURCE_FILE: impressum.html
+------------------------------------------------------------
+
+Herausgeber
+Katholische Universität Eichstätt-Ingolstadt
+Postanschrift
+Katholische Universität Eichstätt-Ingolstadt
+85071 Eichstätt
+Besucheranschrift
+Katholische Universität
+Eichstätt-Ingolstadt
+Ostenstraße 26
+85072 Eichstätt
+Telefon: +49 8421 93-0
+E-Mail:
+info(at)ku.de
+Vertretungsberechtigt:
+Prof. Dr. Gabriele Gien, Präsidentin
+Träger:
+Stiftung Katholische Universität Eichstätt-Ingolstadt, Luitpoldstr. 10, 85072 Eichstätt
+Umsatzsteueridentifikationsnummer:
+DE811263728
+Verantwortlich für den Inhalt i.S.d. § 18 Abs. 2 MStV:
+Prof. Dr. Gabriele Gien, Präsidentin, Ostenstraße 26, 85072 Eichstätt
+Ansprechpartner für journalistisch-redaktionell gestaltete Angebote:
+Pressestelle der KU

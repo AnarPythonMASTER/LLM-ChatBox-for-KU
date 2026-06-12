@@ -1,0 +1,182 @@
+SOURCE_URL: https://www.ku.de/studienangebot/umweltprozesse-msc
+TITLE: M.Sc. Umweltprozesse & Naturgefahren – KU
+SOURCE_FILE: studienangebot_umweltprozesse-msc.html
+------------------------------------------------------------
+
+Geographie: Umweltprozesse und Naturgefahren
+zu den Informationen für Studierende
+Abschluss
+Master of Science
+Semesterbeitrag
+88
+ Euro
+Studienbeginn
+Wintersemester
+Regelstudienzeit
+4
+ Semester
+Studienort
+Eichstätt
+Teilzeitstudium möglich
+Ja
+In einer stark vom Menschen beeinflussten Welt, die sich im Wandel befindet, ist das Verständnis von Prozessen, die aus den Wechselwirkungen der Atmosphäre, Hydrosphäre, Litho- und Pedosphäre sowie der Biosphäre entstehen, essenziell für die Analyse und Bewertung von Mensch-Umwelt-Problemen und Naturgefahren. Der zugleich praxisnahe und forschungsorientierte Masterstudiengang „Physische Geographie: Umweltprozesse und Naturgefahren“ vermittelt die Fähigkeit, Problemanalysen auf lokaler und regionaler Ebene durchzuführen und Lösungsvorschläge für einen nachhaltigen Umgang mit den Ressourcen des Planeten zu erarbeiten. Unsere Absolventinnen und Absolventen erwerben methodische Kompetenzen im Umgang mit moderner und innovativer Technologie für die Datenaufnahme im Gelände sowie die Auswertung im Labor und am Rechner, die sie für ein breites Tätigkeitsfeld in Wirtschaft und Wissenschaft qualifizieren.
+mehr Informationen auf der Seite der Umweltgeographie
+Bitte beachten Sie: Durch Klicken auf die Bildfläche geben Sie Ihre Einwilligung, dass Videoinhalte von YouTube nachgeladen, Cookies von YouTube/Google auf Ihrem IT-System gespeichert und personenbezogene Daten wie Ihre IP-Adresse an Google weitergegeben werden. Klicken Sie nach Beendigung des Videoinhaltes auf ein anderes Video, öffnet sich in einem neuen Tab Ihres Browsers YouTube und erfasst weitere Daten von Ihnen. Weitere Informationen finden Sie in unseren Datenschutzhinweisen und unter
+Google Privacy
+.
+Das Studium im Detail
+Inhalt
+Der Studiengang baut auf den Forschungsschwerpunkten des Fachs in Eichstätt auf und ist offen für alle Bewerberinnen und Bewerber aus den Bereichen Geographie, Hydrologie, Geoökologie sowie weiteren benachbarten Studiengängen. Auch Absolventinnen und Absolventen von Lehramtsstudiengängen der Geographie sind zur Aufnahme des Masterstudiums berechtigt.
+Zu den Qualifikationszielen des Studiengangs gehören das wissenschaftliche Denken und Arbeiten, Fach- und Methodenkompetenz sowie die Befähigung zu verantwortungsbewusstem, nachhaltigem Handeln. Studierende sollen Fähigkeiten entwickeln wie
+Systemisches Denken, dazu gehören das Verständnis und die Modellierung von natürlichen und Mensch-Umwelt-Systemen sowie eine dafür nötige raum-zeitliche Denk- und Arbeitsweise
+Fachliches Urteilsvermögen, insbesondere im Kontext der Erarbeitung von nachhaltigen Lösungen für den Umgang mit Umweltprozessen und Naturgefahren
+Kenntnisse im Bereich (Landschafts-)Ökosystem-, Auen- und Renaturierungsforschung
+Kenntnis (in Theorie und Praxis) von Arbeitstechniken, z.B. Datenerhebung im Gelände, Messtechniken (digitale Reliefaufnahme, hydrologische Messungen), Datenhaltung und Analyse mithilfe von Statistiksoftware und Geographischen Informationssystemen
+Selbstständiges Arbeiten - von der Erarbeitung wissenschaftlicher und angewandter Fragestellungen über die Projektkonzeption bis zur Umsetzung
+Erstellung wissenschaftlicher Arbeiten in verschiedenen Formaten (wiss. Aufsatz, Poster, Vortrag)
+Kommunikations- und Kooperationsvermögen in Teamarbeit
+Aufbau
+Ausgehend von den fachlichen und methodischen Modulen des ersten Semesters, in denen die gemeinsame Basis für das weitere Studium gelegt und konsolidiert wird, ziehen sich zwei „rote Fäden“ durch das Studium. Diese können die Studierenden im zweiten und dritten Semester durch die Auswahl von Wahlpflichtmodulen gewichten: Zum einen gibt es einen Fokus auf geomorphologische Prozesse, die zum Beispiel mit modernen Vermessungsmethoden erforscht und als Naturgefahren verstanden werden können; ein weiterer Strang nimmt klimatologische und ökologische Prozesse in den Blick und beschäftigt sich unter anderem mit Monitoringmethoden, Landschaftsanalyse und nachhaltiger Umweltentwicklung.
+1. Semester
+Die Zusammenhänge und Wechselwirkungen von menschlichem Handeln und geomorphologischen und hydrologischen Prozessen stehen im Mittelpunkt des Moduls „Geomorphologische und hydrologische Umweltprozesse und Naturgefahren“. Weitere Module vermitteln Wissen zu klimatologischen Prozessen und deren Umweltrelevanz und führen ein in das Umweltmonitoring als regelmäßige und systematische Beobachtung von Zustandsgrößen und Prozessen mittels verschiedener Messmethoden und Kartierungen. Wichtige Methodenkompetenzen werden in zwei Modulen im Bereich der Aufnahme und Prozessierung digitaler Geländedaten sowie der geoinformatischen und statistischen Analyseverfahren entwickelt.
+2. Semester
+Das zweite Semester umfasst Lehrveranstaltungen, die sich mit der Auseinandersetzung von Mensch und Umwelt bzw. Naturgefahr im Sinne einer Analyse, eines Monitorings und Managements beschäftigen. Ein zentrales Element ist die „Projektarbeit Umweltmonitoring“, bei der im Gelände, im Labor und am Rechner Umweltprozesse und Naturgefahren erkannt, dokumentiert und bewertet werden sollen. Ein großes Geländeseminar ermöglicht das intensive Kennenlernen eines Natur- und Kulturraums. Vor Ort werden Entstehung, Wirksamkeit und Konsequenzen von natürlichen Prozessen und deren Verflechtung mit der Gesellschaft diskutiert. Die Aufnahme und Prozessierung digitaler Oberflächendaten findet ihre Fortsetzung im Modul „Digitale Reliefanalyse“ mittels spezialisierter GIS-Anwendungen.
+4. Semester
+In der zweiten Hälfte des Studiums werden wichtige Weichen für die weitere Arbeit in Wissenschaft und Praxis gestellt – die erworbenen Kenntnisse werden weiter vertieft und angewendet. Das Modul „Angewandte Geologie“ ermöglicht Einblick in die Arbeit von Behörden, Forschungsinstituten und Ingenieurbüros. Eine Spezialisierung im Bereich Naturgefahren bieten die Module „Analyse von Risiken durch Naturgefahren“, in dem es um die Wahrscheinlichkeit und Raumwirksamkeit geomorphologischer und hydrologischer Gefahrenprozesse geht, sowie „Aspekte des Managements von Risiken durch Naturgefahren“. Zuletzt zeigen Sie in Ihrer Masterarbeit, die z.B. in einem der laufenden Forschungsprojekte angesiedelt sein kann, extern co-betreut werden kann oder eine ganz selbstgewählte Fragestellung bearbeitet, dass Sie wissenschaftlich arbeiten können.
+Studienverlaufsplan
+Dokumente zum Studienverlauf
+Modulhandbuch
+Alle Modulbeschreibungen sind direkt über
+KU.Campus
+abrufbar. Gehen Sie dort in der Navigation auf "Informationsportal --> Studiengänge". Geben Sie Ihren Studiengang und das betreffende Semester in der Suchmaske ein. In der Ergebnisliste erscheint oben rechts das Modulhandbuch zum Download als pdf- oder Word-Datei.
+Rechtsverbindlich sind die in KU.Campus veröffentlichten Modulbeschreibungen.
+Studiengangsbeschreibung
+Studiengangsbeschreibung
+für den Masterstudiengang Physische Geographie: Umweltprozesse & Naturgefahren.
+Studienverlaufsplan
+Studienverlaufsplan
+für den Masterstudiengang Physische Geographie: Umweltprozesse & Naturgefahren.
+Wahlpflichtkatalog
+Wahlpflichtkatalog
+für den Masterstudiengang Physische Geographie: Umweltprozesse & Naturgefahren - Geltungsbereich zum WiSe 2025/26
+Wahlpflichtkatalog
+für den Masterstudiengang Physische Geographie: Umweltprozesse & Naturgefahren - Geltungsbereich zum WiSe 2024/24
+Ausstattung
+Unser starker methodischer Schwerpunkt in der Lehre und unsere Forschungsprojekte werden ermöglicht durch eine exzellente Ausstattung an Geräten für den Geländeeinsatz, im Labor und im Bereich Hard- und Software.
+Auf den folgenden Seiten können Sie sich über unsere Ausstattung in den folgenden Bereichen informieren:
+Vermessung und Fernerkundung: Scanner, Drohnen etc.
+Hard- und Software für GIS, Photogrammetrie und Reliefanalyse
+Gelände- und Laboranalysen von Wasser, Sedimenten, Pollen und Baumringen
+Unsere Wetterstation
+misst verschiedene Klimaparameter
+Die Geräte kommen neben der Verwendung in Forschungsprojekten regelmäßig in Lehrveranstaltungen (Spezialisierungsmodule, Geländepraktika und Projektseminare) und in Abschlussarbeiten zum Einsatz.
+Rankings und Bewertungen
+Die Studierenden und Alumni der KU haben sie 2026 zum vierten Mal (nach 2021, 2022 und 2024) zur beliebtesten Universität Deutschlands im Ranking des Online-Portals StudyCheck gekürt. Grundlage für das Ranking waren über 87.000 Bewertungen für mehr als 500 Hochschulen und Universitäten. 97 Prozent jener Studierenden, die am Ranking teilnahmen, empfehlen ein Studium an der KU weiter.
+„Es gibt für eine Universität doch kein besseres Lob, wenn fast 100 Prozent der Studierenden und Alumni sagen: Ein Studium an der KU kann ich nur empfehlen! Darum freut uns diese Auszeichnung sehr, weil sie die hohe Zufriedenheit unserer Studierenden ausdrückt“, so KU-Präsidentin Prof. Dr. Gabriele Gien.
+Mehr Ranking Ergebnisse
+Studiengangsspezifische Auszeichnungen
+Im Hochschulranking des Centrums für Hochschulentwicklung (CHE) von 2021 belegt die KU mit ihrem Studienangebot erneut Spitzenplatzierungen, darunter auch mit den Angeboten im Fachbereich Geographie. In der Umfrage bewerteten die Geographie-Studierenden an der KU unter anderem die Studienorganisation überdurchschnittlich gut, ebenso die Betreuung durch die Lehrenden sowie deren Kritikfähigkeit.
+Ausland
+Auslandsaufenthalte betrachten wir als wichtige persönliche Erfahrung und bedeutenden Faktor im Wettbewerb um einen attraktiven Arbeitsplatz. Die KU pflegt ein
+Netzwerk an Partnerschaften
+mit rund 300 Universitäten weltweit. Das
+International Office der KU
+unterstützt bei der Planung und Informiert über die unterschiedlichen Finanzierungsmöglichkeiten.
+Praxis
+Unsere Forschungsprojekte sind so vielfältig wie die Themenschwerpunkte unserer Arbeitsgruppen und doch lassen sich ihre Themen als "Umweltforschung im Raum" und als "Umweltgeographie" zusammenfassen. Wir forschen in Projekten mit wechselnden Anteilen von Grundlagenforschung und angewandter, praxisrelevanter Forschung. Studierende können im Rahmen von Geländepraktika, Exkursionen und Abschlussarbeiten, aber auch als studentische Mitarbeiterinnen und Mitarbeiter Beiträge zu diesen Projekten leisten.
+Über ein
+Praktikum
+im Wahlpflichtbereich sammeln Sie Erfahrungen und knüpfen Kontakte zu potenziellen Arbeitgebern. Das Praktikum kann auch im Ausland absolviert werden; für eine individuelle Beratung und Unterstützung bei der Suche nach einem Praktikumsplatz und Finanzierungsmöglichkeiten stehen die
+Karriereberatung der KU
+und die
+Servicestelle Internationale Praktika
+zur Verfügung.
+Karrieremöglichkeiten und Berufsfelder
+Berufliche Perspektiven
+Unsere Module in den verschiedenen Studiengängen setzen Schwerpunkte auf die Verarbeitung von Umweltdaten (Kartierungen, Monitoring, GIS und Statistik) und auf die Bearbeitung des Themenfeldes Naturgefahren, das sowohl aus naturwissenschaftlicher als auch aus sozioökonomischer Perspektive zu betrachten ist.
+Bereits im Studium können Sie über ein Praktikum (im Wahlpflichtbereich) Erfahrungen sammeln und Kontakte zu
+potenziellen Arbeitgebern
+knüpfen.
+Die KU
+Die KU hat zwei Standorte: Eichstätt und Ingolstadt. In Eichstätt sind sieben Fakultäten angesiedelt. In Ingolstadt hat die Wirtschaftswissenschaftliche Fakultät und das MIDS (Institut für Maschinelles Lernen und Data Science) ihren Sitz.
+Dieser Studiengang ist in Eichstätt beheimatet.
+Studienort
+Der Landkreis Eichstätt und die Stadt Ingolstadt bilden die Mitte Bayerns. Die
+zentrale Lage
+steht auch für die gute Erreichbarkeit der KU. Eichstätt besticht durch sein einzigartiges Zusammenspiel aus barocker Architektur, modernen Annehmlichkeiten und die Natur des Altmühltals.
+Campus
+Kurze Wege
+und
+grüne Oasen
+zeichnen den Campus der KU in Eichstätt aus. Nach dem Prinzip einer Campus-Universität sind die modern ausgestatteten Gebäude der KU in Eichstätt direkt an der Altstadt gelegen.
+MehrWert
+Das Studium an der KU vermittelt nicht nur Fachwissen, sondern will seinen Studierenden auch echte Zukunftsperspektiven eröffnen. Wir wollen unsere Studierenden dabei unterstützen, ihren ganz persönlichen Weg in ihre Traumzukunft zu finden! Nicht
+„Was will ich werden?“,
+sondern
+„Wer will ich sein?“
+Beratungsangebote
+Fachstudienberatung
+Wenn Sie Detailfragen zu genau diesem Studiengang haben, z. B. zu Studienaufbau und Berufsmöglichkeiten, wenden Sie sich gerne direkt an die Fachstudienberatung.
+Apl. Prof. Dr.
+ Florian
+ Haas
+ , Akademischer Oberrat
+Studienberatung Masterstudiengang Umweltprozesse und Naturgefahren
+Telefon
++49 8421 93-21391
+E-Mail
+florian.haas@ku.de
+Gebäude
+Osten 14
+| 
+ 
+ 
+ 
+ Raum: O14-102
+Allgemeine Studierendenberatung
+Die Studierendenberatung der KU
+steht allen Studieninteressierten für ihre Fragen offen. Sie unterstützt bei der Suche nach dem richtigen Studiengang und gibt Tipps rund um Bewerbung, Zulassung und Einschreibung.
+Marie-Anne
+ Kohll M.A.
+Leitung Referat IV/2 Studierendenberatung
+Telefon
++49 8421 93-21283
+E-Mail
+studierendenberatung@ku.de
+Gebäude
+Marktplatz 7
+| 
+ 
+ 
+ 
+ Raum: MP7-005
+Bewerbung
+Voraussetzung
+Bachelor
+Motivationsschreiben
+Bewerbungszeitraum WS
+Bitte beachten Sie, dass für Studieninteressierte, die ihre Hochschulzugangsberechtigung im Ausland erworben haben, ggf. andere Fristen gelten. Diese finden Sie auf der englischen Seite.
+01.05.
+ -
+ 31.07.
+Zulassungsbeschränkung
+Nein
+Auswahlverfahren
+Nein
+Für die Einschreibung in diesen Studiengang ist eine Bewerbung erforderlich. Im Fall einer erfolgreichen Bewerbung erhalten Sie einen Zulassungsbescheid. Damit ist dann die Einschreibung in den Studiengang möglich.
+Die Bewerbung für den Studiengang erfolgt über das zentrale Bewerbungsportal der KU. Bitte beachten Sie, dass eine Registrierung im Portal jederzeit möglich ist, die Bewerbung selbst allerdings nur innerhalb der Bewerbungsfristen (siehe grauer Infokasten am Seitenanfang). Sollten Sie weitergehende Fragen zur Bewerbung haben, können Sie sich auf den Seiten des Studierendenbüros informieren.
+Zum Bewerbungs- und Einschreibeportal der KU
+Bewerbung für internationale Studieninteressierte
+Bitte beachten Sie, dass die Studienvoraussetzungen, Fristen und Bewerbungsmodalitäten für internationale Studieninteressierte häufig andere sind. Informationen für internationale Bewerberinnen und Bewerber finden Sie hier:
+Weitere Informationen für internationale Studieninteressierte
+Weitere Informationen
+Flyer zum Studiengang
+Quicklinks
+nach oben
+Umweltgeographie
+Homepage des Fachbereichs
+Studentische Fachgruppe Geographie
+Studentische Fachgruppe TOPAS e.V.
+Studentische Fachgruppe AK Wetterschau
+AK GIS
+weitere Studiengangsinformationen

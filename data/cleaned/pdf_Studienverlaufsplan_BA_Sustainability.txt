@@ -1,0 +1,168 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_BA_Sustainability.pdf
+TITLE: Studienverlaufsplan_BA_Sustainability.pdf
+SOURCE_FILE: Studienverlaufsplan_BA_Sustainability.pdf
+------------------------------------------------------------
+
+[Page 1]
+Status V2/2025_12 
+ 
+ 
+ 
+15 
+Anlage: Idealtypischer Studienverlaufsplan 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+Vertiefung II 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+ Vertiefung II 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+Vertiefung II 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+Vertiefung II 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+Bachelorarbeit 
+(10 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+5 
+Vertiefung I 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+Vertiefung I (Wahl-
+pflicht) 
+(5 ECTS-Punkte) 
+Vertiefung I 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+Vertiefung I 
+(Wahlpflicht) 
+(5 ECTS-Punkte) 
+Wahl 
+(5 ECTS-Punkte) 
+Wahl 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+4 
+Sustainable 
+Development 
+(5 ECTS-Punkte) 
+Corporate 
+Governance 
+(5 ECTS-Punkte) 
+The Economics of 
+Climate Change and 
+Sustainability 
+(5 ECTS-Punkte) 
+WP 
+Studium.Pro* 
+(5 ECTS-Punkte) 
+ 
+WP 
+Forschungsprojekt 
+Nachhaltigkeit 
+(10 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+3 
+Öffentliche 
+Finanzen und nach-
+haltige 
+Wirtschaftspolitik 
+(5 ECTS-Punkte) 
+Einführung in die 
+Wirtschafts- und 
+Unternehmens-
+ethik 
+ (5 ECTS-Punkte) 
+Investition, 
+Finanzierung und 
+Steuern 
+(5 ECTS-Punkte) 
+Umweltökonomik & 
+Umweltpolitik 
+(5 ECTS-Punkte) 
+Induktive und 
+multivariate 
+Statistik 
+(5 ECTS-Punkte) 
+Wissenschaftliche Schlüs-
+selqualifikation 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+2 
+Mikroökonomie 
+(5 ECTS-Punkte) 
+Makroökonomie 
+(5 ECTS-Punkte) 
+Sustainable 
+Entre- 
+preneurship 
+(5 ECTS-Punkte) 
+Innovating for Sus-
+tainability: Frame-
+works and Practices 
+from Global and Local 
+Organizations 
+(5 ECTS-Punkte) 
+Deskriptive Statistik 
+und Wahrscheinlich-
+keitstheorie 
+(5 ECTS-Punkte) 
+Wirtschaftssprache II 
+(5 ECTS-Punkte) 
+30 
+ECTS-
+Punkte 
+1 
+Einführung in die 
+VWL: Staat, 
+Wirtschaft und 
+Gesellschaft 
+(5 ECTS-Punkte) 
+ Ringvorlesung 
+Nachhaltige 
+Wirtschaft 
+ (5 ECTS-Punkte) 
+Digital and Sustain-
+able Business 
+Models 
+(5 ECTS-Punkte) 
+Betriebliches 
+Rechnungswesen 
+(5 ECTS-Punkte) 
+Mathematik für 
+Wirtschaftswissen-
+schaftler 
+(5 ECTS-Punkte) 
+Wirtschaftssprache I 
+(5 ECTS-Punkte) 
+ 
+30 
+ECTS-
+Punkte 
+Kompe-
+tenzen 
+Economics 
+Ethics & Society 
+Business 
+ 
+Analytical Skills 
+Soft Skills 
+ 
+* aus dem Studium.Pro Katalog der KU

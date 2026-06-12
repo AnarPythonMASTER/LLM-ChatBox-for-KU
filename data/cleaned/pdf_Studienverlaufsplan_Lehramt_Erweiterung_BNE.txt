@@ -1,0 +1,43 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_Lehramt_Erweiterung_BNE.pdf
+TITLE: Studienverlaufsplan_Lehramt_Erweiterung_BNE.pdf
+SOURCE_FILE: Studienverlaufsplan_Lehramt_Erweiterung_BNE.pdf
+------------------------------------------------------------
+
+[Page 1]
+Idealtypischer Studienverlauf 
+ 
+3. 
+Semester 
+Studienbereich Praxis 
+(15 ECTS) 
+Schulentwicklung II 
+(5 ECTS) 
+Vorbereitung Staatsexamen 
+(3 ECTS) 
+Wahlpflichtmodul 
+(5 ECTS) 
+Exkursion 
+(1 ECTS) 
+2. 
+Semester 
+Studienbereich Vertiefung 
+(15 ECTS) 
+Schulentwicklung I 
+(5 ECTS) 
+ 
+ 
+Wahlpflichtmodule 
+(9 ECTS) 
+1. 
+Semester 
+Studienbereich Basis 
+(15 ECTS) 
+Nachhaltige Entwicklung aus der 
+Perspektive verschiedener Fächer 
+(5 ECTS) 
+Grundlagen der BNE 
+(8 ECTS) 
+Exkursion 
+(2 ECTS) 
+ 
+Stand: 01.2026

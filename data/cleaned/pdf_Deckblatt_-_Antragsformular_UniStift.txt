@@ -1,0 +1,19 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Deckblatt_-_Antragsformular_UniStift.pdf
+TITLE: Deckblatt_-_Antragsformular_UniStift.pdf
+SOURCE_FILE: Deckblatt_-_Antragsformular_UniStift.pdf
+------------------------------------------------------------
+
+[Page 1]
+Beschluss Nr.
+Anschrift dienstlich / privat 
+E-Mail Adresse
+Projekt / Titel 
+Erläuterung des Antrages 
+Bezug zum Stiftungszweck 
+Zeitraum 
+Höhe der beantragten Fördersumme (detaillierter Finanzplan liegt bei) 
+Zuschüsse von anderer Seite / anderen Stellen wurden genehmigt (Name und Betrag): 
+Zuschüsse wurden beantragt bei (Name und Betrag): 
+Unterschrift 
+Datum 
+Antrag an die Eichstätter Universitätsstiftung

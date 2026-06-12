@@ -1,0 +1,67 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/b_Satzung_zur_Aenderung_der_APO_Senatsbeschluss_26.07.17_ab_WS_16_17.pdf
+TITLE: b_Satzung_zur_Aenderung_der_APO_Senatsbeschluss_26.07.17_ab_WS_16_17.pdf
+SOURCE_FILE: b_Satzung_zur_Aenderung_der_APO_Senatsbeschluss_26.07.17_ab_WS_16_17.pdf
+------------------------------------------------------------
+
+[Page 1]
+Satzung zur Änderung der Allgemeinen Prüfungsordnung (APO) 
+der Katholischen Universität Eichstätt-Ingolstadt 
+Vom 19. September 2017 
+ 
+Aufgrund des Art. 5 § 3 Satz 1 des Konkordats zwischen dem Heiligen Stuhl und dem Freistaat 
+Bayern vom 29. März 1924 (BayRS 2220-1-K) erlässt die Katholische Universität Eichstätt-Ingolstadt 
+(KU) folgende Änderungssatzung: 
+§ 1 
+ 
+Die 
+Allgemeine 
+Prüfungsordnung 
+(APO) 
+der 
+Katholischen 
+Universität 
+Eichstätt-Ingolstadt 
+vom 26. November 2014 (Amtsblatt der Stiftung Katholische Universität Eichstätt-Ingolstadt, Jg. 38, 
+Nr. 2/2014, S. 124) wird wie folgt geändert: 
+1. § 17 wird wie folgt geändert: 
+a) In Abs. 1 wird Satz 1 nummeriert und folgender Satz 2 angefügt: 
+„2Prüfungen können auch elektronisch durchgeführt werden.“ 
+b) In Abs. 2 wird das Wort „Modulbeschreibung“ durch das Wort „PO“ ersetzt.“ 
+c) In Abs. 7 Satz 3 werden die Worte „Der Umfang“ durch die Worte „Die Dauer“ ersetzt. 
+d) Abs. 8 wird wie folgt gefasst: 
+„(8) Die Prüfungsform Hausarbeit mit Referat oder Hausarbeit mit Präsentation 
+beinhaltet ein Referat oder eine Präsentation, das oder die nicht in die Bewertung 
+einbezogen wird und in enger thematischer Verbindung mit der Hausarbeit steht; 
+die Modulnote ist die Note der Hausarbeit.“ 
+e) Die bisherigen Abs. 8 und 9 werden zu den Abs. 9 und 10. 
+2. In § 19 wird folgender Abs. 4 angefügt: 
+„(4) 1Wenn eine Modulprüfung zwei Prüfungsleistungen beinhaltet, errechnet sich die 
+Gesamtnote aus dem arithmetischen Mittel der beiden Noten; Abs. 3 gilt entsprechend. 
+2Bei Nichtbestehen der Modulprüfung kann nur die nicht bestandene Prüfungsleistung 
+wiederholt werden.“ 
+ 
+§ 2 
+Diese Satzung tritt mit Wirkung vom 1. Oktober 2016 in Kraft. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 2]
+Ausgefertigt aufgrund des Beschlusses des Senats der Katholischen Universität Eichstätt-Ingolstadt 
+vom 26. Juli 2017 sowie der Genehmigung der Präsidentin vom 18. September 2017 und dem 
+Einvernehmen des Bayerischen Staatsministeriums für Bildung und Kultus, Wissenschaft und Kunst 
+vom 17. August 2017; Az.: X.3-5e65(KUE)-10b/89099. 
+ 
+Eichstätt/Ingolstadt, den 19. September 2017 
+ 
+ 
+ 
+Prof. Dr. Gabriele Gien 
+Präsidentin 
+ 
+Diese Satzung wurde am 19. September 2017 in der Katholischen Universität Eichstätt-Ingolstadt 
+niedergelegt. Die Niederlegung wurde am gleichen Tag in der Katholischen Universität Eichstätt-
+Ingolstadt bekannt gemacht. Tag der Bekanntmachung ist daher der 19. September 2017.

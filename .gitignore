@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 
 vector_db/
+data/chromadb/
 
 .venv
 .vscode/

@@ -1,0 +1,99 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Wahlpflichtkatalog_BP_SoSe_2024.pdf
+TITLE: Wahlpflichtkatalog_BP_SoSe_2024.pdf
+SOURCE_FILE: Wahlpflichtkatalog_BP_SoSe_2024.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Wahlpflichtkatalog im Studiengang 
+(Business and Psychology M.Sc.) 
+SoSe/WiSe 
+ 
+ 
+1. nach § 7 der Prüfungsordnung Masterstudiengang Business and Psychology in der 
+Fassung vom 12.10.2020 
+2. Geltungsbereich zum SoSe 2024 
+ 
+3. vom Fakultätsrat der Fakultät Wirtschaftswissenschaften beschlossen am 
+20.12.2023. 
+ 
+Auflistung der Studienschwerpunkte 
+In der PO verankerte Studienschwerpunkte: 
+ 
+1. Wirtschaft, 
+2. Psychologie 
+ 
+ 
+Modulangebot im Wahlpflichtbereich 
+ 
+Advanced Topics in Consumer Psychology for a Better World (10 ECTS) Research Project and 
+Report (nicht im SoSe 2024) 
+ 
+Cross-cultural Management (5 ECTS) Portfolio 
+ 
+ 
+Digitales Marketing (5 ECTS) Portfolio 
+ 
+Eignungsdiagnostik am Arbeitsplatz (5 ECTS) Mündliche Prüfung oder Referat oder Portfolio 
+ 
+Human-Technology Interaction: Potential and Application (5 ECTS) Abschlussklausur oder 
+mündliche Prüfung oder Portfolio 
+ 
+Innovation and Creativity in Individuals, Teams, and Organizations (5 ECTS) teambasiertes 
+Innovationsprojekt und Präsentation und Klausur 
+ 
+Psychologie der Führung und Motivierung (5 ECTS) Portfolio 
+Psychologie der Verantwortung, Gerechtigkeit und Werte (5 ECTS) Hausarbeit mit Präsentation 
+oder Abschlussklausur oder mündliche Prüfung oder Portfolio 
+Seminar Internationales Management (5 ECTS) Portfolio 
+ 
+ 
+ 
+ 
+
+[Page 2]
+ 
+Anlage 2 zur Studiengangsbeschreibung 
+Modulangebot Wintersemester: 
+ 
+1. nach § 7 der Prüfungsordnung Masterstudiengang Business and Psychology in der 
+Fassung vom 12.10.2020 
+2. Geltungsbereich zum WiSe 2023/2024 
+ 
+3. vom Fakultätsrat der Fakultät Wirtschaftswissenschaften beschlossen am 
+05.07.2023 
+ 
+Auflistung der Studienschwerpunkte 
+In der PO verankerte Studienschwerpunkte: 
+ 
+3. Wirtschaft, 
+4. Psychologie 
+ 
+ 
+Modulangebot im Wahlpflichtbereich 
+ 
+ 
+Aktuelle Trends der psychologischen Diagnostik in Arbeit und Gesellschaft (5 ECTS) Mündliche 
+Prüfung oder Referat oder Portfolio 
+ 
+Economics of Consumption: Theory and Experimental Evidence (5 ECTS) Hausarbeit 
+ 
+Forschungsmethoden in der Psychologie (5 ECTS) Klausur 
+ 
+Leadership and Communication in Global Business (3 ECTS) VHB 
+ 
+People Analytics: Data Science for Human Resources Management (6 ECTS) VHB 
+ 
+Personalentwicklung in der Freiwilligen- und Erwerbsarbeit (5 ECTS) Hausarbeit mit Vortrag 
+oder Abschlussklausur oder mündliche Prüfung oder Portfolio 
+ 
+Quasi- experimental Policy Evaluation (5 ECTS) Hausarbeit 
+ 
+Sales Management (5 ECTS) Klausur und Fallstudie 
+ 
+Service Management (5 ECTS) Klausur und Präsentation 
+ 
+ 
+ 
+Wahlbereich: Modulangebot

@@ -1,0 +1,129 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studienverlaufsplan_TSG_Philosophie_BA_HF_60.pdf
+TITLE: Studienverlaufsplan_TSG_Philosophie_BA_HF_60.pdf
+SOURCE_FILE: Studienverlaufsplan_TSG_Philosophie_BA_HF_60.pdf
+------------------------------------------------------------
+
+[Page 1]
+Anlage 1 zur Studiengangsbeschreibung 
+ 
+ 
+Interdisziplinärer Bachelor Philosophie als Hauptfach (60 ECTS) 
+ 
+Semester 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+Philosophische 
+Lektüre 
+Leistungskurs 
+(5 ECTS-
+Punkte) 
+Kolloquium zur 
+BA-Arbeit 
+(5 ECTS-Punkte) 
+BA-Arbeit 
+(10 ECTS-Punkte) 
+Fach II 
+Fach II 
+Fach 
+II 
+30 
+ECTS-
+Punkte 
+5 
+Philosophisches 
+Hauptseminar 
+(5 ECTS-Punkte 
+Wahlpflichtmodul1 
+(5 ECTS-Punkte) 
+Fach II 
+Fach II 
+Fach II 
+Fach 
+II 
+30 
+ECTS-
+Punkte 
+4 
+Philosophische 
+Lektüre 
+Grundkurs (5 
+ECTS-Punkte) 
+Allgemeine Ethik 
+und 
+Handlungstheorie 
+oder 
+Theoretische 
+Philosophie 
+(5 ECTS-Punkte) 
+Fach II 
+Fach II 
+Praktikum 
+(5 ECTS-
+Punkte) 
+Fach 
+II 
+30 
+ECTS-
+Punkte 
+3 
+Philosophisches 
+Proseminar (5 
+ECTS-Punkte) 
+Wahlpflichtmodul1 
+(5 ECTS-Punkte) 
+Fach II 
+Fach II 
+Studium 
+Pro (5 
+ECTS-
+Punkte) 
+Fach 
+II 
+30 
+ECTS-
+Punkte 
+2 
+Einführung in 
+die Praktische 
+Philosophie (5 
+ECTS-Punkte) 
+Einführung in die 
+Kulturphilosophie 
+und 
+Anthropologie 
+(5 ECTS-Punkte) 
+Fach II 
+Fach II 
+Studium 
+Pro (5 
+ECTS-
+Punkte) 
+Fach 
+II 
+30 
+ECTS-
+Punkte 
+1 
+Einführung in 
+das Studium 
+der Philosophie 
+(5 ECTS-
+Punkte) 
+Einführung in die 
+Theoretische 
+Philosophie (5 
+ECTS-Punkte) 
+Fach II 
+Fach II 
+Fach II 
+Fach 
+II 
+30 
+ECTS-
+Punkte 
+1Wahlpflichtmodule nach §4 Abs. 2 und 4 FPO Philosophie.

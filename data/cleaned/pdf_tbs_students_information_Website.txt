@@ -1,0 +1,59 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/tbs_students_information_Website.pdf
+TITLE: tbs_students_information_Website.pdf
+SOURCE_FILE: tbs_students_information_Website.pdf
+------------------------------------------------------------
+
+[Page 1]
+Welcome to the Double Master's Degree 
+“Business Administration – International” (M.Sc.) at WFI1
+
+[Page 2]
+Curriculum at WFI
+2 Mandatory Modules 
+(10 ECTS)
+1 Ethics Module (5 ECTS)
+3 Compulsory Elective 
+Modules (15 ECTS)
+Semester 4
+Semester 3
+60 ECTS
+October - March
+April - September
+Option 1:
+6-months Master Thesis 
+(30 ECTS)
+Option 2:
+3-months Master Thesis 
+(15 ECTS)
++
+3- or 6-months Internship 
+(15 ECTS)
+Semester 1 and 2
+TBS
+2
+
+[Page 3]
+Individualism & Flexibility - Tailor your study program to your interests
+You can either choose to specifiy in one of our five master's specializations
+or choose to acquire skills from all five areas.
+MARKET
+(Market-oriented 
+Management)
+FACT 
+(Finance, 
+Accounting, 
+Controlling, 
+Taxation)
+ENTRE
+(Entrepreneurship 
+& Social 
+Innovation)
+BAOR
+(Business 
+Analytics & 
+Operations 
+Research)
+Digital Customer 
+Experience & 
+Service Design
+3

@@ -1,0 +1,985 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Studiengangsbeschreibung_BA_Transformation-Nachhaltigkeit-Ethik.pdf
+TITLE: Studiengangsbeschreibung_BA_Transformation-Nachhaltigkeit-Ethik.pdf
+SOURCE_FILE: Studiengangsbeschreibung_BA_Transformation-Nachhaltigkeit-Ethik.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+ 
+ 
+Studiengangsbeschreibung für den Bachelorstudiengang 
+Transformation – Nachhaltigkeit – Ethik: 
+mit den Schwerpunkten Transformative Lernprozesse 
+oder Angewandte Theologie 
+an der Katholischen Universität Eichstätt-Ingolstadt 
+ 
+Inhalt 
+1 Allgemeine Struktur 
+...................................................................................................................... 
+2 
+2 Profil des Studiengangs ............................................................................................................... 
+3 
+2.1 Idee ....................................................................................................................................... 
+3 
+2.2 Wodurch zeichnet sich der Studiengang aus? 
+....................................................................... 
+4 
+2.2.1 Neues Verhältnis von Wissenschaft und Gesellschaft .................................................... 
+4 
+2.2.2 Transformatives Bildungs- und Lernkonzept 
+................................................................... 
+4 
+2.2.3 Die sozio-kulturellen Dimensionen von Transformation .................................................. 
+6 
+2.2.4 Globales Lernen ............................................................................................................. 
+6 
+3 Relevanz und Zielgruppe.............................................................................................................. 
+7 
+4 Studiengangskonzept 
+................................................................................................................... 
+8 
+4.1 Zugangs- und Zulassungsvoraussetzungen .......................................................................... 
+8 
+4.2 Qualifikationsziele ................................................................................................................. 
+8 
+4.3 Übergeordnete Kompetenzen (Schlüsselkompetenzen) ........................................................ 
+9 
+4.3.1 „Future Skills“ ................................................................................................................. 
+9 
+4.3.2 Kompetenzübersicht 
+....................................................................................................... 
+9 
+4.3.3 Zusammenhang zwischen Rezeptivität, Handlungsfähigkeit und Transformation ......... 
+10 
+4.3.4 Schlüsselkompetenzen im Transformationskontext ...................................................... 
+11 
+4.3.5 System-, Ziel und Transformationswissen .................................................................... 
+13 
+4.4 Schwerpunktstudium in den Bereichen Transformative Lernprozesse bzw. Angewandte 
+Theologie ........................................................................................................................... 
+13 
+4.5 Employability ....................................................................................................................... 
+13 
+4.6 Innovative und persönlichkeitsbildende Elemente ............................................................... 
+15 
+4.6.1 Persönlichkeitsentwicklung und Coaching .................................................................... 
+15 
+4.6.2 Theorie-Praxis-Verzahnung: Die Bedeutung der Praxisprojekte ................................... 
+15 
+4.6.3 Service Learning 
+........................................................................................................... 
+16 
+4.6.4 Lernwerkstatt 
+................................................................................................................ 
+16 
+4.7 Lehr- und Lernprinzipien 
+...................................................................................................... 
+17 
+5 Modulpläne und Modulbeschreibungen 
+...................................................................................... 
+18 
+ 
+Entwurf/Stand: 13.03.2024 
+
+[Page 2]
+2 
+ 
+ENTWURF – Stand: 13.03.2024 
+ 
+1 Allgemeine Struktur 
+ 
+ 
+Name des Bachelor 
+ 
+Transformation – Nachhaltigkeit – Ethik: mit 
+den Schwerpunkten Transformative Lern-
+prozesse oder Angewandte Theologie 
+ 
+Verantwortliche Fakultät 
+School of Transformation and Sustainability 
+ 
+Weitere beteiligte Fakultät/en: 
+ 
+Theologische Fakultät 
+Wählen Sie ein Element aus. 
+Wählen Sie ein Element aus. 
+ 
+Studienform: 
+ 
+☒ Vollzeitstudium 
+☐ Teilzeitstudium 
+☐ Fernstudium 
+ 
+Regelstudienzeit: 
+7 Semester (Vollzeit) 
+ 
+ Semester (Teilzeit) 
+ 
+Studienbeginn: 
+ 
+☐ Sommersemester 
+☒ Wintersemester 
+ 
+Anzahl der zu vergebenden ECTS-Leis-
+tungspunkte: 
+210 ECTS-Leistungspunkte 
+ 
+Studiengebühren: 
+☐ Nein 
+☐ Ja, € pro Semester 
+ 
+ 
+ 
+
+[Page 3]
+3 
+ 
+ENTWURF – Stand: 13.03.2024 
+2 Profil des Studiengangs 
+2.1 Idee 
+Der Bachelorstudiengang „Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transfor-
+mative Lernprozesse oder Angewandte Theologie“ ist ein siebensemestriges Studienangebot, das 
+ausgehend von den tiefgreifenden Umbrüchen der Gegenwart die Entwicklung von Transformations-
+kompetenzen und die Identifikation von wünschenswerten Leitbildern zum Ziel hat. Mit dem neuen 
+Bildungsformat werden für Wirtschaft, Kirche, Politik, öffentliche Verwaltung und Non-Profit-Organi-
+sationen Change Agents ausgebildet. Solche „Agent:innen des Wandels“ haben die Fähigkeit, gesell-
+schaftliche und kirchliche Transformationsprozesse voranzubringen und zu begleiten. Grundlegende 
+Elemente dabei sind erfahrungsorientierte Praktika und Praxisprojekte, partizipative und innovative 
+Lehr- und Lernmethoden, ein transdisziplinärer Aufbau verbunden mit einem breit angelegten 
+Coaching-Angebot und der Möglichkeit zur Persönlichkeitsbildung. Die Studierenden werden einer-
+seits mit der Veränderbarkeit komplexer Systeme vertraut gemacht, um sozial-ökologische und kirch-
+liche Transformationen angemessen wahrnehmen und verstehen zu können. Andererseits erhalten 
+sie das notwendige Wissen und Handwerkszeug, um gemeinsam mit anderen vom Wissen zum Tun 
+kommen zu können. Die einzuübende „Kunst des gesellschaftlichen Wandels“1 impliziert nachhaltige 
+Zukunftsvisionen, Transformationsstrategien und Interventionen entwickeln, sie kritisch hinterfragen 
+und zielgerichtet in die Gesellschaft kommunizieren und vermitteln zu können. 
+Die Befähigung von Change Agents beinhaltet Module, die eine Brücke schlagen zwischen diszipli-
+närem Wissen und spezialisierter Fachkompetenz auf der einen Seite und transdisziplinären Forma-
+ten auf der anderen Seite. Durch die ständige Reflexion realweltlicher Anwendungsfelder werden die 
+unterschiedlichen Wissensbestände zu praxisrelevantem Transformationswissen. Dabei erfahren die 
+Studierenden ein hohes Maß an Mitbestimmung und Selbstorganisation. 
+In den Bachelorstudiengang ist das zweisemestrige Zertifikat „Transformation – Orientierung – Zu-
+kunft“ integriert, das den Charakter eines Orientierungsjahres hat. Es richtet sich an Menschen, die 
+sich (neu) orientieren wollen und auf der Suche nach einem sinnstiftenden Studium jenseits klassi-
+scher Studienformate sind. An den Abschluss des Zertifikats schließt nahtlos das Studienprogramm 
+des Bachelors „Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transformative Lern-
+prozesse oder Angewandte Theologie“ an. Vor dem 3. Semester wird einer von zwei Schwerpunkt-
+bereichen (transformative Lernprozesse bzw. angewandte Theologie) gewählt (Y-Struktur), der in ei-
+nem Kernstudium, im Praxissemester (5. Semester) und im Aufbaustudium vertieft wird. Ziel des ers-
+ten Schwerpunkts ist, dass die Studierenden in sozialen, zivilgesellschaftlichen, kommunalen, privat-
+wirtschaftlichen und kirchlichen Bildungskontexten Konzepte transformativen Lernens umsetzen und 
+Lernprozesse begleiten können, die eine breite Transformation mit der Zielperspektive Nachhaltigkeit 
+befördern. Ziel des zweiten Schwerpunkts ist es, authentische und theologisch auskunftsfähige kirch-
+liche Mitarbeiter:innen auszubilden. Die theologischen, die Bezeichnung Angewandte Theologie 
+rechtfertigenden Standards dieses Pfads des Studiengangs werden durch eine enge Kooperation mit 
+der Theologischen Fakultät der Katholischen Universität Eichstätt-Ingolstadt gewährleistet. 
+ 
+ 
+ 
+1 Schneidewind, Uwe (2018): Die große Transformation: Eine Einführung in die Kunst gesellschaftlichen Wandels, Frankfurt 
+a. M.: Fischer. 
+
+[Page 4]
+4 
+ 
+ENTWURF – Stand: 13.03.2024 
+2.2 Wodurch zeichnet sich der Studiengang aus? 
+2.2.1 Neues Verhältnis von Wissenschaft und Gesellschaft 
+Im Rahmen des Studiengangs wird das Verhältnis von Wissenschaft und Gesellschaft, Theorie und 
+Praxis, Studium und Beruf neu gedacht: Der Studiengang antwortet inhaltlich und im Aufbau auf die 
+Herausforderungen der Gegenwart. Die den Studiengang begleitenden Fragestellungen sind: Wie 
+können nachhaltige Verhaltensänderungen auf individueller, gesellschaftlicher und kirchlicher Ebene 
+gefördert werden? Wie können die Reflexionskompetenz der Studierenden sowie verantwortliches 
+Handeln unter komplexen Bedingungen gefördert werden? Wie können wir unsere Welt so gestalten, 
+dass innerhalb der planetarischen Grenzen ein gutes Leben für alle möglich ist? Was ist ein nachhal-
+tiges Wertesystem für das 21. Jahrhundert? 
+ Durch die kontinuierliche Orientierung an der gesellschaftlichen Praxis sowie die enge Zusam-
+menarbeit und Einbindung gesellschaftlicher Akteure und Initiativen in allen Phasen ermöglicht 
+das Studium eine neuartige Form der Verzahnung von Ausbildungsphase und Beruf bzw. von 
+Theorie und Praxis. 
+ Eine theorie-geleitete, fachwissenschaftlich fundierte Ausbildung wird kombiniert mit Modulen zur 
+Persönlichkeitsbildung sowie dem kontinuierlichen Erwerb von Praxiserfahrungen und Hand-
+lungskompetenzen. Die Studierenden lernen nicht nur etwas über Themen, sondern begeben sich 
+selbst in einen transformierenden Prozess. Die persönliche und gesellschaftliche Transformation 
+werden aufeinander bezogen. Ziel ist es, sowohl die eigene Selbstwirksamkeit als auch die ge-
+meinsame Weltwirksamkeit zu stärken. 
+ Die Integration der Praxis erfolgt auf mehreren Wegen, z.B. durch verpflichtende Praktika (im 
+Orientierungsjahr, im Kernstudium sowie im Praxissemester), durch regelmäßige Lehrveranstal-
+tungen mit Praktiker:innen (Tandem), durch die Mitarbeit in Transformationsprojekten sowie die 
+eigenständige Durchführung eines Transformationsprojekts. Damit wird u.a. die Berufsorientie-
+rung bzw. Employability der Studierenden gestärkt. 
+ 
+Dem neuen Verhältnis von Wissenschaft und Gesellschaft liegen zwei Prinzipien zugrunde: 
+ Engagierte Wissenschaft: eine Wissenschaft, die die wissenschaftliche Erarbeitung neuer Er-
+kenntnisse kombiniert mit dem gesellschaftspolitischen Engagement für eine Transformation hin 
+zur Nachhaltigkeit. 
+ Social Impact-Orientierung: die Ausrichtung des Studiums und auch der Forschung an Zielen 
+der gesellschaftlichen Wirksamkeit, d.h. dass Studierende und Forschende im Sinne des Service 
+Learnings aktiv an gesellschaftlichen Veränderungen mitwirken und ihre Projekte bestmöglich so 
+gestalten, dass sie einen hohen Wirkungsgrad erreichen. 
+ 
+2.2.2 Transformatives Bildungs- und Lernkonzept 
+Ziel des Studiums ist es, dass die Studierenden in unterschiedlichen sozialen, zivilgesellschaftlichen 
+und kirchlichen Bildungskontexten Konzepte transformativen Lernens umsetzen können. Um die 
+hierzu erforderlichen Kompetenzen und das dazu notwendige theoretische und praktische Wissen zu 
+erwerben, folgt das Studium konsequent einem transformativen Aufbau und Bildungskonzept. Damit 
+verbunden ist eine Transformation hin zu einer selbstgesteuerten, kompetenzorientierten sowie er-
+fahrungs- und projektbasierten Didaktik. 
+
+[Page 5]
+5 
+ 
+ENTWURF – Stand: 13.03.2024 
+ „Future Skills“: Im Rahmen des Studiums erwerben die Studierenden neben Fachwissen 
+Schlüsselkompetenzen, die auf das Verstehen und die Gestaltung von Transformationsprozessen 
+zielen (siehe Kap. 4.3); dazu gehören z.B. systemisches, exploratives und experimentelles Den-
+ken und Handeln, Kommunikationsfähigkeit / Vermittlung komplexer Sachverhalte (Wissen-
+schaftskommunikation). Bezug genommen wird hierbei auf Ansätze einer BNE, auf den Ansatz 
+der Gestaltungskompetenzen, auf die Transformations- und Zukunftsforschung sowie auf Kon-
+zepte der Futures Literacy und des transformativen Lernens. 
+ Studierende im Zentrum: Studierenden gestalten ihr Studium selbstständig und bringen ihre 
+Vorhaben und Initiativen gezielt voran. Dazu wählen sie die Schwerpunkte ihres Studiums selbst-
+ständig aus, kombinieren für die Umsetzung ihrer Projekte dazu notwendige Seminare mit 
+Coaching-Angeboten und lassen sich von erfahrenen Praktiker:innen mit Blick auf eine erfolgrei-
+che Umsetzung beraten. Hierbei erfahren sie sich selbst als Gestalter:innen ihres Studiums, ihrer 
+Vorhaben und Projekte bzw. als Gestalter:innen gesellschaftlicher Transformationsvorhaben. 
+ Support-Angebote: Studien- und Lehrangebote sowie die Lehrenden unterstützen die Studie-
+renden auf ihren individuellen Lernwegen. Sie bieten gemeinsam mit dem Campus der KU eine 
+Support-Struktur und ein Angebot, das dazu beiträgt, die eigenen Studienziele und Vorhaben 
+bestmöglich zu realisieren. 
+ Neue Rollenverständnisse: Lehrende sind zugleich Lernende und Studierende nehmen zeit-
+weise die Rolle von Lehrenden ein, wodurch sie u.a. Mitverantwortung tragen für die Gestaltung 
+ihrer Lernprozesse bzw. ihres Studiums; darüber hinaus kommt Akteur:innen aus unterschiedli-
+chen Praxisfeldern eine wichtige Rolle zu, wodurch der Prozess des Lernens dezentriert und die 
+duale Konstellation von Lehrenden und Lernenden weiter aufgelöst wird. 
+ Kollaborativ, inter- und transdisziplinär: Das Studium erfolgt kollaborativ, inter- und transdis-
+ziplinär in Teams von Studierenden, Lehrenden verschiedener Disziplinen und Praktiker:innen. 
+Lernen wird daher als kooperatives Lernen bzw. als kollaborativer Lernprozess verstanden, d.h. 
+es wird aktiv und interaktiv, partizipativ und konstruktiv, selbstgesteuert und situativ gestaltet 
+(dazu gehören u.a. kooperative Prüfungen). 
+ Aktion und Reflexion: Das Studium kombiniert Handlungsorientierung und Praxis auf der einen 
+Seite mit Wissenserwerb und Reflexion auf der anderen Seite. 
+ Module als selbstständig organisierte Lernkomplexe: Das Studium folgt einer anderen Orga-
+nisationsform, es ist nicht mehr (nur) durch die etablierten Lehreinheiten einer Universität (90 Mi-
+nuten; Seminare, Vorlesungen, Übungen) strukturiert. Vielmehr ist das Studium durch größere 
+thematische Zusammenhänge und zeitliche Organisationseinheiten geprägt: Module werden als 
+thematisch-zeitliche Einheiten (Wissenskomplexe, Handlungsfelder) begriffen, innerhalb derer die 
+Studierenden ihr Studium selbst organisieren, sich selbstständig und unterstützt durch Lehrende 
+Wissen und Kompetenzen aneignen. 
+ Neue Orte des Lernens: Teil der Infrastruktur des Studiums sind neue Orte des Lernens, die ein 
+selbstständiges und frei organisiertes Arbeiten in Werkstätten, Ateliers und Laboren ermöglichen. 
+Von der ehemaligen Fakultät für Religionspädagogik und Kirchliche Bildungsarbeit wird die Lern-
+werkstatt übernommen (siehe Kap. 4.6.4). Des Weiteren können an der KU der vom ZLB und der 
+Hochschuldidaktik konzipierte Post-Digital Learning Hub oder der Outdoor-Campus genutzt wer-
+den. Die Organisation des Studiums orientiert sich an der künstlerischen Ausbildung in den Aka-
+demien: zentral sind Gespräche in Arbeitsgruppen, selbstständig gesteuerte Prozesse des Wis-
+sens- und Kompetenzerwerbs, Präsentations- und Feedback-Sitzungen. 
+
+[Page 6]
+6 
+ 
+ENTWURF – Stand: 13.03.2024 
+ 
+2.2.3 Die sozio-kulturellen Dimensionen von Transformation 
+Ein weiteres wesentliches Ziel des Bachelors besteht darin, die „kulturell geprägten Dynamiken in 
+den Blick [zu] nehmen und [zu] versuchen, sie dort, wo sie der Transformation förderlich sind, zu 
+nutzen und dort, wo sie ihr entgegenwirken, zu verändern oder zumindest zu berücksichtigen“2. Damit 
+werden zum einen die kulturelle Trägheit und die tief verankerten Beharrungskräfte, die notwendige 
+Veränderungen bremsen, ernst genommen. Zum anderen können hegemoniale Schemata dekon-
+struiert und Perspektiven für einen tiefergreifenden Kultur- und Wertewandel erschlossen werden.3 
+ Geistes-, Kultur- und Sozialwissenschaften: Transformationen werden unter expliziter Einbe-
+ziehung hermeneutischer, sprach- und kulturwissenschaftlicher sowie sozialphilosophischer, ethi-
+scher und theologischer Perspektiven wahrgenommen, gedeutet und gestaltet. Die auf die Kultur 
+von Gesellschaften ausgerichtete Gestaltung von Transformationsprozessen setzt u.a. Orientie-
+rungswissen und hermeneutisches Wissen voraus, das durch die Theologie sowie Geistes-, Kul-
+tur- und Sozialwissenschaften generiert werden kann. Die Katholische Universität Eichstätt-In-
+golstadt verfügt aufgrund ihres Fächerspektrums genau hier über eine ausgewiesene und aner-
+kannte Expertise. 
+ Sinn- und Wertorientierung: Die Studierenden werden für den Reichtum an Traditionen, Sinn-
+vorstellungen, Kulturen, Narrativen und Religionen sensibilisiert, mit denen Emotionen geweckt, 
+Vertrauen in die Sinnhaftigkeit des Handelns gestärkt und Hoffnungsperspektiven eröffnet werden 
+können. „Kein Wissenschaftszweig und keine Form der Weisheit dürfen beiseitegelassen werden 
+auch nicht die religiöse mit ihrer eigenen Sprache.“4 
+ Reflexionskompetenz, Urteilsfähigkeit und Ethik: Das Studium ist stark darauf ausgerichtet, 
+neben der Stärkung von Praxiskompetenzen die Reflexion von Prozessen, die Ausbildung von 
+Urteilsfähigkeit und den Stellenwert normativer Zielsetzungen bzw. deren Begründungszusam-
+menhänge (Ethik) zu ermöglichen und vermitteln. Die Orientierung an der Würde des Menschen, 
+an Werten wie soziale Gerechtigkeit, Solidarität, Verantwortung, Frieden und Toleranz sowie an 
+einer Kultur des Helfens und der Humanität wird als wichtiger Ansatzpunkt für die Entstehung und 
+Beförderung einer Kultur der Nachhaltigkeit betrachtet, die auf ein gutes Leben innerhalb der öko-
+logischen planetarischen Grenzen zielt. 
+ 
+2.2.4 Globales Lernen 
+Im Rahmen des Studiums erfolgt eine Verknüpfung von regionalen und globalen Perspektiven. Inter-
+nationalisierung bzw. eine internationale Ausrichtung wird als Basis für die Realisierung regionaler 
+Vorhaben begriffen. Eine wesentliche Rolle hierfür spielt das Konzept globalen Lernens und die hier-
+mit verbundene Orientierung an einer globalen Solidarität. 
+ Praktisch kann eine internationale Orientierung im Rahmen des Studiums z.B. durch die Einbin-
+dung der Studierenden in internationale Projekte, durch internationale Praktika oder Projektbetei-
+ligung erfolgen, aber auch durch die Anwerbung und Gewinnung internationaler Studierender, um 
+die Vielfalt der Perspektiven im Studium gezielt zu erhöhen (Diversity Management). 
+ 
+ 
+2 Kommission Weltkirche der Deutschen Bischofskonferenz (Hrsg.) (2021): Wie sozial-ökologische Transformation gelingen 
+kann. Studien der Sachverständigengruppe „Weltwirtschaft und Sozialethik“, Bd. 22, Bonn, S. 48. 
+3 Papst Franziskus (2015): Enzyklika Laudato si’ über die Sorge für das gemeinsame Haus, hg. v. Sekretariat der Deutschen 
+Bischofskonferenz. (Verlautbarungen des Apostolischen Stuhls Nr. 202). 4., korrigierte Auflage. Bonn 2018, Nr. 114 
+4 Ebd., Nr. 63. 
+
+[Page 7]
+7 
+ 
+ENTWURF – Stand: 13.03.2024 
+ Praxisprojekte können ggf. auch in Kooperation mit internationalen Kooperationspartnern oder bei 
+einer Partnerorganisation in einem anderen Land durchgeführt werden. 
+ Sehr gut zum Profil der Bachelorstudiengangs „Transformation – Nachhaltigkeit – Ethik“ passt das 
+Programm „Jesuit Worldwide Learning“, für das die KU ein Kooperationspartner ist. Hier kann 
+gelernt werden, wie junge Menschen in Regionen, in denen der Zugang zu höherer Bildung auf-
+grund von Krieg, Vertreibung oder Ausgrenzung erschwert ist, durch eine Kombination von On-
+line-Kursen und persönlicher Begleitung eine Fortbildung zur Lehrkraft absolvieren können. 
+ 
+3 Relevanz und Zielgruppe 
+Immer mehr junge Menschen sind bei der Wahl des Studiengangs auf Sinnsuche. Die Shell-Jugend-
+studie von 20195 und die 20226 erschienene Trendstudie „Jugend in Deutschland“ offenbaren, dass 
+bei Jugendlichen und jungen Erwachsenen die Sinnhaftigkeit des eigenen Handelns im Erwerbsleben 
+im Vordergrund steht. Die Klimakrise und Themen wie Nachhaltigkeit und Gerechtigkeit prägen das 
+Bewusstsein und das Handeln einer ganzen Generation. 
+ Der Bachelor „Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transformative 
+Lernprozesse oder Angewandte Theologie“ richtet sich an Personen, die bei der Studienwahl da-
+rauf achten, ob damit eine sinnvolle und zukunftsweisende Ausrichtung für gerechtes und nach-
+haltiges Handeln gewährleistet ist. Wer sich um die Zukunft des Planeten, der Gesellschaft und/o-
+der der Kirche sorgt und sich für eine nachhaltige Lebensweise einsetzen will, ist hier richtig. Der 
+an der KU bereits seit Jahren etablierte Schwerpunkt Nachhaltigkeit wird durch dieses Studien-
+angebot erweitert, vertieft und für neue Zielgruppen erschlossen. 
+In sich stetig verändernden gesellschaftlichen Rahmenbedingungen bedarf es der intelligenten Anti-
+zipation künftiger Entwicklungen und kreativer Problemlösungen. Auch die Rolle von Bildung und 
+Religion verändert sich. „Pioniere des Wandels“ sind bereits in einigen gesellschaftlichen und kirchli-
+chen Bereichen zu finden. Allerdings fehlt in bildungsrelevanten und pastoralen Praxisfeldern bislang 
+eine Implementierung von Konzepten transformativer Bildung. 
+ Der Bachelor „Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transformative 
+Lernprozesse oder Angewandte Theologie“ antwortet insbesondere auf die steigende Nachfrage 
+nach Fach- und Führungskräften mit Transformations- und Changemanagement-Skills in bil-
+dungsrelevanten und pastoralen Sektoren. Er bietet Handlungsorientierungen und Lösungsstra-
+tegien für komplexe, von multiplen Krisen gekennzeichnete Lebenswirklichkeiten und befähigt zur 
+Gestaltung von transformativen Lernprozessen. Dazu zählt auch die Fähigkeit, in multiprofessio-
+nellen Teams zu agieren und zu kommunizieren sowie transdisziplinäre Forschungs- und Ent-
+wicklungsprozesse in Planungen und Konzeptionen zu integrieren. 
+Klimakrise, Pandemie, Kriege – die junge Generation wächst in einem Modus der Dauerkrise auf. Die 
+guten beruflichen Chancen kompensieren zwar die aktuellen Belastungen, allerdings ist angesichts 
+einer Fülle an Möglichkeiten die Berufs- bzw. Studienwahl eine Belastung. Junge Menschen wün-
+schen sich daher niedrigschwellige Beratungsangebote und Experimentierphasen. Andere wollen 
+sich beruflich neu orientieren. 
+ 
+ 
+5 Albert, Mathias u. a. (2019): Jugend 2019. Eine Generation meldet sich zu Wort. Shell Jugendstudie 2019 (Shell-Jugend-
+studie 18), Weinheim: Beltz. 
+6 Schnetzer, Simon; Hurrelmann, Klaus (2022): Jugend in Deutschland – Trendstudie Sommer 2022. Jugend im Dauerkri-
+sen-Modus – Klima, Krieg, Corona, Kempten: Datajockey Verlag. 
+
+[Page 8]
+8 
+ 
+ENTWURF – Stand: 13.03.2024 
+ Der Bachelor „Transformation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transformative 
+Lernprozesse oder Angewandte Theologie“ richtet sich auch an Menschen, die noch nicht genau 
+wissen, was sie machen wollen. Die erfahrungsorientierten Praxisprojekte, die partizipativen und 
+innovativen Lehr- und Lernmethoden, der transdisziplinäre Aufbau des Studiums, das breite An-
+gebot an Coaching und die verschiedenen Schwerpunktmöglichkeiten helfen dabei, sich für eine 
+Qualifizierung zu entscheiden, die für die oder den Einzelnen Sinn macht. 
+Vergleichbare Bachelorstudienangebote, welche den transformativen, nachhaltigen und theologi-
+schen Aspekt vereinen, existieren derzeit kaum. Studiengänge mit transformationswissenschaftli-
+chem Bezug fokussieren überwiegend den Digitalisierungsbereich. Ein vergleichbares Studienange-
+bot mit einer wirtschaftswissenschaftlichen Ausrichtung (BA „Ökonomie – Nachhaltigkeit – Transfor-
+mation“) existiert an der Cusanus Hochschule für Gesellschaftsgestaltung in Rheinland-Pfalz. 
+Die Besonderheit des vorliegenden Studiengangs besteht darin, dass die sozial-kulturellen Dimensi-
+onen von Transformationsprozessen berücksichtigt werden (vgl. Kap. 2.2.3). Die auf die Kultur von 
+Gesellschaften ausgerichtete Gestaltung von Transformationsprozessen setzt u.a. Orientierungswis-
+sen und hermeneutisches Wissen voraus, das durch die Theologie und Geistes-, Kultur- und Sozial-
+wissenschaften generiert werden kann. Die Katholische Universität Eichstätt-Ingolstadt verfügt auf-
+grund ihres Fächerspektrums über eine ausgewiesene und anerkannte Expertise, um Transformati-
+onen unter expliziter Einbeziehung hermeneutischer, sprach- und kulturwissenschaftlicher sowie so-
+zialphilosophischer, ethischer und theologischer Perspektiven wahrzunehmen, zu deuten und zu ge-
+stalten. 
+ 
+4 Studiengangskonzept 
+4.1 Zugangs- und Zulassungsvoraussetzungen 
+Das Bachelorstudium ist in eine FH-Studiengangsstruktur eingebunden. Die Studierenden benötigen 
+eine allgemeine oder fachgebundene Hochschulzugangsberechtigung oder Fachhochschulreife oder 
+eine abgeschlossene pädagogische Berufsausbildung mit mindestens dreijähriger Berufserfahrung. 
+ 
+4.2 Qualifikationsziele 
+Der Bachelor „Transformation – Nachhaltigkeit – Ethik“ ist ein Studienangebot, das ausgehend von 
+den tiefgreifenden sozial-ökologischen Umbrüchen der Gegenwart die Entwicklung von Transforma-
+tionskompetenzen und die Identifikation von gesellschaftlich wünschenswerten Leitbildern für die Zu-
+kunft zum Ziel hat. Er qualifiziert dazu, Menschen und Gruppen darin zu begleiten, persönliche, ge-
+sellschaftliche und kirchliche Transformationsprozesse in Gang zu bringen. Die erfahrungsorientier-
+ten Praktika und Praxisprojekte, die partizipativen und innovativen Lehr- und Lernmethoden, der 
+transdisziplinäre Aufbau, das breite Angebot an Coaching sowie die Möglichkeit zur Persönlichkeits-
+bildung helfen dabei. 
+Zum einen lernen die Studierenden, wissenschaftlich fundiert gesellschaftlichen Wandel zu analysie-
+ren und zu verstehen. Zum anderen werden sie darin unterstützt, eine kritisch-reflektierte Urteilsbil-
+dung einzuüben und Kompetenzen für eine nachhaltige Gestaltung von transformativen Prozessen 
+zu erwerben und Lösungsansätze co-kreativ zu erarbeiten. Dabei gilt es auch zu lernen, dass Trans-
+formationen keine linearen Prozesse oder Ergebnisse intentionalen Handelns mächtiger Akteure 
+
+[Page 9]
+9 
+ 
+ENTWURF – Stand: 13.03.2024 
+sind, sondern Folge von ineinandergreifenden Dynamiken, die sich auf unterschiedlichen Zeitskalen 
+abspielen, aber sich zu einer Richtung des Wandels verdichten. 
+Ziel des Orientierungsjahres (1. und 2. Semester) ist es, Erfahrungen mit Transformationsprozessen 
+zu machen und diese inter- und transdisziplinär reflektieren zu können. Zugleich soll der oder die 
+Einzelne darin begleitet werden, sich für einen Studien-Weg zu entscheiden, der Sinn macht. 
+Ziel des Schwerpunkts Transformative Lernprozesse (ab dem 3. Semester) ist, dass die Studierenden 
+in unterschiedlichen sozialen, zivilgesellschaftlichen und kirchlichen Bildungskontexten Konzepte 
+transformativen Lernens umsetzen und Prozesse begleiten können, die eine breite sozial-ökologische 
+Transformation mit der Zielperspektive Nachhaltigkeit befördern. In diesem Zusammenhang wird 
+auch die Rolle von kulturellen und religiösen Ressourcen und Sinnhorizonten für transformative Pro-
+zesse in den Blick genommen. Ziel des zweiten Schwerpunkts ist es, authentische und theologisch 
+auskunftsfähige kirchliche Mitarbeiter:innen auszubilden. Die theologischen, die Bezeichnung Ange-
+wandte Theologie rechtfertigenden Standards dieses Pfads des Studiengangs werden durch eine 
+enge Kooperation mit der Theologischen Fakultät der Katholischen Universität Eichstätt-Ingolstadt 
+gewährleistet. 
+ 
+4.3 Übergeordnete Kompetenzen (Schlüsselkompetenzen) 
+4.3.1 „Future Skills“ 
+Angesichts der global zusammenhängenden, ineinander verwobenen Krisen und der sich stetig ver-
+ändernden gesellschaftlichen Rahmenbedingungen bedarf es kompetenter Personen, die in berufli-
+chen, zivilgesellschaftlichen und kirchlichen Bereichen Transformationsprozesse voranbringen und 
+begleiten können. Eine wesentliche „Stellschraube“ stellt „dabei die Bildung dar, die durch Kompe-
+tenzentwicklung von der Problemanalyse über das Sammeln von (Erfahrungs-)Wissen in experimen-
+tellen Phasen (bspw. Pilote, Fallstudien) zum Handeln und aktiven Gestalten der Zukünfte führen 
+soll“7. 
+Personen, die Transformationen gestalten wollen, benötigen fachliche, personale, soziale und me-
+thodische Kompetenzen. Darauf aufbauend orientiert sich der geplante Bachelorstudiengang „Trans-
+formation – Nachhaltigkeit – Ethik: mit den Schwerpunkten Transformative Lernprozesse oder Ange-
+wandte Theologie“ an der Vermittlung von Future Skills. Future Skills sind Kompetenzen, die es Indi-
+viduen erlauben, in hochemergenten Handlungskontexten selbstorganisiert komplexe Probleme zu 
+lösen und handlungsfähig zu sein. Sie basieren auf kognitiven, motivationalen, volitionalen sowie so-
+zialen Ressourcen, sind wertebasiert und können in einem transformativen Lernprozess erworben 
+werden.8 Statt Studierenden die „richtige“ Antwort auf bekannte Probleme vorzugeben, lernen diese, 
+mit unsicheren und komplexen Situationen umzugehen und co-kreativ Lösungen für offene Zukunfts-
+fragen zu finden. Wichtig ist vor allem, das Verständnis von komplexen Systemen zu verbessern und 
+den Umgang mit ihnen zu trainieren. Dies fördert zugleich die Ambiguitätstoleranz, also die Fähigkeit, 
+Mehr- oder Vieldeutigkeit auszuhalten und widersprüchliche Situationen zu meistern. 
+ 
+4.3.2 Kompetenzübersicht 
+Das übergeordnete Kompetenz-Ziel ist zum einen eine gesteigerte Reflexivität und angemessene 
+strategische Kompetenz (Methodenkompetenz). Zum anderen umfasst transformatives Lernen eine 
+ 
+ 
+7 Bliesner, Anna; Liedtke, Christa; Rohn, Holger (2013): Change Agents für Nachhaltigkeit. Was müssen sie können?, S. 2, 
+online: https://epub.wupperinst.org/frontdoor/index/index/docId/4671 (abgerufen am 20. 01. 2023). 
+8 Ehlers, Ulf-Daniel (2020): Future Skills. Lernen der Zukunft – Hochschule der Zukunft, Wiesbaden: Springer VS. 
+
+[Page 10]
+10 
+ 
+ENTWURF – Stand: 13.03.2024 
+Persönlichkeitsentwicklung mit den entsprechenden Selbst- und Sozialkompetenzen. Es geht über 
+die bloße Wissensaneignung hinaus und zielt auf Veränderungen grundlegender Verhaltensweisen, 
+Gefühle und Gedanken (mindsets), auf dem „Zusammenspiel von Wissen, Haltung und Fähigkeiten“.9 
+Die folgende Übersicht enthält eine Zusammenstellung von Kompetenzen, die zum einen auf empiri-
+schen Forschungen beruhen und zum anderen in einem internen Workshop im Kontext der Studien-
+gangsentwicklung gesammelt worden sind. 
+Reflexive Kompetenz Methodenkompetenz 
+Selbstkompetenz 
+Sozialkompetenz 
+• Wahrnehmungs- 
+und Erfahrungsfä-
+higkeit 
+• Analytische Kompe-
+tenz 
+• Deutungskompe-
+tenz 
+• Antizipatorische 
+Kompetenz 
+• Ethische Kompe-
+tenz 
+• Exnovationskompe-
+tenz 
+• Fachliches und 
+transdisziplinäres 
+Wissen 
+• Prozesswissen 
+• Zielkompetenz 
+• Strategische Kom-
+petenz 
+• Gestaltungskompe-
+tenz 
+• Organisationskom-
+petenz 
+• Prozesskompetenz 
+• Governance-Kom-
+petenz 
+• Struktur-Kompetenz 
+• Lehrfähigkeit 
+• Forschungskompe-
+tenz 
+• Evaluationskompe-
+tenz 
+• Offene Grundein-
+stellung gegenüber 
+Veränderungen 
+• Konstruktiver Um-
+gang mit Vielfalt 
+(Ambiguitätstole-
+ranz) 
+• Emotionale Kompe-
+tenz 
+• Verständnisbereit-
+schaft 
+• Frustrationstoleranz 
+• Resilienz und An-
+passungsfähigkeit 
+• Integrität 
+• Haltung 
+• Leidenschaft 
+• Entscheidungskom-
+petenz 
+• Lernkompetenz 
+• Kommunikations-
+kompetenz 
+• Empathie 
+• Gemeinwohlorien-
+tierung 
+• Kooperationskom-
+petenz 
+• Netzwerkkompe-
+tenz 
+• Partizipationskom-
+petenz 
+• Interkulturelles Ver-
+ständnis 
+• Fähigkeit zum Per-
+spektivenwechsel 
+• Bereitschaft zu glo-
+baler Perspektive 
+• Kompetenz im Um-
+gang mit Widerstän-
+den und Konflikten 
+ 
+4.3.3 Zusammenhang zwischen Rezeptivität, Handlungsfähigkeit und Transformation 
+Die Zusammenhänge zwischen Rezeptivität, Handlungsfähigkeit (agency) und Transformation sind 
+so etwas wie ein roter Faden für die im Bachelorstudium zu fördernden und zu entwickelnden Kom-
+petenzen. Lerntheoretisch fundiert ist dieser Zugang unter anderem durch responsive Ansätze im 
+Anschluss an Bernhard Waldenfels, den Pragmatismus von John Dewey und die Resonanztheorie 
+von Hartmut Rosa. Davon ausgehend soll das ernst genommen werden, was mit dem Label „erfah-
+rungsorientiert“ angezielt wird. Eine „Erfahrung zu machen“ spricht nämlich zunächst die passiv-re-
+zeptive Dimension von Lernprozessen an. Es bedeutet, von etwas affiziert und angesprochen zu 
+werden. Andererseits beruht „eine Erfahrung zu machen“ auf einer gewissen Rezeptivität, die die 
+Aufnahme des Erfahrenen erst ermöglicht, und dem Vermögen, das Erlebte zu verarbeiten und mit 
+anderen Erfahrungen zu verbinden. Erfahrungen transformieren und modifizieren unser Welt- und 
+Selbstverhältnis, also uns selbst sowie die Art, wie wir infolgedessen die Welt sehen. Die Fähigkeit 
+ 
+ 
+9 Schneidewind (2018): Die große Transformation, a. a. O., S. 461; vgl. Wanner, Matthias; Schmitt, Martin; Fischer, Nele; 
+Bernert, Philip (2020): Transformative Innovation Lab. Handbuch zur Ermöglichung studentischer Reallabore-Projekte zur 
+Förderung transformativer und transdisziplinärer Kompetenzen. Unter Mitarbeit von Franca Kruppa und Annika Lomberg, 
+Wuppertal, S. 23, online: www.transformative-innovation-lab.de 
+
+[Page 11]
+11 
+ 
+ENTWURF – Stand: 13.03.2024 
+zu lernen ist, so gesehen, mit der Fähigkeit, Erfahrungen zu machen und auf diese Weise in eine 
+Interaktion mit der Mitwelt einzutreten, eng verbunden. Transformatives Lernen kommt demnach nur 
+dann in Gang, wenn die Lernenden sich auf die Erfahrung des Wirklichen einlassen, wenn sie selbst 
+erfahren, dass gewohnte Denkschemata und Antworten nicht mehr zu gegenwärtigen Herausforde-
+rungen und Fragen passen, und sich veranlasst fühlen, nach neuen, passenden Antworten und Ur-
+teilen zu suchen. 
+In dieser Hinsicht schließt das Kompetenzmodell des Bachelorstudiengangs „Transformation – Nach-
+haltigkeit – Ethik: mit den Schwerpunkten Transformative Lernprozesse oder Angewandte Theologie“ 
+an das Konzept transformativen Lernens an.10 Dieses zeichnet sich dadurch aus, dass Lernräume 
+zur kritischen Reflexion von Bedeutungsperspektiven und bestehenden Handlungs-, Denk-, und emo-
+tionalen Mustern geschaffen werden. Gepaart wird dies mit Erprobungsräumen, in denen Erfahrun-
+gen mit transformativen Praktiken gemacht werden können. 
+ 
+4.3.4 Schlüsselkompetenzen im Transformationskontext 
+Die verschiedenen Zugänge zu transformativen Lernkonzepten und -theorien aufgreifend sind es 
+zehn zentrale Kompetenzen, die es Studierenden des Bachelorstudiengangs ermöglichen sollen, 
+Transformationsprozesse zu verstehen und zu gestalten: 1) Wahrnehmungskompetenz, 2) Deutungs-
+kompetenz, 3) Systemisches Denken, 4) Antizipatorische Kompetenz, 5) Ethische Kompetenz, 6) 
+Gestaltungs-Kompetenz, 7) Governance-Kompetenz, 8) Struktur-Kompetenz, 9) Exnovations-Kom-
+petenz und 10) Selbst- und Sozialkompetenz.11 
+1) In der Wahrnehmungskompetenz geht es darum, sich als Teilnehmende auf die Realität und ihre 
+Komplexität einzulassen und Erfahrungswissen zu sammeln (unter anderem durch Exkursionen 
+und Praktika). Auf diese Weise kommt es nicht selten zu aufschlussreichen Entdeckungen, auch 
+Irritationen. Neugier und weiterführende Fragen kommen auf. Statt die Dinge vorschnell zu abs-
+trahieren und zu kategorisieren, werden Diversität, Überraschungen, Verunsicherungen, Unwis-
+senheit akzeptiert. Die jeweils eigene Qualität der gegebenen Situation wird erkannt. Die Lernen-
+den können wachsen, weil sie nicht nur wahrnehmen, was sie schon glauben, sondern anfangen 
+zu glauben, was sie wahrnehmen. 
+2) Die Deutungskompetenz umfasst die Fähigkeit, Schemata, Muster und Hintergrundüberzeugun-
+gen als wahrnehmungs- und interpretationsleitende Schablonen zu rekonstruieren und kritisch zu 
+hinterfragen bzw. zu dekonstruieren. Zugleich beinhaltet es das Reframing von Deutungsmustern 
+bzw. den Aufbau neuer Bedeutungsperspektiven und Narrative. 
+3) Systemisches Denken befähigt dazu, die Ursachen, Dynamiken und möglichen Folgeeffekte ver-
+schiedener Systeme und Zusammenhänge wahrzunehmen und einzuschätzen. Es wird gelernt, 
+ 
+ 
+10 Vgl. Singer-Brodowski, Mandy (2016): Transformative Bildung durch transformatives Lernen. Zur Notwendigkeit der er-
+ziehungswissenschaftlichen Fundierung einer neuen Idee, in: ZEP: Zeitschrift für internationale Bildungsforschung und Ent-
+wicklungspädagogik, 39(1), S. 13-17; Wanner u.a. (2020): Transformative Innovation Lab, a. a. O., S. 22. 
+11 In einem Review verschiedener Lehr- und Lernansätze in der akademischen Nachhaltigkeitsbildung wurden von Wiek et 
+al. (2011) fünf zentrale Kompetenzen ermittelt, die Studierenden ermöglichen, Nachhaltigkeits- und Transformationspro-
+zesse zu verstehen und zu gestalten: 1) strategische Kompetenz, 2) systemisches Denken, 3) antizipatorische, 4) normative 
+und 5) interpersonale Kompetenz (vgl. Wiek, A., Withycombe, L., & Redman, C. L. [2011]. Key competencies in sustaina-
+bility: a reference framework for academic program development, in: Sustainability science, 6(2), S. 203–218; Wanner u.a. 
+[2020]: Transformative Innovation Lab, a. a. O., S. 23-24). Für den Bachelorstudiengang „Transformation – Nachhaltigkeit 
+– Ethik“ greifen wir dieses Ergebnis auf, erweitern es aber um fünf weitere Schlüsselkompetenzen. 
+
+[Page 12]
+12 
+ 
+ENTWURF – Stand: 13.03.2024 
+dass Transformationen keine linearen Prozesse oder Ergebnisse intentionalen Handelns mächti-
+ger Akteure sind, sondern Folge von ineinandergreifenden Dynamiken, die sich auf unterschied-
+lichen Zeitskalen abspielen, aber sich zu einer Richtung des Wandels verdichten. 
+4) Die antizipatorische Kompetenz beinhaltet das Analysieren, Evaluieren und Entwickeln von Zu-
+kunftsbildern. Dies bedarf kreativer Fähigkeiten sowie Methoden der Szenarienanalyse und Si-
+mulation. 
+5) Mithilfe der ethischen Kompetenz werden Normen, Werte und Ziele kollektiv festgelegt und spe-
+zifiziert. Diese Kompetenz dient der Abwägung der Richtung und Orientierung des Wandels zwi-
+schen wünschenswerten und nicht wünschenswerten Zuständen und Entwicklungen sowie der 
+Bewertung eines Projekts. 
+6) Bei der Gestaltungs-Kompetenz geht es darum, eine selbstwirksame Gestaltungskraft auszubil-
+den und transformative Praktiken einzuüben. Es wird gelernt, wie Transformationsstrategien ge-
+plant werden können. Das impliziert die Entwicklung beispielhafter Projekte, Programme und 
+Richtlinien sowie die Erstellung eines Plans zur Koordination von Maßnahmen zwischen Abtei-
+lungen oder Organisationen in gemeinsamen Projekten oder Programmen. Idealerweise entsteht 
+daraus die Motivation, „Communities of Practice“ zu bilden, in denen innovative Praktiken gemein-
+sam eingeübt werden. 
+7) Die Governance-Kompetenz steht nicht zuletzt bei der Entwicklung von partizipativen Lösungen 
+im Fokus. Dies umfasst die Fähigkeit, Willensbildungs- und Entscheidungsprozesse an neuartige 
+Herausforderungen anzupassen. Transformationsgovernance zu operationalisieren erfordert die 
+Kompetenz, zivilgesellschaftliche, netzwerkartige Beteiligungsstrukturen (Strukturen der Selbst-
+organisation), hauptamtliche Servicestrukturen (Institutionen, Behörden) und Wissenschaft mitei-
+nander zu verweben. 
+8) Die Struktur-Kompetenz umfasst die Fähigkeit, Erfahrungen von Selbstwirksamkeit und kollektiver 
+Wirksamkeit zu institutionalisieren und erfolgreiche Lösungen im System strukturell zu verankern 
+und zu skalieren. 
+9) Die Exnovations-Kompetenz zielt auf das Erlernen des Loslassens. Wenn der Moment gekom-
+men ist, an dem ein System ausgedient hat, ist das Aufhören wichtig. Transformateure müssen 
+sowohl über die Qualitäten einer Hebamme als auch über die einer Palliativschwester verfügen12, 
+also das Neue gut begrüßen und das Alte gut verabschieden können (Innovation und Exnovation). 
+Da Abschiednehmen und Aufhören oft schmerzhaft sind, gilt es, gemeinschaftliche Prozesse des 
+Trauerns gestalten zu können. 
+10) Die personale Selbstkompetenz und interpersonale Sozialkompetenz sind wesentliche Bestand-
+teile der anderen Kompetenzen. Die Bereitschaft zur Selbsttransformation, Haltung, Resilienz, 
+starke Kommunikation sowie Empathie und Erfahrungen in der Zusammenarbeit in Teams und 
+mit Stakeholdern mit unterschiedlichem soziodemographischem Hintergrund, Wissen, Präferen-
+zen und Einstellungen, sind auf allen Ebenen und in allen Lernphasen erforderlich. 
+ 
+ 
+12 Die Bilder der Hebamme und Palliativschwester wurden übernommen von Göpel, Maja (2022): Wir können auch anders. 
+Aufbruch in die Welt von morgen, Berlin: Ullstein, S. 142, 230. 
+
+[Page 13]
+13 
+ 
+ENTWURF – Stand: 13.03.2024 
+4.3.5 System-, Ziel und Transformationswissen 
+Parallel zu den Schlüsselkompetenzen basiert der Bachelorstudiengang auf drei Wissensformen, die 
+in den Transformationswissenschaften unterschieden werden: Systemwissen, Zielwissen und Trans-
+formationswissen.13 Wissen, Wollen und Wirken sind demnach die drei Kompetenzen, mit denen 
+transformative Prozesse verstanden und gestaltet werden können.14 
+ Systemwissen (Wissen) bedeutet, den Ist-Zu-
+stand und seine Entstehung beschreiben zu kön-
+nen – und damit auch das System, also die Ver-
+netzungen und Dynamiken, die es hervorbringen. 
+ Zielwissen (Wollen) beinhaltet, den Soll-Zustand 
+benennen zu können. Es entsteht durch eine breit 
+getragene Übereinkunft darüber, wohin es ei-
+gentlich gehen soll und auf welchen Wegen man 
+dorthin kommen kann – mitsamt den passenden 
+Messgrößen und Erfolgsindikatoren, die das Ver-
+halten auf dem Weg orientieren und Fortschritte 
+abbilden. 
+ Im Transformationswissen (Wirken) wird kontext- 
+und akteurspezifisches Wissen über transforma-
+tive Gestaltungsmöglichkeiten anhand experi-
+menteller Prozesse erprobt, weiterentwickelt und 
+angewandt. 
+ 
+4.4 Schwerpunktstudium in den Bereichen Transformative Lernprozesse bzw. 
+Angewandte Theologie 
+Im zweisemestrigen Zertifikatskurs (1. und 2. Semester) belegen die Studierenden transdisziplinäre 
+Basismodule, in denen Kompetenzen für die Wahrnehmung, die Deutung, das Verstehen, die Refle-
+xion und die Gestaltung von sozial-ökologischen Transformationen erworben werden. 
+Im Bachelorstudiengang wird vor dem 3. Semester einer von zwei Schwerpunktbereichen (Transfor-
+mative Lernprozesse bzw. Angewandte Theologie) gewählt (Y-Struktur), der in einem disziplinären 
+Kernstudium, im Praxissemester (5. Semester) und im Schwerpunktstudium vertieft wird. 
+ 
+4.5 Employability 
+Die global zusammenhängenden, ineinander verwobenen Transformationsprozesse und die stetig 
+sich verändernden gesellschaftlichen Rahmenbedingungen erfordern eine Neuorientierung in der Ar-
+beitswelt. Laut der Bertelsmannstudie zum Thema Zukunftsarbeit soll im Studium nicht länger auf 
+ 
+ 
+13 Vgl. Wanner u.a. (2020): Transformative Innovation Lab, a. a. O., S. 19. 
+14 Vgl. Göpel (2022): Wir können auch anders, a. a. O., S. 142. 
+ 
+Abb.: Wissensformen im Rahmen von Transformations-
+prozessen; Quelle: Wuppertal Institut (o. J.), adaptiert 
+nach Transformative Innovation Lab, a.a.O., S. 19. 
+
+[Page 14]
+14 
+ 
+ENTWURF – Stand: 13.03.2024 
+„vorhersehbare Berufswege“ hin ausgebildet werden, sondern es braucht eine „flexible, bedarfsge-
+rechte Bildung“, die zudem durch das Individuum selbstgesteuert wird und eine größtmögliche Flexi-
+bilität von möglichen Bildungsszenarien aufnimmt und Werteorientierung vermittelt.15 
+In kirchlichen Berufsfeldern zeichnet sich ein steigender Bedarf an qualifiziert ausgebildeten jungen 
+Menschen für den kirchlichen Dienst ab. Allerdings zeigen die bundesweit drastisch gesunkenen Zah-
+len an Studierenden der Religionspädagogik einerseits und der Bewerber:innen für die klassischen 
+kirchlichen Berufe wie Gemeindereferent:in oder Religionslehrer:in andererseits, dass für junge Men-
+schen Kirche als Arbeitgeberin in diesem Bereich weder vorstellbar noch attraktiv ist. Auch wenn laut 
+Sinus-Jugendstudie 2020 eine sinnstiftende und nachhaltige Zukunftsgestaltung von den meisten Ju-
+gendlichen der Generation Z als erstrebenswert angesehen wird, betrachten sie Kirche als Arbeitge-
+berin verhalten bis skeptisch. Viele könnten sich jedoch auch Kirche als Arbeitgeberin vorstellen, so-
+fern sie die Arbeitsbedingungen als stimmig erleben.16 
+Der geplante Bachelorstudiengang „Transformation – Nachhaltigkeit – Ethik mit den Schwerpunkten 
+Transformative Lernprozesse oder Angewandte Theologie“ antwortet insbesondere auf die steigende 
+Nachfrage nach Fach- und Führungskräften mit Transformations- und Changemanagement-Skills in 
+bildungsrelevanten und pastoralen Sektoren. Er bietet Handlungsorientierungen und Lösungsstrate-
+gien für komplexe, von multiplen Krisen gekennzeichnete Lebenswirklichkeiten und befähigt zur Ge-
+staltung von transformativen Lernprozessen. Dazu zählt auch die Fähigkeit, in multiprofessionellen 
+Teams zu agieren und zu kommunizieren sowie transdisziplinäre Forschungs- und Entwicklungspro-
+zesse in Planungen und Konzeptionen zu integrieren. Hier gibt es noch keine eindeutigen Berufsbil-
+der. Fest steht jedoch, dass die Herausforderung einer sozial-ökologischen Transformation auch 
+künftig gesamtgesellschaftlich einen hohen Stellenwert einnehmen wird; denn Bildung in diesem Be-
+reich kann nicht durch Digitalisierung und Technisierung ersetzt werden. 
+Durch die Y-Struktur im geplanten Bachelorstudiengang „Transformation – Nachhaltigkeit – Ethik: mit 
+den Schwerpunkten Transformative Lernprozesse oder Angewandte Theologie“ werden Schwer-
+punktsetzungen ermöglicht: 
+Transformative Lernprozesse 
+Angewandte Theologie 
+Der Schwerpunkt Transformative Lernprozesse 
+ist konzipiert für Personen, die in unterschiedli-
+chen Feldern gesellschaftliche, ökologische und 
+ökonomische Transformationen mitgestalten wol-
+len – in Unternehmen, im öffentlichen Sektor, in 
+einem Verband, in einer zivilgesellschaftlichen Ini-
+tiative oder in Nichtregierungsorganisationen 
+(NGO’s). 
+In Reaktion auf die gesellschaftlichen Transfor-
+mationsprozesse werden zunehmend neue Ar-
+beitsfelder bei NGO's, bei Städten und Kommu-
+nen, in Bildungseinrichtungen aller Art oder auch 
+in der betrieblichen Weiterbildung entstehen, in 
+Für Absolvent:innen des Schwerpunktbereichs 
+Angewandte Theologie stehen weiterhin klassi-
+sche Berufsfelder wie Gemeindereferent:in oder 
+Religionslehrer:in, Tätigkeiten in der kategorialen 
+Seelsorge oder in Fachreferaten in allen (Erz-)Di-
+özesen offen. Die Studierenden werden für den 
+Einsatz in unterschiedlichen pastoralen Bereichen 
+sowie religiösen Bildungsbereichen ausgebildet, 
+angefangen von Elementarbildung, schulischer 
+religiöser Bildung bis hin zu erwachsenenpädago-
+gischen Tätigkeiten in kirchlichen Bildungshäu-
+sern und Akademien. Für diese Berufe besteht 
+ 
+ 
+15 Daheim, Cornelia; Wintermann, Ole (2016): 2050: Die Zukunft der Arbeit. Ergebnisse einer internationalen Delphi-Studie 
+des Millennium Project, Gütersloh: Bertelsmann Stiftung, S. 18. Online: https://www.bertelsmann-stiftung.de/fileadmin/fi-
+les/BSt/Publikationen/GrauePublikationen/BST_Delphi_Studie_2016.pdf (abgerufen am 22. 01. 2023). 
+16 Vgl. Calmbach, Marc u. a. (2020): Sinus-Jugendstudie 2020. Lebenswelten von Jugendlichen im Alter von 14 bis 17 
+Jahren in Deutschland (bpb Schriftenreihe 10531), Bonn: bpb, S. 247 ff. 
+
+[Page 15]
+15 
+ 
+ENTWURF – Stand: 13.03.2024 
+denen den lokalen und globalen Herausforderun-
+gen in selbstgesteuerten und gemeinschaftlich or-
+ganisierten Lernprozessen und im Horizont einer 
+reflektierten Sinn- und Wertevermittlung begegnet 
+werden kann. 
+nach wie vor ein hoher Bedarf, so dass die Chan-
+cen, eine Stelle in diesen Bereichen zu finden, als 
+exzellent eingestuft werden können. 
+ 
+ 
+4.6 Innovative und persönlichkeitsbildende Elemente 
+4.6.1 Persönlichkeitsentwicklung und Coaching 
+Persönlichkeitsbildung ist ein wesentlicher Teil des pädagogischen Konzepts des Bachelorstudien-
+gangs. Durch die Entwicklung zwischenmenschlicher Fähigkeiten können die Studierenden nicht nur 
+professionelles Know-how und soziales Verständnis in ihre Arbeit einbringen, sondern auch eine re-
+flektierte Selbstdarstellung, achtsame Teaminteraktionen und verantwortliches Verhalten. Die Kom-
+petenzen, die die Studierenden hier entwickeln, werden ihnen ein Leben lang zugutekommen, unab-
+hängig davon, wie sich die Welt verändert. 
+Deshalb werden spezielle Workshops zu „Interpersonal Skills“ und „Values“ angeboten. Um den Stu-
+dierenden zu helfen, persönlich zu wachsen, können sie auf Coaches zurückgreifen. Beim Gruppen-
+coaching treffen sich die Studierenden mit ihren Coaches in Gruppen von vier bis sechs Personen. 
+Die Studierenden können auch auf Einzelbetreuung umsteigen, wenn sie dies bevorzugen. Die Coa-
+ches geben Orientierung und Ratschläge, um die Fähigkeiten der Studierenden herauszufordern, sie 
+ermutigen die Studierenden zum Nachdenken, helfen ihnen zu wachsen und sind für sie da, wenn sie 
+Unterstützung brauchen. 
+ 
+4.6.2 Theorie-Praxis-Verzahnung: Die Bedeutung der Praxisprojekte 
+Durch die Planung, Durchführung, Reflexion und wissenschaftliche Evaluation von Praxisprojekten 
+findet ein Theorie-Praxis-Dialog statt. Bei der Entwicklung eines eigenen transformativen Projektes 
+werden die Studierenden durch Unterrichtseinheiten und Coaches begleitet, unterstützt und geför-
+dert. 
+Dieser Prozess ist untergliedert: 
+ Nach einem dreiwöchigen Einführungs-Camp zu Beginn des Studiums absolvieren die Studieren-
+den ein vierwöchiges Praktikum an einem ausgewählten Transformationsort. Diese Phase hat 
+den Sinn, Erfahrungen zu ermöglichen. Die Erfahrungen werden in Lehrveranstaltungen und mit 
+Coaches reflektiert und eingeordnet. Ziel ist, dass die Studierenden zum Ende des 1. Semesters 
+eine Idee für ein Praxisprojekt einbringen und mit Methoden des Projektmanagements eine Stra-
+tegie entwickeln. 
+ Die Studierenden wählen am Ende des 2. Semesters einen Schwerpunkt für das weitere Studium. 
+Das Praxissemester soll im 5. Semester stattfinden: im Schwerpunkt Transformative Lernpro-
+zesse in einem Unternehmen, im öffentlichen Sektor, in einem Verband, in einer zivilgesellschaft-
+lichen Initiative oder in einer Nichtregierungsorganisation (NGO’s); im Schwerpunkt Angewandte 
+Theologie in der kirchlichen Pastoral und im schulischen Religionsunterricht. Die Studierenden 
+werden während des Praxissemesters begleitet. Aus dem Praxissemester bringen die Studieren-
+den eine Idee für ein zum Schwerpunkt passendes Praxisprojekt mit und entwickeln mit Methoden 
+des Projektmanagements und des Reallabors eine Strategie. Mit der Bachelorarbeit wird das Pra-
+xisprojekt im Studiengang wissenschaftlich eingeordnet und evaluiert. 
+
+[Page 16]
+16 
+ 
+ENTWURF – Stand: 13.03.2024 
+ 
+Kriterien für Praxisprojekte 
+ Transformativer Charakter: Das Praxisprojekt soll einen transformativen Charakter haben, d.h. es 
+soll auf einen konkreten und nachhaltigen Veränderungsprozess innerhalb bestehender Struktu-
+ren zielen oder auf soziale Innovation und Neugründung. 
+ Vieldimensionaler Lernprozess: Das Praxisprojekt zielt auf einen Lernprozess in möglichst ver-
+schiedenen Dimensionen des Lebens und Zusammenlebens und verbindet diese miteinander: 
+von der spirituell-geistlichen über die physisch-materielle, der psychischen bis zur sozial-gesell-
+schaftlichen Dimension des menschlichen Zusammenlebens. Das Praxisfeld sollte sich zwischen 
+den Ebenen des Individuellen und des Gemeinschaftlichen, des Persönlichen und des Strukturel-
+len platzieren. 
+ Gesellschaftliche Relevanz: Die gesellschaftliche Verortung und gesellschaftspolitische Relevanz 
+des Praxisprojektes sollten aufgezeigt werden können. Dazu muss es sowohl an die konkreten 
+örtlichen Gegebenheiten angebunden sein als auch größere gesellschaftliche Zusammenhänge 
+und Dynamiken kritisch reflektieren und in die Planung, Durchführung und Auswertung des Pro-
+jektes miteinbeziehen. 
+Die Praxisprojekte können, je nach Anlage und Ziel, von sehr unterschiedlichem Umfang sein. Der 
+Umfang wird individuell mit den Dozent:innen abgeklärt. 
+ 
+4.6.3 Service Learning 
+Service Learning verknüpft das wissenschaftliche Studium (Learning) mit einem gemeinwohlorien-
+tierten Engagement (Service): Lehrende und Studierende kooperieren mit gemeinwohlorientierten 
+Partner:innen aus dem sozialen, kulturellen, sportverbandlichen, ökologischen oder Bildungsbereich 
+in der Region und bringen in gemeinsamen Projekten ihr fachliches Wissen und ihre Kompetenzen 
+ein. Essenziell für den Lernerfolg sind eine enge Verzahnung zwischen den fachlichen Inhalten und 
+der praktischen Anwendung sowie ein echter Bedarf an studentischer Unterstützung seitens des Ko-
+operationspartners. Die Reflexionsprozesse in Service Learning-Projekten verstärken die persönliche 
+Entwicklung der Studierenden. Die Studierenden übernehmen im Rahmen von Service Learning ge-
+sellschaftliche Verantwortung und verarbeiten die fachlichen Inhalte anschaulicher und intensiver. 
+Beim Service Learning ändert sich also nicht der fachliche Inhalt der Lehrveranstaltungen, sondern 
+vielmehr die Art und Weise des Wissenserwerbs. 
+ 
+4.6.4 Lernwerkstatt 
+Um materialbasiert und experimentell arbeiten zu können, bietet die seit 2007 bestehende, für Stu-
+dierende der Fakultät für Religionspädagogik und Kirchliche Bildungsarbeit rund um die Uhr zugäng-
+liche Lernwerkstatt einen optimal ausgestatteten Open-Work-Space mit zahlreichen analogen und 
+digitalen Materialien für die Bildungsarbeit. Neben einem Atelier für gestaltendes Arbeiten gibt es eine 
+Bibliothek, ein Musikzimmer, einen PC-Bereich, einen Seminarraum sowie eine Kaffee-Lounge. Im 
+Sommer steht der Innenhof als „grüner Seminarraum“ zur Verfügung. Die Lernwerkstatt wird von 
+Nutzer:innen, insbesondere von den Studierenden des Bachelorstudiengangs „Religionspädagogik 
+und Kirchliche Bildungsarbeit“, als „Heimat“ beschrieben und als „Oase“ wahrgenommen. Gleichzeitig 
+
+[Page 17]
+17 
+ 
+ENTWURF – Stand: 13.03.2024 
+dient sie Studierenden wie Dozierenden als Treffpunkt und Arbeitsbereich. Durch dieses Setting wer-
+den zwischen Studierenden und Dozierenden Begegnungen auf Augenhöhe und eine niederschwel-
+lige Begleitung der Studierenden ermöglicht. 
+ 
+4.7 Lehr- und Lernprinzipien 
+Der Bachelorstudiengang orientiert sich an einem Lehr- und Lernkonzept, das von allen Beteiligten 
+weiterentwickelt wird. Die grundlegenden Prinzipien sind: 
+1. Das Lernen orientiert sich an den Bedürfnissen der Studierenden 
+Unter anderem durch die Nutzung von vorhandenen erstklassigen (Online-)Lernressourcen für stan-
+dardmäßige Lehrinhalte werden Zeit und Ressourcen frei für interaktiven Unterricht, intensive Betreu-
+ung auf Einzel- und Gruppenebene sowie auf die tatsächlichen Bedürfnisse und Anforderungen der 
+Studierenden ausgerichtete Workshops und Vorträge. 
+2. Persönliche Entwicklung und Urteilsfähigkeit sind entscheidend 
+Die Studierenden werden zum einen befähigt, wissenschaftliches Denken und kritisches Urteilsver-
+mögen zu entwickeln, zum anderen werden zwischenmenschliche Fähigkeiten und Kommunikations-
+fähigkeiten gefördert. Die persönliche Entwicklung wird als ein Prozess verstanden, in dem individu-
+elle Fähigkeiten und Stärken entdeckt und entwickelt werden. 
+3. Lernen ist erfahrungsorientiert 
+Es wird nicht mit der Theorie begonnen, um sie später anzuwenden. Vom ersten Tag an werden die 
+Studierenden mit praktischen Problemen konfrontiert, die herausfordern, vielleicht auch irritieren, und 
+dazu anregen, Gewohntes in Frage zu stellen, „neu zu denken“ und nach passenden theoretischen 
+Ansätzen zu suchen. Es geht darum, sich von der Realität ansprechen und affizieren zu lassen. Da-
+hinter steht die Überzeugung, dass transformatives Lernen nur dann in Gang kommt, wenn die Ler-
+nenden Erfahrungen machen. 
+4. Lernen fördert die Handlungsfähigkeit 
+Das Lernen fördert das Empowerment und die Handlungsfähigkeit (Agency). Die Studierenden wer-
+den zum einen zu kreativen Problemlösungen in einer komplexen, von multiplen Krisen gekennzeich-
+neten Lebenswirklichkeit befähigt. Zum anderen lernen sie Lernprozesse hin zu einer breiten sozial-
+ökologischen Transformation zu gestalten, bei der die Frage nach einem guten Leben für alle im 
+Mittelpunkt steht. 
+5. Lernen ist sinn- und wertorientiert 
+Das Lernen wird eingebettet in handlungsprägende Sinnvorstellungen, Kulturen, Narrative und Reli-
+gionen. Die Studierenden werden für den Reichtum an Traditionen sensibilisiert, mit denen Emotionen 
+geweckt, Vertrauen in die Sinnhaftigkeit des Handelns gestärkt und Hoffnungsperspektiven eröffnet 
+werden können. 
+6. Lernen ist transformativ 
+Lernprozesse können auch die Form von Selbsttransformationsprozessen haben, in denen proble-
+matische persönliche Gewohnheiten und Einstellungen infrage gestellt und Tugenden eingeübt wer-
+den, die zu den Herausforderungen einer sozial-ökologischen Transformation „passen“. Die Fähigkeit 
+zu eigener Urteilsbildung, kritisch-reflektierter Entscheidung und verantwortlichem Handeln hat zur 
+Konsequenz, sich aus der Verstrickung in Wert- und Verhaltensmuster zu befreien, die die Lebens-
+grundlagen zerstören und nicht zukunftsfähig sind. 
+ 
+ 
+
+[Page 18]
+18 
+ 
+ENTWURF – Stand: 13.03.2024 
+7. Lernen zielt auf solidarisches Handeln 
+Die Studierenden werden nicht nur dazu angeleitet, in ihren jeweiligen Gruppen solidarisch und ko-
+operativ auf ein gemeinsames Ziel hin zu arbeiten, sondern den Blick zu weiten auf den Sozialraum. 
+Die Studierenden lernen zu reflektieren, wie die erworbenen Kompetenzen für das Gemeinwohl ein-
+gebracht werden können. Sie werden dafür sensibilisiert, die eigenen Fähigkeiten und das eigene 
+Wissen in Ideen für lokales und gemeinschaftliches Handeln münden zu lassen, mit denen nachhal-
+tige und solidarische Lebensstile gefördert werden. Dazu werden innerhalb der Angebote so ge-
+nannte „Service Learning Projekte“ durchgeführt. 
+8. Lernen wird um Projekte herum organisiert 
+Projekte betonen Selbstbestimmung und Selbstorganisation nicht nur auf individueller, sondern auch 
+auf Gruppenebene. Projekte bringen die Studierenden auch vom ersten Tag an mit der Realität in 
+Kontakt. 
+9. Lernen ist transdisziplinär 
+Der Bachelor ist transdisziplinär aufgebaut. Die Studierenden werden ständig ermutigt, mehr als nur 
+den kleinen Kern eines Fachgebiets abzudecken und die Perspektiven von anderen Disziplinen ken-
+nenzulernen. Die Fähigkeit, in hybriden Referenzsystemen zu kommunizieren und als Gestalter:innen 
+transdisziplinärer Prozesse zu fungieren, wird gefördert. 
+10. Lernen wird in Kompetenzstufen gemessen 
+Lernen wird nicht in Noten oder Anwesenheit gemessen, sondern in Kompetenzstufen. Es wird be-
+wertet, wozu die Studierenden tatsächlich in Bezug auf die erworbenen Fähigkeiten und Kompeten-
+zen fähig sind. 
+ 
+5 Modulpläne und Modulbeschreibungen 
+Basismodell des Bachelorstudiengangs „Transformation – Nachhaltigkeit – Ethik: mit 
+den Schwerpunkten Transformative Lernprozesse oder Angewandte Theologie“ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 19]
+19 
+ 
+ENTWURF – Stand: 13.03.2024 
+Modulplan des Bachelorstudiengangs „Transformation – Nachhaltigkeit – Ethik: mit 
+den Schwerpunkten Transformative Lernprozesse oder Angewandte Theologie“ 
+ 
+ 
+ 
+Modulbeschreibungen 
+Für die Modulbeschreibungen siehe das Extra-Dokument.

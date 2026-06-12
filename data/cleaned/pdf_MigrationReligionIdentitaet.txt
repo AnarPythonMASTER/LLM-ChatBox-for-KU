@@ -1,0 +1,51 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/MigrationReligionIdentitaet.pdf
+TITLE: MigrationReligionIdentitaet.pdf
+SOURCE_FILE: MigrationReligionIdentitaet.pdf
+------------------------------------------------------------
+
+[Page 1]
+springer.com
+1. Aufl. 2016, XIX, 297 S.
+Gedrucktes Buch
+Softcover
+44,99 € (D) | 46,26 € (A) | CHF 
+[1]
+50,00
+eBook
+24,27 € (D) | 24,27 € (A) | CHF 
+[2]
+28,10
+Erhältlich bei Ihrer Bibliothek oder
+springer.com/shop
+Kerstin Kazzazi, Angela Treiber, Tim Wätzold (Hrsg.)
+Migration – Religion – 
+Identität. Aspekte 
+transkultureller Prozesse
+Migration – Religion – Identity. Aspects of Transcultural Processes
+Identität als transkultureller Aushandlungsprozess
+Wie Identität in migrantischen Gesellschaften konstruiert wird
+Interdisziplinär besetzter Sammelband
+Zunehmende Mobilität und Migration von Menschen haben die Erfahrung sozialer und 
+kultureller Heterogenität, die Pluralität von Lebensweisen an vielen Orten zum Normalfall 
+werden lassen. Zusammen mit der Präsenz von Wissensbeständen aus unterschiedlichen 
+Deutungshorizonten verlangt dies von Menschen, mit Mehrdeutigem und Ambiguitäten des 
+Kulturellen, Sprachlichen, Religiösen und Weltanschaulichen zu leben. Die 
+Transformationsprozesse in gesellschaftlichen und individuell erfahrungs- und 
+handlungsorientierten Zusammenhängen stehen im Fokus. Transkulturalität wird dabei als ein 
+heuristisches Instrument verstanden, um den Prozesscharakter von Kulturen und die Dynamik 
+des fortwährenden Aushandelns von Inhalten und Dingen sowie deren Bedeutungen in 
+sozialen Prozessen zu erfassen. Der Blick auf den Alltag der Menschen mit Migrationserfahrung 
+zeigt die variationsreichen Verbindungen von individuellen und gruppenspezifischen 
+Bedürfnissen, Referenzen zum Herkunftsland und Orientierungen am neuen gesellschaftlichen 
+Umfeld.
+ 
+Part of
+Erhältlich bei Ihrem Buchhändler oder – Springer Nature Customer Service Center GmbH, Haberstrasse 7, 69126 
+Heidelberg, Germany / Call: + 49 (0) 6221-345-4301 / Fax: +49 (0)6221-345-4229 / Email: 
+customerservice@springer.com / Web: springer.com
+[1] € (D) sind gebundene Ladenpreise in Deutschland und enthalten 7% MwSt; € (A) sind gebundene Ladenpreise in 
+Österreich und enthalten 10% MwSt. CHF und die mit [2] gekennzeichneten Preise für elektronische Produkte sind 
+unverbindliche Preisempfehlungen und enthalten die landesübliche MwSt. Programm- und Preisänderungen (auch 
+bei Irrtümern) vorbehalten. Es gelten unsere Allgemeinen Liefer- und Zahlungsbedingungen.
+Springer-Verlag GmbH, Handelsregistersitz: Berlin-Charlottenburg, HR B 91022. Geschäftsführung: Haank, Mos, 
+Hendriks

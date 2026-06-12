@@ -1,0 +1,3382 @@
+SOURCE_URL: file:///Users/manuel/Documents/GitHub/LLM-ChatBox-for-KU/data/raw_pdfs/Modulhandbuch_BA_Pflegewissenschaft.pdf
+TITLE: Modulhandbuch_BA_Pflegewissenschaft.pdf
+SOURCE_FILE: Modulhandbuch_BA_Pflegewissenschaft.pdf
+------------------------------------------------------------
+
+[Page 1]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fakultät für Soziale Arbeit 
+ 
+Modulhandbuch 
+ 
+ 
+ 
+ 
+Bachelorstudiengang Pflegewissenschaft 
+Bachelor of Science in Nursing (B.Sc.) 
+berufsbegleitend 
+ 
+ 
+beschlossen durch den Fakultätsrat der Fakultät für Soziale 
+Arbeit am 26.05.2020 
+ 
+Stand: 21.01.2021; überarbeitet und beschlossen durch Eilentscheid Mai 2021 
+Aktualisiert für Prüfungsamt 12.04.2021 
+Aktualisiert Studium Pro 19.05.2021 
+Aktualisiert Ministerium München 29.06.2021 
+2te Aktualisierung Ministerium München 22.09.2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 2]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+2 
+ 
+ 
+SemLage
+Ʃ ECTs
+Portfolio 
+mdl. Verteidigung
+Theoretisch (2 SWS):
+Prinzipien der 
+wissenszirkulation, 
+Dissemination und 
+Implementierung, Outcome u. 
+Evaluation
+Qualitätsentwicklung
+Methodisch (2 SWS):
+Interaktion zwischen 
+Evidence, Erfahrungs-wissen 
+und Fallorientierung (Bsp. 
+Expertenstandards), 
+Problemlösungsstrategie
+Theoretisch (4 SWS):
+forschungsrelevante 
+Fragestellungen aus der 
+Praxis, Schnittstellen/ 
+Transdiziplinarität
+Patientcentredness
+Methodisch (3 SWS):
+Arbeitsfeldanalysen;
+Ist-Analysen;
+Projektarbeit;
+Methoden und Techniken 
+Evaluation
+M : Migration und 
+Kultursensibilität in der Pflege
+(5 ECTS/2 SWS)
+M : Digitalisierung und 
+Technisierung in der Pflege 
+(5 ECTS/3 SWS)
+Theoretisch (2 SWS):
+Wissensformen und 
+Entscheidungsfindung (implizit-
+explizit), critical appraisal, 
+critical thinking, clinical 
+decision making 
+Methodisch (4 SWS):
+Fallarbeit, Fallbesprechung, 
+Fallverstehen
+Methoden pfleg. Diagnostik,
+Assessments,
+Klassifikationen
+Kultursensible Pflege und 
+Migration aus 
+gesundheitlichen und 
+demograpischen Anlässen, 
+Migration von Pflege als 
+Arbeitskraft
+Digitalisierung und 
+Technisierung 
+personenbezogener 
+Dienstleistungen (Recht, Ethik, 
+Herausforderungen, 
+Pflegebedürftigkeit)
+Referat od. Portfolio 
+schr.P 60 min 
+Theoretisch (2 SWS):
+Theorien von Kommunikation 
+und Interaktion
+Modelle von Beratung und 
+Edukation 
+Methodisch (4 SWS):
+Einüben von Gesprächs-, 
+Frage- und, 
+Analysetechniken z.B. Geno- 
+und Soziogramm
+Portfolio 
+Poster (Forschungsplan)
+Poster (Forschungsplan)
+Rechercheprotokoll
+Grundlagen in deskriptiver und 
+schließender Statistik
+(5 ECTS/2 SWS)
+Grundlagen qualitativer 
+empirischer Sozialforschung
+(5 ECTS/2 SWS)
+ethische Fallanalyse
+Portfolio 
+M : Gesundheitspolitische, 
+ökonomische, und rechtliche 
+Rahmenbedingungen für 
+Pflege- und Sozialsystem 
+(5 ECTS/2 SWS)
+M : Techniken für 
+wissenschaftliches Arbeiten 
+und Schreiben
+(5 ECTS/3 SWS)
+Referat
+Exzerpt od. Portfolio
+70
+B.Sc.
+210
+Pflegewissenschaft
+7
+M : Konzepte für selbst-
+gesteuertes Lernen verstehen 
+und umsetzen
+(5 ECTS/2 SWS)
+M : Bachelorarbeit (10 ECTS/2 SWS)
+M: Begleitseminar zur 
+Bachelorarbeit 
+(5 ECTS/1SWS)
+Bachelorarbeit
+6
+M: Grundlagen von Wissenstransfer und Praxisforschung 
+(10 ECTS/4 SWS)
+M : Organisations- und Praxisentwicklung in pflegerischen 
+Settings (10 ECTS/7 SWS)
+Fallanalyse 
+Studienarbeit
+5
+M : Diagnostik und Klassifikation komplexer Pflegeprozesse 
+(10 ECTS/6 SWS)
+Studienarbeit 
+4
+M : Beratung und Edukation durch Pflege (10 ECTS/6 SWS)
+3
+M : Einführung in Pflege- und Versorgungsforschung 
+(10 ECTS/4 SWS)
+M : Praxismodul 1
+Angewandte Verfahren 
+quantitativer Pflegeforschung
+(5ECTS/2 SWS)
+M : Einführung in die 
+Literaturrecherche
+(5 ECTS/3 SWS)
+schr.P 90min
+20
+20
+20
+20
+M : Einführung in Methoden der empirischen Sozialforschung 
+(10 ECTS/4 SWS
+20
+20
+Referat
+M : Grundlagen der Didaktik 
+und Pädagogik für Schulung, 
+Beratung, Anleitung
+(5 ECTS/2 SWS)
+M : Praxismodul 2 
+Angewandte Verfahren 
+qualitativer Pflegeforschung
+(5 ECTS/2 SWS)
+Studienarbeit 
+M : Ethik und Antropologie 
+Pflege (5 ECTS/3 SWS)
+Studium Pro:
+M Grund- und Grenzfragen 
+medizinischer Ethik 
+(5 ECTS/2 SWS)
+2
+1
+M : Theoretische Grundlagen professionellen Handelns in der 
+Pflege
+(10 ECTS/6 SWS)
+20
+ mdl.P 30min 
+Anrechnung durch die Ausbildung erworbener Kompetenzen
+
+[Page 3]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+3 
+ 
+ 
+Inhaltsverzeichnis 
+Anrechnungsmodule 
+................................................................................................................................ 4 
+Pflege von Menschen aller Altersstufen (Semester 1) ............................................................................ 4 
+Ethische Entscheidungen in der Pflegepraxis (Semester 2) 
+................................................................... 5 
+Grundlagen der Pflegeprozessplanung (Semester 3) 
+............................................................................. 6 
+Beratung und Information in der Pflegepraxis (Semester 4) 
+................................................................... 7 
+Analoge und digitale Pflegedokumentations- und Assistenzsysteme (Semester 5) 
+............................... 8 
+Erfassen Pflegebedarf, Maßnahmenplanung und Qualitätssicherung (Semester 6) 
+.............................. 9 
+Schulungsprogramme entwickeln, anwenden, umsetzen (Semester 7) ............................................... 10 
+Modul 
+Theoretische Grundlagen professionellen Handelns in der Pflege 
+....................................... 11 
+Modul 
+Gesundheitspolitische, ökonomische und rechtliche Rahmen-bedingungen für Pflege- und 
+Sozialsystem 
+.......................................................................................................................... 13 
+Modul 
+Techniken für wissenschaftliches Arbeiten und Schreiben ................................................... 15 
+Modul 
+Ethik und Anthropologie ........................................................................................................ 17 
+Modul 
+Grund- und Grenzfragen medizinischer Ethik- Studium Pro ................................................. 19 
+Modul 
+Einführung in Methoden der empirischen Sozialforschung 
+................................................... 21 
+Modul 
+Einführung in Pflege- und Versorgungsforschung 
+................................................................. 23 
+Modul 
+Einführung in die Literaturrecherche ..................................................................................... 25 
+Modul 
+Praxismodul 1: Angewandte Verfahren quantitativer Pflegeforschung 
+................................. 27 
+Modul 
+Praxismodul 2: Angewandte Verfahren qualitativer Pflegeforschung ................................... 29 
+Modul 
+Beratung und Edukation durch Pflege 
+................................................................................... 31 
+Modul 
+Grundlagen der Didaktik und Pädagogik für Schulung, Beratung und Anleitung ................. 33 
+Modul 
+Diagnostik und Klassifikation komplexer Pflegebedarfe ....................................................... 35 
+Modul 
+Migration und Kultursensibilität in der Pflege ........................................................................ 37 
+Modul 
+Digitalisierung und Technisierung in der Pflege 
+.................................................................... 39 
+Modul 
+Grundlagen von Wissenstransfer und Praxisforschung ........................................................ 41 
+Modul 
+Organisations- und Praxisentwicklung in pflegerischen Settings 
+.......................................... 43 
+Modul 
+Konzepte für selbstgesteuertes Lernen verstehen und umsetzen 
+........................................ 45 
+Modul 
+Begleitseminar zur Bachelorarbeit......................................................................................... 47 
+Modul 
+Bachelorthesis ....................................................................................................................... 49 
+ 
+ 
+ 
+
+[Page 4]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+4 
+ 
+Anrechnungsmodule 
+Pflege von Menschen aller Altersstufen (Semester 1) 
+Ausbildungsschwerpunkt 
+Pflege von Menschen aller Altersstufen 
+Engl. 
+Nursing care of persons of all ages 
+Qualifikationsstufe 
+DQR Stufe 4 staatliche Prüfung1 
+Leistungspunkte Anrechnung 
+10 ECTS 
+Erworbene Kompetenzen2 
+• 
+Die Pflege von Menschen aller Altersstufen verantwortlich 
+planen, organisieren, gestalten, durchführen, steuern und 
+evaluieren (PflAPrV Anlage 2 I/1 a-h: 35). 
+• 
+Die Pflege von Kindern und Jugendlichen verantwortlich 
+planen, organisieren, gestalten, durchführen, steuern und 
+evaluieren (PflAPrV Anlage 3 I/1 a-h: 41). 
+• 
+Die Pflege von alten Menschen verantwortlich planen, 
+organisieren, gestalten, durchführen, steuern und bewerten 
+(PflAPrV Anlage 4 I/1 a-h: 47). 
+• 
+In lebensbedrohlichen sowie in Krisen- oder 
+Katastrophensituationen zielgerichtet handeln (PflAPrV Anlage 
+2 I/4 a-c: 37, Anlage 3 I/4 a-c: 42, Anlage 4 I/4, a-d: 48). 
+• 
+Ärztliche Anordnungen im Pflegekontext eigenständig 
+durchführen PflAPrV Anlage 2 III/2 a-f: 39, Anlage 3 III/2 a-f: 
+44-45, Anlage 4 III/2 a-f: 50). 
+• 
+Verantwortung für die Entwicklung (lebenslanges Lernen) der 
+eigenen Persönlichkeit sowie das berufliche Selbstverständnis 
+übernehmen. (PflAPrV Anlage 2 V/2 a-g: 40-41, Anlage 3 V/2 
+a-g: 46, Anlage 4 V/2 a-g: 51-52). 
+Inhalte 
+Rahmenpläne der Fachkommission nach § 53 PflBG, 20193 
+Lehr- und Lernformen 
+Pflicht- und Wahlpflichteinsätze in der Ausbildung im Gesamtumfang 
+von 2500 h plus 2100 h theoretischer Unterricht in den 
+Berufsfachschulen 
+Voraussetzung für die 
+Anrechnung der ECTS-Punkte 
+Studien- und Prüfungsordnung für den Bachelorstudiengang 
+Pflegewissenschaft an der Katholischen Universität Eichstätt-
+Ingolstadt vom 21.05. 2021; § 3 Aufbau des Studiums, 
+Regelstudienzeit, Praktische Studienanteile 
+ 
+ 
+ 
+ 
+ 
+1 DQR (Deutscher Qualifikationsrahmen) Niveau 4 beschreibt Kompetenzen zur selbständigen Planung und Bearbeitung fachlicher 
+Aufgabenstellungen in einem umfassenden, sich verändernden Lernbereich oder beruflichen Tätigkeitsfeld 
+(https://www.dqr.de/content/2315.php). 
+2 Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung, sonstiger 
+weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder einer berufspraktischen Tätigkeit erworben wurden. Es gilt die 
+Ausbildungs- und Prüfungsverordnung für die Pflegeberufe*(Pflegeberufe-Ausbildungs- und -Prüfungsverordnung - PflAPrV) 
+Ausfertigungsdatum: 02.10.2018. Geändert durch Art. 10 G v. 19.5.2020 I 1018. URL: https://www.gesetze-im-
+internet.de/pflaprv/PflAPrV.pdf. Eingesehen am 29.06.2021. 
+Anlage 2 Kompetenzen für die staatliche Prüfung nach § 9 zur Pflegefachfrau oder zum Pflegefachmann 
+Anlage 3 Kompetenzen für die staatliche Prüfung nach § 26 zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits- 
+und Kinderkrankenpfleger 
+Anlage 4 Kompetenzen für die staatliche Prüfung nach § 28 zur Altenpflegerin oder zum Altenpfleger 
+3 Rahmenpläne der Fachkommission nach § 53 PflBG, 2019 URL: 
+https://www.bibb.de/dokumente/pdf/geschst_pflgb_rahmenplaene-der-fachkommission.pdf. 15.05.2020. 
+ 
+
+[Page 5]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+5 
+ 
+Ethische Entscheidungen in der Pflegepraxis (Semester 2) 
+Ausbildungsschwerpunkt 
+Ethische Entscheidungen in der Pflegepraxis 
+Engl. 
+Ethical decision making in nursing care 
+Qualifikationsstufe 
+DQR Stufe 4 staatliche Prüfung 
+Leistungspunkte Anrechnung 
+10 ECTS 
+Erworbene Kompetenzen 
+• 
+Entwicklung und Autonomie in der Lebensspanne fördern 
+(PflAPrV Anlage 2 I/6 a-e: 37, Anlage 3 I/6 a-e: 43, Anlage 4 
+I/6 a-e: 48-49). 
+• 
+Ethisch reflektiert handeln (PflAPrV Anlage 2 II/3 a-c: 38, 
+Anlage 3 II/3 a-c: 44, Anlage 4 II/3 a-c: 49). 
+• 
+Das eigene Handeln auf der Grundlage von Gesetzen, 
+Verordnungen und ethischen Leitlinien reflektieren und 
+begründen: 
+- 
+Die Qualität der pflegerischen Leistungen und der 
+Versorgung in den verschiedenen Institutionen 
+sicherstellen. (PflAPrV Anlage 2 IV/1 a-d: 40, Anlage 3 
+IV/1 a-d: 45, Anlage 4 IV/1 a-d: 50-51). 
+- 
+Versorgungskontexte und Systemzusammenhänge im 
+Pflegehandeln berücksichtigen und dabei ökonomische 
+und ökologische Prinzipien beachten (PflAPrV Anlage 2 
+IV/2 a-e: 40, Anlage 3 IV/2 a-e: 45-46, Anlage 4 IV/2 a-e: 
+51). 
+Inhalte 
+Rahmenpläne der Fachkommission nach § 53 PflBG, 2019 
+Lehr- und Lernformen 
+Pflicht- und Wahlpflichteinsätze in der Ausbildung im Gesamtumfang 
+von 2500 h plus 2100 h theoretischer Unterricht in den 
+Berufsfachschulen 
+Voraussetzung für die 
+Anrechnung der ECTS-Punkte 
+Studien- und Prüfungsordnung für den Bachelorstudiengang 
+Pflegewissenschaft an der Katholischen Universität Eichstätt-
+Ingolstadt vom 21.05. 2021; § 3 Aufbau des Studiums, 
+Regelstudienzeit, Praktische Studienanteile 
+ 
+ 
+
+[Page 6]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+6 
+ 
+Grundlagen der Pflegeprozessplanung (Semester 3) 
+Ausbildungsschwerpunkt 
+Grundlagen Pflegeprozessplanung Pflegepraxis 
+Engl. 
+Basics of nursing care process 
+Qualifikationsstufe 
+DQR Stufe 4 staatliche Prüfung 
+Leistungspunkte Anrechnung 
+10 ECTS 
+Erworbene Kompetenzen 
+• 
+Pflegeprozesse und Pflegediagnostik bei Menschen aller 
+Altersstufen mit gesundheitlichen Problemlagen planen, 
+organisieren, gestalten, durchführen, steuern und evaluieren 
+unter dem besonderen Fokus von Gesundheitsförderung und 
+Prävention (PflAPrV Anlage 2 I/2 a-f: 36, Anlage 3 I/2 a-f: 42, 
+Anlage 4 I/2 a-f: 47). 
+• 
+Pflegeprozesse und Pflegediagnostik von Menschen aller 
+Altersstufen in hoch belasteten und kritischen 
+Lebenssituationen verantwortlich planen, organisieren, 
+gestalten, durchführen, steuern und evaluieren (PflAPrV 
+Anlage 2 I/3 a-f: 36). Pflegeprozesse und Pflegediagnostik von 
+Kindern und Jugendlichen in hoch belasteten und kritischen 
+Lebenssituationen verantwortlich planen, organisieren, 
+gestalten, durchführen, steuern und evaluieren (PflAPrV 
+Anlage 3 I/3 a-f: 42). Pflegebedarfe von alten Menschen 
+erkennen und Pflege von alten Menschen in hochbelasteten 
+und kritischen Lebenssituationen verantwortlich planen, 
+organisieren, gestalten, durchführen, steuern und bewerten 
+(PflAPrV Anlage 4 I/3 a-f: 47-48). 
+• 
+Pflege bei alten Menschen mit gesundheitlichen Problemlagen 
+planen, organisieren, gestalten, durchführen, steuern und 
+bewerten unter dem besonderen Fokus von 
+Gesundheitsförderung und Prävention (PflAPrV Anlage 4 I/2 a-
+f: 47). 
+• 
+Pflegehandeln an aktuellen wissenschaftlichen Erkenntnissen, 
+insbesondere an pflegewissenschaftlichen 
+Forschungsergebnissen, Theorien und Modellen ausrichten 
+(PflAPrV Anlage 2 V/1 a-d: 40, Anlage 3 V/1 a-d: 46) Auf der 
+Grundlage von pflege- und bezugswissenschaftlichen 
+Erkenntnissen, ethischen Grundsätzen und beruflichen 
+Aufgaben handeln (PflAPrV Anlage 4 V/1 a-c: 51). 
+Inhalte 
+Rahmenpläne der Fachkommission nach § 53 PflBG, 2019 
+Lehr- und Lernformen 
+Pflicht- und Wahlpflichteinsätze in der Ausbildung im Gesamtumfang 
+von 2500 h plus 2100 h theoretischer Unterricht in den 
+Berufsfachschulen 
+Voraussetzung für die 
+Anrechnung der ECTS-Punkte 
+Studien- und Prüfungsordnung für den Bachelorstudiengang 
+Pflegewissenschaft an der Katholischen Universität Eichstätt-
+Ingolstadt vom 21.05. 2021; § 3 Aufbau des Studiums, 
+Regelstudienzeit, Praktische Studienanteile 
+ 
+ 
+
+[Page 7]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+7 
+ 
+Beratung und Information in der Pflegepraxis (Semester 4) 
+Ausbildungsschwerpunkt 
+Beratung und Information in der Pflegepraxis 
+Engl. 
+Councelling and information provision in nursing practice 
+Qualifikationsstufe 
+DQR Stufe 4 staatliche Prüfung 
+Leistungspunkte Anrechnung 
+10 ECTS 
+Erworbene Kompetenzen 
+• 
+Menschen aller Altersstufen bei der Lebensgestaltung 
+unterstützen, begleiten und beraten (PflAPrV Anlage 2 I/5 a-d: 
+37). Kinder und Jugendliche bei der Lebensgestaltung 
+unterstützen, begleiten und beraten (PflAPrV Anlage 3 I/5 a-d: 
+43). Alte Menschen bei der Lebensgestaltung unterstützen, 
+begleiten und beraten (PflAPrV Anlage 4 I/5 a-d: 48). 
+• 
+Kommunikation und Interaktion mit Menschen aller 
+Altersstufen und ihren Bezugspersonen personen- und 
+situationsbezogen gestalten und eine angemessene 
+Information sicherstellen (PflAPrV Anlage 2 II/1 a-g: 38) 
+Kommunikation und Interaktion mit Kindern und Jugendlichen 
+und ihren Bezugspersonenpersonen- und situationsbezogen 
+gestalten und eine angemessene Informationsicherstellen 
+(PflAPrV Anlage 3 II/1 a-g: 43). Kommunikation und Interaktion 
+mit alten Menschen und ihren Bezugspersonen personen- und 
+situationsbezogen gestalten und eine angemessene 
+Information sicherstellen (PflAPrV Anlage 4 II/1 a-g: 49). 
+Inhalte 
+Rahmenpläne der Fachkommission nach § 53 PflBG, 2019 
+Lehr- und Lernformen 
+Pflicht- und Wahlpflichteinsätze in der Ausbildung im Gesamtumfang 
+von 2500 h plus 2100 h theoretischer Unterricht in den 
+Berufsfachschulen 
+Voraussetzung für die 
+Anrechnung der ECTS-Punkte 
+Studien- und Prüfungsordnung für den Bachelorstudiengang 
+Pflegewissenschaft an der Katholischen Universität Eichstätt-
+Ingolstadt vom 21.05. 2021; § 3 Aufbau des Studiums, 
+Regelstudienzeit, Praktische Studienanteile 
+ 
+ 
+
+[Page 8]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+8 
+ 
+Analoge und digitale Pflegedokumentations- und Assistenzsysteme (Semester 5) 
+Ausbildungsschwerpunkt 
+Analoge- und digitale Pflegedokumentations- und Assistenzsysteme 
+Engl. 
+Print and digital nursing documentation and assisting systems 
+Qualifikationsstufe 
+DQR Stufe 4 staatliche Prüfung 
+Leistungspunkte Anrechnung 
+10 ECTS 
+Erworbene Kompetenzen 
+• 
+Mit Bezug zu „Pflege von Menschen aller Altersgruppen, 
+Kinder, und Jugendlichen und alten Menschen verantwortlich 
+planen, organisieren, gestalten, durchführen, steuern und 
+evaluieren“: 
+- 
+nutzen allgemeine und spezifische Assessmentverfahren 
+bei Menschen aller Altersstufen und beschreiben den 
+Pflegebedarf unter Verwendung von pflegediagnostischen 
+Begriffen (PflAPrV Anlage 2 I/1c: 35, Anlage 3 I/1c :41, 
+Anlage 4 I/1c: 47). 
+- 
+nutzen analoge und digitale Pflegedokumentations-
+systeme, um ihre Pflegeprozessentscheidungen in der 
+Pflege von Menschen aller Altersstufen selbständig und im 
+Pflegeteam zu evaluieren (PflAPrV Anlage 2 I/1f: 35, 
+Anlage 3 I/1c: 41, Anlage 4 I/1c: 47), 
+• 
+Mit Bezug zu „Entwicklung und Autonomie in der Lebens-
+spanne fördern“: 
+- 
+tragen durch rehabilitative Maßnahmen und durch die 
+Integration technischer Assistenzsysteme zum Erhalt und 
+zur Wiedererlangung der Alltagskompetenz von Menschen 
+aller Altersstufen bei und reflektieren die Potenziale und 
+Grenzen technischer Unterstützung (PflAPrV Anlage 2 
+I/6c: 37, Anlage 3 I/6c: 43, Anlage 4 I/6c: 49). 
+• 
+Mit Bezug zu „Versorgungskontexte und 
+Systemzusammenhänge im Pflegehandeln berücksichtigen 
+und dabei ökonomische und ökologische Prinzipien beachten“ 
+- 
+erfassen den Einfluss gesamtgesellschaftlicher 
+Veränderungen, ökonomischer Anforderungen, 
+technologischer sowie epidemiologischer und 
+demografischer Entwicklungen auf die 
+Versorgungsverträge und Versorgungsstrukturen im 
+Gesundheits- und Sozialsystem (PflAPrV Anlage 2 IV/2b: 
+40, Anlage 3 IV/2b: 46, Anlage 4 IV/2b: 51). 
+Inhalte 
+Rahmenpläne der Fachkommission nach § 53 PflBG, 2019 
+Lehr- und Lernformen 
+Pflicht- und Wahlpflichteinsätze in der Ausbildung im Gesamtumfang 
+von 2500 h plus 2100 h theoretischer Unterricht in den 
+Berufsfachschulen 
+Voraussetzung für die 
+Anrechnung der ECTS-Punkte 
+Studien- und Prüfungsordnung für den Bachelorstudiengang 
+Pflegewissenschaft an der Katholischen Universität Eichstätt-
+Ingolstadt vom 21.05. 2021; § 3 Aufbau des Studiums, 
+Regelstudienzeit, Praktische Studienanteile 
+ 
+ 
+
+[Page 9]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+9 
+ 
+Erfassen Pflegebedarf, Maßnahmenplanung und Qualitätssicherung (Semester 6) 
+Ausbildungsschwerpunkt 
+Erfassen Pflegebedarf, Maßnahmenplanung, Qualitätssicherung 
+Engl. 
+Needs assessment of nursing care, plan of action, quality insurance 
+Qualifikationsstufe 
+DQR Stufe 4 staatliche Prüfung 
+Leistungspunkte Anrechnung 
+10 ECTS 
+Erworbene Kompetenzen 
+• 
+Verantwortung in der Organisation des qualifikations-
+heterogenen Pflegeteams übernehmen (PflAPrV Anlage 2 III/1 
+a-f: 39, Anlage 3 III/1 a-f: 44, Anlage 4 III/1 a-f: 49-50). 
+• 
+In interdisziplinären Teams an der Versorgung und 
+Behandlung von Menschen aller Altersstufen mitwirken und 
+Kontinuität an Schnittstellen sichern (PflAPrV Anlage 2 III/3 a-
+f: 39). In interdisziplinären Teams an der Versorgung und 
+Behandlung von Kindern und Jugendlichen mitwirken und 
+Kontinuität an Schnittstellen sichern (PflAPrV Anlage 3 III/3 a-
+f: 45). In interdisziplinären Teams an der Versorgung und 
+Behandlung von alten Menschenmitwirken und Kontinuität an 
+Schnittstellen sichern (PflAPrV Anlage 4 III/3 a-f: 50) 
+• 
+Die Qualität der pflegerischen Leistungen und der Versorgung 
+in den verschiedenen Institutionen sicherstellen (PflAPrV 
+Anlage 2 IV/1 a-d: 39, Anlage 3 IV/1 a-d: 45, Anlage 4 IV/1 a-
+d :50). 
+Inhalte 
+Rahmenpläne der Fachkommission nach § 53 PflBG, 2019 
+Lehr- und Lernformen 
+Pflicht- und Wahlpflichteinsätze in der Ausbildung im Gesamtumfang 
+von 2500 h plus 2100 h theoretischer Unterricht in den 
+Berufsfachschulen 
+Voraussetzung für die 
+Anrechnung der ECTS-Punkte 
+Studien- und Prüfungsordnung für den Bachelorstudiengang 
+Pflegewissenschaft an der Katholischen Universität Eichstätt-
+Ingolstadt vom 21.05. 2021; § 3 Aufbau des Studiums, 
+Regelstudienzeit, Praktische Studienanteile 
+ 
+ 
+
+[Page 10]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+10 
+ 
+Schulungsprogramme entwickeln, anwenden, umsetzen (Semester 7) 
+Ausbildungsschwerpunkt 
+Schulungsprogramme entwickeln, anwenden, umsetzen 
+Engl. 
+deployment, application and implementation of programmes of training 
+and education 
+Qualifikationsstufe 
+DQR Stufe 4 staatliche Prüfung 
+Leistungspunkte Anrechnung 
+10 ECTS 
+Erworbene Kompetenzen 
+• 
+Information, Schulung und Beratung bei Menschen aller 
+Altersstufen verantwortlich organisieren, gestalten, steuern 
+und evaluieren (PflAPrV Anlage 2 II/2 a-d:38). Information, 
+Schulung und Beratung bei Kindern und Jugendlichen 
+verantwortlich organisieren, gestalten, steuern und evaluieren 
+(PflAPrV Anlage 3 II/2 a-d: 44). Information, Schulung und 
+Beratung bei alten Menschen verantwortlich organisieren, 
+gestalten, steuern und bewerten (PflAPrV Anlage 4 II/2 a-d: 
+49). 
+• 
+Mit Bezug zu „Pflegeprozesse und Pflegediagnostik bei 
+Menschen aller Altersstufen mitgesundheitlichen 
+Problemlagen planen, organisieren, gestalten, durchführen, 
+steuern und evaluieren unter dem besonderen Fokus von 
+Gesundheitsförderung und Prävention“ 
+- 
+stärken die Kompetenzen von Angehörigen im Umgang 
+mit pflegebedürftigen Menschen aller Altersstufen und 
+unterstützen und fördern die Familiengesundheit (PflAPrV 
+Anlage 2 I/2c: 36, Anlage 3 I/2c: 42, Anlage 4 I/2c:47) 
+• 
+Mit Bezug zu „Kommunikation und Beratung personen- und 
+situationsorientiert gestalten“. 
+- 
+setzen Schulungen mit Einzelpersonen und kleineren 
+Gruppen zu pflegender Menschen aller Altersstufen um 
+(PflAPrV Anlage 2 II/2b: 38), … mit Kindern und 
+Jugendlichen und/oder ihren Bezugspersonen (PflAPrV 
+Anlage 3 II/2b: 44), … alten Menschen (PflAPrV Anlage 4 
+II/2b: 49). 
+Inhalte 
+Rahmenpläne der Fachkommission nach § 53 PflBG, 2019 
+Lehr- und Lernformen 
+Pflicht- und Wahlpflichteinsätze in der Ausbildung im Gesamtumfang 
+von 2500 h plus 2100 theoretischer Unterricht in den 
+Berufsfachschulen 
+Voraussetzung für die 
+Anrechnung der ECTS-Punkte 
+Studien- und Prüfungsordnung für den Bachelorstudiengang 
+Pflegewissenschaft an der Katholischen Universität Eichstätt-
+Ingolstadt vom 21.05. 2021; § 3 Aufbau des Studiums, 
+Regelstudienzeit, Praktische Studienanteile 
+ 
+ 
+
+[Page 11]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+11 
+ 
+Modul 
+Theoretische Grundlagen professionellen Handelns in der Pflege 
+Modulbezeichnung 
+M Theoretische Grundlagen professionellen Handelns in der Pflege 
+Modulbezeichnung (eng.) 
+M Principles of professional nursing 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+10 
+Kompetenzen 
+ 
+ 
+Die Studierenden 
+• 
+kennen die Genese des Begriffs „Pflege“ - „pflegen“. 
+• 
+kennen die wichtigsten Entwicklungslinien in der Pflege, 
+können diese historisch nachvollziehen, national und 
+international vergleichen und gesellschaftlich einordnen. 
+• 
+verfügen über Orientierungswissen zu Pflegetheorien, 
+Modellen und Konzepten und deren pflegewissenschaftlichen 
+Bezüge. 
+• 
+verstehen die immanente Handlungslogik von Theorien und 
+Modellen und können sie wissenschaftstheoretisch zuordnen. 
+• 
+verfügen über Orientierung zu unterschiedlichen 
+Ausdrucksformen menschlichen Wissens und verstehen deren 
+Bedeutung für eine Positionierung der Pflegewissenschaft als 
+Praxis- und Handlungswissenschaft. 
+• 
+bewerten die aktuelle Situation der Pflegeberufe in 
+Deutschland aus ihrer historischen und politischen 
+Entwicklung kritisch. 
+• 
+reflektieren die Notwendigkeit akademischer Bildung in der 
+Pflege als grundlegend für die pflegerische 
+Versorgungsqualität kritisch. 
+• 
+analysieren und beurteilen ausgewählte aktuelle 
+Pflegetheorien hinsichtlich ihrer Praxisrelevanz und für den 
+Einsatz in pflegerischen Tätigkeitsfeldern. 
+• 
+können pflegerische Problemlagen und Phänomene in 
+wissenschaftliche Fragestellungen transferieren. 
+• 
+verstehen sich als Angehörige eines sich 
+professionalisierenden Berufsstandes mit einem eigenen 
+gesellschaftlichen Auftrag zur Gesunderhaltung der 
+Bevölkerung und einem daraus resultierenden politischen 
+Auftrag. 
+• 
+entwickeln potentielle Handlungsfelder aus beruflichen 
+Problemstellungen und begründen und argumentieren diese 
+mit Bezug auf wissenschaftliche Erkenntnisse. 
+Inhalte 
+• 
+Unterschiedliche Settings „wo findet Pflege statt“ 
+• 
+Lebensphasen und Entwicklung, eigene Person 
+• 
+Grundzüge von Professionalisierungsprozessen in der Pflege 
+national/international: Entwicklung der Pflegeberufe und ihre 
+gesellschaftliche Einbettung in Deutschland im 20. 
+
+[Page 12]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+12 
+ 
+Jahrhundert, Entwicklung vom Heilhilfsberuf zur Profession, 
+Verkammerung der Pflege 
+• 
+Pflegeforschung und Pflegewissenschaft Historie und 
+Entwicklung 
+• 
+Dimensionen der Wissensentwicklung 
+• 
+Theoretische und konzeptionelle Grundlagen zu Gesundheit, 
+Krankheit, Gesundheitsverhalten und Gesundheitsförderung 
+• 
+Pflegebedürftigkeit wissenschaftlich betrachtet 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Vorlesung (VL): 2 SWS 
+Seminar (SE): 4 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+mündliche Prüfung (mdl.P) über 30 Min 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 300 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Kontakt-/Selbststudium in der Vorlesung: 60 h (2 ECTS-Punkte) 
+- 
+regelmäßige und aktive Teilnahme am Seminar: 120 h (4 ECTS-
+Punkte) 
+- 
+Vor- und Nachbereitung (umfasst freiwillige Studienleistungen): 
+- 
+60 h (2 ECTS-Punkte) 
+- 
+Vorbereitung Leistungsnachweis: 60 h (2 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+WS 
+Beteiligte Fachgebiete 
+Keine 
+Bemerkungen 
+Zuordnung FQR Pflege4 2013 
+ 
+ 
+ 
+ 
+ 
+4 Hülsken-Giesler M., Korporal J. (2013) Fachqualifikationsrahmen Pflege für die Hochschulische Bildung 
+
+[Page 13]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+13 
+ 
+Modul 
+Gesundheitspolitische, ökonomische und rechtliche Rahmen-
+bedingungen für Pflege- und Sozialsystem 
+Modulbezeichnung 
+M Gesundheitspolitische, ökonomische und rechtliche 
+Rahmenbedingungen für Pflege- und Sozialsystem 
+Modulbezeichnung (eng.) 
+M Health policy and effects on nursing practice and nursing care 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Stefan Schieren 
+Leistungspunkte (ECTS-Punkte) 
+5 
+Kompetenzen 
+Die Studierenden 
+• 
+kennen Berufsorganisationen und können Prinzipien der 
+Berufs- und Gesundheitspolitik im Pflegekontext 
+nachvollziehen. 
+• 
+kennen die grundlegenden Begriffe und Strukturen des 
+deutschen Gesundheitswesens und der Gesundheitspolitik 
+sowie die einflussnehmenden Wissenschaften. 
+• 
+kennen die wesentlichen Funktionen im Management von 
+gesundheitsbezogenen Einrichtungen. 
+• 
+können Gesundheitssysteme klassifizieren und internationale 
+Vergleiche herstellen. 
+• 
+entwickeln Konzepte zur Vernetzung von gesundheitlicher 
+bzw. medizinischer Versorgung und Globalisierung in Medizin, 
+Pflege und Rehabilitation. 
+• 
+kennen die wesentlichen Märkte, Prozesse, Finanzierungs- 
+und Informationsflüsse im Gesundheitswesen und können 
+diese auf bestehende Institutionen übertragen. 
+• 
+reflektieren ihr berufliches Handeln vor dem Hintergrund 
+gesundheitswirtschaftlicher Strukturen. 
+Inhalte 
+• 
+Akteure und Strukturen des deutschen Gesundheitssystems 
+und Grundlagen der Gesundheitspolitik 
+• 
+Historische Entwicklung des deutschen Gesundheitssystems 
+• 
+Grundprinzipien der sozialen Sicherung 
+• 
+Organisation und Finanzierung von Leistungen im Rahmen 
+der Sozialgesetzgebung 
+• 
+Gesundheitsökonomie und Management im 
+Gesundheitswesen 
+• 
+Kosten- und Nutzenbewertung im deutschen 
+Gesundheitswesen 
+• 
+Problemfelder im Gesundheitswesen 
+• 
+Rechtliche Grundlagen und Institutionen im 
+Gesundheitswesen 
+• 
+Prinzip der Selbstverwaltung 
+• 
+Verbände und Fachgesellschaften 
+• 
+Übersicht und Bewertung internationaler Gesundheitssysteme 
+
+[Page 14]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+14 
+ 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminaristischer Unterricht (SU): 2 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Referat 30 min 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 150 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme/Selbststudium am Seminar: 
+60 h (2 ECTS-Punkte) 
+- 
+Vor- und Nachbereitung (umfasst freiwillige Studienleistungen): 60 
+h (2 ECTS-Punkte) 
+- 
+Vorbereitung Leistungsnachweis: 30 h (1 ECTS-Punkt) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+WS 
+Beteiligte Fachgebiete 
+BASA 
+Bemerkungen 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+
+[Page 15]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+15 
+ 
+Modul 
+Techniken für wissenschaftliches Arbeiten und Schreiben 
+Modulbezeichnung 
+M Wissenschaftliches Schreiben und Arbeiten 
+Modulbezeichnung (eng.) 
+M Scientific working and writing skills 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+5 
+Kompetenzen 
+Die Studierenden 
+• 
+verfügen über ein Orientierungswissen zum Umgang mit 
+wissenschaftlicher Literatur (Textverstehen, Textebenen und 
+hermeneutische Textarbeit). 
+• 
+verfügen über Kenntnisse zu Leseformen und Lesetechniken 
+und können zwischen Text-, Diskurs-, Kontext- und 
+Metaebene des Lesens unterscheiden. 
+• 
+verfügen über ein grundlegendes Verständnis von besonderen 
+Stilmitteln und Qualitätskriterien für wissenschaftliches 
+Arbeiten und wissenschaftliche Texte. 
+• 
+verfügen über Lese- und Analysetechniken, um 
+wissenschaftliche Texte zu markieren, zu exzerpieren und als 
+kontextuellen Beitrag für eigene Verschriftlichungen zu nutzen. 
+• 
+erhalten ein vertieftes Textverständnis, indem sie Lese- und 
+Analysetechniken im Seminar anwenden und deren 
+Bedeutungsinhalt fachlich mit Peergruppen diskutieren. 
+• 
+erstellen eigene Textentwürfe und referieren in der 
+Übungsveranstaltung. 
+• 
+reflektieren Textentwürfe, eigene und in Peergruppen 
+hinsichtlich getroffener Aussagen, Argumentationsaufbau und 
+Sprache. 
+• 
+halten Qualitätskriterien und Ansprüche an wissenschaftliches 
+Arbeiten in Haus- und Seminararbeiten ein. 
+• 
+sind sich bewusst, dass plagiieren als wissenschaftliches 
+Fehlverhalten gilt und Sanktionen nach sich zieht. 
+• 
+achten auf das Einhalten formaler und inhaltlicher Standards 
+in eigenen Textentwürfen, Hausarbeiten und Qualifikations-
+arbeiten. 
+Inhalte 
+• 
+Techniken wissenschaftlichen Arbeitens und Schreibprojekte 
+• 
+Lesetechniken, Ebenen des Lesens, Methoden der 
+Textanalyse und Textwiedergabe (Thesenpapier, Exzerpt, 
+Abstract, Exposé, Proposal, Protokoll, Rezension) 
+• 
+Bauplan wissenschaftlicher Arbeiten 
+• 
+Inhaltlicher und formaler Anspruch an Seminar-, Haus- und 
+Qualifikationsarbeiten, Themenwahl und Begründung, 
+Themeneingrenzung, Fragestellung formulieren 
+• 
+Stilmittel (Argumentieren, Gendermainstreaming, Ich-Bezug, 
+Formulierungshilfen, …) 
+• 
+Rechte und Pflichten für Autorinnen und Autoren 
+
+[Page 16]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+16 
+ 
+• 
+Bibliographieren und Zitieren (Einbinden von Literatur und 
+(Fremd-)Texten, Plagiat, Zitation, Quellennachweis im Text, 
+das Literaturverzeichnis 
+• 
+Veröffentlichen, Visualisieren und Präsentieren 
+wissenschaftlicher Ergebnisse (Vortrag, Referat, Handout, 
+Ergebnisdarstellung, Kongressbeitrag, Poster, …) 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminar (SE): 1 SWS 
+Übung (UE): 2 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Exzerpt oder Portfolio 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 150 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Kontakt-/Selbststudium am Seminar: 30 h (1 ECTS-Punkt) 
+- 
+Regelmäßige und aktive Teilnahme an der Übung: 60h (2 ECTS-
+Punkte) 
+- 
+Vorbereitung Leistungsnachweis: 60 h (2 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+WS 
+Beteiligte Fachgebiete 
+Learning Lab der KU 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 17]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+17 
+ 
+Modul 
+Ethik und Anthropologie 
+Modulbezeichnung 
+M Ethik und Anthropologie 
+Modulbezeichnung (eng.) 
+M Ethics and anthropology 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Fakultät für Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Alexis Fritz 
+Leistungspunkte (ECTS-Punkte) 
+5 
+Kompetenzen 
+Die Studierenden 
+• 
+verfügen über Orientierungswissen zu Begriffen wie Moral, 
+moralisches Verhalten, Ethik, ethisch begründete 
+Entscheidungen sowie zu Theorien, Modellen und Konzepten 
+der Ethik. 
+• 
+verstehen, dass pflegendes Handeln und Entscheiden an 
+ethische Voraussetzungen gebunden ist. 
+• 
+wissen und verstehen, dass Kenntnisse von Grund- und 
+Menschenrechten grundlegend für die Bildung eines 
+professionellen Selbstverständnisses für pflegen sind. 
+• 
+verfügen über grundlegende Kenntnis zu forschungsethischen 
+Problemstellungen und Positionen. 
+• 
+kennen Modelle angewandter Ethik, insbesondere der 
+Prinzipienethik. 
+• 
+kennen Regeln und Maßnahmen, um ethische Prinzipien im 
+Praxisalltag einzuhalten, z. B. informierte Einwilligung 
+(informed consent), individuell angepasste Maßnahmen der 
+Aufklärung, Ethikkomittee, Andere. 
+• 
+sind befähigt, pflegerische Verantwortung für ihr individuelles 
+und kollektives Handeln in konkreten Praxisbezügen zu 
+übernehmen. 
+• 
+können aus relevanten Problemstellungen der Pflegepraxis 
+ethische Entscheidungsfindungsprozesse anregen. 
+• 
+nehmen die individuelle Perspektive Betroffener wahr, stärken 
+diese und beziehen interdisziplinär Position auf deren 
+Grundlage (advocacy). 
+• 
+sind für ethische Belange in Forschungs- und Praxisvorhaben 
+sensibilisiert und beziehen diese adäquat in die Pflege- und 
+Versorgungsplanung ein. 
+• 
+reflektieren eigene Wertvorstellungen, die sich insbesondere 
+aus den Spannungsfeldern zwischen Fürsorge und Autonomie 
+ergeben. 
+Inhalte 
+• 
+Prinzipienethik nach Beauchamp und Childress (Respekt vor 
+Autonomie, Nichtschaden, Wohltun, Gerechtigkeit). Das 
+Prinzip der Menschenwürde; der Personenbegriff 
+• 
+Grundzüge der gegenwärtigen philosophischen und 
+theologischen Anthropologie; Menschenbilder 
+• 
+Berufsethische Grundhaltung Pflegender, Ethikkodex des 
+International Council of Nurses (ICN) 
+
+[Page 18]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+18 
+ 
+• 
+Rechtliche Aspekte: Grundrechte als Patientenrechte, Rechte 
+Pflegebedürftiger und Behinderter, Recht auf soziale und 
+politische Teilhabe, Patientenverfügungen, Vorsorgevollmacht 
+• 
+Grundlegende Aspekte einer Care Pflegeethik, Ethik im 
+Gesundheitswesen und Medizinethik 
+• 
+Grundlage der Forschungsethik und Stellen von Ethikanträgen 
+für pflegewissenschaftliche Forschung und Forschung im 
+Gesundheits- und Sozialwesen. 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminar (SE): 2 SWS 
+Übung (UE): 1 SWS 
+Exkursion 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Studienarbeit: ethische Fallanalyse 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 150 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme/Selbststudium am Seminar: 
+60h (3 ECTS-Punkte) 
+- 
+Regelmäßige und aktive Teilnahme oder Selbststudium an der 
+Übung: 30 h (2 ECTS-Punkte) 
+- 
+Vor- und Nachbereitung (umfasst freiwillige Studienleistungen): 
+30 h (1 ECTS-Punkt) 
+- 
+Vorbereitung Leistungsnachweis: 30h (1 ECTS-Punkt) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+SS 
+Beteiligte Fachgebiete 
+Theologische Fakultät/Moraltheologie 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 19]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+19 
+ 
+Modul 
+ 
+Grund- und Grenzfragen medizinischer Ethik- Studium Pro 
+Modulbezeichnung 
+M Grund- und Grenzfragen medizinischer Ethik 
+Modulbezeichnung (eng.) 
+M basic questions of applied ethics in medicine 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Fakultät für Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Alexis Fritz 
+Leistungspunkte (ECTS-Punkte) 
+5 
+Kompetenzen 
+Studierende 
+ 
+• 
+verfügen über ein Orientierungswissen zu Grund- und 
+Grenzfragen medizinischer Ethik 
+ 
+• 
+kennen Regeln und Maßnahmen, um ethische Prinzipien im 
+Praxisalltag einzuhalten, z. B. informierte Einwilligung 
+(informed consent), individuell angepasste Maßnahmen der 
+Aufklärung, Ethikkomittee, Andere. 
+• 
+reflektieren eigene Wertvorstellungen, die sich insbesondere 
+aus den Spannungsfeldern zwischen Fürsorge und Autonomie 
+ergeben. 
+ 
+Inhalte 
+Beim Studium Pro handelt es sich um die interdisziplinäre 
+Auseinandersetzung mit aktuellen Problemstellungen, durch die 
+qualifizierte Auseinandersetzung mit fachübergreifenden Themen oder 
+durch die projektbezogene Bearbeitung von aktuellen 
+gesellschaftlichen Themen und Herausforderungen. Dieses Modul 
+steht allen Studierenden der KU offen zur Teilnahme (Handreichung 
+zur Auswahl/Entwicklung von Modulen für die Bereiche Pro Horizont, 
+Pro Diskurs und Pro Gesellschaft der KU, k.A.) 
+• 
+Aktuelle ethische Fragen im Gesundheitswesen und speziell in 
+der Medizinethik 
+• 
+Aktuelle ethische Diskurse mit Herausforderungen aus 
+Digitalisierung und Technik, Datenschutz und 
+Selbstbestimmung, Hirntoddebatte, Therapiezieländerung, 
+Patientenverfügung, Vorsorgevollmacht 
+Institutionalisierungsformen der Ethik im Gesundheitswesen 
+(Ethikkommissionen, Ethikkomitees und Ethikberatung im 
+klinischen und außerklinischen Setting) 
+• 
+Stellen von Ethikanträgen 
+Formale Voraussetzungen für die 
+Teilnahme 
+keine spezialisierten Vorkenntnisse erforderlich 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminar (SE): 2 SWS davon ggf. 1 SWS für Exkursionen) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: Portfolio 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 150 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme/Selbststudium am Seminar: 
+60 h (2 ECTS-Punkte) 
+- 
+Vor- und Nachbereitung (umfasst freiwillige Studienleistungen): 
+90 h (3 ECTS-Punkte) 
+ 
+
+[Page 20]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+20 
+ 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+SS 
+Beteiligte Fachgebiete 
+Theologische Fakultät/ Moraltheologie 
+Bemerkungen 
+Studium Pro 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 21]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+21 
+ 
+Modul 
+Einführung in Methoden der empirischen Sozialforschung 
+Modulbezeichnung 
+M Einführung in Methoden der empirischen Sozialforschung 
+Modulbezeichnung (eng.) 
+M Introduction in methods of empirical social research 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+10 
+Kompetenzen 
+Die Studierenden 
+• 
+verfügen über grundlegende Kenntnisse zur historischen 
+Entwicklung und die wissenschaftstheoretischen Grundlagen 
+der empirischen Sozialforschung. 
+• 
+verfügen über grundlegende Kenntnisse in der quantitativen 
+Sozialforschung, der deskriptiven und in der schließenden 
+Statistik und der standardisierten Datenerhebung 
+(Beobachtung, Befragung, Inhaltsanalyse). 
+• 
+verfügen über grundlegende Kenntnisse in der qualitativen 
+Forschung und ihren Methoden der Datenerhebung. 
+• 
+verfügen über grundlegende Kenntnisse über alle Schritte des 
+Forschungsprozesses. 
+• 
+besitzen die Fähigkeit, die verschiedenen Methoden der 
+empirischen Sozialforschung systematisch zu vergleichen und 
+ihre Stärken und Schwächen zu beurteilen. 
+• 
+können das wissenschaftliche Verständnis quantitativer 
+Methodik darlegen. 
+• 
+kennen statistische Grundlagen (Variablen, Skalenniveaus, 
+Wahrscheinlichkeit, Hypothesen, Verzerrung und Kontrolle). 
+• 
+können das wissenschaftliche Verständnis qualitativer 
+Methoden darlegen. 
+• 
+kennen Verfahren qualitativer Datenerhebung (offen, 
+halbstandardisiert, Interviewtechniken, Beobachtung, …). 
+• 
+lernen in den Seminaren, durch Übungen an Praxisbeispielen 
+die Logik von Methoden der empirischen Datenerhebung, -
+aufbereitung und -analyse verstehen und anwenden. 
+• 
+sind aufgeschlossen gegenüber unterschiedlichen 
+wissenschaftstheoretischen Positionen und betrachten diese 
+als gleichberechtigte Wege der Erkenntnis. 
+Inhalte 
+• 
+Allgemeine Grundlagen und Ziele der empirischen 
+Sozialforschung 
+• 
+Übungen im Seminar zu Problembeschreibungen und zur 
+theoriegeleiteten Forschungsfrage im Forschungsprozess 
+• 
+Stärken und Schwächen unterschiedlicher quantitativer und 
+qualitativer Methoden der empirischen Sozialforschung 
+• 
+Übungen im Seminar zur deskriptiven Statistik, univariaten 
+und bivariaten Datenanalyse, Häufigkeitsverteilungen und 
+deren Darstellung 
+
+[Page 22]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+22 
+ 
+• 
+Qualitative Methoden der Datenerhebung: Übungen zu 
+Interviews, Beobachtung und Dokumentenanalyse im Seminar 
+• 
+Qualitative Datenanalyseverfahren 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminar (Se): 2 SWS 
+Übung (UE): 2 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: Referat 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 300 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme am Seminar: 60 h (2 ECTS-
+Punkte) 
+- 
+Regelmäßige und aktive Teilnahme an der Übung: 60 h (2 ECTS-
+Punkte) 
+- 
+Vor- und Nachbereitung (umfasst freiwillige Studienleistungen): 
+90 h (3 ECTS-Punkte) 
+- 
+Vorbereitung Leistungsnachweis: 90 h (3 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+SS 
+Beteiligte Fachgebiete 
+BASA 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 23]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+23 
+ 
+Modul 
+Einführung in Pflege- und Versorgungsforschung 
+Modulbezeichnung 
+M Einführung in Pflege- und Versorgungsforschung 
+Modulbezeichnung (eng.) 
+M Introduction to health care research in nursing 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+10 
+Kompetenzen 
+Die Studierenden 
+• 
+verfügen über Orientierungswissen wie pflegerische 
+Versorgungsforschung stattfindet und kennen den Unterschied 
+zwischen (pflegerischer) Versorgungsforschung und klinischer 
+Pflegeforschung. 
+• 
+identifizieren mögliche Problemlagen pflegerischer 
+Versorgungsforschung und entwickeln erste Fragestellungen. 
+• 
+analysieren unter der Berücksichtigung vorhandener 
+Versorgungsstrukturen und –prozesse, Ressourcen und 
+Rahmenbedingen, ethischen und epidemiologischen 
+Gesichtspunkten Aspekte der internen und der externen 
+Evidenz (aktuellen Studienlage) und die Relevanz für eine 
+angemessene Gesundheitsversorgung. 
+• 
+erkennen die Bedeutung der Ergebnisse für die Entwicklung 
+von interprofessionellen Handlungsleitungen und für 
+pflegerische Versorgungskonzepte und können diese 
+hinsichtlich ihrer Praxiswirksamkeit bewerten. 
+• 
+beurteilen Studiendesigns und Methoden kritisch hinsichtlich 
+Fragestellung und wissenschaftstheoretischen Überlegungen. 
+• 
+verfügen über ein grundlegendes Verständnis zur 
+Versorgungsforschung als fachübergreifendes 
+Forschungsgebiet, welches unter besonderer 
+Berücksichtigung der Patienten- und Populationsperspektive 
+die Verbesserung von Versorgungsstrukturen 
+und –prozessen in der Gesundheitsversorgung anstrebt. 
+• 
+reflektieren das eigene Gesundheitsverständnis. 
+Inhalte 
+• 
+Versorgungsforschung in den verschiedenen (pflegerischen) 
+Settings ambulant, stationär und teilstationär, klinisch, 
+rehabilitativ, palliativ und am Lebensende, Gemeinsamkeiten 
+und Unterschiede 
+• 
+Gesundheitsförderung und Prävention 
+• 
+Konzepte der „Patientenorientierung“ 
+• 
+Konzepte der pflegebezogenen Versorgungsforschung (z. B. 
+School Health Nurse, Community Health Nurse, Family Health 
+Nurse, Advanced Practice Nurse) 
+• 
+Neue Technologien und Digitalisierung in der 
+Versorgungsforschung 
+• 
+Kritische Beurteilung von Studien (Evidence Based Nursing 
+(EBN)) 
+
+[Page 24]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+24 
+ 
+• 
+Pflege- und Gesundheitsberichterstattung: Einführung in die 
+computergestützte Aufbereitung, Erfassung und Analyse von 
+Daten 
+Formale Voraussetzungen für die 
+Teilnahme 
+Erfolgreiche Teilnahme an dem Modul Einführung in Methoden der 
+empirischen Sozialforschung 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Onlinevorlesung (VL): 1 SWS 
+Seminar (SE): 3 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+schriftl. P 90 Min. 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 300 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Kontakt-/Selbststudium in der Vorlesung: 30 h (1 ECTS-Punkt) 
+- 
+Regelmäßige und aktive Teilnahme/Selbststudium am Seminar: 
+90 h (3 ECTS-Punkte) 
+- 
+Vor- und Nachbereitung (umfasst freiwillige Studienleistungen): 
+90 h (3 ECTS-Punkte) 
+- 
+Vorbereitung Leistungsnachweis: 90 h (3 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+WS 
+Beteiligte Fachgebiete 
+Keine 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 25]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+25 
+ 
+Modul 
+Einführung in die Literaturrecherche 
+Modulbezeichnung 
+M Einführung in die Literaturrecherche 
+Modulbezeichnung (eng.) 
+M Introduction to literature research 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelorstudiengang Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+5 
+Kompetenzen 
+Die Studierenden 
+• 
+erwerben Grundkenntnisse über Grundlagen und Methoden 
+systematischer Literaturrecherche. 
+• 
+verfügen über Orientierungswissen zu relevanten 
+Datenbanken für Sozial- und Gesundheitsberufe und deren 
+unterschiedliche Suchoberflächen. 
+• 
+verfügen über Orientierungswissen zu Möglichkeiten und 
+Programmen elektronischer Literaturverwaltung (z. B.: Citavi, 
+Endnote etc.). 
+• 
+können den Untersuchungsgegenstand bestimmen und eine 
+Übersichtsrecherche durchführen. 
+• 
+grenzen mithilfe der Rechercheergebnisse das Thema ein und 
+führen eine zunehmend systematische Recherche durch. 
+• 
+können eine dem Gegenstand angemessene Suchstrategie 
+entwickeln und diese in einem Suchprotokoll dokumentieren. 
+• 
+können sich fachlicher Kompendien, Periodika, Datenbanken 
+und Fachforen bedienen und Rechercheprozesse 
+quellenkritisch durchführen. 
+• 
+sind sich darüber bewusst, dass Literaturrecherchen für 
+wissenschaftliches Arbeiten als elementar betrachtet werden 
+und eine angemessene Recherche die Qualität einer 
+wissenschaftlichen Arbeit bestimmt. 
+• 
+erkennen, dass eine auf wissenschaftliche Ergebnisse 
+gestützte Argumentation ihre Professionalität im Praxisalltag 
+bestimmt. 
+Inhalte 
+• 
+Übungen im Seminar zum Entwickeln von Fragestellung, 
+Entwickeln von Suchstrategien, Literaturbeschaffung und 
+Bewertung der Veröffentlichungen 
+• 
+Übungen zur Auswahl von Suchhilfen, Festlegen von 
+Suchbegriffen 
+• 
+heranführen an die Literatursuche in Fachdatenbanken für 
+Sozial- und Gesundheitsberufe und deren unterschiedliche 
+Suchoberflächen 
+• 
+Dokumentation von Rechercheprozessen und -ergebnissen 
+• 
+Einführung in das Literatur- und Textverwaltungssystem Citavi 
+mit Übungen 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+
+[Page 26]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+26 
+ 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminar (SE): 1 SWS 
+Übung (UE): 1 SWS 
+Seminar (SE):1 SWS (Journal Club) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Studienarbeit (Rechercheprotokoll über Suchstrategie zu einer 
+praxisrelevanten Fragestellung) 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 150 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Kontakt-/Selbststudium in der Vorlesung: 30 h (1 ECTS-Punkt) 
+- 
+Regelmäßige und aktive Teilnahme an Übung: 60 h (2 ECTS-
+Punkte) 
+- 
+Vor- und Nachbereitung (umfasst freiwillige Studienleistungen): 
+30 h (1 ECTS-Punkt) 
+- 
+Vorbereitung Leistungsnachweis:30 h (1 ECTS-Punkt) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+WS 
+Beteiligte Fachgebiete 
+Keine 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+
+[Page 27]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+27 
+ 
+Modul 
+Praxismodul 1: Angewandte Verfahren quantitativer Pflegeforschung 
+Modulbezeichnung 
+M Angewandte Verfahren quantitativer Pflegeforschung 
+Modulbezeichnung (eng.) 
+M Applied methods of quantitative research in nursing 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Fakultät für Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+5 
+Kompetenzen 
+Die Studierenden 
+• 
+verstehen die Bedeutung statistischer Methoden für 
+Pflegehandeln, indem sie kleinere, angeleitete 
+Praxisforschung zu konkreten, eingegrenzten pflegerelevanten 
+Fragestellungen betreiben und die Ergebnisse im Kontext der 
+eignen Berufspraxis konkret verorten. 
+• 
+identifizieren und analysieren ein pflegerelevantes Phänomen 
+anhand einer Fallsituation aus der Praxis. 
+• 
+erkennen und benennen relevante Faktoren, die im 
+Zusammenhang mit dem Phänomen stehen. 
+• 
+legen den aktuellen Stand der Literatur dar. 
+• 
+beschreiben Fragestellungen in Bezug auf Prävalenz, Inzidenz 
+und Größe sowie messbare Attribute des gewählten 
+Phänomens (mithilfe aktueller Literatur). 
+• 
+können eine Grundgesamtheit (Stichprobe) benennen. 
+• 
+benennen verursachende Faktoren und messbare 
+Verbindungen. 
+• 
+interpretieren quantitative Ergebnisse und beurteilen die 
+Folgen einer veränderten Vorgehensweise für Betroffene und 
+Angehörige sowie die Folgen einer veränderten 
+Vorgehensweise für ihre bisherige Pflegepraxis. 
+• 
+binden Ergebnisse und Erkenntnisse in die aktuelle 
+wissenschaftliche Diskussion ein. 
+• 
+sind kritisch im Umgang mit Interpretationen und aus den 
+Daten gewonnenen Schlussfolgerungen. 
+• 
+reflektieren ihr Wissenschaftsverständnis. 
+Inhalte 
+• 
+Vier Phasen des Forschungsprozesses anhand von Beispielen 
+aus der Pflegepraxis im ambulanten, stationären und 
+teilstationären Pflegesetting 
+• 
+Theoretisieren von praxisrelevanten Fragestellungen aus der 
+direkten Patienten- und Bewohnerversorgung 
+• 
+Darlegen pflegewissenschaftlicher und pflegepraktischer 
+Relevanz 
+• 
+Kritische Reflexion der Ergebnisse 
+Formale Voraussetzungen für die 
+Teilnahme 
+Erfolgreiche Teilnahme an dem Modul Einführung in die Pflege- und 
+Versorgungsforschung 
+Lehr-/Prüfungssprache 
+Deutsch 
+
+[Page 28]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+28 
+ 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Übung (UE): 1 SWS 
+Onlineübung (UE): 1 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Poster (Forschungsplan erstellen) 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 150 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme/ Selbststudium an der Übung: 
+60 h (2 ECTS-Punkte) 
+- 
+Vorbereitung Leistungsnachweis 90 h (3 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+WS 
+Beteiligte Fachgebiete 
+Keine 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 29]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+29 
+ 
+Modul 
+Praxismodul 2: Angewandte Verfahren qualitativer Pflegeforschung 
+Modulbezeichnung 
+M Angewandte Verfahren qualitativer Pflegeforschung 
+Modulbezeichnung (eng.) 
+M Applied methods of qualitative research in nursing 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Fakultät Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+5 
+Kompetenzen 
+Die Studierenden: 
+• 
+erwerben ein grundlegendes Verständnis zur Bedeutung eines 
+qualitativen (hermeneutisch, deutend, verstehend, 
+beschreibend) Forschungsverständnisses für Pflegehandeln. 
+• 
+verfügen über Grundkenntnisse zur computergestützten 
+Vorbereitung und Analyse qualitativ generierter Daten. 
+• 
+identifizieren und analysieren ein pflegerelevantes Phänomen 
+anhand einer Fallsituation aus der Praxis. 
+• 
+erkennen relevante Faktoren, die im Zusammenhang mit dem 
+Phänomen stehen und formulieren eine/mehrere 
+Fragestellungen. 
+• 
+verschaffen sich eine Übersicht in der Forschungsliteratur. 
+• 
+können mit Fokus auf die Fragestellung ein geeignetes 
+Studiendesign diskutieren und begründen, einschließlich 
+Methoden der Datenerfassung und – analyse. 
+• 
+können Bedeutung und Merkmale des Sampling benennen. 
+• 
+können den Feldzugang konstruieren. 
+• 
+können ethische Aspekte in das Design der Datenerfassung 
+einbinden. 
+• 
+berücksichtigen die relevanten Gütekriterien (quantitativ, 
+qualitativ). 
+• 
+stützen und interpretieren Ergebnisse mithilfe aktueller 
+pflegewissenschaftlicher und bezugswissenschaftlicher 
+Veröffentlichungen. 
+• 
+setzen sich kritisch mit qualitativer Forschungsliteratur 
+auseinander. 
+• 
+reflektieren ihr Wissenschaftsverständnis. 
+• 
+sind aufgeschlossen gegenüber unterschiedlichen 
+wissenschaftstheoretischen Positionen und betrachten diese 
+als gleichberechtigte Wegen der Erkenntnis. 
+Inhalte 
+• 
+Besonderheiten des Forschungsprozesses in der qualitativen 
+Forschung im Gegensatz zur quantitativen Forschung anhand 
+von Beispielen aus der Pflegepraxis im ambulanten, 
+stationären und teilstationären Pflegesetting 
+• 
+Theoretisieren von praxisrelevanten Fragestellungen aus der 
+direkten Patienten- und Bewohnerversorgung, Darlegen 
+pflegewissenschaftlicher und pflegepraktischer Relevanz 
+• 
+Darlegen epidemiologischer und gesundheitspolitischer 
+Relevanz 
+
+[Page 30]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+30 
+ 
+• 
+Ethische Aspekte, Gütekriterien und Methodenkritik 
+• 
+Ergebnisdokumentation 
+Formale Voraussetzungen für die 
+Teilnahme 
+Erfolgreiche Teilnahme an dem Modul Einführung in die 
+Literaturrecherche 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Übung (UE): 1 SWS 
+Onlineübung (UE): 1 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Poster (Forschungsplan erstellen) 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 150 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme oder Selbststudium an der 
+Übung 60 h (2 ECTS-Punkte) 
+- 
+Vorbereitung Leistungsnachweis 90 h (3 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+SS 
+Beteiligte Fachgebiete 
+Keine 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 31]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+31 
+ 
+Modul 
+Beratung und Edukation durch Pflege 
+Modulbezeichnung 
+M Beratung und Edukation durch Pflege 
+Modulbezeichnung (eng.) 
+M counselling and education in nursing 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Wolfgang Klug 
+Leistungspunkte (ECTS-Punkte) 
+10 
+Kompetenzen 
+Die Studierenden 
+• 
+besitzen grundlegende Kenntnisse zu relevanten Begriffen von 
+Edukation und Beratung und differenzieren diese von 
+Beratung durch andere Professionen. 
+• 
+verfügen über grundlegende Kenntnisse zu relevanten 
+Gesetzen und Ansprüchen für Beratungsleistungen und 
+ordnen Beratungsbedarfe rechtlich ein. 
+• 
+differenzieren verschiedene theoretische Ansätze der 
+Beratung und können diese voneinander abgrenzen und 
+beispielhaft darstellen (Systemische Beratung, Therapie vs. 
+Beratung, professionelle vs. Laienberatung). 
+• 
+erkennen verbale und nonverbale Strukturen von 
+Kommunikation, Störungen von Kommunikation und 
+entwickeln Lösungsmöglichkeiten. 
+• 
+besitzen die Fähigkeit, die Komplexität des Einzelfalls zu 
+erschließen und greifen in Beratungsgesprächen auf 
+Kompetenzen sprachlicher und außer-/nichtsprachlicher 
+Kommunikation zurück. 
+• 
+bewerten bestehende Konzepte von Edukation und Beratung 
+im Hinblick auf deren adressatenbezogenen 
+Informationsgehalt und evidenzbasierter oder empirisch 
+gesicherter Erkenntnisse. 
+• 
+reflektieren ihre eigene Rolle als Beratende vor dem 
+Hintergrund ihres beruflichen Selbstverständnisses und 
+eigener Wahrnehmungs-, Kommunikations- und 
+Interaktionsmuster. 
+• 
+treten mit Ratsuchenden in Aushandlungsprozesse über deren 
+Beratungsbedarf, - anforderungen und - prozess ein. 
+Inhalte 
+• 
+Prinzipien, Orientierungen und Differenzierungen (Recht auf 
+Beratung) 
+• 
+Grundlagen der Wahrnehmungspsychologie 
+• 
+Grundlagen der Kommunikationspsychologie 
+• 
+Theorien von Kommunikation und Interaktion 
+• 
+Modelle und Techniken der Gesprächsführung (Frage- und 
+Interviewtechniken) 
+• 
+Gesprächs- und Kommunikationsregeln 
+• 
+Handlungsfelder, Rollenverteilungen und Formen der 
+Beratung 
+
+[Page 32]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+32 
+ 
+• 
+Modelle der Gesundheits- und Pflegeberatung (Edukation von 
+Patienten, Bewohnern, Pflegebedürftigen und Familien als 
+theoretisches Konzept) 
+• 
+Verschiedene Beratungssettings (Häuslicher Bereich, 
+Altenhilfe, Krankenhaus, Pflegestützpunkte). 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminar (SE): 2 SWS 
+Onlineseminar (SE): 1SWS 
+Übung (UE): 3 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Studienarbeit 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 300 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme/Selbststudium am Seminar: 
+60 h (2 ECTS-Punkte) 
+- 
+Regelmäßige und aktive Teilnahme an Übung: 120 h (4 ECTS-
+Punkte) 
+- 
+Vor- und Nachbereitung (umfasst freiwillige Studienleistungen): 
+30 h (1 ECTS-Punkt) 
+- 
+Vorbereitung Leistungsnachweis: 90 h (3 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+SS 
+Beteiligte Fachgebiete 
+BASA 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 33]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+33 
+ 
+Modul 
+Grundlagen der Didaktik und Pädagogik für Schulung, Beratung und 
+Anleitung 
+Modulbezeichnung 
+M Grundlagen der Didaktik und Pädagogik für Schulung, Beratung und 
+Anleitung 
+Modulbezeichnung (eng.) 
+M Principles of didactic and pedagogic in nurses education and 
+councelling 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+5 
+Kompetenzen 
+Die Studierenden 
+• 
+verfügen über Grundkenntnisse in Bezug auf ausgewählte 
+pflegefachdidaktische Theorien, Modelle und Konzeptionen 
+und können deren Bedeutung für die praktische Ausbildung 
+und für die pflegerische Praxis einordnen. 
+• 
+kennen Assessmentinstrumente zur Einschätzung der 
+Kompetenzen der Auszubildenden und Mitarbeiter. 
+• 
+kennen Methoden der Kompetenzentwicklung für Lernen und 
+Lehren in der Praxis. 
+• 
+besitzen die Fähigkeit, komplexe Beratungsbedarfe der 
+Auszubildenden und Mitarbeiter zu analysieren und die 
+spezifischen Belange in Schulungen, Anleitungen und 
+Beratungen zu berücksichtigen. 
+• 
+kennen Methoden der Überprüfung des Lernerfolges. 
+• 
+kennen Beurteilungs- und Prüfungsverfahren und deren 
+rechtliche Grundlagen und können diese (in Kooperation mit 
+Ausbildungseinrichtungen) anwenden. 
+• 
+verfügen über Kenntnisse zur Selbst- und Fremdbewertung 
+(relevant für Prüfungssituationen und für die Evaluation von 
+Schulungs-, Beratungs- und Anleitungsprozessen). 
+• 
+entwickeln und aktualisieren regelhaft und konsequent ihr 
+eigenes fachliches Wissen und Können. 
+Inhalte 
+• 
+Pädagogische und didaktische Grundlagen 
+• 
+Grundlagen der Wahrnehmung (Wahrnehmungstäuschungen, 
+Beurteilungstäuschungen, Beurteilungsverzerrungen, 
+Beurteilungsversagen) 
+• 
+Assessmentinstrumente zur Kompetenzentwicklung 
+• 
+Lern- und Arbeitstechniken (z. B. Lernbiographie) 
+• 
+Methoden des Lernens und der Kompetenzentwicklung 
+• 
+Techniken der Darstellung und der Präsentation 
+• 
+Prüfungsrecht (für Ausbildung und Studium) 
+• 
+Erstellen von Prüfungsprotollen 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+
+[Page 34]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+34 
+ 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminar (SE): 2 SWS, 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Portfolio 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 150 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme/ Selbststudium am Seminar: 
+60 h (2 ECTS-Punkte) 
+- 
+Vor- und Nachbereitung (=freiwillige Studienleistungen): 
+30 h (1 ECTS-Punkt) 
+- 
+Vorbereitung Leistungsnachweis: 60 h (2 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+SS 
+Beteiligte Fachgebiete 
+(Pflege-) Pädagogik 
+Bemerkungen 
+keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 35]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+35 
+ 
+Modul 
+Diagnostik und Klassifikation komplexer Pflegebedarfe 
+Modulbezeichnung 
+M Diagnostik und Klassifikation komplexer Pflegebedarfe 
+Modulbezeichnung (eng.) 
+M nursing diagnosis and classifications of complex nursing needs 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+10 
+Kompetenzen 
+Die Studierenden 
+• 
+verstehen den pflegediagnostischen Prozess als 
+zielgerichteten Erkenntnisprozess pflegerisch relevanter 
+Problemerfassung. 
+• 
+besitzen ein integriertes Verständnis pflegewissenschaftlichen 
+Erkennens, der Begriffsbildung und des begründeten 
+Handelns. 
+• 
+können Methoden der Informationserfassung anwenden 
+(Befragung, Verfahren der Diagnostik (messen, riechen, 
+tasten, beurteilen von Verhalten, Beobachtung…). 
+• 
+besitzen die Fähigkeit (Können), verschiedene Verfahren zur 
+Deutung pflegerelevanter Problemstellungen in der weiteren 
+Problembeschreibung- und Bewertung zu berücksichtigen. 
+Insbesondere beziehen sie dabei, neben fachlich-
+wissenschaftlichen Aspekten, die Perspektiven der Menschen 
+mit Hilfebedarf und - bedürfnissen in ihren Lebenssituationen 
+ein. 
+• 
+können Ausmaß und Umfang von Pflege in komplexen 
+Behandlungs- und Versorgungssituationen mit Bezug auf die 
+spezielle Situation begründet planen. 
+• 
+können Ziel und Zweck von Assessments und -instrumenten 
+für die pflegerische Praxis darlegen und deren Einfluss auf 
+Handlungsentscheidungen kritisch reflektieren. 
+• 
+erkennen Ausmaß und Umfang pflegerelevanter 
+Problemstellungen als grundlegend für pflegerische 
+Leistungserfassung und Leistungsdarstellung und reflektieren 
+Systeme der Klassifikation von Pflegeleistungen kritisch. 
+• 
+übernehmen Verantwortung für ihr professionelles Handeln 
+(betrifft diagnostische Entscheidungen, induktiv hergeleitet) 
+und entwickeln ein Bewusstsein für die Risiken und Folgen 
+ihres Handelns. 
+Inhalte 
+• 
+Formen (pflege-) diagnostischer Erkenntnis: Erklären vs. 
+Verstehen; Hermeneutik, induktiv- deduktiv 
+• 
+Rekonstruktive Fallarbeit, Methoden des Fallverstehen 
+• 
+Wahrnehmen, Beobachten, Benennen, Kommunizieren und 
+deren Bedeutung im Erkenntnisprozess 
+• 
+Körpermodelle: Eigen- und Fremdwahrnehmung 
+
+[Page 36]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+36 
+ 
+• 
+Entscheidungsfindungs- und Problemlösungsstrategien 
+(erfassen, deuten, analysieren und bewerten (critical 
+appraisal) von Pflegebedarfen 
+• 
+Modelle critical thinking (kritisches Urteilsvermögen), 
+Fallarbeit, Fallbesprechung, Fallverstehen 
+• 
+Das Assessment als kognitiver, psychologischer und/oder 
+Prozess der Auslegung, Interpretation, Deutung und 
+Verstehen 
+• 
+Definieren und Abgrenzen von Assessment, 
+Assessmentinstrument, Screening, standardisierte und 
+nichtstandardisierte Assessmentverfahren 
+• 
+Gütekriterien (instrumentenbezogen: Objektivität, Reliabilität, 
+Validität, Übertragbarkeit und anwendungsbezogen: Relevanz, 
+klinische Wirksamkeit, Handhabbarkeit, Akzeptanz) 
+• 
+Klassifikationen von Pflegediagnosen wie NANDA, ICNP, 
+andere Klassifikationen NIC, NOC, ePA … 
+• 
+IT-gestützte Pflegesysteme 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Onlineseminar (SE): 2 SWS 
+Übung (UE): 4 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Studienarbeit: (Reflektieren und Beurteilen eines ausgewählten 
+Assessments bzw. Instruments und dessen Relevanz für pflegerisches 
+Handeln). 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 300 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme/ Selbststudium am Seminar: 
+60 h (2 ECTS-Punkte) 
+- 
+Regelmäßige und aktive Teilnahme an der Übung: 120 h (4 ECTS-
+Punkte) 
+- 
+Vor- und Nachbereitung (umfasst freiwillige Studienleistungen): 
+60 h (2 ECTS-Punkte) 
+- 
+Vorbereitung Leistungsnachweis: 60 h (2 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+WS 
+Beteiligte Fachgebiete 
+Keine 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+
+[Page 37]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+37 
+ 
+Modul 
+Migration und Kultursensibilität in der Pflege 
+Modulbezeichnung 
+M Migration und Kultursensibilität in der Pflege 
+Modulbezeichnung (eng.) 
+M Migration and cultural awareness in nursing 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelorstudiengang Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Annette Korntheuer 
+Leistungspunkte (ECTS-Punkte) 
+5 
+Kompetenzen 
+Die Studierenden 
+• 
+verfügen über ein Verständnis für kontextgebundenes 
+professionelles pflegerisches Handeln in der 
+Migrationsgesellschaft. 
+• 
+verfügen über Kenntnisse kultursensibler Perspektiven der 
+Pflegewissenschaft und ihrer fach- und 
+gesellschaftsbezogenen Handlungsräume sowie der 
+relevanten Wissensbestände betreffend Migration. 
+• 
+wissen um die spezifischen Bedarfe und Anforderungen im 
+Zusammenhang mit Pflege in besonderen Lebenslagen durch 
+Migration. 
+• 
+kennen zielgruppenspezifische pflegerische 
+Versorgungskonzepte für Menschen in besonderen 
+Lebenslagen begründet in Migration. 
+• 
+können pflegerisches Handeln kultursensibel an den Bedarfen 
+und Erfordernissen ausrichten. 
+• 
+erkennen potentielle Risiken für Diskriminierung aus 
+organisatorischen, institutionellen, rechtlichen und 
+gesundheitspolitischen Gegebenheiten im deutschen 
+Gesundheitswesen. 
+• 
+sind sensibel in Bezug auf Menschen in besonderen 
+Lebenslagen und integrieren Diversitätsbewusstsein in ihr 
+professionelles Handeln. 
+ 
+Inhalte 
+• 
+Einführung in Ursachen, Formen und Folgen veränderter 
+Migrationsbewegung durch freiwillige oder unfreiwillige 
+Migration (Globale Rekrutierung von Arbeitskräften, Flucht und 
+Migration, Migration und Alter, ...) 
+• 
+Pflegewissenschaftliche Theorien und Modelle von 
+Kultursensibilität und Migration 
+• 
+Besonderheiten kultureller Einflüsse im Pflegeprozess und auf 
+pflegerische Versorgungskonzepte (Ernährung, Ausscheidung, 
+Hygiene, Sterben und Tod, Familie, …) 
+• 
+Abbau von Teilhabebarrieren in der Migrationsgesellschaft 
+(Teilhabe sichern, Betroffenenperspektive einbringen, 
+Diversität und Gleichbehandlung) 
+• 
+Interkulturelle Öffnung der Institutionen im Gesundheitswesen 
+(Organisationsentwicklung, Führungs- und 
+
+[Page 38]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+38 
+ 
+Personalentwicklung Interkultureller Kompetenzen/ 
+Diversitätsbewusstsein) 
+• 
+Gesundheit als Grundrecht 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminar (SE): 1 SWS 
+Onlineseminar (SE): 1 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Referat 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 150 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme/ Selbststudium am Seminar: 
+60 h (2 ECTS-Punkte) 
+- 
+Vor- und Nachbereitung (umfasst freiwillige Studienleistungen): 
+60 h (2 ECTS-Punkte) 
+- 
+Vorbereitung Leistungsnachweis: 30 h (1 ECTS-Punkt) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+WS 
+Beteiligte Fachgebiete 
+KU Zentrum für Flucht und Migration (ZFM) 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 39]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+39 
+ 
+Modul 
+Digitalisierung und Technisierung in der Pflege 
+Modulbezeichnung 
+M Digitalisierung und Technisierung in der Pflege 
+Modulbezeichnung (eng.) 
+M Digitalisation und technology in nursing care 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelorstudiengang Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Helmut Kreidenweis 
+Leistungspunkte (ECTS-Punkte) 
+5 
+Kompetenzen 
+Die Studierenden 
+• 
+verfügen über grundlegende Kenntnis zum aktuellen Diskurs 
+über E-Health und Technisierung im Gesundheitswesen und 
+den Herausforderungen für die Versorgung Pflegebedürftiger 
+in den verschiedenen pflegerischen Settings. 
+• 
+sind in der Lage pflegerelevante Problemstellungen (klinischer 
+Versorgung, ethische und rechtliche Belange) vor dem 
+Hintergrund aktueller pflege- und bezugswissenschaftlicher 
+Erkenntnisse zu identifizieren und zu beschreiben. 
+• 
+können pflegerelevante Problemstellungen unter rechtlichen, 
+ethischen, und datenschutzrechtlichen Anforderungen im 
+Kontext der Qualitätsentwicklung und –sicherung sachlich 
+recherchieren und diskutieren. 
+• 
+können Planung und Konzepterstellung pflegerelevanter 
+Bezüge im Zusammenhang mit Technisierung und 
+Digitalisierung auf Basis evidenzbasierter oder empirisch 
+gesicherter Erkenntnisse vornehmen. 
+• 
+sind befähigt, Werte wie Humanität, Partizipation und Schutz 
+von persönlichen Daten und rechtlichen Belangen in ihrer 
+beruflichen Praxis Geltung zu verschaffen und an 
+entsprechenden ethischen und rechtlichen Grundsätzen 
+auszurichten. 
+Inhalte 
+• 
+Big Data und E-Health im Gesundheitswesen (z. B.: 
+altersgerechte Assistenzsysteme, elektronischer Transfer von 
+Patientendaten zwischen den Einrichtungen der stationären, 
+teilstationären und ambulanten Pflege, …) 
+• 
+Rechtliche Rahmenbedingungen (E-Health Gesetze, 
+Datenschutz, Medizinproduktegesetz, Haftungsrecht) 
+• 
+Robotik und Technisierung personenbezogener 
+Dienstleistungen und Bedeutung der Mensch-Technik-
+Interaktion (zwischenmenschliche (Für-)Sorgearbeit, ethische 
+Fragestellungen, Fragestellungen zur Akzeptanz, …) 
+• 
+Aktuelle Herausforderungen betreffend Digitalisierung, 
+Technisierung und Pflegebedürftigkeit, 
+Leitlinienentwicklungen, Standardisierung sowie Auswirkungen 
+auf Beschäftigung, Arbeitswelt und 
+Qualifikationsanforderungen an die Pflegeberufe 
+
+[Page 40]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+40 
+ 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminar (SE): 2 SWS 
+Onlineseminar (SE): 1 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+schriftliche Prüfung 60 Min. 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 150 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme/ Selbststudium am Seminar: 
+90 h (3 ECTS-Punkte) 
+- 
+Vor- und Nachbereitung (umfasst freiwillige Studienleistungen): 
+30 h (1 ECTS-Punkt) 
+- 
+Vorbereitung Leistungsnachweis: 30 h (1 ECTS-Punkt) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+WS 
+Beteiligte Fachgebiete 
+BASA 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+
+[Page 41]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+41 
+ 
+Modul 
+Grundlagen von Wissenstransfer und Praxisforschung 
+Modulbezeichnung 
+M Grundlagen von Wissenstransfer und Praxisforschung 
+Modulbezeichnung (eng.) 
+M Principles of knowledge circulation and practice-based research 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+10 
+Kompetenzen 
+Die Studierenden 
+• 
+verstehen Theorie und Praxis als zwei voneinander 
+unabhängige Logiken mit einem vorwissenschaftlichen und 
+wissenschaftlichen Verständnis von theoriegeleitetem 
+Handeln. 
+• 
+verstehen die theoretische Durchdringung praktischen 
+Handelns als elementar für Effektivität einer am Pflegebedarf 
+orientierten Versorgung. 
+• 
+verfügen über grundlegende Kenntnis zur methodischen 
+Relevanz der Wissenszirkulation für eine Vernetzung von 
+Theorie und Praxis. 
+• 
+können pflegerelevante Problemstellungen formulieren und 
+vor dem Hintergrund interner und externer Evidenz bewerten. 
+• 
+können diese Problemstellungen sachdienlich recherchieren, 
+das Ergebnis interpretieren und das eigene berufliche Handeln 
+reflektieren. 
+• 
+können Planungen und Konzepte auf Basis evidenzbasierter 
+oder empirisch gesicherter Erkenntnisse vornehmen und die 
+spezifischen Belange des Einzelfalls berücksichtigen. 
+• 
+können Evaluationsprozesse an berufsrelevanten Standards, 
+Leitlinien und Handlungsanleitungen ausrichten, dabei aber 
+auch die Komplexität des jeweiligen Einzelfalls 
+berücksichtigen. 
+• 
+können Merkmale gegenseitiger Abhängigkeiten zwischen 
+Wissen und Handeln reflektieren. 
+• 
+sind in der Lage ihr berufliches Handeln theoretisch fundiert 
+und reflektiert zu evaluieren. 
+Inhalte 
+• 
+Wissensformen als Grundlage für Entscheidungsfindung 
+(Implizit-explizit) 
+• 
+Diskurs, Methoden und Modelle des Theorie Praxis Transfers 
+und Prinzipien der Wissenszirkulation 
+• 
+Evidence Based Nursing (EBN): Modelle professionellen 
+Handelns; Interaktion zwischen Evidenz, Erfahrungswissen 
+und Fallorientierung (Bsp. Nationale Expertenstandards 
+(DNQP) 
+• 
+Prinzipien einer personenzentrierten Praxis, Analyse und 
+Problemlösungsstrategien 
+• 
+Grundlagen Implementierungsforschung 
+• 
+Grundlagen Interventionsforschung 
+
+[Page 42]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+42 
+ 
+• 
+Grundlagen Aktionsforschung (Action Research) 
+• 
+Grundlagen Evaluationsforschung: Evaluationsmethoden für 
+Pflegequalität, Qualitätsindikatoren und Ergebnisindikatoren 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminar (SE): 1 SWS 
+Onlineseminar (SE) 1 SWS 
+Übung (UE): 1 SWS 
+Seminar (SE): 1 SWS (Journal Club) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTs-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Studienarbeit (Fallanalyse) 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 300 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme/ Selbststudium am Seminar: 
+60 h (2 ECTS-Punkte) 
+- 
+Regelmäßige und aktive Teilnahme an der Übung: 30 h (1 ECTS-
+Punkt) 
+- 
+Regelmäßige und aktive Teilnahme am Journal Club: 30 h 
+(1 ECTS-Punkt) 
+- 
+Vor- und Nachbereitung (umfasst freiwillige Studienleistungen): 
+90 h (3 ECTS-Punkte) 
+- 
+Vorbereitung Leistungsnachweis: 90 h (3 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+SS 
+Beteiligte Fachgebiete 
+Keine 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 43]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+43 
+ 
+Modul 
+Organisations- und Praxisentwicklung in pflegerischen Settings 
+Modulbezeichnung 
+M Organisations- und Praxisentwicklung in pflegerischen Settings 
+Modulbezeichnung (eng.) 
+M Aspects of development in nursing practice settings 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+10 
+Kompetenzen 
+Die Studierenden 
+• 
+besitzen ein Verständnis von Schlüsselproblemen 
+professionellen pflegerischen Handelns, um 
+handlungsspezifische Problemstellungen 
+wissenschaftsorientiert, d. h. systematisch methodengeleitet 
+zu bearbeiten. 
+• 
+besitzen ein Verständnis von der Komplexität des 
+multidisziplinären und multiprofessionellen Kontextes der 
+professionellen Pflegearbeit und die Bedeutung 
+entsprechender pflegewissenschaftlicher Begründungen. 
+• 
+sind in der Lage, klientel-, personal- und 
+unternehmensspezifische Ressourcen zu erkennen, zu 
+erschließen und in pflegerelevante Prozesse einzubringen. 
+• 
+können pflegerelevante Problemstellungen analysieren, 
+beschreiben und bewerten und können Aspekte der 
+Handlungsfolgen und der fachspezifischen und 
+institutionsgebundenen Sicherung von Qualität und 
+Nachhaltigkeit berücksichtigen. 
+• 
+besitzen die Fähigkeit, kleinere angeleitete Praxisforschung zu 
+konkreten, eingegrenzten Fragestellungen zu betreiben und 
+Implementierungsprozesse zu initiieren. 
+• 
+können einen Projektplan entwerfen und die 
+Rahmenbedingungen (hemmende und fördernde Faktoren) für 
+die Umsetzung praxisorientiert kennzeichnen. 
+• 
+können die Ergebnisse im Kontext der eigenen konkreten 
+Berufspraxis verorten und evaluieren. 
+• 
+reflektieren ihre Rolle in interdisziplinären Bezügen und 
+vertreten diese aktiv vor dem Hintergrund ihres eigenen 
+Professionsverständnisses. 
+Inhalte 
+• 
+Organisationskultur und Praxisentwicklung 
+• 
+Change-Management (und Leadership) 
+• 
+Arbeitsfeld- und Prozessanalysen 
+• 
+Methode der Fall- und Prozesssteuerung (Schnittstellen, 
+Transdisziplinarität, Betroffenenperspektiven) 
+• 
+Grundlagen Projektmanagement 
+• 
+Skill- und Grademix 
+• 
+Implementierungsmodelle (Mehrebenenmodelle, PARISH), 
+• 
+Methoden der Evaluation (z. B.: Praxisentwicklung) 
+• 
+Modelle EBN und Best Practice 
+
+[Page 44]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+44 
+ 
+Formale Voraussetzungen für die 
+Teilnahme 
+Keine 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminar (SE): 3 SWS 
+Onlineseminar (SE): 1 SWS 
+Übung (UE): 3 SWS (ggf. Exkursion) 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Studienarbeit (Konzeption Projektplan) 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 300 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme oder Selbststudium am 
+Seminar: 120 h (4 ECTS-Punkte) 
+- 
+Regelmäßige und aktive Teilnahme an der Übung: 
+90 h (3 ECTS-Punkte) 
+- 
+Vorbereitung Leistungsnachweis: 90 h (3 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+SS 
+Beteiligte Fachgebiete 
+Keine 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+
+[Page 45]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+45 
+ 
+Modul 
+Konzepte für selbstgesteuertes Lernen verstehen und umsetzen 
+Modulbezeichnung 
+M Konzepte für selbstgesteuertes Lernen verstehen und umsetzen 
+Modulbezeichnung (eng.) 
+M Understand and implement concepts of self-directed learning 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+5 
+Kompetenzen 
+Die Studierenden 
+• 
+verfügen über ein differenziertes Verständnis von 
+Praxisanleitung und Praxisbegleitung (das betrifft auch 
+praktische Anleitungen und Schulungsmaßnahmen bei 
+Pflegebedürftigen). 
+• 
+erstellen Rahmenlehrpläne und planen Lehr- und 
+Lernprozesse pädagogisch-didaktisch selbständig, setzen 
+diese um und evaluieren diese. 
+• 
+wenden Methoden der Kompetenzerfassung, der 
+Kompetenzförderung und Lernmethoden für die Gestaltung 
+von Lernsituationen an. 
+• 
+treten mit Lernenden in Aushandlungsprozesse über 
+Lernbedürfnisse, Lernbedarfe, Lernanforderungen und 
+Lernprozesse und reflektieren und evaluieren persönliche 
+Lehr-Lernprozesse mit den Lernenden. 
+• 
+berücksichtigen Aspekte der Kontinuität und der sicheren 
+Beziehung im Lernumfeld, um selbstgesteuertes und 
+selbstorganisiertes lernen zu fördern. 
+• 
+können Herausforderungen in Lernprozessen und in 
+Prüfungssituationen professionell und situationsorientiert 
+lösen. 
+• 
+reflektieren ihre eigene Rolle als Lehrende vor dem 
+Hintergrund ihrer Berufsbiographie. 
+• 
+erkennen interkulturelle sowie Aspekte der Diversität und 
+berücksichtigen diese für die Anleitungsprozesse. 
+Inhalte 
+• 
+Methoden der Anleitung 
+• 
+Besonderheiten des Lernens in der Praxis und während der 
+Ausbildung 
+• 
+Methoden und Instrumente für die Vor- und Nachbereitung von 
+Lehr- und Lernsituationen 
+• 
+Besonderheiten der Kompetenzförderung und - entwicklung 
+mit kognitiv und somatisch beeinträchtigten Personengruppen 
+• 
+Besonderheiten der Kompetenzförderung bei Menschen 
+unterschiedlichen Alters- und Entwicklungsstufen 
+Formale Voraussetzungen für die 
+Teilnahme 
+Erfolgreiche Teilnahme am Modul Didaktische und pädagogische 
+Grundlagen für Schulung, Beratung und Anleitung 
+Lehr-/Prüfungssprache 
+Deutsch 
+
+[Page 46]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+46 
+ 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Seminar (SE): 1 SWS 
+Übung (UE): 1 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis: 
+Portfolio (aufbauend auf M11 Didaktische und pädagogische 
+Grundlagen für Schulung, Beratung und Anleitung) 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 150 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme oder Selbststudium am 
+Seminar: 30 h (1 ECTS-Punkt) 
+- 
+Regelmäßige und aktive Teilnahme an der Übung: 
+30 h (1 ECTS-Punkt) 
+- 
+Vorbereitung Leistungsnachweis: 90 h (3 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+WS 
+Beteiligte Fachgebiete 
+(Pflege-) Pädagogik 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 47]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+47 
+ 
+Modul 
+Begleitseminar zur Bachelorarbeit 
+Modulbezeichnung 
+M Begleitseminar zur Bachelorarbeit 
+Modulbezeichnung (eng.) 
+M Colloquium Bachelor thesis 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+5 
+Kompetenzen 
+Die Studierenden 
+• 
+wissen um das Niveau einer Bachelorarbeit als 
+wissenschaftliche Qualifikationsarbeit. 
+• 
+wissen um die formalen Anforderungen an eine 
+Bachelorarbeit. 
+• 
+können den Gegenstand ihrer Bachelorarbeit eingrenzen und 
+zusammenfassend darstellen. 
+• 
+erstellen einen Zeitplan unter Berücksichtigung 
+wissenschaftlicher Ansprüche an Methoden der 
+Datenerfassung und Auswertung und der persönlichen 
+Ressourcen. 
+• 
+entwerfen einen zusammenhängenden Text, der 
+wissenschaftlichen Kriterien entspricht. 
+• 
+halten die formalen Vorgaben für wissenschaftliches Arbeiten 
+zur Erstellung ihrer Bachelorarbeit ein. 
+• 
+nehmen an den Kolloquien teil und diskutieren Anliegen ihrer 
+Bachelorarbeit mit ihren Studienkommiliton*innen. 
+• 
+unterstützen sich gegenseitig durch Feedback in den 
+Kolloquien. 
+• 
+betrachten Kritik als konstruktive Hinweise für ihre Bachelor-
+arbeit an und reflektieren diese vor dem Hintergrund einer 
+möglichen Bereicherung für ihre Bachelorarbeit. 
+Inhalte 
+• 
+Das Proposal 
+• 
+Der Abstract 
+• 
+Zeitplanung einer wissenschaftlichen Arbeit 
+• 
+Aspekte einer wissenschaftlichen Betreuung und Begleitung 
+• 
+Formale Antragstellung (prüfungsrelevante Aspekte) 
+Formale Voraussetzungen für die 
+Teilnahme 
+Siehe § 11 Absatz 4 Studien- und Prüfungsordnung 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Kolloquium (KOLL): 2 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis 
+Bachelorarbeit mit mdl. Verteidigung durch ein Referat 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 150 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme/ Selbststudium am 
+Kolloquium: 60 h (2 ECTS-Punkte) 
+
+[Page 48]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+48 
+ 
+- 
+Vorbereitung Leistungsnachweis: 90 h (3 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+WS 
+Beteiligte Fachgebiete 
+Keine 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013 
+ 
+ 
+ 
+
+[Page 49]
+ 
+ 
+ 
+Modulhandbuch 
+ 
+49 
+ 
+Modul 
+Bachelorthesis 
+Modulbezeichnung 
+M Bachelorarbeit 
+Modulbezeichnung (eng.) 
+M Bachelor thesis 
+Qualifikationsstufe/ 
+Geberstudiengang 
+Bachelormodul Pflegewissenschaft 
+Modulnummer 
+[wird vom Prüfungsamt vergeben] 
+Federführende Fakultät 
+Soziale Arbeit 
+Modulverantwortung 
+Prof. Dr. Inge Eberl 
+Leistungspunkte (ECTS-Punkte) 
+10 
+Kompetenzen 
+Die Studierenden 
+• 
+entwerfen einen zusammenhängenden Text, der 
+wissenschaftlichen Kriterien entspricht. 
+• 
+halten die formalen Vorgaben für wissenschaftliches Arbeiten 
+zur Erstellung ihrer Bachelorarbeit ein. 
+• 
+betrachten Kritik als konstruktive Hinweise für ihre Bachelor-
+arbeit an und reflektieren diese vor dem Hintergrund einer 
+möglichen Bereicherung für ihre Bachelorarbeit. 
+Inhalte 
+• 
+Aspekte einer wissenschaftlichen Betreuung und Begleitung 
+• 
+Formale Antragstellung (prüfungsrelevante Aspekte) 
+Formale Voraussetzungen für die 
+Teilnahme 
+Siehe § 11 Absatz 4 Studien- und Prüfungsordnung 
+Lehr-/Prüfungssprache 
+Deutsch 
+Lehr- Lernformen/ 
+Lehrveranstaltungstypen 
+Kolloquium (KOLL): 1 SWS 
+Selbstgeleitetes Lernen (SGL) 
+Voraussetzung für die Vergabe 
+der ECTS-Punkte 
+Mit mindestens „ausreichend“ bewerteter Leistungsnachweis 
+Bachelorarbeit mit mdl. Verteidigung durch ein Referat 
+Zeitaufwand und Verteilung der 
+ECTS-Punkte des Moduls 
+Der Workload des Moduls beträgt 300 h; ein ECTS-Punkt entspricht 
+30 h 
+- 
+Regelmäßige und aktive Teilnahme/ Selbststudium am 
+Kolloquium: 30 h (1 ECTS-Punkte) 
+- 
+Vorbereitung Leistungsnachweis: 300 h (9 ECTS-Punkte) 
+Modulnote 
+Leistungsnachweis 
+Polyvalenzen mit anderen 
+Studiengängen 
+Keine 
+Turnus des Angebots 
+WS 
+Beteiligte Fachgebiete 
+Keine 
+Bemerkungen 
+Keine 
+ 
+Zuordnung FQR Pflege 2013
