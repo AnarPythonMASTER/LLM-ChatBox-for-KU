@@ -1,0 +1,26 @@
+Prof. Dr. Götz Pfander
+Chair of Mathematics - Scientific Computing
+Speaker of the Institute
+
+Co-editor of "Sampling Theory, Signal Processing, and Data Analysis" at "Springer-Verlag"
+
+Research interests include compressive sensing, sampling theory for signals and operators, applied harmonic analysis, and information theory. A recurring theme in the work of the chair is the measurement, analysis and representation of continuous signals by finite sequences.
+
+You´ll find more informations here -> https://www.ku.de/en/mgf/mathematics/scientific-computing
+
+Team of Prof. Pfander:
+
+Dr. Andrei Caragea
+Research Associate
++49 8421 93-21534
+andrei.caragea@ku.de
+
+Dr. Felix Bartel
+Research Associate
+
+Felix.Bartel@ku.de
+
+Ya-Chun Tsai
+Secretary
++49 841 937-21790
+ya-chun.tsai@ku.de

@@ -1,0 +1,17 @@
+About the institute:
+
+In early 2022, KU Eichstätt-Ingolstadt opened its new Institute for Machine Learning and Data Science in Ingolstadt.
+
+It is a central building block in establishing a focus in digitalization at KU. At the institute, scientific foundations are created - and taught in degree programs - that help to exploit the potential of digitalization. Approaches, that are pursued here, concern for example the urgently needed development of mathematical foundations, which allow the establishment of success guarantees for machine learning algorithms.  Such enable the use of novel, extremely powerful machine learning techniques in medical and safety applications. Another key goal is to create opportunities to exploit the potential of digitalization locally in individual data spheres and to avoid processing sensitive data on central mainframes, i.e., in the cloud, which would compromise security.
+
+Digital data and media are ubiquitous today. Digitalization is only at the beginning. It is now increasingly beginning to permeate and reshape all aspects of our lives. One of the central challenges of our time is to make profitable use of their enormous, hitherto only rudimentarily exploited potential and to develop them responsibly in the process. The Mathematical Institute for Machine Learning and Data Science at the Catholic University Eichstätt-Ingolstadt will devote itself to this task.
+
+BSc Data Science
+Bachelor Data Science
+Since winter semester 2022/2023, MIDS at KU offers a completely new degree program. At the Ingolstadt location, future-oriented topics will be taught in a historical environment. 
+
+All information about the bachelor's degree program Data Science can be found on the program page as well as on the student advising page.
+
+MSc Data Science
+Subject to the approval of the Ministry, the new English-language Master's program in Data Science will start at the KU in the winter semester 2025 / 2026.
+Further information can be found here: https://www.ku.de/studienangebot/data-science-msc

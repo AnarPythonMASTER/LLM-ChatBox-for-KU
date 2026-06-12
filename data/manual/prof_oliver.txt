@@ -1,0 +1,39 @@
+Prof. Dr. Marcel Oliver
+Chair of Applied Mathematics
+Endowed Chair of the City of Ingolstadt
+
+Member of the Board of the Collaborative Research Center TRR 181 "Energy Transfers in Atmosphere and Ocean"
+
+Prof. Oliver works on modeling and simulation of complex multi-scale systems, in particular in climate science, but also in the bio and material sciences.  In such systems, the range of relevant scales is so vast that we cannot expect that the exponentially growing capacity of modern supercomputers alone will suffice to make scientific progress. We also need to improve our algorithms, develop parametrizations - simplified models for small scale processes - and learn from data and observations.  The research of the group includes structure preserving and energy consistent algorithms, mathematical approaches for model reduction, and dynamic, stochastic, and/or data driven models to represent processes at scales below the computational grid.
+
+You´ll find more informations HERE -> https://www.ku.de/en/mgf/mathematics/chairs-and-professorships/chair-of-applied-mathematics
+
+Team of Prof. Oliver:
+
+Dr. Janin Jäger
+Research Associate
++49 841 937-21672
+janin.jaeger@ku.de
+
+Dr. Mansi Singh
+Research Associate
++49 841 937-21836
+mansi.singh@ku.de
+
+Dr. Ojesh Koul
+Research Associate
++49 841 937-21636
+ojesh.koul@ku.de
+
+Hao Liang
+Research Associate
++49 841 937-21635
+hao.liang@ku.de
+Fabian Stallbauer
+Research Associate
+
+fabian.stallbauer@ku.de
+Katharina Püchner
+Secretary
++49 841 937 23258
+katharina.puechner@ku.de

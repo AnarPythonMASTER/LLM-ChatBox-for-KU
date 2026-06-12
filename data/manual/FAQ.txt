@@ -1,0 +1,99 @@
+FAQ from prospective students and applicants
+... on the Data Science Program
+Is the Data Science program based in Eichstätt or Ingolstadt?
+The degree program is based on our Ingolstadt campus, this means that all Data Science courses are offered in Ingolstadt. Our institute is located in the newly renovated Georgianum.
+
+When should I arrive in Ingolstadt?
+You should arrive around the beginning of October so that you have some time to settle in and take part in our preliminary course.  Regular lectures at the KU usually start in mid-October.
+
+I am a student from outside the EU. What happens if I receive my visa a little later?
+We are aware that international students sometimes have to wait for a visa for months. We therefore issue admission letters as quickly as possible and schedule the enrollment deadline as late as possible so that applicants have the best possible chance of obtaining a visa. The final enrollment deadline (see letter of admission) is usually only a few days before the start of lectures. All required documents, including the visa, must be sent by mail to the Student Office by this deadline.
+
+How much daily independent study is expected of the average student taking this course?
+Just like at all universities, a considerable part of the course is completed in independent study. In the 'Linear Algebra' course, for example, you have about 6 contact hours and 5 hours of self-study per week. The overall workload is comparable to that at other German universities. Studying Data Science at the KU is a full-time job.
+
+Should I repeat any maths topics from home, such as calculus or probability, or are all topics covered again from scratch in the lectures so that no special prior knowledge is required?
+A sound level of prior knowledge is helpful to get started, but not essential. For some, the most difficult part is formal mathematics, e.g. "linear algebra" and "analysis". For example, you can look up what a vector space is and learn a little about matrices. However, the KU also offers a preliminary course before the start of the semester, in which some mathematical basics are covered. The maths courses during the first semester are structured in such a way that all topics are covered from the ground up and you can follow along without much prior knowledge.
+
+Is this degree program usually completed in the given time frame of three years or does it usually take a little longer?
+This degree program is relatively new.  It is designed to ensure that students successfully complete their studies in three years.
+
+What does the timetable look like during a semester?
+By clicking the link
+
+https://www.ku.de/mgf/studiengaenge/master/data-science
+
+you will find the current timetables for the different semesters in the 'Documents' section.
+
+Could you send me the module handbook for the degree program or refer me to an appropriate source?
+You can find such a module handbook on KU.Campus
+
+https://campus.ku.de/
+
+Here, please go to 'Information portal --> Degree programs'. Enter the degree program and the corresponding semester in the search mask. The module handbook appears in the top right-hand corner of the results list, either as a PDF or Word file.
+
+You can find the examination regulations under 'Key documents' on
+
+https://www.ku.de/en/mgf/studiengaenge/master/data-science
+
+Does the University offer its enrolled students free German lessons?
+We support you in achieving at least the required language proficiency level A2, as this must be proven after one year of studies. The University therefore regularly offers free German courses at least up to this level. These are usually scheduled so that they fit into your regular timetable, e.g. on Monday mornings.
+
+Is it possible to study Data Science online or as a hybrid foramt at the KU?
+The degree program is designed as an on-campus program. However, you will usually be provided with online teaching materials and even video recordings for some courses. This means that you can also learn the course content in independent study, although we highly recommend active participation in the courses. However, examinations must always be taken in person.
+
+When do I have to decide on one of the majors offered? And is it possible to change it retrospectively?
+At the end of the second semester, you should decide on a major and choose your courses accordingly from the third semester onwards. However, you can change your major at any time.
+
+Is it possible to spend a semester abroad and when should I do this?
+We are happy to support you in completing a semester abroad. If you are interested, we recommend that you do this in the fifth semester. More information is available at
+
+www.ku.de/en/international/ku-students/study-stays-abroad
+
+... on English as the teaching language
+Lectures and examinations are offered in English. We also offer examinations in German on request. All professors speak German and are willing to explain things in German outside of lectures.  Nowadays, communicating in English has become a necessary skill in science, but also in the industry in the field of research and development – the very fields in which many data scientists work. The KU also offers courses to improve your (English) language proficiency. More information is available here:
+
+https://www.ku.de/en/language-center
+
+Take a look at the following videos to get an impression of the fact that you really do not need in-depth language skills to understand the content of the basic lectures in Data Science:
+
+Prof. Götz Pfander: Linear Algebra 1, Systems of linear equations
+Prof. Götz Pfander: Linear Algebra 1, Ring theory
+Prof. Nadja Ray: Analysis 1, Sequences
+... on the KU Eichstätt-Ingolstadt
+Is the KU a private or a public University? Are the qualifications obtained here also recognized in other countries?
+The University is 85% funded by the Free State of Bavaria and all degree programs follow the same rules as at any other Bavarian university. The KU is considered a private university, but the degrees are the same as at any other German university and are equally recognized abroad. The Data Science degree program is internationally accredited. In addition, studying at the KU is free of charge.
+
+What will the chronological sequence be when I arrive in Ingolstadt?
+Before you travel to Ingolstadt, you should make sure you find accommodation in Ingolstadt (or the surrounding area) in good time. The KU International Office international@ku.de / welcome@ku.de  will be happy to help you. Please contact the KU International Office if you need further practical information. We have a student body that is there to help you, especially in your first days on campus. We also offer a preliminary course before the start of the regular lectures, in which students can get to know each other.
+
+Does the KU provide accommodation for its students and if so, how can I apply for it?
+The International Office international(at)ku.de will help you find accommodation and offers an accommodation service, see
+
+https://www.ku.de/fileadmin/1907/Dokumente_Incoming/Download_Incoming/Housing_Guide_New.pdf
+
+We recommend that you start looking for accommodation as early as possible.
+
+Does the University have a swimming pool and a gym, and is their use free of charge?
+There are many different sports that you can do at the KU. Check out the website of the University Sports Center at:
+
+https://www.ku.de/en/campus-life/sports
+
+Most of the sports courses are held in Eichstätt and the gym is also located there. However, private gyms also often have special offers for students. Swimming pools and gyms generally have very affordable student prices. The KU is currently working on expanding its free sports offering in Ingolstadt.
+
+... on life in Ingolstadt
+Could you please give me an overview of the monthly expenses I can expect during my stay as a student in Ingolstadt?
+Initial information in this respect can be found here.
+If you have any further questions on this topic, please contact the International Office welcome(at)ku.de
+Is it usually possible to speak English with people in Ingolstadt?
+Ingolstadt is quite a large city with many English-speaking people who work at Audi, for example, and an international atmosphere. In addition, many Ingolstadt residents commute to work in Munich, which is also very cosmopolitan.
+… on miscellaneous topics
+What can I do after completing this degree program? Will I get a job and will the University help me?
+Demand in the data science sector is very high on the job market. The Career Center of the KU offers information on internships and careers. It also regularly organizes various workshops and lectures on topics such as job applications, etc.
+
+What does the University's collaboration with Audi, Continental and Airbus mean?
+These and numerous other companies in the region value the study program we offer and will benefit from promising applications from our graduates. In order to get to know these companies better, you can apply for an internship with them during your studies.
+
+... German Language Courses
+At the KU, you have the opportunity to participate in German language courses for free.
+For further information, please visit the website of KU Language Center.

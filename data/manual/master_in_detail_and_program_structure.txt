@@ -1,0 +1,30 @@
+Program Structure
+The standard period of study for the Master of Science in Data Science is four semesters. Students have to acquire 120 ECTS credits that are distributed as follows: 
+
+Required and required elective courses
+The solid basic training in mathematics, statistics and the fundamental methods of data science and machine learning forms the core of the Master's program. This is why students must complete at least 35 ECTS credits in this area (marked in blue in the program structure chart), which are made up as follows: 
+
+The module "Mathematics for Data Science" (10 ECTS, required module) in the first semester lays the mathematical foundation. On the one hand, the aim is to create a uniform language and notation for the basic concepts of analysis and linear algebra – possibly also to close gaps that are to be expected here due to different Bachelor's degrees, and on the other hand, to build a bridge towards infinite-dimensional vector spaces, i.e. basic concepts of functional analysis and operator theory.
+Principles of Data Science or Principles of Machine Learning (10 ECTS, required module). These two modules are offered alternately in the summer semester in a two-year cycle. They build on the "Mathematics for Data Science" module, but are independent of each other, so that students can take the module in their second semester as a required module and optionally take the complementary module as part of the elective area in their fourth semester.
+1-2 modules (5-10 ECTS credits, required elective area) in the field of "Statistics". Students can choose from several modules, which rotate from year to year in order to offer students a larger selection of specialized modules.
+1-2 modules (5-10 ECTS credits, required elective area) in the field of "Mathematics" (applied mathematics). Students can choose from several modules, which rotate from year to year in order to offer students a larger selection of specialized modules.
+In order to implement algorithms and methods of Data Science in practice in a structured manner, information technology fundamentals are essential and are included in the Master's program with at least 10 ECTS credits. The modules are structured as follows: 
+
+Module "Advanced Programming" (5 ECTS credits, required elective). The aim is for students to be able to implement mathematical algorithms in Python in a confident and performant way right from the start of their Master's studies. Programming skills are taken up in many modules and deepened in the respective module contexts. If students already have programming skills at this level, they can add an additional elective module.
+Module "Database Management" (5 ECTS credits, required module). In this module, students learn the structured handling of data (in particular types of databases, modeling and definition of database schemes, data manipulation and querying, data engineering and transaction management), especially with regard to large and/or distributed databases and their use for analytical tasks. 
+The Master's degree program in Data Science always sees data, algorithms and modeling also in a specific application context. In order to consolidate this connection at an early stage, especially before deciding on a Master's project, students must take 20 ECTS credits from a practical application area as follows, typically in the first year of their studies: 
+
+Module "Operations Research" (5 ECTS credits, required module). Here, linear and integer optimization is motivated and discussed from the perspective of specific applications.
+Module "Applied Data Science Project" (10 ECTS credits, required module). The students work in teams on a problem from the application area. Typically, the project is developed and implemented together with a partner company from the industry, but interdisciplinary projects with scientific partners are also possible.
+A required elective module in the field of "Ethics and Law" (5 ECTS credits), which addresses the ethical and legal issues that arise in the collection and analysis of data and enables students to implement corresponding projects safely, also using suitable relevant technologies. 
+Elective area
+20 ECTS credits can be freely selected from the modules on offer that have a connection to Data Science. These modules are taken from the existing modules offered in the following degree programs: 
+
+Interdisciplinary Master's in Mathematics: all modules can be credited
+Interdisciplinary Master’s in Mathematics – Applications in Physical Geography: the modules can generally be credited, see detailed list in Annex II
+Interdisciplinary Master’s in Mathematics – Business Administration Applications: the modules can generally be credited, see detailed list in Annex II
+Master’s in Business Analytics and Operations Research: the modules can generally be credited, see detailed list in Annex 2 of the program description
+Bachelor’s in Mathematics: Selected specialization modules can be credited, see detailed list in Annex II
+Bachelor’s in Data Science: Selected basic and specialization modules can be credited, see detailed list in Annex 2 to the program description 2
+Studium.Pro
+Students are required to select one module from the University-wide Studium.Pro offer. Here, KU students approach mainly socially relevant issues in an interdisciplinary context. This experience can provide essential impulses for subject-related work.

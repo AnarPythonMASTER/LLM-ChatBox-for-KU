@@ -1,0 +1,69 @@
+The new Data Science program teaches the fundamentals of machine learning and other current methods for data analysis, as well as the ability to efficiently implement these methods using modern software technologies.
+
+The necessary knowledge from the fields of study mathematics, statistics, computer science and data science is taught.
+
+As the program progresses, you can select one of six specializations to specifically study the application area that fits your career goals.
+
+Possible specializations and their study plans:
+Applied Mathematics and Scientific Computing
+"Applied Mathematics and Scientific Computing" provides students with a deeper insight into the mathematical foundations of Data Science. The focus of the specialization is on mathematical model building on the one hand, and on the other hand the transition from continuous to discrete and thus practically implementable models.
+
+In the summer semester 2026, the following courses, among others, will be offered (mainly in English). You can choose these as a module for this specialization. Our recommendations for the fourth semester are highlighted in bold in the list:
+
+Differential Equations I (5 ECTS)
+Data Assimilation (5 ECTS)
+For further (possibly German-language) modules that are approved for this specialization, please refer to themodule catalog of the specializations
+
+
+
+
+Business Analytics and Operations
+"Business Analytics and Operations" builds the bridge to economics. In addition to basic knowledge of business administration, e.g. accounting, the focus of this specialization is on data-driven of this specialization is on data-driven approaches to business, organizational and technical problems.
+
+In the summer semester 2026, the following courses, among others, will be offered (mainly in English). You can choose these as a module for this specialization. Our recommendations for the fourth semester are highlighted in bold in the list:
+
+Digital Project (10 ECTS)
+Digital Systems (5 ECTS)
+For further (possibly German-language) modules that are approved for this specialization, please refer to themodule catalog of the specializations
+
+
+
+
+Digital Transformation of Society
+"Digital Transformation of Society" considers applications of Data Science in the social and human sciences. In addition to basic knowledge, students gain insights into the role of empirical methods, e.g. in sociology and journalism. Substantive knowledge of Data Science methods coupled with insights into the social sciences and humanities will enable students to critically engage with the ongoing digital transformation of society.
+
+In the summer semester 2026, the following courses, among others, will be offered (mainly in German). You can choose these as a module for this specialization. Our recommendations for the fourth semester are highlighted in bold in the list:
+
+Journalismus und Mediensysteme (5 ECTS)
+Empirische Kommunikationsforschung II (5 ECTS)
+For further modules that are approved for this specialization, please refer to the module catalog of the specializations
+
+Digital Transformation of Society
+Environmental Sciences
+"Environmental Sciences" provides students with an insight into data-based environmental and earth sciences. A central aspect is the fitting of models for dynamic (time-varying) processes such as weather and climate to measured data, which are often only available inaccurately and incompletely.
+
+In the summer semester 2026, the following courses, among others, will be offered. You can choose these as a module for this specialization. Our recommendations for the fourth semester are highlighted in bold in the list:
+
+Geoinformatik (5 ECTS)
+Geomorphologie (5 ECTS)
+For further modules that are approved for this specialization, please refer to themodule catalog of the specializations
+
+Enviromental Sciences
+Finance and Economics
+„Finance and Economics“ sheds light on macroeconomic relationships, global markets, and financial instruments. These areas are heavily influenced by data-based methods. The specialization expands the students' methodological competence with knowledge of area-specific model building and subject systematics.
+
+In the summer semester 2026, the following courses, among others, will be offered (mainly in English). You can choose these as a module for this specialization. Our recommendations for the fourth semester are highlighted in bold in the list:
+
+Corporate Governance (5 ECTS)
+Behavioral Finance (5 ECTS)
+For further (possibly German-language) modules that are approved for this specialization, please refer to themodule catalog of the specializations
+
+
+Machine Learning and Statistics
+"Machine Learning and Statistics" allows students to deepen their understanding of statistical methods and introduces advanced and research aspects of statistical and machine learning techniques.
+
+In the summer semester 2026, the following courses, among others, will be offered (mainly in English). You can choose these as a module for this specialization. Our recommendations for the fourth semester are highlighted in bold in the list:
+
+Probability Theory (5 ECTS)
+Data Assimilation (5 ECTS)
+For further (possibly German-language) modules that are approved for this specialization, please refer to themodule catalog of the specializations

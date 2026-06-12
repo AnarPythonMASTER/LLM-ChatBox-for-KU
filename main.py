@@ -7,6 +7,7 @@ from scraper.cleaner import clean_all
 from scraper.chunker import chunk_all_files, print_stats
 from scraper.embedder import run_embeddings
 from scraper.vector_store import build_vector_store, test_retrieval
+from scraper.manual_injector import inject_manual_data
 
 
 def phase_already_done(check_path: str) -> bool:
@@ -54,6 +55,10 @@ def main():
         chunks = chunk_all_files()
         print_stats(chunks)
 
+    # ── PHASE 4.5: INJECT MANUAL DATA ───────────────
+    logger.info("\n--- PHASE 4.5: INJECTING MANUAL PROFESSOR DATA ---")
+    inject_manual_data()
+    
     if phase_already_done("data/embeddings/embeddings.npy"):
         logger.info("--- PHASE 5: SKIPPED (embeddings exist) ---")
     else:

@@ -1,0 +1,53 @@
+Summary
+What Profile should I have?
+[Translate to Englisch:] KU Student
+Good acquaintance with mathematics
+Analytical thinking
+Passion for understanding complex problems and desire to develop technical solutions for them
+General university entrance qualification
+English language skills
+for international students: German A2 after 1st year of study
+Career opportunities
+[Translate to Englisch:] Student Roboter
+The future is taught here!
+We offer an innovative and modern degree program. Data Scientists are urgently needed due to the immensely growing amounts of data, especially in industry. During your studies you can already choose a specialization, e.g. in the fields of business analytic, digital transformation of society, environmental sciences or finance and economics.
+
+Thanks to the English-language orientation of our degree program, you will be ready for the international job market!
+
+Why study Data Science at KU?
+[Translate to Englisch:] Studis Laptop oben
+Forward looking field of study
+Established and modern learning concepts
+Excellent ratio of faculty to students thanks to small groups 
+Preparation for the international job market thanks to english-language orientation and international contacts
+Discussion of ethical issues regarding the handling of data
+Gaining experience with well-known industry partners
+Living and studying at Germany's most popular university
+Contents
+In addition to learning the fundamentals of 
+
+Data Science and Machine Learning, 
+students will build a firm foundation in the areas of 
+
+Mathematics, 
+Statistics, and 
+Computer science.  
+Thus, students are offered an interdisciplinary perspective on data science, which is augmented by a variety of application areas available through the following specializations:
+
+Applied Mathematics and Scientific Computing
+"Applied Mathematics and Scientific Computing" provides students with a deeper insight into the mathematical foundations of Data Science. The focus of the specialization is on mathematical model building on the one hand, and on the other hand the transition from continuous to discrete and thus practically implementable models.
+
+Business Analytics and Operations
+"Business Analytics and Operations" builds the bridge to economics. In addition to basic knowledge of business administration, e.g. accounting, the focus of this specialization is on data-driven of this specialization is on data-driven approaches to business, organizational and technical problems.
+
+Digital Transformation of Society
+"Digital Transformation of Society" considers applications of Data Science in the social and human sciences. In addition to basic knowledge, students gain insights into the role of empirical methods, e.g. in sociology and journalism. Substantive knowledge of Data Science methods coupled with insights into the social sciences and humanities will enable students to critically engage with the ongoing digital transformation of society.
+
+Finance and Economics
+„Finance and Economics“ sheds light on macroeconomic relationships, global markets, and financial instruments. These areas are heavily influenced by data-based methods. The specialization expands the students' methodological competence with knowledge of area-specific model building and subject systematics.
+
+Environmental Sciences
+"Environmental Sciences" provides students with an insight into data-based environmental and earth sciences. A central aspect is the fitting of models for dynamic (time-varying) processes such as weather and climate to measured data, which are often only available inaccurately and incompletely.
+
+Machine Learning and Statistics
+"Machine Learning and Statistics" allows students to deepen their understanding of statistical methods and introduces advanced and research aspects of statistical and machine learning techniques.

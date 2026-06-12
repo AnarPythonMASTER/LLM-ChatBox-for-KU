@@ -1,0 +1,144 @@
+Requirements
+Bachelor
+Language requirements
+English B2
+Application period winter
+May 01 - Jul 15
+Application period summer
+Dec 01 - Jan 15
+Admission restriction
+No
+Selection procedure
+Yes
+Requirements
+
+All applicants who have obtained a “Master's entrance qualification” (i.e., usually their first Bachelor's degree relevant for the Master's program in Data Science) in Europe can submit their application via the KU application portal from December 1 (summer semester) and May 1 (winter semester).
+If a relevant Bachelor's degree in Data Science, Mathematics, Computer Science, Statistics, or Physics with an overall grade of 2.0 or better has been obtained in the European region (Lisbon Convention), the otherwise required aptitude test is waived.
+Applicants who have obtained their Master's entrance qualification outside the countries of the Lisbon Convention are subject to a mandatory aptitude test.This aptitude test only takes place before the start of the winter semester! Further details are available here.
+Important note!
+Detailed information on the application requirements and application process
+Please read this information carefully to ensure that you prepare all necessary documents for your digital application.
+
+Admission requirements:
+
+A Bachelor's degree in Data Science, Mathematics, Statistics, Computer Science, or Physics or a very closely related field. Your degree must also be formally equivalent to a German academic Bachelor's degree in order to be considered eligible for admission to a Master's program.
+If you are unsure whether your international Bachelor's degree is considered equivalent, you can carry out an initial self-assessment using the anabin database (www.anabin.de).
+
+Admission
+
+All complete applications are checked and, if necessary, subjected to an aptitude test. Applicants who achieve a grade in the aptitude test that corresponds to a German grade of 2.0 or better will be admitted.
+
+Please note: The aptitude grade may differ from the grade of your Bachelor's degree.
+
+If you need a visa to study in Germany, please apply for it as early as possible.
+
+Information on the degree program
+
+Details on program content and application deadlines is available here: https://www.ku.de/studienangebot/data-science-msc
+
+If you have any questions, please contact: welcome(at)ku.de.
+
+We are looking forward to your application!
+
+How to apply
+How to apply:
+
+International applicants with a Master's entrance qualification obtained outside the EU
+
+If you have obtained the degree that entitles you to pursue Master's studies outside the European Union, you must apply using uni-assist (https://www.uni-assist.de).
+
+Please note:
+
+Whether an application using uni-assist is required depends solely on the country in which you have acquired the Master's entrance qualification for the field of "Data Science". Master's degrees or additional Bachelor's degree programs that have been started or completed within the EU do not affect this rule. Also remember that the UK is no longer part of the EU.
+
+If you belong to this applicant group, please submit your application exclusively using uni-assist.de.
+
+Neither registration nor an additional application using the KU application portal is required.   On the contrary, this can even lead to problems when processing applications. As soon as your application has been successfully reviewed, uni-assist will forward your documents to us. This is because we are not currently using the VPD system. Therefore, we cannot accept VPDs obtained for other degree programs.
+
+All other applicants
+
+Applicants who do not fall under the above category can apply directly using our application portal: https://studienservice.ku.de/
+
+Special provisions for applications for the summer semester
+
+Please note that only certain groups of applicants can apply for the summer semester:
+
+You can only apply for the summer semester in the following cases:
+
+You have obtained your first university degree relevant to the M.Sc. Data Science in a country that has ratified the Convention on the Recognition of Qualifications concerning Higher Education in the European Region.
+Your Bachelor's degree corresponds to a German grade of 2.0 or better.
+A list of signatory states is available here: https://www.coe.int/en/web/conventions/full-list?module=signatures-by-Treaty&treatynum=165
+
+You can find a tool for converting grades here: https://www.ku.de/studium/informationen-fuer-studierende/anerkennung-und-anrechnung/anrechnungsprozess-antrag-folgen-lehramt-praktika-bafoeg/notenuebernahme-und-umrechnung/modifizierte-bayerische-formel
+
+In the German grading system, 1.0 is the best grade and 4.0 is the minimum passing grade. The linked grade conversion tool is based on the Bavarian formula. Please note that international grading systems can differ greatly. The result of the calculation therefore only serves as a first guideline and is not legally binding.
+
+Important difference: Applications for the winter semester
+
+All applicants from the field of Data Science (see "Admission requirements") can apply for the winter semester, regardless of their previous country of study or Bachelor's degree.
+
+More information on the KU application process is available here: https://www.ku.de/en/study-at-the-ku/information-for-foreign-nationals/student-office/application-and-enrollment/information-for-foreign-nationals
+
+Required application documents
+Required documents for application:
+
+1. A complete résumé listing all levels of education, starting with the last three years of secondary school.
+
+2. Higher secondary education
+
+2.1 Original or certified copy of the school leaving certificate from secondary school (Abitur etc.)
+
+2.1.2 Original or certified copy of the German or English translations (if required) of the above certificates. Your secondary school leaving certificate/ Abitur certificate must include your average final grade!
+
+2.2. In order to convert the grade of your school leaving certificate into a German grade, we need the official grading system of your school. Therefore, please prepare a copy of the official grading system when uploading the documents.
+
+2.3 If applicable: University entrance qualification from your home country
+
+3 Bachelor's degree
+
+3.1 Original or certified copy of your university degree certificate (Bachelor's degree or equivalent)
+
+3.1.1 Original or certified copy of the German or English translations of the above certificates (if required)
+
+3.2 Complete certificates/transcripts (original or certified copy) from your Bachelor's degree program
+
+3.2.1 Original or certified copy of the German or English translations (if required) of the above certificates/transcripts.
+
+3.3 Your certificate (and the translation) must show the average grade of your university degree.
+
+3.4 In order to convert the grade of your school leaving certificate into a German grade, we need the official grading system of your university. Therefore, please prepare a copy of the official grading system when uploading the documents.
+
+3.5 The following modules must have been completed during the Bachelor's degree program:
+
+Analysis I and II for Data Science
+Linear Algebra I and II
+Introductory Statistics and Stochastics
+Optimization for Data Science (i.e. an introductory course in optimization)
+Introductory course in programming (preferably the basics of Python programming)
+Algorithms and Data Structures
+Please upload your transcript of records for the Bachelor's degree and mark the relevant modules. The skills listed can be acquired during the first and second semesters of our Master's program; until then, enrollment is provisional. If this proof is not provided by the end of the second semester, you will be de-registered. Please note that you must complete the required modules in the first two semesters of your standard period of study. Unfortunately, we do not offer an orientation year or anything similar.
+
+Proof of English language skills at B2 level (e.g. TOEFL score of 78 or better, IELTS test 6.0 or better; Bachelor Bachelor or Master's degree which teaching in English – confirmation from university required – etc.).
+
+Applicants who have previously studied in China, India or Vietnam: APS certificate
+
+Additional documents (optional)
+
+6. Proof of a "GRE Subject Test" in mathematics (strongly recommended for applicants whose first professionally qualifying university degree or equivalent qualification was not obtained in a country that has ratified the Lisbon Convention - see above).
+
+7. Proof of internships in the professional fields relevant to the degree program
+
+8. Relevant scientific publications.
+
+9. Subject-related teaching experience.
+
+10. Proof of non-university activities in the field of mathematics or data science (e.g. participation in recognized specialist competitions, involvement in science communication, etc.).
+
+Checklist Module Prerequisites
+
+Application
+The application process for international applicants is now completely digital. You can register online in our application portal and carry out and submit your application. After you have carried out the application and uploaded your documents, you do not need to send your documents to us again by post. You do have to submit certified true copies only if you are admitted at the time of enrollment.
+
+Depending on the course of study, you may be asked for information on internships, professional experience, etc. Please upload the relevant documents in the upload area for all the information you provide, even if these are not mandatory fields!
+
+Before you start the application process, please read the additional information on this page, in particular the information on the respective (German) language requirements and university entrance qualifications.

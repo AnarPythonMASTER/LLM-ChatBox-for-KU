@@ -10,7 +10,7 @@ from scraper.utils import logger
 # ──────────────────────────────────────────────
 # CONFIGURATION
 # ──────────────────────────────────────────────
-OLLAMA_MODEL = "gemma3:1b"          # change to "llama3" if prefered
+OLLAMA_MODEL = "llama3"          # change to "gemma3:1b" if prefered
 OLLAMA_URL = "http://localhost:11434/api/generate"
 
 COLLECTION_NAME = "ku_faculty"
@@ -19,6 +19,7 @@ EMBEDDING_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
 N_RETRIEVE = 10    # how many chunks to fetch from ChromaDB
 N_FINAL = 5        # how many to keep after reranking
 TEMPERATURE = 0.0  # 0 = fully deterministic, factual
+MIN_SCORE_THRESHOLD = 0.60  # minimum vector similarity to consider a chunk relevant
 # ──────────────────────────────────────────────
 
 SYSTEM_PROMPT = """You are a helpful academic assistant for the Katholische Universität Eichstätt-Ingolstadt (KU).
@@ -211,36 +212,41 @@ class RAGPipeline:
         # Step 2: Rerank
         chunks = rerank_chunks(query, chunks, final_k=N_FINAL)
 
+        # Step 3: Filter out weak retrievals
+        strong_chunks = [c for c in chunks if c["combined_score"] >= MIN_SCORE_THRESHOLD]
+
+        if not strong_chunks:
+            return {
+                "query": query,
+                "answer": (
+                "I don't have reliable information about this in my knowledge base. "
+                "This may be because the topic isn't covered on the public KU website. "
+                "Please check www.ku.de directly or contact the faculty office."
+                ),
+                "sources": []
+            }
+
         if verbose:
-            logger.info(f"Top chunks after reranking:")
-            for c in chunks:
+            logger.info("Top chunks after reranking:")
+            for c in strong_chunks:
                 logger.info(
                     f"  [{c['combined_score']:.3f}] "
                     f"{c['title'][:50]} — "
                     f"{c['text'][:80]}..."
                 )
 
-        # Step 3: Build prompt
-        prompt = self.build_prompt(query, chunks)
+        # Step 4: Build prompt
+        prompt = self.build_prompt(query, strong_chunks)
 
-        # Step 4: Generate
+        # Step 5: Generate
         answer = self.generate(prompt)
 
-        # Step 5: Format sources
         sources = [
-            {
-                "title": c["title"],
-                "url": c["source_url"],
-                "score": c["combined_score"]
-            }
-            for c in chunks
+            {"title": c["title"], "url": c["source_url"], "score": c["combined_score"]}
+            for c in strong_chunks
         ]
 
-        return {
-            "query": query,
-            "answer": answer,
-            "sources": sources
-        }
+        return {"query": query, "answer": answer, "sources": sources}
 
 
 def test_rag_pipeline():
