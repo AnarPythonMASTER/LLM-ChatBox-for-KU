@@ -1,0 +1,32 @@
+SOURCE_URL: https://ku.de
+TITLE: Data Science Key facts
+SOURCE_FILE: bachelor_general_and_application_deadlines.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: programme_info
+name: Data Science Bachelor Overview (Key Facts)
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt is a Bachelor of Science degree taught in English. It is a full-time programme with a standard duration of 6 semesters and is located at the Ingolstadt campus. The programme has a semester fee of 88 EUR and does not offer part-time study options. It starts in the winter semester and prepares students for the international job market through an English-language academic environment and international contacts.
+
+===CHUNK===
+type: admission
+name: Application Deadlines for Winter Semester 2026/27
+programme: data_science_bachelor
+---
+For the Data Science Bachelor programme at KU Eichstätt-Ingolstadt, applicants without a German university entrance qualification can apply from 1 April to 15 July 2026 for the winter semester 2026/27. Applicants with a German university entrance qualification (e.g. Abitur) do not need to apply and instead enroll directly between 10 August and 2 October 2026.
+
+===CHUNK===
+type: programme_info
+name: Data Science Programme Content and Focus
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt teaches fundamental methods of machine learning, statistical data analysis, and software-based implementation techniques. The curriculum integrates mathematics, statistics, computer science, and data science. Students learn to analyse large-scale data and develop machine learning models, including neural networks, applied in areas such as recommendation systems, weather forecasting, and image recognition. As the programme progresses, students choose one of six specializations aligned with their career goals.
+
+===CHUNK===
+type: programme_info
+name: Practical Relevance and Career Preparation
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt emphasizes practical application of machine learning and data analysis methods using modern software technologies. The programme is designed to prepare students for the international job market through English-language instruction and exposure to international academic and professional environments.

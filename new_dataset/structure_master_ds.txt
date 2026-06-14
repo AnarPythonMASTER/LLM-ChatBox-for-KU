@@ -1,0 +1,46 @@
+SOURCE_URL: https://www.ku.de/en/study-offer/data-science-msc
+TITLE: Master Data Science Study Structure
+SOURCE_FILE: structure_master_ds.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: structure
+name: Master Data Science Overview and Duration
+programme: data_science_master
+---
+The Master of Science (M.Sc.) Data Science at KU Eichstätt-Ingolstadt lasts 4 semesters, with 30 ECTS per semester and 120 ECTS in total. The programme combines a compulsory area (Pflichtbereich), compulsory elective areas (Wahlpflichtbereiche) in Mathematics, Ethics and Law, and Programming, a general elective area (Wahlbereich), and a Master Thesis. The new Master Data Science was first offered in the winter semester 2025/26.
+
+===CHUNK===
+type: structure
+name: Master Data Science Semester 1 Courses
+programme: data_science_master
+---
+In the first semester of the Data Science Master at KU (30 ECTS), students take: Mathematics for Data Science (10 ECTS, compulsory), a Statistics/Math Elective (5 ECTS), Programming (5 ECTS), Operations Research (5 ECTS), and a General Elective (5 ECTS).
+
+===CHUNK===
+type: structure
+name: Master Data Science Semester 2 Courses
+programme: data_science_master
+---
+In the second semester of the Data Science Master at KU (30 ECTS), students take: Principles of Data Science / Principles of Machine Learning (10 ECTS, compulsory), a Statistics/Math Elective (5 ECTS), Database Management (5 ECTS), and the Applied Data Science Project (10 ECTS, compulsory).
+
+===CHUNK===
+type: structure
+name: Master Data Science Semester 3 Courses
+programme: data_science_master
+---
+In the third semester of the Data Science Master at KU (30 ECTS), students take: a Statistics/Math Elective (5 ECTS), an Ethics and Law Elective (5 ECTS), the Studium.Pro module (5 ECTS), and a General Elective (5 ECTS).
+
+===CHUNK===
+type: structure
+name: Master Data Science Semester 4 Courses
+programme: data_science_master
+---
+In the fourth and final semester of the Data Science Master at KU (30 ECTS), students complete the Master Thesis (30 ECTS). Note: the study plan also shows General Elective slots associated with the later stage of the programme; the defining component of the fourth semester is the Master Thesis.
+
+===CHUNK===
+type: structure
+name: Master Data Science Module Categories
+programme: data_science_master
+---
+The Data Science Master at KU organizes modules into several areas. The compulsory area (Pflichtbereich) includes Mathematics for Data Science, Principles of Data Science / Principles of Machine Learning, Database Management, Operations Research, and the Applied Data Science Project. The compulsory elective area in Mathematics (Wahlpflichtbereich Mathematics) covers the Statistics/Math electives. There are also compulsory elective areas for Ethics and Law (Wahlpflichtbereich Ethics and Law) and for Programming (Wahlpflichtbereich Programming), plus a general elective area (Wahlbereich).

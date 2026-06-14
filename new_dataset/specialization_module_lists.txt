@@ -1,0 +1,60 @@
+SOURCE_URL: https://campus.ku.de
+TITLE: Data Science Specialization Module Lists
+SOURCE_FILE: specialization_module_lists.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: specialization
+name: Applied Mathematics and Scientific Computing Module List
+programme: data_science_bachelor
+area: specialization_applied_mathematics
+---
+The Applied Mathematics and Scientific Computing specialization in the Data Science Bachelor at KU includes the following modules from which students choose: Differential Equations II, Analysis III, Introduction to Discrete and Non-Linear Optimization, Introduction to Mathematical Modeling, Introduction to Data Assimilation, Differential Equations I, Introduction to Numerical Mathematics, Introduction to Scientific Computing, Introduction to Functional Analysis. Students select modules from this specialization to reach the required 25 ECTS for their Focus Area.
+
+===CHUNK===
+type: specialization
+name: Business Analytics and Operations Module List
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+The Business Analytics and Operations specialization in the Data Science Bachelor at KU includes the following modules from which students choose: Digital Systems and Operations Management, Digital and Sustainable Business Models, Digital Project, Software Tools for Simulation and Optimization, Systems Development, Software Engineering and Programming, Supply Chain Analytics, Operations Management Case Studies, Digital Business Strategies, Organization and Innovation, Digital Seminar in Data Science and Quantitative Applications, Proseminar SCM - Generative AI in Logistics, Business Analytics and Data Mining, Data Analytics Lab, Service and Technology Marketing, Operations Analytics. Students select modules from this specialization to reach the required 25 ECTS for their Focus Area.
+
+===CHUNK===
+type: specialization
+name: Digital Transformation of Society Module List
+programme: data_science_bachelor
+area: specialization_digital_transformation
+---
+The Digital Transformation of Society specialization in the Data Science Bachelor at KU includes the following modules from which students choose: Changemaker - Developing Sustainable Projects, Basics of Journalism and Communication Science, Empirical Communication Research I, Quantitative Methods of Empirical Social Research, Practical Course on Empirical Social Research, Journalism and Media Systems, Empirical Communication Research II - Application Project, Empirical Sociology. Students select modules from this specialization to reach the required 25 ECTS for their Focus Area.
+
+===CHUNK===
+type: specialization
+name: Environmental Sciences Module List
+programme: data_science_bachelor
+area: specialization_environmental_sciences
+---
+The Environmental Sciences specialization in the Data Science Bachelor at KU includes the following modules from which students choose: Techniques of Geography 1 - Understanding Maps and Cartographic Practice, Techniques of Geography 3 - Remote Sensing, GIS and Statistics, Techniques of Geography 2 - Geoinformatics, Physical Geography 2 - Geomorphology, Physical Geography Field Lab. Students select modules from this specialization to reach the required 25 ECTS for their Focus Area.
+
+===CHUNK===
+type: specialization
+name: Finance and Economics Module List
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+The Finance and Economics specialization in the Data Science Bachelor at KU includes the following modules from which students choose: Performance Measurement, Management Accounting, Investment, Finance and Tax, International Business, Company Taxation in the EU, Foundations of Economics, Capital Market Theory, Labour Economics, Corporate Governance, Balancing and Business Taxation, Monetary Policy, Sustainable Development, Microeconomics, Macroeconomics, Behavioral Finance. Students select modules from this specialization to reach the required 25 ECTS for their Focus Area.
+
+===CHUNK===
+type: specialization
+name: Machine Learning and Statistics Module List
+programme: data_science_bachelor
+area: specialization_machine_learning
+---
+The Machine Learning and Statistics specialization in the Data Science Bachelor at KU includes the following modules from which students choose: Deep Learning, Measure Theory, Applied Statistics and Applications with R, Probability Theory. Students select modules from this specialization to reach the required 25 ECTS for their Focus Area.
+
+===CHUNK===
+type: module
+name: Applied Data Science Project
+programme: data_science_master
+area: required
+---
+The Applied Data Science Project is a required module in the Master Data Science at KU, worth 10 ECTS and normally taken in the second semester. In this module, students work in teams on a real problem from an application area. The project is typically developed and implemented together with a partner company from industry, though interdisciplinary projects with scientific partners are also possible. It consolidates the connection between data, algorithms, and modeling in a concrete application context before students choose their Master thesis topic.

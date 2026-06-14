@@ -1,0 +1,53 @@
+SOURCE_URL: https://ku.de
+TITLE: Data Science Bachelor contacts, advisors
+SOURCE_FILE: bachelor_contacts.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: contact
+name: Data Science Programme Advisory Online Consultation (Sarah Eberle-Blick)
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt offers online consultation hours on course content and structure provided by Dr. Sarah Eberle-Blick. Open office hours are scheduled on Tuesday 19 May at 10:00 and 13:30, and on Tuesday 16 June at 10:00 and 13:30. Online meetings take place via Zoom at https://kuei.zoom-x.de/j/66508682137 with Meeting ID 665 0868 2137 and passcode 064149.
+
+===CHUNK===
+type: contact
+name: KU International Office Student Advisory Service
+programme: data_science_bachelor
+---
+The KU International Office provides general student advisory services for the Data Science Bachelor programme at KU Eichstätt-Ingolstadt, including guidance on housing, health insurance, visas, finances, scholarships, and career advice. On-site consultation hours are Monday 09:30–11:30 in room HB-209 and Thursday 13:30–15:30 in room HB-209. Online consultation is available on Tuesdays at 12:30 (UTC+01) via Zoom at https://kuei.zoom-x.de/j/68237518611 with Meeting ID 682 3751 8611 and passcode 397650. The service is provided by Ms. Armelle Langenwald.
+
+===CHUNK===
+type: contact
+name: Examinations Office Administrator (Christina Jadgarow)
+programme: data_science_bachelor
+---
+The Examinations Office for the Data Science Bachelor programme at KU Eichstätt-Ingolstadt is administered by Christina Jadgarow, who can be contacted via phone at +49 8421 93-21591 or through the official contact form. The office is located in the Hauptbau building, room HB-010a, at Auf der Schanz 49, 85049 Ingolstadt. Office hours are available by appointment on Monday, Tuesday, and Friday from 08:30 to 11:30, with open consultation hours on Thursday from 08:30 to 11:30. Administrative absences are published in the student portal.
+
+===CHUNK===
+type: contact
+name: Examinations Office Administrator (Birgit Schirmer)
+programme: data_science_bachelor
+---
+The Examinations Office for the Data Science Bachelor programme at KU Eichstätt-Ingolstadt is supported by Birgit Schirmer, who can be contacted via phone at +49 8421 93-21819 or through the official contact form. The office is located in the Hauptbau building, room HB-010a, at Auf der Schanz 49, 85049 Ingolstadt. Office hours are available by appointment on Thursday from 13:30 to 15:30, with open consultation hours on Tuesday from 13:30 to 15:30. Working hours are Monday to Thursday in the afternoon.
+
+===CHUNK===
+type: professor
+name: Programme Spokesperson (Nadja Ray)
+programme: data_science_bachelor
+---
+The programme spokesperson for the Data Science Bachelor programme at KU Eichstätt-Ingolstadt is Prof. Dr. Nadja Ray, Chairholder of Geomatics and Geomathematics. She can be contacted by phone at +49 841 937-21159 and by email at nadja.ray@ku.de. Her office is located in the Georgianum building, room GEOG-104, at Auf der Schanz 49, 85049 Ingolstadt. She is responsible for programme-level coordination within the MIDS institute.
+
+===CHUNK===
+type: professor
+name: Subject Advisor and Course Support (Sarah Eberle-Blick)
+programme: data_science_bachelor
+---
+Dr. Sarah Eberle-Blick is a research associate at KU Eichstätt-Ingolstadt and serves as subject advisor for the Data Science Bachelor programme within MIDS. She can be contacted via email at sarah.eberle-blick@ku.de and works in room GEOG-105 at the Georgianum building, Auf der Schanz 49, 85049 Ingolstadt. She is also responsible for academic advisory support and provides structured consultation hours and programme guidance, including online advisory sessions for course content and structure.
+
+===CHUNK===
+type: professor
+name: Data Science Bachelor Examinations Committee Contact
+programme: data_science_bachelor
+---
+The Examinations Committee for the Data Science Bachelor programme at KU oversees examination-related academic decisions within the programme. It is chaired by Prof. Marcel Oliver, who can be contacted about examination matters by email at marcel.oliver@ku.de or by phone at +49 841 937-21401. For general examination procedures, students can also contact the central Examination Office (Prüfungsamt).

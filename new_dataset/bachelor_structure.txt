@@ -1,0 +1,137 @@
+SOURCE_URL: https://ku.de
+TITLE: Data Science Bachelor programs FAQ
+SOURCE_FILE: FAQ.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: programme_info
+name: Data Science Bachelor Profile and Admission Requirements
+programme: data_science_bachelor
+---
+Applicants to the Data Science Bachelor programme at KU Eichstätt-Ingolstadt are expected to have a strong background in mathematics, analytical thinking skills, and a strong interest in understanding complex problems and developing technical solutions. Required qualifications include a general university entrance qualification and English language proficiency. International students must additionally provide proof of German language proficiency at A2 level after the first year of study.
+
+===CHUNK===
+type: programme_info
+name: Data Science Career Outlook and Specialization Areas
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt prepares students for high-demand careers in data science due to the rapidly increasing volume of data in industry and research. Students can already choose a specialization during their studies, including business analytics, digital transformation of society, environmental sciences, finance and economics, applied mathematics, or machine learning. The programme emphasizes international employability through English-language instruction.
+
+===CHUNK===
+type: programme_info
+name: Reasons to Study Data Science at KU
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt offers a forward-looking curriculum with modern teaching concepts, small study groups enabling close faculty interaction, and strong preparation for the international job market through English-language instruction and global connections. The programme also addresses ethical aspects of data use, provides exposure to industry partners, and is part of a highly student-satisfied university environment known for strong student recommendations.
+
+===CHUNK===
+type: programme_info
+name: Data Science Core Curriculum Structure
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt combines foundational studies in Data Science and Machine Learning with interdisciplinary training in mathematics, statistics, and computer science. This structure provides students with a broad analytical and technical foundation that supports both theoretical understanding and practical application across data-driven fields.
+
+===CHUNK===
+type: specialization
+name: Applied Mathematics and Scientific Computing
+programme: data_science_bachelor
+---
+The Applied Mathematics and Scientific Computing specialization in the Data Science Bachelor programme at KU Eichstätt-Ingolstadt focuses on mathematical modelling and the transition from continuous to discrete systems. It provides deeper insight into the mathematical foundations of data science and emphasizes building models that can be implemented in practical computational settings.
+
+===CHUNK===
+type: specialization
+name: Business Analytics and Operations
+programme: data_science_bachelor
+---
+The Business Analytics and Operations specialization in the Data Science Bachelor programme at KU Eichstätt-Ingolstadt connects data science with economics and business administration. It includes topics such as accounting and focuses on data-driven approaches to organizational, business, and technical decision-making problems.
+
+===CHUNK===
+type: specialization
+name: Digital Transformation of Society
+programme: data_science_bachelor
+---
+The Digital Transformation of Society specialization in the Data Science Bachelor programme at KU Eichstätt-Ingolstadt applies data science methods to social sciences and humanities. It introduces students to empirical methods used in fields such as sociology and journalism and enables critical reflection on the role of data in societal transformation.
+
+===CHUNK===
+type: specialization
+name: Finance and Economics
+programme: data_science_bachelor
+---
+The Finance and Economics specialization in the Data Science Bachelor programme at KU Eichstätt-Ingolstadt focuses on macroeconomic systems, global markets, and financial instruments. It strengthens students’ methodological skills in modelling economic systems using data-driven approaches and applied quantitative methods.
+
+===CHUNK===
+type: specialization
+name: Environmental Sciences
+programme: data_science_bachelor
+---
+The Environmental Sciences specialization in the Data Science Bachelor programme at KU Eichstätt-Ingolstadt applies data science methods to environmental and earth systems. It focuses on modelling dynamic processes such as weather and climate using incomplete or noisy real-world data.
+
+===CHUNK===
+type: specialization
+name: Machine Learning and Statistics
+programme: data_science_bachelor
+---
+The Machine Learning and Statistics specialization in the Data Science Bachelor programme at KU Eichstätt-Ingolstadt deepens students’ understanding of statistical methods and advanced machine learning techniques, including research-oriented approaches in statistical learning.
+
+===CHUNK===
+type: programme_info
+name: Data Science Internship Requirement and Industry Partners
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt includes an eight-week mandatory internship, which can be completed in industry or as a research internship at KU institutes such as the Mathematical Institute for Machine Learning and Data Science or other universities. The KU Career Center provides internship guidance in Germany and abroad. Industry partners include Audi, Continental, Airbus, Primetals, and Cariad.
+
+===CHUNK===
+type: programme_info
+name: University Reputation and Student Satisfaction Ranking
+programme: data_science_bachelor
+---
+KU Eichstätt-Ingolstadt has been ranked Germany’s most popular university multiple times, including in 2021, 2022, 2024, and 2026 in the StudyCheck ranking based on over 70,000 student evaluations. Approximately 97 percent of students and alumni surveyed would recommend studying at KU. The university highlights this as a reflection of high student satisfaction.
+
+===CHUNK===
+type: structure
+name: Data Science Bachelor Programme Structure and ECTS System
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt is a six-semester degree requiring the completion of 180 ECTS credits. The programme is structured into a compulsory core area, a specialization (focus area), and a required elective area. It also includes a Bachelor’s seminar and a Bachelor’s thesis as integral components of the degree.
+
+===CHUNK===
+type: structure
+name: Required Core Modules in Data Science Bachelor
+programme: data_science_bachelor
+---
+The compulsory core area of the Data Science Bachelor programme at KU Eichstätt-Ingolstadt includes foundational modules in Data Science, mathematics, statistics, and computer science. Data Science modules include Data Lab, Ethics of Algorithms and Data, Foundations of Data Science, Foundations of Machine Learning, Hands-on Machine Learning and Data Science, and Practical Training. Mathematics includes Analysis for Data Science 1 and 2, Linear Algebra 1 and 2 with Analytic Geometry, and Optimization in Data Science. Statistics includes Introduction to Statistics, Introduction to Stochastics, and Statistical Learning. Computer science includes Introduction to Programming, Advanced Programming, Algorithms and Data Structures, and Basics of Information Systems.
+
+===CHUNK===
+type: structure
+name: Programme Design and KU-Specific Core Modules
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt is designed so that, except for foundational courses in Linear Algebra, Statistics, and Stochastics, most core modules are specifically developed for this degree programme. This ensures a programme-specific curriculum tailored to data science education rather than a generic set of courses.
+
+===CHUNK===
+type: structure
+name: Specialization System and Degree Recognition
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt allows students to choose a specialization that deepens knowledge in a selected area of data science or its application fields. The chosen specialization is recorded on the final bachelor’s certificate. Available specializations include Applied Mathematics and Scientific Computing, Business Analytics and Operations, Digital Transformation of Society, Environmental Sciences, Finance and Economics, and Machine Learning and Statistics.
+
+===CHUNK===
+type: structure
+name: Required Elective Area and Interdisciplinary Studium.Pro Module
+programme: data_science_bachelor
+---
+The required elective area in the Data Science Bachelor programme at KU Eichstätt-Ingolstadt allows students to expand their studies beyond core content or deepen interdisciplinary competencies. Modules that belong to a specialization can also be counted in this area, supplemented by additional electives. Students must also complete a module from the inter-university Studium.Pro programme, which focuses on interdisciplinary and socially relevant topics across KU programmes.
+
+===CHUNK===
+type: programme_info
+name: Semester Fee and Study Mode Restrictions
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt has a semester fee of 88 EUR. The programme is a full-time degree and does not offer part-time study options.
+
+===CHUNK===
+type: programme_info
+name: Real-World Applications of Data Science and Artificial Intelligence
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt is motivated by real-world applications of artificial intelligence and machine learning, including systems such as recommendation algorithms on streaming platforms like Netflix, weather forecasting systems, image recognition on smartphones, and other large-scale data-driven technologies. These examples illustrate how modern society relies on statistical methods, machine learning, and data analysis to process large volumes of data across many domains.

@@ -1,0 +1,116 @@
+SOURCE_URL: https://ku.de
+TITLE: Application, Requirements, Admission for Data Science Bachelor
+SOURCE_FILE: application_ds_bachelor.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: admission
+name: Admission Requirements for Data Science Bachelor (General Entry Criteria)
+programme: data_science_bachelor
+---
+Admission to the Data Science Bachelor programme at KU Eichstätt-Ingolstadt requires a general German university entrance qualification (Abitur) or a subject-specific university entrance qualification in the economics or technical/science branch. The programme has no admission restriction and no formal selection procedure for applicants who meet the entry requirements. Applicants with a German university entrance qualification can directly enroll within the application period from 1 April to 15 July. The programme is taught in English in the first year, with German language development required during studies.
+
+===CHUNK===
+type: admission
+name: Application Routes (Germany, EU, and Non-EU Applicants)
+programme: data_science_bachelor
+---
+For the Data Science Bachelor programme at KU Eichstätt-Ingolstadt, application procedures depend on nationality and place of qualification. Applicants with a German university entrance qualification apply directly via the KU application portal. EU applicants with a non-German EU qualification must submit their academic and language documents via ku.de/application for formal verification between 1 April and 15 July. Applicants who obtained their university entrance qualification outside the EU must apply exclusively via uni-assist, which performs the initial formal review before forwarding eligible applications to KU.
+
+===CHUNK===
+type: admission
+name: Aptitude Assessment Procedure for Non-EU Applicants
+programme: data_science_bachelor
+---
+Non-EU applicants to the Data Science Bachelor programme at KU Eichstätt-Ingolstadt who obtained their higher education entrance qualification outside the European Union must complete an aptitude assessment procedure. The evaluation considers school and university performance, especially in mathematics and computer science, standardized test results such as SAT or TestAS, participation in mathematics or computer science competitions, and relevant extracurricular activities in data science. The final admission score is calculated as the average of the school qualification grade and the aptitude test grade, and admission is granted if the final score is 2.0 (German grading equivalent) or better.
+
+===CHUNK===
+type: admission
+name: General Application Rules for International Applicants
+programme: data_science_bachelor
+---
+International applicants for the Data Science Bachelor programme at KU Eichstätt-Ingolstadt must verify whether their university entrance qualification is equivalent to a German qualification, using databases such as anabin or DAAD. Only the country where the highest qualification was obtained determines whether uni-assist is required; additional degrees from EU countries do not change this requirement. Applicants from outside the EU must be aware that even UK qualifications are treated as non-EU. Early application is recommended to ensure timely processing.
+
+===CHUNK===
+type: admission
+name: Required Academic Documents
+programme: data_science_bachelor
+---
+Applicants to the Data Science Bachelor programme at KU Eichstätt-Ingolstadt must submit certified copies and translations (German or English) of all relevant academic documents. Required documents include secondary school leaving certificates with final grades, official grading system explanations for conversion into German grades, and, if applicable, university entrance exam certificates, university transcripts with average grades, and university degree certificates. Applicants with studies completed in China, India, Mongolia, or Vietnam must additionally submit an APS certificate.
+
+===CHUNK===
+type: admission
+name: General Application Documents (CV and Passport)
+programme: data_science_bachelor
+---
+For the Data Science Bachelor programme at KU Eichstätt-Ingolstadt, applicants must submit a complete CV covering the last three years of secondary education and a valid passport copy. These documents are required in addition to academic certificates and must be uploaded digitally as part of the application package.
+
+===CHUNK===
+type: admission
+name: Language Requirements (English and German Progression)
+programme: data_science_bachelor
+---
+Admission to the Data Science Bachelor programme at KU Eichstätt-Ingolstadt requires proof of English language proficiency (e.g. TOEFL 78+, IELTS 5.5+, or an English-taught degree). German language skills at A2 level are required by the end of the second semester but are not mandatory at the time of application. Enrollment is conditional until the required German level is achieved.
+
+===CHUNK===
+type: admission
+name: Additional Aptitude Test Documents
+programme: data_science_bachelor
+---
+Applicants to the Data Science Bachelor programme at KU Eichstätt-Ingolstadt who are non-EU citizens or who obtained their qualification outside the EU may submit additional documents for the aptitude assessment, including TestAS scores, SAT Math scores, proof of participation in mathematics or computer science competitions, and evidence of extracurricular activities in data science. These documents are used to evaluate academic aptitude alongside school performance.
+
+===CHUNK===
+type: admission
+name: Application Process Overview (KU and Uni-Assist)
+programme: data_science_bachelor
+---
+Applicants to the Data Science Bachelor programme at KU Eichstätt-Ingolstadt follow different digital application paths depending on origin. German and EU-qualified applicants apply via the KU application portal, while non-EU applicants must apply via uni-assist, which performs an initial formal check before transferring data to KU. Applicants who pass uni-assist receive automatic account creation in the KU system. Final admission decisions are made by the KU selection committee after ranking and evaluation. The application period for all applicants runs from 1 April to 15 July.
+
+===CHUNK===
+type: admission
+name: Digital Application and Submission Rules
+programme: data_science_bachelor
+---
+All applications for the Data Science Bachelor programme at KU Eichstätt-Ingolstadt are submitted digitally. Applicants upload all required documents through the online system and do not need to send physical copies unless requested at enrollment. Certified copies are only required upon enrollment for admitted students. Applicants may also be asked to upload additional documents such as internships or professional experience if relevant to their profile.
+
+===CHUNK===
+type: admission
+name: Admission Restriction and Selection Status (NC Status)
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt has no admission restriction (no NC) and no formal selection procedure for applicants who fully meet the entry requirements. Applicants who satisfy the academic and language requirements can therefore enroll directly within the official application period from 1 April to 15 July.
+
+===CHUNK===
+type: admission
+name: EU Applicant Submission Requirements Detail
+programme: data_science_bachelor
+---
+EU applicants for the Data Science Bachelor programme at KU Eichstätt-Ingolstadt who do not hold a German university entrance qualification must submit their study results, degree certificates, and language certificates via ku.de/application for formal verification. These documents are reviewed within the same application window (1 April to 15 July) to determine eligibility for enrollment.
+
+===CHUNK===
+type: admission
+name: Uni-Assist VPD Exemption and System Integration
+programme: data_science_bachelor
+---
+Applicants to the Data Science Bachelor programme at KU Eichstätt-Ingolstadt who apply via uni-assist do not need to submit a VPD (preliminary review documentation). KU has an automated interface with uni-assist, which transfers verified application data directly into the KU system. After successful formal review, an applicant account is automatically generated in the KU application portal for further communication.
+
+===CHUNK===
+type: admission
+name: Consequences of Uni-Assist Formal Rejection
+programme: data_science_bachelor
+---
+For the Data Science Bachelor programme at KU Eichstätt-Ingolstadt, applicants who do not pass the initial formal check by uni-assist are excluded from further selection procedures at KU. Only applicants who successfully pass the uni-assist review proceed to academic evaluation and ranking at KU. Notifications about formal rejection are issued directly by uni-assist, not by KU.
+
+===CHUNK===
+type: admission
+name: Aptitude Assessment Evaluation Scale and Calculation Method
+programme: data_science_bachelor
+---
+The aptitude assessment procedure for the Data Science Bachelor programme at KU Eichstätt-Ingolstadt is evaluated using a grading scale from 1 to 5. The final admission score is calculated as the arithmetic mean of the applicant’s higher education entrance qualification grade and the aptitude test grade determined by examiners. Admission is granted only if the resulting combined grade is 2.0 (German equivalent) or better.
+
+===CHUNK===
+type: admission
+name: UK Qualification Classification Clarification
+programme: data_science_bachelor
+---
+For the Data Science Bachelor programme at KU Eichstätt-Ingolstadt, qualifications obtained in the United Kingdom are treated as non-EU qualifications for the purpose of determining whether applicants must apply via uni-assist. Only the country where the higher education entrance qualification was obtained is relevant for this classification, regardless of additional EU-based degrees or studies.

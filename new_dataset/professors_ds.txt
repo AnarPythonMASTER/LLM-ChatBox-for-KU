@@ -1,0 +1,123 @@
+SOURCE_URL: https://www.ku.de/en/
+TITLE: Data Science and MIDS Professors
+SOURCE_FILE: professors_ds.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: professor
+name: Marcel Oliver
+programme: mids
+---
+Prof. Dr. Marcel Oliver is the Chair of Applied Mathematics at KU Eichstätt-Ingolstadt, an Endowed Chair of the City of Ingolstadt, and a member of the Mathematical Institute for Machine Learning and Data Science (MIDS). He is also a member of the board of the Collaborative Research Center TRR 181 "Energy Transfers in Atmosphere and Ocean." His research focuses on the modeling and simulation of complex multi-scale systems, particularly in climate science but also in the bio and material sciences. His group works on structure-preserving and energy-consistent algorithms, mathematical approaches for model reduction, and dynamic, stochastic, and data-driven models that represent processes at scales below the computational grid. In the Data Science programmes he teaches Basics of Information Systems (also called Foundations of Information Systems), the Seminar in Computational Mathematics, the Applied Data Science Lab, Stochastic Processes, Mathematics for Data Science, Algorithms and Data Structures, Advanced Programming, and Models of Weather and Climate.
+
+===CHUNK===
+type: professor_team
+name: Marcel Oliver Research Team
+programme: mids
+---
+The research team of Prof. Marcel Oliver at KU includes research associates Dr. Janin Jäger, Dr. Mansi Singh, Dr. Ojesh Koul, Hao Liang, and Fabian Stallbauer. The team secretary is Katharina Püchner.
+
+===CHUNK===
+type: professor
+name: Pirmin Fontaine
+programme: mids
+---
+Prof. Dr. Pirmin Fontaine is Professor for Logistics and Operations Analytics at KU Eichstätt-Ingolstadt and a member of the Mathematical Institute for Machine Learning and Data Science (MIDS). His research group develops efficient solution methods for problems in mobility, supply chain management, production, and logistics, starting from real-life applications formulated as mathematical optimization problems. His methods focus on efficient reformulations, decomposition methods such as Benders decomposition and branch-and-repair, and metaheuristics. Current projects include increasing resilience in supply chains using machine learning, improving on-demand bus systems, and planning urban logistics systems. In the Data Science Bachelor he teaches modules under the Business Analytics specialization, including Supply Chain Analytics, Operations Analytics, Operations Management Case Studies, Software Tools for Simulation and Optimization, Digital Project, Digital Seminar in Data Science and Quantitative Applications, the Proseminar SCM "How well can AI plan? Generative AI in Logistics", and Operations Management (part of Digital Systems and Operations Management). He also co-teaches the Seminar in Signal and Data Processing for B.Sc. and the Applied Mathematical Seminar for B.Sc., and contributes to the Studium.Pro module "More Data, More Insights? Modern Data Science Methods from a Transdisciplinary Perspective."
+
+===CHUNK===
+type: professor_team
+name: Pirmin Fontaine Research Team
+programme: mids
+---
+The research team of Prof. Pirmin Fontaine at KU includes Dr. Stefan Voigt (Senior Researcher), Dr. Alexander Rave (PostDoc), and PhD students Simon Mader, Ayşe Nur Bakla, Merve Ibis, Philipp Parche, Dennis John, and Büşra Nur Dağ. The team secretary is Birgit Jürgens.
+
+===CHUNK===
+type: professor
+name: Tijana Janjic
+programme: mids
+---
+Prof. Dr. Tijana Janjic is Professor for Data Assimilation at KU Eichstätt-Ingolstadt and a member of the Mathematical Institute for Machine Learning and Data Science (MIDS). Her professorship is funded by the Heisenberg Programme of the German Research Foundation (DFG). Her research links heterogeneous data with numerical models of dynamic systems through data assimilation, which makes it possible to better investigate processes and predict their development, for example in predicting severe weather events or the melting of Arctic ice. Her work develops data science algorithms that incorporate physical conservation laws, solves large optimization problems in the environmental sciences, and quantifies the uncertainties of predictions, numerical models, and observations. In the Data Science programmes she teaches Introduction to Statistics, Introduction to Stochastics, Statistical Learning, Introduction to Data Assimilation, Introduction to Scientific Computing, the Seminar in Data Assimilation for B.Sc., and co-teaches the Applied Mathematical Seminar for B.Sc.
+
+===CHUNK===
+type: professor_team
+name: Tijana Janjic Research Team
+programme: mids
+---
+The research team of Prof. Tijana Janjic at KU includes research associates Tatsiana Bardachova and Catherine George. The team secretary is Caroline Seibert.
+
+===CHUNK===
+type: professor
+name: Götz Pfander
+programme: mids
+---
+Prof. Dr. Götz Pfander is the Chair of Mathematics - Scientific Computing at KU Eichstätt-Ingolstadt and the Speaker (head) of the Mathematical Institute for Machine Learning and Data Science (MIDS). He is co-editor of the journal "Sampling Theory, Signal Processing, and Data Analysis" at Springer-Verlag. His research interests include compressive sensing, sampling theory for signals and operators, applied harmonic analysis, and information theory. A recurring theme in his chair's work is the measurement, analysis, and representation of continuous signals by finite sequences. In the Data Science programmes he teaches Linear Algebra 1, Linear Algebra 2 and Analytic Geometry, Topics in Machine Learning and Data Science, Topics in Data Science, Practical Training, the Seminar in Signal and Data Processing for B.Sc., and co-teaches the Applied Mathematical Seminar for B.Sc.
+
+===CHUNK===
+type: professor_team
+name: Götz Pfander Research Team
+programme: mids
+---
+The research team of Prof. Götz Pfander at KU includes research associates Dr. Andrei Caragea and Dr. Felix Bartel. The team secretary is Ya-Chun Tsai.
+
+===CHUNK===
+type: professor
+name: Nadja Ray
+programme: mids
+---
+Prof. Dr. Nadja Ray is the Chair of Geomatics and Geomathematics at KU Eichstätt-Ingolstadt, an endowed professorship of the City of Ingolstadt, and a member of the Mathematical Institute for Machine Learning and Data Science (MIDS). The focus of her professorship is geomatics, geomathematics, and related mathematical fields connected to the geosciences. This includes expertise in inverse problems, modeling in the geosciences, geomonitoring based on mathematical-statistical methods, and the analysis and visualization of spatial data and their integration into geographic information systems, which forms the basis for long-term planning in transport, infrastructure, and natural hazard prevention. In the Data Science programmes she teaches Analysis 1 for Data Science, Analysis 2 for Data Science, the Preliminary Course Mathematics for Data Science, Introduction to Mathematical Modeling, Differential Equations I, Topics in Machine Learning and Data Science, and co-teaches the Applied Mathematical Seminar for B.Sc.
+
+===CHUNK===
+type: professor_team
+name: Nadja Ray Research Team
+programme: mids
+---
+The research team of Prof. Nadja Ray at KU includes research associates Dr. Sarah Eberle-Blick and Chang Peng. The team secretary is Antje Riess.
+
+===CHUNK===
+type: professor
+name: Dominik Stöger
+programme: mids
+---
+Prof. Dr. Dominik Stöger holds the Junior Professorship for Mathematics - Data Science at KU Eichstätt-Ingolstadt and is a member of the Mathematical Institute for Machine Learning and Data Science (MIDS). His position is supported by the Tenure-Track Programme of the German Federal Ministry of Education and Research (BMBF). His research interests lie in the development and analysis of mathematical methods in machine learning and signal processing. A particular focus is the analysis of overparameterized models in machine learning and algorithms for compressed sensing and low-rank matrix recovery, combining tools from high-dimensional probability theory to optimization. He has collaborated with scientists in application areas such as wireless communications and image recognition. In the Data Science programmes he teaches Foundations of Data Science, Probability Theory, the Seminar in Signal and Data Processing for B.Sc., and contributes to the Studium.Pro module "More Data, More Insights? Modern Data Science Methods from a Transdisciplinary Perspective."
+
+===CHUNK===
+type: professor_team
+name: Dominik Stöger Research Team
+programme: mids
+---
+The research team of Prof. Dominik Stöger at KU shares administrative support with secretary Ya-Chun Tsai.
+
+===CHUNK===
+type: professor
+name: Felix Voigtlaender
+programme: mids
+---
+Prof. Dr. Felix Voigtlaender is the Chair of Reliable Machine Learning at KU Eichstätt-Ingolstadt and a member of the Mathematical Institute for Machine Learning and Data Science (MIDS). His chair is funded by the Hightech Agenda Bavaria as part of the consortium "Resource Aware Artificial Intelligence for Future Technologies" (a collaboration of KU, FAU Erlangen-Nürnberg, TU Munich, and the University of Bayreuth) and supported by the DFG-funded Emmy Noether project "Stability and Solvability in Deep Learning." His research group mathematically studies the properties of machine learning algorithms, with particular attention to the stability and robustness of neural networks. The group investigates the mechanisms behind adversarial examples — minimal, human-invisible perturbations that cause a network to produce incorrect output — with the aim of developing training methods that produce provably robust neural networks. In the Data Science programmes he teaches Foundations of Machine Learning, Hands-on Machine Learning and Data Science, Deep Learning, Linear Algebra 1 (German version), and the Seminar in Machine Learning and Related Topics for B.Sc.
+
+===CHUNK===
+type: professor_team
+name: Felix Voigtlaender Research Team
+programme: mids
+---
+The research team of Prof. Felix Voigtlaender at KU includes research associates Dr. Hannes Matt and Junyu Zhou. The team secretary is Caroline Seibert.
+
+===CHUNK===
+type: professor
+name: Thomas Setzer
+programme: mids
+---
+Prof. Dr. Thomas Setzer is the Chair of Business Administration and Business Informatics at KU Eichstätt-Ingolstadt, head of the Analytics Working Group of the German Society for Operations Research (Gesellschaft für Operations Research), and Programme Speaker for the Digital and Data-Driven Business (B.Sc.) programme. His research focuses on business analytics and the design of modern information systems and analytical processes for data-based planning and optimization, as well as digital business models and systems. A major focus is on models and methods to analyze, intelligently reduce, transform, and utilize complex datasets in decision support systems, including the generation of useful features from heterogeneous data, the simplification of operational problems through geometric projection and mathematical optimization, the statistical correction of structural biases in decisions and predictions, and the combination of heterogeneous data, opinions, and forecasts. In the Data Science Bachelor he teaches modules under the Business Analytics specialization, including Digital Systems, Systems Development, Software Engineering and Programming, Business Analytics and Data Mining, Data Analytics Lab, and Digital Project, and co-teaches the Seminar in Signal and Data Processing for B.Sc. and the Applied Mathematical Seminar for B.Sc.
+
+===CHUNK===
+type: professor_team
+name: Thomas Setzer Research Team
+programme: mids
+---
+The research team of Prof. Thomas Setzer at KU includes research associates Veronika Wachslander and André Konersmann. The team secretary is Waltraud Fischermeier.
+
+===CHUNK===
+type: professor_team
+name: MIDS Professors Overview
+programme: mids
+---
+The Mathematical Institute for Machine Learning and Data Science (MIDS) at KU Eichstätt-Ingolstadt brings together the professors who teach and research in the Data Science programmes. Its members include Marcel Oliver (Chair of Applied Mathematics), Götz Pfander (Chair of Mathematics - Scientific Computing and Speaker of the Institute), Felix Voigtlaender (Chair of Reliable Machine Learning), Nadja Ray (Chair of Geomatics and Geomathematics), Tijana Janjic (Professor for Data Assimilation), Dominik Stöger (Junior Professor for Mathematics - Data Science), Pirmin Fontaine (Professor for Logistics and Operations Analytics), and Thomas Setzer (Chair of Business Administration and Business Informatics).

@@ -1,0 +1,172 @@
+SOURCE_URL: https://www.ku.de/studienangebot/data-science
+TITLE: Data Science Programme Details, FAQ, and Related Programmes
+SOURCE_FILE: ds_programme_details_and_faq.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: programme_info
+name: Data Science Bachelor Key Facts and Admission
+programme: data_science_bachelor
+---
+The Bachelor of Science Data Science at KU leads to a Bachelor of Science degree, lasts 6 semesters, and totals 180 ECTS. It starts in the winter semester, is based in Ingolstadt, is taught in English, and is full-time (no part-time option). The semester fee is 88 Euro. The programme has no admission restriction and no selection procedure. Applicants with a German university entrance qualification (e.g. Abitur) do not need to apply and simply enroll during the enrollment period (for winter semester 2026/27, enrollment is 10 August to 2 October 2026). Applicants without a German entrance qualification apply from 1 April to 15 July 2026. International students must reach German language level A2 by the end of the first year.
+
+===CHUNK===
+type: programme_info
+name: Data Science Bachelor Required Area Modules by Field
+programme: data_science_bachelor
+---
+The required area (Pflichtbereich) of the Data Science Bachelor at KU teaches fundamental knowledge and practical skills, organized into four core fields. The Data Science modules are Data Lab, Ethics of Algorithms and Data, Foundations of Data Science, Foundations of Machine Learning, Hands-on Machine Learning and Data Science, and Practical Training. The Mathematics modules are Analysis for Data Science 1, Analysis for Data Science 2, Linear Algebra 1, Linear Algebra 2 and Analytic Geometry, and Optimization in Data Science. The Statistics modules are Introduction to Statistics, Introduction to Stochastics, and Statistical Learning. The Computer Science modules are Introduction to Programming, Advanced Programming, Algorithms and Data Structures, and Basics of Information Systems. With the exception of the basic lectures in Linear Algebra, Statistics, and Stochastics, all required modules were developed specifically for this programme.
+
+===CHUNK===
+type: specialization
+name: Specialization - Applied Mathematics and Scientific Computing
+programme: data_science_bachelor
+---
+The "Applied Mathematics and Scientific Computing" specialization in the Data Science Bachelor at KU gives students a deeper insight into the mathematical foundations of data science. Its focus is on mathematical modeling and on the transition from continuous models to discrete, practically implementable models.
+
+===CHUNK===
+type: specialization
+name: Specialization - Business Analytics and Operations
+programme: data_science_bachelor
+---
+The "Business Analytics and Operations" specialization in the Data Science Bachelor at KU builds a bridge to the economic sciences. Alongside basic business administration knowledge such as accounting, its focus is on data-driven approaches to business, organizational, and technical problems.
+
+===CHUNK===
+type: specialization
+name: Specialization - Digital Transformation of Society
+programme: data_science_bachelor
+---
+The "Digital Transformation of Society" specialization in the Data Science Bachelor at KU looks at applications of data science in the social and human sciences. Students gain insight into the role of empirical methods, for example in sociology and journalism, enabling a critical engagement with the ongoing digital transformation of society.
+
+===CHUNK===
+type: specialization
+name: Specialization - Finance and Economics
+programme: data_science_bachelor
+---
+The "Finance and Economics" specialization in the Data Science Bachelor at KU examines macroeconomic relationships, global markets, and financial instruments, all strongly shaped by data-based methods. It extends students' methodological skills with domain-specific modeling knowledge.
+
+===CHUNK===
+type: specialization
+name: Specialization - Environmental Sciences
+programme: data_science_bachelor
+---
+The "Environmental Sciences" specialization in the Data Science Bachelor at KU gives students insight into data-based environmental and geosciences. A central aspect is adapting models for dynamic, time-varying processes such as weather and climate to measurement data that is often imprecise and incomplete.
+
+===CHUNK===
+type: specialization
+name: Specialization - Machine Learning and Statistics
+programme: data_science_bachelor
+---
+The "Machine Learning and Statistics" specialization in the Data Science Bachelor at KU lets students deepen their understanding of statistical methods and introduces advanced, research-oriented aspects of statistical and machine learning techniques.
+
+===CHUNK===
+type: faq
+name: Is Data Science in Eichstätt or Ingolstadt
+programme: data_science_bachelor
+---
+Both the Bachelor and Master Data Science programmes at KU are based at the Ingolstadt campus, and all Data Science courses are offered in Ingolstadt. Additional optional electives are available at the Eichstätt campus, but these are entirely optional.
+
+===CHUNK===
+type: faq
+name: Data Science Specialization Choice and Timing
+programme: data_science_bachelor
+---
+In the Data Science Bachelor at KU, students should choose their specialization at the end of the second semester and select their courses accordingly from the third semester onward. The specialization can be changed at any time, and the chosen specialization is recorded on the Bachelor's certificate.
+
+===CHUNK===
+type: faq
+name: Data Science Language of Instruction and German Support
+programme: data_science_bachelor
+---
+The Data Science programme at KU is taught and examined in English, though exams can be taken in German on request. All professors are German speakers and are willing to explain concepts in German outside of lectures. International students must reach German language level A2 by the end of the first year, and the university regularly offers free German courses at least up to this level, usually scheduled to fit students' timetables. Strong language skills are not required to understand the basic lectures.
+
+===CHUNK===
+type: faq
+name: Data Science Self-Study Workload
+programme: data_science_bachelor
+---
+Studying Data Science at KU is a full-time commitment. As at all universities, a substantial part of studying is self-study. For example, the Linear Algebra course involves about 6 contact hours and 5 hours of self-study per week. The overall workload is comparable to other German universities, and the programme is designed to be completed in three years (six semesters).
+
+===CHUNK===
+type: faq
+name: Data Science Prior Knowledge and Preparation
+programme: data_science_bachelor
+---
+For the Data Science Bachelor at KU, a good level of prior knowledge is helpful but not strictly necessary. The hardest part for some students is formal mathematics such as Linear Algebra and Analysis; reviewing concepts like vector spaces and matrices beforehand can help. A preliminary course (Vorkurs) covering mathematical basics is offered before the semester begins, and the first-semester mathematics courses are designed to cover all topics from the ground up so that students can follow without extensive prior knowledge.
+
+===CHUNK===
+type: faq
+name: Data Science Online or In-Person Study
+programme: data_science_bachelor
+---
+The Data Science programme at KU is designed as in-person (on-campus) study. Online learning materials and, for some courses, video recordings are usually provided, so students can also study content independently, though active participation is strongly recommended. Examinations must always be taken in person.
+
+===CHUNK===
+type: faq
+name: Data Science Study Abroad Semester
+programme: data_science_bachelor
+---
+Students in the Data Science Bachelor at KU can complete a semester abroad, and the recommended time to do so is the fifth semester. The KU maintains partnerships with around 300 universities worldwide, and the KU International Office supports planning and financing.
+
+===CHUNK===
+type: faq
+name: Data Science Visa Support for International Students
+programme: data_science_bachelor
+---
+KU is aware that international Data Science students sometimes wait months for a visa. The university therefore issues admission decisions as early as possible and sets the enrollment deadline as late as possible — usually only a few days before lectures begin — to give applicants the best chance of obtaining a visa. All required documents, including the visa, must be sent by post to the student office by this deadline.
+
+===CHUNK===
+type: faq
+name: KU Public or Private University Status
+programme: general
+---
+KU Eichstätt-Ingolstadt is 85% financed by the Free State of Bavaria, and all its programmes follow the same rules as any other Bavarian university. KU is formally considered a private (church-affiliated) university, but its degrees are identical to those of other German universities and are recognized abroad in the same way. The Data Science programme is internationally accredited, and study at KU is free of tuition fees.
+
+===CHUNK===
+type: faq
+name: Data Science Mandatory Internship and Industry Partners
+programme: data_science_bachelor
+---
+The Data Science Bachelor at KU includes a mandatory practical placement (Practical Training), which can be an industry internship or a research internship at the Mathematical Institute for Machine Learning and Data Science (MIDS) or other KU departments or other universities. For industry internships, KU cooperates with several regional partners.
+
+===CHUNK===
+type: programme_info
+name: Mathematics Bachelor at KU Overview
+programme: mathematics
+---
+Note: this describes the Mathematics Bachelor, which is a separate programme from Data Science. The Bachelor of Science Mathematics at KU is based in Eichstätt (not Ingolstadt), lasts 6 semesters, starts in the winter semester, and allows part-time study. The semester fee is 88 Euro. It provides a broad mathematical education with both theoretical and applied orientation. Students complete the programme by choosing one of several focus areas (Ausrichtungen / minor subjects): Business Mathematics (Wirtschaftsmathematik), Geography, Empirical Sciences (Psychology, Sociology), Philosophy, or Data Science. The programme is taught in German. It has no admission restriction and requires no application — students simply enroll. The subject advisor is Prof. Dr. Johannes Krebs.
+
+===CHUNK===
+type: structure
+name: Mathematics Bachelor Typical Study Plan
+programme: mathematics
+---
+Note: this is the Mathematics Bachelor, a separate programme from Data Science, taught in German. A typical study plan is: Semester 1 — Analysis I, Linear Algebra I, Introduction to Programming Techniques, Introduction to Statistical Work; Semester 2 — Analysis II, Linear Algebra II and Analytic Geometry; Semester 3 — Integration Theory, Introduction to Algebra, Introduction to Stochastics, Numerical Mathematics; Semester 4 — Probability Theory, Algebra with Galois Theory, Linear Optimization, Scientific Computing; Semester 5 — Applied Statistics with R, Complex Analysis, Integer Optimization / Discrete Mathematics; Semester 6 — Differential Equations, Mathematical Software, Complex Analysis II, Bachelor Seminar and Bachelor Thesis. Study plans vary considerably because of the programme's flexibility.
+
+===CHUNK===
+type: programme_info
+name: Mathematics Bachelor Career Prospects
+programme: mathematics
+---
+Note: this concerns the Mathematics Bachelor, separate from Data Science. The Mathematics Bachelor at KU qualifies graduates both for a career and for a subsequent Master's programme at KU or any other European university. Career prospects include positions at insurance companies, banks, IT service providers, and management consultancies, and are described as outstanding, especially with an additional completed Master's degree.
+
+===CHUNK===
+type: programme_info
+name: Mathematics Master at KU Overview
+programme: mathematics
+---
+Note: this describes the Mathematics Master, a separate programme from Data Science. The Master of Science Mathematics at KU is based in Eichstätt, lasts 4 semesters, starts in both winter and summer semester, and is full-time only. The semester fee is 88 Euro. It offers a broad mathematical education with theoretical and applied orientation and is studied within the Interdisciplinary Master, as a major or minor subject of up to 40 ECTS, in combination with at least one other subject. If Mathematics is chosen as the major, an extension in Business Mathematics or Applications in Physical Geography (up to 80 ECTS) is possible. Module areas include Analysis and Topology, Algebra, Stochastics, and Scientific Computing and Optimization, alongside a Master Seminar and a professional internship. An application is required. The subject advisor is Prof. Dr. Günther Wirsching.
+
+===CHUNK===
+type: contact
+name: Examination Office (Prüfungsamt) at KU
+programme: general
+---
+The Examination Office (Prüfungsamt) of KU Eichstätt-Ingolstadt handles matters related to examinations, including exam registration dates, announcement of grades, withdrawal from exams, and examination inability. Students with questions about examinations are asked to use the office's contact form, which routes them to the responsible person. Responsibilities are sorted by degree programme, and consultation hours and staff availability are published in the KU student portal.
+
+===CHUNK===
+type: contact
+name: General Student Advising at KU
+programme: general
+---
+The general student advising service (Studierendenberatung) at KU is open to all prospective students, helping them find the right programme and offering tips on application, admission, and enrollment. It is led by Marie-Anne Kohll (studierendenberatung@ku.de). For detailed questions about a specific programme's structure and career options, students can contact the subject-specific advisor (Fachstudienberatung) for that programme.

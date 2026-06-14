@@ -1,0 +1,67 @@
+SOURCE_URL: https://www.ku.de/en/study-offer/data-science
+TITLE: Bachelor Data Science Study Structure
+SOURCE_FILE: structure_bachelor_ds.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: structure
+name: Bachelor Data Science Overview and Duration
+programme: data_science_bachelor
+---
+The Bachelor of Science (B.Sc.) Data Science at KU Eichstätt-Ingolstadt lasts 6 semesters and follows a fixed study plan (Studienverlaufsplan). Across the programme students complete required modules, a Focus Area specialization, general electives, one Studium.Pro module, practical training, and a bachelor seminar and thesis. The required area covers 110 ECTS, the specialization (Focus Area) covers 25 ECTS, the general required elective area covers 15 ECTS, practical training covers 10 ECTS, and the bachelor seminar and thesis area covers 15 ECTS.
+
+===CHUNK===
+type: structure
+name: Bachelor Data Science Semester 1 Courses
+programme: data_science_bachelor
+---
+In the first semester of the Data Science Bachelor at KU, students take: Introduction to Statistics, Introduction to Programming, Basics of Information Systems, Linear Algebra I, and Analysis for Data Science I.
+
+===CHUNK===
+type: structure
+name: Bachelor Data Science Semester 2 Courses
+programme: data_science_bachelor
+---
+In the second semester of the Data Science Bachelor at KU, students take: Hands-on Machine Learning and Data Science, Algorithms and Data Structures, Linear Algebra II, and Analysis for Data Science II.
+
+===CHUNK===
+type: structure
+name: Bachelor Data Science Semester 3 Courses
+programme: data_science_bachelor
+---
+In the third semester of the Data Science Bachelor at KU, students take: Foundations of Data Science, Advanced Programming, Introduction to Stochastics, Optimization for Data Science, and begin their Focus Area (specialization).
+
+===CHUNK===
+type: structure
+name: Bachelor Data Science Semester 4 Courses
+programme: data_science_bachelor
+---
+In the fourth semester of the Data Science Bachelor at KU, students take: Foundations of Machine Learning, Data Lab (DS Lab), Statistical Learning, and continue their Focus Area (specialization).
+
+===CHUNK===
+type: structure
+name: Bachelor Data Science Semester 5 Courses
+programme: data_science_bachelor
+---
+In the fifth semester of the Data Science Bachelor at KU, students take: Practical Training, Ethics of Algorithms and Data, a General Elective, the Studium.Pro module, the Focus Area (specialization), and a further General Elective.
+
+===CHUNK===
+type: structure
+name: Bachelor Data Science Semester 6 Courses
+programme: data_science_bachelor
+---
+In the sixth and final semester of the Data Science Bachelor at KU, students complete: the Bachelor Thesis, the DS Bachelor Seminar, a General Elective, and the Focus Area (specialization).
+
+===CHUNK===
+type: structure
+name: Bachelor Data Science Focus Areas
+programme: data_science_bachelor
+---
+The Data Science Bachelor at KU includes a Focus Area (specialization) worth 25 ECTS, chosen from six options: Applied Mathematics and Scientific Computing, Business Analytics and Operations, Digital Transformation of Society, Environmental Sciences, Finance and Economics, and Machine Learning and Statistics. Students take specialization modules in the chosen Focus Area across semesters 3 to 6.
+
+===CHUNK===
+type: structure
+name: Bachelor Data Science Studium.Pro Requirement
+programme: data_science_bachelor
+---
+The Data Science Bachelor at KU requires only one Studium.Pro module worth 5 ECTS in the whole programme, normally taken in the fifth semester. Studium.Pro is an interdisciplinary general-education area and the chosen module does not need to be related to Data Science.

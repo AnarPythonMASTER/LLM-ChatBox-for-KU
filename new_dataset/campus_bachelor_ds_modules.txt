@@ -1,0 +1,732 @@
+SOURCE_URL: https://campus.ku.de
+TITLE: Data Science Bachelor Module Catalogue (Winter and Summer Semester)
+SOURCE_FILE: campus_bachelor_ds_modules.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: module
+name: Preliminary Course Mathematics for Data Science
+programme: data_science_bachelor
+area: preliminary
+---
+Preliminary Course "Mathematics for Data Science" is a preparatory module in the Data Science Bachelor at KU. It is taught by Nadja Ray. Language of instruction: English. Module code: 82-105-DS26. It is offered in the winter semester. The course includes lectures and practice sessions.
+
+===CHUNK===
+type: module
+name: Topics in Machine Learning and Data Science
+programme: data_science_bachelor
+area: elective
+---
+Topics in Machine Learning and Data Science is a module in the Data Science Bachelor at KU. It is offered in both winter and summer semester. In the winter semester the lectures (2 hours/week) are taught by Götz Pfander, Nils Blümer, and Ilya Krishtal. In the summer semester the lectures (2 hours/week) are taught by Nadja Ray and Jan Boeckmann, with the examination topic "Scientific machine learning for flooding events" examined by Nadja Ray. Language of instruction: English. Module code: 82-105-DS27.
+
+===CHUNK===
+type: module
+name: Basics of Information Systems
+programme: data_science_bachelor
+area: required
+---
+Basics of Information Systems is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). It is taught by Marcel Oliver. Language of instruction: English. Module code: 82-021-D3B02. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Introduction to Programming
+programme: data_science_bachelor
+area: required
+---
+Introduction to Programming is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). It is taught by Maryam Ramezani Ziarani. Language of instruction: English. Module code: 82-105-DS02. It is offered in the winter semester. The course includes practice sessions (4 hours/week) split into two groups.
+
+===CHUNK===
+type: module
+name: Ethics of Algorithms and Data
+programme: data_science_bachelor
+area: required
+---
+Ethics of Algorithms and Data is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). It is taught by Norbert Paulo. Language of instruction: English. Module code: 82-105-DS04. It is offered in the winter semester.
+
+===CHUNK===
+type: module
+name: Foundations of Data Science
+programme: data_science_bachelor
+area: required
+---
+Foundations of Data Science is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). It is taught by Dominik Stöger. Language of instruction: English. Module code: 82-105-DS05. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (1 hour/week).
+
+===CHUNK===
+type: module
+name: Advanced Programming
+programme: data_science_bachelor
+area: required
+---
+Advanced Programming is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). It is taught by Mansi Singh. Language of instruction: English. Module code: 82-105-DS09. It is offered in the winter semester. The course includes practice sessions (4 hours/week).
+
+===CHUNK===
+type: module
+name: Optimization in Data Science
+programme: data_science_bachelor
+area: required
+---
+Optimization in Data Science is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). It is taught by Sarah Eberle-Blick. Language of instruction: English. Module code: 82-105-DS11. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (1 hour/week).
+
+===CHUNK===
+type: module
+name: Linear Algebra 1
+programme: data_science_bachelor
+area: required
+---
+Linear Algebra 1 is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). The Data Science version (Linear Algebra 1 for DS) is taught by Götz Pfander and Felix Bartel in English, with lectures (5 hours/week), practice sessions (2 hours/week), and tutorials (2 hours/week). A German-language version is also offered, with the lecture taught by Felix Voigtlaender. Module code: 82-105-L-MAT03. It is offered in the winter semester.
+
+===CHUNK===
+type: module
+name: Introduction to Stochastics
+programme: data_science_bachelor
+area: required
+---
+Introduction to Stochastics is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). The English-language version for Data Science students is taught by Tijana Janjic, with lectures (2 hours/week) and practice sessions (2 hours/week). German-language versions are also offered, taught by Günther Wirsching and by Johannes Krebs. Module code: 82-105-L-MAT24. It is offered in the winter semester.
+
+===CHUNK===
+type: module
+name: Introduction to Statistics
+programme: data_science_bachelor
+area: required
+---
+Introduction to Statistics is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). The English-language version for Data Science students is taught by Tijana Janjic, with lectures (2 hours/week) and practice sessions (1 hour/week). A German-language version (Einführung in das statistische Arbeiten) is also offered, taught by Günther Wirsching. Module code: 82-105-MAT19. It is offered in the winter semester.
+
+===CHUNK===
+type: module
+name: Analysis 1 for Data Science
+programme: data_science_bachelor
+area: required
+---
+Analysis 1 for Data Science is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). It is taught by Nadja Ray. Language of instruction: English. Module code: 82-105-DS01. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (1 hour/week). This module can be replaced by Analysis I (German, taught by Carolin Kreisbeck) or by Analysis I for GS/MS/RS.
+
+===CHUNK===
+type: module
+name: Algorithms and Data Structures
+programme: data_science_bachelor
+area: required
+---
+Algorithms and Data Structures is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). The lecture (2 hours/week) is taught by Janin Jäger and the practice sessions (2 hours/week) by Fabian Stallbauer. Language of instruction: English. Module code: 82-021-D3B06. It is offered in the summer semester.
+
+===CHUNK===
+type: module
+name: Data Lab
+programme: data_science_bachelor
+area: required
+---
+Data Lab is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). It is taught by Felix Bartel. Language of instruction: English. Module code: 82-105-DS03. It is offered in the summer semester. The course includes a project work / workshop (2 hours/week) and an examination.
+
+===CHUNK===
+type: module
+name: Foundations of Machine Learning
+programme: data_science_bachelor
+area: required
+---
+Foundations of Machine Learning is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). The lecture (2 hours/week) is taught by Felix Voigtlaender and the practice sessions (1 hour/week) by Junyu Zhou. Language of instruction: English. Module code: 82-105-DS06. It is offered in the summer semester.
+
+===CHUNK===
+type: module
+name: Hands-on Machine Learning and Data Science
+programme: data_science_bachelor
+area: required
+---
+Hands-on Machine Learning and Data Science is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). The lecture (4 hours/week) is taught by Felix Voigtlaender and the practice sessions (2 hours/week) by Junyu Zhou. Language of instruction: English. Module code: 82-105-DS07. It is offered in the summer semester. The module includes an examination.
+
+===CHUNK===
+type: module
+name: Statistical Learning
+programme: data_science_bachelor
+area: required
+---
+Statistical Learning is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). It is taught by Tijana Janjic. Language of instruction: English. Module code: 82-105-DS12. It is offered in the summer semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week) split into two groups.
+
+===CHUNK===
+type: module
+name: Linear Algebra 2 and Analytic Geometry
+programme: data_science_bachelor
+area: required
+---
+Linear Algebra 2 and Analytic Geometry is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). The Data Science version (Linear Algebra 2 for DS) has lectures (5 hours/week) taught by Götz Pfander in English, practice sessions (2 hours/week) taught by Felix Bartel and Thilo Kuessner, and tutorials (2 hours/week). A German-language version is also offered, taught by Götz Pfander. Module code: 82-105-MAT25. It is offered in the summer semester.
+
+===CHUNK===
+type: module
+name: Analysis 2 for Data Science
+programme: data_science_bachelor
+area: required
+---
+Analysis 2 for Data Science is a required module in the Data Science Bachelor at KU (part of the Required area, 110 ECTS). It is taught by Nadja Ray. Language of instruction: English. Module code: 82-105-DS10. It is offered in the summer semester. The course includes lectures (2 hours/week), practice sessions (1 hour/week) split into two groups, a tutorial (1 hour/week), and an examination. This module can be replaced by Analysis II (German) or by Analysis and Linear Algebra II for GS/MS/RS.
+
+===CHUNK===
+type: module
+name: Differential Equations II
+programme: data_science_bachelor
+area: specialization_applied_mathematics
+---
+Differential Equations II is a module in the Data Science Bachelor at KU, available under the Applied Mathematics and Scientific Computing specialization. It is taught by Dominik Engl. Language of instruction: German. Module code: 82-105-MAT14. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (1 hour/week).
+
+===CHUNK===
+type: module
+name: Analysis III
+programme: data_science_bachelor
+area: specialization_applied_mathematics
+---
+Analysis III is a module in the Data Science Bachelor at KU, available under the Applied Mathematics and Scientific Computing specialization. A German-language version is taught by Johannes Krebs and Thilo Kuessner. An English-language version is taught by Junyu Zhou. Module code: 82-105-MAT26. It is offered in the winter semester. The course includes lectures (4 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Introduction to Discrete and Non-Linear Optimization
+programme: data_science_bachelor
+area: specialization_applied_mathematics
+---
+Introduction to Discrete and Non-Linear Optimization is a module in the Data Science Bachelor at KU, available under the Applied Mathematics and Scientific Computing specialization. It is taught by Rene Grothmann. Language of instruction: German. Module code: 82-105-MAT35. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (1 hour/week).
+
+===CHUNK===
+type: module
+name: Introduction to Mathematical Modeling
+programme: data_science_bachelor
+area: specialization_applied_mathematics
+---
+Introduction to Mathematical Modeling is a module in the Data Science Bachelor at KU, available under both the Applied Mathematics and Scientific Computing specialization and the Environmental Sciences specialization. It is taught by Nadja Ray. Language of instruction: German. Module code: 82-105-MAT46. It is offered in the winter semester. The course includes lectures (3 hours/week) and practice sessions (1 hour/week).
+
+===CHUNK===
+type: module
+name: Introduction to Data Assimilation
+programme: data_science_bachelor
+area: specialization_applied_mathematics
+---
+Introduction to Data Assimilation is a module in the Data Science Bachelor at KU, available under the Applied Mathematics and Scientific Computing specialization, the Environmental Sciences specialization, and the Machine Learning and Statistics specialization. It is taught by Tijana Janjic. Language of instruction: English. Module code: 82-105-DS24. It is offered in the summer semester. The course includes lectures (2 hours/week) and practice sessions (1 hour/week).
+
+===CHUNK===
+type: module
+name: Differential Equations I
+programme: data_science_bachelor
+area: specialization_applied_mathematics
+---
+Differential Equations I is a module in the Data Science Bachelor at KU, available under the Applied Mathematics and Scientific Computing specialization. German-language versions are taught by Nadja Ray, Thilo Kuessner, and Johanna Marta Asaeda. Module code: 82-105-L-MAT16. It is offered in the summer semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week), and an examination.
+
+===CHUNK===
+type: module
+name: Introduction to Numerical Mathematics
+programme: data_science_bachelor
+area: specialization_applied_mathematics
+---
+Introduction to Numerical Mathematics is a module in the Data Science Bachelor at KU, available under the Applied Mathematics and Scientific Computing specialization. It is taught by Sarah Eberle-Blick. Language of instruction: German. Module code: 82-105-MAT29. It is offered in the summer semester. The course includes lectures (3 hours/week), practice sessions (2 hours/week), and an examination.
+
+===CHUNK===
+type: module
+name: Introduction to Scientific Computing
+programme: data_science_bachelor
+area: specialization_applied_mathematics
+---
+Introduction to Scientific Computing is a module in the Data Science Bachelor at KU, available under the Applied Mathematics and Scientific Computing specialization. It is taught by Tijana Janjic. Language of instruction: English. Module code: 82-105-MAT30. It is offered in the summer semester. The course includes lectures (3 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Introduction to Functional Analysis
+programme: data_science_bachelor
+area: specialization_applied_mathematics
+---
+Introduction to Functional Analysis is a module in the Data Science Bachelor at KU, available under the Applied Mathematics and Scientific Computing specialization. It is taught by Hannes Matt. Language of instruction: German. Module code: 82-105-MAT37. It is offered in the summer semester. The course includes lectures (3 hours/week) and practice sessions (1 hour/week).
+
+===CHUNK===
+type: module
+name: Digital Systems and Operations Management
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Digital Systems and Operations Management is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. It consists of two parts: Digital Systems, taught by Thomas Setzer, and Operations Management, taught by Pirmin Fontaine (2 hours/week lecture/practice each part). Language of instruction: German. Module code: 82-021-BWL12. It is offered in the winter semester.
+
+===CHUNK===
+type: module
+name: Digital and Sustainable Business Models
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Digital and Sustainable Business Models is a module in the Data Science Bachelor at KU, available under the Business Analytics, Digital Transformation in Society, and Finance and Economics specializations. It is taught by Katja Gelbrich, Jens Hogreve, Sandra Miederer, and Marah Blaurock. Language of instruction: English. Module code: 82-021-D3B01. It is offered in the winter semester. The course includes lectures (4 hours/week).
+
+===CHUNK===
+type: module
+name: Digital Project
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Digital Project is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. Two tracks are available: Digital Project in SCM, Logistics and Operations Research, taught by Pirmin Fontaine, and Digital Project on Business Analytics and Data Science, taught by Thomas Setzer and André Konersmann. Each track is a seminar (1 hour/week) with an examination. Language of instruction: German. Module code: 82-021-D3B03. It is offered in both winter and summer semester.
+
+===CHUNK===
+type: module
+name: Software Tools for Simulation and Optimization
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Software Tools for Simulation and Optimization is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. It is taught by Pirmin Fontaine, Merve Ibis Bozyel, and Johannes Gückel. Language of instruction: English. Module code: 82-021-D3B08. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Systems Development
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Systems Development is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. It is taught by Thomas Setzer and Veronika Wachslander. Language of instruction: German. Module code: 82-021-IFM01. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Software Engineering and Programming
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Software Engineering and Programming is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. It is taught by Thomas Setzer and André Konersmann. Language of instruction: English. Module code: 82-021-IFM02. It is offered in the winter semester. The course includes lecture/practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Supply Chain Analytics
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Supply Chain Analytics is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. It is taught by Pirmin Fontaine. Language of instruction: English. Module code: 82-021-SCM01. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Operations Management Case Studies
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Operations Management Case Studies is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. It is taught by Pirmin Fontaine. Language of instruction: German. Module code: 82-021-SCM24. It is offered in the winter semester. The course is a seminar (4 hours/week).
+
+===CHUNK===
+type: module
+name: Digital Business Strategies, Organization and Innovation
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Digital Business Strategies, Organization and Innovation is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. It is taught by Franziska Weindel, Dana Eberl, and Emanuel Hüther. Language of instruction: German. Module code: 82-021-D3B04. It is offered in the summer semester. The course includes lectures (2 hours/week).
+
+===CHUNK===
+type: module
+name: Digital Seminar in Data Science and Quantitative Applications
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Digital Seminar in Data Science and Quantitative Applications is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. It is taught by Pirmin Fontaine. Language of instruction: German. Module code: 82-021-D3B09. It is offered in the summer semester. The course includes a seminar (1 hour/week) and an examination.
+
+===CHUNK===
+type: module
+name: Proseminar SCM - Generative AI in Logistics
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Proseminar SCM: "How well can AI plan? Generative AI in Logistics" is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. It is taught by Pirmin Fontaine, Stefan Voigt, and Dennis John. Language of instruction: German. Module code: 82-021-PS07. It is offered in the summer semester. The course includes a seminar (2 hours/week) and an examination.
+
+===CHUNK===
+type: module
+name: Business Analytics and Data Mining
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Business Analytics and Data Mining is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. It is taught by Thomas Setzer and André Konersmann. Language of instruction: English. Module code: 82-021-IFM12. It is offered in the summer semester. The module includes examinations.
+
+===CHUNK===
+type: module
+name: Data Analytics Lab
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Data Analytics Lab is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. It is taught by Thomas Setzer and André Konersmann. Language of instruction: English. Module code: 82-021-IFM14. It is offered in the summer semester. The course includes a project work / workshop (3 hours/week) and an examination.
+
+===CHUNK===
+type: module
+name: Service and Technology Marketing
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Service and Technology Marketing is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. It is taught by Jens Hogreve and Marah Karin Blaurock. Language of instruction: English. Module code: 82-021-MD24. It is offered in the summer semester. The course includes lecture/practice sessions (4 hours/week).
+
+===CHUNK===
+type: module
+name: Operations Analytics
+programme: data_science_bachelor
+area: specialization_business_analytics
+---
+Operations Analytics is a module in the Data Science Bachelor at KU, available under the Business Analytics specialization. The lecture (2 hours/week) is taught by Pirmin Fontaine and Alexander Rave, and the practice sessions (2 hours/week) by Pirmin Fontaine. Language of instruction: English. Module code: 82-021-SCM21. It is offered in the summer semester.
+
+===CHUNK===
+type: module
+name: Changemaker - Developing Sustainable Projects
+programme: data_science_bachelor
+area: specialization_digital_transformation
+---
+Changemaker - Developing Sustainable Projects is a module in the Data Science Bachelor at KU, available under the Digital Transformation in Society specialization. It is taught by Ann-Kathrin Bremer. Language of instruction: German. Module code: 82-050-NHE03. It is offered in the winter semester. The course is a seminar (2 hours/week).
+
+===CHUNK===
+type: module
+name: Basics of Journalism and Communication Science
+programme: data_science_bachelor
+area: specialization_digital_transformation
+---
+Basics of Journalism and Communication Science is a module in the Data Science Bachelor at KU, available under the Digital Transformation in Society specialization. The lecture (2 hours/week) is taught by Klaus Meier and the seminars (2 hours/week each) by Dominik Zarychta and Tanja Evers. Language of instruction: German. Module code: 82-303-JOU101. It is offered in the winter semester.
+
+===CHUNK===
+type: module
+name: Empirical Communication Research I
+programme: data_science_bachelor
+area: specialization_digital_transformation
+---
+Empirical Communication Research I: Basics of Empirical Social Research is a module in the Data Science Bachelor at KU, available under the Digital Transformation in Society specialization. It is taught by Tanja Evers, Nina Steindl, and Rebecca Strohmeier. Language of instruction: German. Module code: 82-303-JOU108. It is offered in the winter semester. The course includes seminars (4 hours/week) split into two groups.
+
+===CHUNK===
+type: module
+name: Quantitative Methods of Empirical Social Research
+programme: data_science_bachelor
+area: specialization_digital_transformation
+---
+Quantitative Methods of Empirical Social Research is a module in the Data Science Bachelor at KU, available under the Digital Transformation in Society specialization. The lecture (2 hours/week) is taught by Alexander Betz and the practice (2 hours/week) by Claire van Loon. Language of instruction: German. Module code: 82-500-SOZ04. It is offered in the winter semester.
+
+===CHUNK===
+type: module
+name: Practical Course on Empirical Social Research
+programme: data_science_bachelor
+area: specialization_digital_transformation
+---
+Practical Course on Empirical Social Research is a module in the Data Science Bachelor at KU, available under the Digital Transformation in Society specialization. It is taught by Lisa Maria Vollnhals. Language of instruction: German. Module code: 82-500-SOZ21. It is offered in the winter semester. The course is a seminar (2 hours/week).
+
+===CHUNK===
+type: module
+name: Journalism and Media Systems
+programme: data_science_bachelor
+area: specialization_digital_transformation
+---
+Journalism and Media Systems is a module in the Data Science Bachelor at KU, available under the Digital Transformation in Society specialization. The lecture (1 hour/week) is taught by Klaus Meier and the seminars (2 hours/week each) by Tanja Evers. Language of instruction: German. Module code: 82-303-JOU102. It is offered in the summer semester. The module includes an examination.
+
+===CHUNK===
+type: module
+name: Empirical Communication Research II - Application Project
+programme: data_science_bachelor
+area: specialization_digital_transformation
+---
+Empirical Communication Research II: Application Project is a module in the Data Science Bachelor at KU, available under the Digital Transformation in Society specialization. It is taught by Tanja Evers and Johanna Wolleschensky. Language of instruction: German. Module code: 82-303-JOU109. It is offered in the summer semester. The course includes seminars (4 hours/week) split into two groups and an examination.
+
+===CHUNK===
+type: module
+name: Empirical Sociology
+programme: data_science_bachelor
+area: specialization_digital_transformation
+---
+Empirical Sociology is a module in the Data Science Bachelor at KU, available under the Digital Transformation in Society specialization. It is taught by Stefanie Eifler. Language of instruction: German. Module code: 82-500-SOZ18. It is offered in the summer semester. The course is a seminar (2 hours/week).
+
+===CHUNK===
+type: module
+name: Techniques of Geography 1 - Understanding Maps and Cartographic Practice
+programme: data_science_bachelor
+area: specialization_environmental_sciences
+---
+Techniques of Geography 1: Understanding Maps and Cartographic Practice is a module in the Data Science Bachelor at KU, available under the Environmental Sciences specialization. The lecture (2 hours/week) is taught by Florian Haas and the seminars (1 hour/week each) by Peter Fischer and Martin Trappe. Language of instruction: German. Module code: 82-050-G5T. It is offered in the winter semester.
+
+===CHUNK===
+type: module
+name: Techniques of Geography 3 - Remote Sensing
+programme: data_science_bachelor
+area: specialization_environmental_sciences
+---
+Techniques of Geography 3: Remote Sensing is a module in the Data Science Bachelor at KU, available under the Environmental Sciences specialization. It is taught by Nils Sparwasser. Language of instruction: German. Module code: 82-050-V4P. It is offered in the winter semester. The course includes a lecture on remote sensing with aerial and satellite images (2 hours/week) and a seminar on digital image processing (1 hour/week).
+
+===CHUNK===
+type: module
+name: GIS and Statistics
+programme: data_science_bachelor
+area: specialization_environmental_sciences
+---
+GIS and Statistics (GM-4) is a module in the Data Science Bachelor at KU, available under the Environmental Sciences specialization. It is taught by Tobias Heckmann. Language of instruction: German. Module code: 88-050-UNG-004. It is offered in the winter semester. The course is a seminar (3 hours/week).
+
+===CHUNK===
+type: module
+name: Techniques of Geography 2 - Geoinformatics
+programme: data_science_bachelor
+area: specialization_environmental_sciences
+---
+Techniques of Geography 2: Geoinformatics is a module in the Data Science Bachelor at KU, available under the Environmental Sciences specialization. The lecture (1 hour/week) is taught by Tobias Heckmann and the seminars (2 hours/week each) by Peter Fischer and Tobias Heckmann. Language of instruction: German. Module code: 82-050-Geo19. It is offered in the summer semester.
+
+===CHUNK===
+type: module
+name: Physical Geography 2 - Geomorphology
+programme: data_science_bachelor
+area: specialization_environmental_sciences
+---
+Physical Geography 2: Geomorphology is a module in the Data Science Bachelor at KU, available under the Environmental Sciences specialization. The lecture (2 hours/week) is taught by Tobias Heckmann and the field seminars (1 hour/week each) by Peter Fischer, Martin Trappe, and Jakob Rom. Language of instruction: German. Module code: 82-050-Geo21. It is offered in the summer semester.
+
+===CHUNK===
+type: module
+name: Physical Geography Field Lab
+programme: data_science_bachelor
+area: specialization_environmental_sciences
+---
+Physical Geography Field Lab is a module in the Data Science Bachelor at KU, available under the Environmental Sciences specialization. It is taught by Florian Haas and Manuel Stark. Language of instruction: German. Module code: 82-050-S4P. It is offered in the summer semester. The course includes field seminars (2 hours/week each), a seminar (2 hours/week), and an examination.
+
+===CHUNK===
+type: module
+name: Performance Measurement
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Performance Measurement is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by Anton Burger. Language of instruction: English. Module code: 82-021-AC17. It is offered in the winter semester. The course includes lectures (4 hours/week).
+
+===CHUNK===
+type: module
+name: Management Accounting
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Management Accounting is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. The lecture (4 hours/week) is taught by Max Göttsche and the practice (2 hours/week) by Alexander Grommes. Language of instruction: German. Module code: 82-021-BWL13. It is offered in the winter semester.
+
+===CHUNK===
+type: module
+name: Investment, Finance and Tax
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Investment, Finance and Tax is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by Reinald Koch and Anna-Sophie Braun. Language of instruction: German. Module code: 82-021-D3B05. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: International Business
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+International Business is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by Katja Gelbrich and Tugce Sabanci. Language of instruction: English. Module code: 82-021-IM02. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Company Taxation in the EU
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Company Taxation in the EU: Towards more Fairness and Sustainability is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by Reinald Koch and Lukas Ortner. Language of instruction: English. Module code: 82-021-TA15. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Foundations of Economics
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Foundations of Economics: State, Economy and Society is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by Maria Waldinger. Language of instruction: German. Module code: 82-021-VWL05. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Capital Market Theory
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Capital Market Theory is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by Thomas Mählmann. Language of instruction: German. Module code: 82-021-AC04. It is offered in the summer semester. The course includes lecture/practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Labour Economics
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Labour Economics is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by Jörg Althammer. Language of instruction: German. Module code: 82-021-AP03. It is offered in the summer semester. The course includes lectures (3 hours/week).
+
+===CHUNK===
+type: module
+name: Corporate Governance
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Corporate Governance is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by Kai Sandner. Language of instruction: English. Module code: 82-021-BE03. It is offered in the summer semester. The course includes lecture/practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Balancing and Business Taxation
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Balancing and Business Taxation (Company Taxation) is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. The lecture (2 hours/week) is taught by Reinald Koch and the practice (2 hours/week) by Reinald Koch and Lukas Ortner. Language of instruction: German. Module code: 82-021-BWL14. It is offered in the summer semester.
+
+===CHUNK===
+type: module
+name: Monetary Policy
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Monetary Policy is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by Reinhard Weber. Language of instruction: German. Module code: 82-021-FBK08. It is offered in the summer semester. The course includes lectures (3 hours/week).
+
+===CHUNK===
+type: module
+name: Sustainable Development
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Sustainable Development is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by Terhemen Justine Agabo. Language of instruction: English. Module code: 82-021-SBE02. It is offered in the summer semester. The course includes lectures (2 hours/week), practice sessions (2 hours/week), and an examination.
+
+===CHUNK===
+type: module
+name: Microeconomics
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Microeconomics is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by Dominika Langenmayr and Matthias Holzmann. Language of instruction: German. Module code: 82-021-VWL06. It is offered in the summer semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Macroeconomics
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Macroeconomics is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by Reinhard Weber. Language of instruction: German. Module code: 82-021-VWL07. It is offered in the summer semester. The course includes lectures (4 hours/week).
+
+===CHUNK===
+type: module
+name: Behavioral Finance
+programme: data_science_bachelor
+area: specialization_finance_economics
+---
+Behavioral Finance is a module in the Data Science Bachelor at KU, available under the Finance and Economics specialization. It is taught by David Streich. Language of instruction: English. Module code: 82-021-VWLECO17. It is offered in the summer semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Deep Learning
+programme: data_science_bachelor
+area: specialization_machine_learning
+---
+Deep Learning is a module in the Data Science Bachelor at KU, available under the Machine Learning and Statistics specialization. The lectures (4 hours/week) are taught by Felix Voigtlaender and the practice sessions (2 hours/week) by Hannes Matt. Language of instruction: English. Module code: 82-105-DS13. It is offered in the winter semester.
+
+===CHUNK===
+type: module
+name: Measure Theory
+programme: data_science_bachelor
+area: specialization_machine_learning
+---
+Measure Theory is a module in the Data Science Bachelor at KU, available under the Machine Learning and Statistics specialization. A German-language version is taught by Johannes Krebs and Thilo Kuessner. An English-language version is taught by Junyu Zhou. Module code: 82-105-MAT01. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (2 hours/week).
+
+===CHUNK===
+type: module
+name: Applied Statistics and Applications with R
+programme: data_science_bachelor
+area: specialization_machine_learning
+---
+Applied Statistics and Applications with R is a module in the Data Science Bachelor at KU, available under the Machine Learning and Statistics specialization. The lecture (3 hours/week) is taught by Johannes Krebs and the practice (3 hours/week) by Thilo Kuessner. Language of instruction: German. Module code: 82-105-MAT10. It is offered in the winter semester.
+
+===CHUNK===
+type: module
+name: Probability Theory
+programme: data_science_bachelor
+area: specialization_machine_learning
+---
+Probability Theory is a module in the Data Science Bachelor at KU, available under the Machine Learning and Statistics specialization. The English-language version (Probability Theory for DS) is taught by Dominik Stöger, with lectures (2 hours/week) and practice sessions (2 hours/week). A German-language version is taught by Johannes Krebs. Module code: 82-105-MAT20. It is offered in the summer semester. The module includes an examination.
+
+===CHUNK===
+type: module
+name: Topics in Data Science
+programme: data_science_bachelor
+area: general_elective
+---
+Topics in Data Science is a module in the Data Science Bachelor at KU, available in the General Required Elective area (15 ECTS) under the Data Science module catalogue. In the General Required Elective area, students must earn 15 ECTS in modules not yet completed from one of the permitted specialization catalogues or from the Data Science module catalogue. Topics in Data Science is a reading course (2 hours/week) taught by Götz Pfander. Language of instruction: English. Module code: 82-105-WPDS01. It is offered in the summer semester.
+
+===CHUNK===
+type: module
+name: Complex Analysis I
+programme: data_science_bachelor
+area: general_elective
+---
+Complex Analysis I is a module in the Data Science Bachelor at KU, available in the General Required Elective area (15 ECTS) under the Mathematics catalogue. It is taught by Dominik Engl. Language of instruction: German. Module code: 82-105-L-MAT10. It is offered in the winter semester. The course includes lectures (3 hours/week) and practice sessions (1 hour/week).
+
+===CHUNK===
+type: module
+name: Complex Analysis II
+programme: data_science_bachelor
+area: general_elective
+---
+Complex Analysis II is a module in the Data Science Bachelor at KU, available in the General Required Elective area (15 ECTS) under the Mathematics catalogue. It is taught by Dominik Engl. Language of instruction: German. Module code: 82-105-MAT16. It is offered in the summer semester. The course includes lectures (3 hours/week) and practice sessions (1 hour/week), and an examination.
+
+===CHUNK===
+type: module
+name: Elements of Algebra and Number Theory
+programme: data_science_bachelor
+area: general_elective
+---
+Elements of Algebra and Number Theory is a module in the Data Science Bachelor at KU, available in the General Required Elective area (15 ECTS) under the Mathematics catalogue. It is taught by Johanna Marta Asaeda. Language of instruction: German. Module code: 82-105-L-MAT18. It is offered in the winter semester. The course includes lectures (2 hours/week) and practice sessions (1 hour/week).
+
+===CHUNK===
+type: module
+name: Basic Algebra
+programme: data_science_bachelor
+area: general_elective
+---
+Basic Algebra is a module in the Data Science Bachelor at KU, available in the General Required Elective area (15 ECTS) under the Mathematics catalogue. It is taught by Helena Krebs. Language of instruction: German. Module code: 82-105-MAT22. It is offered in the winter semester. The course includes lectures (3 hours/week) and practice sessions (1 hour/week).
+
+===CHUNK===
+type: module
+name: Algebra Including Elements of Galois Theory
+programme: data_science_bachelor
+area: general_elective
+---
+Algebra Including Elements of Galois Theory is a module in the Data Science Bachelor at KU, available in the General Required Elective area (15 ECTS) under the Mathematics catalogue. It is taught by Susanne Danz. Language of instruction: German. Module code: 82-105-MAT23. It is offered in the summer semester. The course includes lectures (3 hours/week) and practice sessions (1 hour/week), and an examination.
+
+===CHUNK===
+type: module
+name: Practical Training
+programme: data_science_bachelor
+area: practical_training
+---
+Practical Training is a required module in the Data Science Bachelor at KU worth 10 ECTS. It is coordinated by Götz Pfander. Language: English. Module code: 82-105-DS08. It is offered in both winter and summer semester. Students complete a practical internship at a company or research institution. Partner companies include Audi, Continental, and Airbus.
+
+===CHUNK===
+type: module
+name: Seminar in Signal and Data Processing
+programme: data_science_bachelor
+area: bachelor_seminar_thesis
+---
+Seminar in Signal and Data Processing for B.Sc. is one of the bachelor seminar options in the Data Science Bachelor at KU (part of the Bachelor's seminar and thesis area, 15 ECTS total). It is taught by Götz Pfander, Dominik Stöger, Thomas Setzer, and Pirmin Fontaine. Language: English. Module code: 82-105-DS18. It is offered in both winter and summer semester. The course includes a seminar (2 hours/week) and an examination.
+
+===CHUNK===
+type: module
+name: Seminar in Machine Learning and Related Topics
+programme: data_science_bachelor
+area: bachelor_seminar_thesis
+---
+Seminar in Machine Learning and Related Topics for B.Sc. is one of the bachelor seminar options in the Data Science Bachelor at KU (part of the Bachelor's seminar and thesis area, 15 ECTS total). It is taught by Felix Voigtlaender. Language: English. Module code: 82-105-DS19. It is offered in both winter and summer semester. The course is a seminar (2 hours/week).
+
+===CHUNK===
+type: module
+name: Seminar in Data Assimilation
+programme: data_science_bachelor
+area: bachelor_seminar_thesis
+---
+Seminar in Data Assimilation for B.Sc. is one of the bachelor seminar options in the Data Science Bachelor at KU (part of the Bachelor's seminar and thesis area, 15 ECTS total). It is taught by Tijana Janjic. Language: English. Module code: 82-105-DS20. It is offered in both winter and summer semester. The course is a seminar (2 hours/week).
+
+===CHUNK===
+type: module
+name: Seminar in Computational Mathematics
+programme: data_science_bachelor
+area: bachelor_seminar_thesis
+---
+Seminar in Computational Mathematics for B.Sc. is one of the bachelor seminar options in the Data Science Bachelor at KU (part of the Bachelor's seminar and thesis area, 15 ECTS total). It is taught by Marcel Oliver. Language: English. Module code: 82-105-DS21. It is offered in both winter and summer semester. The course is a seminar (2 hours/week).
+
+===CHUNK===
+type: module
+name: Applied Mathematical Seminar
+programme: data_science_bachelor
+area: bachelor_seminar_thesis
+---
+Applied Mathematical Seminar for B.Sc. is one of the bachelor seminar options in the Data Science Bachelor at KU (part of the Bachelor's seminar and thesis area, 15 ECTS total). It is taught by various lecturers including Tijana Janjic, Götz Pfander, Nadja Ray, Pirmin Fontaine, Thomas Setzer, and Janin Jäger. Language: German. Module code: 82-105-MAT32. It is offered in both winter and summer semester. The course is a seminar (2 hours/week).
+
+===CHUNK===
+type: module
+name: Seminar in Probability and Statistics
+programme: data_science_bachelor
+area: bachelor_seminar_thesis
+---
+Seminar in Probability and Statistics for B.Sc. is one of the bachelor seminar options in the Data Science Bachelor at KU (part of the Bachelor's seminar and thesis area, 15 ECTS total). It is taught by Johannes Krebs. Language: German. Module code: 82-105-MAT34. It is offered in both winter and summer semester. The course is a seminar (2 hours/week).
+
+===CHUNK===
+type: programme_info
+name: Studium.Pro Requirement Data Science Bachelor
+programme: data_science_bachelor
+area: studium_pro
+---
+The Data Science Bachelor at KU requires one Studium.Pro module worth 5 ECTS during the whole programme. Studium.Pro is an interdisciplinary general-education area, and the chosen module does not need to be related to Data Science, mathematics, or the sciences. Students pick one module that interests them from a broad catalogue offered each semester. The one Studium.Pro option that is directly Data Science focused is "More Data, More Insights? Modern Data Science Methods from a Transdisciplinary Perspective," taught in English by a team including Dominik Stöger, David Streich, and Pirmin Fontaine; this is recommended for students who want their Studium.Pro module to connect to their main subject.
+
+===CHUNK===
+type: programme_info
+name: Studium.Pro Available Topics Data Science Bachelor
+programme: data_science_bachelor
+area: studium_pro
+---
+The Studium.Pro catalogue for the Data Science Bachelor at KU offers a wide range of interdisciplinary modules each semester, most taught in German with a few in English. Typical options cover themes such as ethics, society, sustainability, and culture. Examples include: the Forum K'Universale lecture series (with recurring themes such as "Inventing Futures: From Frankenstein to Artificial Intelligence" and "War, Society and Responsibility"), Media Ethics, Man Society and Religion, Basic Questions in Medical Ethics, Gender Studies, Introduction to Ethical Education, Advanced Topics of Civic Education, Introduction to Sociology, Cultural and Educational Work, Service Learning, Sustainable Development, Sustainable Nutrition, Understanding Climate Change, Democracy and Civil Society, and The Science of Happiness (taught in English, online). Students choose one module worth 5 ECTS; the specific offerings vary between the winter and summer semesters.

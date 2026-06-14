@@ -1,0 +1,102 @@
+SOURCE_URL: https://www.ku.de/studienangebot/data-science
+TITLE: Data Science Electives, Regulations, Testimonials, and Related Programmes
+SOURCE_FILE: ds_electives_regulations_testimonials.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: programme_info
+name: Data Science Student Testimonials
+programme: data_science_bachelor
+---
+Students of the Data Science programme at KU share positive experiences. The student team "Fantastic Four" (Denis, Ali, Veronika, Ruslan) competed in national and international hackathons inspired by their coursework, praising the hands-on courses and support from KU. Jan Stüwe of the Data Science Student Council values the international atmosphere and how the shared English language helps communication and language improvement. Other students highlight that professors are genuinely passionate about teaching, easily accessible via Zoom, email, or personal appointments, and that the programme is well structured with subjects well distributed across semesters. Students also note that the carefully designed course order and the mathematics courses, though demanding, support understanding of the specialist subjects.
+
+===CHUNK===
+type: faq
+name: Studying Mathematics Alongside Data Science
+programme: data_science_bachelor
+---
+At KU, Data Science students have the option to pursue a second degree in Mathematics in parallel with their Data Science studies. Mathematics is an integral part of data science but is also interesting in its own right, and the professors are very supportive of students who wish to obtain the second degree, doing what they can to make the process as smooth as possible.
+
+===CHUNK===
+type: structure
+name: Master Data Science Statistics Electives
+programme: data_science_master
+---
+In the Master Data Science at KU, the compulsory elective area (Wahlpflichtbereich) "Statistics" offers the following modules, each 5 ECTS and examined by written or oral exam: Mathematical Statistics, Data Science Tools, Stochastic Processes, Markov Chains, Bayesian Data Science, High-dimensional Probability, Statistical Forecasting Methods (Statistische Prognoseverfahren), Financial Mathematics – Discrete Models, Financial Mathematics – Continuous-Time Models, Statistical Modelling and Simulation, and Predictive Analytics.
+
+===CHUNK===
+type: structure
+name: Master Data Science Mathematics Electives
+programme: data_science_master
+---
+In the Master Data Science at KU, the compulsory elective area (Wahlpflichtbereich) "Mathematics" offers many modules, each 5 ECTS, including: Approximation Theory I and II, Elements of Functional Analysis, Fourier Analysis, Geometric Data Processing (CAGD) I and II, Graph Theory and Optimization, Partial Differential Equations, Signal Processing, Scientific Computing I and II, Optimization Methods in Machine Learning, Optimization in Data Science, Signal and Image Processing, Topics in Data Science (I and II), Topics in Machine Learning, Topics in Business Analytics and Operations Research, Topics in Modeling, Lie Algebras, Pseudodifferential Operators, Topology, Coding Theory, Differential Equations I and II, Introduction to Scientific Computing, Introduction to Functional Analysis, Introduction to Discrete and Non-Linear Optimization, Introduction to Linear Optimization, Introduction to Mathematical Modeling, Introduction to Numerical Mathematics, Complex Analysis I and II, Basic Algebra, Integration Theory, Mathematical Programming, Quantum Logic, Algebra with Elements of Galois Theory, Introduction to Discrete Mathematics, and Elements of Algebra and Number Theory.
+
+===CHUNK===
+type: structure
+name: Master Data Science Ethics, Law and Programming Electives
+programme: data_science_master
+---
+In the Master Data Science at KU, the compulsory elective area "Ethics and Law" offers two modules (5 ECTS each, assessed by portfolio): Data, Ethics and Law, and Algorithm and Data Ethics (Algorithmen- und Daten-Ethik). The compulsory elective area "Programming" offers Advanced Programming (5 ECTS, portfolio).
+
+===CHUNK===
+type: structure
+name: Master Data Science General Elective Area Modules
+programme: data_science_master
+---
+In the Master Data Science at KU, the general elective area (Wahlbereich) offers a wide range of modules, including: Deep Learning (10 ECTS), Data Analytics Challenge (5 ECTS), Introduction to Data Assimilation (5 ECTS), Models of Weather and Climate (5 ECTS), Data Science for the Environmental Sciences (5 ECTS), Webscraping and Textual Analysis in Python (5 ECTS), Digital Finance (5 ECTS), Introduction to Reinforcement Learning (5 ECTS), Object-Oriented Programming of Heuristics (5 ECTS), Production and Operations Analytics (5 ECTS), Transportation Logistics (5 ECTS), Simulation (5 ECTS), Supply Chain Analytics (5 ECTS), Time Series Analysis (5 ECTS), Operations Analytics (5 ECTS), Operations Scheduling (5 ECTS), Seminar Operations Research (5 ECTS), Stochastic Models (5 ECTS), Geoinformatic and Statistical Methods GM-4 (5 ECTS), and various Topics modules in Business Analytics, Data Science, Machine Learning, and Modeling.
+
+===CHUNK===
+type: structure
+name: Master Data Science Study Plan With Semester Abroad
+programme: data_science_master
+---
+The Master Data Science at KU offers an alternative study plan that includes a semester abroad in the third semester. In this variant, the Studium.Pro module is taken in the first semester instead, the third semester abroad is filled with General Electives, and the fourth semester is dedicated entirely to the Master Thesis (30 ECTS). This allows students to gain international experience without extending their studies.
+
+===CHUNK===
+type: exam_rule
+name: Data Science German Grading Scale
+programme: general
+---
+At KU, as at all German universities, grades range from 1.0 (best) to 4.0 (minimum passing grade), with grades above 4.0 considered a fail. This scale applies to modules, examinations, and final degree grades in the Data Science programmes. For the Master, admission generally requires a Bachelor's grade equivalent to a German 2.0 or better.
+
+===CHUNK===
+type: exam_rule
+name: Data Science Bachelor Credits and Thesis
+programme: data_science_bachelor
+---
+The Bachelor Data Science at KU requires 180 ECTS in total over 6 semesters. The Bachelor Thesis is worth 10 ECTS and the Bachelor Seminar 5 ECTS, together forming the bachelor seminar and thesis area (15 ECTS). The required area covers 110 ECTS, the specialization 25 ECTS, the general required elective area 15 ECTS, and practical training 10 ECTS.
+
+===CHUNK===
+type: programme_info
+name: Data Science Bachelor Career Fields
+programme: data_science_bachelor
+---
+Well-trained data scientists are in high demand. Graduates of the Data Science Bachelor at KU can work both methodically (for example as a Data Scientist or Software Engineer) and strategically (for example as a Data Strategist) in fields such as the finance sector, the IT industry, the automotive industry, the biotechnology industry, and in startups and NGOs. The programme also prepares graduates for a Master's degree and a possible subsequent academic career in computer science, statistics, mathematics, or application areas.
+
+===CHUNK===
+type: contact
+name: Data Science Bachelor Advising Contacts
+programme: data_science_bachelor
+---
+For questions about the Data Science Bachelor at KU regarding study structure, content, career prospects, and application, students can contact the general student advising service via Marie-Anne Kohll (studierendenberatung@ku.de, +49 8421-93-21283) or the Data Science subject advisor Dr. Sarah Eberle-Blick (Sarah.Eberle-Blick@ku.de, +49 841-93-21220). Recommended prerequisites for the programme are enjoyment of mathematics and logical thinking, interest in acquiring programming skills, and interest in applying what is learned in application areas. Only school-level English is required.
+
+===CHUNK===
+type: programme_info
+name: Mathematics Teaching Degree (Lehramt) at KU
+programme: mathematics
+---
+Note: this concerns Mathematics teaching degrees (Lehramt), which are separate from the Data Science programme and taught in German. At KU, the teaching degree for Gymnasium (grammar school) in Mathematics is designed for nine semesters, with second-subject options including Economics, Psychology, Catholic Religious Education, Latin, English, German, and Philosophy/Ethics. If Economics or Psychology is chosen as the second subject, a Bachelor in Mathematics can be obtained alongside the state examination with little extra effort. Teaching degrees for Realschule, Grundschule, or Mittelschule are designed for seven semesters with various subject combinations. The Lehramt Mathematics advisor is Dr. Thilo Kuessner.
+
+===CHUNK===
+type: structure
+name: Mathematics Bachelor Detailed Study Plan
+programme: mathematics
+---
+Note: this is the Mathematics Bachelor study plan, a separate programme from Data Science, taught in German, with 180 ECTS over 6 semesters (30 per semester). Semester 1: Analysis I (10 ECTS), Linear Algebra I (10 ECTS), Introduction to Programming Techniques (5 ECTS), Introduction to Statistical Work (5 ECTS). Semester 2: Analysis II (10 ECTS), Linear Algebra II and Analytic Geometry (10 ECTS), Focus subject (Ausrichtung, 10 ECTS). Semester 3: Basics of Algebra (5 ECTS), Integration Theory (5 ECTS), Introduction to Linear Optimization (5 ECTS), Introduction to Stochastics (5 ECTS), Focus subject (10 ECTS). Semester 4: Introduction to Numerical Mathematics (5 ECTS), Integer Optimization (5 ECTS), Probability Theory (5 ECTS), Differential Equations I (5 ECTS), Focus subject (10 ECTS). Semester 5: Applied Statistics with R (10 ECTS), Introduction to Scientific Computing (5 ECTS), Complex Analysis I (5 ECTS), Focus subject (10 ECTS). Semester 6: Bachelor Thesis (10 ECTS), Bachelor Seminar (5 ECTS), Mathematical Programming (5 ECTS), Algebra with Galois Theory (5 ECTS), Complex Analysis II (5 ECTS).
+
+===CHUNK===
+type: programme_info
+name: Mathematics Master Degree Types at KU
+programme: mathematics
+---
+Note: this concerns the Mathematics Master, separate from Data Science, studied within the Interdisciplinary Master at KU. If Mathematics is taken as the major subject with the extension in Business Mathematics or Applications in Physical Geography, students earn a Master of Science in four semesters. If Mathematics is combined with other subjects such as language or literature studies, students earn a Master of Arts. Application for the Interdisciplinary Master with Mathematics is required by early September, and study begins in the winter semester.

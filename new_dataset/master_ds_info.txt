@@ -1,0 +1,95 @@
+SOURCE_URL: https://www.ku.de/en/study-offer/data-science-msc
+TITLE: Master Data Science Programme Information
+SOURCE_FILE: master_ds_info.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: programme_info
+name: Master Data Science Overview
+programme: data_science_master
+---
+The Master of Science (M.Sc.) Data Science at KU Eichstätt-Ingolstadt is a new English-language programme that started in the winter semester 2025/26. It provides in-depth knowledge of modern methods of data analysis and machine learning, combining theoretical principles with practical applications. The programme focuses on four areas: data analytics and operations research, weather and climate research, the mathematical foundations of data science, and the interface between data-based and model-based modeling. Through this interdisciplinary orientation, students gain both methodological expertise and the ability to solve complex data problems in scientific and industrial contexts.
+
+===CHUNK===
+type: programme_info
+name: Master Data Science Key Facts
+programme: data_science_master
+---
+The Master Data Science at KU leads to a Master of Science degree. It has a standard length of 4 semesters and is taught entirely in English. The programme starts in the winter semester and is based in Ingolstadt. It is a full-time programme (part-time study is not possible). The semester fee is 88 Euro. Students must acquire 120 ECTS credits in total, with 30 ECTS per semester.
+
+===CHUNK===
+type: structure
+name: Master Data Science Core Required Modules
+programme: data_science_master
+---
+The core of the Master Data Science at KU is a solid basic training in mathematics, statistics, and the fundamental methods of data science and machine learning, requiring at least 35 ECTS in this area. The module "Mathematics for Data Science" (10 ECTS, required, first semester) lays the mathematical foundation, creating a uniform language for analysis and linear algebra and building a bridge toward functional analysis and operator theory. "Principles of Data Science" and "Principles of Machine Learning" (10 ECTS, required) are offered alternately in the summer semester on a two-year cycle; students take one as a required module in their second semester and may take the other as an elective in their fourth semester. Students also take 1-2 modules (5-10 ECTS) in the Statistics required elective area and 1-2 modules (5-10 ECTS) in the Mathematics (applied mathematics) required elective area, with modules rotating year to year.
+
+===CHUNK===
+type: structure
+name: Master Data Science Programming and Database Modules
+programme: data_science_master
+---
+The Master Data Science at KU includes at least 10 ECTS in information technology fundamentals. The module "Advanced Programming" (5 ECTS, required elective) aims for students to implement mathematical algorithms in Python confidently and performantly from the start of their Master's studies; students who already have these skills can take an additional elective module instead. The module "Database Management" (5 ECTS, required) teaches the structured handling of data, including database types, modeling and definition of database schemes, data manipulation and querying, data engineering, and transaction management, with particular regard to large or distributed databases for analytical tasks.
+
+===CHUNK===
+type: structure
+name: Master Data Science Application Area Modules
+programme: data_science_master
+---
+The Master Data Science at KU requires 20 ECTS from a practical application area, typically taken in the first year. This includes the module "Operations Research" (5 ECTS, required), where linear and integer optimization is motivated and discussed from the perspective of specific applications, and the "Applied Data Science Project" (10 ECTS, required), in which students work in teams on a problem from an application area, typically together with a partner company from industry, though interdisciplinary projects with scientific partners are also possible. A required elective module in "Ethics and Law" (5 ECTS) addresses the ethical and legal issues arising in the collection and analysis of data.
+
+===CHUNK===
+type: structure
+name: Master Data Science Elective Area and Studium.Pro
+programme: data_science_master
+---
+The Master Data Science at KU includes a free elective area of 20 ECTS, chosen from modules connected to Data Science. These electives can be drawn from several programmes at KU, including the Interdisciplinary Master's in Mathematics (all modules creditable), the Master's in Business Analytics and Operations Research, the Bachelor's in Mathematics (selected specialization modules), and the Bachelor's in Data Science (selected basic and specialization modules). Students are also required to take one Studium.Pro module from the university-wide interdisciplinary offer, approaching socially relevant issues in an interdisciplinary context.
+
+===CHUNK===
+type: admission
+name: Master Data Science Admission Requirements
+programme: data_science_master
+---
+Admission to the Master Data Science at KU requires a Bachelor's degree in Data Science, Mathematics, Statistics, Computer Science, or Physics, or a very closely related field, formally equivalent to a German academic Bachelor's degree. There is no admission restriction (no numerus clausus), but there is a selection procedure. If a relevant Bachelor's degree was obtained in the European region (Lisbon Convention) with an overall grade of 2.0 or better in the German system, the otherwise required aptitude test is waived. Applicants who obtained their qualification outside the Lisbon Convention countries must take a mandatory aptitude test, which only takes place before the winter semester. Applicants who achieve an aptitude test grade equivalent to a German 2.0 or better are admitted. English language skills at B2 level are required (for example TOEFL 78 or IELTS 6.0 or better, or a prior degree taught in English).
+
+===CHUNK===
+type: admission
+name: Master Data Science Required Bachelor Modules
+programme: data_science_master
+---
+Applicants to the Master Data Science at KU must have completed the following modules during their Bachelor's degree: Analysis I and II for Data Science, Linear Algebra I and II, Introductory Statistics and Stochastics, Optimization for Data Science (an introductory optimization course), an introductory programming course (preferably Python basics), and Algorithms and Data Structures. These skills can be acquired during the first two semesters of the Master's programme, during which enrollment is provisional; if proof is not provided by the end of the second semester, the student is de-registered. The university does not offer an orientation year.
+
+===CHUNK===
+type: admission
+name: Master Data Science Application Periods and Process
+programme: data_science_master
+---
+For the Master Data Science at KU, the application period for the winter semester is May 1 to July 15, and for the summer semester December 1 to January 15. All Data Science applicants can apply for the winter semester regardless of their country of study. Only applicants whose first degree was obtained in a Lisbon Convention country with a German grade of 2.0 or better can apply for the summer semester. Applicants who obtained their qualifying degree outside the European Union must apply through uni-assist (uni-assist.de). All other applicants apply directly through the KU application portal. The application process is fully digital; certified copies are only required upon admission at enrollment. For questions, applicants can contact welcome@ku.de.
+
+===CHUNK===
+type: admission
+name: Master Data Science Grading System Note
+programme: data_science_master
+---
+In the German grading system used for the Master Data Science at KU, 1.0 is the best grade and 4.0 is the minimum passing grade. Applicants with international qualifications can use the anabin database (anabin.de) to self-assess whether their Bachelor's degree is considered equivalent to a German degree. A grade conversion tool based on the modified Bavarian formula is available, though international grading systems vary and any conversion serves only as a first guideline and is not legally binding. Applicants who previously studied in China, India, or Vietnam additionally require an APS certificate.
+
+===CHUNK===
+type: programme_info
+name: Master Data Science Internationalization and Study Abroad
+programme: data_science_master
+---
+The Master Data Science at KU has a consistent international focus and is taught primarily in English, creating a diverse, intercultural environment and ideal conditions for a career in globally active companies. Students have the opportunity to spend a semester abroad in the third semester. The KU maintains partnerships with more than 300 universities worldwide, across North America, Asia, Australia, South America, and Europe, and the KU International Office supports the planning and organization of stays abroad.
+
+===CHUNK===
+type: contact
+name: Master Data Science Contact Persons
+programme: data_science_master
+---
+For questions about the Master Data Science degree programme at KU, the contact persons are Prof. Dr. Götz Pfander (Chair Mathematics - Scientific Computing and Speaker of MIDS, pfander@ku.de), Prof. Dr. Marcel Oliver (Chair of Applied Mathematics, marcel.oliver@ku.de), and Prof. Dr. Nadja Ray (Chair of Geomatics and Geomathematics, nadja.ray@ku.de). General application questions can be directed to welcome@ku.de.
+
+===CHUNK===
+type: contact
+name: Data Science Course Advisory Service
+programme: general
+---
+The Data Science programme at KU offers a course advisory service for questions about course content and structure. Students can attend on-site consultation hours in room HB-209 with Ms. Armelle Langenwald, and open office hours with Dr. Sarah Eberle-Blick. Up-to-date consultation times and online meeting details are published on the KU Data Science advising page.

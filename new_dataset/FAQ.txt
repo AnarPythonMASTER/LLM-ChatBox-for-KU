@@ -1,0 +1,164 @@
+SOURCE_URL: https://ku.de
+TITLE: Data Science Bachelor programs FAQ
+SOURCE_FILE: FAQ.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: faq
+name: Campus Location of Data Science Programme
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt is based at the Ingolstadt campus, where all courses are taught. The institute is located in the renovated Georgianum building. The programme is not based in Eichstätt.
+
+===CHUNK===
+type: faq
+name: Recommended Arrival Time for New Students
+programme: data_science_bachelor
+---
+Students in the Data Science Bachelor programme are recommended to arrive in Ingolstadt around the beginning of October. This allows time to settle in and participate in a preparatory course before regular lectures begin in mid-October.
+
+===CHUNK===
+type: faq
+name: Visa Delays and Enrollment Deadline
+programme: data_science_bachelor
+---
+International students in the Data Science Bachelor programme may receive their visa later due to administrative processing times. KU issues admission letters as quickly as possible and sets enrollment deadlines as late as possible, usually just a few days before lectures begin. All required documents, including the visa, must be submitted to the Student Office by the enrollment deadline stated in the admission letter.
+
+===CHUNK===
+type: faq
+name: Expected Study Workload and Self-Study
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme requires substantial independent study in addition to lectures. For example, the Linear Algebra course includes approximately 6 contact hours and 5 hours of self-study per week. The overall workload is comparable to other German universities, and studying Data Science at KU is considered a full-time commitment.
+
+===CHUNK===
+type: faq
+name: Required Prior Mathematics Knowledge
+programme: data_science_bachelor
+---
+Prior mathematics knowledge is helpful but not required for the Data Science Bachelor programme. Topics such as linear algebra and analysis may be challenging at first, but introductory support is provided. A preparatory course before the semester covers basic mathematical foundations. First-semester mathematics courses are designed so that all topics are introduced from the ground up.
+
+===CHUNK===
+type: faq
+name: Programme Duration and Completion Time
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt is designed to be completed within three years. The structure of the programme supports timely graduation within this standard study period.
+
+===CHUNK===
+type: faq
+name: Timetables, Module Handbook and Examination Regulations
+programme: data_science_bachelor
+---
+Students in the Data Science Bachelor programme can access current timetables via the KU website under the programme’s document section. The module handbook is available via KU.Campus by selecting the degree programme and semester in the information portal. Examination regulations are published under the “Key documents” section on the official programme webpage.
+
+===CHUNK===
+type: faq
+name: Free German Language Courses for Students
+programme: data_science_bachelor
+---
+The university offers free German language courses to support students in achieving at least A2-level German proficiency, which must be demonstrated after one year of study. These courses are regularly offered and are often scheduled to fit into the student timetable, such as on weekday mornings.
+
+===CHUNK===
+type: faq
+name: Online or Hybrid Study Format
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme is primarily an on-campus degree. Some courses provide online materials or recorded lectures for independent study, but in-person participation is strongly recommended. All examinations must be taken in person at the university.
+
+===CHUNK===
+type: faq
+name: Selection and Change of Major (Specialization)
+programme: data_science_bachelor
+---
+Students in the Data Science Bachelor programme must choose a specialization (major) by the end of the second semester. From the third semester onward, students follow courses aligned with their chosen major. It is possible to change the specialization later.
+
+===CHUNK===
+type: faq
+name: Semester Abroad Opportunities
+programme: data_science_bachelor
+---
+Students in the Data Science Bachelor programme are encouraged to complete a semester abroad, typically in the fifth semester. The university supports students in planning and organizing study stays abroad through its international office.
+
+===CHUNK===
+type: faq
+name: Teaching Language and English Instruction
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme is taught in English, with lectures and examinations primarily conducted in English. Some examinations may be offered in German upon request. Professors can also explain content in German outside lectures. English is considered an important academic and industry skill, and additional language support courses are available.
+
+The following lecture videos are provided as examples of English-taught content:
+
+Prof. Götz Pfänder: Linear Algebra 1 (systems of linear equations)
+Prof. Götz Pfänder: Linear Algebra 1 (ring theory)
+Prof. Nadja Ray: Analysis 1 (sequences)
+
+===CHUNK===
+type: faq
+name: KU Status, Funding, and Degree Recognition
+programme: data_science_bachelor
+---
+KU Eichstätt-Ingolstadt is approximately 85% funded by the Free State of Bavaria and operates under Bavarian university regulations. Although it is considered a private university, its degrees are equivalent to those of other Bavarian universities and are internationally recognized. The Data Science Bachelor programme is internationally accredited and tuition-free.
+
+===CHUNK===
+type: faq
+name: Arrival Process and Orientation in Ingolstadt
+programme: data_science_bachelor
+---
+Before arriving in Ingolstadt, students should arrange accommodation in advance. The KU International Office provides support and can be contacted for practical information. A student body is available to help new students during their first days on campus. A preparatory course is also offered before the start of lectures to help students integrate and meet peers.
+
+===CHUNK===
+type: faq
+name: Student Accommodation Support and Housing Information
+programme: data_science_bachelor
+---
+The KU International Office supports students in finding accommodation and offers an accommodation service. The university does not automatically provide housing, so students are advised to search early. Additional information is available in the KU housing guide PDF: https://www.ku.de/fileadmin/1907/Dokumente_Incoming/Download_Incoming/Housing_Guide_New.pdf. Contact emails include international@ku.de and welcome@ku.de.
+
+===CHUNK===
+type: faq
+name: Sports Facilities and University Sports
+programme: data_science_bachelor
+---
+Students in the Data Science Bachelor programme can participate in university sports activities. Most sports facilities are located in Eichstätt, including the gym. Swimming pools and external gyms in Ingolstadt often offer discounted student prices. The university is currently expanding free sports offerings in Ingolstadt.
+
+===CHUNK===
+type: faq
+name: Cost of Living and Monthly Expenses
+programme: data_science_bachelor
+---
+Students in the Data Science Bachelor programme should expect standard monthly living costs in Ingolstadt, including accommodation and daily expenses. The International Office provides general guidance on costs and can be contacted for more detailed information.
+
+===CHUNK===
+type: faq
+name: English Use in Ingolstadt City Life
+programme: data_science_bachelor
+---
+Ingolstadt has an international environment with many English-speaking residents, including employees of major companies such as Audi. The city has a cosmopolitan atmosphere due to international businesses and commuter connections to Munich.
+
+===CHUNK===
+type: faq
+name: Career Prospects and Industry Connections
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme offers strong career prospects due to high demand in the field. The KU Career Center provides support with internships, job applications, and career workshops. The university maintains connections with companies such as Audi, Continental, and Airbus, which offer internship opportunities.
+
+===CHUNK===
+type: faq
+name: Free German Language Courses and Language Centre
+programme: data_science_bachelor
+---
+Students in the Data Science Bachelor programme can participate in free German language courses offered by the KU Language Centre. These courses support language learning throughout the degree programme and are available to enrolled students.
+
+===CHUNK===
+type: structure
+name: Mathematical Institute for Machine Learning and Data Science (MIDS)
+programme: data_science_bachelor
+---
+The Data Science Bachelor and Master programmes at KU Eichstätt-Ingolstadt are coordinated by the Mathematical Institute for Machine Learning and Data Science (MIDS), founded in 2022. MIDS develops and teaches the scientific foundations for responsible use of data science and digitalization. It serves as the academic structure responsible for organizing and advancing the Data Science programmes.
+
+===CHUNK===
+type: faq
+name: Arrival Process and Student Support in Ingolstadt
+programme: data_science_bachelor
+---
+New students arriving for the Data Science Bachelor programme at KU Eichstätt-Ingolstadt typically travel by train to Ingolstadt after arriving in Germany. The student union (Fachschaft) supports incoming students with settling in during the first days. Students are advised to contact the International Office at welcome@ku.de for additional guidance. A preparatory course is offered before the start of lectures to help students integrate and meet peers.

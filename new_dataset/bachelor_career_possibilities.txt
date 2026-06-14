@@ -1,0 +1,60 @@
+SOURCE_URL: https://ku.de
+TITLE: Data Science Bachelor career opportunities, career paths
+SOURCE_FILE: bachelor_career_possibilities.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: programme_info
+name: Data Science Bachelor Programme Overview
+programme: data_science_bachelor
+---
+The Data Science Bachelor programme at KU Eichstätt-Ingolstadt prepares students for the growing importance of data science in the artificial intelligence revolution, where industries and environments are increasingly shaped by networked information systems and large-scale data collection. While modern hardware enables the generation of massive datasets, the development of methods and algorithms to extract meaningful patterns and insights is still emerging. The programme trains data scientists with strong analytical and technical implementation skills, combined with awareness of ethical responsibilities such as fairness, impartiality, and objectivity in algorithmic decision-making and the handling of sensitive data.
+
+===CHUNK===
+type: structure
+name: General Career Opportunities in Data Science
+programme: data_science_bachelor
+---
+Graduates of the Data Science Bachelor programme at KU Eichstätt-Ingolstadt can pursue careers in managerial and technical roles in data science and information technology across national and international companies and organizations. Additional occupational fields include cross-functional roles in machine learning, data analysis, forecasting, consulting in these areas, and academic careers in mathematics, statistics, and data science.
+
+===CHUNK===
+type: structure
+name: Career Paths in Applied Mathematics and Scientific Computing
+programme: data_science_bachelor
+---
+Graduates specializing in Applied Mathematics and Scientific Computing in the Data Science Bachelor programme at KU Eichstätt-Ingolstadt can work in research and development within technical industries, develop algorithms and software for companies and organizations, pursue research and teaching positions in educational institutions such as schools and universities, or work as data science consultants.
+
+===CHUNK===
+type: structure
+name: Career Paths in Machine Learning and Statistics
+programme: data_science_bachelor
+---
+Graduates specializing in Machine Learning and Statistics in the Data Science Bachelor programme at KU Eichstätt-Ingolstadt can work as experts in data collection, analysis, interpretation, and forecasting. Typical roles include analysts or risk assessment specialists in financial departments of companies, public institutions, ministries, and international organizations.
+
+===CHUNK===
+type: structure
+name: Career Paths in Environmental Science
+programme: data_science_bachelor
+---
+Graduates specializing in Environmental Science within the Data Science Bachelor programme at KU Eichstätt-Ingolstadt can work in research institutes such as the German Aerospace Center and the Alfred Wegener Institute for Polar and Marine Research. Additional career options include roles in scientific agencies such as the German Weather Service and the Federal Maritime and Hydrological Agency, as well as advisory positions for governments and NGOs including environmental ministries and organizations like Greenpeace.
+
+===CHUNK===
+type: structure
+name: Career Paths in Business Analytics and Operations
+programme: data_science_bachelor
+---
+Graduates specializing in Business Analytics and Operations in the Data Science Bachelor programme at KU Eichstätt-Ingolstadt can work as consultants for strategic planning and corporate development, particularly in digital transformation processes. Additional roles include supply chain management focused on data-driven optimization of procurement, production, distribution, and logistics, as well as process architecture for designing and coordinating internal and cross-company flows of goods and information.
+
+===CHUNK===
+type: structure
+name: Career Paths in Finance and Economics
+programme: data_science_bachelor
+---
+Graduates specializing in Finance and Economics in the Data Science Bachelor programme at KU Eichstätt-Ingolstadt can work as financial advisors and analysts in corporate finance departments or public sector organizations, as well as in managerial roles in politics, business, and public administration.
+
+===CHUNK===
+type: structure
+name: Career Paths in Digital Transformation of Society
+programme: data_science_bachelor
+---
+Graduates specializing in Digital Transformation of Society in the Data Science Bachelor programme at KU Eichstätt-Ingolstadt can work as data analysts in market and opinion research, statisticians or data analysts in media companies, and consultants for political parties, organizations, and associations.

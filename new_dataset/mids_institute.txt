@@ -1,0 +1,53 @@
+SOURCE_URL: https://www.ku.de/en/mids
+TITLE: MIDS Institute Information
+SOURCE_FILE: mids_institute.txt
+------------------------------------------------------------
+
+===CHUNK===
+type: programme_info
+name: About the MIDS Institute
+programme: mids
+---
+The Mathematical Institute for Machine Learning and Data Science (MIDS) at KU Eichstätt-Ingolstadt opened in early 2022 in Ingolstadt. It is a central building block in establishing a focus on digitalization at KU. The institute creates scientific foundations — and teaches them in degree programmes — that help exploit the potential of digitalization. Its research includes developing the mathematical foundations needed to establish success guarantees for machine learning algorithms, which enable the use of powerful machine learning techniques in medical and safety-critical applications. Another key goal is to exploit the potential of digitalization locally within individual data spheres, avoiding the processing of sensitive data on central mainframes or in the cloud where security could be compromised.
+
+===CHUNK===
+type: programme_info
+name: MIDS and the Data Science Degree Programmes
+programme: mids
+---
+The Mathematical Institute for Machine Learning and Data Science (MIDS) at KU runs the Data Science degree programmes. Since the winter semester 2022/2023, MIDS offers the Bachelor Data Science programme, taught in Ingolstadt. The new English-language Master Data Science programme started at KU in the winter semester 2025/2026. MIDS comprises seven professorships covering a diverse range of topics in machine learning, data science, and mathematics.
+
+===CHUNK===
+type: contact
+name: MIDS Management and Leadership
+programme: mids
+---
+The Mathematical Institute for Machine Learning and Data Science (MIDS) at KU is led by Prof. Dr. Götz Pfander, Holder of the Chair Mathematics - Scientific Computing and Speaker of the institute. Prof. Dr. Felix Voigtlaender, Holder of the Chair for Reliable Machine Learning, serves as Vice-Speaker. Dr. Jörg Steinwagner is the Scientific Director of MIDS; he joined on 1 May 2026, holds a PhD in meteorology, and has extensive experience in data-driven methods, satellite-based remote sensing, and numerical modeling. He also supports Prof. Janjic's research group.
+
+===CHUNK===
+type: contact
+name: MIDS Address and Location
+programme: mids
+---
+The Mathematical Institute for Machine Learning and Data Science (MIDS) at KU has its mailing address at Katholische Universität Eichstätt-Ingolstadt, MIDS, Auf der Schanz 49, 85049 Ingolstadt. The visiting address is Hohe-Schul-Straße 5, 85049 Ingolstadt, with the secretariat located on the first floor, room 103. The institute is part of the Faculty of Mathematics and Geography, in the Mathematics department.
+
+===CHUNK===
+type: programme_info
+name: MIDS Seminar
+programme: mids
+---
+The MIDS Seminar is a weekly scientific seminar at the Mathematical Institute for Machine Learning and Data Science at KU. It takes place on Wednesdays at 10:30 am in room Georgianum-101 in Ingolstadt. The seminar invites researchers to present talks on machine learning, data science, mathematics, signal processing, data assimilation, and related topics, providing a forum for scientific exchange. Speakers and topics are published on the institute's seminar page in advance. The seminar contact person is Dr. Felix Bartel.
+
+===CHUNK===
+type: faq
+name: MIDS Job and Career Opportunities
+programme: mids
+---
+The Mathematical Institute for Machine Learning and Data Science (MIDS) at KU offers a range of job opportunities across its seven professorships, including positions for student assistants, PhD students, and research assistants. Open positions vary over time and typically include PhD positions in the research groups, for example in the Reliable Machine Learning group led by Prof. Felix Voigtlaender. PhD positions usually require a Master's degree in mathematics or a related field and follow the TV-L collective agreement pay scale. Current vacancies and application details are published on the MIDS jobs page.
+
+===CHUNK===
+type: programme_info
+name: MIDS Student Achievements and Activities
+programme: mids
+---
+Students of the Data Science programme at KU's Mathematical Institute for Machine Learning and Data Science (MIDS) regularly take part in competitions and receive awards and scholarships. For example, MIDS Data Science students won the Best Data Storyteller Award at the Data4Good Festival hackathon at the Hertie School in Berlin, where they built a tool using a religion-monitoring dataset to make religious diversity easier to understand. The "Förderverein Georgianum" has also approved funding for a "Deutschlandstipendium" scholarship for new Data Science students. These activities reflect the institute's active student community and emphasis on applied, real-world data science.
